@@ -1,7 +1,9 @@
+import Link from "next/link";
 import { redirect } from "next/navigation";
 import { getSession } from "@/lib/session";
 import SignOutButton from "@/components/SignOutButton";
 import ThemeToggle from "@/components/ThemeToggle";
+import { t } from "@/i18n";
 
 export default async function DashboardPage() {
   const session = await getSession();
@@ -16,9 +18,9 @@ export default async function DashboardPage() {
     <div className="min-h-screen">
       <header className="nav-bar">
         <div className="container-app flex h-16 items-center justify-between">
-          <span className="font-heading text-xl font-extrabold text-gradient-hero">
-            HSK Online
-          </span>
+          <Link href="/" className="font-heading text-xl font-extrabold text-gradient-hero">
+            {t.app.name}
+          </Link>
           <div className="flex items-center gap-3">
             <ThemeToggle />
             <SignOutButton />
@@ -29,17 +31,17 @@ export default async function DashboardPage() {
       <main className="container-app py-16">
         <div className="card-elevated mx-auto max-w-xl p-8">
           <h1 className="font-heading mb-2 text-2xl font-extrabold">
-            Welcome, {user.name || user.email} 👋
+            {t.dashboard.welcome}, {user.name || user.email} 👋
           </h1>
-          <p className="mb-4 text-foreground/70">
-            You are signed in. This is a placeholder dashboard for Phase 0.
-          </p>
+          <p className="mb-4 text-foreground/70">{t.dashboard.placeholder}</p>
           <div className="flex flex-wrap gap-2 text-sm">
-            <span className="badge badge-primary">Email: {user.email}</span>
+            <span className="badge badge-primary">
+              {t.dashboard.emailLabel}: {user.email}
+            </span>
             <span
               className={`badge ${role === "teacher" ? "badge-secondary" : "badge-info"}`}
             >
-              Role: {role}
+              {t.dashboard.roleLabel}: {role}
             </span>
           </div>
         </div>
