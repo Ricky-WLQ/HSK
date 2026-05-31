@@ -34,8 +34,9 @@ model User {
   createdAt DateTime @default(now())
   updatedAt DateTime @updatedAt
 
-  sessions Session[]
-  accounts Account[]
+  sessions      Session[]
+  accounts      Account[]
+  vocabProgress VocabProgress[]
 
   @@map("user")
 }
@@ -88,4 +89,25 @@ model Verification {
 
   @@index([identifier])
   @@map("verification")
+}
+
+// ===== App models =====
+
+// Per-user vocabulary mastery (spaced-repetition style; 0-5 scale).
+model VocabProgress {
+  id           String    @id @default(cuid())
+  userId       String
+  user         User      @relation(fields: [userId], references: [id], onDelete: Cascade)
+  level        String // HSK level: "1".."6","7-9"
+  wordId       String // vocab word id, e.g. "hsk1-0001"
+  hanzi        String
+  mastery      Int       @default(0) // 0-5 (4+ = mastered)
+  reviewCount  Int       @default(0)
+  correctCount Int       @default(0)
+  lastReviewed DateTime?
+  createdAt    DateTime  @default(now())
+  updatedAt    DateTime  @updatedAt
+
+  @@unique([userId, wordId])
+  @@index([userId, level])
 }

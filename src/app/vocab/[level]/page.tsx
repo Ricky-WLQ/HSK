@@ -32,12 +32,20 @@ export default async function VocabLevelPage({
               {levelBand(level)} · {words.length.toLocaleString()} {t.vocab.words}
             </p>
           </div>
-          <Link
-            href={`/vocab/${level}/flashcards`}
-            className="btn-solid btn-solid-primary"
-          >
-            {t.vocab.flashcards}
-          </Link>
+          <div className="flex gap-2">
+            <Link
+              href={`/vocab/${level}/quiz`}
+              className="btn-solid btn-solid-secondary"
+            >
+              {t.vocab.quiz}
+            </Link>
+            <Link
+              href={`/vocab/${level}/flashcards`}
+              className="btn-solid btn-solid-primary"
+            >
+              {t.vocab.flashcards}
+            </Link>
+          </div>
         </div>
         <VocabBrowser words={words} />
       </main>

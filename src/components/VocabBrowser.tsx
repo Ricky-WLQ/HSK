@@ -1,7 +1,7 @@
 "use client";
 
-import { useMemo, useState } from "react";
-import { Volume2 } from "lucide-react";
+import { useEffect, useMemo, useState } from "react";
+import { Volume2, Check } from "lucide-react";
 import { t } from "@/i18n";
 import type { VocabWord } from "@/lib/vocab";
 
@@ -12,6 +12,16 @@ export default function VocabBrowser({ words }: { words: VocabWord[] }) {
   const [showPinyin, setShowPinyin] = useState(true);
   const [showDef, setShowDef] = useState(true);
   const [limit, setLimit] = useState(PAGE);
+  const [mastery, setMastery] = useState<Record<string, number>>({});
+
+  const level = words[0]?.level;
+  useEffect(() => {
+    if (!level) return;
+    fetch(`/api/vocab/progress?level=${encodeURIComponent(level)}`)
+      .then((r) => (r.ok ? r.json() : { progress: {} }))
+      .then((d) => setMastery(d.progress ?? {}))
+      .catch(() => {});
+  }, [level]);
 
   const filtered = useMemo(() => {
     const s = q.trim().toLowerCase();
@@ -58,7 +68,13 @@ export default function VocabBrowser({ words }: { words: VocabWord[] }) {
       ) : (
         <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
           {shown.map((w) => (
-            <WordCard key={w.id} w={w} showPinyin={showPinyin} showDef={showDef} />
+            <WordCard
+              key={w.id}
+              w={w}
+              showPinyin={showPinyin}
+              showDef={showDef}
+              mastered={(mastery[w.id] ?? 0) >= 4}
+            />
           ))}
         </div>
       )}
@@ -81,13 +97,23 @@ function WordCard({
   w,
   showPinyin,
   showDef,
+  mastered,
 }: {
   w: VocabWord;
   showPinyin: boolean;
   showDef: boolean;
+  mastered: boolean;
 }) {
   return (
-    <div className="card-flat p-4">
+    <div className="card-flat relative p-4">
+      {mastered && (
+        <span
+          className="badge badge-success absolute right-2 top-2 gap-1"
+          title={t.vocab.mastered}
+        >
+          <Check className="h-3 w-3" /> {t.vocab.mastered}
+        </span>
+      )}
       <div className="flex items-start justify-between gap-2">
         <div className="min-w-0">
           <div className="font-heading text-2xl font-bold leading-tight">{w.hanzi}</div>
@@ -123,7 +149,7 @@ function PlayButton({ text }: { text: string }) {
       audio.onended = () => URL.revokeObjectURL(url);
       await audio.play();
     } catch {
-      // ignore playback errors
+      /* ignore */
     } finally {
       setLoading(false);
     }

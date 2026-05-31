@@ -76,6 +76,15 @@ export const messages = {
     prev: "Prev",
     next: "Next",
     hint: "Space = reveal · ← → = navigate · R = replay",
+    quiz: "Quiz",
+    quizPrompt: "Which character means:",
+    correct: "Correct!",
+    wrong: "Not quite",
+    score: "Score",
+    quizComplete: "Quiz complete!",
+    restart: "Restart",
+    mastered: "Mastered",
+    noQuizYet: "Definitions for this level are still being prepared — quiz coming soon.",
   },
 } as const;
 
