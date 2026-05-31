@@ -1,9 +1,10 @@
 "use client";
 
-import { useState, useMemo, useCallback } from "react";
+import { useState, useMemo } from "react";
 import Link from "next/link";
 import { Volume2 } from "lucide-react";
 import { t } from "@/i18n";
+import { useAudioPlayer } from "@/lib/useAudioPlayer";
 import type { VocabWord } from "@/lib/vocab";
 
 function shuffle<T>(arr: T[]): T[] {
@@ -37,20 +38,7 @@ export default function VocabQuiz({
   const [qi, setQi] = useState(0);
   const [selected, setSelected] = useState<string | null>(null);
   const [score, setScore] = useState(0);
-
-  const play = useCallback(async (text: string) => {
-    try {
-      const r = await fetch(`/api/tts?text=${encodeURIComponent(text)}`);
-      if (!r.ok) return;
-      const b = await r.blob();
-      const u = URL.createObjectURL(b);
-      const a = new Audio(u);
-      a.onended = () => URL.revokeObjectURL(u);
-      await a.play();
-    } catch {
-      /* ignore */
-    }
-  }, []);
+  const { play } = useAudioPlayer();
 
   const q = questions[qi];
   const answered = selected !== null;
@@ -60,7 +48,7 @@ export default function VocabQuiz({
     setSelected(optId);
     const correct = optId === q.word.id;
     if (correct) setScore((s) => s + 1);
-    play(q.word.hanzi);
+    void play(q.word.hanzi);
     try {
       await fetch("/api/vocab/progress", {
         method: "POST",
@@ -113,7 +101,7 @@ export default function VocabQuiz({
         <p className="text-sm text-foreground/60">{t.vocab.quizPrompt}</p>
         <p className="mt-1 text-xl font-semibold">{q.word.definition}</p>
 
-        <div className="mt-5 grid grid-cols-2 gap-3">
+        <div className="mt-5 grid grid-cols-2 gap-3" role="group" aria-label={t.vocab.quizPrompt}>
           {q.options.map((opt) => {
             const isCorrect = opt.id === q.word.id;
             const cls = !answered
@@ -137,7 +125,7 @@ export default function VocabQuiz({
         </div>
 
         {answered ? (
-          <div className="mt-4 text-center">
+          <div className="mt-4 text-center" aria-live="polite">
             <p
               className={
                 selected === q.word.id
@@ -162,7 +150,7 @@ export default function VocabQuiz({
           </div>
         ) : (
           <button
-            onClick={() => play(q.word.hanzi)}
+            onClick={() => void play(q.word.hanzi)}
             className="btn-ghost mx-auto mt-4"
           >
             <Volume2 className="h-4 w-4" /> {t.vocab.play}

@@ -23,7 +23,7 @@ const geistMono = Geist_Mono({
 export const viewport: Viewport = {
   width: "device-width",
   initialScale: 1,
-  maximumScale: 1,
+  // No maximumScale: blocking pinch-zoom fails WCAG 1.4.4 and hurts a CJK app.
   viewportFit: "cover",
 };
 

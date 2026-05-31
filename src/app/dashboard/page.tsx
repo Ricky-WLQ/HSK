@@ -12,7 +12,7 @@ export default async function DashboardPage() {
   }
 
   const { user } = session;
-  const role = (user as { role?: string }).role ?? "student";
+  const role = user.role ?? "student";
 
   return (
     <div className="min-h-screen">

@@ -2,6 +2,7 @@ import { notFound } from "next/navigation";
 import SiteHeader from "@/components/SiteHeader";
 import Flashcards from "@/components/Flashcards";
 import { getVocabLevel, isHskLevel } from "@/lib/vocab";
+import { requireSession } from "@/lib/session";
 import { t } from "@/i18n";
 
 export const dynamic = "force-dynamic";
@@ -11,6 +12,7 @@ export default async function FlashcardsPage({
 }: {
   params: Promise<{ level: string }>;
 }) {
+  await requireSession();
   const { level } = await params;
   if (!isHskLevel(level)) notFound();
   const words = await getVocabLevel(level);

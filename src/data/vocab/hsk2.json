@@ -4,12 +4,8 @@
   "hanzi": "啊",
   "traditional": null,
   "level": "2",
-  "pinyin": "ā",
+  "pinyin": "a",
   "readings": [
-   "ā",
-   "á",
-   "ǎ",
-   "à",
    "a"
   ],
   "pos": [
@@ -73,9 +69,8 @@
   "hanzi": "班",
   "traditional": null,
   "level": "2",
-  "pinyin": "Bān",
+  "pinyin": "bān",
   "readings": [
-   "Bān",
    "bān"
   ],
   "pos": [
@@ -95,7 +90,7 @@
  {
   "id": "hsk2-0005",
   "hanzi": "帮",
-  "traditional": "幇",
+  "traditional": "幫",
   "level": "2",
   "pinyin": "bāng",
   "readings": [
@@ -141,9 +136,8 @@
   "hanzi": "包",
   "traditional": null,
   "level": "2",
-  "pinyin": "Bāo",
+  "pinyin": "bāo",
   "readings": [
-   "Bāo",
    "bāo"
   ],
   "pos": [
@@ -186,10 +180,8 @@
   "hanzi": "比",
   "traditional": null,
   "level": "2",
-  "pinyin": "Bǐ",
+  "pinyin": "bǐ",
   "readings": [
-   "Bǐ",
-   "bī",
    "bǐ"
   ],
   "pos": [
@@ -234,11 +226,9 @@
   "hanzi": "别",
   "traditional": "別",
   "level": "2",
-  "pinyin": "Bié",
+  "pinyin": "bié",
   "readings": [
-   "Bié",
-   "bié",
-   "biè"
+   "bié"
   ],
   "pos": [
    "d",
@@ -453,7 +443,7 @@
  {
   "id": "hsk2-0021",
   "hanzi": "词",
-  "traditional": "䛐",
+  "traditional": "詞",
   "level": "2",
   "pinyin": "cí",
   "readings": [
@@ -497,12 +487,11 @@
  {
   "id": "hsk2-0023",
   "hanzi": "从",
-  "traditional": null,
+  "traditional": "從",
   "level": "2",
   "pinyin": "cóng",
   "readings": [
-   "cóng",
-   "Cóng"
+   "cóng"
   ],
   "pos": [
    "p",
@@ -543,9 +532,8 @@
   "hanzi": "错",
   "traditional": "錯",
   "level": "2",
-  "pinyin": "Cuò",
+  "pinyin": "cuò",
   "readings": [
-   "Cuò",
    "cuò"
   ],
   "pos": [
@@ -566,9 +554,8 @@
   "hanzi": "打",
   "traditional": null,
   "level": "2",
-  "pinyin": "dá",
+  "pinyin": "dǎ",
   "readings": [
-   "dá",
    "dǎ"
   ],
   "pos": [
@@ -673,21 +660,21 @@
   "hanzi": "地",
   "traditional": null,
   "level": "2",
-  "pinyin": "de",
+  "pinyin": "dì",
   "readings": [
-   "de",
-   "dì"
+   "dì",
+   "de"
   ],
   "pos": [
    "u",
    "n"
   ],
-  "definition": "ground; structural particle for adverbs",
+  "definition": "Earth; ground; land; floor",
   "examples": [
    {
-    "hanzi": "地上有一本书。",
-    "pinyin": "Dì shàng yǒu yī běn shū.",
-    "english": "There is a book on the floor."
+    "hanzi": "地是圆的。",
+    "pinyin": "Dì shì yuán de.",
+    "english": "The earth is round."
    }
   ]
  },
@@ -850,9 +837,8 @@
   "hanzi": "高",
   "traditional": null,
   "level": "2",
-  "pinyin": "Gāo",
+  "pinyin": "gāo",
   "readings": [
-   "Gāo",
    "gāo"
   ],
   "pos": [
@@ -981,11 +967,9 @@
   "hanzi": "过",
   "traditional": "過",
   "level": "2",
-  "pinyin": "Guō",
+  "pinyin": "guò",
   "readings": [
-   "Guō",
-   "guò",
-   "guo"
+   "guò"
   ],
   "pos": [
    "u",
@@ -1180,9 +1164,8 @@
   "hanzi": "花",
   "traditional": null,
   "level": "2",
-  "pinyin": "Huā",
+  "pinyin": "huā",
   "readings": [
-   "Huā",
    "huā"
   ],
   "pos": [
@@ -1379,10 +1362,8 @@
   "hanzi": "教",
   "traditional": null,
   "level": "2",
-  "pinyin": "Jiào",
+  "pinyin": "jiào",
   "readings": [
-   "Jiào",
-   "jiāo",
    "jiào"
   ],
   "pos": [
@@ -1661,7 +1642,7 @@
  {
   "id": "hsk2-0076",
   "hanzi": "考",
-  "traditional": "攷",
+  "traditional": null,
   "level": "2",
   "pinyin": "kǎo",
   "readings": [
@@ -1727,7 +1708,7 @@
  {
   "id": "hsk2-0079",
   "hanzi": "裤子",
-  "traditional": "袴子",
+  "traditional": "褲子",
   "level": "2",
   "pinyin": "kù zi",
   "readings": [
@@ -1837,12 +1818,9 @@
   "hanzi": "累",
   "traditional": null,
   "level": "2",
-  "pinyin": "lěi",
+  "pinyin": "lèi",
   "readings": [
-   "lěi",
-   "lèi",
-   "Léi",
-   "léi"
+   "lèi"
   ],
   "pos": [
    "a",
@@ -1861,24 +1839,23 @@
  {
   "id": "hsk2-0085",
   "hanzi": "离",
-  "traditional": null,
+  "traditional": "離",
   "level": "2",
-  "pinyin": "chī",
+  "pinyin": "lí",
   "readings": [
-   "chī",
-   "Lí",
-   "lí"
+   "lí",
+   "chī"
   ],
   "pos": [
    "v",
    "p"
   ],
-  "definition": "to leave; from; away from",
+  "definition": "to leave, depart; be apart from; from (prep.)",
   "examples": [
    {
-    "hanzi": "他明天离北京。",
-    "pinyin": "Tā míngtiān lí Běijīng.",
-    "english": "He leaves Beijing tomorrow."
+    "hanzi": "离上课还有五分钟。",
+    "pinyin": "Lí shàngkè hái yǒu wǔ fēnzhōng.",
+    "english": "There are five minutes until class."
    }
   ]
  },
@@ -1908,9 +1885,8 @@
   "hanzi": "楼",
   "traditional": "樓",
   "level": "2",
-  "pinyin": "Lóu",
+  "pinyin": "lóu",
   "readings": [
-   "Lóu",
    "lóu"
   ],
   "pos": [
@@ -1930,9 +1906,8 @@
   "hanzi": "路",
   "traditional": null,
   "level": "2",
-  "pinyin": "Lù",
+  "pinyin": "lù",
   "readings": [
-   "Lù",
    "lù"
   ],
   "pos": [
@@ -2102,9 +2077,8 @@
   "hanzi": "门",
   "traditional": "門",
   "level": "2",
-  "pinyin": "Mén",
+  "pinyin": "mén",
   "readings": [
-   "Mén",
    "mén"
   ],
   "pos": [
@@ -2211,7 +2185,7 @@
  {
   "id": "hsk2-0101",
   "hanzi": "拿",
-  "traditional": "㧱",
+  "traditional": null,
   "level": "2",
   "pinyin": "ná",
   "readings": [
@@ -2338,20 +2312,20 @@
   "hanzi": "鸟",
   "traditional": "鳥",
   "level": "2",
-  "pinyin": "diǎo",
+  "pinyin": "niǎo",
   "readings": [
-   "diǎo",
-   "niǎo"
+   "niǎo",
+   "diǎo"
   ],
   "pos": [
    "n"
   ],
-  "definition": "bird",
+  "definition": "a warm-blooded egg-laying vertebrate distinguished by the possession of feathers, wings, and a beak",
   "examples": [
    {
-    "hanzi": "鸟在树上。",
-    "pinyin": "Diǎo zài shù shàng.",
-    "english": "The bird is on the tree."
+    "hanzi": "天上有一只鸟。",
+    "pinyin": "Tiānshàng yǒu yī zhī niǎo.",
+    "english": "There is a bird in the sky."
    }
   ]
  },
@@ -2400,9 +2374,8 @@
   "hanzi": "跑",
   "traditional": null,
   "level": "2",
-  "pinyin": "páo",
+  "pinyin": "pǎo",
   "readings": [
-   "páo",
    "pǎo"
   ],
   "pos": [
@@ -2489,8 +2462,7 @@
   "level": "2",
   "pinyin": "qǐ lai",
   "readings": [
-   "qǐ lai",
-   "qi lai"
+   "qǐ lai"
   ],
   "pos": [
    "v"
@@ -2760,12 +2732,11 @@
  {
   "id": "hsk2-0127",
   "hanzi": "时",
-  "traditional": "旹",
+  "traditional": "時",
   "level": "2",
   "pinyin": "shí",
   "readings": [
-   "shí",
-   "Shí"
+   "shí"
   ],
   "pos": [
    "g",
@@ -2997,9 +2968,8 @@
   "hanzi": "题",
   "traditional": "題",
   "level": "2",
-  "pinyin": "Tí",
+  "pinyin": "tí",
   "readings": [
-   "Tí",
    "tí"
   ],
   "pos": [
@@ -3149,24 +3119,23 @@
  {
   "id": "hsk2-0145",
   "hanzi": "万",
-  "traditional": null,
+  "traditional": "萬",
   "level": "2",
-  "pinyin": "mò",
+  "pinyin": "wàn",
   "readings": [
-   "mò",
-   "Wàn",
-   "wàn"
+   "wàn",
+   "mò"
   ],
   "pos": [
    "m",
    "t"
   ],
-  "definition": "ten thousand; a great number",
+  "definition": "the number 10,000; myriad; a great number",
   "examples": [
    {
-    "hanzi": "这棵树有一万片叶子",
-    "pinyin": "zhè kē shù yǒu yī wàn piàn yè zi",
-    "english": "This tree has ten thousand leaves."
+    "hanzi": "这本书值一万块钱。",
+    "pinyin": "Zhè běn shū zhí yī wàn kuài qián.",
+    "english": "This book is worth ten thousand yuan."
    }
   ]
  },
@@ -3449,7 +3418,7 @@
  {
   "id": "hsk2-0159",
   "hanzi": "笑",
-  "traditional": "咲",
+  "traditional": null,
   "level": "2",
   "pinyin": "xiào",
   "readings": [
@@ -3556,7 +3525,7 @@
  {
   "id": "hsk2-0164",
   "hanzi": "药",
-  "traditional": "葯",
+  "traditional": "藥",
   "level": "2",
   "pinyin": "yào",
   "readings": [
@@ -3730,9 +3699,8 @@
   "hanzi": "阴",
   "traditional": "陰",
   "level": "2",
-  "pinyin": "Yīn",
+  "pinyin": "yīn",
   "readings": [
-   "Yīn",
    "yīn"
   ],
   "pos": [
@@ -3753,11 +3721,10 @@
  {
   "id": "hsk2-0173",
   "hanzi": "游",
-  "traditional": null,
+  "traditional": "遊",
   "level": "2",
-  "pinyin": "Yóu",
+  "pinyin": "yóu",
   "readings": [
-   "Yóu",
    "yóu"
   ],
   "pos": [
@@ -3886,9 +3853,8 @@
   "hanzi": "鱼",
   "traditional": "魚",
   "level": "2",
-  "pinyin": "Yú",
+  "pinyin": "yú",
   "readings": [
-   "Yú",
    "yú"
   ],
   "pos": [
@@ -4065,11 +4031,11 @@
   "hanzi": "着",
   "traditional": "著",
   "level": "2",
-  "pinyin": "zhāo",
+  "pinyin": "zhe",
   "readings": [
+   "zhe",
    "zhāo",
    "zháo",
-   "zhe",
    "zhuó"
   ],
   "pos": [
@@ -4078,12 +4044,12 @@
    "n",
    "q"
   ],
-  "definition": "a move (in chess or strategy); to touch; to feel",
+  "definition": "used after a verb to indicate that the action is in progress or the state is continuing",
   "examples": [
    {
-    "hanzi": "这一着很好。",
-    "pinyin": "Zhè yī zhāo hěn hǎo.",
-    "english": "This move is very good."
+    "hanzi": "他看着电视。",
+    "pinyin": "Tā kànzhe diànshì.",
+    "english": "He is watching TV."
    }
   ]
  },
@@ -4092,9 +4058,8 @@
   "hanzi": "正",
   "traditional": null,
   "level": "2",
-  "pinyin": "zhēng",
+  "pinyin": "zhèng",
   "readings": [
-   "zhēng",
    "zhèng"
   ],
   "pos": [
@@ -4117,9 +4082,8 @@
   "hanzi": "周",
   "traditional": null,
   "level": "2",
-  "pinyin": "Zhōu",
+  "pinyin": "zhōu",
   "readings": [
-   "Zhōu",
    "zhōu"
   ],
   "pos": [
@@ -4249,7 +4213,7 @@
  {
   "id": "hsk2-0195",
   "hanzi": "最",
-  "traditional": "㝡",
+  "traditional": null,
   "level": "2",
   "pinyin": "zuì",
   "readings": [
@@ -4273,9 +4237,8 @@
   "hanzi": "左",
   "traditional": null,
   "level": "2",
-  "pinyin": "Zuǒ",
+  "pinyin": "zuǒ",
   "readings": [
-   "Zuǒ",
    "zuǒ"
   ],
   "pos": [

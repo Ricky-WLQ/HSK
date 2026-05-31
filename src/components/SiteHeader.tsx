@@ -13,7 +13,7 @@ export default async function SiteHeader() {
           {t.app.name}
         </Link>
         <nav className="flex items-center gap-3">
-          <Link href="/vocab" className="btn-ghost hidden sm:inline-flex">
+          <Link href="/vocab" className="btn-ghost">
             {t.vocab.title}
           </Link>
           <ThemeToggle />

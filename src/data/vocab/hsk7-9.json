@@ -4,22 +4,22 @@
   "hanzi": "呵",
   "traditional": null,
   "level": "7-9",
-  "pinyin": "ā",
+  "pinyin": "hē",
   "readings": [
-   "ā",
-   "hē"
+   "hē",
+   "ā"
   ],
   "pos": [
    "y",
    "e",
    "v"
   ],
-  "definition": "Ah! (interjection expressing surprise or admiration)",
+  "definition": "to breathe out; to scold; (laughter) ha",
   "examples": [
    {
-    "hanzi": "呵，你真行！",
-    "pinyin": "Ā, nǐ zhēn xíng!",
-    "english": "Ah, you're really something!"
+    "hanzi": "他呵了一口气。",
+    "pinyin": "Tā hē le yì kǒu qì.",
+    "english": "He breathed out a puff of air."
    }
   ]
  },
@@ -284,9 +284,8 @@
   "hanzi": "安定",
   "traditional": null,
   "level": "7-9",
-  "pinyin": "Ān dìng",
+  "pinyin": "ān dìng",
   "readings": [
-   "Ān dìng",
    "ān dìng"
   ],
   "pos": [
@@ -351,9 +350,8 @@
   "hanzi": "安宁",
   "traditional": "安寧",
   "level": "7-9",
-  "pinyin": "Ān níng",
+  "pinyin": "ān níng",
   "readings": [
-   "Ān níng",
    "ān níng"
   ],
   "pos": [
@@ -591,9 +589,8 @@
   "hanzi": "熬",
   "traditional": null,
   "level": "7-9",
-  "pinyin": "āo",
+  "pinyin": "áo",
   "readings": [
-   "āo",
    "áo"
   ],
   "pos": [
@@ -656,7 +653,7 @@
  {
   "id": "hsk7-9-0031",
   "hanzi": "奥秘",
-  "traditional": "奧祕",
+  "traditional": "奧秘",
   "level": "7-9",
   "pinyin": "ào mì",
   "readings": [
@@ -1338,7 +1335,7 @@
  {
   "id": "hsk7-9-0063",
   "hanzi": "颁布",
-  "traditional": "頒布",
+  "traditional": "頒佈",
   "level": "7-9",
   "pinyin": "bān bù",
   "readings": [
@@ -1893,7 +1890,7 @@
  {
   "id": "hsk7-9-0089",
   "hanzi": "包扎",
-  "traditional": null,
+  "traditional": "包紮",
   "level": "7-9",
   "pinyin": "bāo zā",
   "readings": [
@@ -2903,9 +2900,8 @@
   "hanzi": "奔驰",
   "traditional": "奔馳",
   "level": "7-9",
-  "pinyin": "Bēn chí",
+  "pinyin": "bēn chí",
   "readings": [
-   "Bēn chí",
    "bēn chí"
   ],
   "pos": [
@@ -3182,7 +3178,7 @@
  {
   "id": "hsk7-9-0149",
   "hanzi": "绷",
-  "traditional": "綳",
+  "traditional": "繃",
   "level": "7-9",
   "pinyin": "bēng",
   "readings": [
@@ -3933,21 +3929,20 @@
   "hanzi": "扁",
   "traditional": null,
   "level": "7-9",
-  "pinyin": "Piān",
+  "pinyin": "biǎn",
   "readings": [
-   "Piān",
    "biǎn",
-   "piān"
+   "Piān"
   ],
   "pos": [
    "a"
   ],
-  "definition": "small (boat)",
+  "definition": "having a flat, broad, and thin shape; not thick.",
   "examples": [
    {
-    "hanzi": "湖上有一叶扁舟。",
-    "pinyin": "Hú shàng yǒu yī yè piān zhōu.",
-    "english": "There is a small boat on the lake."
+    "hanzi": "这个盒子是扁的。",
+    "pinyin": "Zhège hézi shì biǎn de.",
+    "english": "This box is flat."
    }
   ]
  },
@@ -4150,7 +4145,7 @@
  {
   "id": "hsk7-9-0194",
   "hanzi": "遍布",
-  "traditional": null,
+  "traditional": "遍佈",
   "level": "7-9",
   "pinyin": "biàn bù",
   "readings": [
@@ -4519,11 +4514,11 @@
  {
   "id": "hsk7-9-0211",
   "hanzi": "标致",
-  "traditional": "標致",
+  "traditional": "標緻",
   "level": "7-9",
-  "pinyin": "Biāo zhì",
+  "pinyin": "biāo zhì",
   "readings": [
-   "Biāo zhì",
+   "biāo zhì",
    "biāo zhi"
   ],
   "pos": [
@@ -6384,7 +6379,7 @@
  {
   "id": "hsk7-9-0299",
   "hanzi": "不准",
-  "traditional": null,
+  "traditional": "不準",
   "level": "7-9",
   "pinyin": "bù zhǔn",
   "readings": [
@@ -8032,7 +8027,7 @@
  {
   "id": "hsk7-9-0376",
   "hanzi": "铲",
-  "traditional": "剷",
+  "traditional": "鏟",
   "level": "7-9",
   "pinyin": "chǎn",
   "readings": [
@@ -9317,9 +9312,8 @@
   "hanzi": "秤",
   "traditional": null,
   "level": "7-9",
-  "pinyin": "chēng",
+  "pinyin": "chèng",
   "readings": [
-   "chēng",
    "chèng"
   ],
   "pos": [
@@ -9424,7 +9418,7 @@
  {
   "id": "hsk7-9-0441",
   "hanzi": "痴呆",
-  "traditional": "痴獃",
+  "traditional": null,
   "level": "7-9",
   "pinyin": "chī dāi",
   "readings": [
@@ -10066,22 +10060,21 @@
   "hanzi": "仇",
   "traditional": null,
   "level": "7-9",
-  "pinyin": "Qiú",
+  "pinyin": "chóu",
   "readings": [
-   "Qiú",
    "chóu",
-   "qiú"
+   "Qiú"
   ],
   "pos": [
    "n",
    "g"
   ],
-  "definition": "enemy; hatred",
+  "definition": "hatred; enmity; enemy",
   "examples": [
    {
-    "hanzi": "他们两家有仇。",
-    "pinyin": "Tāmen liǎng jiā yǒu chóu.",
-    "english": "The two families have a feud."
+    "hanzi": "他们之间有深仇大恨。",
+    "pinyin": "Tāmen zhī jiān yǒu shēn chóu dà hèn.",
+    "english": "There is deep hatred between them."
    }
   ]
  },
@@ -11648,7 +11641,7 @@
  {
   "id": "hsk7-9-0545",
   "hanzi": "创",
-  "traditional": "剏",
+  "traditional": "創",
   "level": "7-9",
   "pinyin": "chuàng",
   "readings": [
@@ -11927,7 +11920,7 @@
  {
   "id": "hsk7-9-0558",
   "hanzi": "蠢",
-  "traditional": "惷",
+  "traditional": null,
   "level": "7-9",
   "pinyin": "chǔn",
   "readings": [
@@ -12033,7 +12026,7 @@
  {
   "id": "hsk7-9-0563",
   "hanzi": "辞",
-  "traditional": "辤",
+  "traditional": "辭",
   "level": "7-9",
   "pinyin": "cí",
   "readings": [
@@ -13543,9 +13536,8 @@
   "hanzi": "大陆",
   "traditional": "大陸",
   "level": "7-9",
-  "pinyin": "Dà lù",
+  "pinyin": "dà lù",
   "readings": [
-   "Dà lù",
    "dà lù"
   ],
   "pos": [
@@ -14357,9 +14349,8 @@
   "hanzi": "淡水",
   "traditional": null,
   "level": "7-9",
-  "pinyin": "Dàn shuǐ",
+  "pinyin": "dàn shuǐ",
   "readings": [
-   "Dàn shuǐ",
    "dàn shuǐ"
   ],
   "pos": [
@@ -14443,9 +14434,8 @@
   "hanzi": "当晚",
   "traditional": "當晚",
   "level": "7-9",
-  "pinyin": "dāng wǎn",
+  "pinyin": "dàng wǎn",
   "readings": [
-   "dāng wǎn",
    "dàng wǎn"
   ],
   "pos": [
@@ -14571,9 +14561,8 @@
   "hanzi": "党",
   "traditional": "黨",
   "level": "7-9",
-  "pinyin": "Dǎng",
+  "pinyin": "dǎng",
   "readings": [
-   "Dǎng",
    "dǎng"
   ],
   "pos": [
@@ -14822,7 +14811,7 @@
  {
   "id": "hsk7-9-0694",
   "hanzi": "倒霉",
-  "traditional": null,
+  "traditional": "倒黴",
   "level": "7-9",
   "pinyin": "dǎo méi",
   "readings": [
@@ -15757,7 +15746,7 @@
  {
   "id": "hsk7-9-0738",
   "hanzi": "抵触",
-  "traditional": "抵觸",
+  "traditional": "牴觸",
   "level": "7-9",
   "pinyin": "dǐ chù",
   "readings": [
@@ -16484,7 +16473,7 @@
  {
   "id": "hsk7-9-0772",
   "hanzi": "雕",
-  "traditional": "彫",
+  "traditional": null,
   "level": "7-9",
   "pinyin": "diāo",
   "readings": [
@@ -16831,7 +16820,7 @@
  {
   "id": "hsk7-9-0788",
   "hanzi": "叠",
-  "traditional": "曡",
+  "traditional": "疊",
   "level": "7-9",
   "pinyin": "dié",
   "readings": [
@@ -16855,9 +16844,8 @@
   "hanzi": "丁",
   "traditional": null,
   "level": "7-9",
-  "pinyin": "Dīng",
+  "pinyin": "dīng",
   "readings": [
-   "Dīng",
    "dīng"
   ],
   "pos": [
@@ -17709,7 +17697,7 @@
  {
   "id": "hsk7-9-0829",
   "hanzi": "栋梁",
-  "traditional": "棟梁",
+  "traditional": "棟樑",
   "level": "7-9",
   "pinyin": "dòng liáng",
   "readings": [
@@ -17881,12 +17869,10 @@
  {
   "id": "hsk7-9-0837",
   "hanzi": "斗",
-  "traditional": null,
+  "traditional": "鬥",
   "level": "7-9",
-  "pinyin": "Dǒu",
+  "pinyin": "dòu",
   "readings": [
-   "Dǒu",
-   "dǒu",
    "dòu"
   ],
   "pos": [
@@ -18846,7 +18832,7 @@
  {
   "id": "hsk7-9-0882",
   "hanzi": "鹅",
-  "traditional": "䳘",
+  "traditional": "鵝",
   "level": "7-9",
   "pinyin": "é",
   "readings": [
@@ -18912,9 +18898,8 @@
   "hanzi": "恶",
   "traditional": "惡",
   "level": "7-9",
-  "pinyin": "ě",
+  "pinyin": "è",
   "readings": [
-   "ě",
    "è",
    "wù"
   ],
@@ -19730,8 +19715,7 @@
   "level": "7-9",
   "pinyin": "fǎ zhì",
   "readings": [
-   "fǎ zhì",
-   "Fǎ zhì"
+   "fǎ zhì"
   ],
   "pos": [
    "n"
@@ -19748,7 +19732,7 @@
  {
   "id": "hsk7-9-0924",
   "hanzi": "帆",
-  "traditional": "㠶",
+  "traditional": null,
   "level": "7-9",
   "pinyin": "fān",
   "readings": [
@@ -20345,7 +20329,7 @@
  {
   "id": "hsk7-9-0952",
   "hanzi": "泛滥",
-  "traditional": "泛濫",
+  "traditional": "氾濫",
   "level": "7-9",
   "pinyin": "fàn làn",
   "readings": [
@@ -20992,9 +20976,8 @@
   "hanzi": "非",
   "traditional": null,
   "level": "7-9",
-  "pinyin": "Fēi",
+  "pinyin": "fēi",
   "readings": [
-   "Fēi",
    "fēi"
   ],
   "pos": [
@@ -21551,10 +21534,9 @@
   "hanzi": "分量",
   "traditional": null,
   "level": "7-9",
-  "pinyin": "fēn liàng",
+  "pinyin": "fèn liàng",
   "readings": [
-   "fēn liàng",
-   "fèn liang"
+   "fèn liàng"
   ],
   "pos": [
    "n"
@@ -21998,9 +21980,8 @@
   "hanzi": "丰满",
   "traditional": "豐滿",
   "level": "7-9",
-  "pinyin": "Fēng mǎn",
+  "pinyin": "fēng mǎn",
   "readings": [
-   "Fēng mǎn",
    "fēng mǎn"
   ],
   "pos": [
@@ -22611,7 +22592,7 @@
  {
   "id": "hsk7-9-1058",
   "hanzi": "峰回路转",
-  "traditional": "峰回路轉",
+  "traditional": "峰迴路轉",
   "level": "7-9",
   "pinyin": "fēng huí lù zhuǎn",
   "readings": [
@@ -22740,9 +22721,8 @@
   "hanzi": "凤凰",
   "traditional": "鳳凰",
   "level": "7-9",
-  "pinyin": "Fèng huáng",
+  "pinyin": "fèng huáng",
   "readings": [
-   "Fèng huáng",
    "fèng huáng"
   ],
   "pos": [
@@ -22763,9 +22743,8 @@
   "hanzi": "缝",
   "traditional": "縫",
   "level": "7-9",
-  "pinyin": "féng",
+  "pinyin": "fèng",
   "readings": [
-   "féng",
    "fèng"
   ],
   "pos": [
@@ -22895,9 +22874,9 @@
   "hanzi": "佛",
   "traditional": null,
   "level": "7-9",
-  "pinyin": "Fó",
+  "pinyin": "fó",
   "readings": [
-   "Fó",
+   "fó",
    "fú"
   ],
   "pos": [
@@ -23367,7 +23346,7 @@
  {
   "id": "hsk7-9-1093",
   "hanzi": "附",
-  "traditional": "坿",
+  "traditional": null,
   "level": "7-9",
   "pinyin": "fù",
   "readings": [
@@ -23475,7 +23454,7 @@
  {
   "id": "hsk7-9-1098",
   "hanzi": "复查",
-  "traditional": "復查",
+  "traditional": "複查",
   "level": "7-9",
   "pinyin": "fù chá",
   "readings": [
@@ -23518,7 +23497,7 @@
  {
   "id": "hsk7-9-1100",
   "hanzi": "复合",
-  "traditional": "復合",
+  "traditional": "複合",
   "level": "7-9",
   "pinyin": "fù hé",
   "readings": [
@@ -23586,9 +23565,8 @@
   "hanzi": "复兴",
   "traditional": "復興",
   "level": "7-9",
-  "pinyin": "Fù xīng",
+  "pinyin": "fù xīng",
   "readings": [
-   "Fù xīng",
    "fù xīng"
   ],
   "pos": [
@@ -24403,9 +24381,8 @@
   "hanzi": "港",
   "traditional": null,
   "level": "7-9",
-  "pinyin": "Gǎng",
+  "pinyin": "gǎng",
   "readings": [
-   "Gǎng",
    "gǎng"
   ],
   "pos": [
@@ -24617,9 +24594,8 @@
   "hanzi": "高明",
   "traditional": null,
   "level": "7-9",
-  "pinyin": "Gāo míng",
+  "pinyin": "gāo míng",
   "readings": [
-   "Gāo míng",
    "gāo míng"
   ],
   "pos": [
@@ -24894,9 +24870,9 @@
   "hanzi": "戈壁",
   "traditional": null,
   "level": "7-9",
-  "pinyin": "Gē bì",
+  "pinyin": "gē bì",
   "readings": [
-   "Gē bì"
+   "gē bì"
   ],
   "pos": [
    "n"
@@ -25529,9 +25505,8 @@
   "hanzi": "弓",
   "traditional": null,
   "level": "7-9",
-  "pinyin": "Gōng",
+  "pinyin": "gōng",
   "readings": [
-   "Gōng",
    "gōng"
   ],
   "pos": [
@@ -26443,11 +26418,9 @@
   "hanzi": "勾",
   "traditional": null,
   "level": "7-9",
-  "pinyin": "Gōu",
+  "pinyin": "gōu",
   "readings": [
-   "Gōu",
-   "gōu",
-   "gòu"
+   "gōu"
   ],
   "pos": [
    "v"
@@ -26485,7 +26458,7 @@
  {
   "id": "hsk7-9-1239",
   "hanzi": "钩",
-  "traditional": "鈎",
+  "traditional": "鉤",
   "level": "7-9",
   "pinyin": "gōu",
   "readings": [
@@ -27194,7 +27167,7 @@
  {
   "id": "hsk7-9-1272",
   "hanzi": "雇佣",
-  "traditional": "雇傭",
+  "traditional": "僱傭",
   "level": "7-9",
   "pinyin": "gù yōng",
   "readings": [
@@ -27216,7 +27189,7 @@
  {
   "id": "hsk7-9-1273",
   "hanzi": "雇员",
-  "traditional": "雇員",
+  "traditional": "僱員",
   "level": "7-9",
   "pinyin": "gù yuán",
   "readings": [
@@ -27237,7 +27210,7 @@
  {
   "id": "hsk7-9-1274",
   "hanzi": "雇主",
-  "traditional": null,
+  "traditional": "僱主",
   "level": "7-9",
   "pinyin": "gù zhǔ",
   "readings": [
@@ -27427,7 +27400,7 @@
  {
   "id": "hsk7-9-1283",
   "hanzi": "拐杖",
-  "traditional": null,
+  "traditional": "柺杖",
   "level": "7-9",
   "pinyin": "guǎi zhàng",
   "readings": [
@@ -28305,9 +28278,8 @@
   "hanzi": "光泽",
   "traditional": "光澤",
   "level": "7-9",
-  "pinyin": "Guāng zé",
+  "pinyin": "guāng zé",
   "readings": [
-   "Guāng zé",
    "guāng zé"
   ],
   "pos": [
@@ -28626,7 +28598,7 @@
  {
   "id": "hsk7-9-1339",
   "hanzi": "柜台",
-  "traditional": "櫃台",
+  "traditional": "櫃檯",
   "level": "7-9",
   "pinyin": "guì tái",
   "readings": [
@@ -28755,9 +28727,8 @@
   "hanzi": "国徽",
   "traditional": "國徽",
   "level": "7-9",
-  "pinyin": "Guó huī",
+  "pinyin": "guó huī",
   "readings": [
-   "Guó huī",
    "guó huī"
   ],
   "pos": [],
@@ -29435,9 +29406,8 @@
   "hanzi": "海湾",
   "traditional": "海灣",
   "level": "7-9",
-  "pinyin": "Hǎi wān",
+  "pinyin": "hǎi wān",
   "readings": [
-   "Hǎi wān",
    "hǎi wān"
   ],
   "pos": [
@@ -30218,7 +30188,7 @@
  {
   "id": "hsk7-9-1414",
   "hanzi": "合伙",
-  "traditional": null,
+  "traditional": "合夥",
   "level": "7-9",
   "pinyin": "hé huǒ",
   "readings": [
@@ -30950,11 +30920,9 @@
   "hanzi": "哄",
   "traditional": null,
   "level": "7-9",
-  "pinyin": "hōng",
+  "pinyin": "hǒng",
   "readings": [
-   "hōng",
-   "hǒng",
-   "hòng"
+   "hǒng"
   ],
   "pos": [
    "v",
@@ -30972,7 +30940,7 @@
  {
   "id": "hsk7-9-1449",
   "hanzi": "哄堂大笑",
-  "traditional": null,
+  "traditional": "鬨堂大笑",
   "level": "7-9",
   "pinyin": "hōng táng dà xiào",
   "readings": [
@@ -31371,7 +31339,7 @@
  {
   "id": "hsk7-9-1468",
   "hanzi": "后台",
-  "traditional": "後台",
+  "traditional": "後臺",
   "level": "7-9",
   "pinyin": "hòu tái",
   "readings": [
@@ -31816,7 +31784,7 @@
  {
   "id": "hsk7-9-1489",
   "hanzi": "糊",
-  "traditional": "䊀",
+  "traditional": null,
   "level": "7-9",
   "pinyin": "hú",
   "readings": [
@@ -31943,7 +31911,7 @@
  {
   "id": "hsk7-9-1495",
   "hanzi": "哗然",
-  "traditional": "嘩然",
+  "traditional": "譁然",
   "level": "7-9",
   "pinyin": "huá rán",
   "readings": [
@@ -31987,9 +31955,9 @@
   "hanzi": "华侨",
   "traditional": "華僑",
   "level": "7-9",
-  "pinyin": "Huá qiáo",
+  "pinyin": "huá qiáo",
   "readings": [
-   "Huá qiáo"
+   "huá qiáo"
   ],
   "pos": [
    "n"
@@ -32008,9 +31976,9 @@
   "hanzi": "华人",
   "traditional": "華人",
   "level": "7-9",
-  "pinyin": "Huá rén",
+  "pinyin": "huá rén",
   "readings": [
-   "Huá rén"
+   "huá rén"
   ],
   "pos": [
    "n"
@@ -32029,9 +31997,9 @@
   "hanzi": "华裔",
   "traditional": "華裔",
   "level": "7-9",
-  "pinyin": "Huá yì",
+  "pinyin": "huá yì",
   "readings": [
-   "Huá yì"
+   "huá yì"
   ],
   "pos": [
    "n"
@@ -33033,7 +33001,7 @@
  {
   "id": "hsk7-9-1546",
   "hanzi": "晃",
-  "traditional": "㨪",
+  "traditional": null,
   "level": "7-9",
   "pinyin": "huǎng",
   "readings": [
@@ -33055,7 +33023,7 @@
  {
   "id": "hsk7-9-1547",
   "hanzi": "晃荡",
-  "traditional": "晃蕩",
+  "traditional": "晃盪",
   "level": "7-9",
   "pinyin": "huàng dang",
   "readings": [
@@ -33119,7 +33087,7 @@
  {
   "id": "hsk7-9-1550",
   "hanzi": "回避",
-  "traditional": null,
+  "traditional": "迴避",
   "level": "7-9",
   "pinyin": "huí bì",
   "readings": [
@@ -33141,7 +33109,7 @@
  {
   "id": "hsk7-9-1551",
   "hanzi": "回归",
-  "traditional": "回歸",
+  "traditional": "迴歸",
   "level": "7-9",
   "pinyin": "huí guī",
   "readings": [
@@ -33441,7 +33409,7 @@
  {
   "id": "hsk7-9-1565",
   "hanzi": "汇集",
-  "traditional": "匯集",
+  "traditional": "彙集",
   "level": "7-9",
   "pinyin": "huì jí",
   "readings": [
@@ -33788,21 +33756,20 @@
   "hanzi": "豁",
   "traditional": null,
   "level": "7-9",
-  "pinyin": "huá",
+  "pinyin": "huō",
   "readings": [
-   "huá",
    "huō",
-   "huò"
+   "huá"
   ],
   "pos": [
    "v"
   ],
-  "definition": "to slit; to cut open",
+  "definition": "to open a crack; to give up; to go all out",
   "examples": [
    {
-    "hanzi": "他把口袋豁开了一道口子。",
-    "pinyin": "Tā bǎ kǒudài huá kāi le yī dào kǒuzi.",
-    "english": "He slit a hole in the pocket."
+    "hanzi": "他豁出去了，什么都不怕。",
+    "pinyin": "Tā huō chūqù le, shénme dōu bù pà.",
+    "english": "He went all out and is not afraid of anything."
    }
   ]
  },
@@ -34706,9 +34673,8 @@
   "hanzi": "吉利",
   "traditional": null,
   "level": "7-9",
-  "pinyin": "Jí lì",
+  "pinyin": "jí lì",
   "readings": [
-   "Jí lì",
    "jí lì"
   ],
   "pos": [
@@ -35046,12 +35012,11 @@
  {
   "id": "hsk7-9-1640",
   "hanzi": "脊梁",
-  "traditional": null,
+  "traditional": "脊樑",
   "level": "7-9",
   "pinyin": "jǐ liáng",
   "readings": [
-   "jǐ liáng",
-   "jǐ liang"
+   "jǐ liáng"
   ],
   "pos": [
    "n"
@@ -35220,9 +35185,8 @@
   "hanzi": "计",
   "traditional": "計",
   "level": "7-9",
-  "pinyin": "Jì",
+  "pinyin": "jì",
   "readings": [
-   "Jì",
    "jì"
   ],
   "pos": [
@@ -35625,21 +35589,21 @@
   "hanzi": "祭",
   "traditional": null,
   "level": "7-9",
-  "pinyin": "Zhài",
+  "pinyin": "jì",
   "readings": [
-   "Zhài",
-   "jì"
+   "jì",
+   "Zhài"
   ],
   "pos": [
    "v",
    "vn"
   ],
-  "definition": "(surname); sacrifice",
+  "definition": "to offer sacrifice; worship",
   "examples": [
    {
-    "hanzi": "他姓祭。",
-    "pinyin": "Tā xìng Zhài.",
-    "english": "His surname is Zha."
+    "hanzi": "每逢节日，人们都会祭祖先。",
+    "pinyin": "Měi féng jiérì, rénmen dōu huì jì zǔxiān.",
+    "english": "Every festival, people offer sacrifices to their ancestors."
    }
   ]
  },
@@ -36138,9 +36102,8 @@
   "hanzi": "驾",
   "traditional": "駕",
   "level": "7-9",
-  "pinyin": "Jià",
+  "pinyin": "jià",
   "readings": [
-   "Jià",
    "jià"
   ],
   "pos": [
@@ -36502,7 +36465,7 @@
  {
   "id": "hsk7-9-1708",
   "hanzi": "艰巨",
-  "traditional": "艱巨",
+  "traditional": "艱鉅",
   "level": "7-9",
   "pinyin": "jiān jù",
   "readings": [
@@ -36824,7 +36787,7 @@
  {
   "id": "hsk7-9-1723",
   "hanzi": "剪彩",
-  "traditional": null,
+  "traditional": "剪綵",
   "level": "7-9",
   "pinyin": "jiǎn cǎi",
   "readings": [
@@ -37405,7 +37368,7 @@
  {
   "id": "hsk7-9-1750",
   "hanzi": "鉴于",
-  "traditional": "鑒於",
+  "traditional": "鑑於",
   "level": "7-9",
   "pinyin": "jiàn yú",
   "readings": [
@@ -37428,9 +37391,8 @@
   "hanzi": "姜",
   "traditional": null,
   "level": "7-9",
-  "pinyin": "Jiāng",
+  "pinyin": "jiāng",
   "readings": [
-   "Jiāng",
    "jiāng"
   ],
   "pos": [
@@ -37535,7 +37497,7 @@
  {
   "id": "hsk7-9-1756",
   "hanzi": "奖杯",
-  "traditional": "獎杯",
+  "traditional": "獎盃",
   "level": "7-9",
   "pinyin": "jiǎng bēi",
   "readings": [
@@ -38013,9 +37975,8 @@
   "hanzi": "焦",
   "traditional": null,
   "level": "7-9",
-  "pinyin": "Jiāo",
+  "pinyin": "jiāo",
   "readings": [
-   "Jiāo",
    "jiāo"
   ],
   "pos": [
@@ -38738,9 +38699,8 @@
   "hanzi": "揭",
   "traditional": null,
   "level": "7-9",
-  "pinyin": "Jiē",
+  "pinyin": "jiē",
   "readings": [
-   "Jiē",
    "jiē"
   ],
   "pos": [
@@ -38908,7 +38868,7 @@
  {
   "id": "hsk7-9-1820",
   "hanzi": "劫",
-  "traditional": "刦",
+  "traditional": null,
   "level": "7-9",
   "pinyin": "jié",
   "readings": [
@@ -39554,7 +39514,7 @@
  {
   "id": "hsk7-9-1850",
   "hanzi": "借口",
-  "traditional": null,
+  "traditional": "藉口",
   "level": "7-9",
   "pinyin": "jiè kǒu",
   "readings": [
@@ -40025,9 +39985,8 @@
   "hanzi": "经",
   "traditional": "經",
   "level": "7-9",
-  "pinyin": "Jīng",
+  "pinyin": "jīng",
   "readings": [
-   "Jīng",
    "jīng"
   ],
   "pos": [
@@ -40281,7 +40240,7 @@
  {
   "id": "hsk7-9-1884",
   "hanzi": "惊叹",
-  "traditional": "驚嘆",
+  "traditional": "驚歎",
   "level": "7-9",
   "pinyin": "jīng tàn",
   "readings": [
@@ -41853,7 +41812,7 @@
  {
   "id": "hsk7-9-1957",
   "hanzi": "巨额",
-  "traditional": "巨額",
+  "traditional": "鉅額",
   "level": "7-9",
   "pinyin": "jù é",
   "readings": [
@@ -42263,8 +42222,7 @@
   "level": "7-9",
   "pinyin": "jiáo",
   "readings": [
-   "jiáo",
-   "jiào"
+   "jiáo"
   ],
   "pos": [
    "v"
@@ -42388,7 +42346,7 @@
  {
   "id": "hsk7-9-1982",
   "hanzi": "俊",
-  "traditional": "㑺",
+  "traditional": null,
   "level": "7-9",
   "pinyin": "jùn",
   "readings": [
@@ -43074,7 +43032,7 @@
  {
   "id": "hsk7-9-2014",
   "hanzi": "看台",
-  "traditional": null,
+  "traditional": "看臺",
   "level": "7-9",
   "pinyin": "kàn tái",
   "readings": [
@@ -43119,20 +43077,20 @@
   "hanzi": "扛",
   "traditional": null,
   "level": "7-9",
-  "pinyin": "gāng",
+  "pinyin": "káng",
   "readings": [
-   "gāng",
-   "káng"
+   "káng",
+   "gāng"
   ],
   "pos": [
    "v"
   ],
-  "definition": "lift with both hands (a heavy object)",
+  "definition": "to carry on the shoulder; to shoulder (a burden)",
   "examples": [
    {
-    "hanzi": "他扛起一个箱子。",
-    "pinyin": "Tā gāng qǐ yī gè xiāngzi.",
-    "english": "He lifted a box with both hands."
+    "hanzi": "他扛着一袋米。",
+    "pinyin": "Tā káng zhe yī dài mǐ.",
+    "english": "He is carrying a bag of rice on his shoulder."
    }
   ]
  },
@@ -43627,7 +43585,7 @@
  {
   "id": "hsk7-9-2040",
   "hanzi": "克制",
-  "traditional": null,
+  "traditional": "剋制",
   "level": "7-9",
   "pinyin": "kè zhì",
   "readings": [
@@ -44095,9 +44053,8 @@
   "hanzi": "孔",
   "traditional": null,
   "level": "7-9",
-  "pinyin": "Kǒng",
+  "pinyin": "kǒng",
   "readings": [
-   "Kǒng",
    "kǒng"
   ],
   "pos": [
@@ -44523,7 +44480,7 @@
  {
   "id": "hsk7-9-2082",
   "hanzi": "扣人心弦",
-  "traditional": null,
+  "traditional": "扣人心絃",
   "level": "7-9",
   "pinyin": "kòu rén xīn xián",
   "readings": [
@@ -45724,9 +45681,9 @@
   "hanzi": "腊月",
   "traditional": "臘月",
   "level": "7-9",
-  "pinyin": "Là yuè",
+  "pinyin": "là yuè",
   "readings": [
-   "Là yuè"
+   "là yuè"
   ],
   "pos": [
    "t"
@@ -45808,9 +45765,8 @@
   "hanzi": "来宾",
   "traditional": "來賓",
   "level": "7-9",
-  "pinyin": "Lái bīn",
+  "pinyin": "lái bīn",
   "readings": [
-   "Lái bīn",
    "lái bīn"
   ],
   "pos": [
@@ -46946,11 +46902,9 @@
   "hanzi": "冷战",
   "traditional": "冷戰",
   "level": "7-9",
-  "pinyin": "Lěng zhàn",
+  "pinyin": "lěng zhàn",
   "readings": [
-   "Lěng zhàn",
-   "lěng zhàn",
-   "lěng zhan"
+   "lěng zhàn"
   ],
   "pos": [
    "n"
@@ -49798,9 +49752,8 @@
   "hanzi": "搂",
   "traditional": "摟",
   "level": "7-9",
-  "pinyin": "lōu",
+  "pinyin": "lǒu",
   "readings": [
-   "lōu",
    "lǒu"
   ],
   "pos": [
@@ -50385,7 +50338,7 @@
  {
   "id": "hsk7-9-2357",
   "hanzi": "裸",
-  "traditional": "臝",
+  "traditional": null,
   "level": "7-9",
   "pinyin": "luǒ",
   "readings": [
@@ -50534,12 +50487,11 @@
  {
   "id": "hsk7-9-2364",
   "hanzi": "麻",
-  "traditional": "蔴",
+  "traditional": null,
   "level": "7-9",
   "pinyin": "má",
   "readings": [
-   "má",
-   "Má"
+   "má"
   ],
   "pos": [
    "n",
@@ -51393,9 +51345,8 @@
   "hanzi": "枚",
   "traditional": null,
   "level": "7-9",
-  "pinyin": "Méi",
+  "pinyin": "méi",
   "readings": [
-   "Méi",
    "méi"
   ],
   "pos": [
@@ -51497,10 +51448,9 @@
   "hanzi": "美德",
   "traditional": null,
   "level": "7-9",
-  "pinyin": "Měi Dé",
+  "pinyin": "měi Dé",
   "readings": [
-   "Měi Dé",
-   "měi dé"
+   "měi Dé"
   ],
   "pos": [
    "n"
@@ -51691,9 +51641,8 @@
   "hanzi": "闷",
   "traditional": "悶",
   "level": "7-9",
-  "pinyin": "mēn",
+  "pinyin": "mèn",
   "readings": [
-   "mēn",
    "mèn"
   ],
   "pos": [
@@ -51776,14 +51725,11 @@
  {
   "id": "hsk7-9-2422",
   "hanzi": "蒙",
-  "traditional": "濛",
+  "traditional": null,
   "level": "7-9",
   "pinyin": "méng",
   "readings": [
-   "méng",
-   "mēng",
-   "Méng",
-   "Měng"
+   "méng"
   ],
   "pos": [
    "v",
@@ -51911,9 +51857,8 @@
   "hanzi": "眯",
   "traditional": null,
   "level": "7-9",
-  "pinyin": "mí",
+  "pinyin": "mī",
   "readings": [
-   "mí",
    "mī"
   ],
   "pos": [
@@ -51931,7 +51876,7 @@
  {
   "id": "hsk7-9-2429",
   "hanzi": "弥漫",
-  "traditional": "彌漫",
+  "traditional": "瀰漫",
   "level": "7-9",
   "pinyin": "mí màn",
   "readings": [
@@ -52043,16 +51988,16 @@
   "hanzi": "谜",
   "traditional": "謎",
   "level": "7-9",
-  "pinyin": "mèi",
+  "pinyin": "mí",
   "readings": [
-   "mèi",
-   "mí"
+   "mí",
+   "mèi"
   ],
   "pos": [
    "n",
    "g"
   ],
-  "definition": "riddle; mystery; puzzle",
+  "definition": "puzzle; mystery; conundrum",
   "examples": [
    {
     "hanzi": "这个谜很难猜。",
@@ -52127,7 +52072,7 @@
  {
   "id": "hsk7-9-2438",
   "hanzi": "秘方",
-  "traditional": "祕方",
+  "traditional": null,
   "level": "7-9",
   "pinyin": "mì fāng",
   "readings": [
@@ -52447,9 +52392,8 @@
   "hanzi": "苗",
   "traditional": null,
   "level": "7-9",
-  "pinyin": "Miáo",
+  "pinyin": "miáo",
   "readings": [
-   "Miáo",
    "miáo"
   ],
   "pos": [
@@ -53281,22 +53225,21 @@
   "hanzi": "抹",
   "traditional": null,
   "level": "7-9",
-  "pinyin": "mā",
+  "pinyin": "mǒ",
   "readings": [
-   "mā",
    "mǒ",
-   "mò"
+   "mā"
   ],
   "pos": [
    "v",
    "q"
   ],
-  "definition": "to wipe",
+  "definition": "to wipe; to apply; to erase; to spread",
   "examples": [
    {
-    "hanzi": "他把桌子抹乾淨了。",
-    "pinyin": "Tā bǎ zhuōzi mā gānjìng le.",
-    "english": "He wiped the table clean."
+    "hanzi": "她正在抹桌子。",
+    "pinyin": "Tā zhèngzài mǒ zhuōzi.",
+    "english": "She is wiping the table."
    }
   ]
  },
@@ -53326,9 +53269,8 @@
   "hanzi": "末日",
   "traditional": null,
   "level": "7-9",
-  "pinyin": "Mò rì",
+  "pinyin": "mò rì",
   "readings": [
-   "Mò rì",
    "mò rì"
   ],
   "pos": [
@@ -53412,9 +53354,8 @@
   "hanzi": "墨",
   "traditional": null,
   "level": "7-9",
-  "pinyin": "Mò",
+  "pinyin": "mò",
   "readings": [
-   "Mò",
    "mò"
   ],
   "pos": [
@@ -53561,7 +53502,7 @@
  {
   "id": "hsk7-9-2505",
   "hanzi": "亩",
-  "traditional": "畂",
+  "traditional": "畝",
   "level": "7-9",
   "pinyin": "mǔ",
   "readings": [
@@ -53584,9 +53525,8 @@
   "hanzi": "牡丹",
   "traditional": null,
   "level": "7-9",
-  "pinyin": "Mǔ dan",
+  "pinyin": "mǔ dan",
   "readings": [
-   "Mǔ dan",
    "mǔ dan"
   ],
   "pos": [
@@ -54473,9 +54413,8 @@
   "hanzi": "内地",
   "traditional": "內地",
   "level": "7-9",
-  "pinyin": "Nèi dì",
+  "pinyin": "nèi dì",
   "readings": [
-   "Nèi dì",
    "nèi dì"
   ],
   "pos": [
@@ -54725,7 +54664,7 @@
  {
   "id": "hsk7-9-2560",
   "hanzi": "拟",
-  "traditional": "儗",
+  "traditional": "擬",
   "level": "7-9",
   "pinyin": "nǐ",
   "readings": [
@@ -56097,20 +56036,20 @@
   "hanzi": "刨",
   "traditional": null,
   "level": "7-9",
-  "pinyin": "bào",
+  "pinyin": "páo",
   "readings": [
-   "bào",
-   "páo"
+   "páo",
+   "bào"
   ],
   "pos": [
    "v"
   ],
-  "definition": "to dig; to plane",
+  "definition": "dig; excavate",
   "examples": [
    {
-    "hanzi": "农民在刨地。",
-    "pinyin": "nóngmín zài bào dì.",
-    "english": "The farmer is digging the ground."
+    "hanzi": "他在院子里刨了一个坑。",
+    "pinyin": "Tā zài yuànzi lǐ páo le yī gè kēng.",
+    "english": "He dug a hole in the yard."
    }
   ]
  },
@@ -56161,22 +56100,21 @@
   "hanzi": "炮",
   "traditional": null,
   "level": "7-9",
-  "pinyin": "bāo",
+  "pinyin": "pào",
   "readings": [
-   "bāo",
-   "páo",
-   "pào"
+   "pào",
+   "bāo"
   ],
   "pos": [
    "n",
    "q"
   ],
-  "definition": "to fry quickly; to sauté",
+  "definition": "a large gun; firework that explodes loudly",
   "examples": [
    {
-    "hanzi": "妈妈在炮青菜。",
-    "pinyin": "Māma zài bāo qīngcài.",
-    "english": "Mom is stir-frying the greens."
+    "hanzi": "过年的时候，人们放鞭炮和烟花。",
+    "pinyin": "Guònián de shíhou, rénmen fàng biānpào hé yānhuā.",
+    "english": "During the New Year, people set off firecrackers and fireworks."
    }
   ]
  },
@@ -57371,9 +57309,8 @@
   "hanzi": "平和",
   "traditional": null,
   "level": "7-9",
-  "pinyin": "Píng hé",
+  "pinyin": "píng hé",
   "readings": [
-   "Píng hé",
    "píng hé"
   ],
   "pos": [
@@ -57736,9 +57673,8 @@
   "hanzi": "颇",
   "traditional": "頗",
   "level": "7-9",
-  "pinyin": "Pō",
+  "pinyin": "pō",
   "readings": [
-   "Pō",
    "pō"
   ],
   "pos": [
@@ -58078,9 +58014,9 @@
   "hanzi": "菩萨",
   "traditional": "菩薩",
   "level": "7-9",
-  "pinyin": "Pú sà",
+  "pinyin": "pú sà",
   "readings": [
-   "Pú sà"
+   "pú sà"
   ],
   "pos": [
    "n"
@@ -58247,7 +58183,7 @@
  {
   "id": "hsk7-9-2724",
   "hanzi": "凄凉",
-  "traditional": "悽涼",
+  "traditional": "淒涼",
   "level": "7-9",
   "pinyin": "qī liáng",
   "readings": [
@@ -58656,7 +58592,7 @@
  {
   "id": "hsk7-9-2743",
   "hanzi": "启蒙",
-  "traditional": "啟矇",
+  "traditional": "啟蒙",
   "level": "7-9",
   "pinyin": "qǐ méng",
   "readings": [
@@ -60493,9 +60429,8 @@
   "hanzi": "翘",
   "traditional": "翹",
   "level": "7-9",
-  "pinyin": "qiáo",
+  "pinyin": "qiào",
   "readings": [
-   "qiáo",
    "qiào"
   ],
   "pos": [
@@ -61354,9 +61289,8 @@
   "hanzi": "清新",
   "traditional": null,
   "level": "7-9",
-  "pinyin": "Qīng xīn",
+  "pinyin": "qīng xīn",
   "readings": [
-   "Qīng xīn",
    "qīng xīn"
   ],
   "pos": [
@@ -62737,9 +62671,8 @@
   "hanzi": "饶",
   "traditional": "饒",
   "level": "7-9",
-  "pinyin": "Ráo",
+  "pinyin": "ráo",
   "readings": [
-   "Ráo",
    "ráo"
   ],
   "pos": [
@@ -63369,9 +63302,8 @@
   "hanzi": "任",
   "traditional": null,
   "level": "7-9",
-  "pinyin": "Rén",
+  "pinyin": "rèn",
   "readings": [
-   "Rén",
    "rèn"
   ],
   "pos": [
@@ -65561,9 +65493,8 @@
   "hanzi": "尚",
   "traditional": null,
   "level": "7-9",
-  "pinyin": "Shàng",
+  "pinyin": "shàng",
   "readings": [
-   "Shàng",
    "shàng"
   ],
   "pos": [
@@ -67825,7 +67756,7 @@
  {
   "id": "hsk7-9-3173",
   "hanzi": "湿润",
-  "traditional": "濕潤",
+  "traditional": "溼潤",
   "level": "7-9",
   "pinyin": "shī rùn",
   "readings": [
@@ -68460,7 +68391,7 @@
  {
   "id": "hsk7-9-3203",
   "hanzi": "事迹",
-  "traditional": "事跡",
+  "traditional": "事蹟",
   "level": "7-9",
   "pinyin": "shì jì",
   "readings": [
@@ -70231,9 +70162,8 @@
   "hanzi": "耍",
   "traditional": null,
   "level": "7-9",
-  "pinyin": "Shuǎ",
+  "pinyin": "shuǎ",
   "readings": [
-   "Shuǎ",
    "shuǎ"
   ],
   "pos": [
@@ -72737,9 +72667,8 @@
   "hanzi": "踏",
   "traditional": null,
   "level": "7-9",
-  "pinyin": "tā",
+  "pinyin": "tà",
   "readings": [
-   "tā",
    "tà"
   ],
   "pos": [
@@ -72802,9 +72731,9 @@
   "hanzi": "太极",
   "traditional": "太極",
   "level": "7-9",
-  "pinyin": "Tài jí",
+  "pinyin": "tài jí",
   "readings": [
-   "Tài jí"
+   "tài jí"
   ],
   "pos": [
    "nz",
@@ -72824,9 +72753,8 @@
   "hanzi": "太平",
   "traditional": null,
   "level": "7-9",
-  "pinyin": "Tài píng",
+  "pinyin": "tài píng",
   "readings": [
-   "Tài píng",
    "tài píng"
   ],
   "pos": [
@@ -72909,7 +72837,7 @@
  {
   "id": "hsk7-9-3412",
   "hanzi": "贪污",
-  "traditional": "貪污",
+  "traditional": "貪汙",
   "level": "7-9",
   "pinyin": "tān wū",
   "readings": [
@@ -73726,7 +73654,7 @@
  {
   "id": "hsk7-9-3450",
   "hanzi": "特制",
-  "traditional": null,
+  "traditional": "特製",
   "level": "7-9",
   "pinyin": "tè zhì",
   "readings": [
@@ -74348,9 +74276,8 @@
   "hanzi": "天桥",
   "traditional": "天橋",
   "level": "7-9",
-  "pinyin": "Tiān qiáo",
+  "pinyin": "tiān qiáo",
   "readings": [
-   "Tiān qiáo",
    "tiān qiáo"
   ],
   "pos": [
@@ -74904,9 +74831,8 @@
   "hanzi": "铁",
   "traditional": "鐵",
   "level": "7-9",
-  "pinyin": "Tiě",
+  "pinyin": "tiě",
   "readings": [
-   "Tiě",
    "tiě"
   ],
   "pos": [
@@ -75397,7 +75323,7 @@
  {
   "id": "hsk7-9-3528",
   "hanzi": "同伙",
-  "traditional": null,
+  "traditional": "同夥",
   "level": "7-9",
   "pinyin": "tóng huǒ",
   "readings": [
@@ -75696,9 +75622,8 @@
   "hanzi": "头条",
   "traditional": "頭條",
   "level": "7-9",
-  "pinyin": "Tóu tiáo",
+  "pinyin": "tóu tiáo",
   "readings": [
-   "Tóu tiáo",
    "tóu tiáo"
   ],
   "pos": [
@@ -76212,8 +76137,7 @@
   "level": "7-9",
   "pinyin": "tú",
   "readings": [
-   "tú",
-   "Tú"
+   "tú"
   ],
   "pos": [
    "v"
@@ -76659,7 +76583,7 @@
  {
   "id": "hsk7-9-3587",
   "hanzi": "托",
-  "traditional": null,
+  "traditional": "託",
   "level": "7-9",
   "pinyin": "tuō",
   "readings": [
@@ -76681,7 +76605,7 @@
  {
   "id": "hsk7-9-3588",
   "hanzi": "托付",
-  "traditional": null,
+  "traditional": "託付",
   "level": "7-9",
   "pinyin": "tuō fù",
   "readings": [
@@ -76872,7 +76796,7 @@
  {
   "id": "hsk7-9-3597",
   "hanzi": "驮",
-  "traditional": "䭾",
+  "traditional": "馱",
   "level": "7-9",
   "pinyin": "tuó",
   "readings": [
@@ -78198,9 +78122,8 @@
   "hanzi": "威信",
   "traditional": null,
   "level": "7-9",
-  "pinyin": "Wēi xìn",
+  "pinyin": "wēi xìn",
   "readings": [
-   "Wēi xìn",
    "wēi xìn"
   ],
   "pos": [
@@ -78967,9 +78890,8 @@
   "hanzi": "温泉",
   "traditional": "溫泉",
   "level": "7-9",
-  "pinyin": "Wēn quán",
+  "pinyin": "wēn quán",
   "readings": [
-   "Wēn quán",
    "wēn quán"
   ],
   "pos": [
@@ -79074,9 +78996,8 @@
   "hanzi": "文",
   "traditional": null,
   "level": "7-9",
-  "pinyin": "Wén",
+  "pinyin": "wén",
   "readings": [
-   "Wén",
    "wén"
   ],
   "pos": [
@@ -79526,7 +79447,7 @@
  {
   "id": "hsk7-9-3721",
   "hanzi": "污秽",
-  "traditional": "污穢",
+  "traditional": "汙穢",
   "level": "7-9",
   "pinyin": "wū huì",
   "readings": [
@@ -79547,7 +79468,7 @@
  {
   "id": "hsk7-9-3722",
   "hanzi": "污蔑",
-  "traditional": null,
+  "traditional": "汙衊",
   "level": "7-9",
   "pinyin": "wū miè",
   "readings": [
@@ -81088,9 +81009,8 @@
   "hanzi": "席",
   "traditional": null,
   "level": "7-9",
-  "pinyin": "Xí",
+  "pinyin": "xí",
   "readings": [
-   "Xí",
    "xí"
   ],
   "pos": [
@@ -81430,20 +81350,20 @@
   "hanzi": "虾",
   "traditional": "蝦",
   "level": "7-9",
-  "pinyin": "há",
+  "pinyin": "xiā",
   "readings": [
-   "há",
-   "xiā"
+   "xiā",
+   "há"
   ],
   "pos": [
    "n"
   ],
-  "definition": "shrimp; prawn",
+  "definition": "shrimp",
   "examples": [
    {
-    "hanzi": "我喜欢吃虾。",
-    "pinyin": "Wǒ xǐhuān chī xiā.",
-    "english": "I like to eat shrimp."
+    "hanzi": "我吃虾。",
+    "pinyin": "Wǒ chī xiā.",
+    "english": "I eat shrimp."
    }
   ]
  },
@@ -81582,20 +81502,20 @@
   "hanzi": "下调",
   "traditional": "下調",
   "level": "7-9",
-  "pinyin": "xià diào",
+  "pinyin": "xià tiáo",
   "readings": [
-   "xià diào",
-   "xià tiáo"
+   "xià tiáo",
+   "xià diào"
   ],
   "pos": [
    "v"
   ],
-  "definition": "to reduce, to lower (price, etc.)",
+  "definition": "to lower; to reduce (prices, rates)",
   "examples": [
    {
-    "hanzi": "公司决定下调产品价格。",
-    "pinyin": "gōngsī juédìng xiàdiào chǎnpǐn jiàgé.",
-    "english": "The company decided to lower the product price."
+    "hanzi": "银行下调了利率。",
+    "pinyin": "Yínháng xiàtiáo le lìlǜ.",
+    "english": "The bank lowered the interest rate."
    }
   ]
  },
@@ -83178,7 +83098,7 @@
  {
   "id": "hsk7-9-3892",
   "hanzi": "销毁",
-  "traditional": "銷毀",
+  "traditional": "銷燬",
   "level": "7-9",
   "pinyin": "xiāo huǐ",
   "readings": [
@@ -83288,9 +83208,8 @@
   "hanzi": "小康",
   "traditional": null,
   "level": "7-9",
-  "pinyin": "Xiǎo kāng",
+  "pinyin": "xiǎo kāng",
   "readings": [
-   "Xiǎo kāng",
    "xiǎo kāng"
   ],
   "pos": [
@@ -83457,7 +83376,7 @@
  {
   "id": "hsk7-9-3905",
   "hanzi": "效仿",
-  "traditional": "傚仿",
+  "traditional": null,
   "level": "7-9",
   "pinyin": "xiào fǎng",
   "readings": [
@@ -83608,7 +83527,7 @@
  {
   "id": "hsk7-9-3912",
   "hanzi": "邪",
-  "traditional": "衺",
+  "traditional": null,
   "level": "7-9",
   "pinyin": "xié",
   "readings": [
@@ -83716,7 +83635,7 @@
  {
   "id": "hsk7-9-3917",
   "hanzi": "泄",
-  "traditional": null,
+  "traditional": "洩",
   "level": "7-9",
   "pinyin": "xiè",
   "readings": [
@@ -83759,7 +83678,7 @@
  {
   "id": "hsk7-9-3919",
   "hanzi": "泄露",
-  "traditional": null,
+  "traditional": "洩露",
   "level": "7-9",
   "pinyin": "xiè lù",
   "readings": [
@@ -84927,9 +84846,8 @@
   "hanzi": "兴隆",
   "traditional": "興隆",
   "level": "7-9",
-  "pinyin": "Xīng lóng",
+  "pinyin": "xīng lóng",
   "readings": [
-   "Xīng lóng",
    "xīng lóng"
   ],
   "pos": [
@@ -85677,7 +85595,7 @@
  {
   "id": "hsk7-9-4009",
   "hanzi": "绣",
-  "traditional": "綉",
+  "traditional": "繡",
   "level": "7-9",
   "pinyin": "xiù",
   "readings": [
@@ -85740,7 +85658,7 @@
  {
   "id": "hsk7-9-4012",
   "hanzi": "锈",
-  "traditional": "銹",
+  "traditional": "鏽",
   "level": "7-9",
   "pinyin": "xiù",
   "readings": [
@@ -86026,9 +85944,8 @@
   "hanzi": "许",
   "traditional": "許",
   "level": "7-9",
-  "pinyin": "Xǔ",
+  "pinyin": "xǔ",
   "readings": [
-   "Xǔ",
    "xǔ"
   ],
   "pos": [
@@ -86347,7 +86264,7 @@
  {
   "id": "hsk7-9-4040",
   "hanzi": "喧哗",
-  "traditional": "喧嘩",
+  "traditional": "喧譁",
   "level": "7-9",
   "pinyin": "xuān huá",
   "readings": [
@@ -86942,7 +86859,7 @@
  {
   "id": "hsk7-9-4068",
   "hanzi": "勋章",
-  "traditional": "勛章",
+  "traditional": "勳章",
   "level": "7-9",
   "pinyin": "xūn zhāng",
   "readings": [
@@ -86963,7 +86880,7 @@
  {
   "id": "hsk7-9-4069",
   "hanzi": "熏",
-  "traditional": null,
+  "traditional": "燻",
   "level": "7-9",
   "pinyin": "xūn",
   "readings": [
@@ -87370,9 +87287,8 @@
   "hanzi": "哑",
   "traditional": "啞",
   "level": "7-9",
-  "pinyin": "yā",
+  "pinyin": "yǎ",
   "readings": [
-   "yā",
    "yǎ"
   ],
   "pos": [
@@ -87455,9 +87371,8 @@
   "hanzi": "延",
   "traditional": null,
   "level": "7-9",
-  "pinyin": "Yán",
+  "pinyin": "yán",
   "readings": [
-   "Yán",
    "yán"
   ],
   "pos": [
@@ -87736,9 +87651,9 @@
   "hanzi": "阎王",
   "traditional": "閻王",
   "level": "7-9",
-  "pinyin": "Yán wáng",
+  "pinyin": "yán wáng",
   "readings": [
-   "Yán wáng"
+   "yán wáng"
   ],
   "pos": [
    "n"
@@ -88168,9 +88083,8 @@
   "hanzi": "咽",
   "traditional": null,
   "level": "7-9",
-  "pinyin": "yān",
+  "pinyin": "yàn",
   "readings": [
-   "yān",
    "yàn",
    "yè"
   ],
@@ -88210,7 +88124,7 @@
  {
   "id": "hsk7-9-4127",
   "hanzi": "艳丽",
-  "traditional": "艷麗",
+  "traditional": "豔麗",
   "level": "7-9",
   "pinyin": "yàn lì",
   "readings": [
@@ -88231,7 +88145,7 @@
  {
   "id": "hsk7-9-4128",
   "hanzi": "验",
-  "traditional": "騐",
+  "traditional": "驗",
   "level": "7-9",
   "pinyin": "yàn",
   "readings": [
@@ -88316,9 +88230,8 @@
   "hanzi": "扬",
   "traditional": "揚",
   "level": "7-9",
-  "pinyin": "Yáng",
+  "pinyin": "yáng",
   "readings": [
-   "Yáng",
    "yáng"
   ],
   "pos": [
@@ -88368,7 +88281,13 @@
    "n"
   ],
   "definition": "poplar tree, a type of tree with soft wood",
-  "examples": []
+  "examples": [
+   {
+    "hanzi": "公园里有很多杨树。",
+    "pinyin": "Gōngyuán lǐ yǒu hěnduō yángshù.",
+    "english": "There are many poplar trees in the park."
+   }
+  ]
  },
  {
   "id": "hsk7-9-4135",
@@ -89496,7 +89415,7 @@
  {
   "id": "hsk7-9-4188",
   "hanzi": "一目了然",
-  "traditional": null,
+  "traditional": "一目瞭然",
   "level": "7-9",
   "pinyin": "yī mù liǎo rán",
   "readings": [
@@ -91581,11 +91500,9 @@
   "hanzi": "应",
   "traditional": "應",
   "level": "7-9",
-  "pinyin": "Yīng",
+  "pinyin": "yīng",
   "readings": [
-   "Yīng",
-   "yīng",
-   "yìng"
+   "yīng"
   ],
   "pos": [
    "v"
@@ -92136,22 +92053,22 @@
  {
   "id": "hsk7-9-4312",
   "hanzi": "涌",
-  "traditional": null,
+  "traditional": "湧",
   "level": "7-9",
-  "pinyin": "chōng",
+  "pinyin": "yǒng",
   "readings": [
-   "chōng",
-   "yǒng"
+   "yǒng",
+   "chōng"
   ],
   "pos": [
    "v"
   ],
-  "definition": "to flush; to rinse",
+  "definition": "to gush; to well up; to surge",
   "examples": [
    {
-    "hanzi": "用水涌一下杯子。",
-    "pinyin": "yòng shuǐ chōng yīxià bēizi.",
-    "english": "Rinse the cup with water."
+    "hanzi": "泉水从地下涌出。",
+    "pinyin": "Quánshuǐ cóng dìxià yǒng chū.",
+    "english": "Spring water gushes out from underground."
    }
   ]
  },
@@ -92331,7 +92248,7 @@
  {
   "id": "hsk7-9-4321",
   "hanzi": "悠闲",
-  "traditional": "悠閑",
+  "traditional": "悠閒",
   "level": "7-9",
   "pinyin": "yōu xián",
   "readings": [
@@ -92887,11 +92804,10 @@
  {
   "id": "hsk7-9-4347",
   "hanzi": "余",
-  "traditional": null,
+  "traditional": "餘",
   "level": "7-9",
-  "pinyin": "Yú",
+  "pinyin": "yú",
   "readings": [
-   "Yú",
    "yú"
   ],
   "pos": [
@@ -94468,20 +94384,20 @@
   "hanzi": "熨",
   "traditional": null,
   "level": "7-9",
-  "pinyin": "yù",
+  "pinyin": "yùn",
   "readings": [
-   "yù",
-   "yùn"
+   "yùn",
+   "yù"
   ],
   "pos": [
    "v"
   ],
-  "definition": "to iron (clothes)",
+  "definition": "to press with an iron; to iron clothes",
   "examples": [
    {
-    "hanzi": "熨衣服",
-    "pinyin": "yù yīfu",
-    "english": "Iron the clothes."
+    "hanzi": "我正在熨衣服。",
+    "pinyin": "Wǒ zhèngzài yùn yīfu.",
+    "english": "I am ironing clothes."
    }
   ]
  },
@@ -94766,20 +94682,20 @@
   "hanzi": "攒",
   "traditional": "攢",
   "level": "7-9",
-  "pinyin": "cuán",
+  "pinyin": "zǎn",
   "readings": [
-   "cuán",
-   "zǎn"
+   "zǎn",
+   "cuán"
   ],
   "pos": [
    "v"
   ],
-  "definition": "to assemble; to gather together",
+  "definition": "to save up (money, etc.); to accumulate",
   "examples": [
    {
-    "hanzi": "大家攒在一起讨论问题。",
-    "pinyin": "Dàjiā cuán zài yīqǐ tǎolùn wèntí.",
-    "english": "Everyone gathered together to discuss the issue."
+    "hanzi": "我想攒钱买一辆车。",
+    "pinyin": "Wǒ xiǎng zǎn qián mǎi yī liàng chē.",
+    "english": "I want to save up money to buy a car."
    }
   ]
  },
@@ -94871,7 +94787,7 @@
  {
   "id": "hsk7-9-4440",
   "hanzi": "赞叹",
-  "traditional": "讚嘆",
+  "traditional": "讚歎",
   "level": "7-9",
   "pinyin": "zàn tàn",
   "readings": [
@@ -94959,7 +94875,7 @@
  {
   "id": "hsk7-9-4444",
   "hanzi": "葬",
-  "traditional": "塟",
+  "traditional": null,
   "level": "7-9",
   "pinyin": "zàng",
   "readings": [
@@ -95361,7 +95277,7 @@
  {
   "id": "hsk7-9-4463",
   "hanzi": "扎根",
-  "traditional": null,
+  "traditional": "紮根",
   "level": "7-9",
   "pinyin": "zhā gēn",
   "readings": [
@@ -95382,7 +95298,7 @@
  {
   "id": "hsk7-9-4464",
   "hanzi": "扎实",
-  "traditional": "扎實",
+  "traditional": "紮實",
   "level": "7-9",
   "pinyin": "zhā shi",
   "readings": [
@@ -95425,7 +95341,7 @@
  {
   "id": "hsk7-9-4466",
   "hanzi": "闸",
-  "traditional": "牐",
+  "traditional": "閘",
   "level": "7-9",
   "pinyin": "zhá",
   "readings": [
@@ -95532,7 +95448,7 @@
  {
   "id": "hsk7-9-4471",
   "hanzi": "榨",
-  "traditional": "搾",
+  "traditional": null,
   "level": "7-9",
   "pinyin": "zhà",
   "readings": [
@@ -96040,7 +95956,7 @@
  {
   "id": "hsk7-9-4495",
   "hanzi": "张灯结彩",
-  "traditional": "張燈結彩",
+  "traditional": "張燈結綵",
   "level": "7-9",
   "pinyin": "zhāng dēng jié cǎi",
   "readings": [
@@ -96084,10 +96000,9 @@
   "hanzi": "张扬",
   "traditional": "張揚",
   "level": "7-9",
-  "pinyin": "Zhāng Yáng",
+  "pinyin": "zhāng Yáng",
   "readings": [
-   "Zhāng Yáng",
-   "zhāng yáng"
+   "zhāng Yáng"
   ],
   "pos": [
    "v",
@@ -96191,9 +96106,8 @@
   "hanzi": "长征",
   "traditional": "長征",
   "level": "7-9",
-  "pinyin": "Cháng zhēng",
+  "pinyin": "cháng zhēng",
   "readings": [
-   "Cháng zhēng",
    "cháng zhēng"
   ],
   "pos": [
@@ -96723,7 +96637,7 @@
  {
   "id": "hsk7-9-4527",
   "hanzi": "折叠",
-  "traditional": "折疊",
+  "traditional": "摺疊",
   "level": "7-9",
   "pinyin": "zhé dié",
   "readings": [
@@ -96745,7 +96659,7 @@
  {
   "id": "hsk7-9-4528",
   "hanzi": "折合",
-  "traditional": null,
+  "traditional": "摺合",
   "level": "7-9",
   "pinyin": "zhé hé",
   "readings": [
@@ -97408,9 +97322,8 @@
   "hanzi": "振兴",
   "traditional": "振興",
   "level": "7-9",
-  "pinyin": "Zhèn xīng",
+  "pinyin": "zhèn xīng",
   "readings": [
-   "Zhèn xīng",
    "zhèn xīng"
   ],
   "pos": [
@@ -97708,7 +97621,7 @@
  {
   "id": "hsk7-9-4573",
   "hanzi": "征",
-  "traditional": null,
+  "traditional": "徵",
   "level": "7-9",
   "pinyin": "zhēng",
   "readings": [
@@ -98123,9 +98036,9 @@
   "hanzi": "正月",
   "traditional": null,
   "level": "7-9",
-  "pinyin": "Zhēng yuè",
+  "pinyin": "zhēng yuè",
   "readings": [
-   "Zhēng yuè"
+   "zhēng yuè"
   ],
   "pos": [
    "t"
@@ -99423,7 +99336,7 @@
  {
   "id": "hsk7-9-4653",
   "hanzi": "致",
-  "traditional": "緻",
+  "traditional": null,
   "level": "7-9",
   "pinyin": "zhì",
   "readings": [
@@ -99745,9 +99658,8 @@
   "hanzi": "中庸",
   "traditional": null,
   "level": "7-9",
-  "pinyin": "Zhōng yōng",
+  "pinyin": "zhōng yōng",
   "readings": [
-   "Zhōng yōng",
    "zhōng yōng"
   ],
   "pos": [
@@ -99988,9 +99900,8 @@
   "hanzi": "钟",
   "traditional": "鍾",
   "level": "7-9",
-  "pinyin": "Zhōng",
+  "pinyin": "zhōng",
   "readings": [
-   "Zhōng",
    "zhōng"
   ],
   "pos": [
@@ -100415,7 +100326,7 @@
  {
   "id": "hsk7-9-4699",
   "hanzi": "周转",
-  "traditional": "周轉",
+  "traditional": "週轉",
   "level": "7-9",
   "pinyin": "zhōu zhuǎn",
   "readings": [
@@ -100523,7 +100434,7 @@
  {
   "id": "hsk7-9-4704",
   "hanzi": "朱红",
-  "traditional": "朱紅",
+  "traditional": "硃紅",
   "level": "7-9",
   "pinyin": "zhū hóng",
   "readings": [
@@ -100992,7 +100903,7 @@
  {
   "id": "hsk7-9-4726",
   "hanzi": "注释",
-  "traditional": "注釋",
+  "traditional": "註釋",
   "level": "7-9",
   "pinyin": "zhù shì",
   "readings": [
@@ -101098,11 +101009,10 @@
  {
   "id": "hsk7-9-4731",
   "hanzi": "筑",
-  "traditional": null,
+  "traditional": "築",
   "level": "7-9",
-  "pinyin": "Zhù",
+  "pinyin": "zhù",
   "readings": [
-   "Zhù",
    "zhù"
   ],
   "pos": [
@@ -101144,22 +101054,20 @@
   "hanzi": "拽",
   "traditional": null,
   "level": "7-9",
-  "pinyin": "yè",
+  "pinyin": "zhuài",
   "readings": [
-   "yè",
-   "zhuāi",
-   "zhuǎi",
-   "zhuài"
+   "zhuài",
+   "yè"
   ],
   "pos": [
    "v"
   ],
-  "definition": "to drag; to pull",
+  "definition": "to pull; to drag",
   "examples": [
    {
-    "hanzi": "他拽着绳子往前走。",
-    "pinyin": "Tā yèzhe shéngzi wǎng qián zǒu.",
-    "english": "He dragged the rope forward."
+    "hanzi": "他拽住了我的衣角。",
+    "pinyin": "Tā zhuài zhù le wǒ de yī jiǎo.",
+    "english": "He grabbed the corner of my clothes."
    }
   ]
  },
@@ -101702,9 +101610,8 @@
   "hanzi": "壮",
   "traditional": "壯",
   "level": "7-9",
-  "pinyin": "Zhuàng",
+  "pinyin": "zhuàng",
   "readings": [
-   "Zhuàng",
    "zhuàng"
   ],
   "pos": [
@@ -103008,9 +102915,8 @@
   "hanzi": "宗",
   "traditional": null,
   "level": "7-9",
-  "pinyin": "Zōng",
+  "pinyin": "zōng",
   "readings": [
-   "Zōng",
    "zōng"
   ],
   "pos": [

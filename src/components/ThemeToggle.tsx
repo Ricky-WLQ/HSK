@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useEffect } from 'react';
+import { useSyncExternalStore } from 'react';
 import { Sun, Moon, Monitor } from 'lucide-react';
 import { getTheme, setTheme, type Theme } from '@/lib/theme';
 
@@ -30,20 +30,32 @@ const iconColors: Record<Theme, string> = {
   system: 'text-primary',
 };
 
-export default function ThemeToggle() {
-  const [theme, setThemeState] = useState<Theme>('system');
-  const [mounted, setMounted] = useState(false);
+// Read theme/mount state via useSyncExternalStore so there is no setState-in-effect
+// and no hydration mismatch: the server snapshot matches the placeholder, then the
+// client swaps to the real value after hydration.
+const noopSubscribe = () => () => {};
 
-  useEffect(() => {
-    setThemeState(getTheme());
-    setMounted(true);
-  }, []);
+function subscribeTheme(callback: () => void) {
+  window.addEventListener('storage', callback);
+  window.addEventListener('themechange', callback);
+  return () => {
+    window.removeEventListener('storage', callback);
+    window.removeEventListener('themechange', callback);
+  };
+}
+
+export default function ThemeToggle() {
+  const mounted = useSyncExternalStore(
+    noopSubscribe,
+    () => true,
+    () => false,
+  );
+  const theme = useSyncExternalStore(subscribeTheme, getTheme, () => 'system' as Theme);
 
   const handleClick = () => {
-    const currentIndex = cycleOrder.indexOf(theme);
-    const next = cycleOrder[(currentIndex + 1) % cycleOrder.length];
-    setThemeState(next);
+    const next = cycleOrder[(cycleOrder.indexOf(theme) + 1) % cycleOrder.length];
     setTheme(next);
+    window.dispatchEvent(new Event('themechange'));
   };
 
   // Avoid hydration mismatch: render a placeholder until mounted

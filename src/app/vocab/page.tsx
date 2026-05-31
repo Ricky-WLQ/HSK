@@ -1,11 +1,13 @@
 import Link from "next/link";
 import SiteHeader from "@/components/SiteHeader";
 import { getVocabIndex, levelBand } from "@/lib/vocab";
+import { requireSession } from "@/lib/session";
 import { t } from "@/i18n";
 
 export const dynamic = "force-dynamic";
 
 export default async function VocabHub() {
+  await requireSession();
   const index = await getVocabIndex();
 
   return (
@@ -20,7 +22,7 @@ export default async function VocabHub() {
             <Link
               key={lv.level}
               href={`/vocab/${lv.level}`}
-              className={`card-interactive p-6 animate-card-enter delay-${Math.min((i + 1) * 100, 500)}`}
+              className={`card-interactive p-6 animate-card-enter delay-${((i % 5) + 1) * 100}`}
             >
               <div className="flex items-center justify-between">
                 <span className="font-heading text-2xl font-extrabold">

@@ -3,6 +3,7 @@
 import { useEffect, useMemo, useState } from "react";
 import { Volume2, Check } from "lucide-react";
 import { t } from "@/i18n";
+import { useAudioPlayer } from "@/lib/useAudioPlayer";
 import type { VocabWord } from "@/lib/vocab";
 
 const PAGE = 60;
@@ -28,7 +29,7 @@ export default function VocabBrowser({ words }: { words: VocabWord[] }) {
     if (!s) return words;
     return words.filter(
       (w) =>
-        w.hanzi.includes(q) ||
+        w.hanzi.includes(s) ||
         w.pinyin.toLowerCase().includes(s) ||
         w.readings.some((r) => r.toLowerCase().includes(s)) ||
         (w.definition?.toLowerCase().includes(s) ?? false),
@@ -41,8 +42,10 @@ export default function VocabBrowser({ words }: { words: VocabWord[] }) {
     <div>
       <div className="mb-5 flex flex-wrap items-center gap-3">
         <input
+          type="search"
           className="input-clay max-w-sm flex-1"
           placeholder={t.vocab.search}
+          aria-label={t.vocab.search}
           value={q}
           onChange={(e) => {
             setQ(e.target.value);
@@ -136,27 +139,10 @@ function WordCard({
 }
 
 function PlayButton({ text }: { text: string }) {
-  const [loading, setLoading] = useState(false);
-  async function play() {
-    if (loading) return;
-    setLoading(true);
-    try {
-      const res = await fetch(`/api/tts?text=${encodeURIComponent(text)}`);
-      if (!res.ok) return;
-      const blob = await res.blob();
-      const url = URL.createObjectURL(blob);
-      const audio = new Audio(url);
-      audio.onended = () => URL.revokeObjectURL(url);
-      await audio.play();
-    } catch {
-      /* ignore */
-    } finally {
-      setLoading(false);
-    }
-  }
+  const { play, loading } = useAudioPlayer();
   return (
     <button
-      onClick={play}
+      onClick={() => void play(text)}
       disabled={loading}
       aria-label={t.vocab.play}
       title={t.vocab.play}

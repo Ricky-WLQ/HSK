@@ -70,9 +70,8 @@
   "hanzi": "吧",
   "traditional": null,
   "level": "1",
-  "pinyin": "bā",
+  "pinyin": "ba",
   "readings": [
-   "bā",
    "ba",
    "biā"
   ],
@@ -114,9 +113,8 @@
   "hanzi": "百",
   "traditional": null,
   "level": "1",
-  "pinyin": "Bǎi",
+  "pinyin": "bǎi",
   "readings": [
-   "Bǎi",
    "bǎi"
   ],
   "pos": [
@@ -248,17 +246,17 @@
   "hanzi": "便宜",
   "traditional": null,
   "level": "1",
-  "pinyin": "biàn yí",
+  "pinyin": "pián yi",
   "readings": [
-   "biàn yí",
-   "pián yi"
+   "pián yi",
+   "biàn yí"
   ],
   "pos": [
    "a",
    "v",
    "an"
   ],
-  "definition": "cheap; inexpensive",
+  "definition": "low in price; inexpensive",
   "examples": [
    {
     "hanzi": "这个苹果很便宜。",
@@ -440,9 +438,8 @@
   "hanzi": "车",
   "traditional": "車",
   "level": "1",
-  "pinyin": "Chē",
+  "pinyin": "chē",
   "readings": [
-   "Chē",
    "chē",
    "jū"
   ],
@@ -595,9 +592,8 @@
   "hanzi": "大学",
   "traditional": "大學",
   "level": "1",
-  "pinyin": "Dà xué",
+  "pinyin": "dà xué",
   "readings": [
-   "Dà xué",
    "dà xué"
   ],
   "pos": [
@@ -901,22 +897,21 @@
   "hanzi": "都",
   "traditional": null,
   "level": "1",
-  "pinyin": "Dū",
+  "pinyin": "dōu",
   "readings": [
-   "Dū",
    "dōu",
-   "dū"
+   "Dū"
   ],
   "pos": [
    "d",
    "g"
   ],
-  "definition": "capital (city)",
+  "definition": "used to indicate totality; both; all",
   "examples": [
    {
-    "hanzi": "这个城市是都。",
-    "pinyin": "Zhège chéngshì shì dū.",
-    "english": "This city is a capital."
+    "hanzi": "我们都喜欢这个电影。",
+    "pinyin": "Wǒmen dōu xǐhuan zhège diànyǐng.",
+    "english": "We all like this movie."
    }
   ]
  },
@@ -925,20 +920,20 @@
   "hanzi": "读",
   "traditional": "讀",
   "level": "1",
-  "pinyin": "dòu",
+  "pinyin": "dú",
   "readings": [
-   "dòu",
-   "dú"
+   "dú",
+   "dòu"
   ],
   "pos": [
    "v"
   ],
-  "definition": "to read",
+  "definition": "to read; to study; to read aloud",
   "examples": [
    {
-    "hanzi": "我每天读书。",
-    "pinyin": "Wǒ měitiān dú shū.",
-    "english": "I read books every day."
+    "hanzi": "我每天读一本书",
+    "pinyin": "Wǒ měitiān dú yī běn shū.",
+    "english": "I read a book every day."
    }
   ]
  },
@@ -1324,9 +1319,8 @@
   "hanzi": "个",
   "traditional": "個",
   "level": "1",
-  "pinyin": "gě",
+  "pinyin": "gè",
   "readings": [
-   "gě",
    "gè"
   ],
   "pos": [
@@ -1460,9 +1454,8 @@
   "hanzi": "国",
   "traditional": "國",
   "level": "1",
-  "pinyin": "Guó",
+  "pinyin": "guó",
   "readings": [
-   "Guó",
    "guó"
   ],
   "pos": [
@@ -1482,22 +1475,21 @@
   "hanzi": "还",
   "traditional": "還",
   "level": "1",
-  "pinyin": "Huán",
+  "pinyin": "hái",
   "readings": [
-   "Huán",
    "hái",
-   "huán"
+   "Huán"
   ],
   "pos": [
    "d",
    "v"
   ],
-  "definition": "to return; to give back",
+  "definition": "indicates continuation or addition; still, yet, also",
   "examples": [
    {
-    "hanzi": "我还书。",
-    "pinyin": "Wǒ huán shū.",
-    "english": "I return the book."
+    "hanzi": "我还没吃饭。",
+    "pinyin": "Wǒ hái méi chīfàn.",
+    "english": "I haven't eaten yet."
    }
   ]
  },
@@ -1679,9 +1671,8 @@
   "hanzi": "号",
   "traditional": "號",
   "level": "1",
-  "pinyin": "háo",
+  "pinyin": "hào",
   "readings": [
-   "háo",
    "hào"
   ],
   "pos": [
@@ -1709,7 +1700,7 @@
    "hè"
   ],
   "pos": [
-   "g",
+   "v",
    "vn"
   ],
   "definition": "to drink",
@@ -1724,13 +1715,11 @@
  {
   "id": "hsk1-0079",
   "hanzi": "和",
-  "traditional": "咊",
+  "traditional": null,
   "level": "1",
   "pinyin": "hé",
   "readings": [
    "hé",
-   "Hé",
-   "hè",
    "hú",
    "huó",
    "huò"
@@ -1776,11 +1765,10 @@
  {
   "id": "hsk1-0081",
   "hanzi": "后",
-  "traditional": null,
+  "traditional": "後",
   "level": "1",
-  "pinyin": "Hòu",
+  "pinyin": "hòu",
   "readings": [
-   "Hòu",
    "hòu"
   ],
   "pos": [
@@ -1887,11 +1875,10 @@
  {
   "id": "hsk1-0086",
   "hanzi": "几",
-  "traditional": null,
+  "traditional": "幾",
   "level": "1",
-  "pinyin": "jī",
+  "pinyin": "jǐ",
   "readings": [
-   "jī",
    "jǐ"
   ],
   "pos": [
@@ -1910,7 +1897,7 @@
  {
   "id": "hsk1-0087",
   "hanzi": "家",
-  "traditional": "傢",
+  "traditional": null,
   "level": "1",
   "pinyin": "jiā",
   "readings": [
@@ -2196,9 +2183,8 @@
   "hanzi": "看",
   "traditional": null,
   "level": "1",
-  "pinyin": "kān",
+  "pinyin": "kàn",
   "readings": [
-   "kān",
    "kàn"
   ],
   "pos": [
@@ -2419,9 +2405,8 @@
   "hanzi": "冷",
   "traditional": null,
   "level": "1",
-  "pinyin": "Lěng",
+  "pinyin": "lěng",
   "readings": [
-   "Lěng",
    "lěng"
   ],
   "pos": [
@@ -2441,12 +2426,11 @@
  {
   "id": "hsk1-0111",
   "hanzi": "里",
-  "traditional": "裏",
+  "traditional": "裡",
   "level": "1",
   "pinyin": "lǐ",
   "readings": [
-   "lǐ",
-   "Lǐ"
+   "lǐ"
   ],
   "pos": [
    "f",
@@ -2554,10 +2538,8 @@
   "hanzi": "吗",
   "traditional": "嗎",
   "level": "1",
-  "pinyin": "má",
+  "pinyin": "ma",
   "readings": [
-   "má",
-   "mǎ",
    "ma"
   ],
   "pos": [
@@ -2919,7 +2901,7 @@
  {
   "id": "hsk1-0133",
   "hanzi": "哪里",
-  "traditional": "哪裏",
+  "traditional": "哪裡",
   "level": "1",
   "pinyin": "nǎ lǐ",
   "readings": [
@@ -2963,13 +2945,10 @@
   "hanzi": "那",
   "traditional": null,
   "level": "1",
-  "pinyin": "Nā",
+  "pinyin": "nà",
   "readings": [
-   "Nā",
-   "Nuó",
-   "nǎ",
    "nà",
-   "nuó"
+   "Nuó"
   ],
   "pos": [
    "r",
@@ -3029,7 +3008,7 @@
  {
   "id": "hsk1-0138",
   "hanzi": "那里",
-  "traditional": "那裏",
+  "traditional": "那裡",
   "level": "1",
   "pinyin": "nà li",
   "readings": [
@@ -3138,9 +3117,8 @@
   "hanzi": "能",
   "traditional": null,
   "level": "1",
-  "pinyin": "Néng",
+  "pinyin": "néng",
   "readings": [
-   "Néng",
    "néng"
   ],
   "pos": [
@@ -3203,9 +3181,8 @@
   "hanzi": "年",
   "traditional": null,
   "level": "1",
-  "pinyin": "Nián",
+  "pinyin": "nián",
   "readings": [
-   "Nián",
    "nián"
   ],
   "pos": [
@@ -3505,9 +3482,8 @@
   "hanzi": "钱",
   "traditional": "錢",
   "level": "1",
-  "pinyin": "Qián",
+  "pinyin": "qián",
   "readings": [
-   "Qián",
    "qián"
   ],
   "pos": [
@@ -3682,9 +3658,8 @@
   "hanzi": "日",
   "traditional": null,
   "level": "1",
-  "pinyin": "Rì",
+  "pinyin": "rì",
   "readings": [
-   "Rì",
    "rì"
   ],
   "pos": [
@@ -3707,9 +3682,8 @@
   "hanzi": "三",
   "traditional": null,
   "level": "1",
-  "pinyin": "Sān",
+  "pinyin": "sān",
   "readings": [
-   "Sān",
    "sān"
   ],
   "pos": [
@@ -3751,9 +3725,8 @@
   "hanzi": "上",
   "traditional": null,
   "level": "1",
-  "pinyin": "shǎng",
+  "pinyin": "shàng",
   "readings": [
-   "shǎng",
    "shàng"
   ],
   "pos": [
@@ -4057,9 +4030,8 @@
   "hanzi": "书",
   "traditional": "書",
   "level": "1",
-  "pinyin": "Shū",
+  "pinyin": "shū",
   "readings": [
-   "Shū",
    "shū"
   ],
   "pos": [
@@ -4122,9 +4094,8 @@
   "hanzi": "水",
   "traditional": null,
   "level": "1",
-  "pinyin": "Shuǐ",
+  "pinyin": "shuǐ",
   "readings": [
-   "Shuǐ",
    "shuǐ"
   ],
   "pos": [
@@ -4208,21 +4179,21 @@
   "hanzi": "说",
   "traditional": "說",
   "level": "1",
-  "pinyin": "shuì",
+  "pinyin": "shuō",
   "readings": [
-   "shuì",
-   "shuō"
+   "shuō",
+   "shuì"
   ],
   "pos": [
    "v",
    "g"
   ],
-  "definition": "to speak; to say",
+  "definition": "to speak; to say; to talk; to express in words",
   "examples": [
    {
-    "hanzi": "他说中文很好。",
-    "pinyin": "Tā shuō Zhōngwén hěn hǎo.",
-    "english": "He speaks Chinese very well."
+    "hanzi": "你会说中文吗？",
+    "pinyin": "Nǐ huì shuō zhōngwén ma?",
+    "english": "Can you speak Chinese?"
    }
   ]
  },
@@ -4273,7 +4244,7 @@
  {
   "id": "hsk1-0195",
   "hanzi": "岁",
-  "traditional": "嵗",
+  "traditional": "歲",
   "level": "1",
   "pinyin": "suì",
   "readings": [
@@ -4485,22 +4456,22 @@
  {
   "id": "hsk1-0205",
   "hanzi": "听",
-  "traditional": null,
+  "traditional": "聽",
   "level": "1",
-  "pinyin": "yǐn",
+  "pinyin": "tīng",
   "readings": [
-   "yǐn",
-   "tīng"
+   "tīng",
+   "yǐn"
   ],
   "pos": [
    "v"
   ],
-  "definition": "to listen",
+  "definition": "to hear; to listen; to obey; to heed",
   "examples": [
    {
-    "hanzi": "我听音乐。",
-    "pinyin": "wǒ tīng yīnyuè.",
-    "english": "I listen to music."
+    "hanzi": "请听我说。",
+    "pinyin": "Qǐng tīng wǒ shuō.",
+    "english": "Please listen to me."
    }
   ]
  },
@@ -4679,9 +4650,8 @@
   "hanzi": "喂",
   "traditional": null,
   "level": "1",
-  "pinyin": "wéi",
+  "pinyin": "wèi",
   "readings": [
-   "wéi",
    "wèi"
   ],
   "pos": [
@@ -5196,9 +5166,8 @@
   "hanzi": "新",
   "traditional": null,
   "level": "1",
-  "pinyin": "Xīn",
+  "pinyin": "xīn",
   "readings": [
-   "Xīn",
    "xīn"
   ],
   "pos": [
@@ -5241,9 +5210,9 @@
   "hanzi": "星期日",
   "traditional": null,
   "level": "1",
-  "pinyin": "Xīng qī rì",
+  "pinyin": "xīng qī rì",
   "readings": [
-   "Xīng qī rì"
+   "xīng qī rì"
   ],
   "pos": [
    "t"
@@ -5262,9 +5231,9 @@
   "hanzi": "星期天",
   "traditional": null,
   "level": "1",
-  "pinyin": "Xīng qī tiān",
+  "pinyin": "xīng qī tiān",
   "readings": [
-   "Xīng qī tiān"
+   "xīng qī tiān"
   ],
   "pos": [
    "t"
@@ -5391,9 +5360,8 @@
   "hanzi": "雪",
   "traditional": null,
   "level": "1",
-  "pinyin": "Xuě",
+  "pinyin": "xuě",
   "readings": [
-   "Xuě",
    "xuě"
   ],
   "pos": [
@@ -5413,9 +5381,8 @@
   "hanzi": "要",
   "traditional": null,
   "level": "1",
-  "pinyin": "yāo",
+  "pinyin": "yào",
   "readings": [
-   "yāo",
    "yào"
   ],
   "pos": [
@@ -5435,9 +5402,8 @@
   "hanzi": "也",
   "traditional": null,
   "level": "1",
-  "pinyin": "Yě",
+  "pinyin": "yě",
   "readings": [
-   "Yě",
    "yě"
   ],
   "pos": [
@@ -5735,9 +5701,8 @@
   "hanzi": "元",
   "traditional": null,
   "level": "1",
-  "pinyin": "Yuán",
+  "pinyin": "yuán",
   "readings": [
-   "Yuán",
    "yuán"
   ],
   "pos": [
@@ -6035,7 +6000,7 @@
  {
   "id": "hsk1-0277",
   "hanzi": "这里",
-  "traditional": "這裏",
+  "traditional": "這裡",
   "level": "1",
   "pinyin": "zhè lǐ",
   "readings": [
@@ -6356,9 +6321,8 @@
   "hanzi": "坐",
   "traditional": null,
   "level": "1",
-  "pinyin": "Zuò",
+  "pinyin": "zuò",
   "readings": [
-   "Zuò",
    "zuò"
   ],
   "pos": [

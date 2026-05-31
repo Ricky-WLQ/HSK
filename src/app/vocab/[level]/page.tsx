@@ -3,6 +3,7 @@ import { notFound } from "next/navigation";
 import SiteHeader from "@/components/SiteHeader";
 import VocabBrowser from "@/components/VocabBrowser";
 import { getVocabLevel, isHskLevel, levelBand } from "@/lib/vocab";
+import { requireSession } from "@/lib/session";
 import { t } from "@/i18n";
 
 export const dynamic = "force-dynamic";
@@ -12,6 +13,7 @@ export default async function VocabLevelPage({
 }: {
   params: Promise<{ level: string }>;
 }) {
+  await requireSession();
   const { level } = await params;
   if (!isHskLevel(level)) notFound();
   const words = await getVocabLevel(level);

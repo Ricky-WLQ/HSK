@@ -1,91 +1,103 @@
 import { NextRequest, NextResponse } from "next/server";
+import { getSession } from "@/lib/session";
+import { ttsKey, normalizeVoiceKey, generateVerifiedAudio } from "@/lib/tts";
+import { r2Configured, r2Get, r2Put } from "@/lib/r2";
 
-const SF_URL = "https://api.siliconflow.cn/v1/audio/speech";
-const MODEL = "FunAudioLLM/CosyVoice2-0.5B";
-const VOICES: Record<string, string> = {
-  narrator: `${MODEL}:anna`,
-  female: `${MODEL}:claire`,
-  male: `${MODEL}:charles`,
-};
+// Audio is pre-generated to R2 (scripts/pregenerate-tts.py) and served from there;
+// anything missing is generated on demand (ASR-verified), cached, and uploaded.
+// Login-gated: only authenticated users can spend the TTS/SiliconFlow quota.
 
-// Per-instance in-memory cache (single Zeabur instance) so repeated plays of the
-// same word don't re-hit SiliconFlow.
-const cache = new Map<string, ArrayBuffer>();
-const MAX_CACHE = 800;
+// Small hot in-memory LRU so repeated plays of the same word skip the R2 round-trip.
+const hot = new Map<string, ArrayBuffer>();
+const MAX_HOT = 200;
+function hotGet(key: string): ArrayBuffer | undefined {
+  const v = hot.get(key);
+  if (v) {
+    hot.delete(key);
+    hot.set(key, v); // move to MRU
+  }
+  return v;
+}
+function hotSet(key: string, val: ArrayBuffer) {
+  if (hot.size >= MAX_HOT) {
+    const oldest = hot.keys().next().value;
+    if (oldest) hot.delete(oldest);
+  }
+  hot.set(key, val);
+}
 
-// Crude per-IP rate limit to bound cost on this public endpoint.
-const hits = new Map<string, { count: number; reset: number }>();
-function rateLimited(ip: string): boolean {
+// Per-user rate limit on on-demand generation (R2 hits are unmetered).
+const gen = new Map<string, { count: number; reset: number }>();
+function genLimited(userId: string): boolean {
   const now = Date.now();
-  const e = hits.get(ip);
+  const e = gen.get(userId);
   if (!e || now > e.reset) {
-    hits.set(ip, { count: 1, reset: now + 60_000 });
+    gen.set(userId, { count: 1, reset: now + 60_000 });
     return false;
   }
   e.count += 1;
-  return e.count > 80; // 80 requests / minute / IP
+  return e.count > 60; // 60 fresh generations / minute / user
 }
+// Periodically drop expired entries so the maps don't grow unbounded.
+setInterval(() => {
+  const now = Date.now();
+  for (const [k, v] of gen) if (now > v.reset) gen.delete(k);
+}, 5 * 60_000).unref?.();
 
-function audioHeaders() {
+function audioHeaders(len: number) {
   return {
     "Content-Type": "audio/mpeg",
+    "Content-Length": String(len),
     "Cache-Control": "public, max-age=31536000, immutable",
   };
 }
 
 export async function GET(req: NextRequest) {
+  const session = await getSession();
+  if (!session) {
+    return NextResponse.json({ error: "unauthorized" }, { status: 401 });
+  }
+
   const text = (req.nextUrl.searchParams.get("text") || "").trim();
-  const voiceKey = req.nextUrl.searchParams.get("voice") || "narrator";
-  if (!text || text.length > 200) {
+  const voiceKey = normalizeVoiceKey(req.nextUrl.searchParams.get("voice"));
+  if (!text || text.length > 60) {
     return NextResponse.json({ error: "invalid text" }, { status: 400 });
   }
 
-  const ip =
-    req.headers.get("x-forwarded-for")?.split(",")[0]?.trim() ||
-    req.headers.get("x-real-ip") ||
-    "anon";
-  if (rateLimited(ip)) {
+  const key = ttsKey(text, voiceKey);
+
+  // 1) hot cache
+  const cached = hotGet(key);
+  if (cached) return new NextResponse(cached, { headers: audioHeaders(cached.byteLength) });
+
+  // 2) R2 bank
+  if (r2Configured()) {
+    try {
+      const found = await r2Get(key);
+      if (found && found.byteLength > 0) {
+        hotSet(key, found);
+        return new NextResponse(found, { headers: audioHeaders(found.byteLength) });
+      }
+    } catch {
+      // fall through to generation
+    }
+  }
+
+  // 3) generate on demand (rate-limited, ASR-verified)
+  if (genLimited(session.user.id)) {
     return NextResponse.json({ error: "rate limited" }, { status: 429 });
   }
-
-  const voice = VOICES[voiceKey] ?? VOICES.narrator;
-  const cacheKey = `${voiceKey}::${text}`;
-  const cached = cache.get(cacheKey);
-  if (cached) {
-    return new NextResponse(cached, { headers: audioHeaders() });
+  let audio: ArrayBuffer | null = null;
+  try {
+    audio = await generateVerifiedAudio(text, voiceKey);
+  } catch {
+    audio = null;
   }
-
-  const apiKey = process.env.SILICONFLOW_API_KEY;
-  if (!apiKey) {
-    return NextResponse.json({ error: "tts not configured" }, { status: 503 });
+  if (!audio || audio.byteLength === 0) {
+    return NextResponse.json({ error: "tts unavailable" }, { status: 502 });
   }
+  hotSet(key, audio);
+  if (r2Configured()) void r2Put(key, audio); // best-effort persist; don't block
 
-  const res = await fetch(SF_URL, {
-    method: "POST",
-    headers: {
-      "Content-Type": "application/json",
-      Authorization: `Bearer ${apiKey}`,
-    },
-    body: JSON.stringify({
-      model: MODEL,
-      input: text,
-      voice,
-      response_format: "mp3",
-      speed: 0.9,
-      stream: false,
-    }),
-  });
-
-  if (!res.ok) {
-    const detail = (await res.text()).slice(0, 200);
-    return NextResponse.json({ error: "tts failed", detail }, { status: 502 });
-  }
-
-  const buf = await res.arrayBuffer();
-  if (cache.size >= MAX_CACHE) {
-    const first = cache.keys().next().value;
-    if (first) cache.delete(first);
-  }
-  cache.set(cacheKey, buf);
-  return new NextResponse(buf, { headers: audioHeaders() });
+  return new NextResponse(audio, { headers: audioHeaders(audio.byteLength) });
 }

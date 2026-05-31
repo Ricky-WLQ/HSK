@@ -33,14 +33,25 @@ export function isHskLevel(value: string): value is HskLevel {
 
 const VOCAB_DIR = path.join(process.cwd(), "src", "data", "vocab");
 
+// The word lists are static read-only data (hsk7-9.json alone is ~2 MB), so we
+// parse each file at most once per process instead of on every request.
+let _index: VocabIndex | null = null;
+const _levels = new Map<string, VocabWord[]>();
+
 export async function getVocabIndex(): Promise<VocabIndex> {
+  if (_index) return _index;
   const raw = await fs.readFile(path.join(VOCAB_DIR, "index.json"), "utf-8");
-  return JSON.parse(raw) as VocabIndex;
+  _index = JSON.parse(raw) as VocabIndex;
+  return _index;
 }
 
 export async function getVocabLevel(level: string): Promise<VocabWord[]> {
+  const cached = _levels.get(level);
+  if (cached) return cached;
   const raw = await fs.readFile(path.join(VOCAB_DIR, `hsk${level}.json`), "utf-8");
-  return JSON.parse(raw) as VocabWord[];
+  const words = JSON.parse(raw) as VocabWord[];
+  _levels.set(level, words);
+  return words;
 }
 
 /** CEFR-ish band label per HSK 3.0 stage. */
