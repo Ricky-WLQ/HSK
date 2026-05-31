@@ -1,0 +1,27 @@
+/* ==========================================
+   TEACHER PORTAL THEME
+   ----------------------------------------------
+   Scoped CSS variable swap. Inside `.teacher-shell`, the existing
+   `--secondary` (orange #F97316) is promoted to be the primary, so
+   every component reading `var(--primary)` renders orange without
+   any per-component refactor.
+
+   No new color tokens. No new fonts. No new components. Just a
+   scoped re-aim of three CSS variables.
+
+   Student side keeps the green/sky palette by default (this rule
+   only fires under the `.teacher-shell` class).
+   ========================================== */
+
+.teacher-shell {
+  --primary: var(--secondary);                 /* #F97316 */
+  --primary-hover: var(--secondary-hover);     /* #EA580C */
+  --primary-shadow: var(--secondary-shadow);   /* #C2410C */
+  --primary-light: #FB923C;                    /* orange-400 */
+  --primary-lighter: #FFEDD5;                  /* orange-100 */
+}
+
+/* Pulse-ring + glow keyframes baked into globals.css use rgba of the
+   green primary literally; they don't read --primary. The teacher
+   shell shouldn't trigger those (they're feature-flag style anims),
+   so no override needed here. */
