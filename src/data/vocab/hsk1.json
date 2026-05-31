@@ -1,0 +1,6418 @@
+[
+ {
+  "id": "hsk1-0001",
+  "hanzi": "爱",
+  "traditional": "愛",
+  "level": "1",
+  "pinyin": "ài",
+  "readings": [
+   "ài"
+  ],
+  "pos": [
+   "v",
+   "vn",
+   "b"
+  ],
+  "definition": "to love; love (noun)",
+  "examples": [
+   {
+    "hanzi": "我爱妈妈",
+    "pinyin": "wǒ ài māma",
+    "english": "I love my mother."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0002",
+  "hanzi": "八",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "bā",
+  "readings": [
+   "bā"
+  ],
+  "pos": [
+   "m",
+   "t"
+  ],
+  "definition": "eight",
+  "examples": [
+   {
+    "hanzi": "我有八本书。",
+    "pinyin": "Wǒ yǒu bā běn shū.",
+    "english": "I have eight books."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0003",
+  "hanzi": "爸爸",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "bà ba",
+  "readings": [
+   "bà ba"
+  ],
+  "pos": [
+   "n"
+  ],
+  "definition": "father; dad",
+  "examples": [
+   {
+    "hanzi": "我的爸爸是老师。",
+    "pinyin": "Wǒ de bà ba shì lǎo shī.",
+    "english": "My father is a teacher."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0004",
+  "hanzi": "吧",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "bā",
+  "readings": [
+   "bā",
+   "ba",
+   "biā"
+  ],
+  "pos": [
+   "y"
+  ],
+  "definition": "modal particle indicating suggestion, request, or uncertainty",
+  "examples": [
+   {
+    "hanzi": "我们走吧。",
+    "pinyin": "wǒmen zǒu ba.",
+    "english": "Let's go."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0005",
+  "hanzi": "白天",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "bái tiān",
+  "readings": [
+   "bái tiān"
+  ],
+  "pos": [
+   "t"
+  ],
+  "definition": "daytime; day",
+  "examples": [
+   {
+    "hanzi": "白天我去上班",
+    "pinyin": "bái tiān wǒ qù shàng bān",
+    "english": "During the day I go to work."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0006",
+  "hanzi": "百",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "Bǎi",
+  "readings": [
+   "Bǎi",
+   "bǎi"
+  ],
+  "pos": [
+   "m",
+   "t"
+  ],
+  "definition": "hundred",
+  "examples": [
+   {
+    "hanzi": "我有一百本书。",
+    "pinyin": "Wǒ yǒu yī bǎi běn shū.",
+    "english": "I have one hundred books."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0007",
+  "hanzi": "半",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "bàn",
+  "readings": [
+   "bàn"
+  ],
+  "pos": [
+   "m"
+  ],
+  "definition": "half",
+  "examples": [
+   {
+    "hanzi": "我吃了一半",
+    "pinyin": "Wǒ chī le yī bàn",
+    "english": "I ate half"
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0008",
+  "hanzi": "包子",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "bāo zi",
+  "readings": [
+   "bāo zi"
+  ],
+  "pos": [
+   "n"
+  ],
+  "definition": "steamed stuffed bun",
+  "examples": [
+   {
+    "hanzi": "我喜欢吃包子。",
+    "pinyin": "Wǒ xǐhuān chī bāo zi.",
+    "english": "I like to eat steamed buns."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0009",
+  "hanzi": "杯子",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "bēi zi",
+  "readings": [
+   "bēi zi"
+  ],
+  "pos": [
+   "n"
+  ],
+  "definition": "cup; glass",
+  "examples": [
+   {
+    "hanzi": "我有一个杯子。",
+    "pinyin": "Wǒ yǒu yí gè bēi zi.",
+    "english": "I have a cup."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0010",
+  "hanzi": "本",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "běn",
+  "readings": [
+   "běn"
+  ],
+  "pos": [
+   "r",
+   "q",
+   "d",
+   "n"
+  ],
+  "definition": "measure word for books; this; notebook",
+  "examples": [
+   {
+    "hanzi": "我有三本书。",
+    "pinyin": "Wǒ yǒu sān běn shū.",
+    "english": "I have three books."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0011",
+  "hanzi": "边",
+  "traditional": "邊",
+  "level": "1",
+  "pinyin": "biān",
+  "readings": [
+   "biān",
+   "bian"
+  ],
+  "pos": [
+   "k",
+   "d",
+   "n"
+  ],
+  "definition": "side, edge, boundary; (suffix for direction)",
+  "examples": [
+   {
+    "hanzi": "我住在河边。",
+    "pinyin": "wǒ zhù zài hé biān.",
+    "english": "I live by the river."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0012",
+  "hanzi": "便宜",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "biàn yí",
+  "readings": [
+   "biàn yí",
+   "pián yi"
+  ],
+  "pos": [
+   "a",
+   "v",
+   "an"
+  ],
+  "definition": "cheap; inexpensive",
+  "examples": [
+   {
+    "hanzi": "这个苹果很便宜。",
+    "pinyin": "Zhège píngguǒ hěn piányi.",
+    "english": "This apple is very cheap."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0013",
+  "hanzi": "病",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "bìng",
+  "readings": [
+   "bìng"
+  ],
+  "pos": [
+   "n",
+   "v"
+  ],
+  "definition": "illness; to fall ill",
+  "examples": [
+   {
+    "hanzi": "他病了",
+    "pinyin": "tā bìng le",
+    "english": "He is sick."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0014",
+  "hanzi": "不",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "bù",
+  "readings": [
+   "bù"
+  ],
+  "pos": [
+   "d"
+  ],
+  "definition": "not",
+  "examples": [
+   {
+    "hanzi": "我不吃苹果。",
+    "pinyin": "Wǒ bù chī píngguǒ.",
+    "english": "I don't eat apples."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0015",
+  "hanzi": "不客气",
+  "traditional": "不客氣",
+  "level": "1",
+  "pinyin": "bù kè qi",
+  "readings": [
+   "bù kè qi"
+  ],
+  "pos": [],
+  "definition": "you're welcome; don't mention it",
+  "examples": [
+   {
+    "hanzi": "不客气，这是我应该做的。",
+    "pinyin": "Bù kèqi, zhè shì wǒ yīnggāi zuò de.",
+    "english": "You're welcome, it's my pleasure."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0016",
+  "hanzi": "不要",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "bù yào",
+  "readings": [
+   "bù yào"
+  ],
+  "pos": [
+   "d"
+  ],
+  "definition": "do not; don't",
+  "examples": [
+   {
+    "hanzi": "不要吃太多糖。",
+    "pinyin": "Bù yào chī tài duō táng.",
+    "english": "Don't eat too much candy."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0017",
+  "hanzi": "菜",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "cài",
+  "readings": [
+   "cài"
+  ],
+  "pos": [
+   "n"
+  ],
+  "definition": "vegetable; dish (food)",
+  "examples": [
+   {
+    "hanzi": "这道菜很好吃。",
+    "pinyin": "Zhè dào cài hěn hǎochī.",
+    "english": "This dish is very delicious."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0018",
+  "hanzi": "茶",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "chá",
+  "readings": [
+   "chá"
+  ],
+  "pos": [
+   "n",
+   "g"
+  ],
+  "definition": "tea",
+  "examples": [
+   {
+    "hanzi": "我喜欢喝茶。",
+    "pinyin": "Wǒ xǐhuān hē chá.",
+    "english": "I like to drink tea."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0019",
+  "hanzi": "唱",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "chàng",
+  "readings": [
+   "chàng"
+  ],
+  "pos": [
+   "v"
+  ],
+  "definition": "to sing",
+  "examples": [
+   {
+    "hanzi": "她喜欢唱歌。",
+    "pinyin": "tā xǐhuān chànggē.",
+    "english": "She likes to sing."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0020",
+  "hanzi": "超市",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "chāo shì",
+  "readings": [
+   "chāo shì"
+  ],
+  "pos": [
+   "n"
+  ],
+  "definition": "supermarket; grocery store",
+  "examples": [
+   {
+    "hanzi": "我去超市买东西。",
+    "pinyin": "Wǒ qù chāoshì mǎi dōngxī.",
+    "english": "I go to the supermarket to buy things."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0021",
+  "hanzi": "车",
+  "traditional": "車",
+  "level": "1",
+  "pinyin": "Chē",
+  "readings": [
+   "Chē",
+   "chē",
+   "jū"
+  ],
+  "pos": [
+   "n",
+   "q"
+  ],
+  "definition": "vehicle; car; measure word for vehicles",
+  "examples": [
+   {
+    "hanzi": "他有一辆车。",
+    "pinyin": "Tā yǒu yī liàng chē.",
+    "english": "He has a car."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0022",
+  "hanzi": "吃",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "chī",
+  "readings": [
+   "chī"
+  ],
+  "pos": [
+   "v"
+  ],
+  "definition": "to eat",
+  "examples": [
+   {
+    "hanzi": "我吃饭了。",
+    "pinyin": "Wǒ chī fàn le.",
+    "english": "I ate."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0023",
+  "hanzi": "出租车",
+  "traditional": "出租車",
+  "level": "1",
+  "pinyin": "chū zū chē",
+  "readings": [
+   "chū zū chē"
+  ],
+  "pos": [
+   "n"
+  ],
+  "definition": "taxi; cab",
+  "examples": [
+   {
+    "hanzi": "我坐出租车去学校。",
+    "pinyin": "Wǒ zuò chūzūchē qù xuéxiào.",
+    "english": "I take a taxi to school."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0024",
+  "hanzi": "穿",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "chuān",
+  "readings": [
+   "chuān"
+  ],
+  "pos": [
+   "v"
+  ],
+  "definition": "to wear; to put on (clothes)",
+  "examples": [
+   {
+    "hanzi": "我穿一件红色的衣服。",
+    "pinyin": "Wǒ chuān yī jiàn hóngsè de yīfu.",
+    "english": "I am wearing a red dress."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0025",
+  "hanzi": "打电话",
+  "traditional": "打電話",
+  "level": "1",
+  "pinyin": "dǎ diàn huà",
+  "readings": [
+   "dǎ diàn huà"
+  ],
+  "pos": [
+   "v"
+  ],
+  "definition": "to call (someone) on the phone",
+  "examples": [
+   {
+    "hanzi": "我打电话给妈妈。",
+    "pinyin": "Wǒ dǎ diànhuà gěi māma.",
+    "english": "I call my mom."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0026",
+  "hanzi": "大",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "dà",
+  "readings": [
+   "dà",
+   "dài"
+  ],
+  "pos": [
+   "a",
+   "d",
+   "n",
+   "g"
+  ],
+  "definition": "big; large; great; size",
+  "examples": [
+   {
+    "hanzi": "这个苹果很大。",
+    "pinyin": "Zhège píngguǒ hěn dà.",
+    "english": "This apple is very big."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0027",
+  "hanzi": "大家",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "dà jiā",
+  "readings": [
+   "dà jiā"
+  ],
+  "pos": [
+   "r",
+   "n"
+  ],
+  "definition": "everyone; everybody",
+  "examples": [
+   {
+    "hanzi": "大家好",
+    "pinyin": "dà jiā hǎo",
+    "english": "Hello everyone."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0028",
+  "hanzi": "大学",
+  "traditional": "大學",
+  "level": "1",
+  "pinyin": "Dà xué",
+  "readings": [
+   "Dà xué",
+   "dà xué"
+  ],
+  "pos": [
+   "n"
+  ],
+  "definition": "university; college",
+  "examples": [
+   {
+    "hanzi": "我在大学学习。",
+    "pinyin": "Wǒ zài dàxué xuéxí.",
+    "english": "I study at university."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0029",
+  "hanzi": "大学生",
+  "traditional": "大學生",
+  "level": "1",
+  "pinyin": "dà xué shēng",
+  "readings": [
+   "dà xué shēng"
+  ],
+  "pos": [
+   "n"
+  ],
+  "definition": "university student",
+  "examples": [
+   {
+    "hanzi": "我是个大学生。",
+    "pinyin": "Wǒ shì ge dàxuéshēng.",
+    "english": "I am a university student."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0030",
+  "hanzi": "到",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "dào",
+  "readings": [
+   "dào"
+  ],
+  "pos": [
+   "v",
+   "p"
+  ],
+  "definition": "to arrive; to reach; up to",
+  "examples": [
+   {
+    "hanzi": "我到了学校。",
+    "pinyin": "Wǒ dào le xuéxiào.",
+    "english": "I arrived at school."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0031",
+  "hanzi": "的",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "de",
+  "readings": [
+   "de",
+   "dī",
+   "dí",
+   "dì"
+  ],
+  "pos": [
+   "u",
+   "n"
+  ],
+  "definition": "possessive particle; used to form a modifying phrase",
+  "examples": [
+   {
+    "hanzi": "我的书",
+    "pinyin": "wǒ de shū",
+    "english": "my book"
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0032",
+  "hanzi": "弟弟",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "dì di",
+  "readings": [
+   "dì di"
+  ],
+  "pos": [
+   "n"
+  ],
+  "definition": "younger brother",
+  "examples": [
+   {
+    "hanzi": "我的弟弟很聪明。",
+    "pinyin": "wǒ de dì di hěn cōng míng.",
+    "english": "My younger brother is very smart."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0033",
+  "hanzi": "第",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "dì",
+  "readings": [
+   "dì"
+  ],
+  "pos": [
+   "m"
+  ],
+  "definition": "prefix for ordinal numbers (e.g., first, second)",
+  "examples": [
+   {
+    "hanzi": "我是第一个。",
+    "pinyin": "Wǒ shì dì yī gè.",
+    "english": "I am the first one."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0034",
+  "hanzi": "点",
+  "traditional": "點",
+  "level": "1",
+  "pinyin": "diǎn",
+  "readings": [
+   "diǎn"
+  ],
+  "pos": [
+   "qt",
+   "n",
+   "t",
+   "v"
+  ],
+  "definition": "dot; point; o'clock; a bit; to order",
+  "examples": [
+   {
+    "hanzi": "我有一点饿。",
+    "pinyin": "Wǒ yǒu yīdiǎn è.",
+    "english": "I'm a little hungry."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0035",
+  "hanzi": "电话",
+  "traditional": "電話",
+  "level": "1",
+  "pinyin": "diàn huà",
+  "readings": [
+   "diàn huà"
+  ],
+  "pos": [
+   "n"
+  ],
+  "definition": "telephone; phone call",
+  "examples": [
+   {
+    "hanzi": "我接电话。",
+    "pinyin": "wǒ jiē diàn huà",
+    "english": "I answer the phone."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0036",
+  "hanzi": "电脑",
+  "traditional": "電腦",
+  "level": "1",
+  "pinyin": "diàn nǎo",
+  "readings": [
+   "diàn nǎo"
+  ],
+  "pos": [
+   "n"
+  ],
+  "definition": "computer",
+  "examples": [
+   {
+    "hanzi": "我用电脑学习中文。",
+    "pinyin": "Wǒ yòng diànnǎo xuéxí Zhōngwén.",
+    "english": "I use a computer to study Chinese."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0037",
+  "hanzi": "电视",
+  "traditional": "電視",
+  "level": "1",
+  "pinyin": "diàn shì",
+  "readings": [
+   "diàn shì"
+  ],
+  "pos": [
+   "n"
+  ],
+  "definition": "television; TV",
+  "examples": [
+   {
+    "hanzi": "我看电视。",
+    "pinyin": "Wǒ kàn diànshì.",
+    "english": "I watch TV."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0038",
+  "hanzi": "电影",
+  "traditional": "電影",
+  "level": "1",
+  "pinyin": "diàn yǐng",
+  "readings": [
+   "diàn yǐng"
+  ],
+  "pos": [
+   "n"
+  ],
+  "definition": "movie; film",
+  "examples": [
+   {
+    "hanzi": "我喜欢看电影。",
+    "pinyin": "wǒ xǐhuān kàn diànyǐng.",
+    "english": "I like watching movies."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0039",
+  "hanzi": "电影院",
+  "traditional": "電影院",
+  "level": "1",
+  "pinyin": "diàn yǐng yuàn",
+  "readings": [
+   "diàn yǐng yuàn"
+  ],
+  "pos": [
+   "n"
+  ],
+  "definition": "cinema; movie theater",
+  "examples": [
+   {
+    "hanzi": "我去电影院看电影。",
+    "pinyin": "wǒ qù diàn yǐng yuàn kàn diàn yǐng.",
+    "english": "I go to the cinema to watch a movie."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0040",
+  "hanzi": "店",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "diàn",
+  "readings": [
+   "diàn"
+  ],
+  "pos": [
+   "n"
+  ],
+  "definition": "shop; store",
+  "examples": [
+   {
+    "hanzi": "他在店里买东西。",
+    "pinyin": "tā zài diàn lǐ mǎi dōngxi.",
+    "english": "He is buying things in the store."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0041",
+  "hanzi": "东西",
+  "traditional": "東西",
+  "level": "1",
+  "pinyin": "dōng xī",
+  "readings": [
+   "dōng xī",
+   "dōng xi"
+  ],
+  "pos": [
+   "n",
+   "f",
+   "nr"
+  ],
+  "definition": "thing; object",
+  "examples": [
+   {
+    "hanzi": "这个东西很好。",
+    "pinyin": "zhè ge dōng xi hěn hǎo.",
+    "english": "This thing is very good."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0042",
+  "hanzi": "都",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "Dū",
+  "readings": [
+   "Dū",
+   "dōu",
+   "dū"
+  ],
+  "pos": [
+   "d",
+   "g"
+  ],
+  "definition": "capital (city)",
+  "examples": [
+   {
+    "hanzi": "这个城市是都。",
+    "pinyin": "Zhège chéngshì shì dū.",
+    "english": "This city is a capital."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0043",
+  "hanzi": "读",
+  "traditional": "讀",
+  "level": "1",
+  "pinyin": "dòu",
+  "readings": [
+   "dòu",
+   "dú"
+  ],
+  "pos": [
+   "v"
+  ],
+  "definition": "to read",
+  "examples": [
+   {
+    "hanzi": "我每天读书。",
+    "pinyin": "Wǒ měitiān dú shū.",
+    "english": "I read books every day."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0044",
+  "hanzi": "读书",
+  "traditional": "讀書",
+  "level": "1",
+  "pinyin": "dú shū",
+  "readings": [
+   "dú shū"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ],
+  "definition": "read books; study",
+  "examples": [
+   {
+    "hanzi": "我喜欢读书。",
+    "pinyin": "Wǒ xǐhuān dú shū.",
+    "english": "I like reading books."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0045",
+  "hanzi": "对",
+  "traditional": "對",
+  "level": "1",
+  "pinyin": "duì",
+  "readings": [
+   "duì"
+  ],
+  "pos": [
+   "p",
+   "v",
+   "q",
+   "a"
+  ],
+  "definition": "correct; towards; to treat; (measure word for pairs)",
+  "examples": [
+   {
+    "hanzi": "他是对的。",
+    "pinyin": "Tā shì duì de.",
+    "english": "He is right."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0046",
+  "hanzi": "对不起",
+  "traditional": "對不起",
+  "level": "1",
+  "pinyin": "duì bu qǐ",
+  "readings": [
+   "duì bu qǐ"
+  ],
+  "pos": [
+   "v"
+  ],
+  "definition": "sorry; to apologize",
+  "examples": [
+   {
+    "hanzi": "对不起，我迟到了。",
+    "pinyin": "Duìbuqǐ, wǒ chídào le.",
+    "english": "Sorry, I'm late."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0047",
+  "hanzi": "多",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "duō",
+  "readings": [
+   "duō"
+  ],
+  "pos": [
+   "a",
+   "m",
+   "ad",
+   "d",
+   "v",
+   "g"
+  ],
+  "definition": "many; much; more",
+  "examples": [
+   {
+    "hanzi": "我有多个朋友。",
+    "pinyin": "wǒ yǒu duō gè péngyou.",
+    "english": "I have many friends."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0048",
+  "hanzi": "多少",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "duō shǎo",
+  "readings": [
+   "duō shǎo",
+   "duō shao"
+  ],
+  "pos": [
+   "r"
+  ],
+  "definition": "how many; how much",
+  "examples": [
+   {
+    "hanzi": "你家有多少人？",
+    "pinyin": "Nǐ jiā yǒu duōshao rén?",
+    "english": "How many people are in your family?"
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0049",
+  "hanzi": "儿子",
+  "traditional": "兒子",
+  "level": "1",
+  "pinyin": "ér zi",
+  "readings": [
+   "ér zi"
+  ],
+  "pos": [
+   "n"
+  ],
+  "definition": "son",
+  "examples": [
+   {
+    "hanzi": "我有一个儿子。",
+    "pinyin": "Wǒ yǒu yī gè ér zi.",
+    "english": "I have a son."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0050",
+  "hanzi": "二",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "èr",
+  "readings": [
+   "èr"
+  ],
+  "pos": [
+   "m",
+   "t"
+  ],
+  "definition": "two; 2",
+  "examples": [
+   {
+    "hanzi": "二加二等于四。",
+    "pinyin": "Èr jiā èr děngyú sì.",
+    "english": "Two plus two equals four."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0051",
+  "hanzi": "饭",
+  "traditional": "飯",
+  "level": "1",
+  "pinyin": "fàn",
+  "readings": [
+   "fàn"
+  ],
+  "pos": [
+   "n"
+  ],
+  "definition": "cooked rice; meal; food",
+  "examples": [
+   {
+    "hanzi": "我吃饭了。",
+    "pinyin": "Wǒ chī fàn le.",
+    "english": "I have eaten."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0052",
+  "hanzi": "饭店",
+  "traditional": "飯店",
+  "level": "1",
+  "pinyin": "fàn diàn",
+  "readings": [
+   "fàn diàn"
+  ],
+  "pos": [
+   "n"
+  ],
+  "definition": "restaurant; hotel",
+  "examples": [
+   {
+    "hanzi": "我在饭店吃饭。",
+    "pinyin": "wǒ zài fàndiàn chīfàn.",
+    "english": "I eat at a restaurant."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0053",
+  "hanzi": "房间",
+  "traditional": "房間",
+  "level": "1",
+  "pinyin": "fáng jiān",
+  "readings": [
+   "fáng jiān"
+  ],
+  "pos": [
+   "n"
+  ],
+  "definition": "room",
+  "examples": [
+   {
+    "hanzi": "这个房间很大。",
+    "pinyin": "Zhège fángjiān hěn dà.",
+    "english": "This room is very big."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0054",
+  "hanzi": "飞机",
+  "traditional": "飛機",
+  "level": "1",
+  "pinyin": "fēi jī",
+  "readings": [
+   "fēi jī"
+  ],
+  "pos": [
+   "n"
+  ],
+  "definition": "airplane; aircraft",
+  "examples": [
+   {
+    "hanzi": "我坐飞机去北京。",
+    "pinyin": "wǒ zuò fēijī qù běijīng.",
+    "english": "I take a plane to Beijing."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0055",
+  "hanzi": "非常",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "fēi cháng",
+  "readings": [
+   "fēi cháng"
+  ],
+  "pos": [
+   "d",
+   "b"
+  ],
+  "definition": "very; extremely",
+  "examples": [
+   {
+    "hanzi": "我非常喜欢猫。",
+    "pinyin": "Wǒ fēicháng xǐhuān māo.",
+    "english": "I like cats very much."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0056",
+  "hanzi": "分",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "fēn",
+  "readings": [
+   "fēn",
+   "fèn"
+  ],
+  "pos": [
+   "t",
+   "qt",
+   "v",
+   "g",
+   "n",
+   "d"
+  ],
+  "definition": "to divide; minute; fraction; cent",
+  "examples": [
+   {
+    "hanzi": "请分给我一块蛋糕。",
+    "pinyin": "Qǐng fēn gěi wǒ yī kuài dàn gāo.",
+    "english": "Please give me a piece of cake."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0057",
+  "hanzi": "分钟",
+  "traditional": "分鐘",
+  "level": "1",
+  "pinyin": "fēn zhōng",
+  "readings": [
+   "fēn zhōng"
+  ],
+  "pos": [
+   "qt"
+  ],
+  "definition": "minute (unit of time)",
+  "examples": [
+   {
+    "hanzi": "我等你十分钟。",
+    "pinyin": "wǒ děng nǐ shí fēn zhōng",
+    "english": "I'll wait for you for ten minutes."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0058",
+  "hanzi": "高兴",
+  "traditional": "高興",
+  "level": "1",
+  "pinyin": "gāo xìng",
+  "readings": [
+   "gāo xìng"
+  ],
+  "pos": [
+   "a",
+   "an"
+  ],
+  "definition": "happy; glad",
+  "examples": [
+   {
+    "hanzi": "我今天很高兴。",
+    "pinyin": "Wǒ jīntiān hěn gāoxìng.",
+    "english": "I am very happy today."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0059",
+  "hanzi": "哥哥",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "gē ge",
+  "readings": [
+   "gē ge"
+  ],
+  "pos": [
+   "n"
+  ],
+  "definition": "older brother",
+  "examples": [
+   {
+    "hanzi": "我的哥哥很高。",
+    "pinyin": "Wǒ de gēge hěn gāo.",
+    "english": "My older brother is very tall."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0060",
+  "hanzi": "歌",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "gē",
+  "readings": [
+   "gē"
+  ],
+  "pos": [
+   "n",
+   "g"
+  ],
+  "definition": "song; to sing",
+  "examples": [
+   {
+    "hanzi": "我喜欢唱歌",
+    "pinyin": "Wǒ xǐhuān chànggē",
+    "english": "I like to sing songs."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0061",
+  "hanzi": "个",
+  "traditional": "個",
+  "level": "1",
+  "pinyin": "gě",
+  "readings": [
+   "gě",
+   "gè"
+  ],
+  "pos": [
+   "q",
+   "g"
+  ],
+  "definition": "general measure word for people, objects, etc.",
+  "examples": [
+   {
+    "hanzi": "我有一个苹果。",
+    "pinyin": "wǒ yǒu yī gè píngguǒ.",
+    "english": "I have an apple."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0062",
+  "hanzi": "给",
+  "traditional": "給",
+  "level": "1",
+  "pinyin": "gěi",
+  "readings": [
+   "gěi",
+   "jǐ"
+  ],
+  "pos": [
+   "p",
+   "v",
+   "u"
+  ],
+  "definition": "to give; for, to",
+  "examples": [
+   {
+    "hanzi": "我给你一本书",
+    "pinyin": "Wǒ gěi nǐ yī běn shū",
+    "english": "I give you a book."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0063",
+  "hanzi": "工作",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "gōng zuò",
+  "readings": [
+   "gōng zuò"
+  ],
+  "pos": [
+   "vn",
+   "v",
+   "n"
+  ],
+  "definition": "work; job",
+  "examples": [
+   {
+    "hanzi": "我每天工作八小时",
+    "pinyin": "wǒ měitiān gōngzuò bā xiǎoshí",
+    "english": "I work eight hours every day"
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0064",
+  "hanzi": "公司",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "gōng sī",
+  "readings": [
+   "gōng sī"
+  ],
+  "pos": [
+   "n"
+  ],
+  "definition": "company; corporation",
+  "examples": [
+   {
+    "hanzi": "他在一家公司工作。",
+    "pinyin": "Tā zài yī jiā gōngsī gōngzuò.",
+    "english": "He works at a company."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0065",
+  "hanzi": "狗",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "gǒu",
+  "readings": [
+   "gǒu"
+  ],
+  "pos": [
+   "n"
+  ],
+  "definition": "dog",
+  "examples": [
+   {
+    "hanzi": "我有一只狗。",
+    "pinyin": "wǒ yǒu yì zhī gǒu.",
+    "english": "I have a dog."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0066",
+  "hanzi": "贵",
+  "traditional": "貴",
+  "level": "1",
+  "pinyin": "guì",
+  "readings": [
+   "guì"
+  ],
+  "pos": [
+   "a",
+   "r",
+   "b",
+   "g"
+  ],
+  "definition": "expensive; valuable; your (polite)",
+  "examples": [
+   {
+    "hanzi": "这本书很贵。",
+    "pinyin": "Zhè běn shū hěn guì.",
+    "english": "This book is very expensive."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0067",
+  "hanzi": "国",
+  "traditional": "國",
+  "level": "1",
+  "pinyin": "Guó",
+  "readings": [
+   "Guó",
+   "guó"
+  ],
+  "pos": [
+   "n"
+  ],
+  "definition": "country; nation",
+  "examples": [
+   {
+    "hanzi": "中国是一个大国。",
+    "pinyin": "Zhōngguó shì yī gè dà guó.",
+    "english": "China is a big country."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0068",
+  "hanzi": "还",
+  "traditional": "還",
+  "level": "1",
+  "pinyin": "Huán",
+  "readings": [
+   "Huán",
+   "hái",
+   "huán"
+  ],
+  "pos": [
+   "d",
+   "v"
+  ],
+  "definition": "to return; to give back",
+  "examples": [
+   {
+    "hanzi": "我还书。",
+    "pinyin": "Wǒ huán shū.",
+    "english": "I return the book."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0069",
+  "hanzi": "孩子",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "hái zi",
+  "readings": [
+   "hái zi"
+  ],
+  "pos": [
+   "n"
+  ],
+  "definition": "child; children",
+  "examples": [
+   {
+    "hanzi": "孩子喜欢玩。",
+    "pinyin": "hái zi xǐ huān wán.",
+    "english": "Children like to play."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0070",
+  "hanzi": "汉语",
+  "traditional": "漢語",
+  "level": "1",
+  "pinyin": "Hàn yǔ",
+  "readings": [
+   "Hàn yǔ"
+  ],
+  "pos": [
+   "nz"
+  ],
+  "definition": "Chinese language",
+  "examples": [
+   {
+    "hanzi": "我在学习汉语。",
+    "pinyin": "Wǒ zài xuéxí Hànyǔ.",
+    "english": "I am learning Chinese."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0071",
+  "hanzi": "汉字",
+  "traditional": "漢字",
+  "level": "1",
+  "pinyin": "hàn zì",
+  "readings": [
+   "hàn zì"
+  ],
+  "pos": [
+   "nz",
+   "n"
+  ],
+  "definition": "Chinese character(s)",
+  "examples": [
+   {
+    "hanzi": "这汉字很难写。",
+    "pinyin": "Zhè hànzì hěn nán xiě.",
+    "english": "This Chinese character is hard to write."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0072",
+  "hanzi": "好",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "hǎo",
+  "readings": [
+   "hǎo",
+   "hào"
+  ],
+  "pos": [
+   "a",
+   "d",
+   "v"
+  ],
+  "definition": "good; well; OK; easy",
+  "examples": [
+   {
+    "hanzi": "你好吗？",
+    "pinyin": "Nǐ hǎo ma?",
+    "english": "How are you?"
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0073",
+  "hanzi": "好吃",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "hǎo chī",
+  "readings": [
+   "hǎo chī",
+   "hào chī"
+  ],
+  "pos": [
+   "a"
+  ],
+  "definition": "delicious; tasty",
+  "examples": [
+   {
+    "hanzi": "这个苹果很好吃。",
+    "pinyin": "Zhège píngguǒ hěn hǎochī.",
+    "english": "This apple is very delicious."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0074",
+  "hanzi": "好看",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "hǎo kàn",
+  "readings": [
+   "hǎo kàn"
+  ],
+  "pos": [
+   "a"
+  ],
+  "definition": "good-looking; pretty",
+  "examples": [
+   {
+    "hanzi": "这件衣服很好看。",
+    "pinyin": "Zhè jiàn yīfu hěn hǎokàn.",
+    "english": "This piece of clothing is very pretty."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0075",
+  "hanzi": "好听",
+  "traditional": "好聽",
+  "level": "1",
+  "pinyin": "hǎo tīng",
+  "readings": [
+   "hǎo tīng"
+  ],
+  "pos": [
+   "a"
+  ],
+  "definition": "pleasant to hear; nice-sounding",
+  "examples": [
+   {
+    "hanzi": "这首歌很好听。",
+    "pinyin": "zhè shǒu gē hěn hǎo tīng.",
+    "english": "This song sounds very nice."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0076",
+  "hanzi": "好玩儿",
+  "traditional": "好玩兒",
+  "level": "1",
+  "pinyin": "hǎo wán r",
+  "readings": [
+   "hǎo wán r"
+  ],
+  "pos": [
+   "a"
+  ],
+  "definition": "fun; amusing",
+  "examples": [
+   {
+    "hanzi": "这个游戏很好玩儿。",
+    "pinyin": "Zhè ge yóuxì hěn hǎo wán r.",
+    "english": "This game is very fun."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0077",
+  "hanzi": "号",
+  "traditional": "號",
+  "level": "1",
+  "pinyin": "háo",
+  "readings": [
+   "háo",
+   "hào"
+  ],
+  "pos": [
+   "q",
+   "n",
+   "v"
+  ],
+  "definition": "number; mark; measure word for number of people",
+  "examples": [
+   {
+    "hanzi": "我的号是五。",
+    "pinyin": "wǒ de hào shì wǔ.",
+    "english": "My number is five."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0078",
+  "hanzi": "喝",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "hē",
+  "readings": [
+   "hē",
+   "hè"
+  ],
+  "pos": [
+   "g",
+   "vn"
+  ],
+  "definition": "to drink",
+  "examples": [
+   {
+    "hanzi": "我喝水。",
+    "pinyin": "wǒ hē shuǐ.",
+    "english": "I drink water."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0079",
+  "hanzi": "和",
+  "traditional": "咊",
+  "level": "1",
+  "pinyin": "hé",
+  "readings": [
+   "hé",
+   "Hé",
+   "hè",
+   "hú",
+   "huó",
+   "huò"
+  ],
+  "pos": [
+   "cc",
+   "p",
+   "v",
+   "qv",
+   "g",
+   "n"
+  ],
+  "definition": "and; with",
+  "examples": [
+   {
+    "hanzi": "我和妈妈去商店。",
+    "pinyin": "Wǒ hé māma qù shāngdiàn.",
+    "english": "My mom and I go to the store."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0080",
+  "hanzi": "很",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "hěn",
+  "readings": [
+   "hěn"
+  ],
+  "pos": [
+   "d"
+  ],
+  "definition": "very; quite",
+  "examples": [
+   {
+    "hanzi": "这个苹果很好吃。",
+    "pinyin": "Zhège píngguǒ hěn hǎochī.",
+    "english": "This apple is very delicious."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0081",
+  "hanzi": "后",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "Hòu",
+  "readings": [
+   "Hòu",
+   "hòu"
+  ],
+  "pos": [
+   "f",
+   "g",
+   "t"
+  ],
+  "definition": "after; behind; later",
+  "examples": [
+   {
+    "hanzi": "我放学后回家",
+    "pinyin": "Wǒ fàngxué hòu huí jiā",
+    "english": "I go home after school"
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0082",
+  "hanzi": "回",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "huí",
+  "readings": [
+   "huí"
+  ],
+  "pos": [
+   "v",
+   "qv"
+  ],
+  "definition": "to return; measure word for times",
+  "examples": [
+   {
+    "hanzi": "我回学校了。",
+    "pinyin": "Wǒ huí xuéxiào le.",
+    "english": "I went back to school."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0083",
+  "hanzi": "会",
+  "traditional": "會",
+  "level": "1",
+  "pinyin": "huì",
+  "readings": [
+   "huì",
+   "kuài"
+  ],
+  "pos": [
+   "v",
+   "n"
+  ],
+  "definition": "can; be able to; will; meeting",
+  "examples": [
+   {
+    "hanzi": "我会说中文。",
+    "pinyin": "Wǒ huì shuō zhōngwén.",
+    "english": "I can speak Chinese."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0084",
+  "hanzi": "火车",
+  "traditional": "火車",
+  "level": "1",
+  "pinyin": "huǒ chē",
+  "readings": [
+   "huǒ chē"
+  ],
+  "pos": [
+   "n"
+  ],
+  "definition": "train",
+  "examples": [
+   {
+    "hanzi": "我坐火车去北京。",
+    "pinyin": "wǒ zuò huǒ chē qù běi jīng.",
+    "english": "I go to Beijing by train."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0085",
+  "hanzi": "鸡蛋",
+  "traditional": "雞蛋",
+  "level": "1",
+  "pinyin": "jī dàn",
+  "readings": [
+   "jī dàn"
+  ],
+  "pos": [
+   "n"
+  ],
+  "definition": "egg",
+  "examples": [
+   {
+    "hanzi": "我吃鸡蛋。",
+    "pinyin": "Wǒ chī jī dàn.",
+    "english": "I eat eggs."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0086",
+  "hanzi": "几",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "jī",
+  "readings": [
+   "jī",
+   "jǐ"
+  ],
+  "pos": [
+   "m",
+   "d"
+  ],
+  "definition": "how many; a few",
+  "examples": [
+   {
+    "hanzi": "你有几本书？",
+    "pinyin": "Nǐ yǒu jǐ běn shū?",
+    "english": "How many books do you have?"
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0087",
+  "hanzi": "家",
+  "traditional": "傢",
+  "level": "1",
+  "pinyin": "jiā",
+  "readings": [
+   "jiā"
+  ],
+  "pos": [
+   "n",
+   "q"
+  ],
+  "definition": "family; home",
+  "examples": [
+   {
+    "hanzi": "我家有三口人。",
+    "pinyin": "Wǒ jiā yǒu sān kǒu rén.",
+    "english": "My family has three people."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0088",
+  "hanzi": "家人",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "jiā rén",
+  "readings": [
+   "jiā rén"
+  ],
+  "pos": [
+   "n",
+   "nr"
+  ],
+  "definition": "family members",
+  "examples": [
+   {
+    "hanzi": "我的家人很爱我。",
+    "pinyin": "Wǒ de jiārén hěn ài wǒ.",
+    "english": "My family loves me very much."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0089",
+  "hanzi": "见",
+  "traditional": "見",
+  "level": "1",
+  "pinyin": "jiàn",
+  "readings": [
+   "jiàn",
+   "xiàn"
+  ],
+  "pos": [
+   "v",
+   "g"
+  ],
+  "definition": "to see; to meet (with)",
+  "examples": [
+   {
+    "hanzi": "我明天见朋友。",
+    "pinyin": "wǒ míngtiān jiàn péngyou.",
+    "english": "I will meet a friend tomorrow."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0090",
+  "hanzi": "件",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "jiàn",
+  "readings": [
+   "jiàn"
+  ],
+  "pos": [
+   "q",
+   "g"
+  ],
+  "definition": "measure word for items, clothing, etc.",
+  "examples": [
+   {
+    "hanzi": "我有一件衣服。",
+    "pinyin": "Wǒ yǒu yī jiàn yīfu.",
+    "english": "I have a piece of clothing."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0091",
+  "hanzi": "饺子",
+  "traditional": "餃子",
+  "level": "1",
+  "pinyin": "jiǎo zi",
+  "readings": [
+   "jiǎo zi"
+  ],
+  "pos": [
+   "n"
+  ],
+  "definition": "dumpling",
+  "examples": [
+   {
+    "hanzi": "我爱吃饺子",
+    "pinyin": "wǒ ài chī jiǎo zi",
+    "english": "I like eating dumplings"
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0092",
+  "hanzi": "叫",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "jiào",
+  "readings": [
+   "jiào"
+  ],
+  "pos": [
+   "v",
+   "p",
+   "n"
+  ],
+  "definition": "to call; to be called; to order",
+  "examples": [
+   {
+    "hanzi": "我叫小明。",
+    "pinyin": "Wǒ jiào Xiǎo Míng.",
+    "english": "My name is Xiaoming."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0093",
+  "hanzi": "姐姐",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "jiě jie",
+  "readings": [
+   "jiě jie"
+  ],
+  "pos": [
+   "n"
+  ],
+  "definition": "elder sister",
+  "examples": [
+   {
+    "hanzi": "我的姐姐是医生。",
+    "pinyin": "wǒ de jiějie shì yīshēng.",
+    "english": "My elder sister is a doctor."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0094",
+  "hanzi": "今年",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "jīn nián",
+  "readings": [
+   "jīn nián"
+  ],
+  "pos": [
+   "t"
+  ],
+  "definition": "this year",
+  "examples": [
+   {
+    "hanzi": "今年我十八岁。",
+    "pinyin": "Jīnnián wǒ shíbā suì.",
+    "english": "I am eighteen years old this year."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0095",
+  "hanzi": "今天",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "jīn tiān",
+  "readings": [
+   "jīn tiān"
+  ],
+  "pos": [
+   "t"
+  ],
+  "definition": "today",
+  "examples": [
+   {
+    "hanzi": "今天我很高兴。",
+    "pinyin": "jīntiān wǒ hěn gāoxìng.",
+    "english": "I am very happy today."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0096",
+  "hanzi": "九",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "jiǔ",
+  "readings": [
+   "jiǔ"
+  ],
+  "pos": [
+   "m",
+   "t",
+   "b"
+  ],
+  "definition": "nine",
+  "examples": [
+   {
+    "hanzi": "我有九本书",
+    "pinyin": "Wǒ yǒu jiǔ běn shū",
+    "english": "I have nine books."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0097",
+  "hanzi": "觉得",
+  "traditional": "覺得",
+  "level": "1",
+  "pinyin": "jué de",
+  "readings": [
+   "jué de"
+  ],
+  "pos": [
+   "v"
+  ],
+  "definition": "feel; think",
+  "examples": [
+   {
+    "hanzi": "我觉得这个很好。",
+    "pinyin": "Wǒ jué de zhè gè hěn hǎo.",
+    "english": "I think this is very good."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0098",
+  "hanzi": "开",
+  "traditional": "開",
+  "level": "1",
+  "pinyin": "kāi",
+  "readings": [
+   "kāi"
+  ],
+  "pos": [
+   "v",
+   "q"
+  ],
+  "definition": "to open; to start; to turn on; to drive",
+  "examples": [
+   {
+    "hanzi": "请开门。",
+    "pinyin": "Qǐng kāi mén.",
+    "english": "Please open the door."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0099",
+  "hanzi": "开车",
+  "traditional": "開車",
+  "level": "1",
+  "pinyin": "kāi chē",
+  "readings": [
+   "kāi chē"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ],
+  "definition": "drive a car; start a vehicle",
+  "examples": [
+   {
+    "hanzi": "我开车去学校。",
+    "pinyin": "Wǒ kāi chē qù xuéxiào.",
+    "english": "I drive to school."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0100",
+  "hanzi": "看",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "kān",
+  "readings": [
+   "kān",
+   "kàn"
+  ],
+  "pos": [
+   "v",
+   "u"
+  ],
+  "definition": "to look; to see; to read",
+  "examples": [
+   {
+    "hanzi": "我看书。",
+    "pinyin": "Wǒ kàn shū.",
+    "english": "I read a book."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0101",
+  "hanzi": "看病",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "kàn bìng",
+  "readings": [
+   "kàn bìng"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ],
+  "definition": "see a doctor; consult a doctor",
+  "examples": [
+   {
+    "hanzi": "我去医院看病。",
+    "pinyin": "Wǒ qù yīyuàn kàn bìng.",
+    "english": "I go to the hospital to see a doctor."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0102",
+  "hanzi": "看见",
+  "traditional": "看見",
+  "level": "1",
+  "pinyin": "kàn jiàn",
+  "readings": [
+   "kàn jiàn"
+  ],
+  "pos": [
+   "v"
+  ],
+  "definition": "to see",
+  "examples": [
+   {
+    "hanzi": "我看见一只猫。",
+    "pinyin": "Wǒ kànjiàn yī zhī māo.",
+    "english": "I see a cat."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0103",
+  "hanzi": "可以",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "kě yǐ",
+  "readings": [
+   "kě yǐ"
+  ],
+  "pos": [
+   "v"
+  ],
+  "definition": "can; may; be allowed to",
+  "examples": [
+   {
+    "hanzi": "我可以进来吗？",
+    "pinyin": "Wǒ kěyǐ jìnlái ma?",
+    "english": "May I come in?"
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0104",
+  "hanzi": "课",
+  "traditional": "課",
+  "level": "1",
+  "pinyin": "kè",
+  "readings": [
+   "kè"
+  ],
+  "pos": [
+   "n"
+  ],
+  "definition": "class; lesson; course",
+  "examples": [
+   {
+    "hanzi": "我们有中文课。",
+    "pinyin": "wǒmen yǒu zhōngwén kè.",
+    "english": "We have Chinese class."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0105",
+  "hanzi": "口",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "kǒu",
+  "readings": [
+   "kǒu"
+  ],
+  "pos": [
+   "q",
+   "n"
+  ],
+  "definition": "mouth; opening; measure word for family members",
+  "examples": [
+   {
+    "hanzi": "我家有三口人。",
+    "pinyin": "wǒ jiā yǒu sān kǒu rén",
+    "english": "My family has three people."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0106",
+  "hanzi": "块",
+  "traditional": "塊",
+  "level": "1",
+  "pinyin": "kuài",
+  "readings": [
+   "kuài"
+  ],
+  "pos": [
+   "q",
+   "g"
+  ],
+  "definition": "piece; measure word for money",
+  "examples": [
+   {
+    "hanzi": "这个苹果一块钱。",
+    "pinyin": "Zhè ge píngguǒ yī kuài qián.",
+    "english": "This apple is one yuan."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0107",
+  "hanzi": "来",
+  "traditional": "來",
+  "level": "1",
+  "pinyin": "lái",
+  "readings": [
+   "lái"
+  ],
+  "pos": [
+   "v",
+   "f",
+   "m",
+   "u",
+   "y"
+  ],
+  "definition": "to come; arrive",
+  "examples": [
+   {
+    "hanzi": "他来了",
+    "pinyin": "tā lái le",
+    "english": "He came."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0108",
+  "hanzi": "老师",
+  "traditional": "老師",
+  "level": "1",
+  "pinyin": "lǎo shī",
+  "readings": [
+   "lǎo shī"
+  ],
+  "pos": [
+   "n"
+  ],
+  "definition": "teacher",
+  "examples": [
+   {
+    "hanzi": "我的老师很好。",
+    "pinyin": "wǒ de lǎo shī hěn hǎo.",
+    "english": "My teacher is very good."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0109",
+  "hanzi": "了",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "le",
+  "readings": [
+   "le",
+   "liǎo",
+   "liào"
+  ],
+  "pos": [
+   "y",
+   "u",
+   "v"
+  ],
+  "definition": "particle indicating completed action or change of state",
+  "examples": [
+   {
+    "hanzi": "他走了。",
+    "pinyin": "Tā zǒu le.",
+    "english": "He has left."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0110",
+  "hanzi": "冷",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "Lěng",
+  "readings": [
+   "Lěng",
+   "lěng"
+  ],
+  "pos": [
+   "a",
+   "ad",
+   "g"
+  ],
+  "definition": "cold (temperature)",
+  "examples": [
+   {
+    "hanzi": "今天很冷。",
+    "pinyin": "Jīntiān hěn lěng.",
+    "english": "It's cold today."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0111",
+  "hanzi": "里",
+  "traditional": "裏",
+  "level": "1",
+  "pinyin": "lǐ",
+  "readings": [
+   "lǐ",
+   "Lǐ"
+  ],
+  "pos": [
+   "f",
+   "q"
+  ],
+  "definition": "inside; in; Chinese mile (unit of distance)",
+  "examples": [
+   {
+    "hanzi": "我在家里。",
+    "pinyin": "wǒ zài jiā lǐ.",
+    "english": "I am at home."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0112",
+  "hanzi": "两",
+  "traditional": "兩",
+  "level": "1",
+  "pinyin": "liǎng",
+  "readings": [
+   "liǎng"
+  ],
+  "pos": [
+   "m",
+   "t"
+  ],
+  "definition": "two (used before measure words and hundreds, thousands, etc.)",
+  "examples": [
+   {
+    "hanzi": "我有两本书。",
+    "pinyin": "Wǒ yǒu liǎng běn shū.",
+    "english": "I have two books."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0113",
+  "hanzi": "零",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "líng",
+  "readings": [
+   "líng"
+  ],
+  "pos": [
+   "m",
+   "t",
+   "g"
+  ],
+  "definition": "zero; nil",
+  "examples": [
+   {
+    "hanzi": "零下十度",
+    "pinyin": "líng xià shí dù",
+    "english": "ten degrees below zero"
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0114",
+  "hanzi": "六",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "liù",
+  "readings": [
+   "liù"
+  ],
+  "pos": [
+   "m",
+   "t"
+  ],
+  "definition": "six",
+  "examples": [
+   {
+    "hanzi": "一共六个人",
+    "pinyin": "yīgòng liù gè rén",
+    "english": "There are six people in total."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0115",
+  "hanzi": "妈妈",
+  "traditional": "媽媽",
+  "level": "1",
+  "pinyin": "mā ma",
+  "readings": [
+   "mā ma"
+  ],
+  "pos": [
+   "n"
+  ],
+  "definition": "mother; mom",
+  "examples": [
+   {
+    "hanzi": "我的妈妈很好。",
+    "pinyin": "wǒ de mā ma hěn hǎo.",
+    "english": "My mother is very kind."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0116",
+  "hanzi": "吗",
+  "traditional": "嗎",
+  "level": "1",
+  "pinyin": "má",
+  "readings": [
+   "má",
+   "mǎ",
+   "ma"
+  ],
+  "pos": [
+   "y"
+  ],
+  "definition": "question particle",
+  "examples": [
+   {
+    "hanzi": "你好吗？",
+    "pinyin": "Nǐ hǎo má?",
+    "english": "How are you?"
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0117",
+  "hanzi": "买",
+  "traditional": "買",
+  "level": "1",
+  "pinyin": "mǎi",
+  "readings": [
+   "mǎi"
+  ],
+  "pos": [
+   "v"
+  ],
+  "definition": "to buy",
+  "examples": [
+   {
+    "hanzi": "我买一个苹果。",
+    "pinyin": "Wǒ mǎi yī gè píngguǒ.",
+    "english": "I buy an apple."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0118",
+  "hanzi": "卖",
+  "traditional": "賣",
+  "level": "1",
+  "pinyin": "mài",
+  "readings": [
+   "mài"
+  ],
+  "pos": [
+   "v"
+  ],
+  "definition": "to sell",
+  "examples": [
+   {
+    "hanzi": "她卖水果。",
+    "pinyin": "Tā mài shuǐguǒ.",
+    "english": "She sells fruit."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0119",
+  "hanzi": "忙",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "máng",
+  "readings": [
+   "máng"
+  ],
+  "pos": [
+   "v",
+   "a",
+   "ad",
+   "g",
+   "an"
+  ],
+  "definition": "busy",
+  "examples": [
+   {
+    "hanzi": "我很忙。",
+    "pinyin": "Wǒ hěn máng.",
+    "english": "I am busy."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0120",
+  "hanzi": "猫",
+  "traditional": "貓",
+  "level": "1",
+  "pinyin": "māo",
+  "readings": [
+   "māo"
+  ],
+  "pos": [
+   "n",
+   "v"
+  ],
+  "definition": "cat",
+  "examples": [
+   {
+    "hanzi": "这是一只猫",
+    "pinyin": "zhè shì yī zhī māo",
+    "english": "This is a cat."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0121",
+  "hanzi": "没关系",
+  "traditional": "沒關係",
+  "level": "1",
+  "pinyin": "méi guān xi",
+  "readings": [
+   "méi guān xi"
+  ],
+  "pos": [
+   "v"
+  ],
+  "definition": "it doesn't matter; no problem",
+  "examples": [
+   {
+    "hanzi": "没关系，我可以自己来。",
+    "pinyin": "Méi guānxi, wǒ kěyǐ zìjǐ lái.",
+    "english": "It doesn't matter, I can do it myself."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0122",
+  "hanzi": "没有",
+  "traditional": "沒有",
+  "level": "1",
+  "pinyin": "méi yǒu",
+  "readings": [
+   "méi yǒu"
+  ],
+  "pos": [
+   "v",
+   "d"
+  ],
+  "definition": "not have; there is not",
+  "examples": [
+   {
+    "hanzi": "我没有书",
+    "pinyin": "wǒ méi yǒu shū",
+    "english": "I don't have a book."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0123",
+  "hanzi": "妹妹",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "mèi mei",
+  "readings": [
+   "mèi mei"
+  ],
+  "pos": [
+   "n"
+  ],
+  "definition": "younger sister",
+  "examples": [
+   {
+    "hanzi": "我的妹妹很可爱。",
+    "pinyin": "Wǒ de mèimei hěn kě'ài.",
+    "english": "My younger sister is very cute."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0124",
+  "hanzi": "们",
+  "traditional": "們",
+  "level": "1",
+  "pinyin": "men",
+  "readings": [
+   "men"
+  ],
+  "pos": [
+   "k"
+  ],
+  "definition": "plural suffix for pronouns and nouns referring to people",
+  "examples": [
+   {
+    "hanzi": "我们是学生。",
+    "pinyin": "Wǒmen shì xuésheng.",
+    "english": "We are students."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0125",
+  "hanzi": "米饭",
+  "traditional": "米飯",
+  "level": "1",
+  "pinyin": "mǐ fàn",
+  "readings": [
+   "mǐ fàn"
+  ],
+  "pos": [
+   "n"
+  ],
+  "definition": "cooked rice",
+  "examples": [
+   {
+    "hanzi": "我吃米饭。",
+    "pinyin": "Wǒ chī mǐfàn.",
+    "english": "I eat rice."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0126",
+  "hanzi": "面包",
+  "traditional": "麵包",
+  "level": "1",
+  "pinyin": "miàn bāo",
+  "readings": [
+   "miàn bāo"
+  ],
+  "pos": [
+   "n"
+  ],
+  "definition": "bread",
+  "examples": [
+   {
+    "hanzi": "我吃面包。",
+    "pinyin": "Wǒ chī miànbāo.",
+    "english": "I eat bread."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0127",
+  "hanzi": "面条儿",
+  "traditional": "麵條兒",
+  "level": "1",
+  "pinyin": "miàn tiáo r",
+  "readings": [
+   "miàn tiáo r"
+  ],
+  "pos": [],
+  "definition": "noodles",
+  "examples": [
+   {
+    "hanzi": "我喜欢吃面条儿。",
+    "pinyin": "Wǒ xǐhuān chī miàntiáor.",
+    "english": "I like eating noodles."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0128",
+  "hanzi": "名字",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "míng zi",
+  "readings": [
+   "míng zi"
+  ],
+  "pos": [
+   "n"
+  ],
+  "definition": "name",
+  "examples": [
+   {
+    "hanzi": "我的名字是李明。",
+    "pinyin": "Wǒ de míng zi shì Lǐ Míng.",
+    "english": "My name is Li Ming."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0129",
+  "hanzi": "明年",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "míng nián",
+  "readings": [
+   "míng nián"
+  ],
+  "pos": [
+   "t"
+  ],
+  "definition": "next year",
+  "examples": [
+   {
+    "hanzi": "我明年去中国。",
+    "pinyin": "Wǒ míng nián qù Zhōngguó.",
+    "english": "I will go to China next year."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0130",
+  "hanzi": "明天",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "míng tiān",
+  "readings": [
+   "míng tiān"
+  ],
+  "pos": [
+   "t"
+  ],
+  "definition": "tomorrow",
+  "examples": [
+   {
+    "hanzi": "明天是星期一",
+    "pinyin": "Míngtiān shì xīngqī yī",
+    "english": "Tomorrow is Monday."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0131",
+  "hanzi": "哪",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "nǎ",
+  "readings": [
+   "nǎ",
+   "na",
+   "né",
+   "něi"
+  ],
+  "pos": [
+   "r",
+   "y"
+  ],
+  "definition": "which; what (interrogative pronoun)",
+  "examples": [
+   {
+    "hanzi": "哪个是你的？",
+    "pinyin": "Nǎge shì nǐ de?",
+    "english": "Which one is yours?"
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0132",
+  "hanzi": "哪儿",
+  "traditional": "哪兒",
+  "level": "1",
+  "pinyin": "nǎ r",
+  "readings": [
+   "nǎ r"
+  ],
+  "pos": [
+   "r"
+  ],
+  "definition": "where (interrogative)",
+  "examples": [
+   {
+    "hanzi": "你去哪儿？",
+    "pinyin": "nǐ qù nǎr?",
+    "english": "Where are you going?"
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0133",
+  "hanzi": "哪里",
+  "traditional": "哪裏",
+  "level": "1",
+  "pinyin": "nǎ lǐ",
+  "readings": [
+   "nǎ lǐ"
+  ],
+  "pos": [
+   "r"
+  ],
+  "definition": "where",
+  "examples": [
+   {
+    "hanzi": "你在哪里？",
+    "pinyin": "nǐ zài nǎ lǐ?",
+    "english": "Where are you?"
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0134",
+  "hanzi": "哪些",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "nǎ xiē",
+  "readings": [
+   "nǎ xiē"
+  ],
+  "pos": [
+   "r"
+  ],
+  "definition": "which ones",
+  "examples": [
+   {
+    "hanzi": "你喜欢哪些水果？",
+    "pinyin": "Nǐ xǐhuān nǎ xiē shuǐguǒ?",
+    "english": "Which fruits do you like?"
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0135",
+  "hanzi": "那",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "Nā",
+  "readings": [
+   "Nā",
+   "Nuó",
+   "nǎ",
+   "nà",
+   "nuó"
+  ],
+  "pos": [
+   "r",
+   "c"
+  ],
+  "definition": "surname Na",
+  "examples": [
+   {
+    "hanzi": "他姓那。",
+    "pinyin": "Tā xìng Nā.",
+    "english": "His surname is Na."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0136",
+  "hanzi": "那边",
+  "traditional": "那邊",
+  "level": "1",
+  "pinyin": "nà bian",
+  "readings": [
+   "nà bian"
+  ],
+  "pos": [
+   "r"
+  ],
+  "definition": "there; over there",
+  "examples": [
+   {
+    "hanzi": "书在那边。",
+    "pinyin": "Shū zài nà biān.",
+    "english": "The book is over there."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0137",
+  "hanzi": "那儿",
+  "traditional": "那兒",
+  "level": "1",
+  "pinyin": "nà r",
+  "readings": [
+   "nà r"
+  ],
+  "pos": [
+   "r"
+  ],
+  "definition": "there (place far from both speaker and listener)",
+  "examples": [
+   {
+    "hanzi": "我去那儿。",
+    "pinyin": "Wǒ qù nàr.",
+    "english": "I go there."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0138",
+  "hanzi": "那里",
+  "traditional": "那裏",
+  "level": "1",
+  "pinyin": "nà li",
+  "readings": [
+   "nà li"
+  ],
+  "pos": [
+   "r"
+  ],
+  "definition": "there (far from both speaker and listener)",
+  "examples": [
+   {
+    "hanzi": "他在那里等你。",
+    "pinyin": "Tā zài nàli děng nǐ.",
+    "english": "He is waiting for you there."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0139",
+  "hanzi": "那些",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "nà xiē",
+  "readings": [
+   "nà xiē"
+  ],
+  "pos": [
+   "r"
+  ],
+  "definition": "those (plural)",
+  "examples": [
+   {
+    "hanzi": "那些书是我的。",
+    "pinyin": "Nà xiē shū shì wǒ de.",
+    "english": "Those books are mine."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0140",
+  "hanzi": "男",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "nán",
+  "readings": [
+   "nán"
+  ],
+  "pos": [
+   "b",
+   "g"
+  ],
+  "definition": "male; man",
+  "examples": [
+   {
+    "hanzi": "他是男的。",
+    "pinyin": "Tā shì nán de.",
+    "english": "He is male."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0141",
+  "hanzi": "男朋友",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "nán péng you",
+  "readings": [
+   "nán péng you"
+  ],
+  "pos": [
+   "n"
+  ],
+  "definition": "boyfriend",
+  "examples": [
+   {
+    "hanzi": "我的男朋友是医生。",
+    "pinyin": "Wǒ de nán péng you shì yī shēng.",
+    "english": "My boyfriend is a doctor."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0142",
+  "hanzi": "呢",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "ne",
+  "readings": [
+   "ne",
+   "ní"
+  ],
+  "pos": [
+   "y"
+  ],
+  "definition": "particle indicating continuation or questioning",
+  "examples": [
+   {
+    "hanzi": "你在干什么呢？",
+    "pinyin": "Nǐ zài gàn shénme ne?",
+    "english": "What are you doing?"
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0143",
+  "hanzi": "能",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "Néng",
+  "readings": [
+   "Néng",
+   "néng"
+  ],
+  "pos": [
+   "v",
+   "g"
+  ],
+  "definition": "can, be able to",
+  "examples": [
+   {
+    "hanzi": "我能去学校。",
+    "pinyin": "Wǒ néng qù xuéxiào.",
+    "english": "I can go to school."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0144",
+  "hanzi": "你",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "nǐ",
+  "readings": [
+   "nǐ"
+  ],
+  "pos": [
+   "r"
+  ],
+  "definition": "you (singular)",
+  "examples": [
+   {
+    "hanzi": "你是学生。",
+    "pinyin": "Nǐ shì xuéshēng.",
+    "english": "You are a student."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0145",
+  "hanzi": "你们",
+  "traditional": "你們",
+  "level": "1",
+  "pinyin": "nǐ men",
+  "readings": [
+   "nǐ men"
+  ],
+  "pos": [
+   "r"
+  ],
+  "definition": "you (plural)",
+  "examples": [
+   {
+    "hanzi": "你们好",
+    "pinyin": "nǐ men hǎo",
+    "english": "Hello (to a group)"
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0146",
+  "hanzi": "年",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "Nián",
+  "readings": [
+   "Nián",
+   "nián"
+  ],
+  "pos": [
+   "qt",
+   "t",
+   "n"
+  ],
+  "definition": "year",
+  "examples": [
+   {
+    "hanzi": "我今年十二岁。",
+    "pinyin": "Wǒ jīnnián shí'èr suì.",
+    "english": "I am twelve years old this year."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0147",
+  "hanzi": "您",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "nín",
+  "readings": [
+   "nín"
+  ],
+  "pos": [
+   "r"
+  ],
+  "definition": "you (polite)",
+  "examples": [
+   {
+    "hanzi": "您好！",
+    "pinyin": "Nín hǎo!",
+    "english": "Hello! (polite)"
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0148",
+  "hanzi": "牛奶",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "niú nǎi",
+  "readings": [
+   "niú nǎi"
+  ],
+  "pos": [
+   "n"
+  ],
+  "definition": "milk",
+  "examples": [
+   {
+    "hanzi": "我每天早上喝牛奶。",
+    "pinyin": "Wǒ měitiān zǎoshang hē niú nǎi.",
+    "english": "I drink milk every morning."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0149",
+  "hanzi": "女",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "nǚ",
+  "readings": [
+   "nǚ",
+   "rǔ"
+  ],
+  "pos": [
+   "b",
+   "g"
+  ],
+  "definition": "woman; female",
+  "examples": [
+   {
+    "hanzi": "她是女的。",
+    "pinyin": "Tā shì nǚ de.",
+    "english": "She is female."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0150",
+  "hanzi": "女儿",
+  "traditional": "女兒",
+  "level": "1",
+  "pinyin": "nǚ ér",
+  "readings": [
+   "nǚ ér"
+  ],
+  "pos": [
+   "n"
+  ],
+  "definition": "daughter",
+  "examples": [
+   {
+    "hanzi": "她的女儿很聪明。",
+    "pinyin": "Tā de nǚ'ér hěn cōngmíng.",
+    "english": "Her daughter is very smart."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0151",
+  "hanzi": "女朋友",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "nǚ péng you",
+  "readings": [
+   "nǚ péng you"
+  ],
+  "pos": [
+   "n"
+  ],
+  "definition": "girlfriend",
+  "examples": [
+   {
+    "hanzi": "这是我的女朋友。",
+    "pinyin": "Zhè shì wǒ de nǚ péng you.",
+    "english": "This is my girlfriend."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0152",
+  "hanzi": "女士",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "nǚ shì",
+  "readings": [
+   "nǚ shì"
+  ],
+  "pos": [
+   "n"
+  ],
+  "definition": "lady; woman; Mrs.",
+  "examples": [
+   {
+    "hanzi": "这位女士是我的老师。",
+    "pinyin": "Zhè wèi nǚshì shì wǒ de lǎoshī.",
+    "english": "This lady is my teacher."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0153",
+  "hanzi": "朋友",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "péng you",
+  "readings": [
+   "péng you"
+  ],
+  "pos": [
+   "n"
+  ],
+  "definition": "friend",
+  "examples": [
+   {
+    "hanzi": "他是我的朋友。",
+    "pinyin": "Tā shì wǒ de péngyou.",
+    "english": "He is my friend."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0154",
+  "hanzi": "漂亮",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "piào liang",
+  "readings": [
+   "piào liang"
+  ],
+  "pos": [
+   "a"
+  ],
+  "definition": "beautiful, pretty",
+  "examples": [
+   {
+    "hanzi": "她很漂亮。",
+    "pinyin": "tā hěn piào liang.",
+    "english": "She is very beautiful."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0155",
+  "hanzi": "苹果",
+  "traditional": "蘋果",
+  "level": "1",
+  "pinyin": "píng guǒ",
+  "readings": [
+   "píng guǒ"
+  ],
+  "pos": [
+   "n"
+  ],
+  "definition": "apple",
+  "examples": [
+   {
+    "hanzi": "我吃了一个苹果。",
+    "pinyin": "wǒ chī le yī gè píng guǒ.",
+    "english": "I ate an apple."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0156",
+  "hanzi": "七",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "qī",
+  "readings": [
+   "qī"
+  ],
+  "pos": [
+   "m",
+   "t"
+  ],
+  "definition": "seven",
+  "examples": [
+   {
+    "hanzi": "我有七个苹果",
+    "pinyin": "Wǒ yǒu qī ge píngguǒ",
+    "english": "I have seven apples."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0157",
+  "hanzi": "起床",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "qǐ chuáng",
+  "readings": [
+   "qǐ chuáng"
+  ],
+  "pos": [
+   "v"
+  ],
+  "definition": "get up; get out of bed",
+  "examples": [
+   {
+    "hanzi": "我每天七点起床。",
+    "pinyin": "Wǒ měitiān qī diǎn qǐchuáng.",
+    "english": "I get up at seven every day."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0158",
+  "hanzi": "千",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "qiān",
+  "readings": [
+   "qiān"
+  ],
+  "pos": [
+   "m",
+   "t"
+  ],
+  "definition": "thousand (numeral/measure word)",
+  "examples": [
+   {
+    "hanzi": "有一千个人。",
+    "pinyin": "yǒu yī qiān gè rén.",
+    "english": "There are one thousand people."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0159",
+  "hanzi": "前",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "qián",
+  "readings": [
+   "qián"
+  ],
+  "pos": [
+   "f",
+   "v"
+  ],
+  "definition": "front; before; ago",
+  "examples": [
+   {
+    "hanzi": "他在前。",
+    "pinyin": "tā zài qián.",
+    "english": "He is in front."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0160",
+  "hanzi": "钱",
+  "traditional": "錢",
+  "level": "1",
+  "pinyin": "Qián",
+  "readings": [
+   "Qián",
+   "qián"
+  ],
+  "pos": [
+   "n",
+   "nr"
+  ],
+  "definition": "money",
+  "examples": [
+   {
+    "hanzi": "我有钱。",
+    "pinyin": "Wǒ yǒu qián.",
+    "english": "I have money."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0161",
+  "hanzi": "请",
+  "traditional": "請",
+  "level": "1",
+  "pinyin": "qǐng",
+  "readings": [
+   "qǐng"
+  ],
+  "pos": [
+   "v"
+  ],
+  "definition": "please; to invite; to ask",
+  "examples": [
+   {
+    "hanzi": "请坐。",
+    "pinyin": "Qǐng zuò.",
+    "english": "Please sit."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0162",
+  "hanzi": "请问",
+  "traditional": "請問",
+  "level": "1",
+  "pinyin": "qǐng wèn",
+  "readings": [
+   "qǐng wèn"
+  ],
+  "pos": [
+   "v"
+  ],
+  "definition": "excuse me, may I ask",
+  "examples": [
+   {
+    "hanzi": "请问，洗手间在哪里？",
+    "pinyin": "Qǐngwèn, xǐshǒujiān zài nǎlǐ?",
+    "english": "Excuse me, where is the restroom?"
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0163",
+  "hanzi": "去",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "qù",
+  "readings": [
+   "qù"
+  ],
+  "pos": [
+   "v"
+  ],
+  "definition": "to go; to leave",
+  "examples": [
+   {
+    "hanzi": "我去学校。",
+    "pinyin": "wǒ qù xuéxiào",
+    "english": "I go to school."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0164",
+  "hanzi": "去年",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "qù nián",
+  "readings": [
+   "qù nián"
+  ],
+  "pos": [
+   "t"
+  ],
+  "definition": "last year",
+  "examples": [
+   {
+    "hanzi": "我去年去了北京。",
+    "pinyin": "Wǒ qùnián qùle Běijīng.",
+    "english": "I went to Beijing last year."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0165",
+  "hanzi": "热",
+  "traditional": "熱",
+  "level": "1",
+  "pinyin": "rè",
+  "readings": [
+   "rè"
+  ],
+  "pos": [
+   "a",
+   "n",
+   "k",
+   "v",
+   "ad",
+   "an"
+  ],
+  "definition": "hot; heat; warm",
+  "examples": [
+   {
+    "hanzi": "天气很热。",
+    "pinyin": "tiānqì hěn rè.",
+    "english": "The weather is very hot."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0166",
+  "hanzi": "人",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "rén",
+  "readings": [
+   "rén"
+  ],
+  "pos": [
+   "n"
+  ],
+  "definition": "person; human being",
+  "examples": [
+   {
+    "hanzi": "他是好人",
+    "pinyin": "tā shì hǎo rén",
+    "english": "He is a good person."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0167",
+  "hanzi": "认识",
+  "traditional": "認識",
+  "level": "1",
+  "pinyin": "rèn shi",
+  "readings": [
+   "rèn shi"
+  ],
+  "pos": [
+   "v",
+   "n",
+   "vn"
+  ],
+  "definition": "to know; to recognize; knowledge",
+  "examples": [
+   {
+    "hanzi": "我认识他。",
+    "pinyin": "Wǒ rènshi tā.",
+    "english": "I know him."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0168",
+  "hanzi": "日",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "Rì",
+  "readings": [
+   "Rì",
+   "rì"
+  ],
+  "pos": [
+   "t",
+   "g",
+   "b",
+   "qt"
+  ],
+  "definition": "sun; day",
+  "examples": [
+   {
+    "hanzi": "今天是星期日。",
+    "pinyin": "Jīntiān shì xīngqīrì.",
+    "english": "Today is Sunday."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0169",
+  "hanzi": "三",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "Sān",
+  "readings": [
+   "Sān",
+   "sān"
+  ],
+  "pos": [
+   "m",
+   "t"
+  ],
+  "definition": "three",
+  "examples": [
+   {
+    "hanzi": "我有三个苹果",
+    "pinyin": "Wǒ yǒu sān gè píngguǒ",
+    "english": "I have three apples"
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0170",
+  "hanzi": "商店",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "shāng diàn",
+  "readings": [
+   "shāng diàn"
+  ],
+  "pos": [
+   "n"
+  ],
+  "definition": "store; shop",
+  "examples": [
+   {
+    "hanzi": "我去商店买东西。",
+    "pinyin": "Wǒ qù shāngdiàn mǎi dōngxi.",
+    "english": "I go to the store to buy things."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0171",
+  "hanzi": "上",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "shǎng",
+  "readings": [
+   "shǎng",
+   "shàng"
+  ],
+  "pos": [
+   "f",
+   "v",
+   "g"
+  ],
+  "definition": "the third tone (in Chinese phonetics)",
+  "examples": [
+   {
+    "hanzi": "这个字是上声。",
+    "pinyin": "Zhège zì shì shǎngshēng.",
+    "english": "This character is a third tone."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0172",
+  "hanzi": "上班",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "shàng bān",
+  "readings": [
+   "shàng bān"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ],
+  "definition": "to go to work; to start work",
+  "examples": [
+   {
+    "hanzi": "我每天八点上班。",
+    "pinyin": "Wǒ měitiān bā diǎn shàng bān.",
+    "english": "I go to work at eight every day."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0173",
+  "hanzi": "上课",
+  "traditional": "上課",
+  "level": "1",
+  "pinyin": "shàng kè",
+  "readings": [
+   "shàng kè"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ],
+  "definition": "to go to class; to have class",
+  "examples": [
+   {
+    "hanzi": "我今天上课。",
+    "pinyin": "Wǒ jīntiān shàng kè.",
+    "english": "I have class today."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0174",
+  "hanzi": "上午",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "shàng wǔ",
+  "readings": [
+   "shàng wǔ"
+  ],
+  "pos": [
+   "t"
+  ],
+  "definition": "morning (before noon)",
+  "examples": [
+   {
+    "hanzi": "我上午上课。",
+    "pinyin": "Wǒ shàngwǔ shàngkè.",
+    "english": "I have class in the morning."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0175",
+  "hanzi": "上学",
+  "traditional": "上學",
+  "level": "1",
+  "pinyin": "shàng xué",
+  "readings": [
+   "shàng xué"
+  ],
+  "pos": [
+   "v"
+  ],
+  "definition": "to go to school",
+  "examples": [
+   {
+    "hanzi": "我每天上学。",
+    "pinyin": "Wǒ měitiān shàngxué.",
+    "english": "I go to school every day."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0176",
+  "hanzi": "少",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "shǎo",
+  "readings": [
+   "shǎo",
+   "shào"
+  ],
+  "pos": [
+   "a",
+   "ad",
+   "v",
+   "d",
+   "g"
+  ],
+  "definition": "few; little; less; to lack",
+  "examples": [
+   {
+    "hanzi": "我们班学生很少。",
+    "pinyin": "wǒmen bān xuéshēng hěn shǎo.",
+    "english": "Our class has few students."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0177",
+  "hanzi": "什么",
+  "traditional": "什麼",
+  "level": "1",
+  "pinyin": "shén me",
+  "readings": [
+   "shén me"
+  ],
+  "pos": [
+   "r"
+  ],
+  "definition": "what; something",
+  "examples": [
+   {
+    "hanzi": "你叫什么名字？",
+    "pinyin": "Nǐ jiào shén me míngzì?",
+    "english": "What's your name?"
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0178",
+  "hanzi": "生病",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "shēng bìng",
+  "readings": [
+   "shēng bìng"
+  ],
+  "pos": [
+   "v"
+  ],
+  "definition": "get sick; fall ill",
+  "examples": [
+   {
+    "hanzi": "我昨天生病了。",
+    "pinyin": "Wǒ zuótiān shēng bìng le.",
+    "english": "I got sick yesterday."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0179",
+  "hanzi": "十",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "shí",
+  "readings": [
+   "shí"
+  ],
+  "pos": [
+   "m",
+   "t"
+  ],
+  "definition": "ten",
+  "examples": [
+   {
+    "hanzi": "我有十个苹果。",
+    "pinyin": "Wǒ yǒu shí ge píngguǒ.",
+    "english": "I have ten apples."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0180",
+  "hanzi": "时候",
+  "traditional": "時候",
+  "level": "1",
+  "pinyin": "shí hou",
+  "readings": [
+   "shí hou"
+  ],
+  "pos": [
+   "n"
+  ],
+  "definition": "time; moment; period",
+  "examples": [
+   {
+    "hanzi": "现在是什么时候？",
+    "pinyin": "Xiànzài shì shénme shíhou?",
+    "english": "What time is it now?"
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0181",
+  "hanzi": "时间",
+  "traditional": "時間",
+  "level": "1",
+  "pinyin": "shí jiān",
+  "readings": [
+   "shí jiān"
+  ],
+  "pos": [
+   "n"
+  ],
+  "definition": "time",
+  "examples": [
+   {
+    "hanzi": "我没有时间。",
+    "pinyin": "Wǒ méiyǒu shíjiān.",
+    "english": "I don't have time."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0182",
+  "hanzi": "事",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "shì",
+  "readings": [
+   "shì"
+  ],
+  "pos": [
+   "n",
+   "g"
+  ],
+  "definition": "matter; thing; affair",
+  "examples": [
+   {
+    "hanzi": "我有事。",
+    "pinyin": "wǒ yǒu shì.",
+    "english": "I have something to do."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0183",
+  "hanzi": "是",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "shì",
+  "readings": [
+   "shì"
+  ],
+  "pos": [
+   "v"
+  ],
+  "definition": "to be",
+  "examples": [
+   {
+    "hanzi": "她是老师。",
+    "pinyin": "Tā shì lǎoshī.",
+    "english": "She is a teacher."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0184",
+  "hanzi": "手机",
+  "traditional": "手機",
+  "level": "1",
+  "pinyin": "shǒu jī",
+  "readings": [
+   "shǒu jī"
+  ],
+  "pos": [
+   "n"
+  ],
+  "definition": "mobile phone; cell phone",
+  "examples": [
+   {
+    "hanzi": "我的手机没电了。",
+    "pinyin": "Wǒ de shǒujī méi diàn le.",
+    "english": "My phone battery is dead."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0185",
+  "hanzi": "书",
+  "traditional": "書",
+  "level": "1",
+  "pinyin": "Shū",
+  "readings": [
+   "Shū",
+   "shū"
+  ],
+  "pos": [
+   "n",
+   "g"
+  ],
+  "definition": "book",
+  "examples": [
+   {
+    "hanzi": "这是一本书。",
+    "pinyin": "Zhè shì yī běn shū.",
+    "english": "This is a book."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0186",
+  "hanzi": "书店",
+  "traditional": "書店",
+  "level": "1",
+  "pinyin": "shū diàn",
+  "readings": [
+   "shū diàn"
+  ],
+  "pos": [
+   "n"
+  ],
+  "definition": "bookstore; bookshop",
+  "examples": [
+   {
+    "hanzi": "我去书店买书。",
+    "pinyin": "Wǒ qù shūdiàn mǎi shū.",
+    "english": "I go to the bookstore to buy books."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0187",
+  "hanzi": "谁",
+  "traditional": "誰",
+  "level": "1",
+  "pinyin": "shéi",
+  "readings": [
+   "shéi"
+  ],
+  "pos": [
+   "r"
+  ],
+  "definition": "who",
+  "examples": [
+   {
+    "hanzi": "他是谁？",
+    "pinyin": "Tā shì shéi?",
+    "english": "Who is he?"
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0188",
+  "hanzi": "水",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "Shuǐ",
+  "readings": [
+   "Shuǐ",
+   "shuǐ"
+  ],
+  "pos": [
+   "n"
+  ],
+  "definition": "water",
+  "examples": [
+   {
+    "hanzi": "我喝水。",
+    "pinyin": "wǒ hē shuǐ.",
+    "english": "I drink water."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0189",
+  "hanzi": "水果",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "shuǐ guǒ",
+  "readings": [
+   "shuǐ guǒ"
+  ],
+  "pos": [
+   "n"
+  ],
+  "definition": "fruit",
+  "examples": [
+   {
+    "hanzi": "我喜欢吃水果。",
+    "pinyin": "wǒ xǐhuān chī shuǐguǒ.",
+    "english": "I like to eat fruit."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0190",
+  "hanzi": "睡",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "shuì",
+  "readings": [
+   "shuì"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ],
+  "definition": "to sleep",
+  "examples": [
+   {
+    "hanzi": "他睡了",
+    "pinyin": "Tā shuì le",
+    "english": "He slept."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0191",
+  "hanzi": "睡觉",
+  "traditional": "睡覺",
+  "level": "1",
+  "pinyin": "shuì jiào",
+  "readings": [
+   "shuì jiào"
+  ],
+  "pos": [
+   "v"
+  ],
+  "definition": "to sleep",
+  "examples": [
+   {
+    "hanzi": "我每天十点睡觉。",
+    "pinyin": "wǒ měi tiān shí diǎn shuì jiào。",
+    "english": "I go to sleep at ten every day."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0192",
+  "hanzi": "说",
+  "traditional": "說",
+  "level": "1",
+  "pinyin": "shuì",
+  "readings": [
+   "shuì",
+   "shuō"
+  ],
+  "pos": [
+   "v",
+   "g"
+  ],
+  "definition": "to speak; to say",
+  "examples": [
+   {
+    "hanzi": "他说中文很好。",
+    "pinyin": "Tā shuō Zhōngwén hěn hǎo.",
+    "english": "He speaks Chinese very well."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0193",
+  "hanzi": "说话",
+  "traditional": "說話",
+  "level": "1",
+  "pinyin": "shuō huà",
+  "readings": [
+   "shuō huà"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ],
+  "definition": "to speak, talk; speech",
+  "examples": [
+   {
+    "hanzi": "他喜欢说话。",
+    "pinyin": "Tā xǐhuān shuōhuà.",
+    "english": "He likes to talk."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0194",
+  "hanzi": "四",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "sì",
+  "readings": [
+   "sì"
+  ],
+  "pos": [
+   "m",
+   "t"
+  ],
+  "definition": "four",
+  "examples": [
+   {
+    "hanzi": "他买了四本书。",
+    "pinyin": "Tā mǎi le sì běn shū.",
+    "english": "He bought four books."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0195",
+  "hanzi": "岁",
+  "traditional": "嵗",
+  "level": "1",
+  "pinyin": "suì",
+  "readings": [
+   "suì"
+  ],
+  "pos": [
+   "qt"
+  ],
+  "definition": "years (of age)",
+  "examples": [
+   {
+    "hanzi": "我今年十岁。",
+    "pinyin": "Wǒ jīnnián shí suì.",
+    "english": "I am ten years old this year."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0196",
+  "hanzi": "他",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "tā",
+  "readings": [
+   "tā"
+  ],
+  "pos": [
+   "r"
+  ],
+  "definition": "he; him",
+  "examples": [
+   {
+    "hanzi": "他是学生。",
+    "pinyin": "Tā shì xuéshēng.",
+    "english": "He is a student."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0197",
+  "hanzi": "他们",
+  "traditional": "他們",
+  "level": "1",
+  "pinyin": "tā men",
+  "readings": [
+   "tā men"
+  ],
+  "pos": [
+   "r"
+  ],
+  "definition": "they (plural, for males or mixed gender)",
+  "examples": [
+   {
+    "hanzi": "他们是学生。",
+    "pinyin": "Tāmen shì xuéshēng.",
+    "english": "They are students."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0198",
+  "hanzi": "它",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "tā",
+  "readings": [
+   "tā"
+  ],
+  "pos": [
+   "r"
+  ],
+  "definition": "it (used for animals and objects)",
+  "examples": [
+   {
+    "hanzi": "它是一只猫。",
+    "pinyin": "tā shì yī zhī māo.",
+    "english": "It is a cat."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0199",
+  "hanzi": "它们",
+  "traditional": "它們",
+  "level": "1",
+  "pinyin": "tā men",
+  "readings": [
+   "tā men"
+  ],
+  "pos": [
+   "r"
+  ],
+  "definition": "they (for non-human things)",
+  "examples": [
+   {
+    "hanzi": "它们是猫。",
+    "pinyin": "Tāmen shì māo.",
+    "english": "They are cats."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0200",
+  "hanzi": "她",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "tā",
+  "readings": [
+   "tā"
+  ],
+  "pos": [
+   "r"
+  ],
+  "definition": "she; her",
+  "examples": [
+   {
+    "hanzi": "她是我的老师。",
+    "pinyin": "Tā shì wǒ de lǎoshī.",
+    "english": "She is my teacher."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0201",
+  "hanzi": "她们",
+  "traditional": "她們",
+  "level": "1",
+  "pinyin": "tā men",
+  "readings": [
+   "tā men"
+  ],
+  "pos": [
+   "r"
+  ],
+  "definition": "they (feminine, plural)",
+  "examples": [
+   {
+    "hanzi": "她们是学生。",
+    "pinyin": "Tāmen shì xuésheng.",
+    "english": "They are students."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0202",
+  "hanzi": "太",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "tài",
+  "readings": [
+   "tài"
+  ],
+  "pos": [
+   "d",
+   "b"
+  ],
+  "definition": "too; excessively; very",
+  "examples": [
+   {
+    "hanzi": "这个苹果太大了。",
+    "pinyin": "Zhè ge píngguǒ tài dà le.",
+    "english": "This apple is too big."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0203",
+  "hanzi": "天",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "tiān",
+  "readings": [
+   "tiān"
+  ],
+  "pos": [
+   "qt",
+   "n"
+  ],
+  "definition": "day; sky; heaven",
+  "examples": [
+   {
+    "hanzi": "今天天气很好。",
+    "pinyin": "Jīntiān tiānqì hěn hǎo.",
+    "english": "The weather is nice today."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0204",
+  "hanzi": "天气",
+  "traditional": "天氣",
+  "level": "1",
+  "pinyin": "tiān qì",
+  "readings": [
+   "tiān qì"
+  ],
+  "pos": [
+   "n"
+  ],
+  "definition": "weather",
+  "examples": [
+   {
+    "hanzi": "今天天气很好。",
+    "pinyin": "Jīntiān tiānqì hěn hǎo.",
+    "english": "The weather is nice today."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0205",
+  "hanzi": "听",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "yǐn",
+  "readings": [
+   "yǐn",
+   "tīng"
+  ],
+  "pos": [
+   "v"
+  ],
+  "definition": "to listen",
+  "examples": [
+   {
+    "hanzi": "我听音乐。",
+    "pinyin": "wǒ tīng yīnyuè.",
+    "english": "I listen to music."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0206",
+  "hanzi": "听见",
+  "traditional": "聽見",
+  "level": "1",
+  "pinyin": "tīng jiàn",
+  "readings": [
+   "tīng jiàn"
+  ],
+  "pos": [
+   "v"
+  ],
+  "definition": "to hear",
+  "examples": [
+   {
+    "hanzi": "我听见了声音。",
+    "pinyin": "Wǒ tīngjiàn le shēngyīn.",
+    "english": "I heard a sound."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0207",
+  "hanzi": "同学",
+  "traditional": "同學",
+  "level": "1",
+  "pinyin": "tóng xué",
+  "readings": [
+   "tóng xué"
+  ],
+  "pos": [
+   "n"
+  ],
+  "definition": "classmate; schoolmate",
+  "examples": [
+   {
+    "hanzi": "他是我的同学。",
+    "pinyin": "Tā shì wǒ de tóngxué.",
+    "english": "He is my classmate."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0208",
+  "hanzi": "外",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "wài",
+  "readings": [
+   "wài"
+  ],
+  "pos": [
+   "f"
+  ],
+  "definition": "outside; external",
+  "examples": [
+   {
+    "hanzi": "我在外面。",
+    "pinyin": "wǒ zài wàimiàn",
+    "english": "I am outside."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0209",
+  "hanzi": "外边",
+  "traditional": "外邊",
+  "level": "1",
+  "pinyin": "wài bian",
+  "readings": [
+   "wài bian"
+  ],
+  "pos": [
+   "f"
+  ],
+  "definition": "outside, exterior",
+  "examples": [
+   {
+    "hanzi": "我在外边等你。",
+    "pinyin": "Wǒ zài wàibiān děng nǐ.",
+    "english": "I'll wait for you outside."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0210",
+  "hanzi": "玩",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "wán",
+  "readings": [
+   "wán"
+  ],
+  "pos": [
+   "v"
+  ],
+  "definition": "to play; to have fun; to enjoy oneself",
+  "examples": [
+   {
+    "hanzi": "我喜欢玩电脑游戏。",
+    "pinyin": "Wǒ xǐhuān wán diànnǎo yóuxì.",
+    "english": "I like to play computer games."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0211",
+  "hanzi": "晚",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "wǎn",
+  "readings": [
+   "wǎn"
+  ],
+  "pos": [
+   "tg",
+   "a",
+   "ad"
+  ],
+  "definition": "late; evening",
+  "examples": [
+   {
+    "hanzi": "今天我来晚了。",
+    "pinyin": "jīntiān wǒ lái wǎn le.",
+    "english": "Today I came late."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0212",
+  "hanzi": "晚饭",
+  "traditional": "晚飯",
+  "level": "1",
+  "pinyin": "wǎn fàn",
+  "readings": [
+   "wǎn fàn"
+  ],
+  "pos": [
+   "n"
+  ],
+  "definition": "dinner; supper",
+  "examples": [
+   {
+    "hanzi": "我吃晚饭。",
+    "pinyin": "wǒ chī wǎn fàn.",
+    "english": "I eat dinner."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0213",
+  "hanzi": "晚上",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "wǎn shang",
+  "readings": [
+   "wǎn shang"
+  ],
+  "pos": [
+   "t"
+  ],
+  "definition": "evening; night",
+  "examples": [
+   {
+    "hanzi": "晚上我回家。",
+    "pinyin": "wǎn shang wǒ huí jiā.",
+    "english": "In the evening I go home."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0214",
+  "hanzi": "喂",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "wéi",
+  "readings": [
+   "wéi",
+   "wèi"
+  ],
+  "pos": [
+   "v",
+   "e"
+  ],
+  "definition": "hello (used in phone calls)",
+  "examples": [
+   {
+    "hanzi": "喂，你好！",
+    "pinyin": "wéi, nǐ hǎo!",
+    "english": "Hello, how are you?"
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0215",
+  "hanzi": "问",
+  "traditional": "問",
+  "level": "1",
+  "pinyin": "wèn",
+  "readings": [
+   "wèn"
+  ],
+  "pos": [
+   "v",
+   "g",
+   "vn"
+  ],
+  "definition": "to ask; to inquire",
+  "examples": [
+   {
+    "hanzi": "我问你。",
+    "pinyin": "Wǒ wèn nǐ.",
+    "english": "I ask you."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0216",
+  "hanzi": "问题",
+  "traditional": "問題",
+  "level": "1",
+  "pinyin": "wèn tí",
+  "readings": [
+   "wèn tí"
+  ],
+  "pos": [
+   "n"
+  ],
+  "definition": "question; problem; issue",
+  "examples": [
+   {
+    "hanzi": "我有一个问题。",
+    "pinyin": "Wǒ yǒu yī gè wèntí.",
+    "english": "I have a question."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0217",
+  "hanzi": "我",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "wǒ",
+  "readings": [
+   "wǒ"
+  ],
+  "pos": [
+   "r"
+  ],
+  "definition": "I; me",
+  "examples": [
+   {
+    "hanzi": "我是学生。",
+    "pinyin": "Wǒ shì xuésheng.",
+    "english": "I am a student."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0218",
+  "hanzi": "我们",
+  "traditional": "我們",
+  "level": "1",
+  "pinyin": "wǒ men",
+  "readings": [
+   "wǒ men"
+  ],
+  "pos": [
+   "r"
+  ],
+  "definition": "we; us",
+  "examples": [
+   {
+    "hanzi": "我们是学生。",
+    "pinyin": "Wǒmen shì xuéshēng.",
+    "english": "We are students."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0219",
+  "hanzi": "五",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "wǔ",
+  "readings": [
+   "wǔ"
+  ],
+  "pos": [
+   "m",
+   "t"
+  ],
+  "definition": "five",
+  "examples": [
+   {
+    "hanzi": "我有五个苹果",
+    "pinyin": "Wǒ yǒu wǔ gè píngguǒ",
+    "english": "I have five apples."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0220",
+  "hanzi": "午饭",
+  "traditional": "午飯",
+  "level": "1",
+  "pinyin": "wǔ fàn",
+  "readings": [
+   "wǔ fàn"
+  ],
+  "pos": [
+   "n"
+  ],
+  "definition": "lunch",
+  "examples": [
+   {
+    "hanzi": "我吃午饭了。",
+    "pinyin": "Wǒ chī wǔfàn le.",
+    "english": "I had lunch."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0221",
+  "hanzi": "喜欢",
+  "traditional": "喜歡",
+  "level": "1",
+  "pinyin": "xǐ huan",
+  "readings": [
+   "xǐ huan"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ],
+  "definition": "to like; to be fond of",
+  "examples": [
+   {
+    "hanzi": "我喜欢猫。",
+    "pinyin": "Wǒ xǐ huan māo.",
+    "english": "I like cats."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0222",
+  "hanzi": "下",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "xià",
+  "readings": [
+   "xià"
+  ],
+  "pos": [
+   "v",
+   "f",
+   "qt",
+   "g"
+  ],
+  "definition": "to go down; below; next",
+  "examples": [
+   {
+    "hanzi": "请坐下。",
+    "pinyin": "Qǐng zuò xià.",
+    "english": "Please sit down."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0223",
+  "hanzi": "下班",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "xià bān",
+  "readings": [
+   "xià bān"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ],
+  "definition": "get off work; finish work",
+  "examples": [
+   {
+    "hanzi": "我每天下午五点半下班。",
+    "pinyin": "Wǒ měitiān xiàwǔ wǔ diǎn bàn xià bān.",
+    "english": "I get off work at 5:30 every afternoon."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0224",
+  "hanzi": "下课",
+  "traditional": "下課",
+  "level": "1",
+  "pinyin": "xià kè",
+  "readings": [
+   "xià kè"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ],
+  "definition": "class is over; to finish class",
+  "examples": [
+   {
+    "hanzi": "我们下课了。",
+    "pinyin": "Wǒmen xià kè le.",
+    "english": "We are done with class."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0225",
+  "hanzi": "下午",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "xià wǔ",
+  "readings": [
+   "xià wǔ"
+  ],
+  "pos": [
+   "t"
+  ],
+  "definition": "afternoon",
+  "examples": [
+   {
+    "hanzi": "我下午去学校。",
+    "pinyin": "Wǒ xiàwǔ qù xuéxiào.",
+    "english": "I go to school in the afternoon."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0226",
+  "hanzi": "下雨",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "xià yǔ",
+  "readings": [
+   "xià yǔ"
+  ],
+  "pos": [
+   "v"
+  ],
+  "definition": "to rain",
+  "examples": [
+   {
+    "hanzi": "今天下雨了。",
+    "pinyin": "Jīntiān xià yǔ le.",
+    "english": "It's raining today."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0227",
+  "hanzi": "先生",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "xiān sheng",
+  "readings": [
+   "xiān sheng"
+  ],
+  "pos": [
+   "n"
+  ],
+  "definition": "husband; teacher; Mr.",
+  "examples": [
+   {
+    "hanzi": "我先生是老师。",
+    "pinyin": "wǒ xiān sheng shì lǎo shī.",
+    "english": "My husband is a teacher."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0228",
+  "hanzi": "现在",
+  "traditional": "現在",
+  "level": "1",
+  "pinyin": "xiàn zài",
+  "readings": [
+   "xiàn zài"
+  ],
+  "pos": [
+   "t"
+  ],
+  "definition": "now; at present",
+  "examples": [
+   {
+    "hanzi": "现在几点了？",
+    "pinyin": "Xiànzài jǐ diǎn le?",
+    "english": "What time is it now?"
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0229",
+  "hanzi": "想",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "xiǎng",
+  "readings": [
+   "xiǎng"
+  ],
+  "pos": [
+   "v"
+  ],
+  "definition": "to think; to want; to miss",
+  "examples": [
+   {
+    "hanzi": "我想喝水。",
+    "pinyin": "wǒ xiǎng hē shuǐ.",
+    "english": "I want to drink water."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0230",
+  "hanzi": "小",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "xiǎo",
+  "readings": [
+   "xiǎo"
+  ],
+  "pos": [
+   "a",
+   "ad"
+  ],
+  "definition": "small; little",
+  "examples": [
+   {
+    "hanzi": "我有一只小猫。",
+    "pinyin": "wǒ yǒu yì zhī xiǎo māo.",
+    "english": "I have a small cat."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0231",
+  "hanzi": "小朋友",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "xiǎo péng yǒu",
+  "readings": [
+   "xiǎo péng yǒu"
+  ],
+  "pos": [
+   "n"
+  ],
+  "definition": "child; kid",
+  "examples": [
+   {
+    "hanzi": "小朋友们在公园里玩。",
+    "pinyin": "Xiǎo péng yǒu men zài gōng yuán lǐ wán.",
+    "english": "The children are playing in the park."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0232",
+  "hanzi": "小时",
+  "traditional": "小時",
+  "level": "1",
+  "pinyin": "xiǎo shí",
+  "readings": [
+   "xiǎo shí"
+  ],
+  "pos": [
+   "n",
+   "q"
+  ],
+  "definition": "hour",
+  "examples": [
+   {
+    "hanzi": "我每天学习两个小时。",
+    "pinyin": "Wǒ měitiān xuéxí liǎng gè xiǎoshí.",
+    "english": "I study two hours every day."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0233",
+  "hanzi": "小学",
+  "traditional": "小學",
+  "level": "1",
+  "pinyin": "xiǎo xué",
+  "readings": [
+   "xiǎo xué"
+  ],
+  "pos": [
+   "n"
+  ],
+  "definition": "primary school",
+  "examples": [
+   {
+    "hanzi": "我上小学。",
+    "pinyin": "Wǒ shàng xiǎoxué.",
+    "english": "I attend primary school."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0234",
+  "hanzi": "小学生",
+  "traditional": "小學生",
+  "level": "1",
+  "pinyin": "xiǎo xué shēng",
+  "readings": [
+   "xiǎo xué shēng"
+  ],
+  "pos": [
+   "n"
+  ],
+  "definition": "elementary school student",
+  "examples": [
+   {
+    "hanzi": "我是小学生。",
+    "pinyin": "Wǒ shì xiǎo xué shēng.",
+    "english": "I am an elementary school student."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0235",
+  "hanzi": "些",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "xiē",
+  "readings": [
+   "xiē"
+  ],
+  "pos": [
+   "q"
+  ],
+  "definition": "some; a few; a little",
+  "examples": [
+   {
+    "hanzi": "我有一些书。",
+    "pinyin": "wǒ yǒu yīxiē shū.",
+    "english": "I have some books."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0236",
+  "hanzi": "写",
+  "traditional": "寫",
+  "level": "1",
+  "pinyin": "xiě",
+  "readings": [
+   "xiě"
+  ],
+  "pos": [
+   "v"
+  ],
+  "definition": "to write",
+  "examples": [
+   {
+    "hanzi": "我写汉字。",
+    "pinyin": "Wǒ xiě Hànzì.",
+    "english": "I write Chinese characters."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0237",
+  "hanzi": "谢谢",
+  "traditional": "謝謝",
+  "level": "1",
+  "pinyin": "xiè xie",
+  "readings": [
+   "xiè xie"
+  ],
+  "pos": [
+   "v"
+  ],
+  "definition": "thank; thanks",
+  "examples": [
+   {
+    "hanzi": "谢谢你。",
+    "pinyin": "Xiè xiè nǐ.",
+    "english": "Thank you."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0238",
+  "hanzi": "新",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "Xīn",
+  "readings": [
+   "Xīn",
+   "xīn"
+  ],
+  "pos": [
+   "a",
+   "d",
+   "b"
+  ],
+  "definition": "new",
+  "examples": [
+   {
+    "hanzi": "这是一本新书。",
+    "pinyin": "Zhè shì yī běn xīn shū.",
+    "english": "This is a new book."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0239",
+  "hanzi": "星期",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "xīng qī",
+  "readings": [
+   "xīng qī"
+  ],
+  "pos": [
+   "n"
+  ],
+  "definition": "week",
+  "examples": [
+   {
+    "hanzi": "今天星期几？",
+    "pinyin": "jīn tiān xīng qī jǐ？",
+    "english": "What day of the week is it today?"
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0240",
+  "hanzi": "星期日",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "Xīng qī rì",
+  "readings": [
+   "Xīng qī rì"
+  ],
+  "pos": [
+   "t"
+  ],
+  "definition": "Sunday",
+  "examples": [
+   {
+    "hanzi": "今天是星期日。",
+    "pinyin": "Jīntiān shì xīngqīrì.",
+    "english": "Today is Sunday."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0241",
+  "hanzi": "星期天",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "Xīng qī tiān",
+  "readings": [
+   "Xīng qī tiān"
+  ],
+  "pos": [
+   "t"
+  ],
+  "definition": "Sunday",
+  "examples": [
+   {
+    "hanzi": "今天是星期天。",
+    "pinyin": "Jīntiān shì Xīngqītiān.",
+    "english": "Today is Sunday."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0242",
+  "hanzi": "休息",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "xiū xi",
+  "readings": [
+   "xiū xi"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ],
+  "definition": "to rest; to take a break",
+  "examples": [
+   {
+    "hanzi": "我想休息一会儿。",
+    "pinyin": "Wǒ xiǎng xiūxi yīhuìr.",
+    "english": "I want to rest for a while."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0243",
+  "hanzi": "学",
+  "traditional": "學",
+  "level": "1",
+  "pinyin": "xué",
+  "readings": [
+   "xué"
+  ],
+  "pos": [
+   "v",
+   "g"
+  ],
+  "definition": "to learn; to study",
+  "examples": [
+   {
+    "hanzi": "我学中文。",
+    "pinyin": "Wǒ xué Zhōngwén.",
+    "english": "I learn Chinese."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0244",
+  "hanzi": "学生",
+  "traditional": "學生",
+  "level": "1",
+  "pinyin": "xué sheng",
+  "readings": [
+   "xué sheng"
+  ],
+  "pos": [
+   "n"
+  ],
+  "definition": "student",
+  "examples": [
+   {
+    "hanzi": "我是学生。",
+    "pinyin": "Wǒ shì xué sheng.",
+    "english": "I am a student."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0245",
+  "hanzi": "学习",
+  "traditional": "學習",
+  "level": "1",
+  "pinyin": "xué xí",
+  "readings": [
+   "xué xí"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ],
+  "definition": "to study; to learn",
+  "examples": [
+   {
+    "hanzi": "我喜欢学习中文。",
+    "pinyin": "Wǒ xǐhuān xuéxí zhōngwén.",
+    "english": "I like studying Chinese."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0246",
+  "hanzi": "学校",
+  "traditional": "學校",
+  "level": "1",
+  "pinyin": "xué xiào",
+  "readings": [
+   "xué xiào"
+  ],
+  "pos": [
+   "n"
+  ],
+  "definition": "a place for teaching and learning",
+  "examples": [
+   {
+    "hanzi": "我去学校。",
+    "pinyin": "wǒ qù xué xiào",
+    "english": "I go to school."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0247",
+  "hanzi": "雪",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "Xuě",
+  "readings": [
+   "Xuě",
+   "xuě"
+  ],
+  "pos": [
+   "n"
+  ],
+  "definition": "snow",
+  "examples": [
+   {
+    "hanzi": "下雪了",
+    "pinyin": "Xià xuě le",
+    "english": "It's snowing."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0248",
+  "hanzi": "要",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "yāo",
+  "readings": [
+   "yāo",
+   "yào"
+  ],
+  "pos": [
+   "v"
+  ],
+  "definition": "to want; to need; must",
+  "examples": [
+   {
+    "hanzi": "我要喝水。",
+    "pinyin": "Wǒ yào hē shuǐ.",
+    "english": "I want to drink water."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0249",
+  "hanzi": "也",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "Yě",
+  "readings": [
+   "Yě",
+   "yě"
+  ],
+  "pos": [
+   "d",
+   "y",
+   "u",
+   "b"
+  ],
+  "definition": "also, too, as well",
+  "examples": [
+   {
+    "hanzi": "我也喜欢吃苹果。",
+    "pinyin": "Wǒ yě xǐhuān chī píngguǒ.",
+    "english": "I also like to eat apples."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0250",
+  "hanzi": "一",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "yī",
+  "readings": [
+   "yī"
+  ],
+  "pos": [
+   "m",
+   "d",
+   "t"
+  ],
+  "definition": "one; a; single; same",
+  "examples": [
+   {
+    "hanzi": "一年有十二个月。",
+    "pinyin": "yī nián yǒu shí èr gè yuè",
+    "english": "One year has twelve months."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0251",
+  "hanzi": "一半",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "yī bàn",
+  "readings": [
+   "yī bàn"
+  ],
+  "pos": [
+   "m"
+  ],
+  "definition": "half",
+  "examples": [
+   {
+    "hanzi": "我吃了一半。",
+    "pinyin": "wǒ chī le yī bàn",
+    "english": "I ate half."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0252",
+  "hanzi": "一点儿",
+  "traditional": "一點兒",
+  "level": "1",
+  "pinyin": "yī diǎn r",
+  "readings": [
+   "yī diǎn r"
+  ],
+  "pos": [
+   "mq"
+  ],
+  "definition": "a little bit; a bit",
+  "examples": [
+   {
+    "hanzi": "我有一点儿钱。",
+    "pinyin": "Wǒ yǒu yīdiǎnr qián.",
+    "english": "I have a little money."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0253",
+  "hanzi": "一些",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "yī xiē",
+  "readings": [
+   "yī xiē"
+  ],
+  "pos": [
+   "mq"
+  ],
+  "definition": "some; a few; a little",
+  "examples": [
+   {
+    "hanzi": "我买了一些水果。",
+    "pinyin": "Wǒ mǎi le yī xiē shuǐguǒ.",
+    "english": "I bought some fruit."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0254",
+  "hanzi": "衣服",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "yī fu",
+  "readings": [
+   "yī fu"
+  ],
+  "pos": [
+   "n"
+  ],
+  "definition": "clothing; clothes",
+  "examples": [
+   {
+    "hanzi": "我的衣服是白色的。",
+    "pinyin": "Wǒ de yīfu shì báisè de.",
+    "english": "My clothes are white."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0255",
+  "hanzi": "医生",
+  "traditional": "醫生",
+  "level": "1",
+  "pinyin": "yī shēng",
+  "readings": [
+   "yī shēng"
+  ],
+  "pos": [
+   "n"
+  ],
+  "definition": "doctor; physician",
+  "examples": [
+   {
+    "hanzi": "他是医生。",
+    "pinyin": "Tā shì yīshēng.",
+    "english": "He is a doctor."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0256",
+  "hanzi": "医院",
+  "traditional": "醫院",
+  "level": "1",
+  "pinyin": "yī yuàn",
+  "readings": [
+   "yī yuàn"
+  ],
+  "pos": [
+   "n"
+  ],
+  "definition": "hospital",
+  "examples": [
+   {
+    "hanzi": "我去医院看病。",
+    "pinyin": "Wǒ qù yīyuàn kàn bìng.",
+    "english": "I go to the hospital to see a doctor."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0257",
+  "hanzi": "椅子",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "yǐ zi",
+  "readings": [
+   "yǐ zi"
+  ],
+  "pos": [
+   "n"
+  ],
+  "definition": "chair",
+  "examples": [
+   {
+    "hanzi": "这是一把椅子。",
+    "pinyin": "Zhè shì yī bǎ yǐ zi.",
+    "english": "This is a chair."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0258",
+  "hanzi": "有",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "yǒu",
+  "readings": [
+   "yǒu"
+  ],
+  "pos": [
+   "v"
+  ],
+  "definition": "to have; there is",
+  "examples": [
+   {
+    "hanzi": "我有一个朋友",
+    "pinyin": "wǒ yǒu yī gè péngyǒu",
+    "english": "I have a friend"
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0259",
+  "hanzi": "有的",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "yǒu de",
+  "readings": [
+   "yǒu de"
+  ],
+  "pos": [
+   "r"
+  ],
+  "definition": "some; some (people or things)",
+  "examples": [
+   {
+    "hanzi": "有的人喜欢猫。",
+    "pinyin": "yǒu de rén xǐhuān māo.",
+    "english": "Some people like cats."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0260",
+  "hanzi": "有点儿",
+  "traditional": "有點兒",
+  "level": "1",
+  "pinyin": "yǒu diǎn r",
+  "readings": [
+   "yǒu diǎn r"
+  ],
+  "pos": [],
+  "definition": "a little; somewhat",
+  "examples": [
+   {
+    "hanzi": "我今天有点儿忙",
+    "pinyin": "Wǒ jīntiān yǒudiǎnr máng",
+    "english": "I am a bit busy today."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0261",
+  "hanzi": "有些",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "yǒu xiē",
+  "readings": [
+   "yǒu xiē"
+  ],
+  "pos": [
+   "r"
+  ],
+  "definition": "some; a few; somewhat",
+  "examples": [
+   {
+    "hanzi": "有些书很有意思。",
+    "pinyin": "Yǒu xiē shū hěn yǒu yìsi.",
+    "english": "Some books are very interesting."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0262",
+  "hanzi": "雨",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "yǔ",
+  "readings": [
+   "yǔ",
+   "yù"
+  ],
+  "pos": [
+   "n",
+   "g"
+  ],
+  "definition": "rain",
+  "examples": [
+   {
+    "hanzi": "今天下雨了。",
+    "pinyin": "Jīntiān xià yǔ le.",
+    "english": "It's raining today."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0263",
+  "hanzi": "元",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "Yuán",
+  "readings": [
+   "Yuán",
+   "yuán"
+  ],
+  "pos": [
+   "q",
+   "tg"
+  ],
+  "definition": "Chinese currency unit (yuan)",
+  "examples": [
+   {
+    "hanzi": "这个苹果五元。",
+    "pinyin": "Zhège píngguǒ wǔ yuán.",
+    "english": "This apple costs five yuan."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0264",
+  "hanzi": "月",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "yuè",
+  "readings": [
+   "yuè"
+  ],
+  "pos": [
+   "n",
+   "t"
+  ],
+  "definition": "moon; month",
+  "examples": [
+   {
+    "hanzi": "今天是五月一日",
+    "pinyin": "jīntiān shì wǔ yuè yī rì",
+    "english": "Today is May 1st."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0265",
+  "hanzi": "再",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "zài",
+  "readings": [
+   "zài"
+  ],
+  "pos": [
+   "d",
+   "g"
+  ],
+  "definition": "again; then; more",
+  "examples": [
+   {
+    "hanzi": "请再说一遍。",
+    "pinyin": "Qǐng zài shuō yī biàn.",
+    "english": "Please say it again."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0266",
+  "hanzi": "再见",
+  "traditional": "再見",
+  "level": "1",
+  "pinyin": "zài jiàn",
+  "readings": [
+   "zài jiàn"
+  ],
+  "pos": [
+   "v"
+  ],
+  "definition": "goodbye; see you again",
+  "examples": [
+   {
+    "hanzi": "再见，明天见！",
+    "pinyin": "zàijiàn, míngtiān jiàn!",
+    "english": "Goodbye, see you tomorrow!"
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0267",
+  "hanzi": "在",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "zài",
+  "readings": [
+   "zài"
+  ],
+  "pos": [
+   "p",
+   "v",
+   "d"
+  ],
+  "definition": "at; in; on; be in/at; (progressive marker)",
+  "examples": [
+   {
+    "hanzi": "我在家。",
+    "pinyin": "Wǒ zài jiā.",
+    "english": "I am at home."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0268",
+  "hanzi": "早",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "zǎo",
+  "readings": [
+   "zǎo"
+  ],
+  "pos": [
+   "ad",
+   "a",
+   "tg"
+  ],
+  "definition": "early; good morning",
+  "examples": [
+   {
+    "hanzi": "他来得早。",
+    "pinyin": "tā lái de zǎo",
+    "english": "He came early."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0269",
+  "hanzi": "早饭",
+  "traditional": "早飯",
+  "level": "1",
+  "pinyin": "zǎo fàn",
+  "readings": [
+   "zǎo fàn"
+  ],
+  "pos": [
+   "n"
+  ],
+  "definition": "breakfast",
+  "examples": [
+   {
+    "hanzi": "我吃早饭了。",
+    "pinyin": "Wǒ chī zǎofàn le.",
+    "english": "I ate breakfast."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0270",
+  "hanzi": "早上",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "zǎo shang",
+  "readings": [
+   "zǎo shang"
+  ],
+  "pos": [
+   "t"
+  ],
+  "definition": "morning",
+  "examples": [
+   {
+    "hanzi": "我早上喝牛奶。",
+    "pinyin": "Wǒ zǎoshang hē niúnǎi.",
+    "english": "I drink milk in the morning."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0271",
+  "hanzi": "怎么",
+  "traditional": "怎麼",
+  "level": "1",
+  "pinyin": "zěn me",
+  "readings": [
+   "zěn me"
+  ],
+  "pos": [
+   "r"
+  ],
+  "definition": "how; why",
+  "examples": [
+   {
+    "hanzi": "你怎么去学校？",
+    "pinyin": "Nǐ zěnme qù xuéxiào?",
+    "english": "How do you go to school?"
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0272",
+  "hanzi": "怎么样",
+  "traditional": "怎麼樣",
+  "level": "1",
+  "pinyin": "zěn me yàng",
+  "readings": [
+   "zěn me yàng"
+  ],
+  "pos": [
+   "r"
+  ],
+  "definition": "how; how about; how is it going",
+  "examples": [
+   {
+    "hanzi": "你最近怎么样？",
+    "pinyin": "Nǐ zuìjìn zěnmeyàng?",
+    "english": "How have you been lately?"
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0273",
+  "hanzi": "找",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "zhǎo",
+  "readings": [
+   "zhǎo"
+  ],
+  "pos": [
+   "v"
+  ],
+  "definition": "to look for; to seek",
+  "examples": [
+   {
+    "hanzi": "我在找我的书",
+    "pinyin": "wǒ zài zhǎo wǒ de shū",
+    "english": "I am looking for my book."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0274",
+  "hanzi": "这",
+  "traditional": "這",
+  "level": "1",
+  "pinyin": "zhè",
+  "readings": [
+   "zhè"
+  ],
+  "pos": [
+   "r"
+  ],
+  "definition": "this",
+  "examples": [
+   {
+    "hanzi": "这是我的书。",
+    "pinyin": "Zhè shì wǒ de shū.",
+    "english": "This is my book."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0275",
+  "hanzi": "这边",
+  "traditional": "這邊",
+  "level": "1",
+  "pinyin": "zhè biān",
+  "readings": [
+   "zhè biān"
+  ],
+  "pos": [
+   "r"
+  ],
+  "definition": "this side; over here",
+  "examples": [
+   {
+    "hanzi": "请来这边。",
+    "pinyin": "Qǐng lái zhè biān.",
+    "english": "Please come over here."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0276",
+  "hanzi": "这儿",
+  "traditional": "這兒",
+  "level": "1",
+  "pinyin": "zhè r",
+  "readings": [
+   "zhè r"
+  ],
+  "pos": [
+   "r"
+  ],
+  "definition": "here",
+  "examples": [
+   {
+    "hanzi": "我在这儿。",
+    "pinyin": "wǒ zài zhèr.",
+    "english": "I am here."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0277",
+  "hanzi": "这里",
+  "traditional": "這裏",
+  "level": "1",
+  "pinyin": "zhè lǐ",
+  "readings": [
+   "zhè lǐ"
+  ],
+  "pos": [
+   "r"
+  ],
+  "definition": "here",
+  "examples": [
+   {
+    "hanzi": "我在这里。",
+    "pinyin": "Wǒ zài zhè lǐ.",
+    "english": "I am here."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0278",
+  "hanzi": "这些",
+  "traditional": "這些",
+  "level": "1",
+  "pinyin": "zhè xiē",
+  "readings": [
+   "zhè xiē"
+  ],
+  "pos": [
+   "r"
+  ],
+  "definition": "these",
+  "examples": [
+   {
+    "hanzi": "这些书是我的。",
+    "pinyin": "zhè xiē shū shì wǒ de.",
+    "english": "These books are mine."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0279",
+  "hanzi": "真",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "zhēn",
+  "readings": [
+   "zhēn"
+  ],
+  "pos": [
+   "d",
+   "a",
+   "g"
+  ],
+  "definition": "true; real; genuine",
+  "examples": [
+   {
+    "hanzi": "这是真的。",
+    "pinyin": "Zhè shì zhēn de.",
+    "english": "This is true."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0280",
+  "hanzi": "正在",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "zhèng zài",
+  "readings": [
+   "zhèng zài"
+  ],
+  "pos": [
+   "d"
+  ],
+  "definition": "in the process of (doing something)",
+  "examples": [
+   {
+    "hanzi": "我正在学习中文。",
+    "pinyin": "wǒ zhèngzài xuéxí zhōngwén.",
+    "english": "I am learning Chinese."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0281",
+  "hanzi": "知道",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "zhī dào",
+  "readings": [
+   "zhī dào"
+  ],
+  "pos": [
+   "v"
+  ],
+  "definition": "to know; to be aware of",
+  "examples": [
+   {
+    "hanzi": "我知道这个字。",
+    "pinyin": "Wǒ zhī dào zhè ge zì.",
+    "english": "I know this character."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0282",
+  "hanzi": "只",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "zhǐ",
+  "readings": [
+   "zhǐ",
+   "zhī"
+  ],
+  "pos": [
+   "d",
+   "q"
+  ],
+  "definition": "only; just; merely",
+  "examples": [
+   {
+    "hanzi": "我只有一本书。",
+    "pinyin": "Wǒ zhǐ yǒu yī běn shū.",
+    "english": "I only have one book."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0283",
+  "hanzi": "中国",
+  "traditional": "中國",
+  "level": "1",
+  "pinyin": "Zhōng guó",
+  "readings": [
+   "Zhōng guó"
+  ],
+  "pos": [
+   "ns"
+  ],
+  "definition": "China",
+  "examples": [
+   {
+    "hanzi": "我是中国人。",
+    "pinyin": "Wǒ shì Zhōngguó rén.",
+    "english": "I am Chinese."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0284",
+  "hanzi": "中文",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "Zhōng wén",
+  "readings": [
+   "Zhōng wén"
+  ],
+  "pos": [
+   "nz"
+  ],
+  "definition": "Chinese language",
+  "examples": [
+   {
+    "hanzi": "我喜欢中文。",
+    "pinyin": "Wǒ xǐhuān Zhōngwén.",
+    "english": "I like Chinese."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0285",
+  "hanzi": "中午",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "zhōng wǔ",
+  "readings": [
+   "zhōng wǔ"
+  ],
+  "pos": [
+   "t"
+  ],
+  "definition": "noon; midday",
+  "examples": [
+   {
+    "hanzi": "我中午吃饭",
+    "pinyin": "wǒ zhōngwǔ chīfàn",
+    "english": "I eat lunch at noon."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0286",
+  "hanzi": "中学",
+  "traditional": "中學",
+  "level": "1",
+  "pinyin": "zhōng xué",
+  "readings": [
+   "zhōng xué"
+  ],
+  "pos": [
+   "n"
+  ],
+  "definition": "middle school, secondary school",
+  "examples": [
+   {
+    "hanzi": "我上中学了。",
+    "pinyin": "Wǒ shàng zhōng xué le.",
+    "english": "I am in middle school now."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0287",
+  "hanzi": "中学生",
+  "traditional": "中學生",
+  "level": "1",
+  "pinyin": "zhōng xué shēng",
+  "readings": [
+   "zhōng xué shēng"
+  ],
+  "pos": [
+   "n"
+  ],
+  "definition": "middle school student",
+  "examples": [
+   {
+    "hanzi": "他是中学生。",
+    "pinyin": "Tā shì zhōngxuéshēng.",
+    "english": "He is a middle school student."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0288",
+  "hanzi": "住",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "zhù",
+  "readings": [
+   "zhù"
+  ],
+  "pos": [
+   "v"
+  ],
+  "definition": "to live; to reside; to stop",
+  "examples": [
+   {
+    "hanzi": "你住哪儿？",
+    "pinyin": "Nǐ zhù nǎr?",
+    "english": "Where do you live?"
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0289",
+  "hanzi": "桌子",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "zhuō zi",
+  "readings": [
+   "zhuō zi"
+  ],
+  "pos": [
+   "n"
+  ],
+  "definition": "table; desk",
+  "examples": [
+   {
+    "hanzi": "桌子上有一本书。",
+    "pinyin": "Zhuōzi shàng yǒu yī běn shū.",
+    "english": "There is a book on the table."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0290",
+  "hanzi": "字",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "zì",
+  "readings": [
+   "zì"
+  ],
+  "pos": [
+   "n"
+  ],
+  "definition": "character; word; script",
+  "examples": [
+   {
+    "hanzi": "这个字怎么写？",
+    "pinyin": "Zhège zì zěnme xiě?",
+    "english": "How do you write this character?"
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0291",
+  "hanzi": "昨天",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "zuó tiān",
+  "readings": [
+   "zuó tiān"
+  ],
+  "pos": [
+   "t"
+  ],
+  "definition": "yesterday",
+  "examples": [
+   {
+    "hanzi": "我昨天去了公园。",
+    "pinyin": "Wǒ zuótiān qùle gōngyuán.",
+    "english": "I went to the park yesterday."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0292",
+  "hanzi": "坐",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "Zuò",
+  "readings": [
+   "Zuò",
+   "zuò"
+  ],
+  "pos": [
+   "v"
+  ],
+  "definition": "to sit",
+  "examples": [
+   {
+    "hanzi": "我坐在这里。",
+    "pinyin": "Wǒ zuò zài zhèlǐ.",
+    "english": "I am sitting here."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0293",
+  "hanzi": "做",
+  "traditional": null,
+  "level": "1",
+  "pinyin": "zuò",
+  "readings": [
+   "zuò"
+  ],
+  "pos": [
+   "v"
+  ],
+  "definition": "to do; to make",
+  "examples": [
+   {
+    "hanzi": "我在做作业。",
+    "pinyin": "wǒ zài zuò zuòyè",
+    "english": "I am doing homework."
+   }
+  ]
+ },
+ {
+  "id": "hsk1-0294",
+  "hanzi": "做饭",
+  "traditional": "做飯",
+  "level": "1",
+  "pinyin": "zuò fàn",
+  "readings": [
+   "zuò fàn"
+  ],
+  "pos": [
+   "v"
+  ],
+  "definition": "to cook (a meal)",
+  "examples": [
+   {
+    "hanzi": "妈妈在做晚饭。",
+    "pinyin": "Māma zài zuò wǎnfàn.",
+    "english": "Mom is cooking dinner."
+   }
+  ]
+ }
+]

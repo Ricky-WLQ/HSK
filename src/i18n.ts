@@ -57,6 +57,26 @@ export const messages = {
     emailLabel: "Email",
     roleLabel: "Role",
   },
+  vocab: {
+    title: "Vocabulary",
+    subtitle: "Official HSK 3.0 word lists (levels 1–9) with pinyin, definitions, and audio.",
+    words: "words",
+    study: "Study",
+    flashcards: "Flashcards",
+    spelling: "Spelling",
+    search: "Search hanzi, pinyin, or meaning…",
+    showPinyin: "Pinyin",
+    showDefinition: "Definition",
+    loadMore: "Load more",
+    noResults: "No words match your search.",
+    back: "All levels",
+    definitionComing: "definition coming…",
+    play: "Play audio",
+    reveal: "Reveal",
+    prev: "Prev",
+    next: "Next",
+    hint: "Space = reveal · ← → = navigate · R = replay",
+  },
 } as const;
 
 export const t = messages;

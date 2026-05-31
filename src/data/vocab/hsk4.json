@@ -1,0 +1,13266 @@
+[
+ {
+  "id": "hsk4-0001",
+  "hanzi": "爱情",
+  "traditional": "愛情",
+  "level": "4",
+  "pinyin": "ài qíng",
+  "readings": [
+   "ài qíng"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0002",
+  "hanzi": "爱心",
+  "traditional": "愛心",
+  "level": "4",
+  "pinyin": "ài xīn",
+  "readings": [
+   "ài xīn"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0003",
+  "hanzi": "安检",
+  "traditional": "安檢",
+  "level": "4",
+  "pinyin": "ān jiǎn",
+  "readings": [
+   "ān jiǎn"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0004",
+  "hanzi": "安排",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "ān pái",
+  "readings": [
+   "ān pái"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0005",
+  "hanzi": "按",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "àn",
+  "readings": [
+   "àn"
+  ],
+  "pos": [
+   "p",
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0006",
+  "hanzi": "按时",
+  "traditional": "按時",
+  "level": "4",
+  "pinyin": "àn shí",
+  "readings": [
+   "àn shí"
+  ],
+  "pos": [
+   "d"
+  ]
+ },
+ {
+  "id": "hsk4-0007",
+  "hanzi": "按照",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "àn zhào",
+  "readings": [
+   "àn zhào"
+  ],
+  "pos": [
+   "p",
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0008",
+  "hanzi": "白酒",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "bái jiǔ",
+  "readings": [
+   "bái jiǔ"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0009",
+  "hanzi": "办公",
+  "traditional": "辦公",
+  "level": "4",
+  "pinyin": "bàn gōng",
+  "readings": [
+   "bàn gōng"
+  ],
+  "pos": [
+   "vn",
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0010",
+  "hanzi": "办理",
+  "traditional": "辦理",
+  "level": "4",
+  "pinyin": "bàn lǐ",
+  "readings": [
+   "bàn lǐ"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0011",
+  "hanzi": "办事",
+  "traditional": "辦事",
+  "level": "4",
+  "pinyin": "bàn shì",
+  "readings": [
+   "bàn shì"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0012",
+  "hanzi": "棒",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "bàng",
+  "readings": [
+   "bàng"
+  ],
+  "pos": [
+   "a",
+   "g",
+   "q"
+  ]
+ },
+ {
+  "id": "hsk4-0013",
+  "hanzi": "保护",
+  "traditional": "保護",
+  "level": "4",
+  "pinyin": "bǎo hù",
+  "readings": [
+   "bǎo hù"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0014",
+  "hanzi": "保证",
+  "traditional": "保證",
+  "level": "4",
+  "pinyin": "bǎo zhèng",
+  "readings": [
+   "bǎo zhèng"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0015",
+  "hanzi": "报考",
+  "traditional": "報考",
+  "level": "4",
+  "pinyin": "bào kǎo",
+  "readings": [
+   "bào kǎo"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0016",
+  "hanzi": "报名",
+  "traditional": "報名",
+  "level": "4",
+  "pinyin": "bào míng",
+  "readings": [
+   "bào míng"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0017",
+  "hanzi": "抱",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "bào",
+  "readings": [
+   "bào"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0018",
+  "hanzi": "抱歉",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "bào qiàn",
+  "readings": [
+   "bào qiàn"
+  ],
+  "pos": [
+   "a",
+   "an",
+   "ad"
+  ]
+ },
+ {
+  "id": "hsk4-0019",
+  "hanzi": "北部",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "běi bù",
+  "readings": [
+   "běi bù"
+  ],
+  "pos": [
+   "f"
+  ]
+ },
+ {
+  "id": "hsk4-0020",
+  "hanzi": "背",
+  "traditional": "揹",
+  "level": "4",
+  "pinyin": "bēi",
+  "readings": [
+   "bēi",
+   "bèi"
+  ],
+  "pos": [
+   "v",
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0021",
+  "hanzi": "背包",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "bēi bāo",
+  "readings": [
+   "bēi bāo"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0022",
+  "hanzi": "倍",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "bèi",
+  "readings": [
+   "bèi"
+  ],
+  "pos": [
+   "q",
+   "d"
+  ]
+ },
+ {
+  "id": "hsk4-0023",
+  "hanzi": "本科",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "běn kē",
+  "readings": [
+   "běn kē"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0024",
+  "hanzi": "本来",
+  "traditional": "本來",
+  "level": "4",
+  "pinyin": "běn lái",
+  "readings": [
+   "běn lái"
+  ],
+  "pos": [
+   "d",
+   "b"
+  ]
+ },
+ {
+  "id": "hsk4-0025",
+  "hanzi": "笨",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "bèn",
+  "readings": [
+   "bèn"
+  ],
+  "pos": [
+   "a",
+   "an"
+  ]
+ },
+ {
+  "id": "hsk4-0026",
+  "hanzi": "鼻子",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "bí zi",
+  "readings": [
+   "bí zi"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0027",
+  "hanzi": "笔试",
+  "traditional": "筆試",
+  "level": "4",
+  "pinyin": "bǐ shì",
+  "readings": [
+   "bǐ shì"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0028",
+  "hanzi": "毕业",
+  "traditional": "畢業",
+  "level": "4",
+  "pinyin": "bì yè",
+  "readings": [
+   "bì yè"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0029",
+  "hanzi": "毕业生",
+  "traditional": "畢業生",
+  "level": "4",
+  "pinyin": "bì yè shēng",
+  "readings": [
+   "bì yè shēng"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0030",
+  "hanzi": "便于",
+  "traditional": "便於",
+  "level": "4",
+  "pinyin": "biàn yú",
+  "readings": [
+   "biàn yú"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0031",
+  "hanzi": "标准",
+  "traditional": "標準",
+  "level": "4",
+  "pinyin": "biāo zhǔn",
+  "readings": [
+   "biāo zhǔn"
+  ],
+  "pos": [
+   "n",
+   "a"
+  ]
+ },
+ {
+  "id": "hsk4-0032",
+  "hanzi": "表",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "biǎo",
+  "readings": [
+   "biǎo"
+  ],
+  "pos": [
+   "n",
+   "g"
+  ]
+ },
+ {
+  "id": "hsk4-0033",
+  "hanzi": "表格",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "biǎo gé",
+  "readings": [
+   "biǎo gé"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0034",
+  "hanzi": "表示",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "biǎo shì",
+  "readings": [
+   "biǎo shì"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0035",
+  "hanzi": "表现",
+  "traditional": "表現",
+  "level": "4",
+  "pinyin": "biǎo xiàn",
+  "readings": [
+   "biǎo xiàn"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0036",
+  "hanzi": "表扬",
+  "traditional": "表揚",
+  "level": "4",
+  "pinyin": "biǎo yáng",
+  "readings": [
+   "biǎo yáng"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0037",
+  "hanzi": "饼干",
+  "traditional": "餅乾",
+  "level": "4",
+  "pinyin": "bǐng gān",
+  "readings": [
+   "bǐng gān"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0038",
+  "hanzi": "并",
+  "traditional": "並",
+  "level": "4",
+  "pinyin": "bìng",
+  "readings": [
+   "bìng",
+   "Bīng"
+  ],
+  "pos": [
+   "d",
+   "cc"
+  ]
+ },
+ {
+  "id": "hsk4-0039",
+  "hanzi": "并且",
+  "traditional": "並且",
+  "level": "4",
+  "pinyin": "bìng qiě",
+  "readings": [
+   "bìng qiě"
+  ],
+  "pos": [
+   "c"
+  ]
+ },
+ {
+  "id": "hsk4-0040",
+  "hanzi": "播放",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "bō fàng",
+  "readings": [
+   "bō fàng"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0041",
+  "hanzi": "博士",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "bó shì",
+  "readings": [
+   "bó shì"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0042",
+  "hanzi": "不必",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "bù bì",
+  "readings": [
+   "bù bì"
+  ],
+  "pos": [
+   "d"
+  ]
+ },
+ {
+  "id": "hsk4-0043",
+  "hanzi": "不便",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "bù biàn",
+  "readings": [
+   "bù biàn"
+  ],
+  "pos": [
+   "an",
+   "a",
+   "ad",
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0044",
+  "hanzi": "不得不",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "bù dé bù",
+  "readings": [
+   "bù dé bù"
+  ],
+  "pos": [
+   "d"
+  ]
+ },
+ {
+  "id": "hsk4-0045",
+  "hanzi": "不断",
+  "traditional": "不斷",
+  "level": "4",
+  "pinyin": "bù duàn",
+  "readings": [
+   "bù duàn"
+  ],
+  "pos": [
+   "d"
+  ]
+ },
+ {
+  "id": "hsk4-0046",
+  "hanzi": "不够",
+  "traditional": "不夠",
+  "level": "4",
+  "pinyin": "bù gòu",
+  "readings": [
+   "bù gòu"
+  ],
+  "pos": [
+   "a"
+  ]
+ },
+ {
+  "id": "hsk4-0047",
+  "hanzi": "不管",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "bù guǎn",
+  "readings": [
+   "bù guǎn"
+  ],
+  "pos": [
+   "c",
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0048",
+  "hanzi": "不光",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "bù guāng",
+  "readings": [
+   "bù guāng"
+  ],
+  "pos": [
+   "c"
+  ]
+ },
+ {
+  "id": "hsk4-0049",
+  "hanzi": "不过",
+  "traditional": "不過",
+  "level": "4",
+  "pinyin": "bù guò",
+  "readings": [
+   "bù guò"
+  ],
+  "pos": [
+   "c",
+   "d",
+   "u"
+  ]
+ },
+ {
+  "id": "hsk4-0050",
+  "hanzi": "不仅",
+  "traditional": "不僅",
+  "level": "4",
+  "pinyin": "bù jǐn",
+  "readings": [
+   "bù jǐn"
+  ],
+  "pos": [
+   "c"
+  ]
+ },
+ {
+  "id": "hsk4-0051",
+  "hanzi": "不论",
+  "traditional": "不論",
+  "level": "4",
+  "pinyin": "bù lùn",
+  "readings": [
+   "bù lùn"
+  ],
+  "pos": [
+   "c"
+  ]
+ },
+ {
+  "id": "hsk4-0052",
+  "hanzi": "不满",
+  "traditional": "不滿",
+  "level": "4",
+  "pinyin": "bù mǎn",
+  "readings": [
+   "bù mǎn"
+  ],
+  "pos": [
+   "an",
+   "a",
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0053",
+  "hanzi": "不如",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "bù rú",
+  "readings": [
+   "bù rú"
+  ],
+  "pos": [
+   "v",
+   "c"
+  ]
+ },
+ {
+  "id": "hsk4-0054",
+  "hanzi": "步",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "Bù",
+  "readings": [
+   "Bù",
+   "bù"
+  ],
+  "pos": [
+   "qv",
+   "n",
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0055",
+  "hanzi": "部",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "bù",
+  "readings": [
+   "bù"
+  ],
+  "pos": [
+   "q",
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0056",
+  "hanzi": "部分",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "bù fen",
+  "readings": [
+   "bù fen"
+  ],
+  "pos": [
+   "n",
+   "m"
+  ]
+ },
+ {
+  "id": "hsk4-0057",
+  "hanzi": "部门",
+  "traditional": "部門",
+  "level": "4",
+  "pinyin": "bù mén",
+  "readings": [
+   "bù mén"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0058",
+  "hanzi": "擦",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "cā",
+  "readings": [
+   "cā"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0059",
+  "hanzi": "猜",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "cāi",
+  "readings": [
+   "cāi"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0060",
+  "hanzi": "材料",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "cái liào",
+  "readings": [
+   "cái liào"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0061",
+  "hanzi": "参观",
+  "traditional": "參觀",
+  "level": "4",
+  "pinyin": "cān guān",
+  "readings": [
+   "cān guān"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0062",
+  "hanzi": "参赛",
+  "traditional": "參賽",
+  "level": "4",
+  "pinyin": "cān sài",
+  "readings": [
+   "cān sài"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0063",
+  "hanzi": "餐厅",
+  "traditional": "餐廳",
+  "level": "4",
+  "pinyin": "cān tīng",
+  "readings": [
+   "cān tīng"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0064",
+  "hanzi": "操场",
+  "traditional": "操場",
+  "level": "4",
+  "pinyin": "cāo chǎng",
+  "readings": [
+   "cāo chǎng"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0065",
+  "hanzi": "厕所",
+  "traditional": "廁所",
+  "level": "4",
+  "pinyin": "cè suǒ",
+  "readings": [
+   "cè suǒ"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0066",
+  "hanzi": "查看",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "chá kàn",
+  "readings": [
+   "chá kàn"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0067",
+  "hanzi": "查找",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "chá zhǎo",
+  "readings": [
+   "chá zhǎo"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0068",
+  "hanzi": "茶叶",
+  "traditional": "茶葉",
+  "level": "4",
+  "pinyin": "chá yè",
+  "readings": [
+   "chá yè"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0069",
+  "hanzi": "差点儿",
+  "traditional": "差點兒",
+  "level": "4",
+  "pinyin": "chà diǎn r",
+  "readings": [
+   "chà diǎn r"
+  ],
+  "pos": [
+   "d"
+  ]
+ },
+ {
+  "id": "hsk4-0070",
+  "hanzi": "产生",
+  "traditional": "產生",
+  "level": "4",
+  "pinyin": "chǎn shēng",
+  "readings": [
+   "chǎn shēng"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0071",
+  "hanzi": "厂",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "hǎn",
+  "readings": [
+   "hǎn",
+   "chǎng"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0072",
+  "hanzi": "场",
+  "traditional": "場",
+  "level": "4",
+  "pinyin": "cháng",
+  "readings": [
+   "cháng",
+   "chǎng"
+  ],
+  "pos": [
+   "qv",
+   "g"
+  ]
+ },
+ {
+  "id": "hsk4-0073",
+  "hanzi": "超过",
+  "traditional": "超過",
+  "level": "4",
+  "pinyin": "chāo guò",
+  "readings": [
+   "chāo guò"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0074",
+  "hanzi": "车速",
+  "traditional": "車速",
+  "level": "4",
+  "pinyin": "chē sù",
+  "readings": [
+   "chē sù"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0075",
+  "hanzi": "车位",
+  "traditional": "車位",
+  "level": "4",
+  "pinyin": "chē wèi",
+  "readings": [
+   "chē wèi"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0076",
+  "hanzi": "成功",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "Chéng gōng",
+  "readings": [
+   "Chéng gōng",
+   "chéng gōng"
+  ],
+  "pos": [
+   "a",
+   "an",
+   "ad"
+  ]
+ },
+ {
+  "id": "hsk4-0077",
+  "hanzi": "成为",
+  "traditional": "成為",
+  "level": "4",
+  "pinyin": "chéng wéi",
+  "readings": [
+   "chéng wéi"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0078",
+  "hanzi": "诚实",
+  "traditional": "誠實",
+  "level": "4",
+  "pinyin": "chéng shí",
+  "readings": [
+   "chéng shí"
+  ],
+  "pos": [
+   "a",
+   "ad",
+   "an"
+  ]
+ },
+ {
+  "id": "hsk4-0079",
+  "hanzi": "城",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "chéng",
+  "readings": [
+   "chéng"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0080",
+  "hanzi": "乘",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "Chéng",
+  "readings": [
+   "Chéng",
+   "chéng",
+   "shèng"
+  ],
+  "pos": [
+   "v",
+   "p"
+  ]
+ },
+ {
+  "id": "hsk4-0081",
+  "hanzi": "乘客",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "chéng kè",
+  "readings": [
+   "chéng kè"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0082",
+  "hanzi": "乘坐",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "chéng zuò",
+  "readings": [
+   "chéng zuò"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0083",
+  "hanzi": "吃惊",
+  "traditional": "吃驚",
+  "level": "4",
+  "pinyin": "chī jīng",
+  "readings": [
+   "chī jīng"
+  ],
+  "pos": [
+   "a"
+  ]
+ },
+ {
+  "id": "hsk4-0084",
+  "hanzi": "迟",
+  "traditional": "遲",
+  "level": "4",
+  "pinyin": "Chí",
+  "readings": [
+   "Chí",
+   "chí"
+  ],
+  "pos": [
+   "a",
+   "ad"
+  ]
+ },
+ {
+  "id": "hsk4-0085",
+  "hanzi": "出差",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "chū chāi",
+  "readings": [
+   "chū chāi"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0086",
+  "hanzi": "出口",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "chū kǒu",
+  "readings": [
+   "chū kǒu"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0087",
+  "hanzi": "出现",
+  "traditional": "出現",
+  "level": "4",
+  "pinyin": "chū xiàn",
+  "readings": [
+   "chū xiàn"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0088",
+  "hanzi": "出行",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "chū xíng",
+  "readings": [
+   "chū xíng"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0089",
+  "hanzi": "出租",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "chū zū",
+  "readings": [
+   "chū zū"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0090",
+  "hanzi": "厨房",
+  "traditional": "廚房",
+  "level": "4",
+  "pinyin": "chú fáng",
+  "readings": [
+   "chú fáng"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0091",
+  "hanzi": "厨师",
+  "traditional": "廚師",
+  "level": "4",
+  "pinyin": "chú shī",
+  "readings": [
+   "chú shī"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0092",
+  "hanzi": "窗户",
+  "traditional": "窗戶",
+  "level": "4",
+  "pinyin": "chuāng hu",
+  "readings": [
+   "chuāng hu"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0093",
+  "hanzi": "吹",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "chuī",
+  "readings": [
+   "chuī"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0094",
+  "hanzi": "词语",
+  "traditional": "詞語",
+  "level": "4",
+  "pinyin": "cí yǔ",
+  "readings": [
+   "cí yǔ"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0095",
+  "hanzi": "此",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "cǐ",
+  "readings": [
+   "cǐ"
+  ],
+  "pos": [
+   "r"
+  ]
+ },
+ {
+  "id": "hsk4-0096",
+  "hanzi": "此次",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "cǐ cì",
+  "readings": [
+   "cǐ cì"
+  ],
+  "pos": [
+   "r"
+  ]
+ },
+ {
+  "id": "hsk4-0097",
+  "hanzi": "此外",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "cǐ wài",
+  "readings": [
+   "cǐ wài"
+  ],
+  "pos": [
+   "c"
+  ]
+ },
+ {
+  "id": "hsk4-0098",
+  "hanzi": "从此",
+  "traditional": "從此",
+  "level": "4",
+  "pinyin": "cóng cǐ",
+  "readings": [
+   "cóng cǐ"
+  ],
+  "pos": [
+   "d"
+  ]
+ },
+ {
+  "id": "hsk4-0099",
+  "hanzi": "从来",
+  "traditional": "從來",
+  "level": "4",
+  "pinyin": "cóng lái",
+  "readings": [
+   "cóng lái"
+  ],
+  "pos": [
+   "d"
+  ]
+ },
+ {
+  "id": "hsk4-0100",
+  "hanzi": "从中",
+  "traditional": "從中",
+  "level": "4",
+  "pinyin": "cóng zhōng",
+  "readings": [
+   "cóng zhōng"
+  ],
+  "pos": [
+   "d"
+  ]
+ },
+ {
+  "id": "hsk4-0101",
+  "hanzi": "粗",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "cū",
+  "readings": [
+   "cū"
+  ],
+  "pos": [
+   "a",
+   "d"
+  ]
+ },
+ {
+  "id": "hsk4-0102",
+  "hanzi": "粗心",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "cū xīn",
+  "readings": [
+   "cū xīn"
+  ],
+  "pos": [
+   "a",
+   "an"
+  ]
+ },
+ {
+  "id": "hsk4-0103",
+  "hanzi": "村",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "cūn",
+  "readings": [
+   "cūn"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0104",
+  "hanzi": "存",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "cún",
+  "readings": [
+   "cún"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0105",
+  "hanzi": "错过",
+  "traditional": "錯過",
+  "level": "4",
+  "pinyin": "cuò guò",
+  "readings": [
+   "cuò guò"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0106",
+  "hanzi": "错误",
+  "traditional": "錯誤",
+  "level": "4",
+  "pinyin": "cuò wù",
+  "readings": [
+   "cuò wù"
+  ],
+  "pos": [
+   "n",
+   "a"
+  ]
+ },
+ {
+  "id": "hsk4-0107",
+  "hanzi": "达到",
+  "traditional": "達到",
+  "level": "4",
+  "pinyin": "dá dào",
+  "readings": [
+   "dá dào"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0108",
+  "hanzi": "答",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "dā",
+  "readings": [
+   "dā",
+   "dá"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0109",
+  "hanzi": "答案",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "dá àn",
+  "readings": [
+   "dá àn"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0110",
+  "hanzi": "答应",
+  "traditional": "答應",
+  "level": "4",
+  "pinyin": "dā ying",
+  "readings": [
+   "dā ying"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0111",
+  "hanzi": "打败",
+  "traditional": "打敗",
+  "level": "4",
+  "pinyin": "dǎ bài",
+  "readings": [
+   "dǎ bài"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0112",
+  "hanzi": "打工",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "dǎ gōng",
+  "readings": [
+   "dǎ gōng"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0113",
+  "hanzi": "打扰",
+  "traditional": "打擾",
+  "level": "4",
+  "pinyin": "dǎ rǎo",
+  "readings": [
+   "dǎ rǎo"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0114",
+  "hanzi": "打印",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "dǎ yìn",
+  "readings": [
+   "dǎ yìn"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0115",
+  "hanzi": "打印机",
+  "traditional": "打印機",
+  "level": "4",
+  "pinyin": "dǎ yìn jī",
+  "readings": [
+   "dǎ yìn jī"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0116",
+  "hanzi": "打招呼",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "dǎ zhāo hu",
+  "readings": [
+   "dǎ zhāo hu"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0117",
+  "hanzi": "打折",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "dǎ zhé",
+  "readings": [
+   "dǎ zhé"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0118",
+  "hanzi": "打针",
+  "traditional": "打針",
+  "level": "4",
+  "pinyin": "dǎ zhēn",
+  "readings": [
+   "dǎ zhēn"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0119",
+  "hanzi": "大巴",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "dà bā",
+  "readings": [
+   "dà bā"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0120",
+  "hanzi": "大大",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "dà dà",
+  "readings": [
+   "dà dà"
+  ],
+  "pos": [
+   "d",
+   "a"
+  ]
+ },
+ {
+  "id": "hsk4-0121",
+  "hanzi": "大夫",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "dà fū",
+  "readings": [
+   "dà fū",
+   "dài fu"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0122",
+  "hanzi": "大量",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "dà liàng",
+  "readings": [
+   "dà liàng"
+  ],
+  "pos": [
+   "m"
+  ]
+ },
+ {
+  "id": "hsk4-0123",
+  "hanzi": "大赛",
+  "traditional": "大賽",
+  "level": "4",
+  "pinyin": "dà sài",
+  "readings": [
+   "dà sài"
+  ],
+  "pos": [
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0124",
+  "hanzi": "大厅",
+  "traditional": "大廳",
+  "level": "4",
+  "pinyin": "dà tīng",
+  "readings": [
+   "dà tīng"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0125",
+  "hanzi": "大约",
+  "traditional": "大約",
+  "level": "4",
+  "pinyin": "dà yuē",
+  "readings": [
+   "dà yuē"
+  ],
+  "pos": [
+   "d"
+  ]
+ },
+ {
+  "id": "hsk4-0126",
+  "hanzi": "大自然",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "dà zì rán",
+  "readings": [
+   "dà zì rán"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0127",
+  "hanzi": "待",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "dāi",
+  "readings": [
+   "dāi",
+   "dài"
+  ],
+  "pos": [
+   "v",
+   "p"
+  ]
+ },
+ {
+  "id": "hsk4-0128",
+  "hanzi": "戴",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "Dài",
+  "readings": [
+   "Dài",
+   "dài"
+  ],
+  "pos": [
+   "v",
+   "nr"
+  ]
+ },
+ {
+  "id": "hsk4-0129",
+  "hanzi": "单位",
+  "traditional": "單位",
+  "level": "4",
+  "pinyin": "dān wèi",
+  "readings": [
+   "dān wèi"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0130",
+  "hanzi": "弹",
+  "traditional": "彈",
+  "level": "4",
+  "pinyin": "dàn",
+  "readings": [
+   "dàn",
+   "tán"
+  ],
+  "pos": [
+   "v",
+   "g",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0131",
+  "hanzi": "当",
+  "traditional": "噹",
+  "level": "4",
+  "pinyin": "dāng",
+  "readings": [
+   "dāng",
+   "dàng"
+  ],
+  "pos": [
+   "p",
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0132",
+  "hanzi": "当时",
+  "traditional": "當時",
+  "level": "4",
+  "pinyin": "dāng shí",
+  "readings": [
+   "dāng shí",
+   "dàng shí"
+  ],
+  "pos": [
+   "t"
+  ]
+ },
+ {
+  "id": "hsk4-0133",
+  "hanzi": "刀",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "Dāo",
+  "readings": [
+   "Dāo",
+   "dāo"
+  ],
+  "pos": [
+   "n",
+   "q"
+  ]
+ },
+ {
+  "id": "hsk4-0134",
+  "hanzi": "导游",
+  "traditional": "導遊",
+  "level": "4",
+  "pinyin": "dǎo yóu",
+  "readings": [
+   "dǎo yóu"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0135",
+  "hanzi": "到底",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "dào dǐ",
+  "readings": [
+   "dào dǐ"
+  ],
+  "pos": [
+   "d",
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0136",
+  "hanzi": "到来",
+  "traditional": "到來",
+  "level": "4",
+  "pinyin": "dào lái",
+  "readings": [
+   "dào lái"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0137",
+  "hanzi": "倒",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "dǎo",
+  "readings": [
+   "dǎo",
+   "dào"
+  ],
+  "pos": [
+   "v",
+   "d"
+  ]
+ },
+ {
+  "id": "hsk4-0138",
+  "hanzi": "道",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "dào",
+  "readings": [
+   "dào"
+  ],
+  "pos": [
+   "qv",
+   "n",
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0139",
+  "hanzi": "道路",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "dào lù",
+  "readings": [
+   "dào lù"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0140",
+  "hanzi": "道歉",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "dào qiàn",
+  "readings": [
+   "dào qiàn"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0141",
+  "hanzi": "地球",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "dì qiú",
+  "readings": [
+   "dì qiú"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0142",
+  "hanzi": "地址",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "dì zhǐ",
+  "readings": [
+   "dì zhǐ"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0143",
+  "hanzi": "得意",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "dé yì",
+  "readings": [
+   "dé yì"
+  ],
+  "pos": [
+   "a",
+   "an"
+  ]
+ },
+ {
+  "id": "hsk4-0144",
+  "hanzi": "登机",
+  "traditional": "登機",
+  "level": "4",
+  "pinyin": "dēng jī",
+  "readings": [
+   "dēng jī"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0145",
+  "hanzi": "等到",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "děng dào",
+  "readings": [
+   "děng dào"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0146",
+  "hanzi": "低",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "dī",
+  "readings": [
+   "dī"
+  ],
+  "pos": [
+   "a",
+   "ad",
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0147",
+  "hanzi": "低价",
+  "traditional": "低價",
+  "level": "4",
+  "pinyin": "dī jià",
+  "readings": [
+   "dī jià"
+  ],
+  "pos": [
+   "n",
+   "ad"
+  ]
+ },
+ {
+  "id": "hsk4-0148",
+  "hanzi": "低温",
+  "traditional": "低溫",
+  "level": "4",
+  "pinyin": "dī wēn",
+  "readings": [
+   "dī wēn"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0149",
+  "hanzi": "低于",
+  "traditional": "低於",
+  "level": "4",
+  "pinyin": "dī yú",
+  "readings": [
+   "dī yú"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0150",
+  "hanzi": "底",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "de",
+  "readings": [
+   "de",
+   "dǐ"
+  ],
+  "pos": [
+   "f",
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0151",
+  "hanzi": "底下",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "dǐ xia",
+  "readings": [
+   "dǐ xia"
+  ],
+  "pos": [
+   "f"
+  ]
+ },
+ {
+  "id": "hsk4-0152",
+  "hanzi": "点名",
+  "traditional": "點名",
+  "level": "4",
+  "pinyin": "diǎn míng",
+  "readings": [
+   "diǎn míng"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0153",
+  "hanzi": "点头",
+  "traditional": "點頭",
+  "level": "4",
+  "pinyin": "diǎn tóu",
+  "readings": [
+   "diǎn tóu"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0154",
+  "hanzi": "电动车",
+  "traditional": "電動車",
+  "level": "4",
+  "pinyin": "diàndòngchē",
+  "readings": [
+   "diàndòngchē"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0155",
+  "hanzi": "电视剧",
+  "traditional": "電視劇",
+  "level": "4",
+  "pinyin": "diàn shì jù",
+  "readings": [
+   "diàn shì jù"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0156",
+  "hanzi": "调查",
+  "traditional": "調查",
+  "level": "4",
+  "pinyin": "diào chá",
+  "readings": [
+   "diào chá"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0157",
+  "hanzi": "掉",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "diào",
+  "readings": [
+   "diào"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0158",
+  "hanzi": "订",
+  "traditional": "訂",
+  "level": "4",
+  "pinyin": "dìng",
+  "readings": [
+   "dìng"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0159",
+  "hanzi": "定",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "dìng",
+  "readings": [
+   "dìng"
+  ],
+  "pos": [
+   "v",
+   "d"
+  ]
+ },
+ {
+  "id": "hsk4-0160",
+  "hanzi": "东部",
+  "traditional": "東部",
+  "level": "4",
+  "pinyin": "dōng bù",
+  "readings": [
+   "dōng bù"
+  ],
+  "pos": [
+   "f"
+  ]
+ },
+ {
+  "id": "hsk4-0161",
+  "hanzi": "动作",
+  "traditional": "動作",
+  "level": "4",
+  "pinyin": "dòng zuò",
+  "readings": [
+   "dòng zuò"
+  ],
+  "pos": [
+   "n",
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0162",
+  "hanzi": "读者",
+  "traditional": "讀者",
+  "level": "4",
+  "pinyin": "dú zhě",
+  "readings": [
+   "dú zhě"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0163",
+  "hanzi": "堵车",
+  "traditional": "堵車",
+  "level": "4",
+  "pinyin": "dǔ chē",
+  "readings": [
+   "dǔ chē"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0164",
+  "hanzi": "肚子",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "dù zi",
+  "readings": [
+   "dù zi"
+  ],
+  "pos": [
+   "n",
+   "q"
+  ]
+ },
+ {
+  "id": "hsk4-0165",
+  "hanzi": "度假",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "dù jià",
+  "readings": [
+   "dù jià"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0166",
+  "hanzi": "短信",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "duǎn xìn",
+  "readings": [
+   "duǎn xìn"
+  ],
+  "pos": []
+ },
+ {
+  "id": "hsk4-0167",
+  "hanzi": "队",
+  "traditional": "隊",
+  "level": "4",
+  "pinyin": "duì",
+  "readings": [
+   "duì"
+  ],
+  "pos": [
+   "n",
+   "q"
+  ]
+ },
+ {
+  "id": "hsk4-0168",
+  "hanzi": "队员",
+  "traditional": "隊員",
+  "level": "4",
+  "pinyin": "duì yuán",
+  "readings": [
+   "duì yuán"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0169",
+  "hanzi": "队长",
+  "traditional": "隊長",
+  "level": "4",
+  "pinyin": "duì zhǎng",
+  "readings": [
+   "duì zhǎng"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0170",
+  "hanzi": "对方",
+  "traditional": "對方",
+  "level": "4",
+  "pinyin": "duì fāng",
+  "readings": [
+   "duì fāng"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0171",
+  "hanzi": "对面",
+  "traditional": "對面",
+  "level": "4",
+  "pinyin": "duì miàn",
+  "readings": [
+   "duì miàn"
+  ],
+  "pos": [
+   "f",
+   "n",
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0172",
+  "hanzi": "对于",
+  "traditional": "對於",
+  "level": "4",
+  "pinyin": "duì yú",
+  "readings": [
+   "duì yú"
+  ],
+  "pos": [
+   "p"
+  ]
+ },
+ {
+  "id": "hsk4-0173",
+  "hanzi": "顿",
+  "traditional": "頓",
+  "level": "4",
+  "pinyin": "dùn",
+  "readings": [
+   "dùn"
+  ],
+  "pos": [
+   "qv",
+   "g"
+  ]
+ },
+ {
+  "id": "hsk4-0174",
+  "hanzi": "多么",
+  "traditional": "多麼",
+  "level": "4",
+  "pinyin": "duō me",
+  "readings": [
+   "duō me"
+  ],
+  "pos": [
+   "d",
+   "a"
+  ]
+ },
+ {
+  "id": "hsk4-0175",
+  "hanzi": "多数",
+  "traditional": "多數",
+  "level": "4",
+  "pinyin": "duō shù",
+  "readings": [
+   "duō shù"
+  ],
+  "pos": [
+   "m"
+  ]
+ },
+ {
+  "id": "hsk4-0176",
+  "hanzi": "多样",
+  "traditional": "多樣",
+  "level": "4",
+  "pinyin": "duō yàng",
+  "readings": [
+   "duō yàng"
+  ],
+  "pos": [
+   "m",
+   "a"
+  ]
+ },
+ {
+  "id": "hsk4-0177",
+  "hanzi": "儿童",
+  "traditional": "兒童",
+  "level": "4",
+  "pinyin": "ér tóng",
+  "readings": [
+   "ér tóng"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0178",
+  "hanzi": "而",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "ér",
+  "readings": [
+   "ér"
+  ],
+  "pos": [
+   "cc",
+   "u"
+  ]
+ },
+ {
+  "id": "hsk4-0179",
+  "hanzi": "发出",
+  "traditional": "發出",
+  "level": "4",
+  "pinyin": "fā chū",
+  "readings": [
+   "fā chū"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0180",
+  "hanzi": "发送",
+  "traditional": "發送",
+  "level": "4",
+  "pinyin": "fā sòng",
+  "readings": [
+   "fā sòng"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0181",
+  "hanzi": "法",
+  "traditional": "㳒",
+  "level": "4",
+  "pinyin": "fǎ",
+  "readings": [
+   "fǎ",
+   "Fǎ"
+  ],
+  "pos": [
+   "n",
+   "b",
+   "g"
+  ]
+ },
+ {
+  "id": "hsk4-0182",
+  "hanzi": "法律",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "fǎ lǜ",
+  "readings": [
+   "fǎ lǜ"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0183",
+  "hanzi": "翻译",
+  "traditional": "翻譯",
+  "level": "4",
+  "pinyin": "fān yì",
+  "readings": [
+   "fān yì"
+  ],
+  "pos": []
+ },
+ {
+  "id": "hsk4-0184",
+  "hanzi": "烦",
+  "traditional": "煩",
+  "level": "4",
+  "pinyin": "fán",
+  "readings": [
+   "fán"
+  ],
+  "pos": [
+   "v",
+   "a"
+  ]
+ },
+ {
+  "id": "hsk4-0185",
+  "hanzi": "烦恼",
+  "traditional": "煩惱",
+  "level": "4",
+  "pinyin": "fán nǎo",
+  "readings": [
+   "fán nǎo"
+  ],
+  "pos": [
+   "an",
+   "a"
+  ]
+ },
+ {
+  "id": "hsk4-0186",
+  "hanzi": "反对",
+  "traditional": "反對",
+  "level": "4",
+  "pinyin": "fǎn duì",
+  "readings": [
+   "fǎn duì"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0187",
+  "hanzi": "方面",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "fāng miàn",
+  "readings": [
+   "fāng miàn"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0188",
+  "hanzi": "方式",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "fāng shì",
+  "readings": [
+   "fāng shì"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0189",
+  "hanzi": "房东",
+  "traditional": "房東",
+  "level": "4",
+  "pinyin": "fáng dōng",
+  "readings": [
+   "fáng dōng"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0190",
+  "hanzi": "房租",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "fáng zū",
+  "readings": [
+   "fáng zū"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0191",
+  "hanzi": "放弃",
+  "traditional": "放棄",
+  "level": "4",
+  "pinyin": "fàng qì",
+  "readings": [
+   "fàng qì"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0192",
+  "hanzi": "放松",
+  "traditional": "放鬆",
+  "level": "4",
+  "pinyin": "fàng sōng",
+  "readings": [
+   "fàng sōng"
+  ],
+  "pos": [
+   "v",
+   "vn",
+   "a"
+  ]
+ },
+ {
+  "id": "hsk4-0193",
+  "hanzi": "费",
+  "traditional": "費",
+  "level": "4",
+  "pinyin": "Fèi",
+  "readings": [
+   "Fèi",
+   "fèi"
+  ],
+  "pos": [
+   "n",
+   "v",
+   "nr"
+  ]
+ },
+ {
+  "id": "hsk4-0194",
+  "hanzi": "费用",
+  "traditional": "費用",
+  "level": "4",
+  "pinyin": "fèi yòng",
+  "readings": [
+   "fèi yòng"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0195",
+  "hanzi": "分数",
+  "traditional": "分數",
+  "level": "4",
+  "pinyin": "fēn shù",
+  "readings": [
+   "fēn shù"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0196",
+  "hanzi": "分为",
+  "traditional": "分為",
+  "level": "4",
+  "pinyin": "fēn wéi",
+  "readings": [
+   "fēn wéi"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0197",
+  "hanzi": "份",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "fèn",
+  "readings": [
+   "fèn"
+  ],
+  "pos": [
+   "q"
+  ]
+ },
+ {
+  "id": "hsk4-0198",
+  "hanzi": "丰富",
+  "traditional": "豐富",
+  "level": "4",
+  "pinyin": "fēng fù",
+  "readings": [
+   "fēng fù"
+  ],
+  "pos": [
+   "a",
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0199",
+  "hanzi": "风景",
+  "traditional": "風景",
+  "level": "4",
+  "pinyin": "fēng jǐng",
+  "readings": [
+   "fēng jǐng"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0200",
+  "hanzi": "否则",
+  "traditional": "否則",
+  "level": "4",
+  "pinyin": "fǒu zé",
+  "readings": [
+   "fǒu zé"
+  ],
+  "pos": [
+   "c"
+  ]
+ },
+ {
+  "id": "hsk4-0201",
+  "hanzi": "符合",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "fú hé",
+  "readings": [
+   "fú hé"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0202",
+  "hanzi": "幅",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "fú",
+  "readings": [
+   "fú"
+  ],
+  "pos": [
+   "q"
+  ]
+ },
+ {
+  "id": "hsk4-0203",
+  "hanzi": "父母",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "fù mǔ",
+  "readings": [
+   "fù mǔ"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0204",
+  "hanzi": "父女",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "fù nǚ",
+  "readings": [
+   "fù nǚ"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0205",
+  "hanzi": "父亲",
+  "traditional": "父親",
+  "level": "4",
+  "pinyin": "fù qīn",
+  "readings": [
+   "fù qīn"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0206",
+  "hanzi": "父子",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "fù zǐ",
+  "readings": [
+   "fù zǐ"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0207",
+  "hanzi": "付",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "Fù",
+  "readings": [
+   "Fù",
+   "fù"
+  ],
+  "pos": [
+   "v",
+   "q"
+  ]
+ },
+ {
+  "id": "hsk4-0208",
+  "hanzi": "负责",
+  "traditional": "負責",
+  "level": "4",
+  "pinyin": "fù zé",
+  "readings": [
+   "fù zé"
+  ],
+  "pos": [
+   "v",
+   "vn",
+   "a"
+  ]
+ },
+ {
+  "id": "hsk4-0209",
+  "hanzi": "负责人",
+  "traditional": "負責人",
+  "level": "4",
+  "pinyin": "fù zé rén",
+  "readings": [
+   "fù zé rén"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0210",
+  "hanzi": "复印",
+  "traditional": "複印",
+  "level": "4",
+  "pinyin": "fù yìn",
+  "readings": [
+   "fù yìn"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0211",
+  "hanzi": "复杂",
+  "traditional": "複雜",
+  "level": "4",
+  "pinyin": "fù zá",
+  "readings": [
+   "fù zá"
+  ],
+  "pos": [
+   "a"
+  ]
+ },
+ {
+  "id": "hsk4-0212",
+  "hanzi": "改",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "gǎi",
+  "readings": [
+   "gǎi"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0213",
+  "hanzi": "改变",
+  "traditional": "改變",
+  "level": "4",
+  "pinyin": "gǎi biàn",
+  "readings": [
+   "gǎi biàn"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0214",
+  "hanzi": "赶",
+  "traditional": "趕",
+  "level": "4",
+  "pinyin": "gǎn",
+  "readings": [
+   "gǎn"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0215",
+  "hanzi": "赶紧",
+  "traditional": "趕緊",
+  "level": "4",
+  "pinyin": "gǎn jǐn",
+  "readings": [
+   "gǎn jǐn"
+  ],
+  "pos": [
+   "d"
+  ]
+ },
+ {
+  "id": "hsk4-0216",
+  "hanzi": "赶快",
+  "traditional": "趕快",
+  "level": "4",
+  "pinyin": "gǎn kuài",
+  "readings": [
+   "gǎn kuài"
+  ],
+  "pos": [
+   "d"
+  ]
+ },
+ {
+  "id": "hsk4-0217",
+  "hanzi": "赶上",
+  "traditional": "趕上",
+  "level": "4",
+  "pinyin": "gǎn shàng",
+  "readings": [
+   "gǎn shàng"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0218",
+  "hanzi": "敢",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "gǎn",
+  "readings": [
+   "gǎn"
+  ],
+  "pos": [
+   "v",
+   "g"
+  ]
+ },
+ {
+  "id": "hsk4-0219",
+  "hanzi": "感",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "gǎn",
+  "readings": [
+   "gǎn"
+  ],
+  "pos": [
+   "g"
+  ]
+ },
+ {
+  "id": "hsk4-0220",
+  "hanzi": "感动",
+  "traditional": "感動",
+  "level": "4",
+  "pinyin": "gǎn dòng",
+  "readings": [
+   "gǎn dòng"
+  ],
+  "pos": [
+   "v",
+   "a",
+   "vn",
+   "an"
+  ]
+ },
+ {
+  "id": "hsk4-0221",
+  "hanzi": "感觉",
+  "traditional": "感覺",
+  "level": "4",
+  "pinyin": "gǎn jué",
+  "readings": [
+   "gǎn jué"
+  ],
+  "pos": [
+   "n",
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0222",
+  "hanzi": "感情",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "gǎn qíng",
+  "readings": [
+   "gǎn qíng"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0223",
+  "hanzi": "感人",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "gǎn rén",
+  "readings": [
+   "gǎn rén"
+  ],
+  "pos": [
+   "a"
+  ]
+ },
+ {
+  "id": "hsk4-0224",
+  "hanzi": "感受",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "gǎn shòu",
+  "readings": [
+   "gǎn shòu"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0225",
+  "hanzi": "感谢",
+  "traditional": "感謝",
+  "level": "4",
+  "pinyin": "gǎn xiè",
+  "readings": [
+   "gǎn xiè"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0226",
+  "hanzi": "干杯",
+  "traditional": "乾杯",
+  "level": "4",
+  "pinyin": "gān bēi",
+  "readings": [
+   "gān bēi"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0227",
+  "hanzi": "干活儿",
+  "traditional": "幹活兒",
+  "level": "4",
+  "pinyin": "gàn huó r",
+  "readings": [
+   "gàn huó r"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0228",
+  "hanzi": "钢琴",
+  "traditional": "鋼琴",
+  "level": "4",
+  "pinyin": "gāng qín",
+  "readings": [
+   "gāng qín"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0229",
+  "hanzi": "高价",
+  "traditional": "高價",
+  "level": "4",
+  "pinyin": "gāo jià",
+  "readings": [
+   "gāo jià"
+  ],
+  "pos": [
+   "n",
+   "d"
+  ]
+ },
+ {
+  "id": "hsk4-0230",
+  "hanzi": "高考",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "gāo kǎo",
+  "readings": [
+   "gāo kǎo"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0231",
+  "hanzi": "高速",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "gāo sù",
+  "readings": [
+   "gāo sù"
+  ],
+  "pos": [
+   "b",
+   "d"
+  ]
+ },
+ {
+  "id": "hsk4-0232",
+  "hanzi": "高温",
+  "traditional": "高溫",
+  "level": "4",
+  "pinyin": "gāo wēn",
+  "readings": [
+   "gāo wēn"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0233",
+  "hanzi": "高于",
+  "traditional": "高於",
+  "level": "4",
+  "pinyin": "gāo yú",
+  "readings": [
+   "gāo yú"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0234",
+  "hanzi": "胳膊",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "gē bo",
+  "readings": [
+   "gē bo"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0235",
+  "hanzi": "歌声",
+  "traditional": "歌聲",
+  "level": "4",
+  "pinyin": "gē shēng",
+  "readings": [
+   "gē shēng"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0236",
+  "hanzi": "歌手",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "gē shǒu",
+  "readings": [
+   "gē shǒu"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0237",
+  "hanzi": "各",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "gè",
+  "readings": [
+   "gè"
+  ],
+  "pos": [
+   "r"
+  ]
+ },
+ {
+  "id": "hsk4-0238",
+  "hanzi": "各地",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "gè dì",
+  "readings": [
+   "gè dì"
+  ],
+  "pos": [
+   "r"
+  ]
+ },
+ {
+  "id": "hsk4-0239",
+  "hanzi": "各个",
+  "traditional": "各個",
+  "level": "4",
+  "pinyin": "gè gè",
+  "readings": [
+   "gè gè"
+  ],
+  "pos": [
+   "r"
+  ]
+ },
+ {
+  "id": "hsk4-0240",
+  "hanzi": "各位",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "gè wèi",
+  "readings": [
+   "gè wèi"
+  ],
+  "pos": [
+   "r"
+  ]
+ },
+ {
+  "id": "hsk4-0241",
+  "hanzi": "各种",
+  "traditional": "各種",
+  "level": "4",
+  "pinyin": "gè zhǒng",
+  "readings": [
+   "gè zhǒng"
+  ],
+  "pos": [
+   "r"
+  ]
+ },
+ {
+  "id": "hsk4-0242",
+  "hanzi": "更加",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "gèng jiā",
+  "readings": [
+   "gèng jiā"
+  ],
+  "pos": [
+   "d"
+  ]
+ },
+ {
+  "id": "hsk4-0243",
+  "hanzi": "工厂",
+  "traditional": "工廠",
+  "level": "4",
+  "pinyin": "gōng chǎng",
+  "readings": [
+   "gōng chǎng"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0244",
+  "hanzi": "工人",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "gōng rén",
+  "readings": [
+   "gōng rén"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0245",
+  "hanzi": "工资",
+  "traditional": "工資",
+  "level": "4",
+  "pinyin": "gōng zī",
+  "readings": [
+   "gōng zī"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0246",
+  "hanzi": "公共",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "gōng gòng",
+  "readings": [
+   "gōng gòng"
+  ],
+  "pos": [
+   "b"
+  ]
+ },
+ {
+  "id": "hsk4-0247",
+  "hanzi": "公里",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "gōng lǐ",
+  "readings": [
+   "gōng lǐ"
+  ],
+  "pos": [
+   "q",
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0248",
+  "hanzi": "公路",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "gōng lù",
+  "readings": [
+   "gōng lù"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0249",
+  "hanzi": "功夫",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "gōng fu",
+  "readings": [
+   "gōng fu"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0250",
+  "hanzi": "功课",
+  "traditional": "功課",
+  "level": "4",
+  "pinyin": "gōng kè",
+  "readings": [
+   "gōng kè"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0251",
+  "hanzi": "共",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "gòng",
+  "readings": [
+   "gòng"
+  ],
+  "pos": [
+   "d",
+   "g",
+   "b"
+  ]
+ },
+ {
+  "id": "hsk4-0252",
+  "hanzi": "共同",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "gòng tóng",
+  "readings": [
+   "gòng tóng"
+  ],
+  "pos": [
+   "d",
+   "b"
+  ]
+ },
+ {
+  "id": "hsk4-0253",
+  "hanzi": "购买",
+  "traditional": "購買",
+  "level": "4",
+  "pinyin": "gòu mǎi",
+  "readings": [
+   "gòu mǎi"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0254",
+  "hanzi": "购物",
+  "traditional": "購物",
+  "level": "4",
+  "pinyin": "gòu wù",
+  "readings": [
+   "gòu wù"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0255",
+  "hanzi": "够",
+  "traditional": "夠",
+  "level": "4",
+  "pinyin": "gòu",
+  "readings": [
+   "gòu"
+  ],
+  "pos": [
+   "v",
+   "d"
+  ]
+ },
+ {
+  "id": "hsk4-0256",
+  "hanzi": "估计",
+  "traditional": "估計",
+  "level": "4",
+  "pinyin": "gū jì",
+  "readings": [
+   "gū jì"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0257",
+  "hanzi": "姑娘",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "gū niang",
+  "readings": [
+   "gū niang"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0258",
+  "hanzi": "鼓励",
+  "traditional": "鼓勵",
+  "level": "4",
+  "pinyin": "gǔ lì",
+  "readings": [
+   "gǔ lì"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0259",
+  "hanzi": "故意",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "gù yì",
+  "readings": [
+   "gù yì"
+  ],
+  "pos": [
+   "d",
+   "b"
+  ]
+ },
+ {
+  "id": "hsk4-0260",
+  "hanzi": "顾客",
+  "traditional": "顧客",
+  "level": "4",
+  "pinyin": "gù kè",
+  "readings": [
+   "gù kè"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0261",
+  "hanzi": "挂",
+  "traditional": "掛",
+  "level": "4",
+  "pinyin": "guà",
+  "readings": [
+   "guà"
+  ],
+  "pos": [
+   "v",
+   "q"
+  ]
+ },
+ {
+  "id": "hsk4-0262",
+  "hanzi": "关键",
+  "traditional": "關鍵",
+  "level": "4",
+  "pinyin": "guān jiàn",
+  "readings": [
+   "guān jiàn"
+  ],
+  "pos": [
+   "n",
+   "a"
+  ]
+ },
+ {
+  "id": "hsk4-0263",
+  "hanzi": "观看",
+  "traditional": "觀看",
+  "level": "4",
+  "pinyin": "guān kàn",
+  "readings": [
+   "guān kàn"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0264",
+  "hanzi": "观众",
+  "traditional": "觀眾",
+  "level": "4",
+  "pinyin": "guān zhòng",
+  "readings": [
+   "guān zhòng"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0265",
+  "hanzi": "管",
+  "traditional": "筦",
+  "level": "4",
+  "pinyin": "guǎn",
+  "readings": [
+   "guǎn",
+   "Guǎn"
+  ],
+  "pos": [
+   "v",
+   "q"
+  ]
+ },
+ {
+  "id": "hsk4-0266",
+  "hanzi": "管理",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "guǎn lǐ",
+  "readings": [
+   "guǎn lǐ"
+  ],
+  "pos": [
+   "vn",
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0267",
+  "hanzi": "光",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "guāng",
+  "readings": [
+   "guāng"
+  ],
+  "pos": [
+   "n",
+   "d",
+   "v",
+   "a"
+  ]
+ },
+ {
+  "id": "hsk4-0268",
+  "hanzi": "广播",
+  "traditional": "廣播",
+  "level": "4",
+  "pinyin": "guǎng bō",
+  "readings": [
+   "guǎng bō"
+  ],
+  "pos": [
+   "vn",
+   "n",
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0269",
+  "hanzi": "广告",
+  "traditional": "廣告",
+  "level": "4",
+  "pinyin": "guǎng gào",
+  "readings": [
+   "guǎng gào"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0270",
+  "hanzi": "逛",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "guàng",
+  "readings": [
+   "guàng"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0271",
+  "hanzi": "规定",
+  "traditional": "規定",
+  "level": "4",
+  "pinyin": "guī dìng",
+  "readings": [
+   "guī dìng"
+  ],
+  "pos": [
+   "n",
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0272",
+  "hanzi": "国籍",
+  "traditional": "國籍",
+  "level": "4",
+  "pinyin": "guó jí",
+  "readings": [
+   "guó jí"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0273",
+  "hanzi": "国际",
+  "traditional": "國際",
+  "level": "4",
+  "pinyin": "guó jì",
+  "readings": [
+   "guó jì"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0274",
+  "hanzi": "果汁",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "guǒ zhī",
+  "readings": [
+   "guǒ zhī"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0275",
+  "hanzi": "过程",
+  "traditional": "過程",
+  "level": "4",
+  "pinyin": "guò chéng",
+  "readings": [
+   "guò chéng"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0276",
+  "hanzi": "咳",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "hāi",
+  "readings": [
+   "hāi",
+   "ké"
+  ],
+  "pos": [
+   "v",
+   "e"
+  ]
+ },
+ {
+  "id": "hsk4-0277",
+  "hanzi": "咳嗽",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "ké sou",
+  "readings": [
+   "ké sou"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0278",
+  "hanzi": "海洋",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "hǎi yáng",
+  "readings": [
+   "hǎi yáng"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0279",
+  "hanzi": "害羞",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "hài xiū",
+  "readings": [
+   "hài xiū"
+  ],
+  "pos": [
+   "a"
+  ]
+ },
+ {
+  "id": "hsk4-0280",
+  "hanzi": "寒假",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "hán jià",
+  "readings": [
+   "hán jià"
+  ],
+  "pos": [
+   "t"
+  ]
+ },
+ {
+  "id": "hsk4-0281",
+  "hanzi": "寒冷",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "hán lěng",
+  "readings": [
+   "hán lěng"
+  ],
+  "pos": [
+   "a",
+   "an"
+  ]
+ },
+ {
+  "id": "hsk4-0282",
+  "hanzi": "喊",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "hǎn",
+  "readings": [
+   "hǎn"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0283",
+  "hanzi": "汗",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "hán",
+  "readings": [
+   "hán",
+   "hàn"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0284",
+  "hanzi": "航班",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "háng bān",
+  "readings": [
+   "háng bān"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0285",
+  "hanzi": "好处",
+  "traditional": "好處",
+  "level": "4",
+  "pinyin": "hǎo chǔ",
+  "readings": [
+   "hǎo chǔ",
+   "hǎo chu"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0286",
+  "hanzi": "好好",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "hǎo hǎo",
+  "readings": [
+   "hǎo hǎo"
+  ],
+  "pos": [
+   "d",
+   "z"
+  ]
+ },
+ {
+  "id": "hsk4-0287",
+  "hanzi": "好笑",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "hǎo xiào",
+  "readings": [
+   "hǎo xiào"
+  ],
+  "pos": [
+   "a"
+  ]
+ },
+ {
+  "id": "hsk4-0288",
+  "hanzi": "合格",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "hé gé",
+  "readings": [
+   "hé gé"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0289",
+  "hanzi": "盒子",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "hé zi",
+  "readings": [
+   "hé zi"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0290",
+  "hanzi": "红包",
+  "traditional": "紅包",
+  "level": "4",
+  "pinyin": "hóng bāo",
+  "readings": [
+   "hóng bāo"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0291",
+  "hanzi": "后悔",
+  "traditional": "後悔",
+  "level": "4",
+  "pinyin": "hòu huǐ",
+  "readings": [
+   "hòu huǐ"
+  ],
+  "pos": [
+   "v",
+   "vn",
+   "a"
+  ]
+ },
+ {
+  "id": "hsk4-0292",
+  "hanzi": "厚",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "hòu",
+  "readings": [
+   "hòu"
+  ],
+  "pos": [
+   "a"
+  ]
+ },
+ {
+  "id": "hsk4-0293",
+  "hanzi": "忽然",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "hū rán",
+  "readings": [
+   "hū rán"
+  ],
+  "pos": [
+   "d"
+  ]
+ },
+ {
+  "id": "hsk4-0294",
+  "hanzi": "互联网",
+  "traditional": "互聯網",
+  "level": "4",
+  "pinyin": "Hù lián wǎng",
+  "readings": [
+   "Hù lián wǎng"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0295",
+  "hanzi": "互相",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "hù xiāng",
+  "readings": [
+   "hù xiāng"
+  ],
+  "pos": [
+   "d",
+   "b"
+  ]
+ },
+ {
+  "id": "hsk4-0296",
+  "hanzi": "护士",
+  "traditional": "護士",
+  "level": "4",
+  "pinyin": "hù shi",
+  "readings": [
+   "hù shi"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0297",
+  "hanzi": "话剧",
+  "traditional": "話劇",
+  "level": "4",
+  "pinyin": "huà jù",
+  "readings": [
+   "huà jù"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0298",
+  "hanzi": "怀疑",
+  "traditional": "懷疑",
+  "level": "4",
+  "pinyin": "huái yí",
+  "readings": [
+   "huái yí"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0299",
+  "hanzi": "坏处",
+  "traditional": "壞處",
+  "level": "4",
+  "pinyin": "huài chu",
+  "readings": [
+   "huài chu"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0300",
+  "hanzi": "环保",
+  "traditional": "環保",
+  "level": "4",
+  "pinyin": "huán bǎo",
+  "readings": [
+   "huán bǎo"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0301",
+  "hanzi": "回复",
+  "traditional": "回復",
+  "level": "4",
+  "pinyin": "huí fù",
+  "readings": [
+   "huí fù"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0302",
+  "hanzi": "回信",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "huí xìn",
+  "readings": [
+   "huí xìn"
+  ],
+  "pos": [
+   "n",
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0303",
+  "hanzi": "回忆",
+  "traditional": "回憶",
+  "level": "4",
+  "pinyin": "huí yì",
+  "readings": [
+   "huí yì"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0304",
+  "hanzi": "会员",
+  "traditional": "會員",
+  "level": "4",
+  "pinyin": "huì yuán",
+  "readings": [
+   "huì yuán"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0305",
+  "hanzi": "活",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "huó",
+  "readings": [
+   "huó"
+  ],
+  "pos": [
+   "v",
+   "n",
+   "a"
+  ]
+ },
+ {
+  "id": "hsk4-0306",
+  "hanzi": "活动",
+  "traditional": "活動",
+  "level": "4",
+  "pinyin": "huó dòng",
+  "readings": [
+   "huó dòng"
+  ],
+  "pos": [
+   "vn",
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0307",
+  "hanzi": "活泼",
+  "traditional": "活潑",
+  "level": "4",
+  "pinyin": "huó po",
+  "readings": [
+   "huó po"
+  ],
+  "pos": [
+   "a"
+  ]
+ },
+ {
+  "id": "hsk4-0308",
+  "hanzi": "火",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "Huǒ",
+  "readings": [
+   "Huǒ",
+   "huǒ"
+  ],
+  "pos": [
+   "n",
+   "a",
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0309",
+  "hanzi": "货",
+  "traditional": "貨",
+  "level": "4",
+  "pinyin": "huò",
+  "readings": [
+   "huò"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0310",
+  "hanzi": "获得",
+  "traditional": "獲得",
+  "level": "4",
+  "pinyin": "huò dé",
+  "readings": [
+   "huò dé"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0311",
+  "hanzi": "获奖",
+  "traditional": "獲獎",
+  "level": "4",
+  "pinyin": "huò jiǎng",
+  "readings": [
+   "huò jiǎng"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0312",
+  "hanzi": "获取",
+  "traditional": "獲取",
+  "level": "4",
+  "pinyin": "huò qǔ",
+  "readings": [
+   "huò qǔ"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0313",
+  "hanzi": "积极",
+  "traditional": "積極",
+  "level": "4",
+  "pinyin": "jī jí",
+  "readings": [
+   "jī jí"
+  ],
+  "pos": [
+   "a",
+   "ad"
+  ]
+ },
+ {
+  "id": "hsk4-0314",
+  "hanzi": "积累",
+  "traditional": "積累",
+  "level": "4",
+  "pinyin": "jī lěi",
+  "readings": [
+   "jī lěi"
+  ],
+  "pos": [
+   "v",
+   "vn",
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0315",
+  "hanzi": "基本",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "jī běn",
+  "readings": [
+   "jī běn"
+  ],
+  "pos": [
+   "a",
+   "ad",
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0316",
+  "hanzi": "基本上",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "jī běn shang",
+  "readings": [
+   "jī běn shang"
+  ],
+  "pos": [
+   "d"
+  ]
+ },
+ {
+  "id": "hsk4-0317",
+  "hanzi": "基础",
+  "traditional": "基礎",
+  "level": "4",
+  "pinyin": "jī chǔ",
+  "readings": [
+   "jī chǔ"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0318",
+  "hanzi": "激动",
+  "traditional": "激動",
+  "level": "4",
+  "pinyin": "jī dòng",
+  "readings": [
+   "jī dòng"
+  ],
+  "pos": [
+   "a",
+   "an"
+  ]
+ },
+ {
+  "id": "hsk4-0319",
+  "hanzi": "及时",
+  "traditional": "及時",
+  "level": "4",
+  "pinyin": "jí shí",
+  "readings": [
+   "jí shí"
+  ],
+  "pos": [
+   "ad",
+   "a"
+  ]
+ },
+ {
+  "id": "hsk4-0320",
+  "hanzi": "即使",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "jí shǐ",
+  "readings": [
+   "jí shǐ"
+  ],
+  "pos": [
+   "c"
+  ]
+ },
+ {
+  "id": "hsk4-0321",
+  "hanzi": "计划",
+  "traditional": "計劃",
+  "level": "4",
+  "pinyin": "jì huà",
+  "readings": [
+   "jì huà"
+  ],
+  "pos": [
+   "n",
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0322",
+  "hanzi": "记者",
+  "traditional": "記者",
+  "level": "4",
+  "pinyin": "jì zhě",
+  "readings": [
+   "jì zhě"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0323",
+  "hanzi": "技术",
+  "traditional": "技術",
+  "level": "4",
+  "pinyin": "jì shù",
+  "readings": [
+   "jì shù"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0324",
+  "hanzi": "既",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "jì",
+  "readings": [
+   "jì"
+  ],
+  "pos": [
+   "c",
+   "d"
+  ]
+ },
+ {
+  "id": "hsk4-0325",
+  "hanzi": "既然",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "jì rán",
+  "readings": [
+   "jì rán"
+  ],
+  "pos": [
+   "c"
+  ]
+ },
+ {
+  "id": "hsk4-0326",
+  "hanzi": "继续",
+  "traditional": "繼續",
+  "level": "4",
+  "pinyin": "jì xù",
+  "readings": [
+   "jì xù"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0327",
+  "hanzi": "寄",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "jì",
+  "readings": [
+   "jì"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0328",
+  "hanzi": "加班",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "jiā bān",
+  "readings": [
+   "jiā bān"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0329",
+  "hanzi": "加快",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "jiā kuài",
+  "readings": [
+   "jiā kuài"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0330",
+  "hanzi": "加强",
+  "traditional": "加強",
+  "level": "4",
+  "pinyin": "jiā qiáng",
+  "readings": [
+   "jiā qiáng"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0331",
+  "hanzi": "加入",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "jiā rù",
+  "readings": [
+   "jiā rù"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0332",
+  "hanzi": "加上",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "jiā shàng",
+  "readings": [
+   "jiā shàng"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0333",
+  "hanzi": "加油",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "jiā yóu",
+  "readings": [
+   "jiā yóu"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0334",
+  "hanzi": "加油站",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "jiā yóu zhàn",
+  "readings": [
+   "jiā yóu zhàn"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0335",
+  "hanzi": "家具",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "jiā jù",
+  "readings": [
+   "jiā jù"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0336",
+  "hanzi": "家庭",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "jiā tíng",
+  "readings": [
+   "jiā tíng"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0337",
+  "hanzi": "家乡",
+  "traditional": "家鄉",
+  "level": "4",
+  "pinyin": "jiā xiāng",
+  "readings": [
+   "jiā xiāng"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0338",
+  "hanzi": "家长",
+  "traditional": "家長",
+  "level": "4",
+  "pinyin": "jiā zhǎng",
+  "readings": [
+   "jiā zhǎng"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0339",
+  "hanzi": "假",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "gēi",
+  "readings": [
+   "gēi",
+   "jiǎ",
+   "jià"
+  ],
+  "pos": [
+   "a",
+   "ad",
+   "n",
+   "g"
+  ]
+ },
+ {
+  "id": "hsk4-0340",
+  "hanzi": "假日",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "jià rì",
+  "readings": [
+   "jià rì"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0341",
+  "hanzi": "价格",
+  "traditional": "價格",
+  "level": "4",
+  "pinyin": "jià gé",
+  "readings": [
+   "jià gé"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0342",
+  "hanzi": "价钱",
+  "traditional": "價錢",
+  "level": "4",
+  "pinyin": "jià qian",
+  "readings": [
+   "jià qian"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0343",
+  "hanzi": "减",
+  "traditional": "減",
+  "level": "4",
+  "pinyin": "jiǎn",
+  "readings": [
+   "jiǎn"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0344",
+  "hanzi": "减轻",
+  "traditional": "減輕",
+  "level": "4",
+  "pinyin": "jiǎn qīng",
+  "readings": [
+   "jiǎn qīng"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0345",
+  "hanzi": "减少",
+  "traditional": "減少",
+  "level": "4",
+  "pinyin": "jiǎn shǎo",
+  "readings": [
+   "jiǎn shǎo"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0346",
+  "hanzi": "建议",
+  "traditional": "建議",
+  "level": "4",
+  "pinyin": "jiàn yì",
+  "readings": [
+   "jiàn yì"
+  ],
+  "pos": [
+   "n",
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0347",
+  "hanzi": "健身",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "jiàn shēn",
+  "readings": [
+   "jiàn shēn"
+  ],
+  "pos": [
+   "vn",
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0348",
+  "hanzi": "健身房",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "jiàn shēn fáng",
+  "readings": [
+   "jiàn shēn fáng"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0349",
+  "hanzi": "江",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "Jiāng",
+  "readings": [
+   "Jiāng",
+   "jiāng"
+  ],
+  "pos": [
+   "nr",
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0350",
+  "hanzi": "将",
+  "traditional": "將",
+  "level": "4",
+  "pinyin": "jiāng",
+  "readings": [
+   "jiāng",
+   "jiàng",
+   "qiāng"
+  ],
+  "pos": [
+   "d",
+   "p",
+   "g"
+  ]
+ },
+ {
+  "id": "hsk4-0351",
+  "hanzi": "将来",
+  "traditional": "將來",
+  "level": "4",
+  "pinyin": "jiāng lái",
+  "readings": [
+   "jiāng lái"
+  ],
+  "pos": [
+   "t"
+  ]
+ },
+ {
+  "id": "hsk4-0352",
+  "hanzi": "将要",
+  "traditional": "將要",
+  "level": "4",
+  "pinyin": "jiāng yào",
+  "readings": [
+   "jiāng yào"
+  ],
+  "pos": [
+   "d"
+  ]
+ },
+ {
+  "id": "hsk4-0353",
+  "hanzi": "奖",
+  "traditional": "獎",
+  "level": "4",
+  "pinyin": "jiǎng",
+  "readings": [
+   "jiǎng"
+  ],
+  "pos": [
+   "n",
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0354",
+  "hanzi": "奖金",
+  "traditional": "獎金",
+  "level": "4",
+  "pinyin": "jiǎng jīn",
+  "readings": [
+   "jiǎng jīn"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0355",
+  "hanzi": "奖学金",
+  "traditional": "獎學金",
+  "level": "4",
+  "pinyin": "jiǎng xué jīn",
+  "readings": [
+   "jiǎng xué jīn"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0356",
+  "hanzi": "降",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "jiàng",
+  "readings": [
+   "jiàng",
+   "xiáng"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0357",
+  "hanzi": "降低",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "jiàng dī",
+  "readings": [
+   "jiàng dī"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0358",
+  "hanzi": "降价",
+  "traditional": "降價",
+  "level": "4",
+  "pinyin": "jiàng jià",
+  "readings": [
+   "jiàng jià"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0359",
+  "hanzi": "降落",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "jiàng luò",
+  "readings": [
+   "jiàng luò"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0360",
+  "hanzi": "降温",
+  "traditional": "降溫",
+  "level": "4",
+  "pinyin": "jiàng wēn",
+  "readings": [
+   "jiàng wēn"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0361",
+  "hanzi": "交",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "jiāo",
+  "readings": [
+   "jiāo"
+  ],
+  "pos": [
+   "v",
+   "g"
+  ]
+ },
+ {
+  "id": "hsk4-0362",
+  "hanzi": "交警",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "jiāo jǐng",
+  "readings": [
+   "jiāo jǐng"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0363",
+  "hanzi": "交流",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "jiāo liú",
+  "readings": [
+   "jiāo liú"
+  ],
+  "pos": [
+   "vn",
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0364",
+  "hanzi": "交通",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "jiāo tōng",
+  "readings": [
+   "jiāo tōng"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0365",
+  "hanzi": "郊区",
+  "traditional": "郊區",
+  "level": "4",
+  "pinyin": "jiāo qū",
+  "readings": [
+   "jiāo qū"
+  ],
+  "pos": [
+   "s"
+  ]
+ },
+ {
+  "id": "hsk4-0366",
+  "hanzi": "骄傲",
+  "traditional": "驕傲",
+  "level": "4",
+  "pinyin": "jiāo ào",
+  "readings": [
+   "jiāo ào"
+  ],
+  "pos": [
+   "an",
+   "a"
+  ]
+ },
+ {
+  "id": "hsk4-0367",
+  "hanzi": "叫作",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "jiào zuò",
+  "readings": [
+   "jiào zuò"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0368",
+  "hanzi": "教练",
+  "traditional": "教練",
+  "level": "4",
+  "pinyin": "jiào liàn",
+  "readings": [
+   "jiào liàn"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0369",
+  "hanzi": "教师",
+  "traditional": "教師",
+  "level": "4",
+  "pinyin": "jiào shī",
+  "readings": [
+   "jiào shī"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0370",
+  "hanzi": "教授",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "jiào shòu",
+  "readings": [
+   "jiào shòu"
+  ],
+  "pos": [
+   "n",
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0371",
+  "hanzi": "教学",
+  "traditional": "教學",
+  "level": "4",
+  "pinyin": "jiāo xué",
+  "readings": [
+   "jiāo xué",
+   "jiào xué"
+  ],
+  "pos": [
+   "vn",
+   "n",
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0372",
+  "hanzi": "教育",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "jiào yù",
+  "readings": [
+   "jiào yù"
+  ],
+  "pos": [
+   "vn",
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0373",
+  "hanzi": "接受",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "jiē shòu",
+  "readings": [
+   "jiē shòu"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0374",
+  "hanzi": "接着",
+  "traditional": "接著",
+  "level": "4",
+  "pinyin": "jiē zhe",
+  "readings": [
+   "jiē zhe"
+  ],
+  "pos": [
+   "c",
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0375",
+  "hanzi": "街道",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "jiē dào",
+  "readings": [
+   "jiē dào"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0376",
+  "hanzi": "节假日",
+  "traditional": "節假日",
+  "level": "4",
+  "pinyin": "jié jià rì",
+  "readings": [
+   "jié jià rì"
+  ],
+  "pos": [
+   "t"
+  ]
+ },
+ {
+  "id": "hsk4-0377",
+  "hanzi": "节约",
+  "traditional": "節約",
+  "level": "4",
+  "pinyin": "jié yuē",
+  "readings": [
+   "jié yuē"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0378",
+  "hanzi": "结果",
+  "traditional": "結果",
+  "level": "4",
+  "pinyin": "jiē guǒ",
+  "readings": [
+   "jiē guǒ",
+   "jié guǒ"
+  ],
+  "pos": [
+   "n",
+   "d"
+  ]
+ },
+ {
+  "id": "hsk4-0379",
+  "hanzi": "结账",
+  "traditional": "結賬",
+  "level": "4",
+  "pinyin": "jié zhàng",
+  "readings": [
+   "jié zhàng"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0380",
+  "hanzi": "解释",
+  "traditional": "解釋",
+  "level": "4",
+  "pinyin": "jiě shì",
+  "readings": [
+   "jiě shì"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0381",
+  "hanzi": "今后",
+  "traditional": "今後",
+  "level": "4",
+  "pinyin": "jīn hòu",
+  "readings": [
+   "jīn hòu"
+  ],
+  "pos": [
+   "t"
+  ]
+ },
+ {
+  "id": "hsk4-0382",
+  "hanzi": "仅",
+  "traditional": "僅",
+  "level": "4",
+  "pinyin": "jǐn",
+  "readings": [
+   "jǐn"
+  ],
+  "pos": [
+   "d"
+  ]
+ },
+ {
+  "id": "hsk4-0383",
+  "hanzi": "仅仅",
+  "traditional": "僅僅",
+  "level": "4",
+  "pinyin": "jǐn jǐn",
+  "readings": [
+   "jǐn jǐn"
+  ],
+  "pos": [
+   "d"
+  ]
+ },
+ {
+  "id": "hsk4-0384",
+  "hanzi": "尽管",
+  "traditional": "儘管",
+  "level": "4",
+  "pinyin": "jǐn guǎn",
+  "readings": [
+   "jǐn guǎn"
+  ],
+  "pos": [
+   "c",
+   "d"
+  ]
+ },
+ {
+  "id": "hsk4-0385",
+  "hanzi": "紧张",
+  "traditional": "緊張",
+  "level": "4",
+  "pinyin": "jǐn zhāng",
+  "readings": [
+   "jǐn zhāng"
+  ],
+  "pos": [
+   "a",
+   "ad",
+   "an"
+  ]
+ },
+ {
+  "id": "hsk4-0386",
+  "hanzi": "进入",
+  "traditional": "進入",
+  "level": "4",
+  "pinyin": "jìn rù",
+  "readings": [
+   "jìn rù"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0387",
+  "hanzi": "进行",
+  "traditional": "進行",
+  "level": "4",
+  "pinyin": "jìn xíng",
+  "readings": [
+   "jìn xíng"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0388",
+  "hanzi": "禁止",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "jìn zhǐ",
+  "readings": [
+   "jìn zhǐ"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0389",
+  "hanzi": "京剧",
+  "traditional": "京劇",
+  "level": "4",
+  "pinyin": "Jīng jù",
+  "readings": [
+   "Jīng jù"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0390",
+  "hanzi": "经济",
+  "traditional": "經濟",
+  "level": "4",
+  "pinyin": "jīng jì",
+  "readings": [
+   "jīng jì"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0391",
+  "hanzi": "经历",
+  "traditional": "經歷",
+  "level": "4",
+  "pinyin": "jīng lì",
+  "readings": [
+   "jīng lì"
+  ],
+  "pos": [
+   "v",
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0392",
+  "hanzi": "经验",
+  "traditional": "經驗",
+  "level": "4",
+  "pinyin": "jīng yàn",
+  "readings": [
+   "jīng yàn"
+  ],
+  "pos": [
+   "n",
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0393",
+  "hanzi": "精彩",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "jīng cǎi",
+  "readings": [
+   "jīng cǎi"
+  ],
+  "pos": [
+   "a"
+  ]
+ },
+ {
+  "id": "hsk4-0394",
+  "hanzi": "景点",
+  "traditional": "景點",
+  "level": "4",
+  "pinyin": "jǐng diǎn",
+  "readings": [
+   "jǐng diǎn"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0395",
+  "hanzi": "景区",
+  "traditional": "景區",
+  "level": "4",
+  "pinyin": "jǐng qū",
+  "readings": [
+   "jǐng qū"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0396",
+  "hanzi": "景色",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "jǐng sè",
+  "readings": [
+   "jǐng sè"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0397",
+  "hanzi": "警察",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "jǐng chá",
+  "readings": [
+   "jǐng chá"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0398",
+  "hanzi": "竞争",
+  "traditional": "競爭",
+  "level": "4",
+  "pinyin": "jìng zhēng",
+  "readings": [
+   "jìng zhēng"
+  ],
+  "pos": [
+   "vn",
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0399",
+  "hanzi": "竟然",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "jìng rán",
+  "readings": [
+   "jìng rán"
+  ],
+  "pos": [
+   "d"
+  ]
+ },
+ {
+  "id": "hsk4-0400",
+  "hanzi": "镜子",
+  "traditional": "鏡子",
+  "level": "4",
+  "pinyin": "jìng zi",
+  "readings": [
+   "jìng zi"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0401",
+  "hanzi": "究竟",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "jiū jìng",
+  "readings": [
+   "jiū jìng"
+  ],
+  "pos": [
+   "d",
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0402",
+  "hanzi": "就是",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "jiù shì",
+  "readings": [
+   "jiù shì"
+  ],
+  "pos": [
+   "v",
+   "d"
+  ]
+ },
+ {
+  "id": "hsk4-0403",
+  "hanzi": "举",
+  "traditional": "擧",
+  "level": "4",
+  "pinyin": "jǔ",
+  "readings": [
+   "jǔ"
+  ],
+  "pos": [
+   "v",
+   "g"
+  ]
+ },
+ {
+  "id": "hsk4-0404",
+  "hanzi": "举办",
+  "traditional": "舉辦",
+  "level": "4",
+  "pinyin": "jǔ bàn",
+  "readings": [
+   "jǔ bàn"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0405",
+  "hanzi": "举例",
+  "traditional": "舉例",
+  "level": "4",
+  "pinyin": "jǔ lì",
+  "readings": [
+   "jǔ lì"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0406",
+  "hanzi": "举行",
+  "traditional": "舉行",
+  "level": "4",
+  "pinyin": "jǔ xíng",
+  "readings": [
+   "jǔ xíng"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0407",
+  "hanzi": "拒绝",
+  "traditional": "拒絕",
+  "level": "4",
+  "pinyin": "jù jué",
+  "readings": [
+   "jù jué"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0408",
+  "hanzi": "剧院",
+  "traditional": "劇院",
+  "level": "4",
+  "pinyin": "jù yuàn",
+  "readings": [
+   "jù yuàn"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0409",
+  "hanzi": "距离",
+  "traditional": "距離",
+  "level": "4",
+  "pinyin": "jù lí",
+  "readings": [
+   "jù lí"
+  ],
+  "pos": [
+   "n",
+   "p"
+  ]
+ },
+ {
+  "id": "hsk4-0410",
+  "hanzi": "聚",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "jù",
+  "readings": [
+   "jù"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0411",
+  "hanzi": "聚会",
+  "traditional": "聚會",
+  "level": "4",
+  "pinyin": "jù huì",
+  "readings": [
+   "jù huì"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0412",
+  "hanzi": "开玩笑",
+  "traditional": "開玩笑",
+  "level": "4",
+  "pinyin": "kāi wán xiào",
+  "readings": [
+   "kāi wán xiào"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0413",
+  "hanzi": "看法",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "kàn fǎ",
+  "readings": [
+   "kàn fǎ"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0414",
+  "hanzi": "考虑",
+  "traditional": "考慮",
+  "level": "4",
+  "pinyin": "kǎo lǜ",
+  "readings": [
+   "kǎo lǜ"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0415",
+  "hanzi": "考生",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "kǎo shēng",
+  "readings": [
+   "kǎo shēng"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0416",
+  "hanzi": "烤",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "kǎo",
+  "readings": [
+   "kǎo"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0417",
+  "hanzi": "科技",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "kē jì",
+  "readings": [
+   "kē jì"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0418",
+  "hanzi": "科学",
+  "traditional": "科學",
+  "level": "4",
+  "pinyin": "kē xué",
+  "readings": [
+   "kē xué"
+  ],
+  "pos": [
+   "n",
+   "a",
+   "ad"
+  ]
+ },
+ {
+  "id": "hsk4-0419",
+  "hanzi": "棵",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "kē",
+  "readings": [
+   "kē"
+  ],
+  "pos": [
+   "q"
+  ]
+ },
+ {
+  "id": "hsk4-0420",
+  "hanzi": "可惜",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "kě xī",
+  "readings": [
+   "kě xī"
+  ],
+  "pos": [
+   "v",
+   "a"
+  ]
+ },
+ {
+  "id": "hsk4-0421",
+  "hanzi": "克",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "Kè",
+  "readings": [
+   "Kè",
+   "kè"
+  ],
+  "pos": [
+   "g",
+   "q",
+   "b",
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0422",
+  "hanzi": "客气",
+  "traditional": "客氣",
+  "level": "4",
+  "pinyin": "kè qi",
+  "readings": [
+   "kè qi"
+  ],
+  "pos": [
+   "a",
+   "ad"
+  ]
+ },
+ {
+  "id": "hsk4-0423",
+  "hanzi": "客厅",
+  "traditional": "客廳",
+  "level": "4",
+  "pinyin": "kè tīng",
+  "readings": [
+   "kè tīng"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0424",
+  "hanzi": "课程",
+  "traditional": "課程",
+  "level": "4",
+  "pinyin": "kè chéng",
+  "readings": [
+   "kè chéng"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0425",
+  "hanzi": "课堂",
+  "traditional": "課堂",
+  "level": "4",
+  "pinyin": "kè táng",
+  "readings": [
+   "kè táng"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0426",
+  "hanzi": "肯定",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "kěn dìng",
+  "readings": [
+   "kěn dìng"
+  ],
+  "pos": [
+   "d",
+   "v",
+   "vn",
+   "a"
+  ]
+ },
+ {
+  "id": "hsk4-0427",
+  "hanzi": "空",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "kōng",
+  "readings": [
+   "kōng",
+   "kòng"
+  ],
+  "pos": [
+   "a",
+   "v",
+   "g",
+   "d"
+  ]
+ },
+ {
+  "id": "hsk4-0428",
+  "hanzi": "空气",
+  "traditional": "空氣",
+  "level": "4",
+  "pinyin": "kōng qì",
+  "readings": [
+   "kōng qì"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0429",
+  "hanzi": "恐怕",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "kǒng pà",
+  "readings": [
+   "kǒng pà"
+  ],
+  "pos": [
+   "d"
+  ]
+ },
+ {
+  "id": "hsk4-0430",
+  "hanzi": "口语",
+  "traditional": "口語",
+  "level": "4",
+  "pinyin": "kǒu yǔ",
+  "readings": [
+   "kǒu yǔ"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0431",
+  "hanzi": "苦",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "kǔ",
+  "readings": [
+   "kǔ"
+  ],
+  "pos": [
+   "a",
+   "an",
+   "ad",
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0432",
+  "hanzi": "快餐",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "kuài cān",
+  "readings": [
+   "kuài cān"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0433",
+  "hanzi": "快递",
+  "traditional": "快遞",
+  "level": "4",
+  "pinyin": "kuài dì",
+  "readings": [
+   "kuài dì"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0434",
+  "hanzi": "快速",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "kuài sù",
+  "readings": [
+   "kuài sù"
+  ],
+  "pos": [
+   "d",
+   "b"
+  ]
+ },
+ {
+  "id": "hsk4-0435",
+  "hanzi": "困",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "kùn",
+  "readings": [
+   "kùn"
+  ],
+  "pos": [
+   "v",
+   "an",
+   "a",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0436",
+  "hanzi": "困难",
+  "traditional": "困難",
+  "level": "4",
+  "pinyin": "kùn nan",
+  "readings": [
+   "kùn nan"
+  ],
+  "pos": [
+   "a",
+   "an"
+  ]
+ },
+ {
+  "id": "hsk4-0437",
+  "hanzi": "垃圾",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "lā jī",
+  "readings": [
+   "lā jī"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0438",
+  "hanzi": "拉",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "lā",
+  "readings": [
+   "lā"
+  ],
+  "pos": [
+   "v",
+   "b"
+  ]
+ },
+ {
+  "id": "hsk4-0439",
+  "hanzi": "辣",
+  "traditional": "辢",
+  "level": "4",
+  "pinyin": "là",
+  "readings": [
+   "là"
+  ],
+  "pos": [
+   "a",
+   "an",
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0440",
+  "hanzi": "来不及",
+  "traditional": "來不及",
+  "level": "4",
+  "pinyin": "lái bu jí",
+  "readings": [
+   "lái bu jí"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0441",
+  "hanzi": "来得及",
+  "traditional": "來得及",
+  "level": "4",
+  "pinyin": "lái de jí",
+  "readings": [
+   "lái de jí"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0442",
+  "hanzi": "懒",
+  "traditional": "嬾",
+  "level": "4",
+  "pinyin": "lǎn",
+  "readings": [
+   "lǎn"
+  ],
+  "pos": [
+   "a"
+  ]
+ },
+ {
+  "id": "hsk4-0443",
+  "hanzi": "浪费",
+  "traditional": "浪費",
+  "level": "4",
+  "pinyin": "làng fèi",
+  "readings": [
+   "làng fèi"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0444",
+  "hanzi": "浪漫",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "làng màn",
+  "readings": [
+   "làng màn"
+  ],
+  "pos": [
+   "a",
+   "an"
+  ]
+ },
+ {
+  "id": "hsk4-0445",
+  "hanzi": "老虎",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "lǎo hǔ",
+  "readings": [
+   "lǎo hǔ"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0446",
+  "hanzi": "老家",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "lǎo jiā",
+  "readings": [
+   "lǎo jiā"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0447",
+  "hanzi": "老年",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "lǎo nián",
+  "readings": [
+   "lǎo nián"
+  ],
+  "pos": [
+   "t",
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0448",
+  "hanzi": "老是",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "lǎo shi",
+  "readings": [
+   "lǎo shi"
+  ],
+  "pos": [
+   "d"
+  ]
+ },
+ {
+  "id": "hsk4-0449",
+  "hanzi": "冷静",
+  "traditional": "冷靜",
+  "level": "4",
+  "pinyin": "lěng jìng",
+  "readings": [
+   "lěng jìng"
+  ],
+  "pos": [
+   "a",
+   "ad",
+   "an"
+  ]
+ },
+ {
+  "id": "hsk4-0450",
+  "hanzi": "礼貌",
+  "traditional": "禮貌",
+  "level": "4",
+  "pinyin": "lǐ mào",
+  "readings": [
+   "lǐ mào"
+  ],
+  "pos": [
+   "an",
+   "a",
+   "ad"
+  ]
+ },
+ {
+  "id": "hsk4-0451",
+  "hanzi": "理发",
+  "traditional": "理髮",
+  "level": "4",
+  "pinyin": "lǐ fà",
+  "readings": [
+   "lǐ fà"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0452",
+  "hanzi": "理解",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "lǐ jiě",
+  "readings": [
+   "lǐ jiě"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0453",
+  "hanzi": "理想",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "lǐ xiǎng",
+  "readings": [
+   "lǐ xiǎng"
+  ],
+  "pos": [
+   "n",
+   "a"
+  ]
+ },
+ {
+  "id": "hsk4-0454",
+  "hanzi": "力气",
+  "traditional": "力氣",
+  "level": "4",
+  "pinyin": "lì qi",
+  "readings": [
+   "lì qi"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0455",
+  "hanzi": "厉害",
+  "traditional": "厲害",
+  "level": "4",
+  "pinyin": "lì hai",
+  "readings": [
+   "lì hai"
+  ],
+  "pos": [
+   "a",
+   "an"
+  ]
+ },
+ {
+  "id": "hsk4-0456",
+  "hanzi": "例如",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "lì rú",
+  "readings": [
+   "lì rú"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0457",
+  "hanzi": "例子",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "lì zi",
+  "readings": [
+   "lì zi"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0458",
+  "hanzi": "俩",
+  "traditional": "倆",
+  "level": "4",
+  "pinyin": "liǎ",
+  "readings": [
+   "liǎ",
+   "liǎng"
+  ],
+  "pos": [
+   "m"
+  ]
+ },
+ {
+  "id": "hsk4-0459",
+  "hanzi": "连",
+  "traditional": "連",
+  "level": "4",
+  "pinyin": "Lián",
+  "readings": [
+   "Lián",
+   "lián"
+  ],
+  "pos": [
+   "u",
+   "d",
+   "v",
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0460",
+  "hanzi": "联系",
+  "traditional": "聯係",
+  "level": "4",
+  "pinyin": "lián xì",
+  "readings": [
+   "lián xì"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0461",
+  "hanzi": "凉",
+  "traditional": "涼",
+  "level": "4",
+  "pinyin": "Liáng",
+  "readings": [
+   "Liáng",
+   "liáng",
+   "liàng"
+  ],
+  "pos": [
+   "a",
+   "v",
+   "ad",
+   "b",
+   "g"
+  ]
+ },
+ {
+  "id": "hsk4-0462",
+  "hanzi": "亮",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "liàng",
+  "readings": [
+   "liàng"
+  ],
+  "pos": [
+   "v",
+   "a"
+  ]
+ },
+ {
+  "id": "hsk4-0463",
+  "hanzi": "量",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "liáng",
+  "readings": [
+   "liáng",
+   "liàng"
+  ],
+  "pos": [
+   "n",
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0464",
+  "hanzi": "列",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "liè",
+  "readings": [
+   "liè"
+  ],
+  "pos": [
+   "v",
+   "q",
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0465",
+  "hanzi": "零花钱",
+  "traditional": "零花錢",
+  "level": "4",
+  "pinyin": "líng huā qián",
+  "readings": [
+   "líng huā qián"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0466",
+  "hanzi": "零钱",
+  "traditional": "零錢",
+  "level": "4",
+  "pinyin": "líng qián",
+  "readings": [
+   "líng qián"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0467",
+  "hanzi": "零食",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "líng shí",
+  "readings": [
+   "líng shí"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0468",
+  "hanzi": "零下",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "líng xià",
+  "readings": [
+   "líng xià"
+  ],
+  "pos": [
+   "s"
+  ]
+ },
+ {
+  "id": "hsk4-0469",
+  "hanzi": "另",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "lìng",
+  "readings": [
+   "lìng"
+  ],
+  "pos": [
+   "r",
+   "d"
+  ]
+ },
+ {
+  "id": "hsk4-0470",
+  "hanzi": "另外",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "lìng wài",
+  "readings": [
+   "lìng wài"
+  ],
+  "pos": [
+   "r",
+   "c",
+   "d"
+  ]
+ },
+ {
+  "id": "hsk4-0471",
+  "hanzi": "流",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "liú",
+  "readings": [
+   "liú"
+  ],
+  "pos": [
+   "v",
+   "g"
+  ]
+ },
+ {
+  "id": "hsk4-0472",
+  "hanzi": "流利",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "liú lì",
+  "readings": [
+   "liú lì"
+  ],
+  "pos": [
+   "a",
+   "ad"
+  ]
+ },
+ {
+  "id": "hsk4-0473",
+  "hanzi": "流行",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "liú xíng",
+  "readings": [
+   "liú xíng"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0474",
+  "hanzi": "留",
+  "traditional": "㽞",
+  "level": "4",
+  "pinyin": "liú",
+  "readings": [
+   "liú"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0475",
+  "hanzi": "留下",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "liú xià",
+  "readings": [
+   "liú xià"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0476",
+  "hanzi": "路过",
+  "traditional": "路過",
+  "level": "4",
+  "pinyin": "lù guò",
+  "readings": [
+   "lù guò"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0477",
+  "hanzi": "旅馆",
+  "traditional": "旅館",
+  "level": "4",
+  "pinyin": "lǚ guǎn",
+  "readings": [
+   "lǚ guǎn"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0478",
+  "hanzi": "旅客",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "lǚ kè",
+  "readings": [
+   "lǚ kè"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0479",
+  "hanzi": "旅行",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "lǚ xíng",
+  "readings": [
+   "lǚ xíng"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0480",
+  "hanzi": "律师",
+  "traditional": "律師",
+  "level": "4",
+  "pinyin": "lǜ shī",
+  "readings": [
+   "lǜ shī"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0481",
+  "hanzi": "乱",
+  "traditional": "亂",
+  "level": "4",
+  "pinyin": "luàn",
+  "readings": [
+   "luàn"
+  ],
+  "pos": [
+   "d",
+   "a",
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0482",
+  "hanzi": "落",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "là",
+  "readings": [
+   "là",
+   "lào",
+   "luò"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0483",
+  "hanzi": "麻烦",
+  "traditional": "麻煩",
+  "level": "4",
+  "pinyin": "má fan",
+  "readings": [
+   "má fan"
+  ],
+  "pos": [
+   "an",
+   "a",
+   "v",
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0484",
+  "hanzi": "馒头",
+  "traditional": "饅頭",
+  "level": "4",
+  "pinyin": "mán tou",
+  "readings": [
+   "mán tou"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0485",
+  "hanzi": "满",
+  "traditional": "滿",
+  "level": "4",
+  "pinyin": "Mǎn",
+  "readings": [
+   "Mǎn",
+   "mǎn"
+  ],
+  "pos": [
+   "a",
+   "v",
+   "d",
+   "b"
+  ]
+ },
+ {
+  "id": "hsk4-0486",
+  "hanzi": "毛巾",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "máo jīn",
+  "readings": [
+   "máo jīn"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0487",
+  "hanzi": "毛衣",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "máo yī",
+  "readings": [
+   "máo yī"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0488",
+  "hanzi": "帽子",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "mào zi",
+  "readings": [
+   "mào zi"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0489",
+  "hanzi": "美",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "Měi",
+  "readings": [
+   "Měi",
+   "měi"
+  ],
+  "pos": [
+   "b",
+   "a",
+   "g",
+   "an"
+  ]
+ },
+ {
+  "id": "hsk4-0490",
+  "hanzi": "美好",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "měi hǎo",
+  "readings": [
+   "měi hǎo"
+  ],
+  "pos": [
+   "a"
+  ]
+ },
+ {
+  "id": "hsk4-0491",
+  "hanzi": "美景",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "měi jǐng",
+  "readings": [
+   "měi jǐng"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0492",
+  "hanzi": "美丽",
+  "traditional": "美麗",
+  "level": "4",
+  "pinyin": "měi lì",
+  "readings": [
+   "měi lì"
+  ],
+  "pos": [
+   "a",
+   "an"
+  ]
+ },
+ {
+  "id": "hsk4-0493",
+  "hanzi": "美食",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "měi shí",
+  "readings": [
+   "měi shí"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0494",
+  "hanzi": "梦",
+  "traditional": "夢",
+  "level": "4",
+  "pinyin": "mèng",
+  "readings": [
+   "mèng"
+  ],
+  "pos": [
+   "n",
+   "g"
+  ]
+ },
+ {
+  "id": "hsk4-0495",
+  "hanzi": "梦想",
+  "traditional": "夢想",
+  "level": "4",
+  "pinyin": "mèng xiǎng",
+  "readings": [
+   "mèng xiǎng"
+  ],
+  "pos": [
+   "n",
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0496",
+  "hanzi": "密码",
+  "traditional": "密碼",
+  "level": "4",
+  "pinyin": "mì mǎ",
+  "readings": [
+   "mì mǎ"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0497",
+  "hanzi": "免费",
+  "traditional": "免費",
+  "level": "4",
+  "pinyin": "miǎn fèi",
+  "readings": [
+   "miǎn fèi"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0498",
+  "hanzi": "面对",
+  "traditional": "面對",
+  "level": "4",
+  "pinyin": "miàn duì",
+  "readings": [
+   "miàn duì"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0499",
+  "hanzi": "面试",
+  "traditional": "面試",
+  "level": "4",
+  "pinyin": "miàn shì",
+  "readings": [
+   "miàn shì"
+  ],
+  "pos": [
+   "v",
+   "vn",
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0500",
+  "hanzi": "秒",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "miǎo",
+  "readings": [
+   "miǎo"
+  ],
+  "pos": [
+   "t",
+   "qt"
+  ]
+ },
+ {
+  "id": "hsk4-0501",
+  "hanzi": "民族",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "mín zú",
+  "readings": [
+   "mín zú"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0502",
+  "hanzi": "末",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "mò",
+  "readings": [
+   "mò"
+  ],
+  "pos": [
+   "f",
+   "g"
+  ]
+ },
+ {
+  "id": "hsk4-0503",
+  "hanzi": "母女",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "mǔ nǚ",
+  "readings": [
+   "mǔ nǚ"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0504",
+  "hanzi": "母亲",
+  "traditional": "母親",
+  "level": "4",
+  "pinyin": "mǔ qīn",
+  "readings": [
+   "mǔ qīn"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0505",
+  "hanzi": "母子",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "mǔ zǐ",
+  "readings": [
+   "mǔ zǐ"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0506",
+  "hanzi": "目标",
+  "traditional": "目標",
+  "level": "4",
+  "pinyin": "mù biāo",
+  "readings": [
+   "mù biāo"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0507",
+  "hanzi": "目的",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "mù dì",
+  "readings": [
+   "mù dì"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0508",
+  "hanzi": "目的地",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "mù dì dì",
+  "readings": [
+   "mù dì dì"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0509",
+  "hanzi": "目前",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "mù qián",
+  "readings": [
+   "mù qián"
+  ],
+  "pos": [
+   "t"
+  ]
+ },
+ {
+  "id": "hsk4-0510",
+  "hanzi": "嗯",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "ēn",
+  "readings": [
+   "ēn",
+   "èn",
+   "en"
+  ],
+  "pos": [
+   "e"
+  ]
+ },
+ {
+  "id": "hsk4-0511",
+  "hanzi": "耐心",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "nài xīn",
+  "readings": [
+   "nài xīn"
+  ],
+  "pos": [
+   "a",
+   "ad",
+   "an"
+  ]
+ },
+ {
+  "id": "hsk4-0512",
+  "hanzi": "男士",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "nán shì",
+  "readings": [
+   "nán shì"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0513",
+  "hanzi": "男性",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "nán xìng",
+  "readings": [
+   "nán xìng"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0514",
+  "hanzi": "南部",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "nán bù",
+  "readings": [
+   "nán bù"
+  ],
+  "pos": [
+   "f"
+  ]
+ },
+ {
+  "id": "hsk4-0515",
+  "hanzi": "难道",
+  "traditional": "難道",
+  "level": "4",
+  "pinyin": "nán dào",
+  "readings": [
+   "nán dào"
+  ],
+  "pos": [
+   "d"
+  ]
+ },
+ {
+  "id": "hsk4-0516",
+  "hanzi": "难受",
+  "traditional": "難受",
+  "level": "4",
+  "pinyin": "nán shòu",
+  "readings": [
+   "nán shòu"
+  ],
+  "pos": [
+   "a"
+  ]
+ },
+ {
+  "id": "hsk4-0517",
+  "hanzi": "难忘",
+  "traditional": "難忘",
+  "level": "4",
+  "pinyin": "nán wàng",
+  "readings": [
+   "nán wàng"
+  ],
+  "pos": [
+   "a",
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0518",
+  "hanzi": "内",
+  "traditional": "內",
+  "level": "4",
+  "pinyin": "nèi",
+  "readings": [
+   "nèi"
+  ],
+  "pos": [
+   "f"
+  ]
+ },
+ {
+  "id": "hsk4-0519",
+  "hanzi": "内容",
+  "traditional": "內容",
+  "level": "4",
+  "pinyin": "nèi róng",
+  "readings": [
+   "nèi róng"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0520",
+  "hanzi": "内心",
+  "traditional": "內心",
+  "level": "4",
+  "pinyin": "nèi xīn",
+  "readings": [
+   "nèi xīn"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0521",
+  "hanzi": "能否",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "néng fǒu",
+  "readings": [
+   "néng fǒu"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0522",
+  "hanzi": "能够",
+  "traditional": "能夠",
+  "level": "4",
+  "pinyin": "néng gòu",
+  "readings": [
+   "néng gòu"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0523",
+  "hanzi": "能力",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "néng lì",
+  "readings": [
+   "néng lì"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0524",
+  "hanzi": "年底",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "nián dǐ",
+  "readings": [
+   "nián dǐ"
+  ],
+  "pos": [
+   "t"
+  ]
+ },
+ {
+  "id": "hsk4-0525",
+  "hanzi": "年龄",
+  "traditional": "年齡",
+  "level": "4",
+  "pinyin": "nián líng",
+  "readings": [
+   "nián líng"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0526",
+  "hanzi": "农村",
+  "traditional": "農村",
+  "level": "4",
+  "pinyin": "nóng cūn",
+  "readings": [
+   "nóng cūn"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0527",
+  "hanzi": "弄",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "lòng",
+  "readings": [
+   "lòng",
+   "nòng"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0528",
+  "hanzi": "女性",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "nǚ xìng",
+  "readings": [
+   "nǚ xìng"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0529",
+  "hanzi": "暖和",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "nuǎn huo",
+  "readings": [
+   "nuǎn huo"
+  ],
+  "pos": [
+   "a",
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0530",
+  "hanzi": "偶尔",
+  "traditional": "偶爾",
+  "level": "4",
+  "pinyin": "ǒu ěr",
+  "readings": [
+   "ǒu ěr"
+  ],
+  "pos": [
+   "d",
+   "b"
+  ]
+ },
+ {
+  "id": "hsk4-0531",
+  "hanzi": "拍",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "pāi",
+  "readings": [
+   "pāi"
+  ],
+  "pos": [
+   "v",
+   "q",
+   "g"
+  ]
+ },
+ {
+  "id": "hsk4-0532",
+  "hanzi": "排",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "pái",
+  "readings": [
+   "pái"
+  ],
+  "pos": [
+   "v",
+   "q",
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0533",
+  "hanzi": "排队",
+  "traditional": "排隊",
+  "level": "4",
+  "pinyin": "pái duì",
+  "readings": [
+   "pái duì"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0534",
+  "hanzi": "排球",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "pái qiú",
+  "readings": [
+   "pái qiú"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0535",
+  "hanzi": "牌",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "pái",
+  "readings": [
+   "pái"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0536",
+  "hanzi": "牌子",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "pái zi",
+  "readings": [
+   "pái zi"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0537",
+  "hanzi": "判断",
+  "traditional": "判斷",
+  "level": "4",
+  "pinyin": "pàn duàn",
+  "readings": [
+   "pàn duàn"
+  ],
+  "pos": [
+   "v",
+   "vn",
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0538",
+  "hanzi": "陪",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "péi",
+  "readings": [
+   "péi"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0539",
+  "hanzi": "批评",
+  "traditional": "批評",
+  "level": "4",
+  "pinyin": "pī píng",
+  "readings": [
+   "pī píng"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0540",
+  "hanzi": "皮肤",
+  "traditional": "皮膚",
+  "level": "4",
+  "pinyin": "pí fū",
+  "readings": [
+   "pí fū"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0541",
+  "hanzi": "皮鞋",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "pí xié",
+  "readings": [
+   "pí xié"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0542",
+  "hanzi": "脾气",
+  "traditional": "脾氣",
+  "level": "4",
+  "pinyin": "pí qi",
+  "readings": [
+   "pí qi"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0543",
+  "hanzi": "篇",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "piān",
+  "readings": [
+   "piān"
+  ],
+  "pos": [
+   "q",
+   "g"
+  ]
+ },
+ {
+  "id": "hsk4-0544",
+  "hanzi": "片",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "piān",
+  "readings": [
+   "piān",
+   "piàn"
+  ],
+  "pos": [
+   "q",
+   "g"
+  ]
+ },
+ {
+  "id": "hsk4-0545",
+  "hanzi": "乒乓球",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "pīng pāng qiú",
+  "readings": [
+   "pīng pāng qiú"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0546",
+  "hanzi": "平常",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "píng cháng",
+  "readings": [
+   "píng cháng"
+  ],
+  "pos": [
+   "a",
+   "d",
+   "t",
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0547",
+  "hanzi": "破",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "pò",
+  "readings": [
+   "pò"
+  ],
+  "pos": [
+   "v",
+   "a"
+  ]
+ },
+ {
+  "id": "hsk4-0548",
+  "hanzi": "葡萄",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "pú tao",
+  "readings": [
+   "pú tao"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0549",
+  "hanzi": "葡萄酒",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "pú tao jiǔ",
+  "readings": [
+   "pú tao jiǔ"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0550",
+  "hanzi": "普遍",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "pǔ biàn",
+  "readings": [
+   "pǔ biàn"
+  ],
+  "pos": [
+   "a",
+   "ad"
+  ]
+ },
+ {
+  "id": "hsk4-0551",
+  "hanzi": "普通",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "pǔ tōng",
+  "readings": [
+   "pǔ tōng"
+  ],
+  "pos": [
+   "a"
+  ]
+ },
+ {
+  "id": "hsk4-0552",
+  "hanzi": "普通话",
+  "traditional": "普通話",
+  "level": "4",
+  "pinyin": "pǔ tōng huà",
+  "readings": [
+   "pǔ tōng huà"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0553",
+  "hanzi": "期",
+  "traditional": "朞",
+  "level": "4",
+  "pinyin": "qī",
+  "readings": [
+   "qī"
+  ],
+  "pos": [
+   "qv",
+   "g"
+  ]
+ },
+ {
+  "id": "hsk4-0554",
+  "hanzi": "期末",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "qī mò",
+  "readings": [
+   "qī mò"
+  ],
+  "pos": [
+   "t"
+  ]
+ },
+ {
+  "id": "hsk4-0555",
+  "hanzi": "期中",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "qī zhōng",
+  "readings": [
+   "qī zhōng"
+  ],
+  "pos": [
+   "t"
+  ]
+ },
+ {
+  "id": "hsk4-0556",
+  "hanzi": "其次",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "qí cì",
+  "readings": [
+   "qí cì"
+  ],
+  "pos": [
+   "c",
+   "r"
+  ]
+ },
+ {
+  "id": "hsk4-0557",
+  "hanzi": "其中",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "qí zhōng",
+  "readings": [
+   "qí zhōng"
+  ],
+  "pos": [
+   "r"
+  ]
+ },
+ {
+  "id": "hsk4-0558",
+  "hanzi": "起到",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "qǐ dào",
+  "readings": [
+   "qǐ dào"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0559",
+  "hanzi": "气",
+  "traditional": "氣",
+  "level": "4",
+  "pinyin": "qì",
+  "readings": [
+   "qì"
+  ],
+  "pos": [
+   "n",
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0560",
+  "hanzi": "气候",
+  "traditional": "氣候",
+  "level": "4",
+  "pinyin": "qì hòu",
+  "readings": [
+   "qì hòu"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0561",
+  "hanzi": "气温",
+  "traditional": "氣溫",
+  "level": "4",
+  "pinyin": "qì wēn",
+  "readings": [
+   "qì wēn"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0562",
+  "hanzi": "汽水",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "qì shuǐ",
+  "readings": [
+   "qì shuǐ"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0563",
+  "hanzi": "千克",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "qiān kè",
+  "readings": [
+   "qiān kè"
+  ],
+  "pos": [
+   "q"
+  ]
+ },
+ {
+  "id": "hsk4-0564",
+  "hanzi": "千万",
+  "traditional": "千萬",
+  "level": "4",
+  "pinyin": "qiān wàn",
+  "readings": [
+   "qiān wàn"
+  ],
+  "pos": [
+   "m",
+   "t"
+  ]
+ },
+ {
+  "id": "hsk4-0565",
+  "hanzi": "签证",
+  "traditional": "簽證",
+  "level": "4",
+  "pinyin": "qiān zhèng",
+  "readings": [
+   "qiān zhèng"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0566",
+  "hanzi": "前方",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "qián fāng",
+  "readings": [
+   "qián fāng"
+  ],
+  "pos": [
+   "s",
+   "f",
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0567",
+  "hanzi": "前后",
+  "traditional": "前後",
+  "level": "4",
+  "pinyin": "qián hòu",
+  "readings": [
+   "qián hòu"
+  ],
+  "pos": [
+   "f"
+  ]
+ },
+ {
+  "id": "hsk4-0568",
+  "hanzi": "强",
+  "traditional": "強",
+  "level": "4",
+  "pinyin": "Qiáng",
+  "readings": [
+   "Qiáng",
+   "jiàng",
+   "qiáng",
+   "qiǎng"
+  ],
+  "pos": [
+   "a",
+   "g",
+   "ad"
+  ]
+ },
+ {
+  "id": "hsk4-0569",
+  "hanzi": "敲",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "qiāo",
+  "readings": [
+   "qiāo"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0570",
+  "hanzi": "桥",
+  "traditional": "橋",
+  "level": "4",
+  "pinyin": "qiáo",
+  "readings": [
+   "qiáo"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0571",
+  "hanzi": "巧",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "qiǎo",
+  "readings": [
+   "qiǎo"
+  ],
+  "pos": [
+   "a",
+   "ad"
+  ]
+ },
+ {
+  "id": "hsk4-0572",
+  "hanzi": "巧克力",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "qiǎo kè lì",
+  "readings": [
+   "qiǎo kè lì"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0573",
+  "hanzi": "亲戚",
+  "traditional": "親戚",
+  "level": "4",
+  "pinyin": "qīn qi",
+  "readings": [
+   "qīn qi"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0574",
+  "hanzi": "琴",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "qín",
+  "readings": [
+   "qín"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0575",
+  "hanzi": "青年",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "qīng nián",
+  "readings": [
+   "qīng nián"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0576",
+  "hanzi": "轻",
+  "traditional": "輕",
+  "level": "4",
+  "pinyin": "qīng",
+  "readings": [
+   "qīng"
+  ],
+  "pos": [
+   "a",
+   "ad",
+   "v",
+   "g"
+  ]
+ },
+ {
+  "id": "hsk4-0577",
+  "hanzi": "轻松",
+  "traditional": "輕鬆",
+  "level": "4",
+  "pinyin": "qīng sōng",
+  "readings": [
+   "qīng sōng"
+  ],
+  "pos": [
+   "a",
+   "ad"
+  ]
+ },
+ {
+  "id": "hsk4-0578",
+  "hanzi": "情况",
+  "traditional": "情況",
+  "level": "4",
+  "pinyin": "qíng kuàng",
+  "readings": [
+   "qíng kuàng"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0579",
+  "hanzi": "庆祝",
+  "traditional": "慶祝",
+  "level": "4",
+  "pinyin": "qìng zhù",
+  "readings": [
+   "qìng zhù"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0580",
+  "hanzi": "球队",
+  "traditional": "球隊",
+  "level": "4",
+  "pinyin": "qiú duì",
+  "readings": [
+   "qiú duì"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0581",
+  "hanzi": "球迷",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "qiú mí",
+  "readings": [
+   "qiú mí"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0582",
+  "hanzi": "区",
+  "traditional": "區",
+  "level": "4",
+  "pinyin": "Oū",
+  "readings": [
+   "Oū",
+   "qū"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0583",
+  "hanzi": "区别",
+  "traditional": "區別",
+  "level": "4",
+  "pinyin": "qū bié",
+  "readings": [
+   "qū bié"
+  ],
+  "pos": [
+   "n",
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0584",
+  "hanzi": "取",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "qǔ",
+  "readings": [
+   "qǔ"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0585",
+  "hanzi": "取得",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "qǔ dé",
+  "readings": [
+   "qǔ dé"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0586",
+  "hanzi": "取消",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "qǔ xiāo",
+  "readings": [
+   "qǔ xiāo"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0587",
+  "hanzi": "全",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "Quán",
+  "readings": [
+   "Quán",
+   "quán"
+  ],
+  "pos": [
+   "d",
+   "a"
+  ]
+ },
+ {
+  "id": "hsk4-0588",
+  "hanzi": "全部",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "quán bù",
+  "readings": [
+   "quán bù"
+  ],
+  "pos": [
+   "m"
+  ]
+ },
+ {
+  "id": "hsk4-0589",
+  "hanzi": "全都",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "quán dōu",
+  "readings": [
+   "quán dōu"
+  ],
+  "pos": [
+   "d"
+  ]
+ },
+ {
+  "id": "hsk4-0590",
+  "hanzi": "全球",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "quán qiú",
+  "readings": [
+   "quán qiú"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0591",
+  "hanzi": "全身",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "quán shēn",
+  "readings": [
+   "quán shēn"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0592",
+  "hanzi": "缺",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "quē",
+  "readings": [
+   "quē"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0593",
+  "hanzi": "缺点",
+  "traditional": "缺點",
+  "level": "4",
+  "pinyin": "quē diǎn",
+  "readings": [
+   "quē diǎn"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0594",
+  "hanzi": "缺少",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "quē shǎo",
+  "readings": [
+   "quē shǎo"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0595",
+  "hanzi": "却",
+  "traditional": "㕁",
+  "level": "4",
+  "pinyin": "què",
+  "readings": [
+   "què"
+  ],
+  "pos": [
+   "d"
+  ]
+ },
+ {
+  "id": "hsk4-0596",
+  "hanzi": "确实",
+  "traditional": "確實",
+  "level": "4",
+  "pinyin": "què shí",
+  "readings": [
+   "què shí"
+  ],
+  "pos": [
+   "ad",
+   "a",
+   "d"
+  ]
+ },
+ {
+  "id": "hsk4-0597",
+  "hanzi": "然而",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "rán ér",
+  "readings": [
+   "rán ér"
+  ],
+  "pos": [
+   "c"
+  ]
+ },
+ {
+  "id": "hsk4-0598",
+  "hanzi": "热闹",
+  "traditional": "熱鬧",
+  "level": "4",
+  "pinyin": "rè nao",
+  "readings": [
+   "rè nao"
+  ],
+  "pos": [
+   "a"
+  ]
+ },
+ {
+  "id": "hsk4-0599",
+  "hanzi": "人生",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "rén shēng",
+  "readings": [
+   "rén shēng"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0600",
+  "hanzi": "人数",
+  "traditional": "人數",
+  "level": "4",
+  "pinyin": "rén shù",
+  "readings": [
+   "rén shù"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0601",
+  "hanzi": "人员",
+  "traditional": "人員",
+  "level": "4",
+  "pinyin": "rén yuán",
+  "readings": [
+   "rén yuán"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0602",
+  "hanzi": "任何",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "rèn hé",
+  "readings": [
+   "rèn hé"
+  ],
+  "pos": [
+   "r"
+  ]
+ },
+ {
+  "id": "hsk4-0603",
+  "hanzi": "任务",
+  "traditional": "任務",
+  "level": "4",
+  "pinyin": "rèn wu",
+  "readings": [
+   "rèn wu"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0604",
+  "hanzi": "扔",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "rēng",
+  "readings": [
+   "rēng"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0605",
+  "hanzi": "仍",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "réng",
+  "readings": [
+   "réng"
+  ],
+  "pos": [
+   "d"
+  ]
+ },
+ {
+  "id": "hsk4-0606",
+  "hanzi": "仍然",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "réng rán",
+  "readings": [
+   "réng rán"
+  ],
+  "pos": [
+   "d"
+  ]
+ },
+ {
+  "id": "hsk4-0607",
+  "hanzi": "日常",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "rì cháng",
+  "readings": [
+   "rì cháng"
+  ],
+  "pos": [
+   "b"
+  ]
+ },
+ {
+  "id": "hsk4-0608",
+  "hanzi": "日记",
+  "traditional": "日記",
+  "level": "4",
+  "pinyin": "rì jì",
+  "readings": [
+   "rì jì"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0609",
+  "hanzi": "日期",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "rì qī",
+  "readings": [
+   "rì qī"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0610",
+  "hanzi": "日子",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "rì zi",
+  "readings": [
+   "rì zi"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0611",
+  "hanzi": "入",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "rù",
+  "readings": [
+   "rù"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0612",
+  "hanzi": "入口",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "rù kǒu",
+  "readings": [
+   "rù kǒu"
+  ],
+  "pos": [
+   "n",
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0613",
+  "hanzi": "入学",
+  "traditional": "入學",
+  "level": "4",
+  "pinyin": "rù xué",
+  "readings": [
+   "rù xué"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0614",
+  "hanzi": "散步",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "sàn bù",
+  "readings": [
+   "sàn bù"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0615",
+  "hanzi": "森林",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "sēn lín",
+  "readings": [
+   "sēn lín"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0616",
+  "hanzi": "伤心",
+  "traditional": "傷心",
+  "level": "4",
+  "pinyin": "shāng xīn",
+  "readings": [
+   "shāng xīn"
+  ],
+  "pos": [
+   "a"
+  ]
+ },
+ {
+  "id": "hsk4-0617",
+  "hanzi": "商量",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "shāng liang",
+  "readings": [
+   "shāng liang"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0618",
+  "hanzi": "商品",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "shāng pǐn",
+  "readings": [
+   "shāng pǐn"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0619",
+  "hanzi": "上门",
+  "traditional": "上門",
+  "level": "4",
+  "pinyin": "shàng mén",
+  "readings": [
+   "shàng mén"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0620",
+  "hanzi": "稍",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "shāo",
+  "readings": [
+   "shāo",
+   "shào"
+  ],
+  "pos": [
+   "d"
+  ]
+ },
+ {
+  "id": "hsk4-0621",
+  "hanzi": "稍微",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "shāo wēi",
+  "readings": [
+   "shāo wēi"
+  ],
+  "pos": [
+   "d"
+  ]
+ },
+ {
+  "id": "hsk4-0622",
+  "hanzi": "少见",
+  "traditional": "少見",
+  "level": "4",
+  "pinyin": "shǎo jiàn",
+  "readings": [
+   "shǎo jiàn"
+  ],
+  "pos": [
+   "a"
+  ]
+ },
+ {
+  "id": "hsk4-0623",
+  "hanzi": "少量",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "shǎo liàng",
+  "readings": [
+   "shǎo liàng"
+  ],
+  "pos": [
+   "m"
+  ]
+ },
+ {
+  "id": "hsk4-0624",
+  "hanzi": "少年",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "shào nián",
+  "readings": [
+   "shào nián"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0625",
+  "hanzi": "少数",
+  "traditional": "少數",
+  "level": "4",
+  "pinyin": "shǎo shù",
+  "readings": [
+   "shǎo shù"
+  ],
+  "pos": [
+   "m"
+  ]
+ },
+ {
+  "id": "hsk4-0626",
+  "hanzi": "社会",
+  "traditional": "社會",
+  "level": "4",
+  "pinyin": "shè huì",
+  "readings": [
+   "shè huì"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0627",
+  "hanzi": "摄氏度",
+  "traditional": "攝氏度",
+  "level": "4",
+  "pinyin": "Shè shì dù",
+  "readings": [
+   "Shè shì dù"
+  ],
+  "pos": [
+   "q"
+  ]
+ },
+ {
+  "id": "hsk4-0628",
+  "hanzi": "申请",
+  "traditional": "申請",
+  "level": "4",
+  "pinyin": "shēn qǐng",
+  "readings": [
+   "shēn qǐng"
+  ],
+  "pos": [
+   "v",
+   "n",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0629",
+  "hanzi": "身份证",
+  "traditional": "身份證",
+  "level": "4",
+  "pinyin": "shēn fèn zhèng",
+  "readings": [
+   "shēn fèn zhèng"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0630",
+  "hanzi": "深",
+  "traditional": "㴱",
+  "level": "4",
+  "pinyin": "shēn",
+  "readings": [
+   "shēn"
+  ],
+  "pos": [
+   "a",
+   "d",
+   "g",
+   "b"
+  ]
+ },
+ {
+  "id": "hsk4-0631",
+  "hanzi": "甚至",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "shèn zhì",
+  "readings": [
+   "shèn zhì"
+  ],
+  "pos": [
+   "d",
+   "c"
+  ]
+ },
+ {
+  "id": "hsk4-0632",
+  "hanzi": "生",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "shēng",
+  "readings": [
+   "shēng"
+  ],
+  "pos": [
+   "v",
+   "g",
+   "a"
+  ]
+ },
+ {
+  "id": "hsk4-0633",
+  "hanzi": "生命",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "shēng mìng",
+  "readings": [
+   "shēng mìng"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0634",
+  "hanzi": "生意",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "shēng yì",
+  "readings": [
+   "shēng yì",
+   "shēng yi"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0635",
+  "hanzi": "省",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "shěng",
+  "readings": [
+   "shěng",
+   "xǐng"
+  ],
+  "pos": [
+   "n",
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0636",
+  "hanzi": "剩",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "shèng",
+  "readings": [
+   "shèng"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0637",
+  "hanzi": "失败",
+  "traditional": "失敗",
+  "level": "4",
+  "pinyin": "shī bài",
+  "readings": [
+   "shī bài"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0638",
+  "hanzi": "失去",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "shī qù",
+  "readings": [
+   "shī qù"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0639",
+  "hanzi": "失望",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "shī wàng",
+  "readings": [
+   "shī wàng"
+  ],
+  "pos": [
+   "a",
+   "an",
+   "ad"
+  ]
+ },
+ {
+  "id": "hsk4-0640",
+  "hanzi": "师傅",
+  "traditional": "師傅",
+  "level": "4",
+  "pinyin": "shī fu",
+  "readings": [
+   "shī fu"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0641",
+  "hanzi": "师生",
+  "traditional": "師生",
+  "level": "4",
+  "pinyin": "shī shēng",
+  "readings": [
+   "shī shēng"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0642",
+  "hanzi": "十分",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "shí fēn",
+  "readings": [
+   "shí fēn"
+  ],
+  "pos": [
+   "d"
+  ]
+ },
+ {
+  "id": "hsk4-0643",
+  "hanzi": "十字路口",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "shí zì lù kǒu",
+  "readings": [
+   "shí zì lù kǒu"
+  ],
+  "pos": [
+   "l"
+  ]
+ },
+ {
+  "id": "hsk4-0644",
+  "hanzi": "时间表",
+  "traditional": "時間表",
+  "level": "4",
+  "pinyin": "shí jiān biǎo",
+  "readings": [
+   "shí jiān biǎo"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0645",
+  "hanzi": "实际",
+  "traditional": "實際",
+  "level": "4",
+  "pinyin": "shí jì",
+  "readings": [
+   "shí jì"
+  ],
+  "pos": [
+   "n",
+   "a",
+   "ad"
+  ]
+ },
+ {
+  "id": "hsk4-0646",
+  "hanzi": "实际上",
+  "traditional": "實際上",
+  "level": "4",
+  "pinyin": "shí jì shàng",
+  "readings": [
+   "shí jì shàng"
+  ],
+  "pos": [
+   "d"
+  ]
+ },
+ {
+  "id": "hsk4-0647",
+  "hanzi": "实在",
+  "traditional": "實在",
+  "level": "4",
+  "pinyin": "shí zài",
+  "readings": [
+   "shí zài"
+  ],
+  "pos": [
+   "d",
+   "a"
+  ]
+ },
+ {
+  "id": "hsk4-0648",
+  "hanzi": "食品",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "shí pǐn",
+  "readings": [
+   "shí pǐn"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0649",
+  "hanzi": "食堂",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "shí táng",
+  "readings": [
+   "shí táng"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0650",
+  "hanzi": "食物",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "shí wù",
+  "readings": [
+   "shí wù"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0651",
+  "hanzi": "使",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "shǐ",
+  "readings": [
+   "shǐ"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0652",
+  "hanzi": "使用",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "shǐ yòng",
+  "readings": [
+   "shǐ yòng"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0653",
+  "hanzi": "世纪",
+  "traditional": "世紀",
+  "level": "4",
+  "pinyin": "shì jì",
+  "readings": [
+   "shì jì"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0654",
+  "hanzi": "市场",
+  "traditional": "市場",
+  "level": "4",
+  "pinyin": "shì chǎng",
+  "readings": [
+   "shì chǎng"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0655",
+  "hanzi": "市区",
+  "traditional": "市區",
+  "level": "4",
+  "pinyin": "shì qū",
+  "readings": [
+   "shì qū"
+  ],
+  "pos": [
+   "s"
+  ]
+ },
+ {
+  "id": "hsk4-0656",
+  "hanzi": "视频",
+  "traditional": "視頻",
+  "level": "4",
+  "pinyin": "shì pín",
+  "readings": [
+   "shì pín"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0657",
+  "hanzi": "试题",
+  "traditional": "試題",
+  "level": "4",
+  "pinyin": "shì tí",
+  "readings": [
+   "shì tí"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0658",
+  "hanzi": "是否",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "shì fǒu",
+  "readings": [
+   "shì fǒu"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0659",
+  "hanzi": "适合",
+  "traditional": "適合",
+  "level": "4",
+  "pinyin": "shì hé",
+  "readings": [
+   "shì hé"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0660",
+  "hanzi": "适应",
+  "traditional": "適應",
+  "level": "4",
+  "pinyin": "shì yìng",
+  "readings": [
+   "shì yìng"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0661",
+  "hanzi": "收费",
+  "traditional": "收費",
+  "level": "4",
+  "pinyin": "shōu fèi",
+  "readings": [
+   "shōu fèi"
+  ],
+  "pos": [
+   "vn",
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0662",
+  "hanzi": "收入",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "shōu rù",
+  "readings": [
+   "shōu rù"
+  ],
+  "pos": [
+   "n",
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0663",
+  "hanzi": "收拾",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "shōu shi",
+  "readings": [
+   "shōu shi"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0664",
+  "hanzi": "收听",
+  "traditional": "收聽",
+  "level": "4",
+  "pinyin": "shōu tīng",
+  "readings": [
+   "shōu tīng"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0665",
+  "hanzi": "首",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "shǒu",
+  "readings": [
+   "shǒu"
+  ],
+  "pos": [
+   "m",
+   "q",
+   "g"
+  ]
+ },
+ {
+  "id": "hsk4-0666",
+  "hanzi": "首都",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "shǒu dū",
+  "readings": [
+   "shǒu dū"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0667",
+  "hanzi": "首先",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "shǒu xiān",
+  "readings": [
+   "shǒu xiān"
+  ],
+  "pos": [
+   "d",
+   "c"
+  ]
+ },
+ {
+  "id": "hsk4-0668",
+  "hanzi": "受不了",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "shòu bù liǎo",
+  "readings": [
+   "shòu bù liǎo"
+  ],
+  "pos": [
+   "l"
+  ]
+ },
+ {
+  "id": "hsk4-0669",
+  "hanzi": "受伤",
+  "traditional": "受傷",
+  "level": "4",
+  "pinyin": "shòu shāng",
+  "readings": [
+   "shòu shāng"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0670",
+  "hanzi": "输",
+  "traditional": "輸",
+  "level": "4",
+  "pinyin": "shū",
+  "readings": [
+   "shū"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0671",
+  "hanzi": "熟",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "shú",
+  "readings": [
+   "shú"
+  ],
+  "pos": [
+   "a",
+   "ad"
+  ]
+ },
+ {
+  "id": "hsk4-0672",
+  "hanzi": "熟悉",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "shú xī",
+  "readings": [
+   "shú xī"
+  ],
+  "pos": [
+   "v",
+   "vn",
+   "a"
+  ]
+ },
+ {
+  "id": "hsk4-0673",
+  "hanzi": "暑假",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "shǔ jià",
+  "readings": [
+   "shǔ jià"
+  ],
+  "pos": [
+   "t"
+  ]
+ },
+ {
+  "id": "hsk4-0674",
+  "hanzi": "树林",
+  "traditional": "樹林",
+  "level": "4",
+  "pinyin": "Shù lín",
+  "readings": [
+   "Shù lín",
+   "shù lín"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0675",
+  "hanzi": "数",
+  "traditional": "數",
+  "level": "4",
+  "pinyin": "shǔ",
+  "readings": [
+   "shǔ",
+   "shù",
+   "shuò"
+  ],
+  "pos": [
+   "m",
+   "n",
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0676",
+  "hanzi": "数量",
+  "traditional": "數量",
+  "level": "4",
+  "pinyin": "shù liàng",
+  "readings": [
+   "shù liàng"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0677",
+  "hanzi": "数字",
+  "traditional": "數字",
+  "level": "4",
+  "pinyin": "shù zì",
+  "readings": [
+   "shù zì"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0678",
+  "hanzi": "帅",
+  "traditional": "帥",
+  "level": "4",
+  "pinyin": "Shuài",
+  "readings": [
+   "Shuài",
+   "shuài"
+  ],
+  "pos": [
+   "nr",
+   "g"
+  ]
+ },
+ {
+  "id": "hsk4-0679",
+  "hanzi": "顺便",
+  "traditional": "順便",
+  "level": "4",
+  "pinyin": "shùn biàn",
+  "readings": [
+   "shùn biàn"
+  ],
+  "pos": [
+   "d"
+  ]
+ },
+ {
+  "id": "hsk4-0680",
+  "hanzi": "顺利",
+  "traditional": "順利",
+  "level": "4",
+  "pinyin": "shùn lì",
+  "readings": [
+   "shùn lì"
+  ],
+  "pos": [
+   "a",
+   "ad"
+  ]
+ },
+ {
+  "id": "hsk4-0681",
+  "hanzi": "顺序",
+  "traditional": "順序",
+  "level": "4",
+  "pinyin": "shùn xù",
+  "readings": [
+   "shùn xù"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0682",
+  "hanzi": "说法",
+  "traditional": "說法",
+  "level": "4",
+  "pinyin": "shuō fǎ",
+  "readings": [
+   "shuō fǎ",
+   "shuō fa"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0683",
+  "hanzi": "说明",
+  "traditional": "說明",
+  "level": "4",
+  "pinyin": "shuō míng",
+  "readings": [
+   "shuō míng"
+  ],
+  "pos": [
+   "v",
+   "vn",
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0684",
+  "hanzi": "说明书",
+  "traditional": "說明書",
+  "level": "4",
+  "pinyin": "shuō míng shū",
+  "readings": [
+   "shuō míng shū"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0685",
+  "hanzi": "硕士",
+  "traditional": "碩士",
+  "level": "4",
+  "pinyin": "shuò shì",
+  "readings": [
+   "shuò shì"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0686",
+  "hanzi": "死",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "sǐ",
+  "readings": [
+   "sǐ"
+  ],
+  "pos": [
+   "v",
+   "a",
+   "vn",
+   "d"
+  ]
+ },
+ {
+  "id": "hsk4-0687",
+  "hanzi": "速度",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "sù dù",
+  "readings": [
+   "sù dù"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0688",
+  "hanzi": "塑料",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "sù liào",
+  "readings": [
+   "sù liào"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0689",
+  "hanzi": "酸",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "suān",
+  "readings": [
+   "suān"
+  ],
+  "pos": [
+   "a",
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0690",
+  "hanzi": "酸奶",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "suān nǎi",
+  "readings": [
+   "suān nǎi"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0691",
+  "hanzi": "算",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "suàn",
+  "readings": [
+   "suàn"
+  ],
+  "pos": [
+   "v",
+   "d"
+  ]
+ },
+ {
+  "id": "hsk4-0692",
+  "hanzi": "随便",
+  "traditional": "隨便",
+  "level": "4",
+  "pinyin": "suí biàn",
+  "readings": [
+   "suí biàn"
+  ],
+  "pos": [
+   "ad",
+   "a",
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0693",
+  "hanzi": "随着",
+  "traditional": "隨著",
+  "level": "4",
+  "pinyin": "suí zhe",
+  "readings": [
+   "suí zhe"
+  ],
+  "pos": [
+   "p"
+  ]
+ },
+ {
+  "id": "hsk4-0694",
+  "hanzi": "孙女",
+  "traditional": "孫女",
+  "level": "4",
+  "pinyin": "sūn nǚ",
+  "readings": [
+   "sūn nǚ"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0695",
+  "hanzi": "孙子",
+  "traditional": "孫子",
+  "level": "4",
+  "pinyin": "Sūn zǐ",
+  "readings": [
+   "Sūn zǐ",
+   "sūn zi"
+  ],
+  "pos": [
+   "n",
+   "nr"
+  ]
+ },
+ {
+  "id": "hsk4-0696",
+  "hanzi": "所有",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "suǒ yǒu",
+  "readings": [
+   "suǒ yǒu"
+  ],
+  "pos": [
+   "b",
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0697",
+  "hanzi": "台",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "Tái",
+  "readings": [
+   "Tái",
+   "tái"
+  ],
+  "pos": [
+   "q",
+   "n",
+   "b"
+  ]
+ },
+ {
+  "id": "hsk4-0698",
+  "hanzi": "抬",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "tái",
+  "readings": [
+   "tái"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0699",
+  "hanzi": "抬头",
+  "traditional": "抬頭",
+  "level": "4",
+  "pinyin": "tái tóu",
+  "readings": [
+   "tái tóu"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0700",
+  "hanzi": "态度",
+  "traditional": "態度",
+  "level": "4",
+  "pinyin": "tài du",
+  "readings": [
+   "tài du"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0701",
+  "hanzi": "谈",
+  "traditional": "談",
+  "level": "4",
+  "pinyin": "Tán",
+  "readings": [
+   "Tán",
+   "tán"
+  ],
+  "pos": [
+   "v",
+   "g"
+  ]
+ },
+ {
+  "id": "hsk4-0702",
+  "hanzi": "汤",
+  "traditional": "湯",
+  "level": "4",
+  "pinyin": "Tāng",
+  "readings": [
+   "Tāng",
+   "shāng",
+   "tāng"
+  ],
+  "pos": [
+   "n",
+   "nr"
+  ]
+ },
+ {
+  "id": "hsk4-0703",
+  "hanzi": "躺",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "tǎng",
+  "readings": [
+   "tǎng"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0704",
+  "hanzi": "趟",
+  "traditional": "䠀",
+  "level": "4",
+  "pinyin": "tāng",
+  "readings": [
+   "tāng",
+   "tàng"
+  ],
+  "pos": [
+   "qv",
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0705",
+  "hanzi": "讨论",
+  "traditional": "討論",
+  "level": "4",
+  "pinyin": "tǎo lùn",
+  "readings": [
+   "tǎo lùn"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0706",
+  "hanzi": "讨厌",
+  "traditional": "討厭",
+  "level": "4",
+  "pinyin": "tǎo yàn",
+  "readings": [
+   "tǎo yàn"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0707",
+  "hanzi": "特点",
+  "traditional": "特點",
+  "level": "4",
+  "pinyin": "tè diǎn",
+  "readings": [
+   "tè diǎn"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0708",
+  "hanzi": "提",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "dī",
+  "readings": [
+   "dī",
+   "tí"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0709",
+  "hanzi": "提出",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "tí chū",
+  "readings": [
+   "tí chū"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0710",
+  "hanzi": "提到",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "tí dào",
+  "readings": [
+   "tí dào"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0711",
+  "hanzi": "提供",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "tí gōng",
+  "readings": [
+   "tí gōng"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0712",
+  "hanzi": "提前",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "tí qián",
+  "readings": [
+   "tí qián"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0713",
+  "hanzi": "提醒",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "tí xǐng",
+  "readings": [
+   "tí xǐng"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0714",
+  "hanzi": "体检",
+  "traditional": "體檢",
+  "level": "4",
+  "pinyin": "tǐ jiǎn",
+  "readings": [
+   "tǐ jiǎn"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0715",
+  "hanzi": "体温",
+  "traditional": "體溫",
+  "level": "4",
+  "pinyin": "tǐ wēn",
+  "readings": [
+   "tǐ wēn"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0716",
+  "hanzi": "体重",
+  "traditional": "體重",
+  "level": "4",
+  "pinyin": "tǐ zhòng",
+  "readings": [
+   "tǐ zhòng"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0717",
+  "hanzi": "填写",
+  "traditional": "填寫",
+  "level": "4",
+  "pinyin": "tián xiě",
+  "readings": [
+   "tián xiě"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0718",
+  "hanzi": "条件",
+  "traditional": "條件",
+  "level": "4",
+  "pinyin": "tiáo jiàn",
+  "readings": [
+   "tiáo jiàn"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0719",
+  "hanzi": "听力",
+  "traditional": "聽力",
+  "level": "4",
+  "pinyin": "tīng lì",
+  "readings": [
+   "tīng lì"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0720",
+  "hanzi": "听众",
+  "traditional": "聽眾",
+  "level": "4",
+  "pinyin": "tīng zhòng",
+  "readings": [
+   "tīng zhòng"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0721",
+  "hanzi": "停",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "tíng",
+  "readings": [
+   "tíng"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0722",
+  "hanzi": "停车",
+  "traditional": "停車",
+  "level": "4",
+  "pinyin": "tíng chē",
+  "readings": [
+   "tíng chē"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0723",
+  "hanzi": "停车场",
+  "traditional": "停車場",
+  "level": "4",
+  "pinyin": "tíng chē chǎng",
+  "readings": [
+   "tíng chē chǎng"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0724",
+  "hanzi": "停止",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "tíng zhǐ",
+  "readings": [
+   "tíng zhǐ"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0725",
+  "hanzi": "通",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "tōng",
+  "readings": [
+   "tōng",
+   "tòng"
+  ],
+  "pos": [
+   "v",
+   "a",
+   "qv"
+  ]
+ },
+ {
+  "id": "hsk4-0726",
+  "hanzi": "通过",
+  "traditional": "通過",
+  "level": "4",
+  "pinyin": "tōng guò",
+  "readings": [
+   "tōng guò"
+  ],
+  "pos": [
+   "p",
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0727",
+  "hanzi": "通知",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "tōng zhī",
+  "readings": [
+   "tōng zhī"
+  ],
+  "pos": [
+   "n",
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0728",
+  "hanzi": "同时",
+  "traditional": "同時",
+  "level": "4",
+  "pinyin": "tóng shí",
+  "readings": [
+   "tóng shí"
+  ],
+  "pos": [
+   "c",
+   "n",
+   "d"
+  ]
+ },
+ {
+  "id": "hsk4-0729",
+  "hanzi": "同样",
+  "traditional": "同樣",
+  "level": "4",
+  "pinyin": "tóng yàng",
+  "readings": [
+   "tóng yàng"
+  ],
+  "pos": [
+   "b",
+   "d"
+  ]
+ },
+ {
+  "id": "hsk4-0730",
+  "hanzi": "童年",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "tóng nián",
+  "readings": [
+   "tóng nián"
+  ],
+  "pos": [
+   "t"
+  ]
+ },
+ {
+  "id": "hsk4-0731",
+  "hanzi": "桶",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "tǒng",
+  "readings": [
+   "tǒng"
+  ],
+  "pos": [
+   "n",
+   "q"
+  ]
+ },
+ {
+  "id": "hsk4-0732",
+  "hanzi": "痛",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "tòng",
+  "readings": [
+   "tòng"
+  ],
+  "pos": [
+   "a",
+   "g",
+   "an"
+  ]
+ },
+ {
+  "id": "hsk4-0733",
+  "hanzi": "图",
+  "traditional": "圖",
+  "level": "4",
+  "pinyin": "tú",
+  "readings": [
+   "tú"
+  ],
+  "pos": [
+   "n",
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0734",
+  "hanzi": "图片",
+  "traditional": "圖片",
+  "level": "4",
+  "pinyin": "tú piàn",
+  "readings": [
+   "tú piàn"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0735",
+  "hanzi": "土",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "Tǔ",
+  "readings": [
+   "Tǔ",
+   "tǔ"
+  ],
+  "pos": [
+   "n",
+   "b",
+   "a"
+  ]
+ },
+ {
+  "id": "hsk4-0736",
+  "hanzi": "推",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "tuī",
+  "readings": [
+   "tuī"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0737",
+  "hanzi": "推迟",
+  "traditional": "推遲",
+  "level": "4",
+  "pinyin": "tuī chí",
+  "readings": [
+   "tuī chí"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0738",
+  "hanzi": "推出",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "tuī chū",
+  "readings": [
+   "tuī chū"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0739",
+  "hanzi": "脱",
+  "traditional": "脫",
+  "level": "4",
+  "pinyin": "tuō",
+  "readings": [
+   "tuō"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0740",
+  "hanzi": "袜子",
+  "traditional": "襪子",
+  "level": "4",
+  "pinyin": "wà zi",
+  "readings": [
+   "wà zi"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0741",
+  "hanzi": "外出",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "wài chū",
+  "readings": [
+   "wài chū"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0742",
+  "hanzi": "外套",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "wài tào",
+  "readings": [
+   "wài tào"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0743",
+  "hanzi": "完全",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "wán quán",
+  "readings": [
+   "wán quán"
+  ],
+  "pos": [
+   "ad",
+   "a"
+  ]
+ },
+ {
+  "id": "hsk4-0744",
+  "hanzi": "晚安",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "wǎn ān",
+  "readings": [
+   "wǎn ān"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0745",
+  "hanzi": "晚餐",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "wǎn cān",
+  "readings": [
+   "wǎn cān"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0746",
+  "hanzi": "网页",
+  "traditional": "網頁",
+  "level": "4",
+  "pinyin": "wǎng yè",
+  "readings": [
+   "wǎng yè"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0747",
+  "hanzi": "网友",
+  "traditional": "網友",
+  "level": "4",
+  "pinyin": "wǎng yǒu",
+  "readings": [
+   "wǎng yǒu"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0748",
+  "hanzi": "网址",
+  "traditional": "網址",
+  "level": "4",
+  "pinyin": "wǎng zhǐ",
+  "readings": [
+   "wǎng zhǐ"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0749",
+  "hanzi": "往往",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "wǎng wǎng",
+  "readings": [
+   "wǎng wǎng"
+  ],
+  "pos": [
+   "d"
+  ]
+ },
+ {
+  "id": "hsk4-0750",
+  "hanzi": "危险",
+  "traditional": "危險",
+  "level": "4",
+  "pinyin": "wēi xiǎn",
+  "readings": [
+   "wēi xiǎn"
+  ],
+  "pos": [
+   "a",
+   "an",
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0751",
+  "hanzi": "卫生",
+  "traditional": "衛生",
+  "level": "4",
+  "pinyin": "wèi shēng",
+  "readings": [
+   "wèi shēng"
+  ],
+  "pos": [
+   "an",
+   "a"
+  ]
+ },
+ {
+  "id": "hsk4-0752",
+  "hanzi": "味道",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "wèi dao",
+  "readings": [
+   "wèi dao"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0753",
+  "hanzi": "温度",
+  "traditional": "溫度",
+  "level": "4",
+  "pinyin": "wēn dù",
+  "readings": [
+   "wēn dù"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0754",
+  "hanzi": "文件",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "wén jiàn",
+  "readings": [
+   "wén jiàn"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0755",
+  "hanzi": "文章",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "wén zhāng",
+  "readings": [
+   "wén zhāng"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0756",
+  "hanzi": "文字",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "wén zì",
+  "readings": [
+   "wén zì"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0757",
+  "hanzi": "闻",
+  "traditional": "聞",
+  "level": "4",
+  "pinyin": "Wén",
+  "readings": [
+   "Wén",
+   "wén"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0758",
+  "hanzi": "污染",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "wū rǎn",
+  "readings": [
+   "wū rǎn"
+  ],
+  "pos": [
+   "vn",
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0759",
+  "hanzi": "无",
+  "traditional": "無",
+  "level": "4",
+  "pinyin": "wú",
+  "readings": [
+   "wú"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0760",
+  "hanzi": "无法",
+  "traditional": "無法",
+  "level": "4",
+  "pinyin": "wú fǎ",
+  "readings": [
+   "wú fǎ"
+  ],
+  "pos": [
+   "v",
+   "d"
+  ]
+ },
+ {
+  "id": "hsk4-0761",
+  "hanzi": "无聊",
+  "traditional": "無聊",
+  "level": "4",
+  "pinyin": "wú liáo",
+  "readings": [
+   "wú liáo"
+  ],
+  "pos": [
+   "a",
+   "an"
+  ]
+ },
+ {
+  "id": "hsk4-0762",
+  "hanzi": "无论",
+  "traditional": "無論",
+  "level": "4",
+  "pinyin": "wú lùn",
+  "readings": [
+   "wú lùn"
+  ],
+  "pos": [
+   "c"
+  ]
+ },
+ {
+  "id": "hsk4-0763",
+  "hanzi": "午餐",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "wǔ cān",
+  "readings": [
+   "wǔ cān"
+  ],
+  "pos": [
+   "n",
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0764",
+  "hanzi": "误会",
+  "traditional": "誤會",
+  "level": "4",
+  "pinyin": "wù huì",
+  "readings": [
+   "wù huì"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0765",
+  "hanzi": "吸",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "xī",
+  "readings": [
+   "xī"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0766",
+  "hanzi": "吸引",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "xī yǐn",
+  "readings": [
+   "xī yǐn"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0767",
+  "hanzi": "细",
+  "traditional": "細",
+  "level": "4",
+  "pinyin": "xì",
+  "readings": [
+   "xì"
+  ],
+  "pos": [
+   "a",
+   "ad"
+  ]
+ },
+ {
+  "id": "hsk4-0768",
+  "hanzi": "细心",
+  "traditional": "細心",
+  "level": "4",
+  "pinyin": "xì xīn",
+  "readings": [
+   "xì xīn"
+  ],
+  "pos": [
+   "a",
+   "ad",
+   "an"
+  ]
+ },
+ {
+  "id": "hsk4-0769",
+  "hanzi": "西部",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "xī bù",
+  "readings": [
+   "xī bù"
+  ],
+  "pos": [
+   "f"
+  ]
+ },
+ {
+  "id": "hsk4-0770",
+  "hanzi": "西红柿",
+  "traditional": "西紅柿",
+  "level": "4",
+  "pinyin": "xī hóng shì",
+  "readings": [
+   "xī hóng shì"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0771",
+  "hanzi": "下降",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "xià jiàng",
+  "readings": [
+   "xià jiàng"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0772",
+  "hanzi": "鲜",
+  "traditional": "尟",
+  "level": "4",
+  "pinyin": "xiǎn",
+  "readings": [
+   "xiǎn",
+   "xiān"
+  ],
+  "pos": [
+   "a",
+   "g",
+   "ad"
+  ]
+ },
+ {
+  "id": "hsk4-0773",
+  "hanzi": "鲜花",
+  "traditional": "鮮花",
+  "level": "4",
+  "pinyin": "xiān huā",
+  "readings": [
+   "xiān huā"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0774",
+  "hanzi": "咸",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "Xián",
+  "readings": [
+   "Xián",
+   "xián"
+  ],
+  "pos": [
+   "a"
+  ]
+ },
+ {
+  "id": "hsk4-0775",
+  "hanzi": "现金",
+  "traditional": "現金",
+  "level": "4",
+  "pinyin": "xiàn jīn",
+  "readings": [
+   "xiàn jīn"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0776",
+  "hanzi": "现有",
+  "traditional": "現有",
+  "level": "4",
+  "pinyin": "xiàn yǒu",
+  "readings": [
+   "xiàn yǒu"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0777",
+  "hanzi": "羡慕",
+  "traditional": "羨慕",
+  "level": "4",
+  "pinyin": "xiàn mù",
+  "readings": [
+   "xiàn mù"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0778",
+  "hanzi": "相比",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "xiāng bǐ",
+  "readings": [
+   "xiāng bǐ"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0779",
+  "hanzi": "相反",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "xiāng fǎn",
+  "readings": [
+   "xiāng fǎn"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0780",
+  "hanzi": "相互",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "xiāng hù",
+  "readings": [
+   "xiāng hù"
+  ],
+  "pos": [
+   "d",
+   "b"
+  ]
+ },
+ {
+  "id": "hsk4-0781",
+  "hanzi": "相同",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "xiāng tóng",
+  "readings": [
+   "xiāng tóng"
+  ],
+  "pos": [
+   "a"
+  ]
+ },
+ {
+  "id": "hsk4-0782",
+  "hanzi": "香",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "xiāng",
+  "readings": [
+   "xiāng"
+  ],
+  "pos": [
+   "n",
+   "a",
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0783",
+  "hanzi": "详细",
+  "traditional": "詳細",
+  "level": "4",
+  "pinyin": "xiáng xì",
+  "readings": [
+   "xiáng xì"
+  ],
+  "pos": [
+   "a",
+   "ad"
+  ]
+ },
+ {
+  "id": "hsk4-0784",
+  "hanzi": "响",
+  "traditional": "響",
+  "level": "4",
+  "pinyin": "xiǎng",
+  "readings": [
+   "xiǎng"
+  ],
+  "pos": [
+   "v",
+   "a",
+   "q"
+  ]
+ },
+ {
+  "id": "hsk4-0785",
+  "hanzi": "想法",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "xiǎng fǎ",
+  "readings": [
+   "xiǎng fǎ"
+  ],
+  "pos": [
+   "n",
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0786",
+  "hanzi": "项",
+  "traditional": "項",
+  "level": "4",
+  "pinyin": "Xiàng",
+  "readings": [
+   "Xiàng",
+   "xiàng"
+  ],
+  "pos": [
+   "q"
+  ]
+ },
+ {
+  "id": "hsk4-0787",
+  "hanzi": "消息",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "xiāo xi",
+  "readings": [
+   "xiāo xi"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0788",
+  "hanzi": "小吃",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "xiǎo chī",
+  "readings": [
+   "xiǎo chī"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0789",
+  "hanzi": "小伙子",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "xiǎo huǒ zi",
+  "readings": [
+   "xiǎo huǒ zi"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0790",
+  "hanzi": "小说",
+  "traditional": "小說",
+  "level": "4",
+  "pinyin": "xiǎo shuō",
+  "readings": [
+   "xiǎo shuō"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0791",
+  "hanzi": "小组",
+  "traditional": "小組",
+  "level": "4",
+  "pinyin": "xiǎo zǔ",
+  "readings": [
+   "xiǎo zǔ"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0792",
+  "hanzi": "效果",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "xiào guǒ",
+  "readings": [
+   "xiào guǒ"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0793",
+  "hanzi": "笑话",
+  "traditional": "笑話",
+  "level": "4",
+  "pinyin": "xiào hua",
+  "readings": [
+   "xiào hua"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0794",
+  "hanzi": "心",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "xīn",
+  "readings": [
+   "xīn"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0795",
+  "hanzi": "心情",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "xīn qíng",
+  "readings": [
+   "xīn qíng"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0796",
+  "hanzi": "辛苦",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "xīn kǔ",
+  "readings": [
+   "xīn kǔ"
+  ],
+  "pos": [
+   "a",
+   "v",
+   "ad",
+   "an"
+  ]
+ },
+ {
+  "id": "hsk4-0797",
+  "hanzi": "信号",
+  "traditional": "信號",
+  "level": "4",
+  "pinyin": "xìn hào",
+  "readings": [
+   "xìn hào"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0798",
+  "hanzi": "信息",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "xìn xī",
+  "readings": [
+   "xìn xī"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0799",
+  "hanzi": "信心",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "xìn xīn",
+  "readings": [
+   "xìn xīn"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0800",
+  "hanzi": "星星",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "xīng xing",
+  "readings": [
+   "xīng xing"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0801",
+  "hanzi": "醒",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "xǐng",
+  "readings": [
+   "xǐng"
+  ],
+  "pos": [
+   "v",
+   "g",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0802",
+  "hanzi": "兴奋",
+  "traditional": "興奮",
+  "level": "4",
+  "pinyin": "xīng fèn",
+  "readings": [
+   "xīng fèn"
+  ],
+  "pos": [
+   "v",
+   "a",
+   "an"
+  ]
+ },
+ {
+  "id": "hsk4-0803",
+  "hanzi": "幸福",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "xìng fú",
+  "readings": [
+   "xìng fú"
+  ],
+  "pos": [
+   "a",
+   "an",
+   "nz"
+  ]
+ },
+ {
+  "id": "hsk4-0804",
+  "hanzi": "性",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "xìng",
+  "readings": [
+   "xìng"
+  ],
+  "pos": [
+   "g",
+   "n",
+   "k"
+  ]
+ },
+ {
+  "id": "hsk4-0805",
+  "hanzi": "性别",
+  "traditional": "性別",
+  "level": "4",
+  "pinyin": "xìng bié",
+  "readings": [
+   "xìng bié"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0806",
+  "hanzi": "性格",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "xìng gé",
+  "readings": [
+   "xìng gé"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0807",
+  "hanzi": "兄弟",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "xiōng dì",
+  "readings": [
+   "xiōng dì"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0808",
+  "hanzi": "熊",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "Xióng",
+  "readings": [
+   "Xióng",
+   "xióng"
+  ],
+  "pos": [
+   "n",
+   "nr"
+  ]
+ },
+ {
+  "id": "hsk4-0809",
+  "hanzi": "修",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "Xiū",
+  "readings": [
+   "Xiū",
+   "xiū"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0810",
+  "hanzi": "修理",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "xiū lǐ",
+  "readings": [
+   "xiū lǐ"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0811",
+  "hanzi": "许多",
+  "traditional": "許多",
+  "level": "4",
+  "pinyin": "xǔ duō",
+  "readings": [
+   "xǔ duō"
+  ],
+  "pos": [
+   "m"
+  ]
+ },
+ {
+  "id": "hsk4-0812",
+  "hanzi": "学费",
+  "traditional": "學費",
+  "level": "4",
+  "pinyin": "xué fèi",
+  "readings": [
+   "xué fèi"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0813",
+  "hanzi": "学院",
+  "traditional": "學院",
+  "level": "4",
+  "pinyin": "xué yuàn",
+  "readings": [
+   "xué yuàn"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0814",
+  "hanzi": "血",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "xuè",
+  "readings": [
+   "xuè"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0815",
+  "hanzi": "压",
+  "traditional": "壓",
+  "level": "4",
+  "pinyin": "yā",
+  "readings": [
+   "yā",
+   "yà"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0816",
+  "hanzi": "压力",
+  "traditional": "壓力",
+  "level": "4",
+  "pinyin": "yā lì",
+  "readings": [
+   "yā lì"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0817",
+  "hanzi": "牙膏",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "yá gāo",
+  "readings": [
+   "yá gāo"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0818",
+  "hanzi": "亚洲",
+  "traditional": "亞洲",
+  "level": "4",
+  "pinyin": "Yà zhōu",
+  "readings": [
+   "Yà zhōu"
+  ],
+  "pos": [
+   "ns"
+  ]
+ },
+ {
+  "id": "hsk4-0819",
+  "hanzi": "烟",
+  "traditional": "煙",
+  "level": "4",
+  "pinyin": "yān",
+  "readings": [
+   "yān"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0820",
+  "hanzi": "严格",
+  "traditional": "嚴格",
+  "level": "4",
+  "pinyin": "yán gé",
+  "readings": [
+   "yán gé"
+  ],
+  "pos": [
+   "a",
+   "ad",
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0821",
+  "hanzi": "严重",
+  "traditional": "嚴重",
+  "level": "4",
+  "pinyin": "yán zhòng",
+  "readings": [
+   "yán zhòng"
+  ],
+  "pos": [
+   "a",
+   "ad"
+  ]
+ },
+ {
+  "id": "hsk4-0822",
+  "hanzi": "研究",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "yán jiū",
+  "readings": [
+   "yán jiū"
+  ],
+  "pos": [
+   "vn",
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0823",
+  "hanzi": "研究生",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "yán jiū shēng",
+  "readings": [
+   "yán jiū shēng"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0824",
+  "hanzi": "盐",
+  "traditional": "鹽",
+  "level": "4",
+  "pinyin": "yán",
+  "readings": [
+   "yán"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0825",
+  "hanzi": "眼镜",
+  "traditional": "眼鏡",
+  "level": "4",
+  "pinyin": "yǎn jìng",
+  "readings": [
+   "yǎn jìng"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0826",
+  "hanzi": "眼前",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "yǎn qián",
+  "readings": [
+   "yǎn qián"
+  ],
+  "pos": [
+   "s",
+   "t"
+  ]
+ },
+ {
+  "id": "hsk4-0827",
+  "hanzi": "演",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "yǎn",
+  "readings": [
+   "yǎn"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0828",
+  "hanzi": "演唱",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "yǎn chàng",
+  "readings": [
+   "yǎn chàng"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0829",
+  "hanzi": "演出",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "yǎn chū",
+  "readings": [
+   "yǎn chū"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0830",
+  "hanzi": "演员",
+  "traditional": "演員",
+  "level": "4",
+  "pinyin": "yǎn yuán",
+  "readings": [
+   "yǎn yuán"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0831",
+  "hanzi": "阳光",
+  "traditional": "陽光",
+  "level": "4",
+  "pinyin": "yáng guāng",
+  "readings": [
+   "yáng guāng"
+  ],
+  "pos": [
+   "n",
+   "nz"
+  ]
+ },
+ {
+  "id": "hsk4-0832",
+  "hanzi": "养成",
+  "traditional": "養成",
+  "level": "4",
+  "pinyin": "yǎng chéng",
+  "readings": [
+   "yǎng chéng"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0833",
+  "hanzi": "样子",
+  "traditional": "樣子",
+  "level": "4",
+  "pinyin": "yàng zi",
+  "readings": [
+   "yàng zi"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0834",
+  "hanzi": "邀请",
+  "traditional": "邀請",
+  "level": "4",
+  "pinyin": "yāo qǐng",
+  "readings": [
+   "yāo qǐng"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0835",
+  "hanzi": "要是",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "yào shi",
+  "readings": [
+   "yào shi"
+  ],
+  "pos": [
+   "c",
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0836",
+  "hanzi": "钥匙",
+  "traditional": "鑰匙",
+  "level": "4",
+  "pinyin": "yào shi",
+  "readings": [
+   "yào shi"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0837",
+  "hanzi": "也许",
+  "traditional": "也許",
+  "level": "4",
+  "pinyin": "yě xǔ",
+  "readings": [
+   "yě xǔ"
+  ],
+  "pos": [
+   "d"
+  ]
+ },
+ {
+  "id": "hsk4-0838",
+  "hanzi": "叶子",
+  "traditional": "葉子",
+  "level": "4",
+  "pinyin": "yè zi",
+  "readings": [
+   "yè zi"
+  ],
+  "pos": [
+   "n",
+   "nr"
+  ]
+ },
+ {
+  "id": "hsk4-0839",
+  "hanzi": "夜",
+  "traditional": "亱",
+  "level": "4",
+  "pinyin": "yè",
+  "readings": [
+   "yè"
+  ],
+  "pos": [
+   "tg",
+   "qt"
+  ]
+ },
+ {
+  "id": "hsk4-0840",
+  "hanzi": "夜晚",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "yè wǎn",
+  "readings": [
+   "yè wǎn"
+  ],
+  "pos": [
+   "t",
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0841",
+  "hanzi": "一切",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "yī qiè",
+  "readings": [
+   "yī qiè"
+  ],
+  "pos": [
+   "r"
+  ]
+ },
+ {
+  "id": "hsk4-0842",
+  "hanzi": "一生",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "yī shēng",
+  "readings": [
+   "yī shēng"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0843",
+  "hanzi": "已",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "yǐ",
+  "readings": [
+   "yǐ"
+  ],
+  "pos": [
+   "d"
+  ]
+ },
+ {
+  "id": "hsk4-0844",
+  "hanzi": "以内",
+  "traditional": "以內",
+  "level": "4",
+  "pinyin": "yǐ nèi",
+  "readings": [
+   "yǐ nèi"
+  ],
+  "pos": [
+   "f"
+  ]
+ },
+ {
+  "id": "hsk4-0845",
+  "hanzi": "艺术",
+  "traditional": "藝術",
+  "level": "4",
+  "pinyin": "yì shù",
+  "readings": [
+   "yì shù"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0846",
+  "hanzi": "意见",
+  "traditional": "意見",
+  "level": "4",
+  "pinyin": "yì jiàn",
+  "readings": [
+   "yì jiàn"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0847",
+  "hanzi": "因此",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "yīn cǐ",
+  "readings": [
+   "yīn cǐ"
+  ],
+  "pos": [
+   "c"
+  ]
+ },
+ {
+  "id": "hsk4-0848",
+  "hanzi": "引起",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "yǐn qǐ",
+  "readings": [
+   "yǐn qǐ"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0849",
+  "hanzi": "印象",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "yìn xiàng",
+  "readings": [
+   "yìn xiàng"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0850",
+  "hanzi": "应聘",
+  "traditional": "應聘",
+  "level": "4",
+  "pinyin": "yìng pìn",
+  "readings": [
+   "yìng pìn"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0851",
+  "hanzi": "赢",
+  "traditional": "贏",
+  "level": "4",
+  "pinyin": "yíng",
+  "readings": [
+   "yíng"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0852",
+  "hanzi": "赢得",
+  "traditional": "贏得",
+  "level": "4",
+  "pinyin": "yíng dé",
+  "readings": [
+   "yíng dé"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0853",
+  "hanzi": "永远",
+  "traditional": "永遠",
+  "level": "4",
+  "pinyin": "yǒng yuǎn",
+  "readings": [
+   "yǒng yuǎn"
+  ],
+  "pos": [
+   "d",
+   "b"
+  ]
+ },
+ {
+  "id": "hsk4-0854",
+  "hanzi": "勇敢",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "yǒng gǎn",
+  "readings": [
+   "yǒng gǎn"
+  ],
+  "pos": [
+   "a",
+   "ad",
+   "an"
+  ]
+ },
+ {
+  "id": "hsk4-0855",
+  "hanzi": "用来",
+  "traditional": "用來",
+  "level": "4",
+  "pinyin": "yòng lái",
+  "readings": [
+   "yòng lái"
+  ],
+  "pos": [
+   "v",
+   "nr"
+  ]
+ },
+ {
+  "id": "hsk4-0856",
+  "hanzi": "用于",
+  "traditional": "用於",
+  "level": "4",
+  "pinyin": "yòng yú",
+  "readings": [
+   "yòng yú"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0857",
+  "hanzi": "优点",
+  "traditional": "優點",
+  "level": "4",
+  "pinyin": "yōu diǎn",
+  "readings": [
+   "yōu diǎn"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0858",
+  "hanzi": "优秀",
+  "traditional": "優秀",
+  "level": "4",
+  "pinyin": "yōu xiù",
+  "readings": [
+   "yōu xiù"
+  ],
+  "pos": [
+   "a"
+  ]
+ },
+ {
+  "id": "hsk4-0859",
+  "hanzi": "幽默",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "yōu mò",
+  "readings": [
+   "yōu mò"
+  ],
+  "pos": [
+   "a",
+   "an"
+  ]
+ },
+ {
+  "id": "hsk4-0860",
+  "hanzi": "尤其",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "yóu qí",
+  "readings": [
+   "yóu qí"
+  ],
+  "pos": [
+   "d"
+  ]
+ },
+ {
+  "id": "hsk4-0861",
+  "hanzi": "由",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "yóu",
+  "readings": [
+   "yóu"
+  ],
+  "pos": [
+   "p",
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0862",
+  "hanzi": "由于",
+  "traditional": "由於",
+  "level": "4",
+  "pinyin": "yóu yú",
+  "readings": [
+   "yóu yú"
+  ],
+  "pos": [
+   "p",
+   "c"
+  ]
+ },
+ {
+  "id": "hsk4-0863",
+  "hanzi": "油",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "yóu",
+  "readings": [
+   "yóu"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0864",
+  "hanzi": "游玩",
+  "traditional": "遊玩",
+  "level": "4",
+  "pinyin": "yóu wán",
+  "readings": [
+   "yóu wán"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0865",
+  "hanzi": "有趣",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "yǒu qù",
+  "readings": [
+   "yǒu qù"
+  ],
+  "pos": [
+   "a"
+  ]
+ },
+ {
+  "id": "hsk4-0866",
+  "hanzi": "有效",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "yǒu xiào",
+  "readings": [
+   "yǒu xiào"
+  ],
+  "pos": [
+   "a",
+   "ad"
+  ]
+ },
+ {
+  "id": "hsk4-0867",
+  "hanzi": "有着",
+  "traditional": "有著",
+  "level": "4",
+  "pinyin": "yǒu zhe",
+  "readings": [
+   "yǒu zhe"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0868",
+  "hanzi": "友好",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "Yǒu hǎo",
+  "readings": [
+   "Yǒu hǎo",
+   "yǒu hǎo"
+  ],
+  "pos": [
+   "a",
+   "ad"
+  ]
+ },
+ {
+  "id": "hsk4-0869",
+  "hanzi": "友情",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "yǒu qíng",
+  "readings": [
+   "yǒu qíng"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0870",
+  "hanzi": "友谊",
+  "traditional": "友誼",
+  "level": "4",
+  "pinyin": "yǒu yì",
+  "readings": [
+   "yǒu yì"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0871",
+  "hanzi": "于是",
+  "traditional": "於是",
+  "level": "4",
+  "pinyin": "yú shì",
+  "readings": [
+   "yú shì"
+  ],
+  "pos": [
+   "cc"
+  ]
+ },
+ {
+  "id": "hsk4-0872",
+  "hanzi": "愉快",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "yú kuài",
+  "readings": [
+   "yú kuài"
+  ],
+  "pos": [
+   "a",
+   "ad",
+   "an"
+  ]
+ },
+ {
+  "id": "hsk4-0873",
+  "hanzi": "与",
+  "traditional": "與",
+  "level": "4",
+  "pinyin": "yú",
+  "readings": [
+   "yú",
+   "yǔ",
+   "yù"
+  ],
+  "pos": [
+   "p",
+   "cc"
+  ]
+ },
+ {
+  "id": "hsk4-0874",
+  "hanzi": "语法",
+  "traditional": "語法",
+  "level": "4",
+  "pinyin": "yǔ fǎ",
+  "readings": [
+   "yǔ fǎ"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0875",
+  "hanzi": "预习",
+  "traditional": "預習",
+  "level": "4",
+  "pinyin": "yù xí",
+  "readings": [
+   "yù xí"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0876",
+  "hanzi": "原来",
+  "traditional": "原來",
+  "level": "4",
+  "pinyin": "yuán lái",
+  "readings": [
+   "yuán lái"
+  ],
+  "pos": [
+   "d",
+   "b"
+  ]
+ },
+ {
+  "id": "hsk4-0877",
+  "hanzi": "原谅",
+  "traditional": "原諒",
+  "level": "4",
+  "pinyin": "yuán liàng",
+  "readings": [
+   "yuán liàng"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0878",
+  "hanzi": "原因",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "yuán yīn",
+  "readings": [
+   "yuán yīn"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0879",
+  "hanzi": "远离",
+  "traditional": "遠離",
+  "level": "4",
+  "pinyin": "yuǎn lí",
+  "readings": [
+   "yuǎn lí"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0880",
+  "hanzi": "院长",
+  "traditional": "院長",
+  "level": "4",
+  "pinyin": "yuàn zhǎng",
+  "readings": [
+   "yuàn zhǎng"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0881",
+  "hanzi": "院子",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "yuàn zi",
+  "readings": [
+   "yuàn zi"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0882",
+  "hanzi": "约",
+  "traditional": "約",
+  "level": "4",
+  "pinyin": "yāo",
+  "readings": [
+   "yāo",
+   "yuē"
+  ],
+  "pos": [
+   "d",
+   "b",
+   "v",
+   "g"
+  ]
+ },
+ {
+  "id": "hsk4-0883",
+  "hanzi": "约会",
+  "traditional": "約會",
+  "level": "4",
+  "pinyin": "yuē huì",
+  "readings": [
+   "yuē huì"
+  ],
+  "pos": [
+   "v",
+   "n",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0884",
+  "hanzi": "月饼",
+  "traditional": "月餅",
+  "level": "4",
+  "pinyin": "yuè bǐng",
+  "readings": [
+   "yuè bǐng"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0885",
+  "hanzi": "月份",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "yuè fèn",
+  "readings": [
+   "yuè fèn"
+  ],
+  "pos": [
+   "t",
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0886",
+  "hanzi": "阅读",
+  "traditional": "閱讀",
+  "level": "4",
+  "pinyin": "yuè dú",
+  "readings": [
+   "yuè dú"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0887",
+  "hanzi": "云",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "yún",
+  "readings": [
+   "yún",
+   "Yún"
+  ],
+  "pos": [
+   "n",
+   "g",
+   "b"
+  ]
+ },
+ {
+  "id": "hsk4-0888",
+  "hanzi": "允许",
+  "traditional": "允許",
+  "level": "4",
+  "pinyin": "yǔn xǔ",
+  "readings": [
+   "yǔn xǔ"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0889",
+  "hanzi": "杂志",
+  "traditional": "雜誌",
+  "level": "4",
+  "pinyin": "zá zhì",
+  "readings": [
+   "zá zhì"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0890",
+  "hanzi": "再次",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "zài cì",
+  "readings": [
+   "zài cì"
+  ],
+  "pos": [
+   "d",
+   "c"
+  ]
+ },
+ {
+  "id": "hsk4-0891",
+  "hanzi": "再说",
+  "traditional": "再說",
+  "level": "4",
+  "pinyin": "zài shuō",
+  "readings": [
+   "zài shuō"
+  ],
+  "pos": [
+   "v",
+   "c"
+  ]
+ },
+ {
+  "id": "hsk4-0892",
+  "hanzi": "暂时",
+  "traditional": "暫時",
+  "level": "4",
+  "pinyin": "zàn shí",
+  "readings": [
+   "zàn shí"
+  ],
+  "pos": [
+   "d",
+   "b"
+  ]
+ },
+ {
+  "id": "hsk4-0893",
+  "hanzi": "暂停",
+  "traditional": "暫停",
+  "level": "4",
+  "pinyin": "zàn tíng",
+  "readings": [
+   "zàn tíng"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0894",
+  "hanzi": "早餐",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "zǎo cān",
+  "readings": [
+   "zǎo cān"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0895",
+  "hanzi": "早晨",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "zǎo chén",
+  "readings": [
+   "zǎo chén"
+  ],
+  "pos": [
+   "t"
+  ]
+ },
+ {
+  "id": "hsk4-0896",
+  "hanzi": "责任",
+  "traditional": "責任",
+  "level": "4",
+  "pinyin": "zé rèn",
+  "readings": [
+   "zé rèn"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0897",
+  "hanzi": "增加",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "zēng jiā",
+  "readings": [
+   "zēng jiā"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0898",
+  "hanzi": "增长",
+  "traditional": "增長",
+  "level": "4",
+  "pinyin": "zēng zhǎng",
+  "readings": [
+   "zēng zhǎng"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0899",
+  "hanzi": "招聘",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "zhāo pìn",
+  "readings": [
+   "zhāo pìn"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0900",
+  "hanzi": "者",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "zhě",
+  "readings": [
+   "zhě"
+  ],
+  "pos": [
+   "k",
+   "r",
+   "y",
+   "n",
+   "g",
+   "u"
+  ]
+ },
+ {
+  "id": "hsk4-0901",
+  "hanzi": "着火",
+  "traditional": "著火",
+  "level": "4",
+  "pinyin": "zháo huǒ",
+  "readings": [
+   "zháo huǒ"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0902",
+  "hanzi": "著名",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "zhù míng",
+  "readings": [
+   "zhù míng"
+  ],
+  "pos": []
+ },
+ {
+  "id": "hsk4-0903",
+  "hanzi": "真正",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "zhēn zhèng",
+  "readings": [
+   "zhēn zhèng"
+  ],
+  "pos": [
+   "b",
+   "d"
+  ]
+ },
+ {
+  "id": "hsk4-0904",
+  "hanzi": "整",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "zhěng",
+  "readings": [
+   "zhěng"
+  ],
+  "pos": [
+   "m",
+   "v",
+   "a"
+  ]
+ },
+ {
+  "id": "hsk4-0905",
+  "hanzi": "整个",
+  "traditional": "整個",
+  "level": "4",
+  "pinyin": "zhěng gè",
+  "readings": [
+   "zhěng gè"
+  ],
+  "pos": [
+   "b",
+   "m",
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0906",
+  "hanzi": "整理",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "zhěng lǐ",
+  "readings": [
+   "zhěng lǐ"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0907",
+  "hanzi": "正常",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "zhèng cháng",
+  "readings": [
+   "zhèng cháng"
+  ],
+  "pos": [
+   "a",
+   "ad"
+  ]
+ },
+ {
+  "id": "hsk4-0908",
+  "hanzi": "正好",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "zhèng hǎo",
+  "readings": [
+   "zhèng hǎo"
+  ],
+  "pos": [
+   "z"
+  ]
+ },
+ {
+  "id": "hsk4-0909",
+  "hanzi": "正确",
+  "traditional": "正確",
+  "level": "4",
+  "pinyin": "zhèng què",
+  "readings": [
+   "zhèng què"
+  ],
+  "pos": [
+   "a",
+   "ad"
+  ]
+ },
+ {
+  "id": "hsk4-0910",
+  "hanzi": "正式",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "zhèng shì",
+  "readings": [
+   "zhèng shì"
+  ],
+  "pos": [
+   "ad",
+   "a"
+  ]
+ },
+ {
+  "id": "hsk4-0911",
+  "hanzi": "证",
+  "traditional": "証",
+  "level": "4",
+  "pinyin": "zhèng",
+  "readings": [
+   "zhèng"
+  ],
+  "pos": [
+   "n",
+   "g"
+  ]
+ },
+ {
+  "id": "hsk4-0912",
+  "hanzi": "证件",
+  "traditional": "證件",
+  "level": "4",
+  "pinyin": "zhèng jiàn",
+  "readings": [
+   "zhèng jiàn"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0913",
+  "hanzi": "证明",
+  "traditional": "證明",
+  "level": "4",
+  "pinyin": "zhèng míng",
+  "readings": [
+   "zhèng míng"
+  ],
+  "pos": [
+   "v",
+   "n",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0914",
+  "hanzi": "之",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "zhī",
+  "readings": [
+   "zhī"
+  ],
+  "pos": [
+   "u",
+   "r",
+   "g"
+  ]
+ },
+ {
+  "id": "hsk4-0915",
+  "hanzi": "之后",
+  "traditional": "之後",
+  "level": "4",
+  "pinyin": "zhī hòu",
+  "readings": [
+   "zhī hòu"
+  ],
+  "pos": [
+   "f",
+   "t"
+  ]
+ },
+ {
+  "id": "hsk4-0916",
+  "hanzi": "之间",
+  "traditional": "之間",
+  "level": "4",
+  "pinyin": "zhī jiān",
+  "readings": [
+   "zhī jiān"
+  ],
+  "pos": [
+   "f"
+  ]
+ },
+ {
+  "id": "hsk4-0917",
+  "hanzi": "之前",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "zhī qián",
+  "readings": [
+   "zhī qián"
+  ],
+  "pos": [
+   "f"
+  ]
+ },
+ {
+  "id": "hsk4-0918",
+  "hanzi": "之中",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "zhī zhōng",
+  "readings": [
+   "zhī zhōng"
+  ],
+  "pos": [
+   "f"
+  ]
+ },
+ {
+  "id": "hsk4-0919",
+  "hanzi": "支持",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "zhī chí",
+  "readings": [
+   "zhī chí"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0920",
+  "hanzi": "支付",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "zhī fù",
+  "readings": [
+   "zhī fù"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0921",
+  "hanzi": "知识",
+  "traditional": "知識",
+  "level": "4",
+  "pinyin": "zhī shi",
+  "readings": [
+   "zhī shi"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0922",
+  "hanzi": "直接",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "zhí jiē",
+  "readings": [
+   "zhí jiē"
+  ],
+  "pos": [
+   "ad",
+   "a"
+  ]
+ },
+ {
+  "id": "hsk4-0923",
+  "hanzi": "值",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "zhí",
+  "readings": [
+   "zhí"
+  ],
+  "pos": [
+   "v",
+   "n",
+   "a"
+  ]
+ },
+ {
+  "id": "hsk4-0924",
+  "hanzi": "值得",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "zhí de",
+  "readings": [
+   "zhí de"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0925",
+  "hanzi": "职业",
+  "traditional": "職業",
+  "level": "4",
+  "pinyin": "zhí yè",
+  "readings": [
+   "zhí yè"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0926",
+  "hanzi": "植物",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "zhí wù",
+  "readings": [
+   "zhí wù"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0927",
+  "hanzi": "只好",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "zhǐ hǎo",
+  "readings": [
+   "zhǐ hǎo"
+  ],
+  "pos": [
+   "d"
+  ]
+ },
+ {
+  "id": "hsk4-0928",
+  "hanzi": "指",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "zhǐ",
+  "readings": [
+   "zhǐ"
+  ],
+  "pos": [
+   "v",
+   "g"
+  ]
+ },
+ {
+  "id": "hsk4-0929",
+  "hanzi": "指出",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "zhǐ chū",
+  "readings": [
+   "zhǐ chū"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0930",
+  "hanzi": "至少",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "zhì shǎo",
+  "readings": [
+   "zhì shǎo"
+  ],
+  "pos": [
+   "d"
+  ]
+ },
+ {
+  "id": "hsk4-0931",
+  "hanzi": "质量",
+  "traditional": "質量",
+  "level": "4",
+  "pinyin": "zhì liàng",
+  "readings": [
+   "zhì liàng"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0932",
+  "hanzi": "中餐",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "zhōng cān",
+  "readings": [
+   "zhōng cān"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0933",
+  "hanzi": "中年",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "zhōng nián",
+  "readings": [
+   "zhōng nián"
+  ],
+  "pos": [
+   "t"
+  ]
+ },
+ {
+  "id": "hsk4-0934",
+  "hanzi": "重",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "chóng",
+  "readings": [
+   "chóng",
+   "zhòng"
+  ],
+  "pos": [
+   "a",
+   "d",
+   "v",
+   "q",
+   "g"
+  ]
+ },
+ {
+  "id": "hsk4-0935",
+  "hanzi": "重点",
+  "traditional": "重點",
+  "level": "4",
+  "pinyin": "chóng diǎn",
+  "readings": [
+   "chóng diǎn",
+   "zhòng diǎn"
+  ],
+  "pos": [
+   "n",
+   "d"
+  ]
+ },
+ {
+  "id": "hsk4-0936",
+  "hanzi": "重视",
+  "traditional": "重視",
+  "level": "4",
+  "pinyin": "zhòng shì",
+  "readings": [
+   "zhòng shì"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0937",
+  "hanzi": "重新",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "chóng xīn",
+  "readings": [
+   "chóng xīn"
+  ],
+  "pos": [
+   "d"
+  ]
+ },
+ {
+  "id": "hsk4-0938",
+  "hanzi": "周围",
+  "traditional": "周圍",
+  "level": "4",
+  "pinyin": "zhōu wéi",
+  "readings": [
+   "zhōu wéi"
+  ],
+  "pos": [
+   "f"
+  ]
+ },
+ {
+  "id": "hsk4-0939",
+  "hanzi": "主意",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "zhǔ yi",
+  "readings": [
+   "zhǔ yi"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0940",
+  "hanzi": "祝",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "Zhù",
+  "readings": [
+   "Zhù",
+   "zhù"
+  ],
+  "pos": [
+   "v",
+   "nr"
+  ]
+ },
+ {
+  "id": "hsk4-0941",
+  "hanzi": "祝贺",
+  "traditional": "祝賀",
+  "level": "4",
+  "pinyin": "zhù hè",
+  "readings": [
+   "zhù hè"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0942",
+  "hanzi": "专门",
+  "traditional": "專門",
+  "level": "4",
+  "pinyin": "zhuān mén",
+  "readings": [
+   "zhuān mén"
+  ],
+  "pos": [
+   "d",
+   "b"
+  ]
+ },
+ {
+  "id": "hsk4-0943",
+  "hanzi": "专业",
+  "traditional": "專業",
+  "level": "4",
+  "pinyin": "zhuān yè",
+  "readings": [
+   "zhuān yè"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0944",
+  "hanzi": "转",
+  "traditional": "轉",
+  "level": "4",
+  "pinyin": "zhuǎi",
+  "readings": [
+   "zhuǎi",
+   "zhuǎn",
+   "zhuàn"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0945",
+  "hanzi": "转机",
+  "traditional": "轉機",
+  "level": "4",
+  "pinyin": "zhuǎn jī",
+  "readings": [
+   "zhuǎn jī"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0946",
+  "hanzi": "赚",
+  "traditional": "賺",
+  "level": "4",
+  "pinyin": "zhuàn",
+  "readings": [
+   "zhuàn",
+   "zuàn"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0947",
+  "hanzi": "装",
+  "traditional": "裝",
+  "level": "4",
+  "pinyin": "zhuāng",
+  "readings": [
+   "zhuāng"
+  ],
+  "pos": [
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0948",
+  "hanzi": "准",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "zhǔn",
+  "readings": [
+   "zhǔn"
+  ],
+  "pos": [
+   "a",
+   "d",
+   "h",
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0949",
+  "hanzi": "准确",
+  "traditional": "準確",
+  "level": "4",
+  "pinyin": "zhǔn què",
+  "readings": [
+   "zhǔn què"
+  ],
+  "pos": [
+   "a",
+   "ad"
+  ]
+ },
+ {
+  "id": "hsk4-0950",
+  "hanzi": "准时",
+  "traditional": "準時",
+  "level": "4",
+  "pinyin": "zhǔn shí",
+  "readings": [
+   "zhǔn shí"
+  ],
+  "pos": [
+   "ad",
+   "a",
+   "an"
+  ]
+ },
+ {
+  "id": "hsk4-0951",
+  "hanzi": "资料",
+  "traditional": "資料",
+  "level": "4",
+  "pinyin": "zī liào",
+  "readings": [
+   "zī liào"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0952",
+  "hanzi": "仔细",
+  "traditional": "仔細",
+  "level": "4",
+  "pinyin": "zǐ xì",
+  "readings": [
+   "zǐ xì"
+  ],
+  "pos": [
+   "ad",
+   "a"
+  ]
+ },
+ {
+  "id": "hsk4-0953",
+  "hanzi": "自",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "zì",
+  "readings": [
+   "zì"
+  ],
+  "pos": [
+   "p",
+   "r",
+   "d"
+  ]
+ },
+ {
+  "id": "hsk4-0954",
+  "hanzi": "自然",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "zì rán",
+  "readings": [
+   "zì rán"
+  ],
+  "pos": [
+   "n",
+   "d",
+   "a"
+  ]
+ },
+ {
+  "id": "hsk4-0955",
+  "hanzi": "自信",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "zì xìn",
+  "readings": [
+   "zì xìn"
+  ],
+  "pos": [
+   "v",
+   "an",
+   "a",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0956",
+  "hanzi": "自学",
+  "traditional": "自學",
+  "level": "4",
+  "pinyin": "zì xué",
+  "readings": [
+   "zì xué"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0957",
+  "hanzi": "总结",
+  "traditional": "總結",
+  "level": "4",
+  "pinyin": "zǒng jié",
+  "readings": [
+   "zǒng jié"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0958",
+  "hanzi": "租",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "zū",
+  "readings": [
+   "zū"
+  ],
+  "pos": [
+   "v",
+   "g"
+  ]
+ },
+ {
+  "id": "hsk4-0959",
+  "hanzi": "组",
+  "traditional": "組",
+  "level": "4",
+  "pinyin": "Zǔ",
+  "readings": [
+   "Zǔ",
+   "zǔ"
+  ],
+  "pos": [
+   "n",
+   "q",
+   "g",
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0960",
+  "hanzi": "最终",
+  "traditional": "最終",
+  "level": "4",
+  "pinyin": "zuì zhōng",
+  "readings": [
+   "zuì zhōng"
+  ],
+  "pos": [
+   "d",
+   "b"
+  ]
+ },
+ {
+  "id": "hsk4-0961",
+  "hanzi": "尊重",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "zūn zhòng",
+  "readings": [
+   "zūn zhòng"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ]
+ },
+ {
+  "id": "hsk4-0962",
+  "hanzi": "左右",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "zuǒ yòu",
+  "readings": [
+   "zuǒ yòu"
+  ],
+  "pos": [
+   "m",
+   "f",
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0963",
+  "hanzi": "作家",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "zuò jiā",
+  "readings": [
+   "zuò jiā"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0964",
+  "hanzi": "作品",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "zuò pǐn",
+  "readings": [
+   "zuò pǐn"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0965",
+  "hanzi": "作为",
+  "traditional": "作為",
+  "level": "4",
+  "pinyin": "zuò wéi",
+  "readings": [
+   "zuò wéi"
+  ],
+  "pos": [
+   "p",
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0966",
+  "hanzi": "作文",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "zuò wén",
+  "readings": [
+   "zuò wén"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0967",
+  "hanzi": "作用",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "zuò yòng",
+  "readings": [
+   "zuò yòng"
+  ],
+  "pos": [
+   "n",
+   "v"
+  ]
+ },
+ {
+  "id": "hsk4-0968",
+  "hanzi": "作者",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "zuò zhě",
+  "readings": [
+   "zuò zhě"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0969",
+  "hanzi": "座",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "zuò",
+  "readings": [
+   "zuò"
+  ],
+  "pos": [
+   "q",
+   "g"
+  ]
+ },
+ {
+  "id": "hsk4-0970",
+  "hanzi": "座位",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "zuò wèi",
+  "readings": [
+   "zuò wèi"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0971",
+  "hanzi": "做法",
+  "traditional": null,
+  "level": "4",
+  "pinyin": "zuò fǎ",
+  "readings": [
+   "zuò fǎ"
+  ],
+  "pos": [
+   "n"
+  ]
+ },
+ {
+  "id": "hsk4-0972",
+  "hanzi": "做梦",
+  "traditional": "做夢",
+  "level": "4",
+  "pinyin": "zuò mèng",
+  "readings": [
+   "zuò mèng"
+  ],
+  "pos": [
+   "v"
+  ]
+ }
+]

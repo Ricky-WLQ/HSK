@@ -1,0 +1,42 @@
+{
+ "standard": "HSK 3.0 (2025 syllabus)",
+ "source": "drkameleon/complete-hsk-vocabulary (MIT) exclusive/newest",
+ "note": "Facts only (hanzi/pinyin/pos/level). English definitions generated separately with DeepSeek.",
+ "levels": [
+  {
+   "level": "1",
+   "file": "hsk1.json",
+   "count": 294
+  },
+  {
+   "level": "2",
+   "file": "hsk2.json",
+   "count": 197
+  },
+  {
+   "level": "3",
+   "file": "hsk3.json",
+   "count": 487
+  },
+  {
+   "level": "4",
+   "file": "hsk4.json",
+   "count": 972
+  },
+  {
+   "level": "5",
+   "file": "hsk5.json",
+   "count": 1547
+  },
+  {
+   "level": "6",
+   "file": "hsk6.json",
+   "count": 1684
+  },
+  {
+   "level": "7-9",
+   "file": "hsk7-9.json",
+   "count": 4876
+  }
+ ]
+}

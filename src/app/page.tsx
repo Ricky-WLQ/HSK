@@ -38,7 +38,7 @@ export default async function Home() {
             <Link href={primaryHref} className="btn-solid btn-solid-primary">
               {signedIn ? t.home.goToDashboard : t.home.getStarted}
             </Link>
-            <Link href={primaryHref} className="btn-solid btn-solid-outline">
+            <Link href="/vocab" className="btn-solid btn-solid-outline">
               {t.home.exploreLevels}
             </Link>
           </div>

@@ -44,6 +44,11 @@ export default async function DashboardPage() {
               {t.dashboard.roleLabel}: {role}
             </span>
           </div>
+          <div className="mt-6 flex flex-wrap gap-3">
+            <Link href="/vocab" className="btn-solid btn-solid-primary">
+              {t.vocab.title}
+            </Link>
+          </div>
         </div>
       </main>
     </div>
