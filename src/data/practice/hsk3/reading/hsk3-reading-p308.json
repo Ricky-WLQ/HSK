@@ -1,0 +1,118 @@
+{
+ "id": "hsk3-reading-p308",
+ "level": "3",
+ "section": "reading",
+ "partKey": "reading-p3",
+ "title": "HSK3 Reading P3",
+ "titleZh": "阅读 第三部分（短文理解）",
+ "groups": [
+  {
+   "instruction": "请阅读下面的短文，然后根据短文内容选择正确答案。",
+   "passage": "小张最近总是头疼，他去医院看病。医生检查后说：“你的头疼是因为玩手机太多，睡觉太少。你要注意休息，每天睡8个小时。还要少看手机。”小张听了医生的话，回家后开始早睡，一周后他的头就不疼了。",
+   "questions": [
+    {
+     "prompt": "小张为什么头疼？",
+     "options": [
+      {
+       "label": "A",
+       "text": "玩手机太多",
+       "pinyin": "wán shǒu jī tài duō"
+      },
+      {
+       "label": "B",
+       "text": "运动太多",
+       "pinyin": "yùn dòng tài duō"
+      },
+      {
+       "label": "C",
+       "text": "吃饭太少",
+       "pinyin": "chī fàn tài shǎo"
+      }
+     ],
+     "correctAnswer": "A",
+     "explanation": "医生指出小张头疼是因为玩手机太多、睡觉太少，所以“玩手机太多”是正确原因。",
+     "id": "q1",
+     "type": "passage-mcq",
+     "pinyin": "xiǎo zhāng wèi shén me tóu téng ？"
+    },
+    {
+     "prompt": "医生建议小张做什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "多运动",
+       "pinyin": "duō yùn dòng"
+      },
+      {
+       "label": "B",
+       "text": "多玩手机",
+       "pinyin": "duō wán shǒu jī"
+      },
+      {
+       "label": "C",
+       "text": "每天睡8个小时",
+       "pinyin": "měi tiān shuì 8 gè xiǎo shí"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "医生明确说“每天睡8个小时”，这是建议之一。",
+     "id": "q2",
+     "type": "passage-mcq",
+     "pinyin": "yī shēng jiàn yì xiǎo zhāng zuò shén me ？"
+    },
+    {
+     "prompt": "小张回家后做了什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "去医院",
+       "pinyin": "qù yī yuàn"
+      },
+      {
+       "label": "B",
+       "text": "开始早睡",
+       "pinyin": "kāi shǐ zǎo shuì"
+      },
+      {
+       "label": "C",
+       "text": "继续玩手机",
+       "pinyin": "jì xù wán shǒu jī"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "短文说“回家后开始早睡”，所以“开始早睡”是正确的。",
+     "id": "q3",
+     "type": "passage-mcq",
+     "pinyin": "xiǎo zhāng huí jiā hòu zuò le shén me ？"
+    },
+    {
+     "prompt": "一周后小张怎么样了？",
+     "options": [
+      {
+       "label": "A",
+       "text": "头还疼",
+       "pinyin": "tóu hái téng"
+      },
+      {
+       "label": "B",
+       "text": "又去医院",
+       "pinyin": "yòu qù yī yuàn"
+      },
+      {
+       "label": "C",
+       "text": "头不疼了",
+       "pinyin": "tóu bù téng le"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "最后一句提到“一周后他的头就不疼了”，所以头不疼了。",
+     "id": "q4",
+     "type": "passage-mcq",
+     "pinyin": "yī zhōu hòu xiǎo zhāng zěn me yàng le ？"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

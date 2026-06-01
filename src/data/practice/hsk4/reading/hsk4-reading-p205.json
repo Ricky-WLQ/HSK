@@ -1,0 +1,118 @@
+{
+ "id": "hsk4-reading-p205",
+ "level": "4",
+ "section": "reading",
+ "partKey": "reading-p2",
+ "title": "HSK4 Reading P2",
+ "titleZh": "阅读 第二部分（短文理解）",
+ "groups": [
+  {
+   "instruction": "请根据短文内容，选择正确答案。",
+   "passage": "上周末，小区里举办了一次旧物交换活动。很多居民带着自己不用的东西来参加，有的带着旧书，有的带着玩具，还有的带着小家电。小李用一本旧书换到了一盆漂亮的植物。大家觉得这个活动既省钱又环保，减少了浪费。活动结束后，组织者把剩下的物品都捐给了慈善机构，这样既帮助了需要的人，又减少了垃圾。",
+   "questions": [
+    {
+     "prompt": "小区里举办的是什么活动？",
+     "options": [
+      {
+       "label": "A",
+       "text": "旧书出售活动"
+      },
+      {
+       "label": "B",
+       "text": "植物种植活动"
+      },
+      {
+       "label": "C",
+       "text": "慈善捐款活动"
+      },
+      {
+       "label": "D",
+       "text": "旧物交换活动"
+      }
+     ],
+     "correctAnswer": "D",
+     "explanation": "短文第一句明确说“小区里举办了一次旧物交换活动”，所以是旧物交换活动。",
+     "id": "q1",
+     "type": "passage-mcq"
+    },
+    {
+     "prompt": "小李用旧书换到了什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "一个小家电"
+      },
+      {
+       "label": "B",
+       "text": "一盆植物"
+      },
+      {
+       "label": "C",
+       "text": "一个玩具"
+      },
+      {
+       "label": "D",
+       "text": "一本新书"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "文中说“小李用一本旧书换到了一盆漂亮的植物”，所以换到的是植物。",
+     "id": "q2",
+     "type": "passage-mcq"
+    },
+    {
+     "prompt": "活动结束后，剩下的东西怎么处理了？",
+     "options": [
+      {
+       "label": "A",
+       "text": "捐给了慈善机构"
+      },
+      {
+       "label": "B",
+       "text": "被扔掉了"
+      },
+      {
+       "label": "C",
+       "text": "留在原地不管"
+      },
+      {
+       "label": "D",
+       "text": "被大家带回家"
+      }
+     ],
+     "correctAnswer": "A",
+     "explanation": "短文最后说“组织者把剩下的物品都捐给了慈善机构”，所以是捐给了慈善机构。",
+     "id": "q3",
+     "type": "passage-mcq"
+    },
+    {
+     "prompt": "大家认为这个活动有什么好处？",
+     "options": [
+      {
+       "label": "A",
+       "text": "可以认识新朋友"
+      },
+      {
+       "label": "B",
+       "text": "既省钱又环保"
+      },
+      {
+       "label": "C",
+       "text": "可以买新东西"
+      },
+      {
+       "label": "D",
+       "text": "可以练习交流"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "文中提到“大家觉得这个活动既省钱又环保”，所以好处是既省钱又环保。",
+     "id": "q4",
+     "type": "passage-mcq"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

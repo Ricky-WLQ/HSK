@@ -1,0 +1,118 @@
+{
+ "id": "hsk4-reading-p318",
+ "level": "4",
+ "section": "reading",
+ "partKey": "reading-p3",
+ "title": "HSK4 Reading P3",
+ "titleZh": "阅读 第二部分B（中篇理解）",
+ "groups": [
+  {
+   "instruction": "请阅读下面短文，然后根据短文内容回答问题。",
+   "passage": "小王在城市工作已经五年了，每天都很忙。上个月，他决定去乡村住一个星期，想体验一下不同的生活。他住在一个农民家里，每天早上听到鸟叫醒来，空气很新鲜。白天，他帮农民种菜、喂鸡，虽然很累，但觉得很有意思。晚上，村里很安静，没有城市的噪音。一个星期后，小王回到城市，他发现自己更喜欢城市的工作机会和方便的交通，但也学会了享受乡村的宁静。",
+   "questions": [
+    {
+     "prompt": "小王去乡村的主要目的是什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "看望农民朋友"
+      },
+      {
+       "label": "B",
+       "text": "去乡村工作"
+      },
+      {
+       "label": "C",
+       "text": "学习种菜技术"
+      },
+      {
+       "label": "D",
+       "text": "体验不同的生活"
+      }
+     ],
+     "correctAnswer": "D",
+     "explanation": "短文开头说“他决定去乡村住一个星期，想体验一下不同的生活”，所以主要目的是体验不同的生活。",
+     "id": "q1",
+     "type": "passage-mcq"
+    },
+    {
+     "prompt": "关于乡村生活，下列哪一项是正确的？",
+     "options": [
+      {
+       "label": "A",
+       "text": "乡村的早晨很吵闹"
+      },
+      {
+       "label": "B",
+       "text": "乡村的晚上很安静"
+      },
+      {
+       "label": "C",
+       "text": "乡村的工作机会比城市多"
+      },
+      {
+       "label": "D",
+       "text": "乡村的交通很方便"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "短文中提到“晚上，村里很安静，没有城市的噪音”，所以乡村晚上安静是正确的。",
+     "id": "q2",
+     "type": "passage-mcq"
+    },
+    {
+     "prompt": "小王对乡村有什么感觉？",
+     "options": [
+      {
+       "label": "A",
+       "text": "他非常喜欢乡村，决定以后住在那里"
+      },
+      {
+       "label": "B",
+       "text": "他喜欢乡村的宁静，但更爱城市的机会"
+      },
+      {
+       "label": "C",
+       "text": "他觉得乡村生活很无聊"
+      },
+      {
+       "label": "D",
+       "text": "他认为乡村的农活太累，不值得体验"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "短文最后说“他发现自己更喜欢城市的工作机会和方便的交通，但也学会了享受乡村的宁静”，说明他喜欢乡村的宁静，但更爱城市的机会。",
+     "id": "q3",
+     "type": "passage-mcq"
+    },
+    {
+     "prompt": "根据短文，我们可以推断出什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "乡村的农民生活很富裕"
+      },
+      {
+       "label": "B",
+       "text": "小王以后不会再回乡村了"
+      },
+      {
+       "label": "C",
+       "text": "城市和乡村各有优点和缺点"
+      },
+      {
+       "label": "D",
+       "text": "小王在乡村每天都很轻松"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "短文描述了城市的工作机会和交通方便，以及乡村的宁静和新鲜空气，两者对比说明各有优缺点。",
+     "id": "q4",
+     "type": "passage-mcq"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

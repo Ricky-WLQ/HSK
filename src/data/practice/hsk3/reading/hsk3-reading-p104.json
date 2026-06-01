@@ -1,0 +1,89 @@
+{
+ "id": "hsk3-reading-p104",
+ "level": "3",
+ "section": "reading",
+ "partKey": "reading-p1",
+ "title": "HSK3 Reading P1",
+ "titleZh": "阅读 第一部分（句子匹配）",
+ "groups": [
+  {
+   "instruction": "请从下面6个句子中，为每个问题选择一个最合适的搭配句。每个问题只有一个正确答案。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "这部电影的评分很高，大家都很喜欢。",
+     "pinyin": "zhè bù diàn yǐng de píng fēn hěn gāo ， dà jiā dōu hěn xǐ huān 。"
+    },
+    {
+     "label": "B",
+     "text": "我们买了两张票，晚上七点的。",
+     "pinyin": "wǒ men mǎi le liǎng zhāng piào ， wǎn shàng qī diǎn de 。"
+    },
+    {
+     "label": "C",
+     "text": "电影院在商场三楼，坐电梯上去。",
+     "pinyin": "diàn yǐng yuàn zài shāng chǎng sān lóu ， zuò diàn tī shàng qù 。"
+    },
+    {
+     "label": "D",
+     "text": "爆米花和可乐是看电影的标配。",
+     "pinyin": "bào mǐ huā hé kě lè shì kàn diàn yǐng de biāo pèi 。"
+    },
+    {
+     "label": "E",
+     "text": "排队买票的人很多，我们要等一会儿。",
+     "pinyin": "pái duì mǎi piào de rén hěn duō ， wǒ men yào děng yī huì er 。"
+    },
+    {
+     "label": "F",
+     "text": "他喜欢看动作片，不喜欢爱情片。",
+     "pinyin": "tā xǐ huān kàn dòng zuò piàn ， bù xǐ huān ài qíng piàn 。"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "为什么我们要提前去电影院？",
+     "correctAnswer": "E",
+     "explanation": "排队买票的人很多，所以要提前去，不然要等很久。",
+     "id": "q1",
+     "type": "match",
+     "pinyin": "wèi shén me wǒ men yào tí qián qù diàn yǐng yuàn ？"
+    },
+    {
+     "prompt": "他喜欢什么类型的电影？",
+     "correctAnswer": "F",
+     "explanation": "句子中说‘他喜欢看动作片，不喜欢爱情片’，所以答案是动作片。",
+     "id": "q2",
+     "type": "match",
+     "pinyin": "tā xǐ huān shén me lèi xíng de diàn yǐng ？"
+    },
+    {
+     "prompt": "电影票是什么时候的？",
+     "correctAnswer": "B",
+     "explanation": "句子中说‘晚上七点的’，所以电影票时间是晚上七点。",
+     "id": "q3",
+     "type": "match",
+     "pinyin": "diàn yǐng piào shì shén me shí hòu de ？"
+    },
+    {
+     "prompt": "这部电影怎么样？",
+     "correctAnswer": "A",
+     "explanation": "句子中说‘评分很高，大家都很喜欢’，说明电影很好。",
+     "id": "q4",
+     "type": "match",
+     "pinyin": "zhè bù diàn yǐng zěn me yàng ？"
+    },
+    {
+     "prompt": "电影院在哪里？",
+     "correctAnswer": "C",
+     "explanation": "句子中说‘在商场三楼’，所以电影院在商场三楼。",
+     "id": "q5",
+     "type": "match",
+     "pinyin": "diàn yǐng yuàn zài nǎ lǐ ？"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

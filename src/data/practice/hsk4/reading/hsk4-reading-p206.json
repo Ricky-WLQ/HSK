@@ -1,0 +1,118 @@
+{
+ "id": "hsk4-reading-p206",
+ "level": "4",
+ "section": "reading",
+ "partKey": "reading-p2",
+ "title": "HSK4 Reading P2",
+ "titleZh": "阅读 第二部分（短文理解）",
+ "groups": [
+  {
+   "instruction": "根据短文内容，选择正确答案。",
+   "passage": "小明是一名公司职员，最近因为工作太忙，常常失眠。他去看医生，医生告诉他，这是压力太大引起的，建议他每天下班后散步半小时，睡前喝一杯热牛奶，并且不要看手机。小明按照医生的建议做了，一个星期后，他的睡眠质量明显提高了。",
+   "questions": [
+    {
+     "prompt": "小明为什么失眠？",
+     "options": [
+      {
+       "label": "A",
+       "text": "白天睡太多"
+      },
+      {
+       "label": "B",
+       "text": "工作太忙压力大"
+      },
+      {
+       "label": "C",
+       "text": "晚上吃太多"
+      },
+      {
+       "label": "D",
+       "text": "不喜欢运动"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "短文第一句说小明因为工作太忙常常失眠，医生也指出是压力太大引起的。",
+     "id": "q1",
+     "type": "passage-mcq"
+    },
+    {
+     "prompt": "医生建议小明做什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "散步并喝热牛奶"
+      },
+      {
+       "label": "B",
+       "text": "多吃药"
+      },
+      {
+       "label": "C",
+       "text": "多喝咖啡"
+      },
+      {
+       "label": "D",
+       "text": "晚上工作"
+      }
+     ],
+     "correctAnswer": "A",
+     "explanation": "医生建议他下班后散步半小时，睡前喝一杯热牛奶，并且不要看手机。",
+     "id": "q2",
+     "type": "passage-mcq"
+    },
+    {
+     "prompt": "小明是怎么做的？",
+     "options": [
+      {
+       "label": "A",
+       "text": "继续加班"
+      },
+      {
+       "label": "B",
+       "text": "散步并喝热牛奶"
+      },
+      {
+       "label": "C",
+       "text": "玩手机"
+      },
+      {
+       "label": "D",
+       "text": "吃安眠药"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "短文说小明按照医生的建议做了，即散步和喝热牛奶。",
+     "id": "q3",
+     "type": "passage-mcq"
+    },
+    {
+     "prompt": "结果如何？",
+     "options": [
+      {
+       "label": "A",
+       "text": "睡眠质量变好了"
+      },
+      {
+       "label": "B",
+       "text": "失眠更严重"
+      },
+      {
+       "label": "C",
+       "text": "白天更累了"
+      },
+      {
+       "label": "D",
+       "text": "没有变化"
+      }
+     ],
+     "correctAnswer": "A",
+     "explanation": "短文最后说一个星期后，他的睡眠质量明显提高了。",
+     "id": "q4",
+     "type": "passage-mcq"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

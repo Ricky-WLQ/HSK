@@ -1,0 +1,73 @@
+{
+ "id": "hsk7-9-reading-p312",
+ "level": "7-9",
+ "section": "reading",
+ "partKey": "reading-p3",
+ "title": "HSK7-9 Reading P3",
+ "titleZh": "阅读 第三部分（简答题）",
+ "groups": [
+  {
+   "instruction": "请阅读下面的说明文，并根据文章内容回答5个问题。每个问题的答案不超过10个汉字，可以直接从文中提取或进行简短的同义转述。",
+   "passage": "延迟性肌肉酸痛（Delayed Onset Muscle Soreness, DOMS）是运动后常见的生理反应，尤其在不习惯的离心收缩后更为显著。其形成机制主要涉及肌纤维微观结构的损伤。当肌肉在运动中承受超出日常负荷的拉力时，肌节排列发生紊乱，Z线结构出现断裂，进而引发局部炎症反应。受损的肌纤维会释放组织胺、前列腺素等炎症介质，刺激神经末梢，产生酸痛感。DOMS并非乳酸堆积所致——乳酸通常在运动后一小时内清除完毕，而肌肉酸痛的高峰期一般在运动后24至72小时出现。目前认为，炎症反应是促使肌肉进行修复与超量恢复的关键环节。为缓解DOMS，常见的干预手段包括主动恢复（如低强度有氧运动）、冷热交替浴以及适度的静态拉伸。值得注意的是，消炎药物虽然能减轻疼痛，但可能抑制肌肉适应过程，因此不建议常规使用。",
+   "questions": [
+    {
+     "prompt": "延迟性肌肉酸痛主要出现在哪种肌肉收缩后？",
+     "correctAnswer": "离心收缩",
+     "acceptableAnswers": [
+      "离心收缩后",
+      "离心运动"
+     ],
+     "explanation": "原文第一句明确指出‘尤其在不习惯的离心收缩后更为显著’，因此DOMS主要出现在离心收缩后。",
+     "id": "q1",
+     "type": "short-answer"
+    },
+    {
+     "prompt": "DOMS的形成机制主要涉及什么损伤？",
+     "correctAnswer": "肌纤维微观结构损伤",
+     "acceptableAnswers": [
+      "肌纤维微观结构",
+      "肌节排列紊乱和Z线断裂"
+     ],
+     "explanation": "原文提到‘其形成机制主要涉及肌纤维微观结构的损伤’，后面具体说明了肌节排列紊乱和Z线结构断裂。",
+     "id": "q2",
+     "type": "short-answer"
+    },
+    {
+     "prompt": "乳酸堆积通常在运动后多久被清除？",
+     "correctAnswer": "一小时内",
+     "acceptableAnswers": [
+      "运动后一小时内",
+      "1小时内"
+     ],
+     "explanation": "原文明确写道‘乳酸通常在运动后一小时内清除完毕’。",
+     "id": "q3",
+     "type": "short-answer"
+    },
+    {
+     "prompt": "DOMS的高峰期一般出现在运动后多久？",
+     "correctAnswer": "24至72小时",
+     "acceptableAnswers": [
+      "24-72小时",
+      "运动后24到72小时"
+     ],
+     "explanation": "原文指出‘肌肉酸痛的高峰期一般在运动后24至72小时出现’。",
+     "id": "q4",
+     "type": "short-answer"
+    },
+    {
+     "prompt": "哪种缓解DOMS的方法不建议常规使用？",
+     "correctAnswer": "消炎药物",
+     "acceptableAnswers": [
+      "消炎药",
+      "抗炎药"
+     ],
+     "explanation": "原文最后一句表明‘消炎药物虽然能减轻疼痛，但可能抑制肌肉适应过程，因此不建议常规使用’。",
+     "id": "q5",
+     "type": "short-answer"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

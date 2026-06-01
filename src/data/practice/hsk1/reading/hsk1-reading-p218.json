@@ -1,0 +1,89 @@
+{
+ "id": "hsk1-reading-p218",
+ "level": "1",
+ "section": "reading",
+ "partKey": "reading-p2",
+ "title": "HSK1 Reading P2",
+ "titleZh": "阅读 第二部分（问答匹配）",
+ "groups": [
+  {
+   "instruction": "请从A-F中选择合适的回答。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "十五块。",
+     "pinyin": "shí wǔ kuài 。"
+    },
+    {
+     "label": "B",
+     "text": "现在去吧。",
+     "pinyin": "xiàn zài qù ba 。"
+    },
+    {
+     "label": "C",
+     "text": "我要买可乐。",
+     "pinyin": "wǒ yào mǎi kě lè 。"
+    },
+    {
+     "label": "D",
+     "text": "我很喜欢。",
+     "pinyin": "wǒ hěn xǐ huān 。"
+    },
+    {
+     "label": "E",
+     "text": "我没有钱了。",
+     "pinyin": "wǒ méi yǒu qián le 。"
+    },
+    {
+     "label": "F",
+     "text": "太贵了。",
+     "pinyin": "tài guì le 。"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "这本书多少钱？",
+     "correctAnswer": "A",
+     "explanation": "问题是询问书的价钱，“十五块”直接回答了价格。",
+     "id": "q1",
+     "type": "match",
+     "pinyin": "zhè běn shū duō shǎo qián ？"
+    },
+    {
+     "prompt": "你要买什么？",
+     "correctAnswer": "C",
+     "explanation": "问题问要买什么东西，“我要买可乐”说明了要买的物品。",
+     "id": "q2",
+     "type": "match",
+     "pinyin": "nǐ yào mǎi shén me ？"
+    },
+    {
+     "prompt": "这件衣服你喜欢吗？",
+     "correctAnswer": "D",
+     "explanation": "问题问是否喜欢这件衣服，“我很喜欢”表达了肯定的态度。",
+     "id": "q3",
+     "type": "match",
+     "pinyin": "zhè jiàn yī fú nǐ xǐ huān ma ？"
+    },
+    {
+     "prompt": "你还有钱吗？",
+     "correctAnswer": "E",
+     "explanation": "问题问是否还有钱，“我没有钱了”表示没有钱了。",
+     "id": "q4",
+     "type": "match",
+     "pinyin": "nǐ hái yǒu qián ma ？"
+    },
+    {
+     "prompt": "我们什么时候去？",
+     "correctAnswer": "B",
+     "explanation": "问题问去的时间，“现在去吧”表示立即出发。",
+     "id": "q5",
+     "type": "match",
+     "pinyin": "wǒ men shén me shí hòu qù ？"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

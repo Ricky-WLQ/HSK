@@ -1,0 +1,118 @@
+{
+ "id": "hsk4-reading-p214",
+ "level": "4",
+ "section": "reading",
+ "partKey": "reading-p2",
+ "title": "HSK4 Reading P2",
+ "titleZh": "阅读 第二部分（短文理解）",
+ "groups": [
+  {
+   "instruction": "请阅读下面短文，然后根据短文内容选择正确答案。",
+   "passage": "小王一直想买一台新笔记本电脑。双十一之前，他仔细比较了不同网站的价格，还看了很多用户的评价。他发现自己看中的那款电脑在双十一当天的价格反而比平时贵了200元。他觉得这很奇怪，后来才知道，有些商家会在节日前先提高价格，然后再打折。小王很失望，他决定不买了，等价格正常再说。最后他只买了一个需要的鼠标。",
+   "questions": [
+    {
+     "prompt": "小王在双十一之前做了什么准备？",
+     "options": [
+      {
+       "label": "A",
+       "text": "等双十一再决定"
+      },
+      {
+       "label": "B",
+       "text": "直接去商店买电脑"
+      },
+      {
+       "label": "C",
+       "text": "比较价格并看评价"
+      },
+      {
+       "label": "D",
+       "text": "向朋友借钱"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "短文中说“他仔细比较了不同网站的价格，还看了很多用户的评价”，因此他做了比较价格和看评价的准备。",
+     "id": "q1",
+     "type": "passage-mcq"
+    },
+    {
+     "prompt": "小王发现电脑价格有什么奇怪的现象？",
+     "options": [
+      {
+       "label": "A",
+       "text": "价格比平时便宜200元"
+      },
+      {
+       "label": "B",
+       "text": "价格比平时便宜100元"
+      },
+      {
+       "label": "C",
+       "text": "价格和平时一样"
+      },
+      {
+       "label": "D",
+       "text": "价格比平时贵了200元"
+      }
+     ],
+     "correctAnswer": "D",
+     "explanation": "短文中明确提到“那款电脑在双十一当天的价格反而比平时贵了200元”，所以是贵了200元。",
+     "id": "q2",
+     "type": "passage-mcq"
+    },
+    {
+     "prompt": "为什么双十一的价格反而更贵？",
+     "options": [
+      {
+       "label": "A",
+       "text": "因为小王看错了价格"
+      },
+      {
+       "label": "B",
+       "text": "因为电脑质量更好"
+      },
+      {
+       "label": "C",
+       "text": "因为商家先提价再打折"
+      },
+      {
+       "label": "D",
+       "text": "因为运费增加了"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "短文中说“有些商家会在节日前先提高价格，然后再打折”，这就是价格变贵的原因。",
+     "id": "q3",
+     "type": "passage-mcq"
+    },
+    {
+     "prompt": "最后小王买了什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "一个手机"
+      },
+      {
+       "label": "B",
+       "text": "一台新电脑"
+      },
+      {
+       "label": "C",
+       "text": "什么都没有买"
+      },
+      {
+       "label": "D",
+       "text": "一个鼠标"
+      }
+     ],
+     "correctAnswer": "D",
+     "explanation": "短文最后一句说“最后他只买了一个需要的鼠标”，因此他买了鼠标。",
+     "id": "q4",
+     "type": "passage-mcq"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

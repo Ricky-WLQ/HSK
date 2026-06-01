@@ -1,0 +1,89 @@
+{
+ "id": "hsk3-reading-p210",
+ "level": "3",
+ "section": "reading",
+ "partKey": "reading-p2",
+ "title": "HSK3 Reading P2",
+ "titleZh": "阅读 第二部分（词语填空）",
+ "groups": [
+  {
+   "instruction": "请从下面的词语中选择合适的填入各句的空白处。注意有一个词语是多余的。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "行李",
+     "pinyin": "xíng lǐ"
+    },
+    {
+     "label": "B",
+     "text": "飞机",
+     "pinyin": "fēi jī"
+    },
+    {
+     "label": "C",
+     "text": "到达",
+     "pinyin": "dào dá"
+    },
+    {
+     "label": "D",
+     "text": "出发",
+     "pinyin": "chū fā"
+    },
+    {
+     "label": "E",
+     "text": "票",
+     "pinyin": "piào"
+    },
+    {
+     "label": "F",
+     "text": "火车",
+     "pinyin": "huǒ chē"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "去外地旅行，首先要买一张（ ）。",
+     "correctAnswer": "E",
+     "explanation": "旅行需要购买车票或机票，所以这里用“票”。",
+     "id": "q1",
+     "type": "cloze-wordbank",
+     "pinyin": "qù wài dì lǚ xíng ， shǒu xiān yào mǎi yī zhāng （ ）。"
+    },
+    {
+     "prompt": "坐（ ）比坐汽车快很多，但是价格也高。",
+     "correctAnswer": "B",
+     "explanation": "飞机是速度很快的交通工具，比汽车快，价格也更高。",
+     "id": "q2",
+     "type": "cloze-wordbank",
+     "pinyin": "zuò （ ） bǐ zuò qì chē kuài hěn duō ， dàn shì jià gé yě gāo 。"
+    },
+    {
+     "prompt": "你的（ ）太重了，需要托运。",
+     "correctAnswer": "A",
+     "explanation": "旅行时带的箱子或包叫行李，太重的话需要办理托运。",
+     "id": "q3",
+     "type": "cloze-wordbank",
+     "pinyin": "nǐ de （ ） tài zhòng le ， xū yào tuō yùn 。"
+    },
+    {
+     "prompt": "火车上午九点（ ），我们八点半到火车站。",
+     "correctAnswer": "D",
+     "explanation": "火车从车站开动叫出发，所以这里填“出发”。",
+     "id": "q4",
+     "type": "cloze-wordbank",
+     "pinyin": "huǒ chē shàng wǔ jiǔ diǎn （ ）， wǒ men bā diǎn bàn dào huǒ chē zhàn 。"
+    },
+    {
+     "prompt": "从北京到广州，你可以选择坐（ ）或者高铁。",
+     "correctAnswer": "F",
+     "explanation": "高铁是火车的一种，这里与高铁并列，所以填“火车”。",
+     "id": "q5",
+     "type": "cloze-wordbank",
+     "pinyin": "cóng běi jīng dào guǎng zhōu ， nǐ kě yǐ xuǎn zé zuò （ ） huò zhě gāo tiě 。"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

@@ -1,0 +1,89 @@
+{
+ "id": "hsk3-reading-p215",
+ "level": "3",
+ "section": "reading",
+ "partKey": "reading-p2",
+ "title": "HSK3 Reading P2",
+ "titleZh": "阅读 第二部分（词语填空）",
+ "groups": [
+  {
+   "instruction": "请从下面选择合适的词语填入句子中的空白处，每个词语只能用一次。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "观众",
+     "pinyin": "guān zhòng"
+    },
+    {
+     "label": "B",
+     "text": "跳舞",
+     "pinyin": "tiào wǔ"
+    },
+    {
+     "label": "C",
+     "text": "表演",
+     "pinyin": "biǎo yǎn"
+    },
+    {
+     "label": "D",
+     "text": "钢琴",
+     "pinyin": "gāng qín"
+    },
+    {
+     "label": "E",
+     "text": "唱歌",
+     "pinyin": "chàng gē"
+    },
+    {
+     "label": "F",
+     "text": "画画",
+     "pinyin": "huà huà"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "音乐课上，老师弹（ ）给我们听。",
+     "correctAnswer": "D",
+     "explanation": "“弹钢琴”是固定搭配，表示演奏钢琴，其他词语均无法与“弹”搭配形成正确短语。",
+     "id": "q1",
+     "type": "cloze-wordbank",
+     "pinyin": "yīn yuè kè shàng ， lǎo shī dàn （ ） gěi wǒ men tīng 。"
+    },
+    {
+     "prompt": "妹妹每天都要（ ）一个小时，她想当歌手。",
+     "correctAnswer": "E",
+     "explanation": "“唱歌”是歌手的主要活动，每天练习唱歌符合想当歌手的语境。",
+     "id": "q2",
+     "type": "cloze-wordbank",
+     "pinyin": "mèi mèi měi tiān dōu yào （ ） yí gè xiǎo shí ， tā xiǎng dāng gē shǒu 。"
+    },
+    {
+     "prompt": "艺术节上，我们班准备（ ）一个话剧。",
+     "correctAnswer": "C",
+     "explanation": "“表演话剧”是常见搭配，表示演出话剧，其他词语如“唱歌”“跳舞”等不能与“话剧”直接搭配。",
+     "id": "q3",
+     "type": "cloze-wordbank",
+     "pinyin": "yì shù jié shàng ， wǒ men bān zhǔn bèi （ ） yí gè huà jù 。"
+    },
+    {
+     "prompt": "展厅里有很多人在（ ），他们画得真好看。",
+     "correctAnswer": "F",
+     "explanation": "“在画画”表示正在绘画，与后文“画得真好看”语义一致。",
+     "id": "q4",
+     "type": "cloze-wordbank",
+     "pinyin": "zhǎn tīng lǐ yǒu hěn duō rén zài （ ）， tā men huà dé zhēn hǎo kàn 。"
+    },
+    {
+     "prompt": "比赛的时候，很多（ ）在台下喊加油。",
+     "correctAnswer": "A",
+     "explanation": "“观众”指观看比赛或表演的人，在台下喊加油是观众的行为。",
+     "id": "q5",
+     "type": "cloze-wordbank",
+     "pinyin": "bǐ sài de shí hòu ， hěn duō （ ） zài tái xià hǎn jiā yóu 。"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

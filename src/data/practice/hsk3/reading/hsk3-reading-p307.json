@@ -1,0 +1,118 @@
+{
+ "id": "hsk3-reading-p307",
+ "level": "3",
+ "section": "reading",
+ "partKey": "reading-p3",
+ "title": "HSK3 Reading P3",
+ "titleZh": "阅读 第三部分（短文理解）",
+ "groups": [
+  {
+   "instruction": "请阅读下面的短文，然后根据短文内容选择正确答案。",
+   "passage": "今天下午，我和妈妈一起做饺子。我们先去买了肉和菜，回到家后，妈妈切菜，我和面。包饺子的时候，我包得不太好，妈妈教我，慢慢就会了。饺子煮熟了，我们一家人一起吃，爸爸说很好吃，我很开心。",
+   "questions": [
+    {
+     "prompt": "我和妈妈一起做了什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "看电影",
+       "pinyin": "kàn diàn yǐng"
+      },
+      {
+       "label": "B",
+       "text": "买衣服",
+       "pinyin": "mǎi yī fú"
+      },
+      {
+       "label": "C",
+       "text": "做饺子",
+       "pinyin": "zuò jiǎo zi"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "短文第一句说“我和妈妈一起做饺子”，所以正确答案是做饺子。",
+     "id": "q1",
+     "type": "passage-mcq",
+     "pinyin": "wǒ hé mā mā yì qǐ zuò le shén me ？"
+    },
+    {
+     "prompt": "包饺子的时候，我遇到了什么情况？",
+     "options": [
+      {
+       "label": "A",
+       "text": "妈妈不会包",
+       "pinyin": "mā mā bú huì bāo"
+      },
+      {
+       "label": "B",
+       "text": "我包得很好",
+       "pinyin": "wǒ bāo dé hěn hǎo"
+      },
+      {
+       "label": "C",
+       "text": "我包得不太好，妈妈教我",
+       "pinyin": "wǒ bāo dé bù tài hǎo ， mā mā jiào wǒ"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "短文中说“包饺子的时候，我包得不太好，妈妈教我”，所以正确答案是“我包得不太好，妈妈教我”。",
+     "id": "q2",
+     "type": "passage-mcq",
+     "pinyin": "bāo jiǎo zi de shí hòu ， wǒ yù dào le shén me qíng kuàng ？"
+    },
+    {
+     "prompt": "谁觉得饺子很好吃？",
+     "options": [
+      {
+       "label": "A",
+       "text": "妈妈",
+       "pinyin": "mā mā"
+      },
+      {
+       "label": "B",
+       "text": "我",
+       "pinyin": "wǒ"
+      },
+      {
+       "label": "C",
+       "text": "爸爸",
+       "pinyin": "bà bà"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "短文中说“爸爸说很好吃”，所以是爸爸觉得饺子好吃。",
+     "id": "q3",
+     "type": "passage-mcq",
+     "pinyin": "shuí jué de jiǎo zi hěn hǎo chī ？"
+    },
+    {
+     "prompt": "吃完饺子后，我的心情怎么样？",
+     "options": [
+      {
+       "label": "A",
+       "text": "伤心",
+       "pinyin": "shāng xīn"
+      },
+      {
+       "label": "B",
+       "text": "不开心",
+       "pinyin": "bù kāi xīn"
+      },
+      {
+       "label": "C",
+       "text": "很开心",
+       "pinyin": "hěn kāi xīn"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "短文最后说“我很开心”，所以我的心情是开心的。",
+     "id": "q4",
+     "type": "passage-mcq",
+     "pinyin": "chī wán jiǎo zi hòu ， wǒ de xīn qíng zěn me yàng ？"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

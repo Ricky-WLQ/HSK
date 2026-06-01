@@ -1,0 +1,142 @@
+{
+ "id": "hsk1-reading-p410",
+ "level": "1",
+ "section": "reading",
+ "partKey": "reading-p4",
+ "title": "HSK1 Reading P4",
+ "titleZh": "阅读 第四部分（短句理解）",
+ "groups": [
+  {
+   "instruction": "请阅读每个短句，然后根据句子内容回答★问题。每个问题只有一个是正确的。",
+   "questions": [
+    {
+     "prompt": "今天老师教我们写汉字。★谁教写字？",
+     "options": [
+      {
+       "label": "A",
+       "text": "老师",
+       "pinyin": "lǎo shī"
+      },
+      {
+       "label": "B",
+       "text": "同学",
+       "pinyin": "tóng xué"
+      },
+      {
+       "label": "C",
+       "text": "学生",
+       "pinyin": "xué shēng"
+      }
+     ],
+     "correctAnswer": "A",
+     "explanation": "句子中说'老师教我们写汉字'，所以是老师教写字。",
+     "id": "q1",
+     "type": "passage-mcq",
+     "pinyin": "jīn tiān lǎo shī jiào wǒ men xiě hàn zì 。★ shuí jiào xiě zì ？"
+    },
+    {
+     "prompt": "我正在教室里看书。★我在哪里看书？",
+     "options": [
+      {
+       "label": "A",
+       "text": "教室",
+       "pinyin": "jiào shì"
+      },
+      {
+       "label": "B",
+       "text": "家",
+       "pinyin": "jiā"
+      },
+      {
+       "label": "C",
+       "text": "学校",
+       "pinyin": "xué xiào"
+      }
+     ],
+     "correctAnswer": "A",
+     "explanation": "句子中说'在教室里看书'，所以看书的地方是教室。",
+     "id": "q2",
+     "type": "passage-mcq",
+     "pinyin": "wǒ zhèng zài jiào shì lǐ kàn shū 。★ wǒ zài nǎ lǐ kàn shū ？"
+    },
+    {
+     "prompt": "她说中文说得很好。★她什么说得很好？",
+     "options": [
+      {
+       "label": "A",
+       "text": "中文",
+       "pinyin": "zhōng wén"
+      },
+      {
+       "label": "B",
+       "text": "英文",
+       "pinyin": "yīng wén"
+      },
+      {
+       "label": "C",
+       "text": "日文",
+       "pinyin": "rì wén"
+      }
+     ],
+     "correctAnswer": "A",
+     "explanation": "句子中说'中文说得很好'，所以她说得好的是中文。",
+     "id": "q3",
+     "type": "passage-mcq",
+     "pinyin": "tā shuō zhōng wén shuō dé hěn hǎo 。★ tā shén me shuō dé hěn hǎo ？"
+    },
+    {
+     "prompt": "明天有中文课，请带书来。★明天有什么课？",
+     "options": [
+      {
+       "label": "A",
+       "text": "英文课",
+       "pinyin": "yīng wén kè"
+      },
+      {
+       "label": "B",
+       "text": "数学课",
+       "pinyin": "shù xué kè"
+      },
+      {
+       "label": "C",
+       "text": "中文课",
+       "pinyin": "zhōng wén kè"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "句子中说'明天有中文课'，所以明天的课是中文课。",
+     "id": "q4",
+     "type": "passage-mcq",
+     "pinyin": "míng tiān yǒu zhōng wén kè ， qǐng dài shū lái 。★ míng tiān yǒu shén me kè ？"
+    },
+    {
+     "prompt": "他在听老师说话。★他在做什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "听",
+       "pinyin": "tīng"
+      },
+      {
+       "label": "B",
+       "text": "写",
+       "pinyin": "xiě"
+      },
+      {
+       "label": "C",
+       "text": "读",
+       "pinyin": "dú"
+      }
+     ],
+     "correctAnswer": "A",
+     "explanation": "句子中说'在听老师说话'，所以他在听。",
+     "id": "q5",
+     "type": "passage-mcq",
+     "pinyin": "tā zài tīng lǎo shī shuō huà 。★ tā zài zuò shén me ？"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

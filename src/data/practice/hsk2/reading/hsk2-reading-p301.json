@@ -7,79 +7,79 @@
  "titleZh": "阅读 第三部分（句子匹配）",
  "groups": [
   {
-   "instruction": "从下面选择正确的应答句子。",
+   "instruction": "请从下面选择正确的回答，使对话完整。",
    "sharedBank": [
     {
      "label": "A",
-     "text": "好的，我马上来。",
-     "pinyin": "hǎo de ， wǒ mǎ shàng lái 。"
+     "text": "游泳不难，但是要多练习。",
+     "pinyin": "yóu yǒng bù nán ， dàn shì yào duō liàn xí 。"
     },
     {
      "label": "B",
-     "text": "一共十块五毛。",
-     "pinyin": "yī gòng shí kuài wǔ máo 。"
+     "text": "我喜欢打乒乓球。",
+     "pinyin": "wǒ xǐ huān dǎ pīng pāng qiú 。"
     },
     {
      "label": "C",
-     "text": "是的，我喜欢喝茶。",
-     "pinyin": "shì de ， wǒ xǐ huān hē chá 。"
+     "text": "是的，我每天跑三公里。",
+     "pinyin": "shì de ， wǒ měi tiān pǎo sān gōng lǐ 。"
     },
     {
      "label": "D",
-     "text": "他在图书馆看书。",
-     "pinyin": "tā zài tú shū guǎn kàn shū 。"
+     "text": "我会打篮球，但是打得不好。",
+     "pinyin": "wǒ huì dǎ lán qiú ， dàn shì dǎ dé bù hǎo 。"
     },
     {
      "label": "E",
-     "text": "今天天气很好。",
-     "pinyin": "jīn tiān tiān qì hěn hǎo 。"
+     "text": "好啊，什么时候去？",
+     "pinyin": "hǎo a ， shén me shí hòu qù ？"
     },
     {
      "label": "F",
-     "text": "我不去，太远了。",
-     "pinyin": "wǒ bù qù ， tài yuǎn le 。"
+     "text": "我累了，不想去。",
+     "pinyin": "wǒ lèi le ， bù xiǎng qù 。"
     }
    ],
    "questions": [
     {
-     "prompt": "你什么时候来？",
-     "correctAnswer": "A",
-     "explanation": "A选项回答对方来的时间，表示马上就来。",
+     "prompt": "你每天早上跑步吗？",
+     "correctAnswer": "C",
+     "explanation": "问句问是否每天早上跑步，回答“是的，我每天跑三公里”是合适的肯定回答。",
      "id": "q1",
      "type": "match",
-     "pinyin": "nǐ shén me shí hòu lái ？"
+     "pinyin": "nǐ měi tiān zǎo shàng pǎo bù ma ？"
     },
     {
-     "prompt": "这个多少钱？",
-     "correctAnswer": "B",
-     "explanation": "B选项回答价格，一共十块五毛。",
+     "prompt": "你会打篮球吗？",
+     "correctAnswer": "D",
+     "explanation": "问句问会不会打篮球，回答“我会打篮球，但是打得不好”直接回应了能力。",
      "id": "q2",
      "type": "match",
-     "pinyin": "zhè ge duō shǎo qián ？"
+     "pinyin": "nǐ huì dǎ lán qiú ma ？"
     },
     {
-     "prompt": "你喜欢喝茶吗？",
-     "correctAnswer": "C",
-     "explanation": "C选项肯定回答喜欢喝茶。",
+     "prompt": "游泳难吗？",
+     "correctAnswer": "A",
+     "explanation": "问句问游泳难不难，回答“游泳不难，但是要多练习”符合对话逻辑。",
      "id": "q3",
      "type": "match",
-     "pinyin": "nǐ xǐ huān hē chá ma ？"
+     "pinyin": "yóu yǒng nán ma ？"
     },
     {
-     "prompt": "他在哪里？",
-     "correctAnswer": "D",
-     "explanation": "D选项回答他在图书馆看书，说明地点。",
+     "prompt": "你喜欢什么运动？",
+     "correctAnswer": "B",
+     "explanation": "问句问喜欢的运动，回答“我喜欢打乒乓球”是具体运动项目。",
      "id": "q4",
      "type": "match",
-     "pinyin": "tā zài nǎ lǐ ？"
+     "pinyin": "nǐ xǐ huān shén me yùn dòng ？"
     },
     {
-     "prompt": "今天天气怎么样？",
+     "prompt": "我们一起去踢足球吧？",
      "correctAnswer": "E",
-     "explanation": "E选项描述天气很好。",
+     "explanation": "问句是邀请踢足球，回答“好啊，什么时候去？”表示同意并询问时间。",
      "id": "q5",
      "type": "match",
-     "pinyin": "jīn tiān tiān qì zěn me yàng ？"
+     "pinyin": "wǒ men yì qǐ qù tī zú qiú ba ？"
     }
    ],
    "id": "g1"

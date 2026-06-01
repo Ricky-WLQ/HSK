@@ -1,0 +1,71 @@
+{
+ "id": "hsk7-9-reading-p303",
+ "level": "7-9",
+ "section": "reading",
+ "partKey": "reading-p3",
+ "title": "HSK7-9 Reading P3",
+ "titleZh": "阅读 第三部分（简答题）",
+ "groups": [
+  {
+   "instruction": "阅读下面的说明文，然后回答问题。每个问题的答案可以从文章中直接找到或简要概括，字数不超过10个汉字。",
+   "passage": "体育运动不仅塑造体魄，更深刻地重塑大脑。研究表明，长期有氧运动能促进海马体体积增大，这是记忆与学习的关键脑区。当人体运动时，肌肉收缩会释放一种名为鸢尾素的激素，它能够穿越血脑屏障，刺激脑源性神经营养因子（BDNF）的生成。BDNF如同大脑的\"肥料\"，滋养神经元并促进突触可塑性。此外，运动后大脑前额叶皮层的血流量增加，有助于提升注意力和决策能力。有趣的是，中等强度的运动最能激发这种神经保护效应；过度训练反而会导致皮质醇水平升高，损伤神经元。因此，每周坚持150分钟中等强度运动，是保持大脑青春的有效策略。",
+   "questions": [
+    {
+     "prompt": "运动能促进哪个脑区体积增大？",
+     "correctAnswer": "海马体",
+     "acceptableAnswers": [
+      "海马体",
+      "海马"
+     ],
+     "explanation": "文中提到“长期有氧运动能促进海马体体积增大”，因此答案是海马体。",
+     "id": "q1",
+     "type": "short-answer"
+    },
+    {
+     "prompt": "运动时肌肉释放什么激素？",
+     "correctAnswer": "鸢尾素",
+     "acceptableAnswers": [
+      "鸢尾素"
+     ],
+     "explanation": "文中描述“肌肉收缩会释放一种名为鸢尾素的激素”，因此答案是鸢尾素。",
+     "id": "q2",
+     "type": "short-answer"
+    },
+    {
+     "prompt": "BDNF在大脑中的作用类似什么？",
+     "correctAnswer": "肥料",
+     "acceptableAnswers": [
+      "肥料",
+      "大脑的肥料"
+     ],
+     "explanation": "文中将BDNF比喻为“大脑的‘肥料’”，因此答案是肥料。",
+     "id": "q3",
+     "type": "short-answer"
+    },
+    {
+     "prompt": "过度训练会导致哪种激素升高？",
+     "correctAnswer": "皮质醇",
+     "acceptableAnswers": [
+      "皮质醇"
+     ],
+     "explanation": "文中指出“过度训练反而会导致皮质醇水平升高”，因此答案是皮质醇。",
+     "id": "q4",
+     "type": "short-answer"
+    },
+    {
+     "prompt": "每周建议运动多长时间？",
+     "correctAnswer": "150分钟",
+     "acceptableAnswers": [
+      "150分钟",
+      "150分钟中等强度"
+     ],
+     "explanation": "文中提到“每周坚持150分钟中等强度运动”，因此答案是150分钟。",
+     "id": "q5",
+     "type": "short-answer"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

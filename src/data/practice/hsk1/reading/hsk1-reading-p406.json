@@ -1,0 +1,142 @@
+{
+ "id": "hsk1-reading-p406",
+ "level": "1",
+ "section": "reading",
+ "partKey": "reading-p4",
+ "title": "HSK1 Reading P4",
+ "titleZh": "阅读 第四部分（短句理解）",
+ "groups": [
+  {
+   "instruction": "阅读下面的句子，然后回答问题。每题只有一个正确答案。",
+   "questions": [
+    {
+     "prompt": "他开了一个小店，卖水。★他卖什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "水",
+       "pinyin": "shuǐ"
+      },
+      {
+       "label": "B",
+       "text": "衣服",
+       "pinyin": "yī fú"
+      },
+      {
+       "label": "C",
+       "text": "米饭",
+       "pinyin": "mǐ fàn"
+      }
+     ],
+     "correctAnswer": "A",
+     "explanation": "句子说“卖水”，所以正确答案是“水”。",
+     "id": "q1",
+     "type": "passage-mcq",
+     "pinyin": "tā kāi le yí gè xiǎo diàn ， mài shuǐ 。★ tā mài shén me ？"
+    },
+    {
+     "prompt": "店里有很多人，生意很好。★店里人多吗？",
+     "options": [
+      {
+       "label": "A",
+       "text": "没有",
+       "pinyin": "méi yǒu"
+      },
+      {
+       "label": "B",
+       "text": "多",
+       "pinyin": "duō"
+      },
+      {
+       "label": "C",
+       "text": "少",
+       "pinyin": "shǎo"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "句子说“有很多人”，所以人多。",
+     "id": "q2",
+     "type": "passage-mcq",
+     "pinyin": "diàn lǐ yǒu hěn duō rén ， shēng yì hěn hǎo 。★ diàn lǐ rén duō ma ？"
+    },
+    {
+     "prompt": "他每天卖水，赚了很多钱。★他怎么样？",
+     "options": [
+      {
+       "label": "A",
+       "text": "赚钱",
+       "pinyin": "zhuàn qián"
+      },
+      {
+       "label": "B",
+       "text": "不赚钱",
+       "pinyin": "bù zhuàn qián"
+      },
+      {
+       "label": "C",
+       "text": "花钱",
+       "pinyin": "huā qián"
+      }
+     ],
+     "correctAnswer": "A",
+     "explanation": "句子说“赚了很多钱”，所以他赚钱。",
+     "id": "q3",
+     "type": "passage-mcq",
+     "pinyin": "tā měi tiān mài shuǐ ， zhuàn le hěn duō qián 。★ tā zěn me yàng ？"
+    },
+    {
+     "prompt": "我想开一个店，但是我没有钱。★我有什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "很多钱",
+       "pinyin": "hěn duō qián"
+      },
+      {
+       "label": "B",
+       "text": "有钱",
+       "pinyin": "yǒu qián"
+      },
+      {
+       "label": "C",
+       "text": "没有钱",
+       "pinyin": "méi yǒu qián"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "句子说“我没有钱”，所以没有钱。",
+     "id": "q4",
+     "type": "passage-mcq",
+     "pinyin": "wǒ xiǎng kāi yí gè diàn ， dàn shì wǒ méi yǒu qián 。★ wǒ yǒu shén me ？"
+    },
+    {
+     "prompt": "她卖衣服，生意很好。★她的生意怎么样？",
+     "options": [
+      {
+       "label": "A",
+       "text": "不好",
+       "pinyin": "bù hǎo"
+      },
+      {
+       "label": "B",
+       "text": "很好",
+       "pinyin": "hěn hǎo"
+      },
+      {
+       "label": "C",
+       "text": "没有",
+       "pinyin": "méi yǒu"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "句子说“生意很好”，所以很好。",
+     "id": "q5",
+     "type": "passage-mcq",
+     "pinyin": "tā mài yī fú ， shēng yì hěn hǎo 。★ tā de shēng yì zěn me yàng ？"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

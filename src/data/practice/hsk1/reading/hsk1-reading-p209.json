@@ -1,0 +1,89 @@
+{
+ "id": "hsk1-reading-p209",
+ "level": "1",
+ "section": "reading",
+ "partKey": "reading-p2",
+ "title": "HSK1 Reading P2",
+ "titleZh": "阅读 第二部分（问答匹配）",
+ "groups": [
+  {
+   "instruction": "请从下面的选项中选择合适的回答。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "乡村人很少。",
+     "pinyin": "xiāng cūn rén hěn shǎo 。"
+    },
+    {
+     "label": "B",
+     "text": "我喜欢大房子。",
+     "pinyin": "wǒ xǐ huān dà fáng zi 。"
+    },
+    {
+     "label": "C",
+     "text": "我坐车去学校。",
+     "pinyin": "wǒ zuò chē qù xué xiào 。"
+    },
+    {
+     "label": "D",
+     "text": "这里没有商店。",
+     "pinyin": "zhè lǐ méi yǒu shāng diàn 。"
+    },
+    {
+     "label": "E",
+     "text": "晚上没有车。",
+     "pinyin": "wǎn shàng méi yǒu chē 。"
+    },
+    {
+     "label": "F",
+     "text": "城市车很多。",
+     "pinyin": "chéng shì chē hěn duō 。"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "城市里车多吗？",
+     "correctAnswer": "F",
+     "explanation": "“城市车很多”直接回答了问题，说明城市里车很多。",
+     "id": "q1",
+     "type": "match",
+     "pinyin": "chéng shì lǐ chē duō ma ？"
+    },
+    {
+     "prompt": "乡村的人多吗？",
+     "correctAnswer": "A",
+     "explanation": "“乡村人很少”说明乡村人不多，与问题相符。",
+     "id": "q2",
+     "type": "match",
+     "pinyin": "xiāng cūn de rén duō ma ？"
+    },
+    {
+     "prompt": "你怎么去学校？",
+     "correctAnswer": "C",
+     "explanation": "“我坐车去学校”说明了去学校的方式，与问题匹配。",
+     "id": "q3",
+     "type": "match",
+     "pinyin": "nǐ zěn me qù xué xiào ？"
+    },
+    {
+     "prompt": "你住的地方有商店吗？",
+     "correctAnswer": "D",
+     "explanation": "“这里没有商店”说明住的地方没有商店，是对问题的否定回答。",
+     "id": "q4",
+     "type": "match",
+     "pinyin": "nǐ zhù de dì fāng yǒu shāng diàn ma ？"
+    },
+    {
+     "prompt": "晚上有车吗？",
+     "correctAnswer": "E",
+     "explanation": "“晚上没有车”直接回答了晚上是否有车的问题。",
+     "id": "q5",
+     "type": "match",
+     "pinyin": "wǎn shàng yǒu chē ma ？"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

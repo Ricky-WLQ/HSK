@@ -1,0 +1,89 @@
+{
+ "id": "hsk2-reading-p320",
+ "level": "2",
+ "section": "reading",
+ "partKey": "reading-p3",
+ "title": "HSK2 Reading P3",
+ "titleZh": "阅读 第三部分（句子匹配）",
+ "groups": [
+  {
+   "instruction": "请从A-F中为每个问题选择一个合适的答语。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "东西太贵，买的人少。",
+     "pinyin": "dōng xī tài guì ， mǎi de rén shǎo 。"
+    },
+    {
+     "label": "B",
+     "text": "这个月钱比上个月多。",
+     "pinyin": "zhè ge yuè qián bǐ shàng gè yuè duō 。"
+    },
+    {
+     "label": "C",
+     "text": "请人帮忙花了很多钱。",
+     "pinyin": "qǐng rén bāng máng huā le hěn duō qián 。"
+    },
+    {
+     "label": "D",
+     "text": "我每天卖一百杯咖啡。",
+     "pinyin": "wǒ měi tiān mài yì bǎi bēi kā fēi 。"
+    },
+    {
+     "label": "E",
+     "text": "银行借我很多钱。",
+     "pinyin": "yín háng jiè wǒ hěn duō qián 。"
+    },
+    {
+     "label": "F",
+     "text": "这里人很多，有机会。",
+     "pinyin": "zhè lǐ rén hěn duō ， yǒu jī huì 。"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "你每天做什么？",
+     "correctAnswer": "D",
+     "explanation": "问题问每天做什么，对应的回答是“我每天卖一百杯咖啡”，直接回答了每天做的事情。",
+     "id": "q1",
+     "type": "match",
+     "pinyin": "nǐ měi tiān zuò shén me ？"
+    },
+    {
+     "prompt": "为什么卖得不好？",
+     "correctAnswer": "A",
+     "explanation": "问题问为什么卖得不好，对应的回答是“东西太贵，买的人少”，解释了销售不好的原因。",
+     "id": "q2",
+     "type": "match",
+     "pinyin": "wèi shén me mài dé bù hǎo ？"
+    },
+    {
+     "prompt": "钱从哪里来？",
+     "correctAnswer": "E",
+     "explanation": "问题问钱从哪里来，对应的回答是“银行借我很多钱”，说明了钱的来源。",
+     "id": "q3",
+     "type": "match",
+     "pinyin": "qián cóng nǎ lǐ lái ？"
+    },
+    {
+     "prompt": "为什么花那么多钱？",
+     "correctAnswer": "C",
+     "explanation": "问题问为什么花那么多钱，对应的回答是“请人帮忙花了很多钱”，解释了花钱的原因。",
+     "id": "q4",
+     "type": "match",
+     "pinyin": "wèi shén me huā nà me duō qián ？"
+    },
+    {
+     "prompt": "这个月钱多吗？",
+     "correctAnswer": "B",
+     "explanation": "问题问这个月钱多不多，对应的回答是“这个月钱比上个月多”，比较了钱的数量。",
+     "id": "q5",
+     "type": "match",
+     "pinyin": "zhè ge yuè qián duō ma ？"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

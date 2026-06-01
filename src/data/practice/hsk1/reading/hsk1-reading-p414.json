@@ -1,0 +1,142 @@
+{
+ "id": "hsk1-reading-p414",
+ "level": "1",
+ "section": "reading",
+ "partKey": "reading-p4",
+ "title": "HSK1 Reading P4",
+ "titleZh": "阅读 第四部分（短句理解）",
+ "groups": [
+  {
+   "instruction": "请阅读下面的短文，然后回答问题。",
+   "questions": [
+    {
+     "prompt": "他每天写日记。★他做什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "读书",
+       "pinyin": "dú shū"
+      },
+      {
+       "label": "B",
+       "text": "唱歌",
+       "pinyin": "chàng gē"
+      },
+      {
+       "label": "C",
+       "text": "写字",
+       "pinyin": "xiě zì"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "短文说“他每天写日记”，写日记就是写字，所以正确答案是写字。",
+     "id": "q1",
+     "type": "passage-mcq",
+     "pinyin": "tā měi tiān xiě rì jì 。★ tā zuò shén me ？"
+    },
+    {
+     "prompt": "她喜欢看故事书。★她喜欢什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "故事书",
+       "pinyin": "gù shì shū"
+      },
+      {
+       "label": "B",
+       "text": "画",
+       "pinyin": "huà"
+      },
+      {
+       "label": "C",
+       "text": "数学书",
+       "pinyin": "shù xué shū"
+      }
+     ],
+     "correctAnswer": "A",
+     "explanation": "短文说“她喜欢看故事书”，所以喜欢故事书。",
+     "id": "q2",
+     "type": "passage-mcq",
+     "pinyin": "tā xǐ huān kàn gù shì shū 。★ tā xǐ huān shén me ？"
+    },
+    {
+     "prompt": "他用笔写信。★他用什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "书",
+       "pinyin": "shū"
+      },
+      {
+       "label": "B",
+       "text": "纸",
+       "pinyin": "zhǐ"
+      },
+      {
+       "label": "C",
+       "text": "笔",
+       "pinyin": "bǐ"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "短文说“他用笔写信”，所以用的是笔。",
+     "id": "q3",
+     "type": "passage-mcq",
+     "pinyin": "tā yòng bǐ xiě xìn 。★ tā yòng shén me ？"
+    },
+    {
+     "prompt": "他们一起学习写字。★他们在学什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "画画",
+       "pinyin": "huà huà"
+      },
+      {
+       "label": "B",
+       "text": "写字",
+       "pinyin": "xiě zì"
+      },
+      {
+       "label": "C",
+       "text": "读书",
+       "pinyin": "dú shū"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "短文说“他们一起学习写字”，所以学的是写字。",
+     "id": "q4",
+     "type": "passage-mcq",
+     "pinyin": "tā men yì qǐ xué xí xiě zì 。★ tā men zài xué shén me ？"
+    },
+    {
+     "prompt": "他早上读新闻。★他什么时候读新闻？",
+     "options": [
+      {
+       "label": "A",
+       "text": "晚上",
+       "pinyin": "wǎn shàng"
+      },
+      {
+       "label": "B",
+       "text": "早上",
+       "pinyin": "zǎo shàng"
+      },
+      {
+       "label": "C",
+       "text": "下午",
+       "pinyin": "xià wǔ"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "短文说“他早上读新闻”，所以是早上读新闻。",
+     "id": "q5",
+     "type": "passage-mcq",
+     "pinyin": "tā zǎo shàng dú xīn wén 。★ tā shén me shí hòu dú xīn wén ？"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

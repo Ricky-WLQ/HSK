@@ -1,0 +1,142 @@
+{
+ "id": "hsk2-reading-p414",
+ "level": "2",
+ "section": "reading",
+ "partKey": "reading-p4",
+ "title": "HSK2 Reading P4",
+ "titleZh": "阅读 第四部分（短文理解）",
+ "groups": [
+  {
+   "instruction": "请阅读下面的短文，然后选择正确答案。",
+   "questions": [
+    {
+     "prompt": "他感冒了，喝了很多热水。★他怎么了？",
+     "options": [
+      {
+       "label": "A",
+       "text": "他累了",
+       "pinyin": "tā lèi le"
+      },
+      {
+       "label": "B",
+       "text": "他饿了",
+       "pinyin": "tā è le"
+      },
+      {
+       "label": "C",
+       "text": "他感冒了",
+       "pinyin": "tā gǎn mào le"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "短文说‘他感冒了’，所以他是感冒了。",
+     "id": "q1",
+     "type": "passage-mcq",
+     "pinyin": "tā gǎn mào le ， hē le hěn duō rè shuǐ 。★ tā zěn me le ？"
+    },
+    {
+     "prompt": "她牙疼，去医院看医生。★她为什么去医院？",
+     "options": [
+      {
+       "label": "A",
+       "text": "头疼",
+       "pinyin": "tóu téng"
+      },
+      {
+       "label": "B",
+       "text": "肚子疼",
+       "pinyin": "dǔ zi téng"
+      },
+      {
+       "label": "C",
+       "text": "牙疼",
+       "pinyin": "yá téng"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "短文说‘她牙疼’，所以她因为牙疼去医院。",
+     "id": "q2",
+     "type": "passage-mcq",
+     "pinyin": "tā yá téng ， qù yī yuàn kàn yī shēng 。★ tā wèi shén me qù yī yuàn ？"
+    },
+    {
+     "prompt": "他每天跑步，身体很好。★他怎么样？",
+     "options": [
+      {
+       "label": "A",
+       "text": "很累",
+       "pinyin": "hěn lèi"
+      },
+      {
+       "label": "B",
+       "text": "身体好",
+       "pinyin": "shēn tǐ hǎo"
+      },
+      {
+       "label": "C",
+       "text": "生病了",
+       "pinyin": "shēng bìng le"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "短文说‘身体很好’，所以他身体好。",
+     "id": "q3",
+     "type": "passage-mcq",
+     "pinyin": "tā měi tiān pǎo bù ， shēn tǐ hěn hǎo 。★ tā zěn me yàng ？"
+    },
+    {
+     "prompt": "她吃药，喝了一杯水。★她吃药的时候喝了什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "果汁",
+       "pinyin": "guǒ zhī"
+      },
+      {
+       "label": "B",
+       "text": "水",
+       "pinyin": "shuǐ"
+      },
+      {
+       "label": "C",
+       "text": "牛奶",
+       "pinyin": "niú nǎi"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "短文说‘喝了一杯水’，所以她喝的是水。",
+     "id": "q4",
+     "type": "passage-mcq",
+     "pinyin": "tā chī yào ， hē le yī bēi shuǐ 。★ tā chī yào de shí hòu hē le shén me ？"
+    },
+    {
+     "prompt": "他头疼，躺在床上休息。★他怎么了？",
+     "options": [
+      {
+       "label": "A",
+       "text": "眼睛疼",
+       "pinyin": "yǎn jīng téng"
+      },
+      {
+       "label": "B",
+       "text": "脚疼",
+       "pinyin": "jiǎo téng"
+      },
+      {
+       "label": "C",
+       "text": "头疼",
+       "pinyin": "tóu téng"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "短文说‘他头疼’，所以他头疼。",
+     "id": "q5",
+     "type": "passage-mcq",
+     "pinyin": "tā tóu téng ， tǎng zài chuáng shàng xiū xī 。★ tā zěn me le ？"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

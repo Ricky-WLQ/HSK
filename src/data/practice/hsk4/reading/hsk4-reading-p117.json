@@ -1,0 +1,74 @@
+{
+ "id": "hsk4-reading-p117",
+ "level": "4",
+ "section": "reading",
+ "partKey": "reading-p1",
+ "title": "HSK4 Reading P1",
+ "titleZh": "阅读 第一部分（选词填空）",
+ "groups": [
+  {
+   "instruction": "请从下面的词语中选择合适的词填入句子中的空白处，每个词只能用一次。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "打折"
+    },
+    {
+     "label": "B",
+     "text": "发票"
+    },
+    {
+     "label": "C",
+     "text": "运费"
+    },
+    {
+     "label": "D",
+     "text": "退货"
+    },
+    {
+     "label": "E",
+     "text": "现金"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "这家店在搞促销活动，所有商品都打八（  ），非常划算。",
+     "correctAnswer": "A",
+     "explanation": "句子意思是商品价格降低，'打折'指按一定比例降价，符合语境。",
+     "id": "q1",
+     "type": "cloze-wordbank"
+    },
+    {
+     "prompt": "如果尺码不合适，你可以在三十天内免费（  ）。",
+     "correctAnswer": "D",
+     "explanation": "句子意思是把商品退回给商家，'退货'指退还购买的商品，符合语境。",
+     "id": "q2",
+     "type": "cloze-wordbank"
+    },
+    {
+     "prompt": "这个菜市场不能用手机支付，你最好带点（  ）。",
+     "correctAnswer": "E",
+     "explanation": "句子意思是需要携带纸币或硬币，'现金'指现款，符合语境。",
+     "id": "q3",
+     "type": "cloze-wordbank"
+    },
+    {
+     "prompt": "买完东西后，请记得索要（  ），以便以后保修或报销。",
+     "correctAnswer": "B",
+     "explanation": "句子意思是购物凭证，'发票'是商家开具的收款凭证，符合语境。",
+     "id": "q4",
+     "type": "cloze-wordbank"
+    },
+    {
+     "prompt": "网购时，很多商家会提供包邮服务，买家不用支付（  ）。",
+     "correctAnswer": "C",
+     "explanation": "句子意思是运输货物的费用，'运费'指运输费用，符合语境。",
+     "id": "q5",
+     "type": "cloze-wordbank"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

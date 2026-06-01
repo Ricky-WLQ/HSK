@@ -1,0 +1,89 @@
+{
+ "id": "hsk3-reading-p102",
+ "level": "3",
+ "section": "reading",
+ "partKey": "reading-p1",
+ "title": "HSK3 Reading P1",
+ "titleZh": "阅读 第一部分（句子匹配）",
+ "groups": [
+  {
+   "instruction": "请从选项中选择合适的句子与左边的句子配对。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "这个蛋糕是我自己做的。",
+     "pinyin": "zhè ge dàn gāo shì wǒ zì jǐ zuò de 。"
+    },
+    {
+     "label": "B",
+     "text": "他爸爸做的鱼很好吃。",
+     "pinyin": "tā bà bà zuò de yú hěn hǎo chī 。"
+    },
+    {
+     "label": "C",
+     "text": "我不吃猪肉，只吃牛肉。",
+     "pinyin": "wǒ bù chī zhū ròu ， zhǐ chī niú ròu 。"
+    },
+    {
+     "label": "D",
+     "text": "这家奶茶店的奶茶很甜，我很喜欢。",
+     "pinyin": "zhè jiā nǎi chá diàn de nǎi chá hěn tián ， wǒ hěn xǐ huān 。"
+    },
+    {
+     "label": "E",
+     "text": "我们全家一起去吃饺子。",
+     "pinyin": "wǒ men quán jiā yì qǐ qù chī jiǎo zi 。"
+    },
+    {
+     "label": "F",
+     "text": "妈妈每天早上给我做鸡蛋面条。",
+     "pinyin": "mā mā měi tiān zǎo shàng gěi wǒ zuò jī dàn miàn tiáo 。"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "你妈妈每天早上给你做什么？",
+     "correctAnswer": "F",
+     "explanation": "问题问妈妈早上做什么，这个选项回答妈妈做鸡蛋面条，意思匹配。",
+     "id": "q1",
+     "type": "match",
+     "pinyin": "nǐ mā mā měi tiān zǎo shàng gěi nǐ zuò shén me ？"
+    },
+    {
+     "prompt": "这家奶茶店的奶茶怎么样？",
+     "correctAnswer": "D",
+     "explanation": "问题问奶茶店的情况，这个选项说奶茶很甜、很喜欢，直接回答了味道和感受。",
+     "id": "q2",
+     "type": "match",
+     "pinyin": "zhè jiā nǎi chá diàn de nǎi chá zěn me yàng ？"
+    },
+    {
+     "prompt": "谁做的鱼很好吃？",
+     "correctAnswer": "B",
+     "explanation": "问题问谁做的鱼好吃，这个选项说爸爸做的鱼好吃，回答了做鱼的人。",
+     "id": "q3",
+     "type": "match",
+     "pinyin": "shuí zuò de yú hěn hǎo chī ？"
+    },
+    {
+     "prompt": "你们全家一起去吃什么？",
+     "correctAnswer": "E",
+     "explanation": "问题问全家一起去吃什么，这个选项说去吃饺子，给出了具体食物。",
+     "id": "q4",
+     "type": "match",
+     "pinyin": "nǐ men quán jiā yì qǐ qù chī shén me ？"
+    },
+    {
+     "prompt": "这个蛋糕是谁做的？",
+     "correctAnswer": "A",
+     "explanation": "问题问蛋糕是谁做的，这个选项回答是自己做的，说明了制作的人。",
+     "id": "q5",
+     "type": "match",
+     "pinyin": "zhè ge dàn gāo shì shuí zuò de ？"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

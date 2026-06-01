@@ -1,0 +1,74 @@
+{
+ "id": "hsk4-reading-p110",
+ "level": "4",
+ "section": "reading",
+ "partKey": "reading-p1",
+ "title": "HSK4 Reading P1",
+ "titleZh": "阅读 第一部分（选词填空）",
+ "groups": [
+  {
+   "instruction": "从下面的词库中选择合适的词语填入每个句子的空白处，每个词语只能使用一次。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "合理"
+    },
+    {
+     "label": "B",
+     "text": "效率"
+    },
+    {
+     "label": "C",
+     "text": "安排"
+    },
+    {
+     "label": "D",
+     "text": "提前"
+    },
+    {
+     "label": "E",
+     "text": "期限"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "为了完成这个项目，我们必须（ ）好每天的工作任务。",
+     "correctAnswer": "C",
+     "explanation": "「安排」指有计划地处理事务，这里需要动词搭配工作任务，符合语境。",
+     "id": "q1",
+     "type": "cloze-wordbank"
+    },
+    {
+     "prompt": "提高工作（ ）的最好方法就是集中注意力。",
+     "correctAnswer": "B",
+     "explanation": "「效率」指单位时间内完成的工作量，提高效率是常见搭配。",
+     "id": "q2",
+     "type": "cloze-wordbank"
+    },
+    {
+     "prompt": "他制定了（ ）的作息时间，每天都按时起床。",
+     "correctAnswer": "A",
+     "explanation": "「合理」指合乎道理或规律，用来修饰作息时间，表示科学可行。",
+     "id": "q3",
+     "type": "cloze-wordbank"
+    },
+    {
+     "prompt": "如果（ ）做好准备，就不会在考试前手忙脚乱。",
+     "correctAnswer": "D",
+     "explanation": "「提前」表示在预定时间之前，这里做状语修饰做好准备。",
+     "id": "q4",
+     "type": "cloze-wordbank"
+    },
+    {
+     "prompt": "这项任务的（ ）是下周五，请你们务必按时完成。",
+     "correctAnswer": "E",
+     "explanation": "「期限」指限定的一段时间或截止日期，这里指任务完成的最后时间。",
+     "id": "q5",
+     "type": "cloze-wordbank"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

@@ -1,0 +1,143 @@
+{
+ "id": "hsk5-reading-p215",
+ "level": "5",
+ "section": "reading",
+ "partKey": "reading-p2",
+ "title": "HSK5 Reading P2",
+ "titleZh": "阅读 长文理解（二）",
+ "groups": [
+  {
+   "instruction": "请阅读下面的短文，然后回答五个问题。每个问题有四个选项，请选择唯一正确的答案。",
+   "passage": "小王大学毕业后在一家互联网公司工作了三年，积累了丰富的工作经验。去年，他决定辞职创业，开了一家智能家居体验店。他选择开在市中心，因为那里人流量大，但租金很高。刚开始，顾客很少，店铺亏损严重。小王没有放弃，他开始思考如何吸引更多顾客。他想到可以线上宣传，于是建立了微信公众号，定期发布智能家居的使用技巧，还拍摄短视频放到网上。同时，他主动与附近几个小区合作，举办智能家居体验活动，邀请居民免费参加。经过几个月的努力，店铺的知名度逐渐提高，顾客越来越多。小王的利润也由负转正，生意越来越好。他计划明年再开一家分店。",
+   "questions": [
+    {
+     "prompt": "小王辞职前的工作是什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "医生"
+      },
+      {
+       "label": "B",
+       "text": "教师"
+      },
+      {
+       "label": "C",
+       "text": "互联网公司员工"
+      },
+      {
+       "label": "D",
+       "text": "销售员"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "短文第一句说小王大学毕业后在一家互联网公司工作了三年，所以辞职前他是互联网公司员工。",
+     "id": "q1",
+     "type": "passage-mcq"
+    },
+    {
+     "prompt": "小王创业初期面临的最大挑战是什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "员工难管理"
+      },
+      {
+       "label": "B",
+       "text": "缺乏资金"
+      },
+      {
+       "label": "C",
+       "text": "租金高且顾客少"
+      },
+      {
+       "label": "D",
+       "text": "产品不好卖"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "短文中提到“但租金很高。刚开始，顾客很少，店铺亏损严重”，说明最大挑战是租金高且顾客少。",
+     "id": "q2",
+     "type": "passage-mcq"
+    },
+    {
+     "prompt": "小王为了吸引顾客采取了什么措施？",
+     "options": [
+      {
+       "label": "A",
+       "text": "降低价格"
+      },
+      {
+       "label": "B",
+       "text": "扩大店面"
+      },
+      {
+       "label": "C",
+       "text": "线上宣传和社区合作"
+      },
+      {
+       "label": "D",
+       "text": "招聘更多员工"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "短文说小王建立了微信公众号、拍摄短视频做线上宣传，并主动与小区合作举办活动，所以措施是线上宣传和社区合作。",
+     "id": "q3",
+     "type": "passage-mcq"
+    },
+    {
+     "prompt": "小王店铺生意好转的标志是什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "利润由负转正"
+      },
+      {
+       "label": "B",
+       "text": "店面扩大"
+      },
+      {
+       "label": "C",
+       "text": "开了分店"
+      },
+      {
+       "label": "D",
+       "text": "获得投资"
+      }
+     ],
+     "correctAnswer": "A",
+     "explanation": "短文中明确说“小王的利润也由负转正”，这就是生意好转的标志。",
+     "id": "q4",
+     "type": "passage-mcq"
+    },
+    {
+     "prompt": "小王对未来的计划是什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "增加产品种类"
+      },
+      {
+       "label": "B",
+       "text": "放弃创业"
+      },
+      {
+       "label": "C",
+       "text": "再开一家分店"
+      },
+      {
+       "label": "D",
+       "text": "搬到更便宜的地方"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "短文最后一句说“他计划明年再开一家分店”，所以未来计划是再开一家分店。",
+     "id": "q5",
+     "type": "passage-mcq"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

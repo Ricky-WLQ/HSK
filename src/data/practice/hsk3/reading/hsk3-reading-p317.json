@@ -1,0 +1,118 @@
+{
+ "id": "hsk3-reading-p317",
+ "level": "3",
+ "section": "reading",
+ "partKey": "reading-p3",
+ "title": "HSK3 Reading P3",
+ "titleZh": "阅读 第三部分（短文理解）",
+ "groups": [
+  {
+   "instruction": "请阅读下面的短文，然后根据短文内容选择正确答案。每个问题只有一个正确答案。",
+   "passage": "小明喜欢收集邮票。他的朋友小红也喜欢集邮。他们经常一起交换邮票。上个月，小明得到一张很漂亮的熊猫邮票。小红想用两张不同的邮票跟他换，小明很高兴地答应了。",
+   "questions": [
+    {
+     "prompt": "小明喜欢做什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "收集邮票",
+       "pinyin": "shōu jí yóu piào"
+      },
+      {
+       "label": "B",
+       "text": "画画",
+       "pinyin": "huà huà"
+      },
+      {
+       "label": "C",
+       "text": "收集硬币",
+       "pinyin": "shōu jí yìng bì"
+      }
+     ],
+     "correctAnswer": "A",
+     "explanation": "短文第一句说“小明喜欢收集邮票”，所以正确。",
+     "id": "q1",
+     "type": "passage-mcq",
+     "pinyin": "xiǎo míng xǐ huān zuò shén me ？"
+    },
+    {
+     "prompt": "小红和小明是什么关系？",
+     "options": [
+      {
+       "label": "A",
+       "text": "兄妹",
+       "pinyin": "xiōng mèi"
+      },
+      {
+       "label": "B",
+       "text": "朋友",
+       "pinyin": "péng yǒu"
+      },
+      {
+       "label": "C",
+       "text": "同学",
+       "pinyin": "tóng xué"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "短文第二句说“他的朋友小红”，所以他们是朋友关系。",
+     "id": "q2",
+     "type": "passage-mcq",
+     "pinyin": "xiǎo hóng hé xiǎo míng shì shén me guān xì ？"
+    },
+    {
+     "prompt": "小明上个月得到了一张什么邮票？",
+     "options": [
+      {
+       "label": "A",
+       "text": "龙邮票",
+       "pinyin": "lóng yóu piào"
+      },
+      {
+       "label": "B",
+       "text": "长城邮票",
+       "pinyin": "cháng chéng yóu piào"
+      },
+      {
+       "label": "C",
+       "text": "熊猫邮票",
+       "pinyin": "xióng māo yóu piào"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "短文第四句说“小明得到一张很漂亮的熊猫邮票”，所以是熊猫邮票。",
+     "id": "q3",
+     "type": "passage-mcq",
+     "pinyin": "xiǎo míng shàng gè yuè dé dào le yī zhāng shén me yóu piào ？"
+    },
+    {
+     "prompt": "小红想用什么跟小明换邮票？",
+     "options": [
+      {
+       "label": "A",
+       "text": "一张相同的邮票",
+       "pinyin": "yī zhāng xiāng tóng de yóu piào"
+      },
+      {
+       "label": "B",
+       "text": "两张不同的邮票",
+       "pinyin": "liǎng zhāng bù tóng de yóu piào"
+      },
+      {
+       "label": "C",
+       "text": "三张一样的邮票",
+       "pinyin": "sān zhāng yī yàng de yóu piào"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "短文第五句说“小红想用两张不同的邮票跟他换”，所以是两张不同的邮票。",
+     "id": "q4",
+     "type": "passage-mcq",
+     "pinyin": "xiǎo hóng xiǎng yòng shén me gēn xiǎo míng huàn yóu piào ？"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

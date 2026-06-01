@@ -1,0 +1,142 @@
+{
+ "id": "hsk1-reading-p403",
+ "level": "1",
+ "section": "reading",
+ "partKey": "reading-p4",
+ "title": "HSK1 Reading P4",
+ "titleZh": "阅读 第四部分（短句理解）",
+ "groups": [
+  {
+   "instruction": "阅读下面的句子和问题，选择正确的答案。",
+   "questions": [
+    {
+     "prompt": "他在喝一杯热茶。★他喝什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "水",
+       "pinyin": "shuǐ"
+      },
+      {
+       "label": "B",
+       "text": "牛奶",
+       "pinyin": "niú nǎi"
+      },
+      {
+       "label": "C",
+       "text": "茶",
+       "pinyin": "chá"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "句子说“他在喝一杯热茶”，所以他在喝茶。",
+     "id": "q1",
+     "type": "passage-mcq",
+     "pinyin": "tā zài hē yī bēi rè chá 。★ tā hē shén me ？"
+    },
+    {
+     "prompt": "他中午吃饺子。★他吃什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "米饭",
+       "pinyin": "mǐ fàn"
+      },
+      {
+       "label": "B",
+       "text": "面条",
+       "pinyin": "miàn tiáo"
+      },
+      {
+       "label": "C",
+       "text": "饺子",
+       "pinyin": "jiǎo zi"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "句子明确说“他中午吃饺子”，所以他吃的是饺子。",
+     "id": "q2",
+     "type": "passage-mcq",
+     "pinyin": "tā zhōng wǔ chī jiǎo zi 。★ tā chī shén me ？"
+    },
+    {
+     "prompt": "这个苹果很甜。★苹果怎么样？",
+     "options": [
+      {
+       "label": "A",
+       "text": "很甜",
+       "pinyin": "hěn tián"
+      },
+      {
+       "label": "B",
+       "text": "很酸",
+       "pinyin": "hěn suān"
+      },
+      {
+       "label": "C",
+       "text": "很辣",
+       "pinyin": "hěn là"
+      }
+     ],
+     "correctAnswer": "A",
+     "explanation": "句子说“这个苹果很甜”，所以苹果很甜。",
+     "id": "q3",
+     "type": "passage-mcq",
+     "pinyin": "zhè ge píng guǒ hěn tián 。★ píng guǒ zěn me yàng ？"
+    },
+    {
+     "prompt": "妈妈做了一条鱼。★妈妈做了什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "鱼",
+       "pinyin": "yú"
+      },
+      {
+       "label": "B",
+       "text": "肉",
+       "pinyin": "ròu"
+      },
+      {
+       "label": "C",
+       "text": "菜",
+       "pinyin": "cài"
+      }
+     ],
+     "correctAnswer": "A",
+     "explanation": "句子说“妈妈做了一条鱼”，所以妈妈做了鱼。",
+     "id": "q4",
+     "type": "passage-mcq",
+     "pinyin": "mā mā zuò le yī tiáo yú 。★ mā mā zuò le shén me ？"
+    },
+    {
+     "prompt": "孩子喜欢喝酸奶。★孩子喜欢什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "果汁",
+       "pinyin": "guǒ zhī"
+      },
+      {
+       "label": "B",
+       "text": "水",
+       "pinyin": "shuǐ"
+      },
+      {
+       "label": "C",
+       "text": "酸奶",
+       "pinyin": "suān nǎi"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "句子说“孩子喜欢喝酸奶”，所以孩子喜欢酸奶。",
+     "id": "q5",
+     "type": "passage-mcq",
+     "pinyin": "hái zi xǐ huān hē suān nǎi 。★ hái zi xǐ huān shén me ？"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

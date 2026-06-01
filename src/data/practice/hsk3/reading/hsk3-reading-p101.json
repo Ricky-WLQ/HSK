@@ -7,79 +7,79 @@
  "titleZh": "阅读 第一部分（句子匹配）",
  "groups": [
   {
-   "instruction": "请为以下问题选择正确的搭配句。",
+   "instruction": "请从A到F的句子中，为每个问题选择一个最合适的搭配。",
    "sharedBank": [
     {
      "label": "A",
-     "text": "我每天坐公交车去上班。",
-     "pinyin": "wǒ měi tiān zuò gōng jiāo chē qù shàng bān 。"
+     "text": "端午节人们会吃粽子。",
+     "pinyin": "duān wǔ jié rén men huì chī zòng zi 。"
     },
     {
      "label": "B",
-     "text": "他最喜欢吃苹果和香蕉。",
-     "pinyin": "tā zuì xǐ huān chī píng guǒ hé xiāng jiāo 。"
+     "text": "春节人们会吃饺子。",
+     "pinyin": "chūn jié rén men huì chī jiǎo zi 。"
     },
     {
      "label": "C",
-     "text": "明天下午三点我们在学校见面。",
-     "pinyin": "míng tiān xià wǔ sān diǎn wǒ men zài xué xiào jiàn miàn 。"
+     "text": "中秋节人们会吃月饼。",
+     "pinyin": "zhōng qiū jié rén men huì chī yuè bǐng 。"
     },
     {
      "label": "D",
-     "text": "请把这本书放在桌子上。",
-     "pinyin": "qǐng bǎ zhè běn shū fàng zài zhuō zi shàng 。"
+     "text": "中国菜在世界上很有名。",
+     "pinyin": "zhōng guó cài zài shì jiè shàng hěn yǒu míng 。"
     },
     {
      "label": "E",
-     "text": "她昨天买了一双新鞋子。",
-     "pinyin": "tā zuó tiān mǎi le yī shuāng xīn xié zi 。"
+     "text": "长城是世界有名的建筑。",
+     "pinyin": "cháng chéng shì shì jiè yǒu míng de jiàn zhù 。"
     },
     {
      "label": "F",
-     "text": "这个电脑可以上网玩游戏。",
-     "pinyin": "zhè ge diàn nǎo kě yǐ shàng wǎng wán yóu xì 。"
+     "text": "故宫在城市中心。",
+     "pinyin": "gù gōng zài chéng shì zhōng xīn 。"
     }
    ],
    "questions": [
     {
-     "prompt": "你每天怎么去上班？",
+     "prompt": "哪个节日人们会吃粽子？",
      "correctAnswer": "A",
-     "explanation": "句子A说‘我每天坐公交车去上班’，与问题问‘每天怎么上班’的意思一致。",
+     "explanation": "端午节的传统食物是粽子，所以这个节日是端午节。",
      "id": "q1",
      "type": "match",
-     "pinyin": "nǐ měi tiān zěn me qù shàng bān ？"
+     "pinyin": "nǎ ge jié rì rén men huì chī zòng zi ？"
     },
     {
-     "prompt": "他喜欢吃什么水果？",
-     "correctAnswer": "B",
-     "explanation": "句子B说‘他最喜欢吃苹果和香蕉’，苹果和香蕉都是水果，符合问题要求。",
+     "prompt": "哪个建筑非常长？",
+     "correctAnswer": "E",
+     "explanation": "长城是非常长的建筑，所以是长城。",
      "id": "q2",
      "type": "match",
-     "pinyin": "tā xǐ huān chī shén me shuǐ guǒ ？"
+     "pinyin": "nǎ ge jiàn zhù fēi cháng zhǎng ？"
     },
     {
-     "prompt": "我们什么时候在学校见面？",
+     "prompt": "哪个节日在秋天？",
      "correctAnswer": "C",
-     "explanation": "句子C说‘明天下午三点我们在学校见面’，直接回答了见面的时间。",
+     "explanation": "中秋节在秋天，所以是中秋节。",
      "id": "q3",
      "type": "match",
-     "pinyin": "wǒ men shén me shí hòu zài xué xiào jiàn miàn ？"
+     "pinyin": "nǎ ge jié rì zài qiū tiān ？"
     },
     {
-     "prompt": "她的新鞋子是昨天买的吗？",
-     "correctAnswer": "E",
-     "explanation": "句子E说‘她昨天买了一双新鞋子’，说明鞋子是昨天买的，与问题一致。",
+     "prompt": "哪个地方有很多古代皇帝住过？",
+     "correctAnswer": "F",
+     "explanation": "故宫是古代皇帝居住的地方，所以是故宫。",
      "id": "q4",
      "type": "match",
-     "pinyin": "tā de xīn xié zi shì zuó tiān mǎi de ma ？"
+     "pinyin": "nǎ ge dì fāng yǒu hěn duō gǔ dài huáng dì zhù guò ？"
     },
     {
-     "prompt": "书应该放在哪里？",
-     "correctAnswer": "D",
-     "explanation": "句子D说‘请把这本书放在桌子上’，告诉了我们书应该放的位置。",
+     "prompt": "哪个节日人们会吃饺子？",
+     "correctAnswer": "B",
+     "explanation": "春节的传统食物是饺子，所以是春节。",
      "id": "q5",
      "type": "match",
-     "pinyin": "shū yīng gāi fàng zài nǎ lǐ ？"
+     "pinyin": "nǎ ge jié rì rén men huì chī jiǎo zi ？"
     }
    ],
    "id": "g1"

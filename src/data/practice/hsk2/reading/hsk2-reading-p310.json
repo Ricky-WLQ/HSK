@@ -1,0 +1,89 @@
+{
+ "id": "hsk2-reading-p310",
+ "level": "2",
+ "section": "reading",
+ "partKey": "reading-p3",
+ "title": "HSK2 Reading P3",
+ "titleZh": "阅读 第三部分（句子匹配）",
+ "groups": [
+  {
+   "instruction": "请从右列中为每个左列句子选择最合适的应答。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "因为年轻人很喜欢喝。",
+     "pinyin": "yīn wèi nián qīng rén hěn xǐ huān hē 。"
+    },
+    {
+     "label": "B",
+     "text": "我想开一家奶茶店。",
+     "pinyin": "wǒ xiǎng kāi yī jiā nǎi chá diàn 。"
+    },
+    {
+     "label": "C",
+     "text": "这个奶茶很好喝。",
+     "pinyin": "zhè ge nǎi chá hěn hǎo hē 。"
+    },
+    {
+     "label": "D",
+     "text": "这本书很有意思。",
+     "pinyin": "zhè běn shū hěn yǒu yì si 。"
+    },
+    {
+     "label": "E",
+     "text": "开店需要很多钱。",
+     "pinyin": "kāi diàn xū yào hěn duō qián 。"
+    },
+    {
+     "label": "F",
+     "text": "一杯奶茶卖十块钱。",
+     "pinyin": "yī bēi nǎi chá mài shí kuài qián 。"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "你想做什么？",
+     "correctAnswer": "B",
+     "explanation": "对方问你想做什么，这个选项表达开奶茶店的打算，是最直接的回应。",
+     "id": "q1",
+     "type": "match",
+     "pinyin": "nǐ xiǎng zuò shén me ？"
+    },
+    {
+     "prompt": "开奶茶店需要多少钱？",
+     "correctAnswer": "E",
+     "explanation": "问开店需要的钱，这个选项说明开店需要很多钱，符合问题。",
+     "id": "q2",
+     "type": "match",
+     "pinyin": "kāi nǎi chá diàn xū yào duō shǎo qián ？"
+    },
+    {
+     "prompt": "一杯奶茶多少钱？",
+     "correctAnswer": "F",
+     "explanation": "问奶茶的价格，这个选项明确说一杯奶茶卖十块钱，回答了价钱。",
+     "id": "q3",
+     "type": "match",
+     "pinyin": "yī bēi nǎi chá duō shǎo qián ？"
+    },
+    {
+     "prompt": "这个奶茶好喝吗？",
+     "correctAnswer": "C",
+     "explanation": "问奶茶的味道，这个选项说奶茶很好喝，直接评价味道。",
+     "id": "q4",
+     "type": "match",
+     "pinyin": "zhè ge nǎi chá hǎo hē ma ？"
+    },
+    {
+     "prompt": "为什么开奶茶店？",
+     "correctAnswer": "A",
+     "explanation": "问开奶茶店的原因，这个选项说明因为年轻人喜欢喝，解释了原因。",
+     "id": "q5",
+     "type": "match",
+     "pinyin": "wèi shén me kāi nǎi chá diàn ？"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

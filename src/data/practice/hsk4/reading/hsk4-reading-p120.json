@@ -1,0 +1,74 @@
+{
+ "id": "hsk4-reading-p120",
+ "level": "4",
+ "section": "reading",
+ "partKey": "reading-p1",
+ "title": "HSK4 Reading P1",
+ "titleZh": "阅读 第一部分（选词填空）",
+ "groups": [
+  {
+   "instruction": "从下面的词语中选择合适的词填入句子的空白处，每个词只能用一次。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "肌肉"
+    },
+    {
+     "label": "B",
+     "text": "教练"
+    },
+    {
+     "label": "C",
+     "text": "裁判"
+    },
+    {
+     "label": "D",
+     "text": "锻炼"
+    },
+    {
+     "label": "E",
+     "text": "比赛"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "为了参加下个月的马拉松，他每天坚持（ ）两个小时。",
+     "correctAnswer": "D",
+     "explanation": "空白处需要填写一个动词，表示进行体育活动以增强体质，“锻炼”符合句意，指的是日常的训练活动。",
+     "id": "q1",
+     "type": "cloze-wordbank"
+    },
+    {
+     "prompt": "昨天的篮球（ ）很激烈，最后我们赢了三分。",
+     "correctAnswer": "E",
+     "explanation": "空白处需要填写一个名词，指两队之间的竞技活动，“比赛”正是这种场合下使用的词，强调竞争和胜负。",
+     "id": "q2",
+     "type": "cloze-wordbank"
+    },
+    {
+     "prompt": "经常做力量训练可以增加（ ）的力量。",
+     "correctAnswer": "A",
+     "explanation": "空白处需要填写一个名词，指人体通过锻炼增强的结缔组织，“肌肉”是力量训练的主要目标，符合语境。",
+     "id": "q3",
+     "type": "cloze-wordbank"
+    },
+    {
+     "prompt": "我们的游泳（ ）很有耐心，每次都会纠正我们的动作。",
+     "correctAnswer": "B",
+     "explanation": "空白处需要填写一个名词，指指导运动员训练的人，“教练”就是指这样的人，负责教学和纠正错误。",
+     "id": "q4",
+     "type": "cloze-wordbank"
+    },
+    {
+     "prompt": "他因为对（ ）的判罚不满，和对方吵了起来。",
+     "correctAnswer": "C",
+     "explanation": "空白处需要填写一个名词，指在比赛中执行规则并做出判决的人，“裁判”就是这种角色，其判罚常引起争议。",
+     "id": "q5",
+     "type": "cloze-wordbank"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

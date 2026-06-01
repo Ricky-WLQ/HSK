@@ -1,0 +1,118 @@
+{
+ "id": "hsk4-reading-p307",
+ "level": "4",
+ "section": "reading",
+ "partKey": "reading-p3",
+ "title": "HSK4 Reading P3",
+ "titleZh": "阅读 第二部分B（中篇理解）",
+ "groups": [
+  {
+   "instruction": "请阅读下面的短文，然后根据短文内容回答4个问题。每个问题有4个选项，请选择唯一正确的答案。",
+   "passage": "小李一直想去西安看兵马俑，终于在上个月请了年假。他原本订了周五晚上8点的飞机，但出发那天下午，机场通知说因为大雾，航班取消了。小李很着急，马上查了其他交通方式，发现高铁还有票，虽然要坐6个小时，但晚上10点有一趟，第二天早上6点到。他立刻买了票。在高铁上，小李发现座位很舒服，还能用手机看视频，时间过得很快。第二天一早，他到达西安，直接去了兵马俑博物馆。虽然比预计晚了几小时，但他觉得坐高铁也不错，既安全又准时。",
+   "questions": [
+    {
+     "prompt": "小李原计划的交通方式是什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "飞机"
+      },
+      {
+       "label": "B",
+       "text": "高铁"
+      },
+      {
+       "label": "C",
+       "text": "火车"
+      },
+      {
+       "label": "D",
+       "text": "汽车"
+      }
+     ],
+     "correctAnswer": "A",
+     "explanation": "短文中明确提到“他原本订了周五晚上8点的飞机”，所以原计划是坐飞机。",
+     "id": "q1",
+     "type": "passage-mcq"
+    },
+    {
+     "prompt": "小李为什么改乘高铁？",
+     "options": [
+      {
+       "label": "A",
+       "text": "航班因为大雾取消了"
+      },
+      {
+       "label": "B",
+       "text": "飞机票太贵"
+      },
+      {
+       "label": "C",
+       "text": "他想看沿途风景"
+      },
+      {
+       "label": "D",
+       "text": "高铁速度更快"
+      }
+     ],
+     "correctAnswer": "A",
+     "explanation": "短文说“因为大雾，航班取消了”，所以小李才改乘高铁。",
+     "id": "q2",
+     "type": "passage-mcq"
+    },
+    {
+     "prompt": "关于这次旅行，下列说法正确的是？",
+     "options": [
+      {
+       "label": "A",
+       "text": "高铁上不能看视频"
+      },
+      {
+       "label": "B",
+       "text": "小李对坐高铁很满意"
+      },
+      {
+       "label": "C",
+       "text": "高铁比飞机更便宜"
+      },
+      {
+       "label": "D",
+       "text": "小李最终没去成兵马俑"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "短文最后说“他觉得坐高铁也不错，既安全又准时”，说明他对坐高铁很满意。",
+     "id": "q3",
+     "type": "passage-mcq"
+    },
+    {
+     "prompt": "这篇短文主要想告诉我们什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "大雾天气飞机不能起飞"
+      },
+      {
+       "label": "B",
+       "text": "旅行中可能会遇到意外情况，但可以灵活应对"
+      },
+      {
+       "label": "C",
+       "text": "西安的兵马俑非常有名"
+      },
+      {
+       "label": "D",
+       "text": "坐飞机比坐高铁好"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "短文讲述了小李因为航班取消而改乘高铁，结果也很顺利，主要想说明旅行中遇到意外时灵活应对。",
+     "id": "q4",
+     "type": "passage-mcq"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

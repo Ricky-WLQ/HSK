@@ -1,0 +1,89 @@
+{
+ "id": "hsk3-reading-p109",
+ "level": "3",
+ "section": "reading",
+ "partKey": "reading-p1",
+ "title": "HSK3 Reading P1",
+ "titleZh": "阅读 第一部分（句子匹配）",
+ "groups": [
+  {
+   "instruction": "从右边方框中选择一个句子，与左边每个句子配对，使它们构成合理的对话或情景。每句话只用一次。其中有一个句子是多余的。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "这个耳机七天之内可以退货。",
+     "pinyin": "zhè ge ěr jī qī tiān zhī nèi kě yǐ tuì huò 。"
+    },
+    {
+     "label": "B",
+     "text": "这件衣服的颜色不太喜欢，想换一件。",
+     "pinyin": "zhè jiàn yī fú de yán sè bù tài xǐ huān ， xiǎng huàn yī jiàn 。"
+    },
+    {
+     "label": "C",
+     "text": "买两件可以送一个小礼物。",
+     "pinyin": "mǎi liǎng jiàn kě yǐ sòng yí gè xiǎo lǐ wù 。"
+    },
+    {
+     "label": "D",
+     "text": "我昨天在网上买了一件衬衫。",
+     "pinyin": "wǒ zuó tiān zài wǎng shàng mǎi le yī jiàn chèn shān 。"
+    },
+    {
+     "label": "E",
+     "text": "超市里的牛奶正在做活动。",
+     "pinyin": "chāo shì lǐ de niú nǎi zhèng zài zuò huó dòng 。"
+    },
+    {
+     "label": "F",
+     "text": "用会员卡可以打九折。",
+     "pinyin": "yòng huì yuán kǎ kě yǐ dǎ jiǔ zhé 。"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "你想换一件衣服，因为不喜欢颜色。",
+     "correctAnswer": "B",
+     "explanation": "句子说衣服颜色不喜欢想换，与问题中因颜色想换衣服的意思一致。",
+     "id": "q1",
+     "type": "match",
+     "pinyin": "nǐ xiǎng huàn yī jiàn yī fú ， yīn wèi bù xǐ huān yán sè 。"
+    },
+    {
+     "prompt": "你听说耳机可以退，觉得很方便。",
+     "correctAnswer": "A",
+     "explanation": "句子里说耳机七天之内可以退货，正好对应问题中知道耳机能退的情况。",
+     "id": "q2",
+     "type": "match",
+     "pinyin": "nǐ tīng shuō ěr jī kě yǐ tuì ， jué de hěn fāng biàn 。"
+    },
+    {
+     "prompt": "你昨天买了衬衫，今天就到了。",
+     "correctAnswer": "D",
+     "explanation": "句子里说昨天在网上买了衬衫，与问题中昨天买了衬衫相符。",
+     "id": "q3",
+     "type": "match",
+     "pinyin": "nǐ zuó tiān mǎi le chèn shān ， jīn tiān jiù dào le 。"
+    },
+    {
+     "prompt": "你想知道怎么省钱，朋友说用会员卡。",
+     "correctAnswer": "F",
+     "explanation": "句子里说用会员卡可以打九折，能省钱，与问题中朋友建议用会员卡一致。",
+     "id": "q4",
+     "type": "match",
+     "pinyin": "nǐ xiǎng zhī dào zěn me shěng qián ， péng yǒu shuō yòng huì yuán kǎ 。"
+    },
+    {
+     "prompt": "超市牛奶有活动，你打算去买。",
+     "correctAnswer": "E",
+     "explanation": "句子里说超市牛奶正在做活动，与问题中牛奶有活动想去买相符。",
+     "id": "q5",
+     "type": "match",
+     "pinyin": "chāo shì niú nǎi yǒu huó dòng ， nǐ dǎ suàn qù mǎi 。"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

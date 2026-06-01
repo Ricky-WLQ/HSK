@@ -1,0 +1,142 @@
+{
+ "id": "hsk1-reading-p407",
+ "level": "1",
+ "section": "reading",
+ "partKey": "reading-p4",
+ "title": "HSK1 Reading P4",
+ "titleZh": "阅读 第四部分（短句理解）",
+ "groups": [
+  {
+   "instruction": "请阅读下面的短文，然后根据短文内容选择正确答案。",
+   "questions": [
+    {
+     "prompt": "我是老师，我在学校工作。★他在哪里工作？",
+     "options": [
+      {
+       "label": "A",
+       "text": "医院",
+       "pinyin": "yī yuàn"
+      },
+      {
+       "label": "B",
+       "text": "学校",
+       "pinyin": "xué xiào"
+      },
+      {
+       "label": "C",
+       "text": "商店",
+       "pinyin": "shāng diàn"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "短文说‘我在学校工作’，所以他在学校工作。",
+     "id": "q1",
+     "type": "passage-mcq",
+     "pinyin": "wǒ shì lǎo shī ， wǒ zài xué xiào gōng zuò 。★ tā zài nǎ lǐ gōng zuò ？"
+    },
+    {
+     "prompt": "他每天开车送人。★他是做什么的？",
+     "options": [
+      {
+       "label": "A",
+       "text": "老师",
+       "pinyin": "lǎo shī"
+      },
+      {
+       "label": "B",
+       "text": "司机",
+       "pinyin": "sī jī"
+      },
+      {
+       "label": "C",
+       "text": "医生",
+       "pinyin": "yī shēng"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "短文说‘他每天开车送人’，这是司机的工作。",
+     "id": "q2",
+     "type": "passage-mcq",
+     "pinyin": "tā měi tiān kāi chē sòng rén 。★ tā shì zuò shén me de ？"
+    },
+    {
+     "prompt": "我早上九点上班，下午五点下班。★我一天工作几个小时？",
+     "options": [
+      {
+       "label": "A",
+       "text": "八小时",
+       "pinyin": "bā xiǎo shí"
+      },
+      {
+       "label": "B",
+       "text": "九小时",
+       "pinyin": "jiǔ xiǎo shí"
+      },
+      {
+       "label": "C",
+       "text": "十小时",
+       "pinyin": "shí xiǎo shí"
+      }
+     ],
+     "correctAnswer": "A",
+     "explanation": "从早上九点到下午五点一共八个小时。",
+     "id": "q3",
+     "type": "passage-mcq",
+     "pinyin": "wǒ zǎo shàng jiǔ diǎn shàng bān ， xià wǔ wǔ diǎn xià bān 。★ wǒ yī tiān gōng zuò jǐ gè xiǎo shí ？"
+    },
+    {
+     "prompt": "我喜欢帮助别人，我是医生。★他喜欢什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "开车",
+       "pinyin": "kāi chē"
+      },
+      {
+       "label": "B",
+       "text": "教书",
+       "pinyin": "jiāo shū"
+      },
+      {
+       "label": "C",
+       "text": "帮助别人",
+       "pinyin": "bāng zhù bié rén"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "短文说‘我喜欢帮助别人’，所以他喜欢帮助别人。",
+     "id": "q4",
+     "type": "passage-mcq",
+     "pinyin": "wǒ xǐ huān bāng zhù bié rén ， wǒ shì yī shēng 。★ tā xǐ huān shén me ？"
+    },
+    {
+     "prompt": "他每天去公司工作。★他去哪里工作？",
+     "options": [
+      {
+       "label": "A",
+       "text": "医院",
+       "pinyin": "yī yuàn"
+      },
+      {
+       "label": "B",
+       "text": "公司",
+       "pinyin": "gōng sī"
+      },
+      {
+       "label": "C",
+       "text": "学校",
+       "pinyin": "xué xiào"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "短文说‘他每天去公司工作’，所以他在公司工作。",
+     "id": "q5",
+     "type": "passage-mcq",
+     "pinyin": "tā měi tiān qù gōng sī gōng zuò 。★ tā qù nǎ lǐ gōng zuò ？"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

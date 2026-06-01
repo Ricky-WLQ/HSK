@@ -1,0 +1,89 @@
+{
+ "id": "hsk1-reading-p304",
+ "level": "1",
+ "section": "reading",
+ "partKey": "reading-p3",
+ "title": "HSK1 Reading P3",
+ "titleZh": "阅读 第三部分（选词填空）",
+ "groups": [
+  {
+   "instruction": "从下面的词语中选择合适的词语填入句子的空白处。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "电影",
+     "pinyin": "diàn yǐng"
+    },
+    {
+     "label": "B",
+     "text": "电视",
+     "pinyin": "diàn shì"
+    },
+    {
+     "label": "C",
+     "text": "饭",
+     "pinyin": "fàn"
+    },
+    {
+     "label": "D",
+     "text": "家",
+     "pinyin": "jiā"
+    },
+    {
+     "label": "E",
+     "text": "北京",
+     "pinyin": "běi jīng"
+    },
+    {
+     "label": "F",
+     "text": "朋友",
+     "pinyin": "péng yǒu"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "我是（ ）人。",
+     "correctAnswer": "E",
+     "explanation": "这句话表示籍贯，“北京”是地点名词，与“人”搭配表示北京人。其他词语不符合句意。",
+     "id": "q1",
+     "type": "cloze-wordbank",
+     "pinyin": "wǒ shì （ ） rén 。"
+    },
+    {
+     "prompt": "我中午吃（ ）。",
+     "correctAnswer": "C",
+     "explanation": "“饭”是食物，与动词“吃”搭配表示吃午饭。其他词语不能作“吃”的宾语。",
+     "id": "q2",
+     "type": "cloze-wordbank",
+     "pinyin": "wǒ zhōng wǔ chī （ ）。"
+    },
+    {
+     "prompt": "我的（ ）是学生。",
+     "correctAnswer": "F",
+     "explanation": "“朋友”指人，可以作主语被“是学生”说明身份。其他词语如“电视”“电影”等不能指人。",
+     "id": "q3",
+     "type": "cloze-wordbank",
+     "pinyin": "wǒ de （ ） shì xué shēng 。"
+    },
+    {
+     "prompt": "我在（ ）里看书。",
+     "correctAnswer": "D",
+     "explanation": "“家”是地点，与方位词“里”搭配表示在家里面。其他词语如“电视”“电影”等不适合与“里”搭配。",
+     "id": "q4",
+     "type": "cloze-wordbank",
+     "pinyin": "wǒ zài （ ） lǐ kàn shū 。"
+    },
+    {
+     "prompt": "我不爱看电视，我爱看（ ）。",
+     "correctAnswer": "A",
+     "explanation": "句子前半句说不爱看电视，后半句爱看的东西应与电视不同，“电影”是常见的娱乐内容，符合逻辑。其他词语如“饭”“朋友”等不能作“看”的宾语。",
+     "id": "q5",
+     "type": "cloze-wordbank",
+     "pinyin": "wǒ bù ài kàn diàn shì ， wǒ ài kàn （ ）。"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

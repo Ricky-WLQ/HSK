@@ -1,0 +1,73 @@
+{
+ "id": "hsk7-9-reading-p302",
+ "level": "7-9",
+ "section": "reading",
+ "partKey": "reading-p3",
+ "title": "HSK7-9 Reading P3",
+ "titleZh": "阅读 第三部分（简答题）",
+ "groups": [
+  {
+   "instruction": "请根据短文内容，用不超过10个字回答下列问题。",
+   "passage": "我们的校园里有一座建于1920年的教学楼，名为“思源楼”。这座建筑融合了中国传统歇山顶与西方新古典主义元素，是近代“中西合璧”建筑的典型代表。据校史记载，思源楼最初由留美归来的建筑师李庄设计，1923年竣工，用作图书馆。抗战期间，曾作为临时医院。1952年院系调整后改为物理实验室。2005年被列为市级文物保护单位。楼前有两棵银杏树，树龄超过百年，与楼同龄。近年学校对思源楼进行了保护性修缮，保留了原来的青砖墙和木质楼梯，同时增加了抗震结构。楼内还保留了一个钟楼，大钟至今仍在报时。学生们常在楼前广场进行写生和历史调研，这座楼成了校园历史教育的活教材。",
+   "questions": [
+    {
+     "prompt": "思源楼建于哪一年？",
+     "correctAnswer": "1920年",
+     "acceptableAnswers": [
+      "1920",
+      "建于1920年"
+     ],
+     "explanation": "原文明确说“建于1920年”，因此答案是1920年。",
+     "id": "q1",
+     "type": "short-answer"
+    },
+    {
+     "prompt": "思源楼的建筑风格特点是什么？",
+     "correctAnswer": "中西合璧",
+     "acceptableAnswers": [
+      "中西合璧建筑",
+      "融合中西"
+     ],
+     "explanation": "原文指出思源楼“融合了中国传统歇山顶与西方新古典主义元素”，是“中西合璧”的典型代表。",
+     "id": "q2",
+     "type": "short-answer"
+    },
+    {
+     "prompt": "抗战期间思源楼曾用作什么？",
+     "correctAnswer": "临时医院",
+     "acceptableAnswers": [
+      "临时医院",
+      "医院"
+     ],
+     "explanation": "原文提到“抗战期间，曾作为临时医院”。",
+     "id": "q3",
+     "type": "short-answer"
+    },
+    {
+     "prompt": "思源楼前银杏树的树龄是多少？",
+     "correctAnswer": "超过百年",
+     "acceptableAnswers": [
+      "超百年",
+      "百年以上"
+     ],
+     "explanation": "原文说“树龄超过百年”。",
+     "id": "q4",
+     "type": "short-answer"
+    },
+    {
+     "prompt": "哪一年思源楼被列为市级文物保护单位？",
+     "correctAnswer": "2005年",
+     "acceptableAnswers": [
+      "2005",
+      "2005年列为"
+     ],
+     "explanation": "原文明确写“2005年被列为市级文物保护单位”。",
+     "id": "q5",
+     "type": "short-answer"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

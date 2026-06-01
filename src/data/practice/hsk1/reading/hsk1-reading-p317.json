@@ -1,0 +1,89 @@
+{
+ "id": "hsk1-reading-p317",
+ "level": "1",
+ "section": "reading",
+ "partKey": "reading-p3",
+ "title": "HSK1 Reading P3",
+ "titleZh": "阅读 第三部分（选词填空）",
+ "groups": [
+  {
+   "instruction": "从下面词语中选择合适的词填入句子的空白处。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "鱼",
+     "pinyin": "yú"
+    },
+    {
+     "label": "B",
+     "text": "喜欢",
+     "pinyin": "xǐ huān"
+    },
+    {
+     "label": "C",
+     "text": "好吃",
+     "pinyin": "hǎo chī"
+    },
+    {
+     "label": "D",
+     "text": "很",
+     "pinyin": "hěn"
+    },
+    {
+     "label": "E",
+     "text": "米饭",
+     "pinyin": "mǐ fàn"
+    },
+    {
+     "label": "F",
+     "text": "茶",
+     "pinyin": "chá"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "妈妈做的鱼很（ ）。",
+     "correctAnswer": "C",
+     "explanation": "“好吃”是形容词，表示味道好，常用于形容食物。句中“鱼”是食物，所以填“好吃”合适。",
+     "id": "q1",
+     "type": "cloze-wordbank",
+     "pinyin": "mā mā zuò de yú hěn （ ）。"
+    },
+    {
+     "prompt": "我很（ ）吃米饭。",
+     "correctAnswer": "B",
+     "explanation": "“喜欢”是动词，表示对某事或某物有好感。句子表达对吃米饭的喜爱，所以填“喜欢”。",
+     "id": "q2",
+     "type": "cloze-wordbank",
+     "pinyin": "wǒ hěn （ ） chī mǐ fàn 。"
+    },
+    {
+     "prompt": "妈妈做鱼，我们还吃（ ）。",
+     "correctAnswer": "E",
+     "explanation": "“米饭”是常见的主食。句中说除了鱼之外还吃别的东西，米饭是一种常见的主食，所以填“米饭”。",
+     "id": "q3",
+     "type": "cloze-wordbank",
+     "pinyin": "mā mā zuò yú ， wǒ men hái chī （ ）。"
+    },
+    {
+     "prompt": "爸爸喜欢喝（ ）。",
+     "correctAnswer": "F",
+     "explanation": "“茶”是一种常见的饮料，人们常喝。句中“喝”后面需要饮料类词语，“茶”符合。",
+     "id": "q4",
+     "type": "cloze-wordbank",
+     "pinyin": "bà bà xǐ huān hē （ ）。"
+    },
+    {
+     "prompt": "妈妈做鱼，妹妹也吃（ ）。",
+     "correctAnswer": "A",
+     "explanation": "“也”表示同样，妈妈做了鱼，妹妹同样吃鱼，所以填“鱼”。",
+     "id": "q5",
+     "type": "cloze-wordbank",
+     "pinyin": "mā mā zuò yú ， mèi mèi yě chī （ ）。"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

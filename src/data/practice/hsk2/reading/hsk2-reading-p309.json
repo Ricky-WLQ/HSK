@@ -1,0 +1,89 @@
+{
+ "id": "hsk2-reading-p309",
+ "level": "2",
+ "section": "reading",
+ "partKey": "reading-p3",
+ "title": "HSK2 Reading P3",
+ "titleZh": "阅读 第三部分（句子匹配）",
+ "groups": [
+  {
+   "instruction": "请将下列问题和回答进行配对，每个问题只有一个正确的回答。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "他喜欢在电脑上画画。",
+     "pinyin": "tā xǐ huān zài diàn nǎo shàng huà huà 。"
+    },
+    {
+     "label": "B",
+     "text": "妈妈喜欢做饭。",
+     "pinyin": "mā mā xǐ huān zuò fàn 。"
+    },
+    {
+     "label": "C",
+     "text": "我们一起去看电影吧！",
+     "pinyin": "wǒ men yì qǐ qù kàn diàn yǐng ba ！"
+    },
+    {
+     "label": "D",
+     "text": "他晚上听音乐看书。",
+     "pinyin": "tā wǎn shàng tīng yīn yuè kàn shū 。"
+    },
+    {
+     "label": "E",
+     "text": "我每天给花浇水。",
+     "pinyin": "wǒ měi tiān gěi huā jiāo shuǐ 。"
+    },
+    {
+     "label": "F",
+     "text": "她周末去学跳舞。",
+     "pinyin": "tā zhōu mò qù xué tiào wǔ 。"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "你每天做什么？",
+     "correctAnswer": "E",
+     "explanation": "问的是你每天做的事情，回答是给花浇水，所以匹配。",
+     "id": "q1",
+     "type": "match",
+     "pinyin": "nǐ měi tiān zuò shén me ？"
+    },
+    {
+     "prompt": "他喜欢在哪里画画？",
+     "correctAnswer": "A",
+     "explanation": "问的是他画画的地点，回答是在电脑上，所以匹配。",
+     "id": "q2",
+     "type": "match",
+     "pinyin": "tā xǐ huān zài nǎ lǐ huà huà ？"
+    },
+    {
+     "prompt": "她周末去学什么？",
+     "correctAnswer": "F",
+     "explanation": "问的是她周末学习的内容，回答是跳舞，所以匹配。",
+     "id": "q3",
+     "type": "match",
+     "pinyin": "tā zhōu mò qù xué shén me ？"
+    },
+    {
+     "prompt": "我们一起做什么？",
+     "correctAnswer": "C",
+     "explanation": "问的是提议一起做的事情，回答是去看电影，所以匹配。",
+     "id": "q4",
+     "type": "match",
+     "pinyin": "wǒ men yì qǐ zuò shén me ？"
+    },
+    {
+     "prompt": "他晚上做什么？",
+     "correctAnswer": "D",
+     "explanation": "问的是他晚上的活动，回答是听音乐看书，所以匹配。",
+     "id": "q5",
+     "type": "match",
+     "pinyin": "tā wǎn shàng zuò shén me ？"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

@@ -1,0 +1,89 @@
+{
+ "id": "hsk2-reading-p317",
+ "level": "2",
+ "section": "reading",
+ "partKey": "reading-p3",
+ "title": "HSK2 Reading P3",
+ "titleZh": "阅读 第三部分（句子匹配）",
+ "groups": [
+  {
+   "instruction": "请从选项中选择正确的回答，完成对话。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "这个电影很好看。",
+     "pinyin": "zhè ge diàn yǐng hěn hǎo kàn 。"
+    },
+    {
+     "label": "B",
+     "text": "电影八点开始。",
+     "pinyin": "diàn yǐng bā diǎn kāi shǐ 。"
+    },
+    {
+     "label": "C",
+     "text": "我买了两张票。",
+     "pinyin": "wǒ mǎi le liǎng zhāng piào 。"
+    },
+    {
+     "label": "D",
+     "text": "我不喜欢这个电影。",
+     "pinyin": "wǒ bù xǐ huān zhè ge diàn yǐng 。"
+    },
+    {
+     "label": "E",
+     "text": "我们买水喝。",
+     "pinyin": "wǒ men mǎi shuǐ hē 。"
+    },
+    {
+     "label": "F",
+     "text": "我朋友也来了。",
+     "pinyin": "wǒ péng yǒu yě lái le 。"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "电影几点开始？",
+     "correctAnswer": "B",
+     "explanation": "问题问电影开始的时间，选项A直接给出了具体时间“八点”，所以正确。",
+     "id": "q1",
+     "type": "match",
+     "pinyin": "diàn yǐng jǐ diǎn kāi shǐ ？"
+    },
+    {
+     "prompt": "你买票了吗？",
+     "correctAnswer": "C",
+     "explanation": "问题问是否买了票，选项B回答“买了两张票”，表明已经买了，所以正确。",
+     "id": "q2",
+     "type": "match",
+     "pinyin": "nǐ mǎi piào le ma ？"
+    },
+    {
+     "prompt": "我们要不要买点水？",
+     "correctAnswer": "E",
+     "explanation": "问题提议买水，选项C建议“我们买水喝”，表示同意并行动，所以正确。",
+     "id": "q3",
+     "type": "match",
+     "pinyin": "wǒ men yào bù yào mǎi diǎn shuǐ ？"
+    },
+    {
+     "prompt": "你觉得这个电影怎么样？",
+     "correctAnswer": "A",
+     "explanation": "问题询问对电影的看法，选项D说“这个电影很好看”，直接给出正面评价，所以正确。",
+     "id": "q4",
+     "type": "match",
+     "pinyin": "nǐ jué de zhè ge diàn yǐng zěn me yàng ？"
+    },
+    {
+     "prompt": "你一个人来看电影吗？",
+     "correctAnswer": "F",
+     "explanation": "问题问是否一个人，选项E说“我朋友也来了”，表示不是一个人，所以正确。",
+     "id": "q5",
+     "type": "match",
+     "pinyin": "nǐ yí gè rén lái kàn diàn yǐng ma ？"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

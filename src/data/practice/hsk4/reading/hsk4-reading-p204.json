@@ -1,0 +1,118 @@
+{
+ "id": "hsk4-reading-p204",
+ "level": "4",
+ "section": "reading",
+ "partKey": "reading-p2",
+ "title": "HSK4 Reading P2",
+ "titleZh": "阅读 第二部分（短文理解）",
+ "groups": [
+  {
+   "instruction": "请根据短文内容，选择正确答案。",
+   "passage": "小刘最近在自学网页设计，他想做一个自己的个人网站。可是在编写代码的时候，他发现页面总是显示错误。他查了很多资料，试了好几次，都没有解决。于是他在一个技术论坛上发了一个帖子，详细说明了自己的问题。没想到，不到一个小时，就有好几位网友回复了他。其中一位网友给出了正确的代码，小刘按照建议修改后，页面终于正常显示了。小刘非常开心，他觉得互联网让他能很快得到别人的帮助，学习效率提高了不少。",
+   "questions": [
+    {
+     "prompt": "小刘最近在做什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "自学网页设计"
+      },
+      {
+       "label": "B",
+       "text": "写小说"
+      },
+      {
+       "label": "C",
+       "text": "做视频"
+      },
+      {
+       "label": "D",
+       "text": "学习汉语"
+      }
+     ],
+     "correctAnswer": "A",
+     "explanation": "短文第一句说“小刘最近在自学网页设计”，所以正确答案是自学网页设计。",
+     "id": "q1",
+     "type": "passage-mcq"
+    },
+    {
+     "prompt": "小刘遇到了什么问题？",
+     "options": [
+      {
+       "label": "A",
+       "text": "页面显示错误"
+      },
+      {
+       "label": "B",
+       "text": "没有人回复"
+      },
+      {
+       "label": "C",
+       "text": "电脑坏了"
+      },
+      {
+       "label": "D",
+       "text": "网站被关闭"
+      }
+     ],
+     "correctAnswer": "A",
+     "explanation": "短文中提到“他发现页面总是显示错误”，这是小刘遇到的问题。",
+     "id": "q2",
+     "type": "passage-mcq"
+    },
+    {
+     "prompt": "小刘是怎么解决问题的？",
+     "options": [
+      {
+       "label": "A",
+       "text": "在论坛发帖求助"
+      },
+      {
+       "label": "B",
+       "text": "请教老师"
+      },
+      {
+       "label": "C",
+       "text": "打电话给朋友"
+      },
+      {
+       "label": "D",
+       "text": "自己查书"
+      }
+     ],
+     "correctAnswer": "A",
+     "explanation": "短文说“他在一个技术论坛上发了一个帖子”，然后网友回复给出了正确代码，所以他是在论坛发帖求助解决的。",
+     "id": "q3",
+     "type": "passage-mcq"
+    },
+    {
+     "prompt": "关于互联网，小刘觉得怎么样？",
+     "options": [
+      {
+       "label": "A",
+       "text": "信息太多了"
+      },
+      {
+       "label": "B",
+       "text": "学习效率提高了"
+      },
+      {
+       "label": "C",
+       "text": "浪费了很多时间"
+      },
+      {
+       "label": "D",
+       "text": "让人更孤独"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "短文最后一句说“他觉得互联网让他能很快得到别人的帮助，学习效率提高了不少”，所以他认为互联网提高了学习效率。",
+     "id": "q4",
+     "type": "passage-mcq"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

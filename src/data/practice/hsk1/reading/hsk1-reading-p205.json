@@ -1,0 +1,89 @@
+{
+ "id": "hsk1-reading-p205",
+ "level": "1",
+ "section": "reading",
+ "partKey": "reading-p2",
+ "title": "HSK1 Reading P2",
+ "titleZh": "阅读 第二部分（问答匹配）",
+ "groups": [
+  {
+   "instruction": "请从A-F中选择合适的回答。每个回答只使用一次。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "天很热。",
+     "pinyin": "tiān hěn rè 。"
+    },
+    {
+     "label": "B",
+     "text": "水里有东西。",
+     "pinyin": "shuǐ lǐ yǒu dōng xī 。"
+    },
+    {
+     "label": "C",
+     "text": "今天下雨了。",
+     "pinyin": "jīn tiān xià yǔ le 。"
+    },
+    {
+     "label": "D",
+     "text": "我喝很多水。",
+     "pinyin": "wǒ hē hěn duō shuǐ 。"
+    },
+    {
+     "label": "E",
+     "text": "我喜欢看水。",
+     "pinyin": "wǒ xǐ huān kàn shuǐ 。"
+    },
+    {
+     "label": "F",
+     "text": "我们去水里。",
+     "pinyin": "wǒ men qù shuǐ lǐ 。"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "今天下雨了吗？",
+     "correctAnswer": "C",
+     "explanation": "问题询问是否下雨，回答“今天下雨了”直接肯定，其他选项均不涉及下雨。",
+     "id": "q1",
+     "type": "match",
+     "pinyin": "jīn tiān xià yǔ le ma ？"
+    },
+    {
+     "prompt": "你喜欢水吗？",
+     "correctAnswer": "E",
+     "explanation": "问题询问对水的喜好，回答“我喜欢看水”表达了喜欢，其他选项未表达喜欢之情。",
+     "id": "q2",
+     "type": "match",
+     "pinyin": "nǐ xǐ huān shuǐ ma ？"
+    },
+    {
+     "prompt": "水里有什么？",
+     "correctAnswer": "B",
+     "explanation": "问题询问水中存在什么，回答“水里有东西”直接说明有水中的物品，其他选项不相关。",
+     "id": "q3",
+     "type": "match",
+     "pinyin": "shuǐ lǐ yǒu shén me ？"
+    },
+    {
+     "prompt": "我们去哪里？",
+     "correctAnswer": "F",
+     "explanation": "问题询问去处，回答“我们去水里”指明了方向，其他选项均未回答地点。",
+     "id": "q4",
+     "type": "match",
+     "pinyin": "wǒ men qù nǎ lǐ ？"
+    },
+    {
+     "prompt": "你喝什么？",
+     "correctAnswer": "D",
+     "explanation": "问题询问喝的饮品，回答“我喝很多水”明确回答喝的是水，其他选项与喝无关。",
+     "id": "q5",
+     "type": "match",
+     "pinyin": "nǐ hē shén me ？"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

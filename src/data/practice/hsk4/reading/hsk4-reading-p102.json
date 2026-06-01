@@ -1,0 +1,74 @@
+{
+ "id": "hsk4-reading-p102",
+ "level": "4",
+ "section": "reading",
+ "partKey": "reading-p1",
+ "title": "HSK4 Reading P1",
+ "titleZh": "阅读 第一部分（选词填空）",
+ "groups": [
+  {
+   "instruction": "从以下词语中选择正确的词填入句子空白处。每个词语只使用一次。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "会员"
+    },
+    {
+     "label": "B",
+     "text": "促销"
+    },
+    {
+     "label": "C",
+     "text": "发票"
+    },
+    {
+     "label": "D",
+     "text": "折扣"
+    },
+    {
+     "label": "E",
+     "text": "退款"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "这家商店正在举办______活动，购物满200元减50元。",
+     "correctAnswer": "B",
+     "explanation": "“促销”指商家为吸引顾客而进行的价格优惠或赠送活动，与“活动”搭配，符合句意。",
+     "id": "q1",
+     "type": "cloze-wordbank"
+    },
+    {
+     "prompt": "如果你对产品质量不满意，可以申请______。",
+     "correctAnswer": "E",
+     "explanation": "“退款”指退回已支付的款项，常用于商品不满意时的处理方式。",
+     "id": "q2",
+     "type": "cloze-wordbank"
+    },
+    {
+     "prompt": "请保留好这张______，它是你购物的凭证。",
+     "correctAnswer": "C",
+     "explanation": "“发票”是购物后商家提供的收据或凭证，用于证明交易。",
+     "id": "q3",
+     "type": "cloze-wordbank"
+    },
+    {
+     "prompt": "成为我们的______，可以享受更多优惠。",
+     "correctAnswer": "A",
+     "explanation": "“会员”指加入某组织或商店的成员，通常享有特殊待遇，如优惠。",
+     "id": "q4",
+     "type": "cloze-wordbank"
+    },
+    {
+     "prompt": "这款商品现在打七折，______后的价格很划算。",
+     "correctAnswer": "D",
+     "explanation": "“折扣”指商品原价减去的部分，常与“打几折”相关，这里“折扣后的价格”指打折后的价格。",
+     "id": "q5",
+     "type": "cloze-wordbank"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

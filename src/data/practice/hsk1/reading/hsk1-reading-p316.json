@@ -1,0 +1,89 @@
+{
+ "id": "hsk1-reading-p316",
+ "level": "1",
+ "section": "reading",
+ "partKey": "reading-p3",
+ "title": "HSK1 Reading P3",
+ "titleZh": "阅读 第三部分（选词填空）",
+ "groups": [
+  {
+   "instruction": "请从下面的词语中选择合适的词填入句子的空白处（ ）中。每个词只能用一次，有一个词多余。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "和",
+     "pinyin": "hé"
+    },
+    {
+     "label": "B",
+     "text": "爱",
+     "pinyin": "ài"
+    },
+    {
+     "label": "C",
+     "text": "好",
+     "pinyin": "hǎo"
+    },
+    {
+     "label": "D",
+     "text": "请",
+     "pinyin": "qǐng"
+    },
+    {
+     "label": "E",
+     "text": "也",
+     "pinyin": "yě"
+    },
+    {
+     "label": "F",
+     "text": "叫",
+     "pinyin": "jiào"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "我（ ）你都是学生。",
+     "correctAnswer": "A",
+     "explanation": "“和”表示“跟、与”，用来连接“我”和“你”，构成并列主语，句子意思为“我和你都是学生”。其他词语如“爱”“叫”“请”“好”填入后，句子不通顺或意思不合理。",
+     "id": "q1",
+     "type": "cloze-wordbank",
+     "pinyin": "wǒ （ ） nǐ dōu shì xué shēng 。"
+    },
+    {
+     "prompt": "他（ ）我的名字。",
+     "correctAnswer": "F",
+     "explanation": "“叫”在这里表示“称呼”，句子意思是“他叫我的名字”，符合语境。其他词语如“爱”“和”“请”“好”填入后，无法表达正确的意思。",
+     "id": "q2",
+     "type": "cloze-wordbank",
+     "pinyin": "tā （ ） wǒ de míng zì 。"
+    },
+    {
+     "prompt": "我（ ）苹果和茶。",
+     "correctAnswer": "B",
+     "explanation": "“爱”表示“喜欢”，句子意思是“我喜欢苹果和茶”。其他词语如“叫”“和”“请”“好”填入后，句子语法不通或语义错误。",
+     "id": "q3",
+     "type": "cloze-wordbank",
+     "pinyin": "wǒ （ ） píng guǒ hé chá 。"
+    },
+    {
+     "prompt": "（ ）坐一下吧。",
+     "correctAnswer": "D",
+     "explanation": "“请”用于礼貌地邀请或请求，句子“请坐一下吧”是常见的礼貌用语。其他词语如“爱”“叫”“和”“好”填入后，无法构成正确的祈使句。",
+     "id": "q4",
+     "type": "cloze-wordbank",
+     "pinyin": "（ ） zuò yī xià ba 。"
+    },
+    {
+     "prompt": "我们三个是（ ）朋友。",
+     "correctAnswer": "C",
+     "explanation": "“好”表示“友好、亲密”，句子“我们是好朋友”意思是“我们是关系很好的朋友”。其他词语如“爱”“叫”“和”“请”填入后，句子语义不通。",
+     "id": "q5",
+     "type": "cloze-wordbank",
+     "pinyin": "wǒ men sān gè shì （ ） péng yǒu 。"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

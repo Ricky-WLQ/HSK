@@ -1,0 +1,70 @@
+{
+ "id": "hsk7-9-reading-p308",
+ "level": "7-9",
+ "section": "reading",
+ "partKey": "reading-p3",
+ "title": "HSK7-9 Reading P3",
+ "titleZh": "阅读 第三部分（简答题）",
+ "groups": [
+  {
+   "instruction": "阅读下面的短文，然后回答问题。每个问题的答案请在短文中提取或概括，不超过10个字。",
+   "passage": "近年来，海洋塑料污染问题日益严峻。据统计，每年约有800万吨塑料垃圾进入海洋，相当于每分钟向大海倾倒一卡车的塑料。这些塑料垃圾在海洋中难以降解，会逐渐破碎成直径小于5毫米的微塑料。微塑料因其体积小，极易被海洋生物误食，例如浮游动物、鱼类、贝类等。研究表明，微塑料不仅存在于海洋生物体内，还通过食物链传递，最终可能进入人体。此外，塑料制品中的添加剂如双酚A等有毒物质会随微塑料释放，对海洋生态和人类健康造成潜在风险。全球各国已开始采取行动，例如限制一次性塑料制品的使用、推广可降解材料、加强海洋垃圾清理等。然而，要彻底解决这一问题，仍需国际社会的共同努力。",
+   "questions": [
+    {
+     "prompt": "每年有多少万吨塑料垃圾进入海洋？",
+     "correctAnswer": "800万吨",
+     "acceptableAnswers": [
+      "800万吨"
+     ],
+     "explanation": "短文中明确提到“每年约有800万吨塑料垃圾进入海洋”。",
+     "id": "q1",
+     "type": "short-answer"
+    },
+    {
+     "prompt": "塑料垃圾破碎后形成的微小颗粒叫什么？",
+     "correctAnswer": "微塑料",
+     "acceptableAnswers": [
+      "微塑料"
+     ],
+     "explanation": "短文中说明“塑料垃圾难以降解，会逐渐破碎成直径小于5毫米的微塑料”。",
+     "id": "q2",
+     "type": "short-answer"
+    },
+    {
+     "prompt": "微塑料主要通过什么途径进入人体？",
+     "correctAnswer": "食物链传递",
+     "acceptableAnswers": [
+      "通过食物链",
+      "食物链"
+     ],
+     "explanation": "短文中指出“微塑料通过食物链传递，最终可能进入人体”。",
+     "id": "q3",
+     "type": "short-answer"
+    },
+    {
+     "prompt": "塑料制品中什么有毒物质会随微塑料释放？",
+     "correctAnswer": "双酚A",
+     "acceptableAnswers": [
+      "双酚A等",
+      "双酚A等有毒物质"
+     ],
+     "explanation": "短文中提到“塑料制品中的添加剂如双酚A等有毒物质会随微塑料释放”。",
+     "id": "q4",
+     "type": "short-answer"
+    },
+    {
+     "prompt": "各国限制什么塑料制品的使用？",
+     "correctAnswer": "一次性塑料制品",
+     "acceptableAnswers": [
+      "一次性塑料制品"
+     ],
+     "explanation": "短文中写道“全球各国已开始采取行动，例如限制一次性塑料制品的使用”。",
+     "id": "q5",
+     "type": "short-answer"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

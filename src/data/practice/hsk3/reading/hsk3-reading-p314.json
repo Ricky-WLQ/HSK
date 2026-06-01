@@ -1,0 +1,118 @@
+{
+ "id": "hsk3-reading-p314",
+ "level": "3",
+ "section": "reading",
+ "partKey": "reading-p3",
+ "title": "HSK3 Reading P3",
+ "titleZh": "阅读 第三部分（短文理解）",
+ "groups": [
+  {
+   "instruction": "请阅读下面的短文，然后根据短文内容选择正确答案。",
+   "passage": "中秋节是中国的传统节日。每年农历八月十五，家人会聚在一起吃月饼、赏月亮。今年中秋节，小明和父母一起去了奶奶家。奶奶做了很多好吃的菜，还买了不同口味的月饼。晚上，他们一边吃月饼一边看月亮，非常开心。",
+   "questions": [
+    {
+     "prompt": "中秋节是在什么时候？",
+     "options": [
+      {
+       "label": "A",
+       "text": "每年农历八月十五",
+       "pinyin": "měi nián nóng lì bā yuè shí wǔ"
+      },
+      {
+       "label": "B",
+       "text": "每年公历八月十五",
+       "pinyin": "měi nián gōng lì bā yuè shí wǔ"
+      },
+      {
+       "label": "C",
+       "text": "每个月的十五",
+       "pinyin": "měi gè yuè de shí wǔ"
+      }
+     ],
+     "correctAnswer": "A",
+     "explanation": "短文中明确指出“每年农历八月十五”，所以中秋节是在农历八月十五。",
+     "id": "q1",
+     "type": "passage-mcq",
+     "pinyin": "zhōng qiū jié shì zài shén me shí hòu ？"
+    },
+    {
+     "prompt": "今年中秋节小明和谁一起去了奶奶家？",
+     "options": [
+      {
+       "label": "A",
+       "text": "父母",
+       "pinyin": "fù mǔ"
+      },
+      {
+       "label": "B",
+       "text": "朋友",
+       "pinyin": "péng yǒu"
+      },
+      {
+       "label": "C",
+       "text": "老师",
+       "pinyin": "lǎo shī"
+      }
+     ],
+     "correctAnswer": "A",
+     "explanation": "短文中说“小明和父母一起去了奶奶家”，所以是和父母一起去的。",
+     "id": "q2",
+     "type": "passage-mcq",
+     "pinyin": "jīn nián zhōng qiū jié xiǎo míng hé shuí yì qǐ qù le nǎi nǎi jiā ？"
+    },
+    {
+     "prompt": "奶奶为中秋节做了什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "做了月饼",
+       "pinyin": "zuò le yuè bǐng"
+      },
+      {
+       "label": "B",
+       "text": "买了水果",
+       "pinyin": "mǎi le shuǐ guǒ"
+      },
+      {
+       "label": "C",
+       "text": "做了很多好吃的菜",
+       "pinyin": "zuò le hěn duō hǎo chī de cài"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "短文中提到“奶奶做了很多好吃的菜”，而不是做了月饼或买了水果。",
+     "id": "q3",
+     "type": "passage-mcq",
+     "pinyin": "nǎi nǎi wèi zhōng qiū jié zuò le shén me ？"
+    },
+    {
+     "prompt": "晚上他们一家人在做什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "吃月饼和看月亮",
+       "pinyin": "chī yuè bǐng hé kàn yuè liàng"
+      },
+      {
+       "label": "B",
+       "text": "看电视",
+       "pinyin": "kàn diàn shì"
+      },
+      {
+       "label": "C",
+       "text": "去公园玩",
+       "pinyin": "qù gōng yuán wán"
+      }
+     ],
+     "correctAnswer": "A",
+     "explanation": "短文最后说“他们一边吃月饼一边看月亮”，所以是吃月饼和看月亮。",
+     "id": "q4",
+     "type": "passage-mcq",
+     "pinyin": "wǎn shàng tā men yī jiā rén zài zuò shén me ？"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

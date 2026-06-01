@@ -1,0 +1,89 @@
+{
+ "id": "hsk1-reading-p303",
+ "level": "1",
+ "section": "reading",
+ "partKey": "reading-p3",
+ "title": "HSK1 Reading P3",
+ "titleZh": "阅读 第三部分（选词填空）",
+ "groups": [
+  {
+   "instruction": "请从A-F中选择合适的词语填入句子的括号中。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "碗",
+     "pinyin": "wǎn"
+    },
+    {
+     "label": "B",
+     "text": "茶",
+     "pinyin": "chá"
+    },
+    {
+     "label": "C",
+     "text": "饭",
+     "pinyin": "fàn"
+    },
+    {
+     "label": "D",
+     "text": "菜",
+     "pinyin": "cài"
+    },
+    {
+     "label": "E",
+     "text": "水",
+     "pinyin": "shuǐ"
+    },
+    {
+     "label": "F",
+     "text": "苹果",
+     "pinyin": "píng guǒ"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "中国人爱喝（ ）",
+     "correctAnswer": "B",
+     "explanation": "中国人有喝茶的传统，茶是常见的饮品，因此填“茶”。",
+     "id": "q1",
+     "type": "cloze-wordbank",
+     "pinyin": "zhōng guó rén ài hē （ ）"
+    },
+    {
+     "prompt": "我吃（ ）和菜",
+     "correctAnswer": "C",
+     "explanation": "“饭”指米饭或主食，与菜搭配，符合日常饮食习惯。",
+     "id": "q2",
+     "type": "cloze-wordbank",
+     "pinyin": "wǒ chī （ ） hé cài"
+    },
+    {
+     "prompt": "吃饭要用（ ）",
+     "correctAnswer": "A",
+     "explanation": "“碗”是盛饭的餐具，吃饭时常用碗，所以填“碗”。",
+     "id": "q3",
+     "type": "cloze-wordbank",
+     "pinyin": "chī fàn yào yòng （ ）"
+    },
+    {
+     "prompt": "妈妈买（ ）和苹果",
+     "correctAnswer": "D",
+     "explanation": "“菜”是烹饪的食材，妈妈常买菜，与苹果并列合理。",
+     "id": "q4",
+     "type": "cloze-wordbank",
+     "pinyin": "mā mā mǎi （ ） hé píng guǒ"
+    },
+    {
+     "prompt": "我喝很多（ ）",
+     "correctAnswer": "E",
+     "explanation": "“水”是日常饮品，喝很多水是常见的表达。",
+     "id": "q5",
+     "type": "cloze-wordbank",
+     "pinyin": "wǒ hē hěn duō （ ）"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

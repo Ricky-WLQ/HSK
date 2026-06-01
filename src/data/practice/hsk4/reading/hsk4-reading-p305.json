@@ -1,0 +1,118 @@
+{
+ "id": "hsk4-reading-p305",
+ "level": "4",
+ "section": "reading",
+ "partKey": "reading-p3",
+ "title": "HSK4 Reading P3",
+ "titleZh": "阅读 第二部分B（中篇理解）",
+ "groups": [
+  {
+   "instruction": "读短文，选择正确答案。",
+   "passage": "李明是一名平面设计师，工作已经三年了。上个月，他接到一个重要项目，为一家公司设计新的标志。客户对设计的要求非常高，李明第一次提交的设计没有被接受。于是，他认真研究客户的想法，又改了五次。在这个过程中，他的同事也给了他很多建议。最后，李明终于做出了让客户非常满意的设计。客户不仅立刻同意了方案，还表扬了他的专业态度。这次经历让李明学到了很多，他明白了只有不断努力和学习，才能取得进步。",
+   "questions": [
+    {
+     "prompt": "李明的工作是什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "设计师"
+      },
+      {
+       "label": "B",
+       "text": "医生"
+      },
+      {
+       "label": "C",
+       "text": "工程师"
+      },
+      {
+       "label": "D",
+       "text": "教师"
+      }
+     ],
+     "correctAnswer": "A",
+     "explanation": "原文第一句明确说“李明是一名平面设计师”，所以他是设计师。",
+     "id": "q1",
+     "type": "passage-mcq"
+    },
+    {
+     "prompt": "李明修改了几次设计？",
+     "options": [
+      {
+       "label": "A",
+       "text": "两次"
+      },
+      {
+       "label": "B",
+       "text": "六次"
+      },
+      {
+       "label": "C",
+       "text": "五次"
+      },
+      {
+       "label": "D",
+       "text": "三次"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "原文提到“又改了五次”，所以修改了五次。",
+     "id": "q2",
+     "type": "passage-mcq"
+    },
+    {
+     "prompt": "这篇文章主要告诉我们什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "做设计很容易"
+      },
+      {
+       "label": "B",
+       "text": "客户很难对付"
+      },
+      {
+       "label": "C",
+       "text": "努力工作才能进步"
+      },
+      {
+       "label": "D",
+       "text": "同事的帮助不重要"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "文章最后说“只有不断努力和学习，才能取得进步”，这是全文的主旨。",
+     "id": "q3",
+     "type": "passage-mcq"
+    },
+    {
+     "prompt": "关于这次经历，下面哪项是正确的？",
+     "options": [
+      {
+       "label": "A",
+       "text": "李明不想再做设计"
+      },
+      {
+       "label": "B",
+       "text": "客户对李明不满意"
+      },
+      {
+       "label": "C",
+       "text": "李明第一次设计就通过了"
+      },
+      {
+       "label": "D",
+       "text": "李明得到了客户的表扬"
+      }
+     ],
+     "correctAnswer": "D",
+     "explanation": "原文说“客户不仅立刻同意了方案，还表扬了他的专业态度”，所以李明得到了表扬。",
+     "id": "q4",
+     "type": "passage-mcq"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

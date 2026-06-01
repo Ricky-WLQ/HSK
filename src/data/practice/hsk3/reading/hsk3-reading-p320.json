@@ -1,0 +1,118 @@
+{
+ "id": "hsk3-reading-p320",
+ "level": "3",
+ "section": "reading",
+ "partKey": "reading-p3",
+ "title": "HSK3 Reading P3",
+ "titleZh": "阅读 第三部分（短文理解）",
+ "groups": [
+  {
+   "instruction": "阅读下面的短文，然后根据短文内容选择正确答案。",
+   "passage": "昨天上午，小王从北京坐高铁去上海看朋友。车上人很多，他看到一位老人没有座位，就把自己的座位让给了老人。老人非常感谢他。三个小时后，高铁到了上海，他的朋友小李在车站接他。他们一起去了一家饭店，吃了上海菜。",
+   "questions": [
+    {
+     "prompt": "小王从哪里坐高铁去上海？",
+     "options": [
+      {
+       "label": "A",
+       "text": "天津",
+       "pinyin": "tiān jīn"
+      },
+      {
+       "label": "B",
+       "text": "上海",
+       "pinyin": "shàng hǎi"
+      },
+      {
+       "label": "C",
+       "text": "北京",
+       "pinyin": "běi jīng"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "根据文章第一句“小王从北京坐高铁去上海”，可知小王是从北京出发的。",
+     "id": "q1",
+     "type": "passage-mcq",
+     "pinyin": "xiǎo wáng cóng nǎ lǐ zuò gāo tiě qù shàng hǎi ？"
+    },
+    {
+     "prompt": "小王为什么把座位让给老人？",
+     "options": [
+      {
+       "label": "A",
+       "text": "他想和老人聊天",
+       "pinyin": "tā xiǎng hé lǎo rén liáo tiān"
+      },
+      {
+       "label": "B",
+       "text": "老人没有座位",
+       "pinyin": "lǎo rén méi yǒu zuò wèi"
+      },
+      {
+       "label": "C",
+       "text": "老人是他的朋友",
+       "pinyin": "lǎo rén shì tā de péng yǒu"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "文中说“他看到一位老人没有座位，就把自己的座位让给了老人”，所以原因是他看到老人没有座位。",
+     "id": "q2",
+     "type": "passage-mcq",
+     "pinyin": "xiǎo wáng wèi shén me bǎ zuò wèi ràng gěi lǎo rén ？"
+    },
+    {
+     "prompt": "谁在车站接小王？",
+     "options": [
+      {
+       "label": "A",
+       "text": "老人",
+       "pinyin": "lǎo rén"
+      },
+      {
+       "label": "B",
+       "text": "小李",
+       "pinyin": "xiǎo lǐ"
+      },
+      {
+       "label": "C",
+       "text": "小王的妈妈",
+       "pinyin": "xiǎo wáng de mā mā"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "文中提到“他的朋友小李在车站接他”，所以是小李来接他。",
+     "id": "q3",
+     "type": "passage-mcq",
+     "pinyin": "shuí zài chē zhàn jiē xiǎo wáng ？"
+    },
+    {
+     "prompt": "小王和小李吃了什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "日本菜",
+       "pinyin": "rì běn cài"
+      },
+      {
+       "label": "B",
+       "text": "北京菜",
+       "pinyin": "běi jīng cài"
+      },
+      {
+       "label": "C",
+       "text": "上海菜",
+       "pinyin": "shàng hǎi cài"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "最后一句说“他们一起去了一家饭店，吃了上海菜”，所以吃的是上海菜。",
+     "id": "q4",
+     "type": "passage-mcq",
+     "pinyin": "xiǎo wáng hé xiǎo lǐ chī le shén me ？"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

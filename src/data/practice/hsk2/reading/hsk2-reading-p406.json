@@ -1,0 +1,142 @@
+{
+ "id": "hsk2-reading-p406",
+ "level": "2",
+ "section": "reading",
+ "partKey": "reading-p4",
+ "title": "HSK2 Reading P4",
+ "titleZh": "阅读 第四部分（短文理解）",
+ "groups": [
+  {
+   "instruction": "请阅读短文，然后选出正确答案。",
+   "questions": [
+    {
+     "prompt": "王医生今天看了二十个病人，他很累。★他做什么工作？",
+     "options": [
+      {
+       "label": "A",
+       "text": "老师",
+       "pinyin": "lǎo shī"
+      },
+      {
+       "label": "B",
+       "text": "医生",
+       "pinyin": "yī shēng"
+      },
+      {
+       "label": "C",
+       "text": "司机",
+       "pinyin": "sī jī"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "短文中提到『王医生』，所以他的工作是医生。",
+     "id": "q1",
+     "type": "passage-mcq",
+     "pinyin": "wáng yī shēng jīn tiān kàn le èr shí gè bìng rén ， tā hěn lèi 。★ tā zuò shén me gōng zuò ？"
+    },
+    {
+     "prompt": "李老师是汉语老师，她喜欢学生。★她是什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "老师",
+       "pinyin": "lǎo shī"
+      },
+      {
+       "label": "B",
+       "text": "学生",
+       "pinyin": "xué shēng"
+      },
+      {
+       "label": "C",
+       "text": "医生",
+       "pinyin": "yī shēng"
+      }
+     ],
+     "correctAnswer": "A",
+     "explanation": "短文中提到『李老师』，所以她是老师。",
+     "id": "q2",
+     "type": "passage-mcq",
+     "pinyin": "lǐ lǎo shī shì hàn yǔ lǎo shī ， tā xǐ huān xué shēng 。★ tā shì shén me ？"
+    },
+    {
+     "prompt": "张司机开车去北京，他开了五个小时。★他的工作是什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "警察",
+       "pinyin": "jǐng chá"
+      },
+      {
+       "label": "B",
+       "text": "厨师",
+       "pinyin": "chú shī"
+      },
+      {
+       "label": "C",
+       "text": "司机",
+       "pinyin": "sī jī"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "短文中提到『张司机』，所以他的工作是司机。",
+     "id": "q3",
+     "type": "passage-mcq",
+     "pinyin": "zhāng sī jī kāi chē qù běi jīng ， tā kāi le wǔ gè xiǎo shí 。★ tā de gōng zuò shì shén me ？"
+    },
+    {
+     "prompt": "刘厨师做的菜很好吃，大家都喜欢。★她做什么工作？",
+     "options": [
+      {
+       "label": "A",
+       "text": "老师",
+       "pinyin": "lǎo shī"
+      },
+      {
+       "label": "B",
+       "text": "厨师",
+       "pinyin": "chú shī"
+      },
+      {
+       "label": "C",
+       "text": "警察",
+       "pinyin": "jǐng chá"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "短文中提到『刘厨师』，所以她的工作是厨师。",
+     "id": "q4",
+     "type": "passage-mcq",
+     "pinyin": "liú chú shī zuò de cài hěn hǎo chī ， dà jiā dōu xǐ huān 。★ tā zuò shén me gōng zuò ？"
+    },
+    {
+     "prompt": "赵警察每天工作很忙，他帮助很多人。★他是什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "医生",
+       "pinyin": "yī shēng"
+      },
+      {
+       "label": "B",
+       "text": "警察",
+       "pinyin": "jǐng chá"
+      },
+      {
+       "label": "C",
+       "text": "司机",
+       "pinyin": "sī jī"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "短文中提到『赵警察』，所以他是警察。",
+     "id": "q5",
+     "type": "passage-mcq",
+     "pinyin": "zhào jǐng chá měi tiān gōng zuò hěn máng ， tā bāng zhù hěn duō rén 。★ tā shì shén me ？"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

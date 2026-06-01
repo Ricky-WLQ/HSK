@@ -1,0 +1,89 @@
+{
+ "id": "hsk3-reading-p212",
+ "level": "3",
+ "section": "reading",
+ "partKey": "reading-p2",
+ "title": "HSK3 Reading P2",
+ "titleZh": "阅读 第二部分（词语填空）",
+ "groups": [
+  {
+   "instruction": "请从下面的词语中选择合适的填到句子中的空白处。每个词语只能用一次，有一个词语多余。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "暖和",
+     "pinyin": "nuǎn huo"
+    },
+    {
+     "label": "B",
+     "text": "晴天",
+     "pinyin": "qíng tiān"
+    },
+    {
+     "label": "C",
+     "text": "刮风",
+     "pinyin": "guā fēng"
+    },
+    {
+     "label": "D",
+     "text": "下雪",
+     "pinyin": "xià xuě"
+    },
+    {
+     "label": "E",
+     "text": "凉快",
+     "pinyin": "liáng kuài"
+    },
+    {
+     "label": "F",
+     "text": "下雨",
+     "pinyin": "xià yǔ"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "春天来了，天气变得（ ）了，不用穿厚外套。",
+     "correctAnswer": "A",
+     "explanation": "句子说春天来了，不用穿厚外套，说明温度升高，感觉温暖，所以用“暖和”。",
+     "id": "q1",
+     "type": "cloze-wordbank",
+     "pinyin": "chūn tiān lái le ， tiān qì biàn dé （ ） le ， bù yòng chuān hòu wài tào 。"
+    },
+    {
+     "prompt": "夏天中午很热，但晚上比较（ ）。",
+     "correctAnswer": "E",
+     "explanation": "晚上温度比中午低，感觉凉爽，所以用“凉快”。",
+     "id": "q2",
+     "type": "cloze-wordbank",
+     "pinyin": "xià tiān zhōng wǔ hěn rè ， dàn wǎn shàng bǐ jiào （ ）。"
+    },
+    {
+     "prompt": "今天（ ）了，我没带伞，衣服湿了。",
+     "correctAnswer": "F",
+     "explanation": "衣服湿了是因为没有伞，说明有雨，所以用“下雨”。",
+     "id": "q3",
+     "type": "cloze-wordbank",
+     "pinyin": "jīn tiān （ ） le ， wǒ méi dài sǎn ， yī fú shī le 。"
+    },
+    {
+     "prompt": "北方冬天经常（ ），地上白茫茫一片。",
+     "correctAnswer": "D",
+     "explanation": "地上白茫茫一片是雪覆盖的景象，所以用“下雪”。",
+     "id": "q4",
+     "type": "cloze-wordbank",
+     "pinyin": "běi fāng dōng tiān jīng cháng （ ）， dì shàng bái máng máng yī piàn 。"
+    },
+    {
+     "prompt": "海边（ ）很大，放风筝很合适。",
+     "correctAnswer": "C",
+     "explanation": "放风筝需要风，海边风大，所以用“刮风”。",
+     "id": "q5",
+     "type": "cloze-wordbank",
+     "pinyin": "hǎi biān （ ） hěn dà ， fàng fēng zhēng hěn hé shì 。"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

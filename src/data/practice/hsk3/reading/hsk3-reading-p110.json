@@ -1,0 +1,89 @@
+{
+ "id": "hsk3-reading-p110",
+ "level": "3",
+ "section": "reading",
+ "partKey": "reading-p1",
+ "title": "HSK3 Reading P1",
+ "titleZh": "阅读 第一部分（句子匹配）",
+ "groups": [
+  {
+   "instruction": "请从A-F中选出与问题匹配的句子。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "下个月我要去上海出差一周。",
+     "pinyin": "xià gè yuè wǒ yào qù shàng hǎi chū chāi yī zhōu 。"
+    },
+    {
+     "label": "B",
+     "text": "我们每周三下午都要开会。",
+     "pinyin": "wǒ men měi zhōu sān xià wǔ dōu yào kāi huì 。"
+    },
+    {
+     "label": "C",
+     "text": "我的工资比去年涨了一千块。",
+     "pinyin": "wǒ de gōng zī bǐ qù nián zhǎng le yī qiān kuài 。"
+    },
+    {
+     "label": "D",
+     "text": "他因为身体不好请假了。",
+     "pinyin": "tā yīn wèi shēn tǐ bù hǎo qǐng jià le 。"
+    },
+    {
+     "label": "E",
+     "text": "经理让我负责这个新项目。",
+     "pinyin": "jīng lǐ ràng wǒ fù zé zhè ge xīn xiàng mù 。"
+    },
+    {
+     "label": "F",
+     "text": "我们办公室的空调坏了。",
+     "pinyin": "wǒ men bàn gōng shì de kōng tiáo huài le 。"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "你下个月要去哪里？",
+     "correctAnswer": "A",
+     "explanation": "问句询问下个月的去向，选项A回答去上海出差，内容相符。",
+     "id": "q1",
+     "type": "match",
+     "pinyin": "nǐ xià gè yuè yào qù nǎ lǐ ？"
+    },
+    {
+     "prompt": "经理让你做什么？",
+     "correctAnswer": "E",
+     "explanation": "问句询问经理的安排，选项B回答负责新项目，内容相符。",
+     "id": "q2",
+     "type": "match",
+     "pinyin": "jīng lǐ ràng nǐ zuò shén me ？"
+    },
+    {
+     "prompt": "你的工资有什么变化？",
+     "correctAnswer": "C",
+     "explanation": "问句询问工资变化，选项C回答涨了一千块，内容相符。",
+     "id": "q3",
+     "type": "match",
+     "pinyin": "nǐ de gōng zī yǒu shén me biàn huà ？"
+    },
+    {
+     "prompt": "公司什么时候开会？",
+     "correctAnswer": "B",
+     "explanation": "问句询问开会时间，选项D回答每周三下午，内容相符。",
+     "id": "q4",
+     "type": "match",
+     "pinyin": "gōng sī shén me shí hòu kāi huì ？"
+    },
+    {
+     "prompt": "他为什么没来上班？",
+     "correctAnswer": "D",
+     "explanation": "问句询问没来上班的原因，选项E回答身体不好请假，内容相符。",
+     "id": "q5",
+     "type": "match",
+     "pinyin": "tā wèi shén me méi lái shàng bān ？"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

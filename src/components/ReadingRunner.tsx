@@ -1,6 +1,6 @@
 "use client";
 
-import { useCallback, useMemo, useState } from "react";
+import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import Link from "next/link";
 import { Check, X, Languages, Loader2 } from "lucide-react";
 import { t } from "@/i18n";
@@ -16,8 +16,12 @@ function isCorrect(q: HskQuestion, answer: string | undefined): boolean {
   if (!answer) return false;
   if (q.type === "short-answer") {
     const a = normalize(answer);
+    if (!a) return false;
     const refs = [q.correctAnswer, ...(q.acceptableAnswers ?? [])].map(normalize);
-    return refs.some((r) => r.length > 0 && (a === r || a.includes(r) || r.includes(a)));
+    // Correct iff the user's answer equals or contains a reference (a longer valid
+    // paraphrase). NOT the reverse — a single char that merely appears in the
+    // reference must not count.
+    return refs.some((r) => r.length > 0 && (a === r || a.includes(r)));
   }
   return answer === q.correctAnswer;
 }
@@ -31,18 +35,24 @@ export default function ReadingRunner({ set }: { set: HskPracticeSet }) {
   const [analysis, setAnalysis] = useState<Record<string, Analysis>>({});
   const [analyzing, setAnalyzing] = useState<Set<string>>(new Set());
   const [showPinyin, setShowPinyin] = useState(true);
-  const [saved, setSaved] = useState(false);
+  const savedRef = useRef(false);
+  const abortRef = useRef<AbortController[]>([]);
+
+  useEffect(() => {
+    const controllers = abortRef.current;
+    return () => controllers.forEach((c) => c.abort());
+  }, []);
 
   const score = useMemo(
     () => allQuestions.filter((q) => checked.has(q.id) && isCorrect(q, answers[q.id])).length,
     [allQuestions, checked, answers],
   );
-  const done = checked.size === total;
+  const done = total > 0 && checked.size === total;
 
   const saveAttempt = useCallback(
     (correctCount: number) => {
-      if (saved) return;
-      setSaved(true);
+      if (savedRef.current) return;
+      savedRef.current = true; // synchronous guard — prevents a double POST
       void fetch("/api/practice/attempt", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
@@ -56,7 +66,7 @@ export default function ReadingRunner({ set }: { set: HskPracticeSet }) {
         }),
       }).catch(() => {});
     },
-    [saved, set, total, answers],
+    [set, total, answers],
   );
 
   const check = useCallback(
@@ -71,10 +81,13 @@ export default function ReadingRunner({ set }: { set: HskPracticeSet }) {
 
       if (!isCorrect(q, answers[q.id]) && q.type !== "short-answer") {
         setAnalyzing((s) => new Set(s).add(q.id));
+        const controller = new AbortController();
+        abortRef.current.push(controller);
         try {
           const res = await fetch("/api/practice/analyze", {
             method: "POST",
             headers: { "Content-Type": "application/json" },
+            signal: controller.signal,
             body: JSON.stringify({
               level: set.level,
               section: set.section,
@@ -90,10 +103,10 @@ export default function ReadingRunner({ set }: { set: HskPracticeSet }) {
           });
           if (res.ok) {
             const data = (await res.json()) as Analysis;
-            setAnalysis((a) => ({ ...a, [q.id]: data }));
+            if (data.summary || data.analysis) setAnalysis((a) => ({ ...a, [q.id]: data }));
           }
         } catch {
-          /* best-effort */
+          /* aborted or best-effort */
         } finally {
           setAnalyzing((s) => {
             const n = new Set(s);
@@ -118,6 +131,7 @@ export default function ReadingRunner({ set }: { set: HskPracticeSet }) {
         <div className="flex items-center gap-3">
           <button
             onClick={() => setShowPinyin((v) => !v)}
+            aria-pressed={showPinyin}
             className={`chip ${showPinyin ? "chip-active" : ""}`}
           >
             <Languages className="h-3.5 w-3.5" /> {t.practice.showPinyin}
@@ -188,7 +202,7 @@ export default function ReadingRunner({ set }: { set: HskPracticeSet }) {
                       onChange={(e) => setAnswers((a) => ({ ...a, [q.id]: e.target.value }))}
                     />
                   ) : bankLetters ? (
-                    <div className="flex flex-wrap gap-2">
+                    <div className="flex flex-wrap gap-2" role="radiogroup">
                       {bankLetters.map((L) => {
                         const sel = answers[q.id] === L;
                         const cls = isChecked
@@ -203,6 +217,9 @@ export default function ReadingRunner({ set }: { set: HskPracticeSet }) {
                         return (
                           <button
                             key={L}
+                            role="radio"
+                            aria-checked={sel}
+                            aria-label={`${L}: ${group.sharedBank?.find((o) => o.label === L)?.text ?? ""}`}
                             disabled={isChecked}
                             onClick={() => setAnswers((a) => ({ ...a, [q.id]: L }))}
                             className={`h-9 w-9 rounded-lg border-2 font-bold ${cls}`}
@@ -213,7 +230,7 @@ export default function ReadingRunner({ set }: { set: HskPracticeSet }) {
                       })}
                     </div>
                   ) : (
-                    <div className="grid gap-2">
+                    <div className="grid gap-2" role="radiogroup">
                       {(q.options ?? []).map((o) => {
                         const sel = answers[q.id] === o.label;
                         const cls = isChecked
@@ -228,6 +245,8 @@ export default function ReadingRunner({ set }: { set: HskPracticeSet }) {
                         return (
                           <button
                             key={o.label}
+                            role="radio"
+                            aria-checked={sel}
                             disabled={isChecked}
                             onClick={() => setAnswers((a) => ({ ...a, [q.id]: o.label }))}
                             className={`flex items-start gap-2 rounded-xl border-2 p-3 text-left ${cls}`}
@@ -254,7 +273,7 @@ export default function ReadingRunner({ set }: { set: HskPracticeSet }) {
                       {t.practice.check}
                     </button>
                   ) : (
-                    <div className="mt-3 animate-scale-in">
+                    <div className="mt-3 animate-scale-in" aria-live="polite">
                       <p className={`flex items-center gap-1 font-bold ${correct ? "text-success" : "text-error"}`}>
                         {correct ? <Check className="h-4 w-4" /> : <X className="h-4 w-4" />}
                         {correct ? t.practice.correct : t.practice.wrong}

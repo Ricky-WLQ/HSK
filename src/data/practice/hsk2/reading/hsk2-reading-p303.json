@@ -1,0 +1,89 @@
+{
+ "id": "hsk2-reading-p303",
+ "level": "2",
+ "section": "reading",
+ "partKey": "reading-p3",
+ "title": "HSK2 Reading P3",
+ "titleZh": "阅读 第三部分（句子匹配）",
+ "groups": [
+  {
+   "instruction": "从A-F中选择与下列句子相配的回答。每个选项只能用一次，有一个选项是多余的。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "这个房子很新。",
+     "pinyin": "zhè ge fáng zi hěn xīn 。"
+    },
+    {
+     "label": "B",
+     "text": "这个房子的门很小。",
+     "pinyin": "zhè ge fáng zi de mén hěn xiǎo 。"
+    },
+    {
+     "label": "C",
+     "text": "这个窗户很高。",
+     "pinyin": "zhè ge chuāng hù hěn gāo 。"
+    },
+    {
+     "label": "D",
+     "text": "我的房子是白色的。",
+     "pinyin": "wǒ de fáng zi shì bái sè de 。"
+    },
+    {
+     "label": "E",
+     "text": "我的房间有两个窗户。",
+     "pinyin": "wǒ de fáng jiān yǒu liǎng gè chuāng hù 。"
+    },
+    {
+     "label": "F",
+     "text": "我喜欢黑色的门。",
+     "pinyin": "wǒ xǐ huān hēi sè de mén 。"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "你的房子是什么颜色的？",
+     "correctAnswer": "D",
+     "explanation": "问句询问房子的颜色，回答说明房子是白色的，与问句一致。",
+     "id": "q1",
+     "type": "match",
+     "pinyin": "nǐ de fáng zi shì shén me yán sè de ？"
+    },
+    {
+     "prompt": "你的房间有几个窗户？",
+     "correctAnswer": "E",
+     "explanation": "问句询问房间窗户的数量，回答说明有两个窗户，符合问句。",
+     "id": "q2",
+     "type": "match",
+     "pinyin": "nǐ de fáng jiān yǒu jǐ gè chuāng hù ？"
+    },
+    {
+     "prompt": "这个窗户高不高？",
+     "correctAnswer": "C",
+     "explanation": "问句询问窗户的高度，回答说明窗户很高，直接对应。",
+     "id": "q3",
+     "type": "match",
+     "pinyin": "zhè ge chuāng hù gāo bù gāo ？"
+    },
+    {
+     "prompt": "你喜欢什么颜色的门？",
+     "correctAnswer": "F",
+     "explanation": "问句询问喜欢的门的颜色，回答说明喜欢黑色的门，匹配。",
+     "id": "q4",
+     "type": "match",
+     "pinyin": "nǐ xǐ huān shén me yán sè de mén ？"
+    },
+    {
+     "prompt": "这个房子的门大不大？",
+     "correctAnswer": "B",
+     "explanation": "问句询问门的大小，回答说明门很小，符合问句。",
+     "id": "q5",
+     "type": "match",
+     "pinyin": "zhè ge fáng zi de mén dà bù dà ？"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

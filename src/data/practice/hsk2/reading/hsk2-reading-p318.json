@@ -1,0 +1,89 @@
+{
+ "id": "hsk2-reading-p318",
+ "level": "2",
+ "section": "reading",
+ "partKey": "reading-p3",
+ "title": "HSK2 Reading P3",
+ "titleZh": "阅读 第三部分（句子匹配）",
+ "groups": [
+  {
+   "instruction": "请从A-F中选择最合适的回答。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "我朋友帮我开商店。",
+     "pinyin": "wǒ péng yǒu bāng wǒ kāi shāng diàn 。"
+    },
+    {
+     "label": "B",
+     "text": "这个月我有很多钱。",
+     "pinyin": "zhè ge yuè wǒ yǒu hěn duō qián 。"
+    },
+    {
+     "label": "C",
+     "text": "我要花很多钱买东西。",
+     "pinyin": "wǒ yào huā hěn duō qián mǎi dōng xī 。"
+    },
+    {
+     "label": "D",
+     "text": "我不喜欢吃东西。",
+     "pinyin": "wǒ bù xǐ huān chī dōng xī 。"
+    },
+    {
+     "label": "E",
+     "text": "我每天工作十个小时。",
+     "pinyin": "wǒ měi tiān gōng zuò shí gè xiǎo shí 。"
+    },
+    {
+     "label": "F",
+     "text": "学习做菜很便宜。",
+     "pinyin": "xué xí zuò cài hěn pián yi 。"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "你每天工作几小时？",
+     "correctAnswer": "E",
+     "explanation": "这个选项正好说明了每天工作的小时数，与问句对应。",
+     "id": "q1",
+     "type": "match",
+     "pinyin": "nǐ měi tiān gōng zuò jǐ xiǎo shí ？"
+    },
+    {
+     "prompt": "谁帮你开商店？",
+     "correctAnswer": "A",
+     "explanation": "这个选项回答了帮助开商店的人，符合问题。",
+     "id": "q2",
+     "type": "match",
+     "pinyin": "shuí bāng nǐ kāi shāng diàn ？"
+    },
+    {
+     "prompt": "你花多少钱买东西？",
+     "correctAnswer": "C",
+     "explanation": "这个选项说明要花很多钱买东西，直接回应了关于花钱的询问。",
+     "id": "q3",
+     "type": "match",
+     "pinyin": "nǐ huā duō shǎo qián mǎi dōng xī ？"
+    },
+    {
+     "prompt": "这个月你有很多钱吗？",
+     "correctAnswer": "B",
+     "explanation": "这个选项肯定了这个月有钱，与问题对应。",
+     "id": "q4",
+     "type": "match",
+     "pinyin": "zhè ge yuè nǐ yǒu hěn duō qián ma ？"
+    },
+    {
+     "prompt": "学习做菜贵不贵？",
+     "correctAnswer": "F",
+     "explanation": "这个选项说明学习做菜很便宜，直接回答了价格问题。",
+     "id": "q5",
+     "type": "match",
+     "pinyin": "xué xí zuò cài guì bù guì ？"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

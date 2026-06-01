@@ -1,0 +1,89 @@
+{
+ "id": "hsk1-reading-p311",
+ "level": "1",
+ "section": "reading",
+ "partKey": "reading-p3",
+ "title": "HSK1 Reading P3",
+ "titleZh": "阅读 第三部分（选词填空）",
+ "groups": [
+  {
+   "instruction": "请从下面词库中选择合适的词语填入空白处，每个词语只能用一次，有一个多余词语。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "看",
+     "pinyin": "kàn"
+    },
+    {
+     "label": "B",
+     "text": "听",
+     "pinyin": "tīng"
+    },
+    {
+     "label": "C",
+     "text": "写",
+     "pinyin": "xiě"
+    },
+    {
+     "label": "D",
+     "text": "读",
+     "pinyin": "dú"
+    },
+    {
+     "label": "E",
+     "text": "说",
+     "pinyin": "shuō"
+    },
+    {
+     "label": "F",
+     "text": "送",
+     "pinyin": "sòng"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "我____书上的字给大家听。",
+     "correctAnswer": "D",
+     "explanation": "空白处应填入“读”，因为“读”表示朗读文字，使大家能听到，符合语境。其他词语如“看”表示用眼睛看，不能产生声音，不合适。",
+     "id": "q1",
+     "type": "cloze-wordbank",
+     "pinyin": "wǒ ____ shū shàng de zì gěi dà jiā tīng 。"
+    },
+    {
+     "prompt": "我____汉字给老师看。",
+     "correctAnswer": "C",
+     "explanation": "空白处应填入“写”，因为“写汉字”是常见的动作，写出来给老师看。其他词语如“看”不能产生书写结果，不合适。",
+     "id": "q2",
+     "type": "cloze-wordbank",
+     "pinyin": "wǒ ____ hàn zì gěi lǎo shī kàn 。"
+    },
+    {
+     "prompt": "我____“你好”给新同学。",
+     "correctAnswer": "E",
+     "explanation": "空白处应填入“说”，因为“说‘你好’”是打招呼，用嘴说出。其他词语如“读”也可读出文字，但日常问候常说“说”，更自然。",
+     "id": "q3",
+     "type": "cloze-wordbank",
+     "pinyin": "wǒ ____“ nǐ hǎo ” gěi xīn tóng xué 。"
+    },
+    {
+     "prompt": "我____老师叫我的名字。",
+     "correctAnswer": "B",
+     "explanation": "空白处应填入“听”，因为“听老师叫我的名字”表示用耳朵接收声音。其他词语如“看”是视觉动作，与“叫”的声音不符。",
+     "id": "q4",
+     "type": "cloze-wordbank",
+     "pinyin": "wǒ ____ lǎo shī jiào wǒ de míng zì 。"
+    },
+    {
+     "prompt": "我____苹果给同学。",
+     "correctAnswer": "F",
+     "explanation": "空白处应填入“送”，因为“送苹果”表示把苹果给别人，是给予行为。其他词语如“读”或“写”都无法完成送礼动作。",
+     "id": "q5",
+     "type": "cloze-wordbank",
+     "pinyin": "wǒ ____ píng guǒ gěi tóng xué 。"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

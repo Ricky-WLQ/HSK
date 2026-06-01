@@ -1,0 +1,142 @@
+{
+ "id": "hsk1-reading-p415",
+ "level": "1",
+ "section": "reading",
+ "partKey": "reading-p4",
+ "title": "HSK1 Reading P4",
+ "titleZh": "阅读 第四部分（短句理解）",
+ "groups": [
+  {
+   "instruction": "请阅读下面的句子，然后回答问题。每题只有一个正确答案。",
+   "questions": [
+    {
+     "prompt": "学生问老师一个问题。★谁回答？",
+     "options": [
+      {
+       "label": "A",
+       "text": "学生",
+       "pinyin": "xué shēng"
+      },
+      {
+       "label": "B",
+       "text": "书",
+       "pinyin": "shū"
+      },
+      {
+       "label": "C",
+       "text": "老师",
+       "pinyin": "lǎo shī"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "句子说“学生问老师”，所以是老师回答。",
+     "id": "q1",
+     "type": "passage-mcq",
+     "pinyin": "xué shēng wèn lǎo shī yí gè wèn tí 。★ shuí huí dá ？"
+    },
+    {
+     "prompt": "她写汉字写得很快。★她写什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "笔",
+       "pinyin": "bǐ"
+      },
+      {
+       "label": "B",
+       "text": "汉字",
+       "pinyin": "hàn zì"
+      },
+      {
+       "label": "C",
+       "text": "本子",
+       "pinyin": "běn zi"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "句子说“她写汉字”，所以写的是汉字。",
+     "id": "q2",
+     "type": "passage-mcq",
+     "pinyin": "tā xiě hàn zì xiě dé hěn kuài 。★ tā xiě shén me ？"
+    },
+    {
+     "prompt": "老师看学生的一本书。★老师看什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "本子",
+       "pinyin": "běn zi"
+      },
+      {
+       "label": "B",
+       "text": "书",
+       "pinyin": "shū"
+      },
+      {
+       "label": "C",
+       "text": "笔",
+       "pinyin": "bǐ"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "句子说“老师看学生的一本书”，所以看的是书。",
+     "id": "q3",
+     "type": "passage-mcq",
+     "pinyin": "lǎo shī kàn xué shēng de yī běn shū 。★ lǎo shī kàn shén me ？"
+    },
+    {
+     "prompt": "我在教室学习汉语。★我学什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "英语",
+       "pinyin": "yīng yǔ"
+      },
+      {
+       "label": "B",
+       "text": "书",
+       "pinyin": "shū"
+      },
+      {
+       "label": "C",
+       "text": "汉语",
+       "pinyin": "hàn yǔ"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "句子说“学习汉语”，所以学的是汉语。",
+     "id": "q4",
+     "type": "passage-mcq",
+     "pinyin": "wǒ zài jiào shì xué xí hàn yǔ 。★ wǒ xué shén me ？"
+    },
+    {
+     "prompt": "他很喜欢用笔写汉字。★他用什么写？",
+     "options": [
+      {
+       "label": "A",
+       "text": "本子",
+       "pinyin": "běn zi"
+      },
+      {
+       "label": "B",
+       "text": "书",
+       "pinyin": "shū"
+      },
+      {
+       "label": "C",
+       "text": "笔",
+       "pinyin": "bǐ"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "句子说“用笔写汉字”，所以用的是笔。",
+     "id": "q5",
+     "type": "passage-mcq",
+     "pinyin": "tā hěn xǐ huān yòng bǐ xiě hàn zì 。★ tā yòng shén me xiě ？"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

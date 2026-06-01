@@ -1,0 +1,74 @@
+{
+ "id": "hsk4-reading-p114",
+ "level": "4",
+ "section": "reading",
+ "partKey": "reading-p1",
+ "title": "HSK4 Reading P1",
+ "titleZh": "阅读 第一部分（选词填空）",
+ "groups": [
+  {
+   "instruction": "选择合适的词语填入句子空白处，每个词语只能用一次。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "艺术家"
+    },
+    {
+     "label": "B",
+     "text": "乐器"
+    },
+    {
+     "label": "C",
+     "text": "观众"
+    },
+    {
+     "label": "D",
+     "text": "表演"
+    },
+    {
+     "label": "E",
+     "text": "节奏"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "明天的晚会将有精彩的京剧（ ）。",
+     "correctAnswer": "D",
+     "explanation": "\"表演\"指演出或展示，京剧是一种表演艺术，填入后句子通顺合理。",
+     "id": "q1",
+     "type": "cloze-wordbank"
+    },
+    {
+     "prompt": "这场音乐会的（ ）非常热烈，掌声持续了好几分钟。",
+     "correctAnswer": "C",
+     "explanation": "\"观众\"指观看演出的人，观众热烈鼓掌符合语境。",
+     "id": "q2",
+     "type": "cloze-wordbank"
+    },
+    {
+     "prompt": "她正在学习一种古老的（ ）——古筝。",
+     "correctAnswer": "B",
+     "explanation": "\"乐器\"指演奏音乐的工具，古筝是一种乐器，填入后意思明确。",
+     "id": "q3",
+     "type": "cloze-wordbank"
+    },
+    {
+     "prompt": "他从小学习钢琴，现在已经成为一名著名的（ ）。",
+     "correctAnswer": "A",
+     "explanation": "\"艺术家\"指从事艺术创作或表演的人，钢琴家属于艺术家范畴。",
+     "id": "q4",
+     "type": "cloze-wordbank"
+    },
+    {
+     "prompt": "这首曲子的（ ）很快，让人忍不住想跳舞。",
+     "correctAnswer": "E",
+     "explanation": "\"节奏\"指音乐的节拍快慢，节奏快会让人想跳舞，符合语义。",
+     "id": "q5",
+     "type": "cloze-wordbank"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

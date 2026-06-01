@@ -1,0 +1,118 @@
+{
+ "id": "hsk4-reading-p202",
+ "level": "4",
+ "section": "reading",
+ "partKey": "reading-p2",
+ "title": "HSK4 Reading P2",
+ "titleZh": "阅读 第二部分（短文理解）",
+ "groups": [
+  {
+   "instruction": "请根据短文内容选择正确答案。",
+   "passage": "小王最近迷上了古筝。他每周上两次课，每天练习一个小时。虽然手指有时会疼，但看到自己进步很快，他感到很开心。上周末，他参加了一个小型音乐会，弹了一首《茉莉花》。开始他很紧张，但想起老师的鼓励，他放松下来。演奏结束后，观众热烈鼓掌，小王激动得差点流泪。他决定以后要更努力地学习古筝，争取明年能参加更大的演出。",
+   "questions": [
+    {
+     "prompt": "小王最近在做什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "参加合唱团"
+      },
+      {
+       "label": "B",
+       "text": "听音乐会"
+      },
+      {
+       "label": "C",
+       "text": "学习弹古筝"
+      },
+      {
+       "label": "D",
+       "text": "练习钢琴"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "原文第一句说“小王最近迷上了古筝”，并且后面提到他每周上课、每天练习，所以他在学习弹古筝。",
+     "id": "q1",
+     "type": "passage-mcq"
+    },
+    {
+     "prompt": "小王每天练习多久？",
+     "options": [
+      {
+       "label": "A",
+       "text": "一个小时"
+      },
+      {
+       "label": "B",
+       "text": "半个小时"
+      },
+      {
+       "label": "C",
+       "text": "三个小时"
+      },
+      {
+       "label": "D",
+       "text": "两个小时"
+      }
+     ],
+     "correctAnswer": "A",
+     "explanation": "原文明确写道“每天练习一个小时”。",
+     "id": "q2",
+     "type": "passage-mcq"
+    },
+    {
+     "prompt": "小王上周末做了什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "去看电影"
+      },
+      {
+       "label": "B",
+       "text": "参加了一个音乐会"
+      },
+      {
+       "label": "C",
+       "text": "在家休息"
+      },
+      {
+       "label": "D",
+       "text": "去公园玩"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "原文说“上周末，他参加了一个小型音乐会，弹了一首《茉莉花》”。",
+     "id": "q3",
+     "type": "passage-mcq"
+    },
+    {
+     "prompt": "演奏结束后，小王为什么激动？",
+     "options": [
+      {
+       "label": "A",
+       "text": "因为老师批评他"
+      },
+      {
+       "label": "B",
+       "text": "因为太累了"
+      },
+      {
+       "label": "C",
+       "text": "因为观众鼓掌"
+      },
+      {
+       "label": "D",
+       "text": "因为弹错了"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "原文描述“演奏结束后，观众热烈鼓掌，小王激动得差点流泪”，可见是因观众鼓掌而激动。",
+     "id": "q4",
+     "type": "passage-mcq"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

@@ -1,0 +1,89 @@
+{
+ "id": "hsk2-reading-p206",
+ "level": "2",
+ "section": "reading",
+ "partKey": "reading-p2",
+ "title": "HSK2 Reading P2",
+ "titleZh": "阅读 第二部分（选词填空）",
+ "groups": [
+  {
+   "instruction": "请从下面选择恰当的词语填空，每个词语只能使用一次。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "读",
+     "pinyin": "dú"
+    },
+    {
+     "label": "B",
+     "text": "懂",
+     "pinyin": "dǒng"
+    },
+    {
+     "label": "C",
+     "text": "句子",
+     "pinyin": "jù zi"
+    },
+    {
+     "label": "D",
+     "text": "写",
+     "pinyin": "xiě"
+    },
+    {
+     "label": "E",
+     "text": "认真",
+     "pinyin": "rèn zhēn"
+    },
+    {
+     "label": "F",
+     "text": "故事",
+     "pinyin": "gù shì"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "他每个星期都（ ）很多书。",
+     "correctAnswer": "A",
+     "explanation": "“读”是阅读的意思，常与“书”搭配，表示看书。",
+     "id": "q1",
+     "type": "cloze-wordbank",
+     "pinyin": "tā měi gè xīng qī dōu （ ） hěn duō shū 。"
+    },
+    {
+     "prompt": "老师让我们（ ）一篇作文。",
+     "correctAnswer": "D",
+     "explanation": "“写”是书写、写作的意思，与“作文”搭配合理。",
+     "id": "q2",
+     "type": "cloze-wordbank",
+     "pinyin": "lǎo shī ràng wǒ men （ ） yī piān zuò wén 。"
+    },
+    {
+     "prompt": "这个故事很难，我不太（ ）。",
+     "correctAnswer": "B",
+     "explanation": "“懂”是理解、明白的意思，描述对故事内容的理解程度。",
+     "id": "q3",
+     "type": "cloze-wordbank",
+     "pinyin": "zhè ge gù shì hěn nán ， wǒ bù tài （ ）。"
+    },
+    {
+     "prompt": "他学习很（ ），每天写很多字。",
+     "correctAnswer": "E",
+     "explanation": "“认真”是形容态度专心、不马虎，与“学习”搭配表示学习态度好。",
+     "id": "q4",
+     "type": "cloze-wordbank",
+     "pinyin": "tā xué xí hěn （ ）， měi tiān xiě hěn duō zì 。"
+    },
+    {
+     "prompt": "这个（ ）很短，只有五个字。",
+     "correctAnswer": "C",
+     "explanation": "“句子”是语言单位，由字组成，这里用“短”和“五个字”提示是句子。",
+     "id": "q5",
+     "type": "cloze-wordbank",
+     "pinyin": "zhè ge （ ） hěn duǎn ， zhǐ yǒu wǔ gè zì 。"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

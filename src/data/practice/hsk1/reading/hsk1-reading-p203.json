@@ -1,0 +1,89 @@
+{
+ "id": "hsk1-reading-p203",
+ "level": "1",
+ "section": "reading",
+ "partKey": "reading-p2",
+ "title": "HSK1 Reading P2",
+ "titleZh": "阅读 第二部分（问答匹配）",
+ "groups": [
+  {
+   "instruction": "请从下面选出合适的回答。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "米饭很好吃。",
+     "pinyin": "mǐ fàn hěn hǎo chī 。"
+    },
+    {
+     "label": "B",
+     "text": "我很高兴。",
+     "pinyin": "wǒ hěn gāo xìng 。"
+    },
+    {
+     "label": "C",
+     "text": "她爱看书。",
+     "pinyin": "tā ài kàn shū 。"
+    },
+    {
+     "label": "D",
+     "text": "他很怕。",
+     "pinyin": "tā hěn pà 。"
+    },
+    {
+     "label": "E",
+     "text": "我不难过。",
+     "pinyin": "wǒ bù nán guò 。"
+    },
+    {
+     "label": "F",
+     "text": "我明天来。",
+     "pinyin": "wǒ míng tiān lái 。"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "你今天高兴吗？",
+     "correctAnswer": "B",
+     "explanation": "「你高兴吗」问是否高兴，回答「我很高兴」表示高兴，意思对应。",
+     "id": "q1",
+     "type": "match",
+     "pinyin": "nǐ jīn tiān gāo xìng ma ？"
+    },
+    {
+     "prompt": "你难过吗？",
+     "correctAnswer": "E",
+     "explanation": "「你难过吗」问是否难过，回答「我不难过」表示不难过，意思对应。",
+     "id": "q2",
+     "type": "match",
+     "pinyin": "nǐ nán guò ma ？"
+    },
+    {
+     "prompt": "他怕吗？",
+     "correctAnswer": "D",
+     "explanation": "「他怕吗」问他是否害怕，回答「他很怕」表示他很害怕，意思对应。",
+     "id": "q3",
+     "type": "match",
+     "pinyin": "tā pà ma ？"
+    },
+    {
+     "prompt": "她爱什么？",
+     "correctAnswer": "C",
+     "explanation": "「她爱什么」问她爱的是什么，回答「她爱看书」表示她爱看书，意思对应。",
+     "id": "q4",
+     "type": "match",
+     "pinyin": "tā ài shén me ？"
+    },
+    {
+     "prompt": "你明天来吗？",
+     "correctAnswer": "F",
+     "explanation": "「你明天来吗」问是否明天来，回答「我明天来」表示明天来，意思对应。",
+     "id": "q5",
+     "type": "match",
+     "pinyin": "nǐ míng tiān lái ma ？"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

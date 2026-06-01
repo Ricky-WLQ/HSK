@@ -1,0 +1,74 @@
+{
+ "id": "hsk4-reading-p112",
+ "level": "4",
+ "section": "reading",
+ "partKey": "reading-p1",
+ "title": "HSK4 Reading P1",
+ "titleZh": "阅读 第一部分（选词填空）",
+ "groups": [
+  {
+   "instruction": "请从下面的词语中选择合适的词填入各句的空白处，每个词语只能用一次。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "画画"
+    },
+    {
+     "label": "B",
+     "text": "跳舞"
+    },
+    {
+     "label": "C",
+     "text": "弹琴"
+    },
+    {
+     "label": "D",
+     "text": "摄影"
+    },
+    {
+     "label": "E",
+     "text": "收藏"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "他从小就喜欢（ ），每周都去舞蹈班学习。",
+     "correctAnswer": "B",
+     "explanation": "句子提到‘舞蹈班’，所以爱好是跳舞。",
+     "id": "q1",
+     "type": "cloze-wordbank"
+    },
+    {
+     "prompt": "爷爷的爱好是（ ），家里有很多老邮票。",
+     "correctAnswer": "E",
+     "explanation": "句子中‘家里有很多老邮票’说明爷爷喜欢收集东西，因此是收藏。",
+     "id": "q2",
+     "type": "cloze-wordbank"
+    },
+    {
+     "prompt": "她每天晚饭后都要（ ）半小时，最近在练习一首新曲子。",
+     "correctAnswer": "C",
+     "explanation": "句子中‘练习一首新曲子’提示与乐器有关，弹琴符合。",
+     "id": "q3",
+     "type": "cloze-wordbank"
+    },
+    {
+     "prompt": "周末他带着相机去（ ），拍了很多美丽的风景。",
+     "correctAnswer": "D",
+     "explanation": "句子中‘带着相机’和‘拍风景’说明爱好是摄影。",
+     "id": "q4",
+     "type": "cloze-wordbank"
+    },
+    {
+     "prompt": "妹妹最近迷上了（ ），她的房间里贴满了自己的作品。",
+     "correctAnswer": "A",
+     "explanation": "句子中‘贴满了自己的作品’指向绘画，所以是画画。",
+     "id": "q5",
+     "type": "cloze-wordbank"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

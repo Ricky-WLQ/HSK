@@ -1,0 +1,89 @@
+{
+ "id": "hsk2-reading-p202",
+ "level": "2",
+ "section": "reading",
+ "partKey": "reading-p2",
+ "title": "HSK2 Reading P2",
+ "titleZh": "阅读 第二部分（选词填空）",
+ "groups": [
+  {
+   "instruction": "选择正确的词语填空。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "时间",
+     "pinyin": "shí jiān"
+    },
+    {
+     "label": "B",
+     "text": "地方",
+     "pinyin": "dì fāng"
+    },
+    {
+     "label": "C",
+     "text": "干净",
+     "pinyin": "gān jìng"
+    },
+    {
+     "label": "D",
+     "text": "老人",
+     "pinyin": "lǎo rén"
+    },
+    {
+     "label": "E",
+     "text": "帮",
+     "pinyin": "bāng"
+    },
+    {
+     "label": "F",
+     "text": "故事",
+     "pinyin": "gù shì"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "我经常去医院（  ）病人拿药。",
+     "correctAnswer": "E",
+     "explanation": "“帮”表示帮助，句子说去医院帮助病人拿药，符合语义。",
+     "id": "q1",
+     "type": "cloze-wordbank",
+     "pinyin": "wǒ jīng cháng qù yī yuàn （  ） bìng rén ná yào 。"
+    },
+    {
+     "prompt": "图书馆很（  ）。",
+     "correctAnswer": "C",
+     "explanation": "“干净”表示没有灰尘，图书馆需要保持清洁，符合语义。",
+     "id": "q2",
+     "type": "cloze-wordbank",
+     "pinyin": "tú shū guǎn hěn （  ）。"
+    },
+    {
+     "prompt": "在学校卖东西的地方，我给（  ）介绍东西。",
+     "correctAnswer": "D",
+     "explanation": "“老人”是年长的人，给老人介绍东西合理，符合语境。",
+     "id": "q3",
+     "type": "cloze-wordbank",
+     "pinyin": "zài xué xiào mài dōng xī de dì fāng ， wǒ gěi （  ） jiè shào dōng xī 。"
+    },
+    {
+     "prompt": "这次教孩子学习只用了三天（  ）。",
+     "correctAnswer": "A",
+     "explanation": "“时间”表示一段时期，句子说用了三天时间，符合语义。",
+     "id": "q4",
+     "type": "cloze-wordbank",
+     "pinyin": "zhè cì jiào hái zi xué xí zhǐ yòng le sān tiān （  ）。"
+    },
+    {
+     "prompt": "我找到了一个好（  ），在那里教孩子读书。",
+     "correctAnswer": "B",
+     "explanation": "“地方”表示空间、场所，找到一个好地方教孩子读书，符合语义。",
+     "id": "q5",
+     "type": "cloze-wordbank",
+     "pinyin": "wǒ zhǎo dào le yí gè hǎo （  ）， zài nà lǐ jiào hái zi dú shū 。"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

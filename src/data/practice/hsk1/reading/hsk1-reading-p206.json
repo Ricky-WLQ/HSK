@@ -1,0 +1,89 @@
+{
+ "id": "hsk1-reading-p206",
+ "level": "1",
+ "section": "reading",
+ "partKey": "reading-p2",
+ "title": "HSK1 Reading P2",
+ "titleZh": "阅读 第二部分（问答匹配）",
+ "groups": [
+  {
+   "instruction": "请为下面的问题选择正确的回答。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "我听音乐。",
+     "pinyin": "wǒ tīng yīn yuè 。"
+    },
+    {
+     "label": "B",
+     "text": "我们说汉语。",
+     "pinyin": "wǒ men shuō hàn yǔ 。"
+    },
+    {
+     "label": "C",
+     "text": "我爱吃苹果。",
+     "pinyin": "wǒ ài chī píng guǒ 。"
+    },
+    {
+     "label": "D",
+     "text": "我天天看电视。",
+     "pinyin": "wǒ tiān tiān kàn diàn shì 。"
+    },
+    {
+     "label": "E",
+     "text": "她学汉语。",
+     "pinyin": "tā xué hàn yǔ 。"
+    },
+    {
+     "label": "F",
+     "text": "他看书。",
+     "pinyin": "tā kàn shū 。"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "你听什么？",
+     "correctAnswer": "A",
+     "explanation": "问题问“你听什么”，回答“我听音乐”直接对应，说明听的是音乐。",
+     "id": "q1",
+     "type": "match",
+     "pinyin": "nǐ tīng shén me ？"
+    },
+    {
+     "prompt": "他喜欢什么？",
+     "correctAnswer": "F",
+     "explanation": "问题问“他喜欢什么”，回答“他看书”表明他的爱好是看书，符合问题。",
+     "id": "q2",
+     "type": "match",
+     "pinyin": "tā xǐ huān shén me ？"
+    },
+    {
+     "prompt": "她学什么？",
+     "correctAnswer": "E",
+     "explanation": "问题问“她学什么”，回答“她学汉语”直接说明她学习的内容是汉语。",
+     "id": "q3",
+     "type": "match",
+     "pinyin": "tā xué shén me ？"
+    },
+    {
+     "prompt": "你们说什么？",
+     "correctAnswer": "B",
+     "explanation": "问题问“你们说什么”，回答“我们说汉语”表明交流使用的语言是汉语。",
+     "id": "q4",
+     "type": "match",
+     "pinyin": "nǐ men shuō shén me ？"
+    },
+    {
+     "prompt": "你天天做什么？",
+     "correctAnswer": "D",
+     "explanation": "问题问“你天天做什么”，回答“我天天看电视”说明日常活动是看电视。",
+     "id": "q5",
+     "type": "match",
+     "pinyin": "nǐ tiān tiān zuò shén me ？"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

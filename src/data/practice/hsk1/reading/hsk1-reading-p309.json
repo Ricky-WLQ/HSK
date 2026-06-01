@@ -1,0 +1,89 @@
+{
+ "id": "hsk1-reading-p309",
+ "level": "1",
+ "section": "reading",
+ "partKey": "reading-p3",
+ "title": "HSK1 Reading P3",
+ "titleZh": "阅读 第三部分（选词填空）",
+ "groups": [
+  {
+   "instruction": "请从下面选择合适的词语填入句子的空白处。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "房子",
+     "pinyin": "fáng zi"
+    },
+    {
+     "label": "B",
+     "text": "床",
+     "pinyin": "chuáng"
+    },
+    {
+     "label": "C",
+     "text": "椅子",
+     "pinyin": "yǐ zi"
+    },
+    {
+     "label": "D",
+     "text": "桌子",
+     "pinyin": "zhuō zi"
+    },
+    {
+     "label": "E",
+     "text": "门",
+     "pinyin": "mén"
+    },
+    {
+     "label": "F",
+     "text": "窗户",
+     "pinyin": "chuāng hù"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "我住在一个新（ ）里。",
+     "correctAnswer": "A",
+     "explanation": "这句话描述居住的地方，“住在一个新的（ ）里”只有“房子”符合这个意思。",
+     "id": "q1",
+     "type": "cloze-wordbank",
+     "pinyin": "wǒ zhù zài yí gè xīn （ ） lǐ 。"
+    },
+    {
+     "prompt": "请开（ ），我要进去。",
+     "correctAnswer": "E",
+     "explanation": "“开（ ）”和“我要进去”表示通过门进入，所以应该填“门”。",
+     "id": "q2",
+     "type": "cloze-wordbank",
+     "pinyin": "qǐng kāi （ ）， wǒ yào jìn qù 。"
+    },
+    {
+     "prompt": "睡觉时我在（ ）上。",
+     "correctAnswer": "B",
+     "explanation": "“睡觉时我在（ ）上”表示睡觉的地方，只有“床”适合。",
+     "id": "q3",
+     "type": "cloze-wordbank",
+     "pinyin": "shuì jiào shí wǒ zài （ ） shàng 。"
+    },
+    {
+     "prompt": "我在学习，书在（ ）上。",
+     "correctAnswer": "D",
+     "explanation": "“学习时书在（ ）上”表示学习用的桌子，所以填“桌子”。",
+     "id": "q4",
+     "type": "cloze-wordbank",
+     "pinyin": "wǒ zài xué xí ， shū zài （ ） shàng 。"
+    },
+    {
+     "prompt": "请坐在（ ）上，别站着。",
+     "correctAnswer": "C",
+     "explanation": "“坐在（ ）上”表示坐的家具，所以填“椅子”。",
+     "id": "q5",
+     "type": "cloze-wordbank",
+     "pinyin": "qǐng zuò zài （ ） shàng ， bié zhàn zhe 。"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

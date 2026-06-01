@@ -1,0 +1,89 @@
+{
+ "id": "hsk2-reading-p311",
+ "level": "2",
+ "section": "reading",
+ "partKey": "reading-p3",
+ "title": "HSK2 Reading P3",
+ "titleZh": "阅读 第三部分（句子匹配）",
+ "groups": [
+  {
+   "instruction": "选择与下列问句最匹配的回答。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "对不起，不能打折。",
+     "pinyin": "duì bù qǐ ， bù néng dǎ zhé 。"
+    },
+    {
+     "label": "B",
+     "text": "八百元。",
+     "pinyin": "bā bǎi yuán 。"
+    },
+    {
+     "label": "C",
+     "text": "当然可以，给您。",
+     "pinyin": "dāng rán kě yǐ ， gěi nín 。"
+    },
+    {
+     "label": "D",
+     "text": "这个很好。",
+     "pinyin": "zhè ge hěn hǎo 。"
+    },
+    {
+     "label": "E",
+     "text": "一共八百元。",
+     "pinyin": "yī gòng bā bǎi yuán 。"
+    },
+    {
+     "label": "F",
+     "text": "好的，我给您拿白色的。",
+     "pinyin": "hǎo de ， wǒ gěi nín ná bái sè de 。"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "这个手机多少钱？",
+     "correctAnswer": "B",
+     "explanation": "顾客询问手机的价格，售货员回答具体金额，符合问答逻辑。",
+     "id": "q1",
+     "type": "match",
+     "pinyin": "zhè ge shǒu jī duō shǎo qián ？"
+    },
+    {
+     "prompt": "我可以看看黑色的吗？",
+     "correctAnswer": "C",
+     "explanation": "顾客想看黑色手机，售货员同意并递给顾客，回应恰当。",
+     "id": "q2",
+     "type": "match",
+     "pinyin": "wǒ kě yǐ kàn kàn hēi sè de ma ？"
+    },
+    {
+     "prompt": "可以打折吗？",
+     "correctAnswer": "A",
+     "explanation": "顾客询问是否可以打折，售货员表示不能打折，回应合理。",
+     "id": "q3",
+     "type": "match",
+     "pinyin": "kě yǐ dǎ zhé ma ？"
+    },
+    {
+     "prompt": "我要付多少钱？",
+     "correctAnswer": "E",
+     "explanation": "顾客询问需要付多少钱，售货员告知总价，回答直接。",
+     "id": "q4",
+     "type": "match",
+     "pinyin": "wǒ yào fù duō shǎo qián ？"
+    },
+    {
+     "prompt": "我喜欢白色的。",
+     "correctAnswer": "F",
+     "explanation": "顾客表明喜欢白色，售货员承诺拿白色，回应匹配。",
+     "id": "q5",
+     "type": "match",
+     "pinyin": "wǒ xǐ huān bái sè de 。"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

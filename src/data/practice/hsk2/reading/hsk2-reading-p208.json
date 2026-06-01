@@ -1,0 +1,89 @@
+{
+ "id": "hsk2-reading-p208",
+ "level": "2",
+ "section": "reading",
+ "partKey": "reading-p2",
+ "title": "HSK2 Reading P2",
+ "titleZh": "阅读 第二部分（选词填空）",
+ "groups": [
+  {
+   "instruction": "请从词库中选择一个合适的词语填入下面的句子中。每个词语只能使用一次，其中一个词语是多余的。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "学校",
+     "pinyin": "xué xiào"
+    },
+    {
+     "label": "B",
+     "text": "公司",
+     "pinyin": "gōng sī"
+    },
+    {
+     "label": "C",
+     "text": "医生",
+     "pinyin": "yī shēng"
+    },
+    {
+     "label": "D",
+     "text": "工作",
+     "pinyin": "gōng zuò"
+    },
+    {
+     "label": "E",
+     "text": "老师",
+     "pinyin": "lǎo shī"
+    },
+    {
+     "label": "F",
+     "text": "下班",
+     "pinyin": "xià bān"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "他在一家电脑（  ）工作，每天都很忙。",
+     "correctAnswer": "B",
+     "explanation": "「公司」是企业或工作单位的名称，这里指在一家电脑公司工作，符合句子意思。",
+     "id": "q1",
+     "type": "cloze-wordbank",
+     "pinyin": "tā zài yī jiā diàn nǎo （  ） gōng zuò ， měi tiān dōu hěn máng 。"
+    },
+    {
+     "prompt": "那位（  ）正在给病人看病，态度很认真。",
+     "correctAnswer": "C",
+     "explanation": "「医生」是给人看病的职业，句子描述给病人看病，所以用医生。",
+     "id": "q2",
+     "type": "cloze-wordbank",
+     "pinyin": "nà wèi （  ） zhèng zài gěi bìng rén kàn bìng ， tài dù hěn rèn zhēn 。"
+    },
+    {
+     "prompt": "我在一所（  ）学习，我姐姐在那里教数学。",
+     "correctAnswer": "A",
+     "explanation": "「学校」是学习的场所，句子说在一所学校学习，姐姐在那里教书，意思通顺。",
+     "id": "q3",
+     "type": "cloze-wordbank",
+     "pinyin": "wǒ zài yī suǒ （  ） xué xí ， wǒ jiě jiě zài nà lǐ jiào shù xué 。"
+    },
+    {
+     "prompt": "他的（  ）是每天送报纸，虽然辛苦但很稳定。",
+     "correctAnswer": "D",
+     "explanation": "「工作」指职业或任务，句子说他每天送报纸是工作内容，符合语境。",
+     "id": "q4",
+     "type": "cloze-wordbank",
+     "pinyin": "tā de （  ） shì měi tiān sòng bào zhǐ ， suī rán xīn kǔ dàn hěn wěn dìng 。"
+    },
+    {
+     "prompt": "张老师是我们的中文（  ），她上课很有趣。",
+     "correctAnswer": "E",
+     "explanation": "「老师」是教授课程的人，句子说张老师是中文老师，上课有趣，符合。",
+     "id": "q5",
+     "type": "cloze-wordbank",
+     "pinyin": "zhāng lǎo shī shì wǒ men de zhōng wén （  ）， tā shàng kè hěn yǒu qù 。"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

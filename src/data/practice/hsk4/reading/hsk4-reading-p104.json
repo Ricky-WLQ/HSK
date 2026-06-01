@@ -1,0 +1,74 @@
+{
+ "id": "hsk4-reading-p104",
+ "level": "4",
+ "section": "reading",
+ "partKey": "reading-p1",
+ "title": "HSK4 Reading P1",
+ "titleZh": "阅读 第一部分（选词填空）",
+ "groups": [
+  {
+   "instruction": "请从下面的词语中选择合适的词填入句子的空白处（每个词只能用一次）。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "回收"
+    },
+    {
+     "label": "B",
+     "text": "污染"
+    },
+    {
+     "label": "C",
+     "text": "分类"
+    },
+    {
+     "label": "D",
+     "text": "减少"
+    },
+    {
+     "label": "E",
+     "text": "资源"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "为了（ ）空气污染，城市提倡使用公共交通工具。",
+     "correctAnswer": "D",
+     "explanation": "“减少”意为使数量变小，句中“减少空气污染”表示降低污染程度，符合逻辑。",
+     "id": "q1",
+     "type": "cloze-wordbank"
+    },
+    {
+     "prompt": "工厂应该控制废气（ ），保护环境。",
+     "correctAnswer": "B",
+     "explanation": "“污染”指有害物质对环境造成的破坏，句中“废气污染”是常见搭配，指废气造成的污染。",
+     "id": "q2",
+     "type": "cloze-wordbank"
+    },
+    {
+     "prompt": "垃圾分类可以方便后续的（ ）利用。",
+     "correctAnswer": "A",
+     "explanation": "“回收”指把废弃物重新利用，句中“回收利用”是固定说法，指通过分类实现再利用。",
+     "id": "q3",
+     "type": "cloze-wordbank"
+    },
+    {
+     "prompt": "我们每人都应该学会（ ）垃圾，从家里做起。",
+     "correctAnswer": "C",
+     "explanation": "“分类”指按种类分开，句中“分类垃圾”指将不同垃圾分开处理，是环保行为。",
+     "id": "q4",
+     "type": "cloze-wordbank"
+    },
+    {
+     "prompt": "水是宝贵的（ ），不能浪费。",
+     "correctAnswer": "E",
+     "explanation": "“资源”指生产资料或生活资料的天然来源，句中“水资源”是典型搭配，强调其珍贵性。",
+     "id": "q5",
+     "type": "cloze-wordbank"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

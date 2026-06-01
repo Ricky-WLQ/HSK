@@ -1,0 +1,89 @@
+{
+ "id": "hsk1-reading-p219",
+ "level": "1",
+ "section": "reading",
+ "partKey": "reading-p2",
+ "title": "HSK1 Reading P2",
+ "titleZh": "阅读 第二部分（问答匹配）",
+ "groups": [
+  {
+   "instruction": "请从A-F中选择一个合适的回答。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "我喜欢听音乐。",
+     "pinyin": "wǒ xǐ huān tīng yīn yuè 。"
+    },
+    {
+     "label": "B",
+     "text": "我唱歌很好。",
+     "pinyin": "wǒ chàng gē hěn hǎo 。"
+    },
+    {
+     "label": "C",
+     "text": "她在听歌。",
+     "pinyin": "tā zài tīng gē 。"
+    },
+    {
+     "label": "D",
+     "text": "他喜欢看书。",
+     "pinyin": "tā xǐ huān kàn shū 。"
+    },
+    {
+     "label": "E",
+     "text": "好啊。",
+     "pinyin": "hǎo a 。"
+    },
+    {
+     "label": "F",
+     "text": "我会画画。",
+     "pinyin": "wǒ huì huà huà 。"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "你会画画吗？",
+     "correctAnswer": "F",
+     "explanation": "问句问的是‘会不会画画’，回答‘我会画画’直接肯定，意思匹配。",
+     "id": "q1",
+     "type": "match",
+     "pinyin": "nǐ huì huà huà ma ？"
+    },
+    {
+     "prompt": "你喜欢听音乐吗？",
+     "correctAnswer": "A",
+     "explanation": "问句问是否喜欢听音乐，回答‘我喜欢听音乐’直接肯定，意思一致。",
+     "id": "q2",
+     "type": "match",
+     "pinyin": "nǐ xǐ huān tīng yīn yuè ma ？"
+    },
+    {
+     "prompt": "你唱歌好吗？",
+     "correctAnswer": "B",
+     "explanation": "问句问唱歌水平如何，回答‘我唱歌很好’说明唱歌好，符合问句。",
+     "id": "q3",
+     "type": "match",
+     "pinyin": "nǐ chàng gē hǎo ma ？"
+    },
+    {
+     "prompt": "她在做什么？",
+     "correctAnswer": "C",
+     "explanation": "问句问‘她在做什么’，回答‘她在听歌’描述正在进行的动作，正确匹配。",
+     "id": "q4",
+     "type": "match",
+     "pinyin": "tā zài zuò shén me ？"
+    },
+    {
+     "prompt": "我们一起去听音乐，好吗？",
+     "correctAnswer": "E",
+     "explanation": "问句提出建议并询问意见，回答‘好啊’表示同意，符合交际习惯。",
+     "id": "q5",
+     "type": "match",
+     "pinyin": "wǒ men yì qǐ qù tīng yīn yuè ， hǎo ma ？"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

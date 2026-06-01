@@ -1,0 +1,89 @@
+{
+ "id": "hsk3-reading-p108",
+ "level": "3",
+ "section": "reading",
+ "partKey": "reading-p1",
+ "title": "HSK3 Reading P1",
+ "titleZh": "阅读 第一部分（句子匹配）",
+ "groups": [
+  {
+   "instruction": "请从A-F中选择一个与下列句子意思最匹配的句子。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "我昨天在网上买了一件衣服。",
+     "pinyin": "wǒ zuó tiān zài wǎng shàng mǎi le yī jiàn yī fú 。"
+    },
+    {
+     "label": "B",
+     "text": "我已经收到退钱了。",
+     "pinyin": "wǒ yǐ jīng shōu dào tuì qián le 。"
+    },
+    {
+     "label": "C",
+     "text": "这件衣服的颜色和图片不一样。",
+     "pinyin": "zhè jiàn yī fú de yán sè hé tú piàn bù yí yàng 。"
+    },
+    {
+     "label": "D",
+     "text": "商品下午送到。",
+     "pinyin": "shāng pǐn xià wǔ sòng dào 。"
+    },
+    {
+     "label": "E",
+     "text": "这个电脑的价格是三千块。",
+     "pinyin": "zhè ge diàn nǎo de jià gé shì sān qiān kuài 。"
+    },
+    {
+     "label": "F",
+     "text": "您可以换一件新的。",
+     "pinyin": "nín kě yǐ huàn yī jiàn xīn de 。"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "顾客说衣服颜色和图片不一样。",
+     "correctAnswer": "C",
+     "explanation": "顾客说衣服颜色和图片不一样，而短句C明确说衣服的颜色和图片不一样，意思一致。",
+     "id": "q1",
+     "type": "match",
+     "pinyin": "gù kè shuō yī fú yán sè hé tú piàn bù yí yàng 。"
+    },
+    {
+     "prompt": "服务员说可以换一件新的。",
+     "correctAnswer": "F",
+     "explanation": "服务员说可以换一件新的，短句D是‘您可以换一件新的’，意思相同。",
+     "id": "q2",
+     "type": "match",
+     "pinyin": "fú wù yuán shuō kě yǐ huàn yī jiàn xīn de 。"
+    },
+    {
+     "prompt": "顾客说钱已经退回来了。",
+     "correctAnswer": "B",
+     "explanation": "顾客说钱已经退回来了，短句E说已经收到退钱了，意思一致。",
+     "id": "q3",
+     "type": "match",
+     "pinyin": "gù kè shuō qián yǐ jīng tuì huí lái le 。"
+    },
+    {
+     "prompt": "网购的衣服是什么时候买的？",
+     "correctAnswer": "A",
+     "explanation": "问题问衣服是什么时候买的，短句B回答是昨天买的，匹配。",
+     "id": "q4",
+     "type": "match",
+     "pinyin": "wǎng gòu de yī fú shì shén me shí hòu mǎi de ？"
+    },
+    {
+     "prompt": "电脑多少钱？",
+     "correctAnswer": "E",
+     "explanation": "问题问电脑的价格，短句A说价格是三千块，匹配。",
+     "id": "q5",
+     "type": "match",
+     "pinyin": "diàn nǎo duō shǎo qián ？"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

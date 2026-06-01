@@ -1,0 +1,118 @@
+{
+ "id": "hsk3-reading-p315",
+ "level": "3",
+ "section": "reading",
+ "partKey": "reading-p3",
+ "title": "HSK3 Reading P3",
+ "titleZh": "阅读 第三部分（短文理解）",
+ "groups": [
+  {
+   "instruction": "请阅读下面的短文，然后根据短文内容选择正确答案。",
+   "passage": "小刚第一次坐飞机，起飞的时候他非常紧张，手心出汗，紧紧抓住扶手。旁边的阿姨看到后，笑着对他说：“别怕，飞机很安全的。”小刚试着看窗外的云，慢慢地就不紧张了。最后他觉得自己长大了很多。",
+   "questions": [
+    {
+     "prompt": "小刚为什么紧张？",
+     "options": [
+      {
+       "label": "A",
+       "text": "因为他第一次坐飞机",
+       "pinyin": "yīn wèi tā dì yī cì zuò fēi jī"
+      },
+      {
+       "label": "B",
+       "text": "因为旁边的阿姨很可怕",
+       "pinyin": "yīn wèi páng biān de ā yí hěn kě pà"
+      },
+      {
+       "label": "C",
+       "text": "因为飞机要起飞了",
+       "pinyin": "yīn wèi fēi jī yào qǐ fēi le"
+      }
+     ],
+     "correctAnswer": "A",
+     "explanation": "短文第一句明确说“小刚第一次坐飞机，起飞的时候他非常紧张”，所以紧张的原因是第一次坐飞机。",
+     "id": "q1",
+     "type": "passage-mcq",
+     "pinyin": "xiǎo gāng wèi shén me jǐn zhāng ？"
+    },
+    {
+     "prompt": "谁安慰了小刚？",
+     "options": [
+      {
+       "label": "A",
+       "text": "旁边的阿姨",
+       "pinyin": "páng biān de ā yí"
+      },
+      {
+       "label": "B",
+       "text": "一个朋友",
+       "pinyin": "yí gè péng yǒu"
+      },
+      {
+       "label": "C",
+       "text": "他的妈妈",
+       "pinyin": "tā de mā mā"
+      }
+     ],
+     "correctAnswer": "A",
+     "explanation": "短文中提到“旁边的阿姨看到后，笑着对他说”，所以是旁边的阿姨安慰了他。",
+     "id": "q2",
+     "type": "passage-mcq",
+     "pinyin": "shuí ān wèi le xiǎo gāng ？"
+    },
+    {
+     "prompt": "小刚是怎么不紧张的？",
+     "options": [
+      {
+       "label": "A",
+       "text": "他看了窗外的云",
+       "pinyin": "tā kàn le chuāng wài de yún"
+      },
+      {
+       "label": "B",
+       "text": "他吃了糖",
+       "pinyin": "tā chī le táng"
+      },
+      {
+       "label": "C",
+       "text": "他闭上了眼睛",
+       "pinyin": "tā bì shàng le yǎn jīng"
+      }
+     ],
+     "correctAnswer": "A",
+     "explanation": "短文说“小刚试着看窗外的云，慢慢地就不紧张了”，所以他是通过看云来缓解紧张的。",
+     "id": "q3",
+     "type": "passage-mcq",
+     "pinyin": "xiǎo gāng shì zěn me bù jǐn zhāng de ？"
+    },
+    {
+     "prompt": "最后小刚觉得怎么样？",
+     "options": [
+      {
+       "label": "A",
+       "text": "他觉得自己很幸运",
+       "pinyin": "tā jué de zì jǐ hěn xìng yùn"
+      },
+      {
+       "label": "B",
+       "text": "他觉得自己很勇敢",
+       "pinyin": "tā jué de zì jǐ hěn yǒng gǎn"
+      },
+      {
+       "label": "C",
+       "text": "他觉得自己长大了很多",
+       "pinyin": "tā jué de zì jǐ zhǎng dà le hěn duō"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "短文最后一句说“最后他觉得自己长大了很多”，所以这是他最后的感受。",
+     "id": "q4",
+     "type": "passage-mcq",
+     "pinyin": "zuì hòu xiǎo gāng jué de zěn me yàng ？"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

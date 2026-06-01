@@ -1,0 +1,118 @@
+{
+ "id": "hsk4-reading-p215",
+ "level": "4",
+ "section": "reading",
+ "partKey": "reading-p2",
+ "title": "HSK4 Reading P2",
+ "titleZh": "阅读 第二部分（短文理解）",
+ "groups": [
+  {
+   "instruction": "请阅读下面的短文，然后根据短文内容选择正确答案。",
+   "passage": "小明一直想看电影《星际旅行》，今天终于有时间。他提前在网上买了票，选了最好的座位。到了电影院，他发现电影比想象中短，但故事很精彩。看完后，他和朋友讨论剧情，觉得演员表演很自然。不过，他有一点失望，因为电影院的空调太冷，让他感冒了。",
+   "questions": [
+    {
+     "prompt": "小明是怎么买到电影票的？",
+     "options": [
+      {
+       "label": "A",
+       "text": "在网上买的"
+      },
+      {
+       "label": "B",
+       "text": "朋友送的"
+      },
+      {
+       "label": "C",
+       "text": "在电影院买的"
+      },
+      {
+       "label": "D",
+       "text": "公司发的"
+      }
+     ],
+     "correctAnswer": "A",
+     "explanation": "短文中明确提到“他提前在网上买了票”，所以小明是在网上买的票。",
+     "id": "q1",
+     "type": "passage-mcq"
+    },
+    {
+     "prompt": "小明觉得电影怎么样？",
+     "options": [
+      {
+       "label": "A",
+       "text": "比想象中长"
+      },
+      {
+       "label": "B",
+       "text": "演员表演很自然"
+      },
+      {
+       "label": "C",
+       "text": "空调太热"
+      },
+      {
+       "label": "D",
+       "text": "故事很无聊"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "短文中说“觉得演员表演很自然”，所以小明对演员表演的评价是正面的。",
+     "id": "q2",
+     "type": "passage-mcq"
+    },
+    {
+     "prompt": "看完电影后小明做了什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "又买了一张电影票"
+      },
+      {
+       "label": "B",
+       "text": "和朋友讨论剧情"
+      },
+      {
+       "label": "C",
+       "text": "回家睡觉"
+      },
+      {
+       "label": "D",
+       "text": "去医院看病"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "短文提到“看完后，他和朋友讨论剧情”，所以小明和朋友讨论了电影。",
+     "id": "q3",
+     "type": "passage-mcq"
+    },
+    {
+     "prompt": "小明为什么感冒了？",
+     "options": [
+      {
+       "label": "A",
+       "text": "电影太长了"
+      },
+      {
+       "label": "B",
+       "text": "他穿得太少了"
+      },
+      {
+       "label": "C",
+       "text": "外面下雨了"
+      },
+      {
+       "label": "D",
+       "text": "电影院的空调太冷"
+      }
+     ],
+     "correctAnswer": "D",
+     "explanation": "短文中说“因为电影院的空调太冷，让他感冒了”，所以感冒的原因是空调太冷。",
+     "id": "q4",
+     "type": "passage-mcq"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

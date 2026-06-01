@@ -1,0 +1,142 @@
+{
+ "id": "hsk1-reading-p409",
+ "level": "1",
+ "section": "reading",
+ "partKey": "reading-p4",
+ "title": "HSK1 Reading P4",
+ "titleZh": "阅读 第四部分（短句理解）",
+ "groups": [
+  {
+   "instruction": "请阅读句子并回答问题。",
+   "questions": [
+    {
+     "prompt": "小华正在写作业。★他做什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "喝水",
+       "pinyin": "hē shuǐ"
+      },
+      {
+       "label": "B",
+       "text": "看书",
+       "pinyin": "kàn shū"
+      },
+      {
+       "label": "C",
+       "text": "写作业",
+       "pinyin": "xiě zuò yè"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "句子说“小华正在写作业”，所以他在写作业。",
+     "id": "q1",
+     "type": "passage-mcq",
+     "pinyin": "xiǎo huá zhèng zài xiě zuò yè 。★ tā zuò shén me ？"
+    },
+    {
+     "prompt": "我喜欢读中文书。★我喜欢做什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "说中文",
+       "pinyin": "shuō zhōng wén"
+      },
+      {
+       "label": "B",
+       "text": "读中文书",
+       "pinyin": "dú zhōng wén shū"
+      },
+      {
+       "label": "C",
+       "text": "写汉字",
+       "pinyin": "xiě hàn zì"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "句子说“我喜欢读中文书”，所以喜欢读中文书。",
+     "id": "q2",
+     "type": "passage-mcq",
+     "pinyin": "wǒ xǐ huān dú zhōng wén shū 。★ wǒ xǐ huān zuò shén me ？"
+    },
+    {
+     "prompt": "老师给同学们一本书。★老师给了什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "一支笔",
+       "pinyin": "yī zhī bǐ"
+      },
+      {
+       "label": "B",
+       "text": "一个本子",
+       "pinyin": "yí gè běn zi"
+      },
+      {
+       "label": "C",
+       "text": "一本书",
+       "pinyin": "yī běn shū"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "句子说“老师给同学们一本书”，所以给了一本书。",
+     "id": "q3",
+     "type": "passage-mcq",
+     "pinyin": "lǎo shī gěi tóng xué men yī běn shū 。★ lǎo shī gěi le shén me ？"
+    },
+    {
+     "prompt": "我每天写一篇日记。★我每天写什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "故事",
+       "pinyin": "gù shì"
+      },
+      {
+       "label": "B",
+       "text": "日记",
+       "pinyin": "rì jì"
+      },
+      {
+       "label": "C",
+       "text": "信",
+       "pinyin": "xìn"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "句子说“我每天写一篇日记”，所以写的是日记。",
+     "id": "q4",
+     "type": "passage-mcq",
+     "pinyin": "wǒ měi tiān xiě yī piān rì jì 。★ wǒ měi tiān xiě shén me ？"
+    },
+    {
+     "prompt": "弟弟有十本故事书。★弟弟有多少本书？",
+     "options": [
+      {
+       "label": "A",
+       "text": "三本",
+       "pinyin": "sān běn"
+      },
+      {
+       "label": "B",
+       "text": "五本",
+       "pinyin": "wǔ běn"
+      },
+      {
+       "label": "C",
+       "text": "十本",
+       "pinyin": "shí běn"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "句子说“弟弟有十本故事书”，所以弟弟有十本书。",
+     "id": "q5",
+     "type": "passage-mcq",
+     "pinyin": "dì di yǒu shí běn gù shì shū 。★ dì di yǒu duō shǎo běn shū ？"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

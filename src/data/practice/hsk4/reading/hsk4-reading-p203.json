@@ -1,0 +1,118 @@
+{
+ "id": "hsk4-reading-p203",
+ "level": "4",
+ "section": "reading",
+ "partKey": "reading-p2",
+ "title": "HSK4 Reading P2",
+ "titleZh": "阅读 第二部分（短文理解）",
+ "groups": [
+  {
+   "instruction": "阅读下面的短文，然后回答问题。每题只有一个正确答案。",
+   "passage": "小王和小李是大学同学，毕业后小李去上海工作，小王留在北京。去年小李生日那天，他给小王发了一条微信，但因为小王当时正在开一个很重要的会议，会议结束后又忙着准备第二天的报告，就把回复的事情忘了。小李等了一天都没有收到回复，心里很不舒服，认为小王不重视他们的友谊。今年春天，小王从别的同学那里听说小李最近生病住院了，他立刻请了三天假，买了一些水果和营养品，坐高铁去上海看望小李。小李看到小王突然出现在病房里，非常感动。两个人聊了很久，小李终于明白小王那次不是故意的。他们的友谊变得更好了。",
+   "questions": [
+    {
+     "prompt": "小李为什么认为小王不重视他们的友谊？",
+     "options": [
+      {
+       "label": "A",
+       "text": "小王不想和他做朋友了"
+      },
+      {
+       "label": "B",
+       "text": "小王没回复他的微信"
+      },
+      {
+       "label": "C",
+       "text": "小王没去上海看他"
+      },
+      {
+       "label": "D",
+       "text": "小王忘记了他的生日"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "原文说小李给小王发了一条生日微信，但小王忘了回复，小李等了一天没收到回复，所以认为小王不重视友谊。",
+     "id": "q1",
+     "type": "passage-mcq"
+    },
+    {
+     "prompt": "小王怎么知道小李生病住院了？",
+     "options": [
+      {
+       "label": "A",
+       "text": "别的同学告诉他的"
+      },
+      {
+       "label": "B",
+       "text": "小李给他发了微信"
+      },
+      {
+       "label": "C",
+       "text": "小王看到朋友圈"
+      },
+      {
+       "label": "D",
+       "text": "小王打电话问的"
+      }
+     ],
+     "correctAnswer": "A",
+     "explanation": "原文明确写道“小王从别的同学那里听说小李最近生病住院了”。",
+     "id": "q2",
+     "type": "passage-mcq"
+    },
+    {
+     "prompt": "小王去上海看小李带了什么东西？",
+     "options": [
+      {
+       "label": "A",
+       "text": "礼物和鲜花"
+      },
+      {
+       "label": "B",
+       "text": "衣服和书"
+      },
+      {
+       "label": "C",
+       "text": "水果和营养品"
+      },
+      {
+       "label": "D",
+       "text": "营养品和牛奶"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "原文说“买了一些水果和营养品”，所以小王带的是水果和营养品。",
+     "id": "q3",
+     "type": "passage-mcq"
+    },
+    {
+     "prompt": "小李看到小王来病房时心情怎么样？",
+     "options": [
+      {
+       "label": "A",
+       "text": "很生气"
+      },
+      {
+       "label": "B",
+       "text": "很感动"
+      },
+      {
+       "label": "C",
+       "text": "很平静"
+      },
+      {
+       "label": "D",
+       "text": "很失望"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "原文描述“小李看到小王突然出现在病房里，非常感动”。",
+     "id": "q4",
+     "type": "passage-mcq"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

@@ -1,0 +1,118 @@
+{
+ "id": "hsk3-reading-p310",
+ "level": "3",
+ "section": "reading",
+ "partKey": "reading-p3",
+ "title": "HSK3 Reading P3",
+ "titleZh": "阅读 第三部分（短文理解）",
+ "groups": [
+  {
+   "instruction": "请阅读下面的短文，然后根据短文内容选择正确答案。",
+   "passage": "小李在商店里看中了一台小台灯。台灯的颜色是白色的，价格很便宜。他试了试，觉得很好看，就买回家了。可是，到了晚上，台灯不亮了。小李很着急，第二天拿着台灯和收据去商店换。服务员检查后，说可以换一台新的。小李很高兴。",
+   "questions": [
+    {
+     "prompt": "小李在商店里买了什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "一台台灯",
+       "pinyin": "yī tái tái dēng"
+      },
+      {
+       "label": "B",
+       "text": "一个杯子",
+       "pinyin": "yí gè bēi zi"
+      },
+      {
+       "label": "C",
+       "text": "一本书",
+       "pinyin": "yī běn shū"
+      }
+     ],
+     "correctAnswer": "A",
+     "explanation": "短文第一句明确说小李看中了一台小台灯并买回家，所以买的是台灯。",
+     "id": "q1",
+     "type": "passage-mcq",
+     "pinyin": "xiǎo lǐ zài shāng diàn lǐ mǎi le shén me ？"
+    },
+    {
+     "prompt": "台灯是什么颜色的？",
+     "options": [
+      {
+       "label": "A",
+       "text": "黄色",
+       "pinyin": "huáng sè"
+      },
+      {
+       "label": "B",
+       "text": "白色",
+       "pinyin": "bái sè"
+      },
+      {
+       "label": "C",
+       "text": "黑色",
+       "pinyin": "hēi sè"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "短文中提到“台灯的颜色是白色的”，所以是白色。",
+     "id": "q2",
+     "type": "passage-mcq",
+     "pinyin": "tái dēng shì shén me yán sè de ？"
+    },
+    {
+     "prompt": "小李为什么去商店换台灯？",
+     "options": [
+      {
+       "label": "A",
+       "text": "因为台灯不亮了",
+       "pinyin": "yīn wèi tái dēng bù liàng le"
+      },
+      {
+       "label": "B",
+       "text": "因为台灯太贵了",
+       "pinyin": "yīn wèi tái dēng tài guì le"
+      },
+      {
+       "label": "C",
+       "text": "因为台灯不好看",
+       "pinyin": "yīn wèi tái dēng bù hǎo kàn"
+      }
+     ],
+     "correctAnswer": "A",
+     "explanation": "短文说“到了晚上，台灯不亮了”，所以小李去换是因为台灯不亮。",
+     "id": "q3",
+     "type": "passage-mcq",
+     "pinyin": "xiǎo lǐ wèi shén me qù shāng diàn huàn tái dēng ？"
+    },
+    {
+     "prompt": "服务员对小李说了什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "不能换",
+       "pinyin": "bù néng huàn"
+      },
+      {
+       "label": "B",
+       "text": "可以换一台新的",
+       "pinyin": "kě yǐ huàn yī tái xīn de"
+      },
+      {
+       "label": "C",
+       "text": "要加钱才能换",
+       "pinyin": "yào jiā qián cái néng huàn"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "短文最后一句是“服务员检查后，说可以换一台新的”。",
+     "id": "q4",
+     "type": "passage-mcq",
+     "pinyin": "fú wù yuán duì xiǎo lǐ shuō le shén me ？"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

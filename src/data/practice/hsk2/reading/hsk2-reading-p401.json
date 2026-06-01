@@ -7,132 +7,132 @@
  "titleZh": "阅读 第四部分（短文理解）",
  "groups": [
   {
-   "instruction": "请阅读下面的短文，然后回答问题。",
+   "instruction": "请阅读下面的短文，然后回答★的问题。",
    "questions": [
     {
-     "prompt": "她喜欢喝茶。★她喜欢喝什么？",
+     "prompt": "小张在银行工作。他每天帮助别人存钱和取钱。★他做什么工作？",
      "options": [
       {
        "label": "A",
-       "text": "茶",
-       "pinyin": "chá"
+       "text": "老师",
+       "pinyin": "lǎo shī"
       },
       {
        "label": "B",
-       "text": "水",
-       "pinyin": "shuǐ"
+       "text": "医生",
+       "pinyin": "yī shēng"
       },
       {
        "label": "C",
-       "text": "咖啡",
-       "pinyin": "kā fēi"
-      }
-     ],
-     "correctAnswer": "A",
-     "explanation": "短文说“她喜欢喝茶”。",
-     "id": "q1",
-     "type": "passage-mcq",
-     "pinyin": "tā xǐ huān hē chá 。★ tā xǐ huān hē shén me ？"
-    },
-    {
-     "prompt": "他每天去学校。★他每天去哪里？",
-     "options": [
-      {
-       "label": "A",
-       "text": "医院",
-       "pinyin": "yī yuàn"
-      },
-      {
-       "label": "B",
-       "text": "学校",
-       "pinyin": "xué xiào"
-      },
-      {
-       "label": "C",
-       "text": "商店",
-       "pinyin": "shāng diàn"
-      }
-     ],
-     "correctAnswer": "B",
-     "explanation": "短文说“他每天去学校”。",
-     "id": "q2",
-     "type": "passage-mcq",
-     "pinyin": "tā měi tiān qù xué xiào 。★ tā měi tiān qù nǎ lǐ ？"
-    },
-    {
-     "prompt": "她有一个妹妹。★她有一个什么？",
-     "options": [
-      {
-       "label": "A",
-       "text": "哥哥",
-       "pinyin": "gē gē"
-      },
-      {
-       "label": "B",
-       "text": "姐姐",
-       "pinyin": "jiě jiě"
-      },
-      {
-       "label": "C",
-       "text": "妹妹",
-       "pinyin": "mèi mèi"
+       "text": "在银行工作的人",
+       "pinyin": "zài yín háng gōng zuò de rén"
       }
      ],
      "correctAnswer": "C",
-     "explanation": "短文说“她有一个妹妹”。",
+     "explanation": "短文说小张在银行工作，帮助别人存钱和取钱，所以他是在银行工作的人。其他选项与短文内容不符。",
+     "id": "q1",
+     "type": "passage-mcq",
+     "pinyin": "xiǎo zhāng zài yín háng gōng zuò 。 tā měi tiān bāng zhù bié rén cún qián hé qǔ qián 。★ tā zuò shén me gōng zuò ？"
+    },
+    {
+     "prompt": "李阿姨在学校教学生中文。★她是做什么的？",
+     "options": [
+      {
+       "label": "A",
+       "text": "老师",
+       "pinyin": "lǎo shī"
+      },
+      {
+       "label": "B",
+       "text": "司机",
+       "pinyin": "sī jī"
+      },
+      {
+       "label": "C",
+       "text": "护士",
+       "pinyin": "hù shì"
+      }
+     ],
+     "correctAnswer": "A",
+     "explanation": "短文说李阿姨在学校教学生中文，所以她的职业是老师。其他选项与短文内容不符。",
+     "id": "q2",
+     "type": "passage-mcq",
+     "pinyin": "lǐ ā yí zài xué xiào jiào xué shēng zhōng wén 。★ tā shì zuò shén me de ？"
+    },
+    {
+     "prompt": "王叔叔在医院工作。他每天给病人看病。★他做什么工作？",
+     "options": [
+      {
+       "label": "A",
+       "text": "医生",
+       "pinyin": "yī shēng"
+      },
+      {
+       "label": "B",
+       "text": "工人",
+       "pinyin": "gōng rén"
+      },
+      {
+       "label": "C",
+       "text": "老师",
+       "pinyin": "lǎo shī"
+      }
+     ],
+     "correctAnswer": "A",
+     "explanation": "短文说王叔叔在医院工作，每天给病人看病，所以他是医生。其他选项与短文内容不符。",
      "id": "q3",
      "type": "passage-mcq",
-     "pinyin": "tā yǒu yí gè mèi mèi 。★ tā yǒu yí gè shén me ？"
+     "pinyin": "wáng shū shū zài yī yuàn gōng zuò 。 tā měi tiān gěi bìng rén kàn bìng 。★ tā zuò shén me gōng zuò ？"
     },
     {
-     "prompt": "他今年十岁。★他多大了？",
+     "prompt": "小刘每天开车送东西。★他是？",
      "options": [
       {
        "label": "A",
-       "text": "十岁",
-       "pinyin": "shí suì"
+       "text": "厨师",
+       "pinyin": "chú shī"
       },
       {
        "label": "B",
-       "text": "九岁",
-       "pinyin": "jiǔ suì"
+       "text": "医生",
+       "pinyin": "yī shēng"
       },
       {
        "label": "C",
-       "text": "十一岁",
-       "pinyin": "shí yī suì"
+       "text": "司机",
+       "pinyin": "sī jī"
       }
      ],
-     "correctAnswer": "A",
-     "explanation": "短文说“他今年十岁”。",
+     "correctAnswer": "C",
+     "explanation": "短文说小刘每天开车送东西，所以他的职业是司机。其他选项与短文内容不符。",
      "id": "q4",
      "type": "passage-mcq",
-     "pinyin": "tā jīn nián shí suì 。★ tā duō dà le ？"
+     "pinyin": "xiǎo liú měi tiān kāi chē sòng dōng xī 。★ tā shì ？"
     },
     {
-     "prompt": "她喜欢吃苹果。★她喜欢吃什么？",
+     "prompt": "赵女士在花店工作。她每天卖花。★她做什么工作？",
      "options": [
       {
        "label": "A",
-       "text": "苹果",
-       "pinyin": "píng guǒ"
+       "text": "老师",
+       "pinyin": "lǎo shī"
       },
       {
        "label": "B",
-       "text": "香蕉",
-       "pinyin": "xiāng jiāo"
+       "text": "在花店工作的人",
+       "pinyin": "zài huā diàn gōng zuò de rén"
       },
       {
        "label": "C",
-       "text": "西瓜",
-       "pinyin": "xī guā"
+       "text": "护士",
+       "pinyin": "hù shì"
       }
      ],
-     "correctAnswer": "A",
-     "explanation": "短文说“她喜欢吃苹果”。",
+     "correctAnswer": "B",
+     "explanation": "短文说赵女士在花店工作，每天卖花，所以她是在花店工作的人。其他选项与短文内容不符。",
      "id": "q5",
      "type": "passage-mcq",
-     "pinyin": "tā xǐ huān chī píng guǒ 。★ tā xǐ huān chī shén me ？"
+     "pinyin": "zhào nǚ shì zài huā diàn gōng zuò 。 tā měi tiān mài huā 。★ tā zuò shén me gōng zuò ？"
     }
    ],
    "id": "g1"

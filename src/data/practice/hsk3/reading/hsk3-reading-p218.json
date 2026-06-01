@@ -1,0 +1,89 @@
+{
+ "id": "hsk3-reading-p218",
+ "level": "3",
+ "section": "reading",
+ "partKey": "reading-p2",
+ "title": "HSK3 Reading P2",
+ "titleZh": "阅读 第二部分（词语填空）",
+ "groups": [
+  {
+   "instruction": "请从下面的词语中选择合适的填入句子的括号中，每个词语只能用一次。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "故事",
+     "pinyin": "gù shì"
+    },
+    {
+     "label": "B",
+     "text": "历史",
+     "pinyin": "lì shǐ"
+    },
+    {
+     "label": "C",
+     "text": "古代",
+     "pinyin": "gǔ dài"
+    },
+    {
+     "label": "D",
+     "text": "文化",
+     "pinyin": "wén huà"
+    },
+    {
+     "label": "E",
+     "text": "传统",
+     "pinyin": "chuán tǒng"
+    },
+    {
+     "label": "F",
+     "text": "节日",
+     "pinyin": "jié rì"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "这本书讲的是中国的（ ），从古代到现代。",
+     "correctAnswer": "B",
+     "explanation": "句子中提到“从古代到现代”，说明是关于过去的事情，所以应填“历史”。",
+     "id": "q1",
+     "type": "cloze-wordbank",
+     "pinyin": "zhè běn shū jiǎng de shì zhōng guó de （ ）， cóng gǔ dài dào xiàn dài 。"
+    },
+    {
+     "prompt": "中国的茶（ ）很有名，全世界都喜欢。",
+     "correctAnswer": "D",
+     "explanation": "茶是中国的特色，与生活习俗相关，所以应填“文化”。",
+     "id": "q2",
+     "type": "cloze-wordbank",
+     "pinyin": "zhōng guó de chá （ ） hěn yǒu míng ， quán shì jiè dōu xǐ huān 。"
+    },
+    {
+     "prompt": "这些（ ）的建筑非常有特色。",
+     "correctAnswer": "C",
+     "explanation": "句子形容建筑有特色，且与历史时期相关，所以应填“古代”。",
+     "id": "q3",
+     "type": "cloze-wordbank",
+     "pinyin": "zhè xiē （ ） de jiàn zhù fēi cháng yǒu tè sè 。"
+    },
+    {
+     "prompt": "中秋节吃月饼是一个（ ）习俗。",
+     "correctAnswer": "E",
+     "explanation": "中秋节吃月饼是长久流传的习惯，所以应填“传统”。",
+     "id": "q4",
+     "type": "cloze-wordbank",
+     "pinyin": "zhōng qiū jié chī yuè bǐng shì yí gè （ ） xí sú 。"
+    },
+    {
+     "prompt": "爷爷给我讲了一个（ ），是关于长城的。",
+     "correctAnswer": "A",
+     "explanation": "爷爷讲的内容，与长城有关，是口头叙述的事情，所以应填“故事”。",
+     "id": "q5",
+     "type": "cloze-wordbank",
+     "pinyin": "yé yé gěi wǒ jiǎng le yí gè （ ）， shì guān yú cháng chéng de 。"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

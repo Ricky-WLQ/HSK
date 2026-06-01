@@ -1,0 +1,71 @@
+{
+ "id": "hsk7-9-reading-p313",
+ "level": "7-9",
+ "section": "reading",
+ "partKey": "reading-p3",
+ "title": "HSK7-9 Reading P3",
+ "titleZh": "阅读 第三部分（简答题）",
+ "groups": [
+  {
+   "instruction": "请根据下面的短文回答下列问题，每个答案不超过10个汉字。",
+   "passage": "近年来，北京大学推行了一项名为“学习共同体”的校园学习模式，旨在促进学生间的深度合作。该模式将不同专业的学生随机组成5人小组，每个小组每周进行两次两小时的集中学习。学习内容不限于课程知识，还包括跨学科项目研究。例如，历史系学生与计算机系学生合作开发数字人文项目，通过编程分析古代文献。小组学习过程中，每位成员需轮流担任“引导者”，负责组织讨论和分配任务。研究显示，这种模式显著提升了学生的批判性思维和沟通能力。此外，学校还设立了“学习共同体基金”，奖励优秀小组。据统计，参与该模式的学生平均成绩比未参与者高出15%，且更愿意选报跨专业课程。一位参与者表示：“它让我学会了如何倾听不同观点，并快速整合信息。”",
+   "questions": [
+    {
+     "prompt": "北京大学推行的校园学习模式叫什么？",
+     "correctAnswer": "学习共同体",
+     "acceptableAnswers": [
+      "学习共同体模式"
+     ],
+     "explanation": "原文第一句提到“北京大学推行了一项名为‘学习共同体’的校园学习模式”，因此正确答案是“学习共同体”。",
+     "id": "q1",
+     "type": "short-answer"
+    },
+    {
+     "prompt": "每个学习小组由几人组成？",
+     "correctAnswer": "5人",
+     "acceptableAnswers": [
+      "5人小组",
+      "五个人"
+     ],
+     "explanation": "原文指出“将不同专业的学生随机组成5人小组”，所以人数是5人。",
+     "id": "q2",
+     "type": "short-answer"
+    },
+    {
+     "prompt": "小组每周进行几次集中学习？",
+     "correctAnswer": "两次",
+     "acceptableAnswers": [
+      "2次",
+      "每周两次"
+     ],
+     "explanation": "原文说“每个小组每周进行两次两小时的集中学习”，因此答案为“两次”。",
+     "id": "q3",
+     "type": "short-answer"
+    },
+    {
+     "prompt": "小组成员轮流担任什么角色？",
+     "correctAnswer": "引导者",
+     "acceptableAnswers": [
+      "引导者角色"
+     ],
+     "explanation": "原文提到“每位成员需轮流担任‘引导者’”，所以角色是“引导者”。",
+     "id": "q4",
+     "type": "short-answer"
+    },
+    {
+     "prompt": "参与该模式的学生平均成绩比未参与者高出多少？",
+     "correctAnswer": "15%",
+     "acceptableAnswers": [
+      "高出15%",
+      "15个百分点"
+     ],
+     "explanation": "原文明确写道“参与该模式的学生平均成绩比未参与者高出15%”，因此答案是15%。",
+     "id": "q5",
+     "type": "short-answer"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

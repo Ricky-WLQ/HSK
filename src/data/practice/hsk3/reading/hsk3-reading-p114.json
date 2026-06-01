@@ -1,0 +1,89 @@
+{
+ "id": "hsk3-reading-p114",
+ "level": "3",
+ "section": "reading",
+ "partKey": "reading-p1",
+ "title": "HSK3 Reading P1",
+ "titleZh": "阅读 第一部分（句子匹配）",
+ "groups": [
+  {
+   "instruction": "请从A到F中选择与每个问题或陈述相匹配的句子。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "这本书我已经看了三遍。",
+     "pinyin": "zhè běn shū wǒ yǐ jīng kàn le sān biàn 。"
+    },
+    {
+     "label": "B",
+     "text": "我常常去图书馆借书。",
+     "pinyin": "wǒ cháng cháng qù tú shū guǎn jiè shū 。"
+    },
+    {
+     "label": "C",
+     "text": "她喜欢在笔记本上写日记。",
+     "pinyin": "tā xǐ huān zài bǐ jì běn shàng xiě rì jì 。"
+    },
+    {
+     "label": "D",
+     "text": "图书馆周末不开门。",
+     "pinyin": "tú shū guǎn zhōu mò bù kāi mén 。"
+    },
+    {
+     "label": "E",
+     "text": "老师让我们每周写一篇作文。",
+     "pinyin": "lǎo shī ràng wǒ men měi zhōu xiě yī piān zuò wén 。"
+    },
+    {
+     "label": "F",
+     "text": "他正在修改自己的小说。",
+     "pinyin": "tā zhèng zài xiū gǎi zì jǐ de xiǎo shuō 。"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "你多久去一次图书馆？",
+     "correctAnswer": "B",
+     "explanation": "问题问的是去图书馆的频率，而选项A提到'常常去图书馆借书'，表示经常去，意思匹配。",
+     "id": "q1",
+     "type": "match",
+     "pinyin": "nǐ duō jiǔ qù yī cì tú shū guǎn ？"
+    },
+    {
+     "prompt": "她用什么写日记？",
+     "correctAnswer": "C",
+     "explanation": "问题问写日记的工具，选项B说'在笔记本上写日记'，明确回答了用笔记本。",
+     "id": "q2",
+     "type": "match",
+     "pinyin": "tā yòng shén me xiě rì jì ？"
+    },
+    {
+     "prompt": "老师布置了什么作业？",
+     "correctAnswer": "E",
+     "explanation": "问题问老师布置的作业，选项C是'老师让我们每周写一篇作文'，直接对应。",
+     "id": "q3",
+     "type": "match",
+     "pinyin": "lǎo shī bù zhì le shén me zuò yè ？"
+    },
+    {
+     "prompt": "这本书你看过吗？",
+     "correctAnswer": "A",
+     "explanation": "问题问是否看过这本书，选项D说'已经看了三遍'，表明看过多次。",
+     "id": "q4",
+     "type": "match",
+     "pinyin": "zhè běn shū nǐ kàn guò ma ？"
+    },
+    {
+     "prompt": "他在做什么？",
+     "correctAnswer": "F",
+     "explanation": "问题问他在做什么，选项E是'正在修改自己的小说'，表示当前的动作。",
+     "id": "q5",
+     "type": "match",
+     "pinyin": "tā zài zuò shén me ？"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

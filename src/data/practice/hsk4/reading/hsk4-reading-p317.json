@@ -1,0 +1,118 @@
+{
+ "id": "hsk4-reading-p317",
+ "level": "4",
+ "section": "reading",
+ "partKey": "reading-p3",
+ "title": "HSK4 Reading P3",
+ "titleZh": "阅读 第二部分B（中篇理解）",
+ "groups": [
+  {
+   "instruction": "请阅读下面的短文，然后根据短文内容回答问题。每个问题有四个选项，请选择唯一正确的答案。",
+   "passage": "李明是一位作家，他喜欢在安静的咖啡厅里写作。今天，他正在写一本关于梦想的新书。这时，一位年轻女士走过来，轻声问：“您好，请问您是李明先生吗？”李明抬起头，点了点头。女士高兴地说：“我叫王芳，非常喜欢您写的《追梦人》。这本书让我找到了自己的方向，现在我也开始学习写作了。”李明听了很感动，他没想到自己的文章能给别人带来这么大的影响。他决定以后要更加认真地写作，帮助更多人。",
+   "questions": [
+    {
+     "prompt": "李明在咖啡厅里做什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "喝咖啡"
+      },
+      {
+       "label": "B",
+       "text": "写作"
+      },
+      {
+       "label": "C",
+       "text": "看书"
+      },
+      {
+       "label": "D",
+       "text": "聊天"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "文中明确提到“他正在写一本关于梦想的新书”，所以他在写作。",
+     "id": "q1",
+     "type": "passage-mcq"
+    },
+    {
+     "prompt": "这段短文主要告诉我们什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "写作很难"
+      },
+      {
+       "label": "B",
+       "text": "咖啡厅适合工作"
+      },
+      {
+       "label": "C",
+       "text": "李明很出名"
+      },
+      {
+       "label": "D",
+       "text": "写作可以影响别人"
+      }
+     ],
+     "correctAnswer": "D",
+     "explanation": "短文通过王芳的感谢和李明的感动，主要想表达写作能给别人带来影响，即“写作可以影响别人”。",
+     "id": "q2",
+     "type": "passage-mcq"
+    },
+    {
+     "prompt": "王芳为什么感谢李明？",
+     "options": [
+      {
+       "label": "A",
+       "text": "因为他们是朋友"
+      },
+      {
+       "label": "B",
+       "text": "因为李明请她喝咖啡"
+      },
+      {
+       "label": "C",
+       "text": "因为李明教她写作"
+      },
+      {
+       "label": "D",
+       "text": "因为李明的书帮助了她"
+      }
+     ],
+     "correctAnswer": "D",
+     "explanation": "王芳说“这本书让我找到了自己的方向”，说明李明的书帮助了她，因此她感谢李明。",
+     "id": "q3",
+     "type": "passage-mcq"
+    },
+    {
+     "prompt": "李明听了王芳的话后有什么感受？",
+     "options": [
+      {
+       "label": "A",
+       "text": "很骄傲"
+      },
+      {
+       "label": "B",
+       "text": "很无聊"
+      },
+      {
+       "label": "C",
+       "text": "很惊讶"
+      },
+      {
+       "label": "D",
+       "text": "很感动"
+      }
+     ],
+     "correctAnswer": "D",
+     "explanation": "文中写道“李明听了很感动”，所以他的感受是感动。",
+     "id": "q4",
+     "type": "passage-mcq"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

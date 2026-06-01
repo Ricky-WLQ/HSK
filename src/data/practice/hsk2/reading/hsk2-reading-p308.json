@@ -1,0 +1,89 @@
+{
+ "id": "hsk2-reading-p308",
+ "level": "2",
+ "section": "reading",
+ "partKey": "reading-p3",
+ "title": "HSK2 Reading P3",
+ "titleZh": "阅读 第三部分（句子匹配）",
+ "groups": [
+  {
+   "instruction": "请从A-F中选择一个合适的句子，与下面的问句或陈述句组成对话。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "我们明天九点在学校门口见。",
+     "pinyin": "wǒ men míng tiān jiǔ diǎn zài xué xiào mén kǒu jiàn 。"
+    },
+    {
+     "label": "B",
+     "text": "今天下午三点我有课。",
+     "pinyin": "jīn tiān xià wǔ sān diǎn wǒ yǒu kè 。"
+    },
+    {
+     "label": "C",
+     "text": "我先做完作业，再看电视。",
+     "pinyin": "wǒ xiān zuò wán zuò yè ， zài kàn diàn shì 。"
+    },
+    {
+     "label": "D",
+     "text": "我八点起床，然后去公司。",
+     "pinyin": "wǒ bā diǎn qǐ chuáng ， rán hòu qù gōng sī 。"
+    },
+    {
+     "label": "E",
+     "text": "你迟到了，快点！",
+     "pinyin": "nǐ chí dào le ， kuài diǎn ！"
+    },
+    {
+     "label": "F",
+     "text": "我们下午两点开会。",
+     "pinyin": "wǒ men xià wǔ liǎng diǎn kāi huì 。"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "你几点起床？",
+     "correctAnswer": "D",
+     "explanation": "问句询问起床时间，选项A回答“八点起床”，符合问题要求。",
+     "id": "q1",
+     "type": "match",
+     "pinyin": "nǐ jǐ diǎn qǐ chuáng ？"
+    },
+    {
+     "prompt": "我们什么时候开会？",
+     "correctAnswer": "F",
+     "explanation": "问句询问开会时间，选项B回答“下午两点开会”，给出了具体时间。",
+     "id": "q2",
+     "type": "match",
+     "pinyin": "wǒ men shén me shí hòu kāi huì ？"
+    },
+    {
+     "prompt": "明天我们在哪里见面？",
+     "correctAnswer": "A",
+     "explanation": "问句询问见面地点，选项C回答“在学校门口见”，并补充了时间，符合问题。",
+     "id": "q3",
+     "type": "match",
+     "pinyin": "míng tiān wǒ men zài nǎ lǐ jiàn miàn ？"
+    },
+    {
+     "prompt": "你几点有课？",
+     "correctAnswer": "B",
+     "explanation": "问句询问上课时间，选项F回答“下午三点有课”，直接匹配。",
+     "id": "q4",
+     "type": "match",
+     "pinyin": "nǐ jǐ diǎn yǒu kè ？"
+    },
+    {
+     "prompt": "你先做什么？",
+     "correctAnswer": "C",
+     "explanation": "问句询问先做哪件事，选项D回答“先做完作业”，符合先后顺序。",
+     "id": "q5",
+     "type": "match",
+     "pinyin": "nǐ xiān zuò shén me ？"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

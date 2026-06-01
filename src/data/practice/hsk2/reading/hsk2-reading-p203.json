@@ -1,0 +1,89 @@
+{
+ "id": "hsk2-reading-p203",
+ "level": "2",
+ "section": "reading",
+ "partKey": "reading-p2",
+ "title": "HSK2 Reading P2",
+ "titleZh": "阅读 第二部分（选词填空）",
+ "groups": [
+  {
+   "instruction": "请从方框中选择合适的词语填入下列句子中的括号里。每个词语只能用一次，有一个多余的词语。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "见面",
+     "pinyin": "jiàn miàn"
+    },
+    {
+     "label": "B",
+     "text": "聊天",
+     "pinyin": "liáo tiān"
+    },
+    {
+     "label": "C",
+     "text": "帮助",
+     "pinyin": "bāng zhù"
+    },
+    {
+     "label": "D",
+     "text": "一起",
+     "pinyin": "yì qǐ"
+    },
+    {
+     "label": "E",
+     "text": "认识",
+     "pinyin": "rèn shí"
+    },
+    {
+     "label": "F",
+     "text": "高兴",
+     "pinyin": "gāo xìng"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "今天我在图书馆（ ）了一个新朋友。",
+     "correctAnswer": "E",
+     "explanation": "句子表达交到新朋友，需要动词‘认识’，意思是初次结识。",
+     "id": "q1",
+     "type": "cloze-wordbank",
+     "pinyin": "jīn tiān wǒ zài tú shū guǎn （ ） le yí gè xīn péng yǒu 。"
+    },
+    {
+     "prompt": "我们经常在微信上（ ）。",
+     "correctAnswer": "B",
+     "explanation": "在微信上进行的活动是交谈，用动词‘聊天’最合适。",
+     "id": "q2",
+     "type": "cloze-wordbank",
+     "pinyin": "wǒ men jīng cháng zài wēi xìn shàng （ ）。"
+    },
+    {
+     "prompt": "他常常（ ）我学习中文。",
+     "correctAnswer": "C",
+     "explanation": "表示对方给予协助，用动词‘帮助’符合语境。",
+     "id": "q3",
+     "type": "cloze-wordbank",
+     "pinyin": "tā cháng cháng （ ） wǒ xué xí zhōng wén 。"
+    },
+    {
+     "prompt": "明天下午三点我们在咖啡店（ ）。",
+     "correctAnswer": "A",
+     "explanation": "约定在咖啡店碰头，用动词‘见面’表示会面。",
+     "id": "q4",
+     "type": "cloze-wordbank",
+     "pinyin": "míng tiān xià wǔ sān diǎn wǒ men zài kā fēi diàn （ ）。"
+    },
+    {
+     "prompt": "和朋友一起玩，我很（ ）。",
+     "correctAnswer": "F",
+     "explanation": "描述心情愉快，用形容词‘高兴’表达快乐的感觉。",
+     "id": "q5",
+     "type": "cloze-wordbank",
+     "pinyin": "hé péng yǒu yì qǐ wán ， wǒ hěn （ ）。"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

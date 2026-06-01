@@ -1,0 +1,89 @@
+{
+ "id": "hsk1-reading-p212",
+ "level": "1",
+ "section": "reading",
+ "partKey": "reading-p2",
+ "title": "HSK1 Reading P2",
+ "titleZh": "阅读 第二部分（问答匹配）",
+ "groups": [
+  {
+   "instruction": "请从下面的选项中选择正确的应答。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "妈妈在喝茶。",
+     "pinyin": "mā mā zài hē chá 。"
+    },
+    {
+     "label": "B",
+     "text": "姐姐在喝水。",
+     "pinyin": "jiě jiě zài hē shuǐ 。"
+    },
+    {
+     "label": "C",
+     "text": "爸爸在看书。",
+     "pinyin": "bà bà zài kàn shū 。"
+    },
+    {
+     "label": "D",
+     "text": "哥哥在读书。",
+     "pinyin": "gē gē zài dú shū 。"
+    },
+    {
+     "label": "E",
+     "text": "妹妹在吃饭。",
+     "pinyin": "mèi mèi zài chī fàn 。"
+    },
+    {
+     "label": "F",
+     "text": "弟弟在睡觉。",
+     "pinyin": "dì di zài shuì jiào 。"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "谁在喝茶？",
+     "correctAnswer": "A",
+     "explanation": "妈妈在喝茶，所以妈妈是喝茶的人，回答正确。",
+     "id": "q1",
+     "type": "match",
+     "pinyin": "shuí zài hē chá ？"
+    },
+    {
+     "prompt": "谁在睡觉？",
+     "correctAnswer": "F",
+     "explanation": "弟弟在睡觉，所以弟弟是睡觉的人，回答正确。",
+     "id": "q2",
+     "type": "match",
+     "pinyin": "shuí zài shuì jiào ？"
+    },
+    {
+     "prompt": "谁在喝水？",
+     "correctAnswer": "B",
+     "explanation": "姐姐在喝水，所以姐姐是喝水的人，回答正确。",
+     "id": "q3",
+     "type": "match",
+     "pinyin": "shuí zài hē shuǐ ？"
+    },
+    {
+     "prompt": "谁在读书？",
+     "correctAnswer": "D",
+     "explanation": "哥哥在读书，所以哥哥是读书的人，回答正确。",
+     "id": "q4",
+     "type": "match",
+     "pinyin": "shuí zài dú shū ？"
+    },
+    {
+     "prompt": "谁在吃饭？",
+     "correctAnswer": "E",
+     "explanation": "妹妹在吃饭，所以妹妹是吃饭的人，回答正确。",
+     "id": "q5",
+     "type": "match",
+     "pinyin": "shuí zài chī fàn ？"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

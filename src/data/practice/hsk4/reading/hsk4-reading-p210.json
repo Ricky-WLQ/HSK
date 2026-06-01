@@ -1,0 +1,118 @@
+{
+ "id": "hsk4-reading-p210",
+ "level": "4",
+ "section": "reading",
+ "partKey": "reading-p2",
+ "title": "HSK4 Reading P2",
+ "titleZh": "阅读 第二部分（短文理解）",
+ "groups": [
+  {
+   "instruction": "请根据短文内容，选择正确答案。",
+   "passage": "小明大学毕业后开始找工作。他给一家互联网公司投了简历，很快收到了面试通知。面试时，面试官问他对加班有什么看法，还问他有没有相关工作经验。小明虽然准备得很充分，但面试官最后还是说他们需要更有经验的人。小明有些失望，但他没有灰心，决定继续寻找别的机会。他相信只要努力，一定能找到合适的工作。",
+   "questions": [
+    {
+     "prompt": "小明给什么公司投了简历？",
+     "options": [
+      {
+       "label": "A",
+       "text": "教育公司"
+      },
+      {
+       "label": "B",
+       "text": "银行"
+      },
+      {
+       "label": "C",
+       "text": "医院"
+      },
+      {
+       "label": "D",
+       "text": "互联网公司"
+      }
+     ],
+     "correctAnswer": "D",
+     "explanation": "短文第一句提到'他给一家互联网公司投了简历'，所以小明投简历的公司是互联网公司。",
+     "id": "q1",
+     "type": "passage-mcq"
+    },
+    {
+     "prompt": "面试官问了什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "小明为什么选择这家公司"
+      },
+      {
+       "label": "B",
+       "text": "小明对加班的看法"
+      },
+      {
+       "label": "C",
+       "text": "小明的爱好"
+      },
+      {
+       "label": "D",
+       "text": "小明的年龄"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "短文中明确写道'面试官问他对加班有什么看法'，所以面试官问了小明对加班的看法。",
+     "id": "q2",
+     "type": "passage-mcq"
+    },
+    {
+     "prompt": "小明为什么有些失望？",
+     "options": [
+      {
+       "label": "A",
+       "text": "面试官的问题太难"
+      },
+      {
+       "label": "B",
+       "text": "他不想工作"
+      },
+      {
+       "label": "C",
+       "text": "他面试迟到了"
+      },
+      {
+       "label": "D",
+       "text": "他没有通过面试"
+      }
+     ],
+     "correctAnswer": "D",
+     "explanation": "短文中说'面试官最后还是说他们需要更有经验的人'，说明小明没有被录用，因此他有些失望。",
+     "id": "q3",
+     "type": "passage-mcq"
+    },
+    {
+     "prompt": "小明接下来打算怎么做？",
+     "options": [
+      {
+       "label": "A",
+       "text": "继续寻找别的机会"
+      },
+      {
+       "label": "B",
+       "text": "回大学读书"
+      },
+      {
+       "label": "C",
+       "text": "不再找工作"
+      },
+      {
+       "label": "D",
+       "text": "出国旅行"
+      }
+     ],
+     "correctAnswer": "A",
+     "explanation": "短文结尾提到'他决定继续寻找别的机会'，所以小明打算继续找工作。",
+     "id": "q4",
+     "type": "passage-mcq"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

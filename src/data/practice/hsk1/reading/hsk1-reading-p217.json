@@ -1,0 +1,89 @@
+{
+ "id": "hsk1-reading-p217",
+ "level": "1",
+ "section": "reading",
+ "partKey": "reading-p2",
+ "title": "HSK1 Reading P2",
+ "titleZh": "阅读 第二部分（问答匹配）",
+ "groups": [
+  {
+   "instruction": "选出合适的回答。每个问题只有一个正确答案。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "我六点起床。",
+     "pinyin": "wǒ liù diǎn qǐ chuáng 。"
+    },
+    {
+     "label": "B",
+     "text": "我晚上写字。",
+     "pinyin": "wǒ wǎn shàng xiě zì 。"
+    },
+    {
+     "label": "C",
+     "text": "我下午看书。",
+     "pinyin": "wǒ xià wǔ kàn shū 。"
+    },
+    {
+     "label": "D",
+     "text": "我九点睡觉。",
+     "pinyin": "wǒ jiǔ diǎn shuì jiào 。"
+    },
+    {
+     "label": "E",
+     "text": "我八点去学校。",
+     "pinyin": "wǒ bā diǎn qù xué xiào 。"
+    },
+    {
+     "label": "F",
+     "text": "我七点吃饭。",
+     "pinyin": "wǒ qī diǎn chī fàn 。"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "你几点起床？",
+     "correctAnswer": "A",
+     "explanation": "问句询问起床时间，回答给出了具体时间六点，意思匹配。",
+     "id": "q1",
+     "type": "match",
+     "pinyin": "nǐ jǐ diǎn qǐ chuáng ？"
+    },
+    {
+     "prompt": "你几点吃饭？",
+     "correctAnswer": "F",
+     "explanation": "问句询问吃饭时间，回答给出了具体时间七点，意思匹配。",
+     "id": "q2",
+     "type": "match",
+     "pinyin": "nǐ jǐ diǎn chī fàn ？"
+    },
+    {
+     "prompt": "你几点去学校？",
+     "correctAnswer": "E",
+     "explanation": "问句询问去学校的时间，回答给出了具体时间八点，意思匹配。",
+     "id": "q3",
+     "type": "match",
+     "pinyin": "nǐ jǐ diǎn qù xué xiào ？"
+    },
+    {
+     "prompt": "你几点睡觉？",
+     "correctAnswer": "D",
+     "explanation": "问句询问睡觉时间，回答给出了具体时间九点，意思匹配。",
+     "id": "q4",
+     "type": "match",
+     "pinyin": "nǐ jǐ diǎn shuì jiào ？"
+    },
+    {
+     "prompt": "你下午做什么？",
+     "correctAnswer": "C",
+     "explanation": "问句询问下午的活动，回答是下午看书，时间一致，意思匹配。",
+     "id": "q5",
+     "type": "match",
+     "pinyin": "nǐ xià wǔ zuò shén me ？"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

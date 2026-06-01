@@ -1,0 +1,89 @@
+{
+ "id": "hsk1-reading-p310",
+ "level": "1",
+ "section": "reading",
+ "partKey": "reading-p3",
+ "title": "HSK1 Reading P3",
+ "titleZh": "阅读 第三部分（选词填空）",
+ "groups": [
+  {
+   "instruction": "请从下面的词语中选择合适的填入句子空白处，每个词语只能用一次，其中有一个选项是多余的。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "钱",
+     "pinyin": "qián"
+    },
+    {
+     "label": "B",
+     "text": "多少",
+     "pinyin": "duō shǎo"
+    },
+    {
+     "label": "C",
+     "text": "便宜",
+     "pinyin": "pián yi"
+    },
+    {
+     "label": "D",
+     "text": "买",
+     "pinyin": "mǎi"
+    },
+    {
+     "label": "E",
+     "text": "贵",
+     "pinyin": "guì"
+    },
+    {
+     "label": "F",
+     "text": "卖",
+     "pinyin": "mài"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "这个苹果很（ ），我买两个。",
+     "correctAnswer": "C",
+     "explanation": "“便宜”表示价格低，因为要买两个，所以填“便宜”符合语义。",
+     "id": "q1",
+     "type": "cloze-wordbank",
+     "pinyin": "zhè ge píng guǒ hěn （ ）， wǒ mǎi liǎng gè 。"
+    },
+    {
+     "prompt": "我在书店（ ）一本书。",
+     "correctAnswer": "D",
+     "explanation": "“买”表示购买，在书店通常顾客买书，所以填“买”。",
+     "id": "q2",
+     "type": "cloze-wordbank",
+     "pinyin": "wǒ zài shū diàn （ ） yī běn shū 。"
+    },
+    {
+     "prompt": "这件衣服（ ）钱？",
+     "correctAnswer": "B",
+     "explanation": "“多少”用于提问数量，这里问价格，所以填“多少”。",
+     "id": "q3",
+     "type": "cloze-wordbank",
+     "pinyin": "zhè jiàn yī fú （ ） qián ？"
+    },
+    {
+     "prompt": "我没有（ ）。",
+     "correctAnswer": "A",
+     "explanation": "“钱”指货币，没钱是常见表达，所以填“钱”。",
+     "id": "q4",
+     "type": "cloze-wordbank",
+     "pinyin": "wǒ méi yǒu （ ）。"
+    },
+    {
+     "prompt": "这个玩具太（ ）了，我不买。",
+     "correctAnswer": "E",
+     "explanation": "“贵”表示价格高，因为太贵而不买，所以填“贵”。",
+     "id": "q5",
+     "type": "cloze-wordbank",
+     "pinyin": "zhè ge wán jù tài （ ） le ， wǒ bù mǎi 。"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

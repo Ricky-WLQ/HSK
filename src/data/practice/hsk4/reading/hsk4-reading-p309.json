@@ -1,0 +1,118 @@
+{
+ "id": "hsk4-reading-p309",
+ "level": "4",
+ "section": "reading",
+ "partKey": "reading-p3",
+ "title": "HSK4 Reading P3",
+ "titleZh": "阅读 第二部分B（中篇理解）",
+ "groups": [
+  {
+   "instruction": "请阅读下面的短文，然后根据短文内容选择正确答案。",
+   "passage": "傣族是云南的一个少数民族，他们有个重要的节日叫泼水节。泼水节一般在四月中旬举行，持续三到七天。节日期间，人们会互相泼水，表示祝福和洗去不好的运气。被泼的水越多，代表得到的祝福越多。除了泼水，还有划龙舟、放孔明灯等活动。傣族人认为水是纯洁的，能带来好运。参加泼水节时，要注意不要用脏水泼别人，也不能泼老人和小孩。这个节日不仅让傣族人快乐，也吸引了很多游客。",
+   "questions": [
+    {
+     "prompt": "傣族的泼水节一般在什么时候举行？",
+     "options": [
+      {
+       "label": "A",
+       "text": "十月左右"
+      },
+      {
+       "label": "B",
+       "text": "夏天最热的时候"
+      },
+      {
+       "label": "C",
+       "text": "每年一月"
+      },
+      {
+       "label": "D",
+       "text": "四月中旬"
+      }
+     ],
+     "correctAnswer": "D",
+     "explanation": "短文中明确写道“泼水节一般在四月中旬举行”，所以正确答案是四月中旬。",
+     "id": "q1",
+     "type": "passage-mcq"
+    },
+    {
+     "prompt": "这篇文章主要介绍了什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "傣族的泼水节及其习俗"
+      },
+      {
+       "label": "B",
+       "text": "如何庆祝泼水节"
+      },
+      {
+       "label": "C",
+       "text": "云南的旅游景点"
+      },
+      {
+       "label": "D",
+       "text": "泼水节的由来"
+      }
+     ],
+     "correctAnswer": "A",
+     "explanation": "短文从头到尾都在讲傣族的泼水节，包括时间、活动、意义和注意事项，因此主要介绍的是傣族的泼水节及其习俗。",
+     "id": "q2",
+     "type": "passage-mcq"
+    },
+    {
+     "prompt": "根据短文，参加泼水节时应该注意什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "尽量多泼别人脏水"
+      },
+      {
+       "label": "B",
+       "text": "不要用脏水泼别人，也不能泼老人和小孩"
+      },
+      {
+       "label": "C",
+       "text": "只可以和年轻人互相泼水"
+      },
+      {
+       "label": "D",
+       "text": "一定要参加划龙舟比赛"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "短文中提到“参加泼水节时，要注意不要用脏水泼别人，也不能泼老人和小孩”，所以选项C正确。",
+     "id": "q3",
+     "type": "passage-mcq"
+    },
+    {
+     "prompt": "关于泼水节的水，下列哪个说法是正确的？",
+     "options": [
+      {
+       "label": "A",
+       "text": "水代表祝福和好运"
+      },
+      {
+       "label": "B",
+       "text": "水可以洗去衣服上的灰尘"
+      },
+      {
+       "label": "C",
+       "text": "被泼的水越多身体越健康"
+      },
+      {
+       "label": "D",
+       "text": "水是从河里打来的"
+      }
+     ],
+     "correctAnswer": "A",
+     "explanation": "短文指出“互相泼水，表示祝福和洗去不好的运气”，以及“傣族人认为水是纯洁的，能带来好运”，所以水代表祝福和好运。",
+     "id": "q4",
+     "type": "passage-mcq"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

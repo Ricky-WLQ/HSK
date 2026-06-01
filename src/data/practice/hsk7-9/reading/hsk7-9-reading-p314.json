@@ -1,0 +1,73 @@
+{
+ "id": "hsk7-9-reading-p314",
+ "level": "7-9",
+ "section": "reading",
+ "partKey": "reading-p3",
+ "title": "HSK7-9 Reading P3",
+ "titleZh": "阅读 第三部分（简答题）",
+ "groups": [
+  {
+   "instruction": "阅读下面的说明文，根据文章内容回答每个问题。答案需从原文中提取或简单概括，不超过10个汉字。",
+   "passage": "斗拱是中国古建筑中一种独特的结构构件，位于柱顶与屋顶之间，由斗形木块（称“斗”）和弓形肘木（称“拱”）纵横交错叠加而成。它巧妙地将屋顶的荷载传递到立柱上，并能增加屋檐的挑出深度，使建筑外观更加雄伟。斗拱最早可追溯至周代，在唐宋时期达到成熟，如山西五台山佛光寺大殿的斗拱雄大有力，展现了唐代建筑的豪劲风格。宋代《营造法式》对斗拱的规格和做法做了系统规定。到了明清时期，斗拱逐渐缩小并变得繁密，其结构作用减弱，转而成为装饰构件。此外，斗拱的榫卯结构具有弹性，能有效吸收地震能量，因此许多古代木塔如应县木塔历经多次地震仍屹立不倒。斗拱不仅体现了古代工匠的力学智慧，也反映了中国建筑注重等级和装饰的传统。",
+   "questions": [
+    {
+     "prompt": "斗拱位于建筑的什么位置？",
+     "correctAnswer": "柱顶与屋顶之间",
+     "acceptableAnswers": [
+      "柱顶和屋顶之间",
+      "柱顶与屋顶间"
+     ],
+     "explanation": "原文明确指出斗拱“位于柱顶与屋顶之间”。",
+     "id": "q1",
+     "type": "short-answer"
+    },
+    {
+     "prompt": "斗拱的主要作用是什么？",
+     "correctAnswer": "传递屋顶荷载",
+     "acceptableAnswers": [
+      "传递屋顶重量",
+      "将荷载传至立柱"
+     ],
+     "explanation": "原文说斗拱“将屋顶的荷载传递到立柱上”，核心作用是传递荷载。",
+     "id": "q2",
+     "type": "short-answer"
+    },
+    {
+     "prompt": "斗拱最早出现在哪个朝代？",
+     "correctAnswer": "周代",
+     "acceptableAnswers": [
+      "西周",
+      "周朝"
+     ],
+     "explanation": "原文提到“斗拱最早可追溯至周代”。",
+     "id": "q3",
+     "type": "short-answer"
+    },
+    {
+     "prompt": "哪个时期斗拱发展成熟？",
+     "correctAnswer": "唐宋时期",
+     "acceptableAnswers": [
+      "唐宋",
+      "唐代和宋代"
+     ],
+     "explanation": "原文说“在唐宋时期达到成熟”。",
+     "id": "q4",
+     "type": "short-answer"
+    },
+    {
+     "prompt": "明清以后斗拱的作用发生了什么变化？",
+     "correctAnswer": "成为装饰构件",
+     "acceptableAnswers": [
+      "结构作用减弱成装饰",
+      "转为装饰"
+     ],
+     "explanation": "原文指出“其结构作用减弱，转而成为装饰构件”。",
+     "id": "q5",
+     "type": "short-answer"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

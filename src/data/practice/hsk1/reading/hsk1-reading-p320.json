@@ -1,0 +1,89 @@
+{
+ "id": "hsk1-reading-p320",
+ "level": "1",
+ "section": "reading",
+ "partKey": "reading-p3",
+ "title": "HSK1 Reading P3",
+ "titleZh": "阅读 第三部分（选词填空）",
+ "groups": [
+  {
+   "instruction": "请从下面的词库中选择合适的词填入句子中的空白处。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "冷",
+     "pinyin": "lěng"
+    },
+    {
+     "label": "B",
+     "text": "小",
+     "pinyin": "xiǎo"
+    },
+    {
+     "label": "C",
+     "text": "热",
+     "pinyin": "rè"
+    },
+    {
+     "label": "D",
+     "text": "便宜",
+     "pinyin": "pián yi"
+    },
+    {
+     "label": "E",
+     "text": "大",
+     "pinyin": "dà"
+    },
+    {
+     "label": "F",
+     "text": "贵",
+     "pinyin": "guì"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "西瓜很（ ），吃不了。",
+     "correctAnswer": "E",
+     "explanation": "西瓜很大才吃不了，所以选择“大”。",
+     "id": "q1",
+     "type": "cloze-wordbank",
+     "pinyin": "xī guā hěn （ ）， chī bù liǎo 。"
+    },
+    {
+     "prompt": "汤太（ ），等一下。",
+     "correctAnswer": "C",
+     "explanation": "汤太热了需要等一下再喝，所以选择“热”。",
+     "id": "q2",
+     "type": "cloze-wordbank",
+     "pinyin": "tāng tài （ ）， děng yí xià 。"
+    },
+    {
+     "prompt": "这里的菜很（ ），人多。",
+     "correctAnswer": "D",
+     "explanation": "菜便宜所以人多，所以选择“便宜”。",
+     "id": "q3",
+     "type": "cloze-wordbank",
+     "pinyin": "zhè lǐ de cài hěn （ ）， rén duō 。"
+    },
+    {
+     "prompt": "苹果很（ ），快吃。",
+     "correctAnswer": "B",
+     "explanation": "苹果很小所以能很快吃完，所以选择“小”。",
+     "id": "q4",
+     "type": "cloze-wordbank",
+     "pinyin": "píng guǒ hěn （ ）， kuài chī 。"
+    },
+    {
+     "prompt": "这水太（ ），我想喝热的。",
+     "correctAnswer": "A",
+     "explanation": "水太冷所以想喝热的，所以选择“冷”。",
+     "id": "q5",
+     "type": "cloze-wordbank",
+     "pinyin": "zhè shuǐ tài （ ）， wǒ xiǎng hē rè de 。"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

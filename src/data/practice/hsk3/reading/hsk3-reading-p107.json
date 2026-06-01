@@ -1,0 +1,89 @@
+{
+ "id": "hsk3-reading-p107",
+ "level": "3",
+ "section": "reading",
+ "partKey": "reading-p1",
+ "title": "HSK3 Reading P1",
+ "titleZh": "阅读 第一部分（句子匹配）",
+ "groups": [
+  {
+   "instruction": "请从下面6个句子中，为每个问题选择一个最合适的搭配。每个句子只能用一次，其中有一个是多余的。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "他每天骑自行车上班。",
+     "pinyin": "tā měi tiān qí zì xíng chē shàng bān 。"
+    },
+    {
+     "label": "B",
+     "text": "我把塑料袋洗干净再用。",
+     "pinyin": "wǒ bǎ sù liào dài xǐ gān jìng zài yòng 。"
+    },
+    {
+     "label": "C",
+     "text": "姐姐把吃剩的果皮做肥料。",
+     "pinyin": "jiě jiě bǎ chī shèng de guǒ pí zuò féi liào 。"
+    },
+    {
+     "label": "D",
+     "text": "妈妈用洗菜的水浇花。",
+     "pinyin": "mā mā yòng xǐ cài de shuǐ jiāo huā 。"
+    },
+    {
+     "label": "E",
+     "text": "奶奶把旧衣服改成布袋子。",
+     "pinyin": "nǎi nǎi bǎ jiù yī fú gǎi chéng bù dài zi 。"
+    },
+    {
+     "label": "F",
+     "text": "我把旧报纸放进大纸箱里。",
+     "pinyin": "wǒ bǎ jiù bào zhǐ fàng jìn dà zhǐ xiāng lǐ 。"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "怎样做可以节约用水？",
+     "correctAnswer": "D",
+     "explanation": "用洗菜的水浇花是节约用水的具体做法，妈妈的行为符合这个意思。",
+     "id": "q1",
+     "type": "match",
+     "pinyin": "zěn yàng zuò kě yǐ jié yuē yòng shuǐ ？"
+    },
+    {
+     "prompt": "怎样做能减少汽车污染？",
+     "correctAnswer": "A",
+     "explanation": "骑自行车上班可以减少汽车尾气排放，从而减少污染。",
+     "id": "q2",
+     "type": "match",
+     "pinyin": "zěn yàng zuò néng jiǎn shǎo qì chē wū rǎn ？"
+    },
+    {
+     "prompt": "旧的报纸应该怎么处理？",
+     "correctAnswer": "F",
+     "explanation": "把旧报纸放进大纸箱里是整理回收的一种方式，适合处理旧报纸。",
+     "id": "q3",
+     "type": "match",
+     "pinyin": "jiù de bào zhǐ yīng gāi zěn me chǔ lǐ ？"
+    },
+    {
+     "prompt": "旧衣服有什么好用处？",
+     "correctAnswer": "E",
+     "explanation": "把旧衣服改成布袋子是废物利用的好方法，可以延长物品的使用寿命。",
+     "id": "q4",
+     "type": "match",
+     "pinyin": "jiù yī fú yǒu shén me hǎo yòng chǔ ？"
+    },
+    {
+     "prompt": "果皮可以怎么利用？",
+     "correctAnswer": "C",
+     "explanation": "把吃剩的果皮做成肥料是再利用厨余垃圾的环保做法。",
+     "id": "q5",
+     "type": "match",
+     "pinyin": "guǒ pí kě yǐ zěn me lì yòng ？"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

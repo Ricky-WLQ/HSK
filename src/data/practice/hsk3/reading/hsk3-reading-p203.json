@@ -1,0 +1,89 @@
+{
+ "id": "hsk3-reading-p203",
+ "level": "3",
+ "section": "reading",
+ "partKey": "reading-p2",
+ "title": "HSK3 Reading P2",
+ "titleZh": "阅读 第二部分（词语填空）",
+ "groups": [
+  {
+   "instruction": "请从A到F中选择合适的词语填入下列句子中的空白处。每个词语只能使用一次，其中有一个词语是多余的。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "车站",
+     "pinyin": "chē zhàn"
+    },
+    {
+     "label": "B",
+     "text": "旅行",
+     "pinyin": "lǚ xíng"
+    },
+    {
+     "label": "C",
+     "text": "火车",
+     "pinyin": "huǒ chē"
+    },
+    {
+     "label": "D",
+     "text": "飞机",
+     "pinyin": "fēi jī"
+    },
+    {
+     "label": "E",
+     "text": "地铁",
+     "pinyin": "dì tiě"
+    },
+    {
+     "label": "F",
+     "text": "出租车",
+     "pinyin": "chū zū chē"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "我明天坐（）去北京，需要在机场登机。",
+     "correctAnswer": "D",
+     "explanation": "句子中提到“在机场登机”，所以应乘坐飞机。",
+     "id": "q1",
+     "type": "cloze-wordbank",
+     "pinyin": "wǒ míng tiān zuò （） qù běi jīng ， xū yào zài jī chǎng dēng jī 。"
+    },
+    {
+     "prompt": "从我家到公司，坐（）在地下跑，不会堵车。",
+     "correctAnswer": "E",
+     "explanation": "句子中提到“在地下跑，不会堵车”，符合地铁的特点。",
+     "id": "q2",
+     "type": "cloze-wordbank",
+     "pinyin": "cóng wǒ jiā dào gōng sī ， zuò （） zài dì xià pǎo ， bú huì dǔ chē 。"
+    },
+    {
+     "prompt": "去火车站可以坐（），司机知道路。",
+     "correctAnswer": "F",
+     "explanation": "句子中提到“司机知道路”，说明有司机驾驶，因此是出租车。",
+     "id": "q3",
+     "type": "cloze-wordbank",
+     "pinyin": "qù huǒ chē zhàn kě yǐ zuò （）， sī jī zhī dào lù 。"
+    },
+    {
+     "prompt": "这个（）有很多人，他们在等车。",
+     "correctAnswer": "A",
+     "explanation": "句子中提到“有很多人”且“在等车”，符合车站的场景。",
+     "id": "q4",
+     "type": "cloze-wordbank",
+     "pinyin": "zhè ge （） yǒu hěn duō rén ， tā men zài děng chē 。"
+    },
+    {
+     "prompt": "我计划暑假去（），想看看不同的地方。",
+     "correctAnswer": "B",
+     "explanation": "句子中提到“看看不同的地方”，意思是去不同的地方游玩，因此是旅行。",
+     "id": "q5",
+     "type": "cloze-wordbank",
+     "pinyin": "wǒ jì huà shǔ jià qù （）， xiǎng kàn kàn bù tóng de dì fāng 。"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

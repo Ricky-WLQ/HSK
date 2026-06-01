@@ -1,0 +1,89 @@
+{
+ "id": "hsk2-reading-p315",
+ "level": "2",
+ "section": "reading",
+ "partKey": "reading-p3",
+ "title": "HSK2 Reading P3",
+ "titleZh": "阅读 第三部分（句子匹配）",
+ "groups": [
+  {
+   "instruction": "请从右栏中为左栏的每个句子选择一个合适的应答句（每个应答句只能用一次），组成一段完整的对话。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "我在公司上班。",
+     "pinyin": "wǒ zài gōng sī shàng bān 。"
+    },
+    {
+     "label": "B",
+     "text": "我是一名医生。",
+     "pinyin": "wǒ shì yī míng yī shēng 。"
+    },
+    {
+     "label": "C",
+     "text": "她是一位老师。",
+     "pinyin": "tā shì yī wèi lǎo shī 。"
+    },
+    {
+     "label": "D",
+     "text": "我喜欢我的工作。",
+     "pinyin": "wǒ xǐ huān wǒ de gōng zuò 。"
+    },
+    {
+     "label": "E",
+     "text": "他每天工作八小时。",
+     "pinyin": "tā měi tiān gōng zuò bā xiǎo shí 。"
+    },
+    {
+     "label": "F",
+     "text": "你想做什么工作？",
+     "pinyin": "nǐ xiǎng zuò shén me gōng zuò ？"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "你在哪里工作？",
+     "correctAnswer": "A",
+     "explanation": "“我在公司上班”直接回答了工作地点，符合问句“在哪里工作”的期望。",
+     "id": "q1",
+     "type": "match",
+     "pinyin": "nǐ zài nǎ lǐ gōng zuò ？"
+    },
+    {
+     "prompt": "她教学生吗？",
+     "correctAnswer": "C",
+     "explanation": "“她是一位老师”说明职业是老师，老师通常教学生，因此回答恰当。",
+     "id": "q2",
+     "type": "match",
+     "pinyin": "tā jiào xué shēng ma ？"
+    },
+    {
+     "prompt": "你觉得工作怎么样？",
+     "correctAnswer": "D",
+     "explanation": "“我喜欢我的工作”表达了对工作的感受，直接回应了“怎么样”的提问。",
+     "id": "q3",
+     "type": "match",
+     "pinyin": "nǐ jué de gōng zuò zěn me yàng ？"
+    },
+    {
+     "prompt": "他工作时间长吗？",
+     "correctAnswer": "E",
+     "explanation": "“他每天工作八小时”给出了具体的工作时长，用来回答工作时间长短的问题。",
+     "id": "q4",
+     "type": "match",
+     "pinyin": "tā gōng zuò shí jiān zhǎng ma ？"
+    },
+    {
+     "prompt": "谁在医院工作？",
+     "correctAnswer": "B",
+     "explanation": "“我是一名医生”表明职业是医生，医生在医院工作，所以是对问题的合理回答。",
+     "id": "q5",
+     "type": "match",
+     "pinyin": "shuí zài yī yuàn gōng zuò ？"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

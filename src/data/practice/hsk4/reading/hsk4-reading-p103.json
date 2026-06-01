@@ -1,0 +1,74 @@
+{
+ "id": "hsk4-reading-p103",
+ "level": "4",
+ "section": "reading",
+ "partKey": "reading-p1",
+ "title": "HSK4 Reading P1",
+ "titleZh": "阅读 第一部分（选词填空）",
+ "groups": [
+  {
+   "instruction": "请从下面5个词语中选择合适的词填入各句的空白处，每个词只能用一次。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "支持"
+    },
+    {
+     "label": "B",
+     "text": "陪伴"
+    },
+    {
+     "label": "C",
+     "text": "信任"
+    },
+    {
+     "label": "D",
+     "text": "交流"
+    },
+    {
+     "label": "E",
+     "text": "理解"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "真正的朋友之间应该有深厚的（ ），彼此不会怀疑对方的动机。",
+     "correctAnswer": "C",
+     "explanation": "“信任”指相信对方，不怀疑。句中“不会怀疑对方的动机”提示需要“信任”。",
+     "id": "q1",
+     "type": "cloze-wordbank"
+    },
+    {
+     "prompt": "他们每周都会视频通话一次，保持思想和情感上的（ ）。",
+     "correctAnswer": "D",
+     "explanation": "“交流”指互相沟通、交换想法。句中“视频通话”和“思想、情感”指向“交流”。",
+     "id": "q2",
+     "type": "cloze-wordbank"
+    },
+    {
+     "prompt": "当朋友遇到困难时，我们要尽量站在他的角度去（ ）他的感受。",
+     "correctAnswer": "E",
+     "explanation": "“理解”指明白他人的处境和心情。句中“站在他的角度”和“感受”提示需要“理解”。",
+     "id": "q3",
+     "type": "cloze-wordbank"
+    },
+    {
+     "prompt": "小李创业初期经济紧张，几位好友纷纷出资（ ）他。",
+     "correctAnswer": "A",
+     "explanation": "“支持”指从物质或精神上帮助。句中“出资”是具体的帮助行为，对应“支持”。",
+     "id": "q4",
+     "type": "cloze-wordbank"
+    },
+    {
+     "prompt": "老张生病住院期间，他的老同学轮流去医院（ ）他，让他很感动。",
+     "correctAnswer": "B",
+     "explanation": "“陪伴”指陪同、作伴。句中“轮流去医院”和“让他很感动”强调陪在身边的动作，对应“陪伴”。",
+     "id": "q5",
+     "type": "cloze-wordbank"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

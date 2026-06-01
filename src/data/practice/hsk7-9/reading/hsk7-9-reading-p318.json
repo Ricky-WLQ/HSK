@@ -1,0 +1,70 @@
+{
+ "id": "hsk7-9-reading-p318",
+ "level": "7-9",
+ "section": "reading",
+ "partKey": "reading-p3",
+ "title": "HSK7-9 Reading P3",
+ "titleZh": "阅读 第三部分（简答题）",
+ "groups": [
+  {
+   "instruction": "请根据下面的短文，回答5个问题。每个问题的答案请用不超过10个字从文中提取或概括。",
+   "passage": "良渚古城水利系统是中国史前水利工程的杰出代表。考古学家在浙江杭州的良渚遗址发现了由多条水坝和引水渠道组成的复杂水利网络。这些水坝建于距今约5000年前，主要功能是防洪、灌溉和运输。其中，老虎岭水坝是中国最早的水坝之一，采用“草裹泥”技术筑成。良渚水利系统比大禹治水的传说还要早约1000年，体现了中国先民卓越的工程智慧。2019年，良渚古城遗址被列入《世界遗产名录》，其水利系统成为世界水利史研究的重要课题。",
+   "questions": [
+    {
+     "prompt": "良渚水利系统的主要功能是什么？",
+     "correctAnswer": "防洪、灌溉和运输",
+     "acceptableAnswers": [
+      "防洪、灌溉、运输",
+      "防洪灌溉运输"
+     ],
+     "explanation": "原文明确指出“主要功能是防洪、灌溉和运输”。",
+     "id": "q1",
+     "type": "short-answer"
+    },
+    {
+     "prompt": "文中提到中国最早的水坝叫什么？",
+     "correctAnswer": "老虎岭水坝",
+     "acceptableAnswers": [
+      "老虎岭水坝"
+     ],
+     "explanation": "原文提到“老虎岭水坝是中国最早的水坝之一”。",
+     "id": "q2",
+     "type": "short-answer"
+    },
+    {
+     "prompt": "良渚水坝采用的筑坝技术是什么？",
+     "correctAnswer": "草裹泥技术",
+     "acceptableAnswers": [
+      "草裹泥"
+     ],
+     "explanation": "原文说“采用‘草裹泥’技术筑成”。",
+     "id": "q3",
+     "type": "short-answer"
+    },
+    {
+     "prompt": "良渚水利系统距今大约多少年？",
+     "correctAnswer": "约5000年",
+     "acceptableAnswers": [
+      "5000年",
+      "大约5000年"
+     ],
+     "explanation": "原文称“这些水坝建于距今约5000年前”。",
+     "id": "q4",
+     "type": "short-answer"
+    },
+    {
+     "prompt": "良渚古城遗址哪一年被列入《世界遗产名录》？",
+     "correctAnswer": "2019年",
+     "acceptableAnswers": [
+      "2019"
+     ],
+     "explanation": "原文明确“2019年，良渚古城遗址被列入《世界遗产名录》”。",
+     "id": "q5",
+     "type": "short-answer"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

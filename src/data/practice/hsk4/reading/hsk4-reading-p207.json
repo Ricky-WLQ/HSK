@@ -1,0 +1,118 @@
+{
+ "id": "hsk4-reading-p207",
+ "level": "4",
+ "section": "reading",
+ "partKey": "reading-p2",
+ "title": "HSK4 Reading P2",
+ "titleZh": "阅读 第二部分（短文理解）",
+ "groups": [
+  {
+   "instruction": "请阅读下面的短文，根据短文内容选择正确答案。",
+   "passage": "妈妈今天教我包饺子。她先把面团擀成圆片，然后放上肉馅。我试着包了几个，但是样子不好看，馅也露出来了。妈妈没有批评我，而是手把手地教我。她告诉我，包饺子要慢慢来，多练习就会进步。果然，我包得越来越好了。妈妈笑着说：“家的味道就在这些饺子里。”我觉得很开心，因为我又学会了一项新技能，也感受到了妈妈的爱。",
+   "questions": [
+    {
+     "prompt": "妈妈今天教“我”做什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "做饭团"
+      },
+      {
+       "label": "B",
+       "text": "包饺子"
+      },
+      {
+       "label": "C",
+       "text": "炒菜"
+      },
+      {
+       "label": "D",
+       "text": "做面条"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "短文开头明确说“妈妈今天教我包饺子”，所以妈妈教的是包饺子。",
+     "id": "q1",
+     "type": "passage-mcq"
+    },
+    {
+     "prompt": "刚开始“我”包得怎么样？",
+     "options": [
+      {
+       "label": "A",
+       "text": "没有尝试"
+      },
+      {
+       "label": "B",
+       "text": "不好看，馅露出来"
+      },
+      {
+       "label": "C",
+       "text": "和妈妈一样好"
+      },
+      {
+       "label": "D",
+       "text": "非常好"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "原文说“我试着包了几个，但是样子不好看，馅也露出来了”，说明刚开始包得不好。",
+     "id": "q2",
+     "type": "passage-mcq"
+    },
+    {
+     "prompt": "妈妈对“我”的态度是什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "很生气"
+      },
+      {
+       "label": "B",
+       "text": "不管我"
+      },
+      {
+       "label": "C",
+       "text": "很耐心"
+      },
+      {
+       "label": "D",
+       "text": "批评我"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "原文说“妈妈没有批评我，而是手把手地教我”，并告诉我要慢慢来，多练习，体现了妈妈耐心教导的态度。",
+     "id": "q3",
+     "type": "passage-mcq"
+    },
+    {
+     "prompt": "从这段话中，我们可以知道什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "包饺子很难学"
+      },
+      {
+       "label": "B",
+       "text": "妈妈通过包饺子表达对家人的爱"
+      },
+      {
+       "label": "C",
+       "text": "“我”不喜欢包饺子"
+      },
+      {
+       "label": "D",
+       "text": "包饺子是家庭作业"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "妈妈笑着说“家的味道就在这些饺子里”，并且“我”感受到了妈妈的爱，说明妈妈通过包饺子传递了对家的爱。",
+     "id": "q4",
+     "type": "passage-mcq"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

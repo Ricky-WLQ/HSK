@@ -1,0 +1,89 @@
+{
+ "id": "hsk3-reading-p208",
+ "level": "3",
+ "section": "reading",
+ "partKey": "reading-p2",
+ "title": "HSK3 Reading P2",
+ "titleZh": "阅读 第二部分（词语填空）",
+ "groups": [
+  {
+   "instruction": "请从下面6个词语中选择合适的填入句子空白处。每个词语只能用一次，有一个词语是多余的。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "活动",
+     "pinyin": "huó dòng"
+    },
+    {
+     "label": "B",
+     "text": "社区",
+     "pinyin": "shè qū"
+    },
+    {
+     "label": "C",
+     "text": "服务",
+     "pinyin": "fú wù"
+    },
+    {
+     "label": "D",
+     "text": "参加",
+     "pinyin": "cān jiā"
+    },
+    {
+     "label": "E",
+     "text": "热情",
+     "pinyin": "rè qíng"
+    },
+    {
+     "label": "F",
+     "text": "帮助",
+     "pinyin": "bāng zhù"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "每个周末我都去（ ）老人打扫卫生。",
+     "correctAnswer": "F",
+     "explanation": "“帮助”意思是给别人做事，让被帮助的人得到好处，这里搭配“老人打扫卫生”非常合理。",
+     "id": "q1",
+     "type": "cloze-wordbank",
+     "pinyin": "měi gè zhōu mò wǒ dōu qù （ ） lǎo rén dǎ sǎo wèi shēng 。"
+    },
+    {
+     "prompt": "这次志愿（ ）是去公园捡垃圾。",
+     "correctAnswer": "A",
+     "explanation": "“活动”指有组织、有目的的行动，志愿活动就是这种集体行动。",
+     "id": "q2",
+     "type": "cloze-wordbank",
+     "pinyin": "zhè cì zhì yuàn （ ） shì qù gōng yuán jiǎn lā jī 。"
+    },
+    {
+     "prompt": "我（ ）了一个教小朋友画画的志愿项目。",
+     "correctAnswer": "D",
+     "explanation": "“参加”指加入某个活动或组织，后面接项目很自然。",
+     "id": "q3",
+     "type": "cloze-wordbank",
+     "pinyin": "wǒ （ ） le yí gè jiào xiǎo péng yǒu huà huà de zhì yuàn xiàng mù 。"
+    },
+    {
+     "prompt": "我们（ ）的志愿组织经常为老人服务。",
+     "correctAnswer": "B",
+     "explanation": "“社区”是生活区域，这里用“社区”修饰“志愿组织”，表示这个组织属于该社区。",
+     "id": "q4",
+     "type": "cloze-wordbank",
+     "pinyin": "wǒ men （ ） de zhì yuàn zǔ zhī jīng cháng wèi lǎo rén fú wù 。"
+    },
+    {
+     "prompt": "她总是很（ ）地为大家服务。",
+     "correctAnswer": "E",
+     "explanation": "“热情”形容人积极主动、充满感情的样子，修饰“服务”很贴切。",
+     "id": "q5",
+     "type": "cloze-wordbank",
+     "pinyin": "tā zǒng shì hěn （ ） dì wèi dà jiā fú wù 。"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

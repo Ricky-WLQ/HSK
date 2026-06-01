@@ -1,0 +1,89 @@
+{
+ "id": "hsk1-reading-p318",
+ "level": "1",
+ "section": "reading",
+ "partKey": "reading-p3",
+ "title": "HSK1 Reading P3",
+ "titleZh": "阅读 第三部分（选词填空）",
+ "groups": [
+  {
+   "instruction": "请从下面的词语中选择合适的填入空白处。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "高兴",
+     "pinyin": "gāo xìng"
+    },
+    {
+     "label": "B",
+     "text": "家",
+     "pinyin": "jiā"
+    },
+    {
+     "label": "C",
+     "text": "是",
+     "pinyin": "shì"
+    },
+    {
+     "label": "D",
+     "text": "有",
+     "pinyin": "yǒu"
+    },
+    {
+     "label": "E",
+     "text": "爱",
+     "pinyin": "ài"
+    },
+    {
+     "label": "F",
+     "text": "大",
+     "pinyin": "dà"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "我（ ）一个妹妹。",
+     "correctAnswer": "D",
+     "explanation": "表示拥有，这是我的妹妹。‘有’表示拥有。",
+     "id": "q1",
+     "type": "cloze-wordbank",
+     "pinyin": "wǒ （ ） yí gè mèi mèi 。"
+    },
+    {
+     "prompt": "我的妈妈（ ）老师。",
+     "correctAnswer": "C",
+     "explanation": "‘是’表示职业身份。妈妈是老师。",
+     "id": "q2",
+     "type": "cloze-wordbank",
+     "pinyin": "wǒ de mā mā （ ） lǎo shī 。"
+    },
+    {
+     "prompt": "我的爸爸在（ ）。",
+     "correctAnswer": "B",
+     "explanation": "‘家’表示家庭住所。爸爸在家。",
+     "id": "q3",
+     "type": "cloze-wordbank",
+     "pinyin": "wǒ de bà bà zài （ ）。"
+    },
+    {
+     "prompt": "我很（ ）我的妈妈。",
+     "correctAnswer": "E",
+     "explanation": "‘爱’表示对妈妈的感情。",
+     "id": "q4",
+     "type": "cloze-wordbank",
+     "pinyin": "wǒ hěn （ ） wǒ de mā mā 。"
+    },
+    {
+     "prompt": "我今天很（ ）。",
+     "correctAnswer": "A",
+     "explanation": "‘高兴’表示快乐的心情。",
+     "id": "q5",
+     "type": "cloze-wordbank",
+     "pinyin": "wǒ jīn tiān hěn （ ）。"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

@@ -1,0 +1,89 @@
+{
+ "id": "hsk3-reading-p116",
+ "level": "3",
+ "section": "reading",
+ "partKey": "reading-p1",
+ "title": "HSK3 Reading P1",
+ "titleZh": "阅读 第一部分（句子匹配）",
+ "groups": [
+  {
+   "instruction": "请从下面选择合适的句子回答左边的问题。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "春天来了，天气暖和了，可以去放风筝。",
+     "pinyin": "chūn tiān lái le ， tiān qì nuǎn huo le ， kě yǐ qù fàng fēng zhēng 。"
+    },
+    {
+     "label": "B",
+     "text": "夏天到了，天气很热，要少穿衣服。",
+     "pinyin": "xià tiān dào le ， tiān qì hěn rè ， yào shǎo chuān yī fú 。"
+    },
+    {
+     "label": "C",
+     "text": "下雨天，出门要带雨伞。",
+     "pinyin": "xià yǔ tiān ， chū mén yào dài yǔ sǎn 。"
+    },
+    {
+     "label": "D",
+     "text": "下雪天，路上很滑，要小心走路。",
+     "pinyin": "xià xuě tiān ， lù shàng hěn huá ， yào xiǎo xīn zǒu lù 。"
+    },
+    {
+     "label": "E",
+     "text": "秋天到了，天气凉了，要加衣服。",
+     "pinyin": "qiū tiān dào le ， tiān qì liáng le ， yào jiā yī fú 。"
+    },
+    {
+     "label": "F",
+     "text": "冬天来了，天气很冷，要穿厚衣服。",
+     "pinyin": "dōng tiān lái le ， tiān qì hěn lěng ， yào chuān hòu yī fú 。"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "天气暖和了，适合做什么？",
+     "correctAnswer": "A",
+     "explanation": "问题问天气暖和时适合的活动，描述春天天气暖和可以放风筝的句子就是正确答案。",
+     "id": "q1",
+     "type": "match",
+     "pinyin": "tiān qì nuǎn huo le ， shì hé zuò shén me ？"
+    },
+    {
+     "prompt": "夏天很热，我们应该怎么穿？",
+     "correctAnswer": "B",
+     "explanation": "问题问夏天热时如何穿衣，提到夏天热要少穿衣服的句子与之匹配。",
+     "id": "q2",
+     "type": "match",
+     "pinyin": "xià tiān hěn rè ， wǒ men yīng gāi zěn me chuān ？"
+    },
+    {
+     "prompt": "秋天天气凉了，需要注意什么？",
+     "correctAnswer": "E",
+     "explanation": "问题问秋天凉了要注意什么，说秋天凉了要加衣服的句子是正确的。",
+     "id": "q3",
+     "type": "match",
+     "pinyin": "qiū tiān tiān qì liáng le ， xū yào zhù yì shén me ？"
+    },
+    {
+     "prompt": "冬天很冷，出门应该穿什么？",
+     "correctAnswer": "F",
+     "explanation": "问题问冬天冷时穿什么，指出冬天冷要穿厚衣服的句子符合要求。",
+     "id": "q4",
+     "type": "match",
+     "pinyin": "dōng tiān hěn lěng ， chū mén yīng gāi chuān shén me ？"
+    },
+    {
+     "prompt": "下雪天路滑，走路要怎样？",
+     "correctAnswer": "D",
+     "explanation": "问题问下雪天路滑走路注意什么，说明下雪天路滑要小心走路的句子是正确选择。",
+     "id": "q5",
+     "type": "match",
+     "pinyin": "xià xuě tiān lù huá ， zǒu lù yào zěn yàng ？"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

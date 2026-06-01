@@ -1,0 +1,142 @@
+{
+ "id": "hsk2-reading-p415",
+ "level": "2",
+ "section": "reading",
+ "partKey": "reading-p4",
+ "title": "HSK2 Reading P4",
+ "titleZh": "阅读 第四部分（短文理解）",
+ "groups": [
+  {
+   "instruction": "请阅读下面的短文，然后根据短文内容回答问题。每题只有一个正确答案。",
+   "questions": [
+    {
+     "prompt": "小明每天跑步。他今天跑了五公里。★他今天做了什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "跑步",
+       "pinyin": "pǎo bù"
+      },
+      {
+       "label": "B",
+       "text": "打球",
+       "pinyin": "dǎ qiú"
+      },
+      {
+       "label": "C",
+       "text": "游泳",
+       "pinyin": "yóu yǒng"
+      }
+     ],
+     "correctAnswer": "A",
+     "explanation": "短文说小明每天跑步，今天跑了五公里，所以他今天做了跑步。",
+     "id": "q1",
+     "type": "passage-mcq",
+     "pinyin": "xiǎo míng měi tiān pǎo bù 。 tā jīn tiān pǎo le wǔ gōng lǐ 。★ tā jīn tiān zuò le shén me ？"
+    },
+    {
+     "prompt": "姐姐喜欢打乒乓球。她昨天赢了比赛。★姐姐昨天怎么样？",
+     "options": [
+      {
+       "label": "A",
+       "text": "输了",
+       "pinyin": "shū le"
+      },
+      {
+       "label": "B",
+       "text": "休息了",
+       "pinyin": "xiū xī le"
+      },
+      {
+       "label": "C",
+       "text": "赢了",
+       "pinyin": "yíng le"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "短文说姐姐昨天赢了比赛，所以她是赢了。",
+     "id": "q2",
+     "type": "passage-mcq",
+     "pinyin": "jiě jiě xǐ huān dǎ pīng pāng qiú 。 tā zuó tiān yíng le bǐ sài 。★ jiě jiě zuó tiān zěn me yàng ？"
+    },
+    {
+     "prompt": "爸爸早上打太极拳。他觉得很舒服。★爸爸早上做什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "跑步",
+       "pinyin": "pǎo bù"
+      },
+      {
+       "label": "B",
+       "text": "打太极拳",
+       "pinyin": "dǎ tài jí quán"
+      },
+      {
+       "label": "C",
+       "text": "游泳",
+       "pinyin": "yóu yǒng"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "短文说爸爸早上打太极拳，所以他早上打太极拳。",
+     "id": "q3",
+     "type": "passage-mcq",
+     "pinyin": "bà bà zǎo shàng dǎ tài jí quán 。 tā jué de hěn shū fú 。★ bà bà zǎo shàng zuò shén me ？"
+    },
+    {
+     "prompt": "小丽参加跳绳比赛。她跳了一百下。★小丽跳了多少下？",
+     "options": [
+      {
+       "label": "A",
+       "text": "五十",
+       "pinyin": "wǔ shí"
+      },
+      {
+       "label": "B",
+       "text": "一百",
+       "pinyin": "yì bǎi"
+      },
+      {
+       "label": "C",
+       "text": "二百",
+       "pinyin": "èr bǎi"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "短文说小丽跳了一百下，所以她跳了一百下。",
+     "id": "q4",
+     "type": "passage-mcq",
+     "pinyin": "xiǎo lì cān jiā tiào shéng bǐ sài 。 tā tiào le yì bǎi xià 。★ xiǎo lì tiào le duō shǎo xià ？"
+    },
+    {
+     "prompt": "哥哥在操场上踢足球。他进了两个球。★哥哥进了几个球？",
+     "options": [
+      {
+       "label": "A",
+       "text": "三个",
+       "pinyin": "sān gè"
+      },
+      {
+       "label": "B",
+       "text": "两个",
+       "pinyin": "liǎng gè"
+      },
+      {
+       "label": "C",
+       "text": "一个",
+       "pinyin": "yí gè"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "短文说哥哥进了两个球，所以他进了两个球。",
+     "id": "q5",
+     "type": "passage-mcq",
+     "pinyin": "gē gē zài cāo chǎng shàng tī zú qiú 。 tā jìn le liǎng gè qiú 。★ gē gē jìn le jǐ gè qiú ？"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

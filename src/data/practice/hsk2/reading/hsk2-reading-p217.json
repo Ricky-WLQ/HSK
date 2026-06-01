@@ -1,0 +1,89 @@
+{
+ "id": "hsk2-reading-p217",
+ "level": "2",
+ "section": "reading",
+ "partKey": "reading-p2",
+ "title": "HSK2 Reading P2",
+ "titleZh": "阅读 第二部分（选词填空）",
+ "groups": [
+  {
+   "instruction": "请从下面的词语中选择合适的词填空，每个词语只能用一次，有一个词语是多余的。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "苹果",
+     "pinyin": "píng guǒ"
+    },
+    {
+     "label": "B",
+     "text": "包子",
+     "pinyin": "bāo zi"
+    },
+    {
+     "label": "C",
+     "text": "米饭",
+     "pinyin": "mǐ fàn"
+    },
+    {
+     "label": "D",
+     "text": "面条",
+     "pinyin": "miàn tiáo"
+    },
+    {
+     "label": "E",
+     "text": "牛奶",
+     "pinyin": "niú nǎi"
+    },
+    {
+     "label": "F",
+     "text": "鸡蛋",
+     "pinyin": "jī dàn"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "我渴了，想喝一杯（ ）。",
+     "correctAnswer": "E",
+     "explanation": "渴了需要喝东西，牛奶是常见饮品，其他词语（苹果、鸡蛋、包子、米饭、面条）都不能直接喝。",
+     "id": "q1",
+     "type": "cloze-wordbank",
+     "pinyin": "wǒ kě le ， xiǎng hē yī bēi （ ）。"
+    },
+    {
+     "prompt": "这个（ ）又大又红，很好吃。",
+     "correctAnswer": "A",
+     "explanation": "又大又红是形容苹果的典型特征，其他词语（牛奶、鸡蛋、包子、米饭、面条）不具有这种描述。",
+     "id": "q2",
+     "type": "cloze-wordbank",
+     "pinyin": "zhè ge （ ） yòu dà yòu hóng ， hěn hǎo chī 。"
+    },
+    {
+     "prompt": "妈妈在厨房里打了一个（ ）在碗里。",
+     "correctAnswer": "F",
+     "explanation": "在厨房里打一个鸡蛋是常见动作，打其他词语（牛奶、苹果、包子、米饭、面条）不合逻辑。",
+     "id": "q3",
+     "type": "cloze-wordbank",
+     "pinyin": "mā mā zài chú fáng lǐ dǎ le yí gè （ ） zài wǎn lǐ 。"
+    },
+    {
+     "prompt": "奶奶做的（ ）很好吃，里面有很多肉。",
+     "correctAnswer": "B",
+     "explanation": "包子通常有肉馅，其他词语（牛奶、苹果、鸡蛋、米饭、面条）都没有肉。",
+     "id": "q4",
+     "type": "cloze-wordbank",
+     "pinyin": "nǎi nǎi zuò de （ ） hěn hǎo chī ， lǐ miàn yǒu hěn duō ròu 。"
+    },
+    {
+     "prompt": "我不喜欢吃面条，我喜欢吃（ ）。",
+     "correctAnswer": "C",
+     "explanation": "句子通过对比表达对另一种主食的喜好，米饭与面条相对，其他词语不符合语境。",
+     "id": "q5",
+     "type": "cloze-wordbank",
+     "pinyin": "wǒ bù xǐ huān chī miàn tiáo ， wǒ xǐ huān chī （ ）。"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

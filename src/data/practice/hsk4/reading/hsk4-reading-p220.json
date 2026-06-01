@@ -1,0 +1,118 @@
+{
+ "id": "hsk4-reading-p220",
+ "level": "4",
+ "section": "reading",
+ "partKey": "reading-p2",
+ "title": "HSK4 Reading P2",
+ "titleZh": "阅读 第二部分（短文理解）",
+ "groups": [
+  {
+   "instruction": "请根据短文内容，选择正确答案。",
+   "passage": "我最近读了一本关于古代旅行的书，作者描述了很多有趣的地方，比如沙漠中的古城和高山上的寺庙。这本书让我很惊讶，原来古人旅行这么不容易。受到启发，我决定写一篇自己的游记。刚开始写的时候，我觉得自己写得不好，但朋友看了以后说我的文章很真实，好像跟着我走了一遍。我很开心，打算继续修改，让语言更生动一些。",
+   "questions": [
+    {
+     "prompt": "作者读了哪方面的书？",
+     "options": [
+      {
+       "label": "A",
+       "text": "现代旅行指南"
+      },
+      {
+       "label": "B",
+       "text": "古代旅行故事"
+      },
+      {
+       "label": "C",
+       "text": "现代游记小说"
+      },
+      {
+       "label": "D",
+       "text": "古代建筑历史"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "短文第一句说“读了一本关于古代旅行的书”，所以是古代旅行故事。",
+     "id": "q1",
+     "type": "passage-mcq"
+    },
+    {
+     "prompt": "作者受到启发后做了什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "学习古代历史"
+      },
+      {
+       "label": "B",
+       "text": "修改古代书籍"
+      },
+      {
+       "label": "C",
+       "text": "去沙漠旅行"
+      },
+      {
+       "label": "D",
+       "text": "写一篇游记"
+      }
+     ],
+     "correctAnswer": "D",
+     "explanation": "短文说“受到启发，我决定写一篇自己的游记”，所以是写游记。",
+     "id": "q2",
+     "type": "passage-mcq"
+    },
+    {
+     "prompt": "朋友对作者的文章有什么评价？",
+     "options": [
+      {
+       "label": "A",
+       "text": "句子太复杂"
+      },
+      {
+       "label": "B",
+       "text": "故事很精彩"
+      },
+      {
+       "label": "C",
+       "text": "内容很真实"
+      },
+      {
+       "label": "D",
+       "text": "语言很生动"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "短文提到朋友说“文章很真实，好像跟着我走了一遍”，所以评价是真实。",
+     "id": "q3",
+     "type": "passage-mcq"
+    },
+    {
+     "prompt": "作者接下来打算怎么做？",
+     "options": [
+      {
+       "label": "A",
+       "text": "请朋友帮忙写"
+      },
+      {
+       "label": "B",
+       "text": "写一本新书"
+      },
+      {
+       "label": "C",
+       "text": "继续修改文章"
+      },
+      {
+       "label": "D",
+       "text": "再去旅行一次"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "短文最后说“打算继续修改，让语言更生动一些”，所以是继续修改文章。",
+     "id": "q4",
+     "type": "passage-mcq"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

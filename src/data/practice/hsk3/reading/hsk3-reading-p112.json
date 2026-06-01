@@ -1,0 +1,89 @@
+{
+ "id": "hsk3-reading-p112",
+ "level": "3",
+ "section": "reading",
+ "partKey": "reading-p1",
+ "title": "HSK3 Reading P1",
+ "titleZh": "阅读 第一部分（句子匹配）",
+ "groups": [
+  {
+   "instruction": "请为左边的每个问题或情景，从右边选择一个最合适的回答或句子。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "昨天我在网上买了几本书。",
+     "pinyin": "zuó tiān wǒ zài wǎng shàng mǎi le jǐ běn shū 。"
+    },
+    {
+     "label": "B",
+     "text": "这个手机太贵了，我买不起。",
+     "pinyin": "zhè ge shǒu jī tài guì le ， wǒ mǎi bù qǐ 。"
+    },
+    {
+     "label": "C",
+     "text": "这件衣服可以打折吗？",
+     "pinyin": "zhè jiàn yī fú kě yǐ dǎ zhé ma ？"
+    },
+    {
+     "label": "D",
+     "text": "我想用微信支付。",
+     "pinyin": "wǒ xiǎng yòng wēi xìn zhī fù 。"
+    },
+    {
+     "label": "E",
+     "text": "这双鞋可以退换吗？",
+     "pinyin": "zhè shuāng xié kě yǐ tuì huàn ma ？"
+    },
+    {
+     "label": "F",
+     "text": "您要的号已经卖完了。",
+     "pinyin": "nín yào de hào yǐ jīng mài wán le 。"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "顾客想用手机付钱，他可以说哪句话？",
+     "correctAnswer": "D",
+     "explanation": "「用微信支付」是一种常见的手机支付方式，符合顾客想用手机付钱的情景。",
+     "id": "q1",
+     "type": "match",
+     "pinyin": "gù kè xiǎng yòng shǒu jī fù qián ， tā kě yǐ shuō nǎ jù huà ？"
+    },
+    {
+     "prompt": "顾客觉得东西太贵，可以说哪句话？",
+     "correctAnswer": "B",
+     "explanation": "「太贵了，买不起」直接表达了顾客认为商品价格过高，无法购买的意思。",
+     "id": "q2",
+     "type": "match",
+     "pinyin": "gù kè jué de dōng xī tài guì ， kě yǐ shuō nǎ jù huà ？"
+    },
+    {
+     "prompt": "售货员告诉顾客没有合适的尺码，她可以说哪句话？",
+     "correctAnswer": "F",
+     "explanation": "「您要的号已经卖完了」是售货员表示缺货时常用的说法。",
+     "id": "q3",
+     "type": "match",
+     "pinyin": "shòu huò yuán gào sù gù kè méi yǒu hé shì de chǐ mǎ ， tā kě yǐ shuō nǎ jù huà ？"
+    },
+    {
+     "prompt": "顾客想确认能否退换，他可以说哪句话？",
+     "correctAnswer": "E",
+     "explanation": "「可以退换吗」是询问商品退换政策的常见问法。",
+     "id": "q4",
+     "type": "match",
+     "pinyin": "gù kè xiǎng què rèn néng fǒu tuì huàn ， tā kě yǐ shuō nǎ jù huà ？"
+    },
+    {
+     "prompt": "顾客问有没有便宜一点的价格，他可以说哪句话？",
+     "correctAnswer": "C",
+     "explanation": "「打折」就是降价销售，问「可以打折吗」就是询问能否便宜一些。",
+     "id": "q5",
+     "type": "match",
+     "pinyin": "gù kè wèn yǒu méi yǒu pián yi yì diǎn de jià gé ， tā kě yǐ shuō nǎ jù huà ？"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

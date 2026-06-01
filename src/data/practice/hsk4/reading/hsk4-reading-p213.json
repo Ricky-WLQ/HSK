@@ -1,0 +1,118 @@
+{
+ "id": "hsk4-reading-p213",
+ "level": "4",
+ "section": "reading",
+ "partKey": "reading-p2",
+ "title": "HSK4 Reading P2",
+ "titleZh": "阅读 第二部分（短文理解）",
+ "groups": [
+  {
+   "instruction": "请根据短文内容，选择正确答案。",
+   "passage": "昨天下午，我在小区楼下散步时，看到一只小鸟躺在地上。它的一只翅膀好像受伤了，飞不起来。我小心地把它捧起来，带回家。我用毛巾给它做了一个小窝，又找来一些面包屑和水。小鸟吃了东西后精神好了一些。今天早上，我发现它已经能在屋里飞一小段了。我决定等它完全好了就放它回大自然。",
+   "questions": [
+    {
+     "prompt": "小鸟为什么飞不起来？",
+     "options": [
+      {
+       "label": "A",
+       "text": "翅膀受伤了"
+      },
+      {
+       "label": "B",
+       "text": "它饿了"
+      },
+      {
+       "label": "C",
+       "text": "它太小了"
+      },
+      {
+       "label": "D",
+       "text": "它不想飞"
+      }
+     ],
+     "correctAnswer": "A",
+     "explanation": "短文中提到“它的一只翅膀好像受伤了，飞不起来”，所以原因是翅膀受伤。",
+     "id": "q1",
+     "type": "passage-mcq"
+    },
+    {
+     "prompt": "作者把小鸟带回家后做了什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "直接放走"
+      },
+      {
+       "label": "B",
+       "text": "给它做窝并喂食"
+      },
+      {
+       "label": "C",
+       "text": "把它关在笼子里"
+      },
+      {
+       "label": "D",
+       "text": "找兽医"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "短文中说“我用毛巾给它做了一个小窝，又找来一些面包屑和水”，所以作者为小鸟做了窝并喂了食物。",
+     "id": "q2",
+     "type": "passage-mcq"
+    },
+    {
+     "prompt": "第二天早上小鸟怎么样了？",
+     "options": [
+      {
+       "label": "A",
+       "text": "能在屋里飞一小段"
+      },
+      {
+       "label": "B",
+       "text": "完全好了"
+      },
+      {
+       "label": "C",
+       "text": "变得很精神"
+      },
+      {
+       "label": "D",
+       "text": "飞走了"
+      }
+     ],
+     "correctAnswer": "A",
+     "explanation": "短文中写“今天早上，我发现它已经能在屋里飞一小段了”，所以小鸟能在屋里飞一小段。",
+     "id": "q3",
+     "type": "passage-mcq"
+    },
+    {
+     "prompt": "作者打算最后怎么处理小鸟？",
+     "options": [
+      {
+       "label": "A",
+       "text": "送到动物园"
+      },
+      {
+       "label": "B",
+       "text": "放回大自然"
+      },
+      {
+       "label": "C",
+       "text": "养在家里"
+      },
+      {
+       "label": "D",
+       "text": "送给朋友"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "短文最后说“我决定等它完全好了就放它回大自然”，所以作者打算放回大自然。",
+     "id": "q4",
+     "type": "passage-mcq"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

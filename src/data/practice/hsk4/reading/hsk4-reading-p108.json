@@ -1,0 +1,74 @@
+{
+ "id": "hsk4-reading-p108",
+ "level": "4",
+ "section": "reading",
+ "partKey": "reading-p1",
+ "title": "HSK4 Reading P1",
+ "titleZh": "阅读 第一部分（选词填空）",
+ "groups": [
+  {
+   "instruction": "请从以下词语中选择合适的词语填入下面句子的空白处，每个词语只能用一次。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "创作"
+    },
+    {
+     "label": "B",
+     "text": "乐器"
+    },
+    {
+     "label": "C",
+     "text": "观众"
+    },
+    {
+     "label": "D",
+     "text": "展览"
+    },
+    {
+     "label": "E",
+     "text": "表演"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "她从小学习钢琴，现在终于有机会在舞台上为几百名（ ）演奏。",
+     "correctAnswer": "C",
+     "explanation": "句子中“为几百名……演奏”，需要填入观看表演的人，即“观众”。",
+     "id": "q1",
+     "type": "cloze-wordbank"
+    },
+    {
+     "prompt": "这次画（ ）展出了很多现代艺术家的作品，吸引了不少人参观。",
+     "correctAnswer": "D",
+     "explanation": "“画”通常与“展览”搭配，指美术作品的展示活动。",
+     "id": "q2",
+     "type": "cloze-wordbank"
+    },
+    {
+     "prompt": "为了准备音乐比赛，他每天花三小时练习（ ）。",
+     "correctAnswer": "B",
+     "explanation": "“练习”后面需要接演奏的工具，即“乐器”，如钢琴、小提琴等。",
+     "id": "q3",
+     "type": "cloze-wordbank"
+    },
+    {
+     "prompt": "这位作家最近正在（ ）一部关于音乐家生活的小说。",
+     "correctAnswer": "A",
+     "explanation": "“正在”后接动词，“创作”指写出文学作品，符合语境。",
+     "id": "q4",
+     "type": "cloze-wordbank"
+    },
+    {
+     "prompt": "她的（ ）非常精彩，赢得了大家热烈的掌声。",
+     "correctAnswer": "E",
+     "explanation": "“赢得掌声”说明前面是演出或展示，即“表演”。",
+     "id": "q5",
+     "type": "cloze-wordbank"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

@@ -1,0 +1,74 @@
+{
+ "id": "hsk7-9-reading-p316",
+ "level": "7-9",
+ "section": "reading",
+ "partKey": "reading-p3",
+ "title": "HSK7-9 Reading P3",
+ "titleZh": "阅读 第三部分（简答题）",
+ "groups": [
+  {
+   "instruction": "请阅读下面的短文，然后根据短文内容回答每个问题，答案不超过10个字。",
+   "passage": "校园微气候是近年来环境教育关注的热点。在夏季，校园内不同地表覆盖物会导致显著的气温差异。沥青路面因吸热快、热容量小，午后表面温度可高达60℃；而草坪由于植物蒸腾作用，温度通常比沥青低10℃以上。水体如人工湖则通过蒸发吸热，调节周围气温。此外，建筑物之间的狭窄通道会形成“风道效应”，加速空气流动，降低体感温度。研究还发现，树木茂密的区域比空旷广场的湿度高出约15%，这得益于树叶截留降水和蒸腾释放水汽。冬季，松树等常绿植被能减缓风速，起到保温作用。因此，校园绿化不仅美化环境，还能有效改善局部小气候，提升学习舒适度。",
+   "questions": [
+    {
+     "prompt": "夏季沥青路面午后表面温度可高达多少度？",
+     "correctAnswer": "60℃",
+     "acceptableAnswers": [
+      "60℃",
+      "60摄氏度"
+     ],
+     "explanation": "原文提到“沥青路面……午后表面温度可高达60℃”，因此答案为60℃。",
+     "id": "q1",
+     "type": "short-answer"
+    },
+    {
+     "prompt": "草坪温度比沥青路面低多少以上？",
+     "correctAnswer": "10℃",
+     "acceptableAnswers": [
+      "10℃",
+      "10度",
+      "10摄氏度"
+     ],
+     "explanation": "原文说“温度通常比沥青低10℃以上”，所以低10℃以上，答案取关键数值10℃。",
+     "id": "q2",
+     "type": "short-answer"
+    },
+    {
+     "prompt": "水体通过什么方式调节气温？",
+     "correctAnswer": "蒸发吸热",
+     "acceptableAnswers": [
+      "蒸发吸热",
+      "蒸发"
+     ],
+     "explanation": "原文指出“水体如人工湖则通过蒸发吸热，调节周围气温”，因此是蒸发吸热。",
+     "id": "q3",
+     "type": "short-answer"
+    },
+    {
+     "prompt": "建筑物间的通道会形成什么效应？",
+     "correctAnswer": "风道效应",
+     "acceptableAnswers": [
+      "风道效应",
+      "风道"
+     ],
+     "explanation": "原文提到“建筑物之间的狭窄通道会形成‘风道效应’”，答案为风道效应。",
+     "id": "q4",
+     "type": "short-answer"
+    },
+    {
+     "prompt": "树木茂密区域比空旷广场湿度高出约多少？",
+     "correctAnswer": "15%",
+     "acceptableAnswers": [
+      "15%",
+      "百分之十五"
+     ],
+     "explanation": "原文中“树木茂密的区域比空旷广场的湿度高出约15%”，答案为15%。",
+     "id": "q5",
+     "type": "short-answer"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

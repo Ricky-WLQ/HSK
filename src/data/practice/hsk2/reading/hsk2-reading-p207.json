@@ -1,0 +1,89 @@
+{
+ "id": "hsk2-reading-p207",
+ "level": "2",
+ "section": "reading",
+ "partKey": "reading-p2",
+ "title": "HSK2 Reading P2",
+ "titleZh": "阅读 第二部分（选词填空）",
+ "groups": [
+  {
+   "instruction": "请从A-F中选择合适的词语填入下列句子的空白处。每个词语只能使用一次，有一个词语是多余的。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "养",
+     "pinyin": "yǎng"
+    },
+    {
+     "label": "B",
+     "text": "地铁",
+     "pinyin": "dì tiě"
+    },
+    {
+     "label": "C",
+     "text": "路",
+     "pinyin": "lù"
+    },
+    {
+     "label": "D",
+     "text": "城市",
+     "pinyin": "chéng shì"
+    },
+    {
+     "label": "E",
+     "text": "乡村",
+     "pinyin": "xiāng cūn"
+    },
+    {
+     "label": "F",
+     "text": "种",
+     "pinyin": "zhǒng"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "他每天坐（ ）去上班。",
+     "correctAnswer": "B",
+     "explanation": "句子意思是“他每天乘坐地铁去上班”，“地铁”是城市常见的交通工具，符合句意。",
+     "id": "q1",
+     "type": "cloze-wordbank",
+     "pinyin": "tā měi tiān zuò （ ） qù shàng bān 。"
+    },
+    {
+     "prompt": "奶奶在院子里（ ）了很多花。",
+     "correctAnswer": "F",
+     "explanation": "句子意思是“奶奶在院子里种了很多花”，“种”表示种植，与“花”搭配。",
+     "id": "q2",
+     "type": "cloze-wordbank",
+     "pinyin": "nǎi nǎi zài yuàn zi lǐ （ ） le hěn duō huā 。"
+    },
+    {
+     "prompt": "爸爸在乡下（ ）了几只鸡。",
+     "correctAnswer": "A",
+     "explanation": "句子意思是“爸爸在乡下养了几只鸡”，“养”表示饲养动物，与“鸡”搭配。",
+     "id": "q3",
+     "type": "cloze-wordbank",
+     "pinyin": "bà bà zài xiāng xià （ ） le jǐ zhī jī 。"
+    },
+    {
+     "prompt": "我住在（ ），这里有很多高楼。",
+     "correctAnswer": "D",
+     "explanation": "句子意思是“我住在城市，这里有很多高楼”，“城市”指城镇地区，符合“高楼”的描述。",
+     "id": "q4",
+     "type": "cloze-wordbank",
+     "pinyin": "wǒ zhù zài （ ）， zhè lǐ yǒu hěn duō gāo lóu 。"
+    },
+    {
+     "prompt": "从学校到我家有一条小（ ）。",
+     "correctAnswer": "C",
+     "explanation": "句子意思是“从学校到我家有一条小路”，“路”指道路，符合句意。",
+     "id": "q5",
+     "type": "cloze-wordbank",
+     "pinyin": "cóng xué xiào dào wǒ jiā yǒu yī tiáo xiǎo （ ）。"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

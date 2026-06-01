@@ -1,0 +1,89 @@
+{
+ "id": "hsk1-reading-p214",
+ "level": "1",
+ "section": "reading",
+ "partKey": "reading-p2",
+ "title": "HSK1 Reading P2",
+ "titleZh": "阅读 第二部分（问答匹配）",
+ "groups": [
+  {
+   "instruction": "请为下面的问题选择正确的回答。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "我对他说怎么走。",
+     "pinyin": "wǒ duì tā shuō zěn me zǒu 。"
+    },
+    {
+     "label": "B",
+     "text": "我给他喝水。",
+     "pinyin": "wǒ gěi tā hē shuǐ 。"
+    },
+    {
+     "label": "C",
+     "text": "我不累，我很高兴。",
+     "pinyin": "wǒ bù lèi ， wǒ hěn gāo xìng 。"
+    },
+    {
+     "label": "D",
+     "text": "我去教室。",
+     "pinyin": "wǒ qù jiào shì 。"
+    },
+    {
+     "label": "E",
+     "text": "我吃米饭。",
+     "pinyin": "wǒ chī mǐ fàn 。"
+    },
+    {
+     "label": "F",
+     "text": "我擦桌子。",
+     "pinyin": "wǒ cā zhuō zi 。"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "你在医院做什么？",
+     "correctAnswer": "A",
+     "explanation": "在医院做志愿者时，可以帮人指路，所以回答“我对他说怎么走”正确。",
+     "id": "q1",
+     "type": "match",
+     "pinyin": "nǐ zài yī yuàn zuò shén me ？"
+    },
+    {
+     "prompt": "你给老人做什么？",
+     "correctAnswer": "B",
+     "explanation": "给老人做志愿服务时，可以给他们喝水，所以回答“我给他喝水”正确。",
+     "id": "q2",
+     "type": "match",
+     "pinyin": "nǐ gěi lǎo rén zuò shén me ？"
+    },
+    {
+     "prompt": "你今天去学校做什么？",
+     "correctAnswer": "F",
+     "explanation": "在学校做志愿服务可以擦桌子打扫卫生，所以回答“我擦桌子”正确。",
+     "id": "q3",
+     "type": "match",
+     "pinyin": "nǐ jīn tiān qù xué xiào zuò shén me ？"
+    },
+    {
+     "prompt": "你去哪里？",
+     "correctAnswer": "D",
+     "explanation": "当被问去哪里时，回答“我去教室”表示去教室做志愿服务，所以正确。",
+     "id": "q4",
+     "type": "match",
+     "pinyin": "nǐ qù nǎ lǐ ？"
+    },
+    {
+     "prompt": "你累吗？",
+     "correctAnswer": "C",
+     "explanation": "做志愿服务虽然累但很开心，所以回答“我不累，我很高兴”正确。",
+     "id": "q5",
+     "type": "match",
+     "pinyin": "nǐ lèi ma ？"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

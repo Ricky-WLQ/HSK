@@ -1,0 +1,89 @@
+{
+ "id": "hsk3-reading-p204",
+ "level": "3",
+ "section": "reading",
+ "partKey": "reading-p2",
+ "title": "HSK3 Reading P2",
+ "titleZh": "阅读 第二部分（词语填空）",
+ "groups": [
+  {
+   "instruction": "请阅读下列句子，从词语库中选择最合适的词语填入空白处。每个词语只能用一次，其中有一个词语是多余的。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "高兴",
+     "pinyin": "gāo xìng"
+    },
+    {
+     "label": "B",
+     "text": "担心",
+     "pinyin": "dān xīn"
+    },
+    {
+     "label": "C",
+     "text": "着急",
+     "pinyin": "zháo jí"
+    },
+    {
+     "label": "D",
+     "text": "难过",
+     "pinyin": "nán guò"
+    },
+    {
+     "label": "E",
+     "text": "生气",
+     "pinyin": "shēng qì"
+    },
+    {
+     "label": "F",
+     "text": "紧张",
+     "pinyin": "jǐn zhāng"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "考试快开始了，他还没到，我很（ ）。",
+     "correctAnswer": "C",
+     "explanation": "句子描述的是因为时间紧而内心焦虑的状态，“着急”指心中急躁不安，符合语境。",
+     "id": "q1",
+     "type": "cloze-wordbank",
+     "pinyin": "kǎo shì kuài kāi shǐ le ， tā hái méi dào ， wǒ hěn （ ）。"
+    },
+    {
+     "prompt": "听到这个好消息，她非常（ ）。",
+     "correctAnswer": "A",
+     "explanation": "收到好消息通常带来正面情绪，“高兴”表示愉快、快乐，符合语境。",
+     "id": "q2",
+     "type": "cloze-wordbank",
+     "pinyin": "tīng dào zhè ge hǎo xiāo xī ， tā fēi cháng （ ）。"
+    },
+    {
+     "prompt": "朋友生病了，我很（ ）。",
+     "correctAnswer": "B",
+     "explanation": "朋友生病会引发担忧，“担心”指牵挂在心、不放心，符合语境。",
+     "id": "q3",
+     "type": "cloze-wordbank",
+     "pinyin": "péng yǒu shēng bìng le ， wǒ hěn （ ）。"
+    },
+    {
+     "prompt": "他弄坏了我的手机，我很（ ）。",
+     "correctAnswer": "E",
+     "explanation": "别人损坏自己的物品容易引发愤怒情绪，“生气”表示发怒、不高兴，符合语境。",
+     "id": "q4",
+     "type": "cloze-wordbank",
+     "pinyin": "tā nòng huài le wǒ de shǒu jī ， wǒ hěn （ ）。"
+    },
+    {
+     "prompt": "第一次上台演讲，她有点（ ）。",
+     "correctAnswer": "F",
+     "explanation": "首次演讲通常会导致精神紧绷，“紧张”表示精神处于高度准备状态、不安，符合语境。",
+     "id": "q5",
+     "type": "cloze-wordbank",
+     "pinyin": "dì yī cì shàng tái yǎn jiǎng ， tā yǒu diǎn （ ）。"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

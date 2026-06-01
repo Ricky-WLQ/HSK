@@ -1,0 +1,89 @@
+{
+ "id": "hsk2-reading-p312",
+ "level": "2",
+ "section": "reading",
+ "partKey": "reading-p3",
+ "title": "HSK2 Reading P3",
+ "titleZh": "阅读 第三部分（句子匹配）",
+ "groups": [
+  {
+   "instruction": "请从A-F中选择合适的回答，使对话完整。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "这个电影我看过。",
+     "pinyin": "zhè ge diàn yǐng wǒ kàn guò 。"
+    },
+    {
+     "label": "B",
+     "text": "电影票很便宜。",
+     "pinyin": "diàn yǐng piào hěn pián yi 。"
+    },
+    {
+     "label": "C",
+     "text": "我也觉得很好看。",
+     "pinyin": "wǒ yě jué de hěn hǎo kàn 。"
+    },
+    {
+     "label": "D",
+     "text": "我朋友也喜欢看这个电影。",
+     "pinyin": "wǒ péng yǒu yě xǐ huān kàn zhè ge diàn yǐng 。"
+    },
+    {
+     "label": "E",
+     "text": "今天下午我没事。",
+     "pinyin": "jīn tiān xià wǔ wǒ méi shì 。"
+    },
+    {
+     "label": "F",
+     "text": "明天下午我有时间。",
+     "pinyin": "míng tiān xià wǔ wǒ yǒu shí jiān 。"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "这个电影很好看，是吗？",
+     "correctAnswer": "C",
+     "explanation": "提问的人说这个电影很好看并寻求认同，回答“我也觉得很好看”表示同意，符合对话逻辑。",
+     "id": "q1",
+     "type": "match",
+     "pinyin": "zhè ge diàn yǐng hěn hǎo kàn ， shì ma ？"
+    },
+    {
+     "prompt": "电影票贵吗？",
+     "correctAnswer": "B",
+     "explanation": "提问的人询问电影票价格是否昂贵，回答“电影票很便宜”直接说明价格不贵，是合理的回应。",
+     "id": "q2",
+     "type": "match",
+     "pinyin": "diàn yǐng piào guì ma ？"
+    },
+    {
+     "prompt": "你朋友喜欢这个电影吗？",
+     "correctAnswer": "D",
+     "explanation": "提问的人询问朋友是否喜欢这个电影，回答“我朋友也喜欢看这个电影”给出了肯定的答案，且“也”暗示了别人也喜欢，自然连贯。",
+     "id": "q3",
+     "type": "match",
+     "pinyin": "nǐ péng yǒu xǐ huān zhè ge diàn yǐng ma ？"
+    },
+    {
+     "prompt": "今天下午你有空吗？",
+     "correctAnswer": "E",
+     "explanation": "提问的人询问对方今天下午是否有空，回答“今天下午我没事”表示有空，符合对话语境。",
+     "id": "q4",
+     "type": "match",
+     "pinyin": "jīn tiān xià wǔ nǐ yǒu kòng ma ？"
+    },
+    {
+     "prompt": "你明天有时间吗？",
+     "correctAnswer": "F",
+     "explanation": "提问的人询问对方明天是否有时间，回答“明天下午我有时间”具体说明了有空的时间段，是合适的答复。",
+     "id": "q5",
+     "type": "match",
+     "pinyin": "nǐ míng tiān yǒu shí jiān ma ？"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

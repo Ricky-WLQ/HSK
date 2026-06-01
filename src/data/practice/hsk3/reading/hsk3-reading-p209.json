@@ -1,0 +1,89 @@
+{
+ "id": "hsk3-reading-p209",
+ "level": "3",
+ "section": "reading",
+ "partKey": "reading-p2",
+ "title": "HSK3 Reading P2",
+ "titleZh": "阅读 第二部分（词语填空）",
+ "groups": [
+  {
+   "instruction": "请从下面的词库中选择合适的词语填入下列句子的空白处。每个词语只能用一次，有一个词语是多余的。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "窗户",
+     "pinyin": "chuāng hù"
+    },
+    {
+     "label": "B",
+     "text": "楼梯",
+     "pinyin": "lóu tī"
+    },
+    {
+     "label": "C",
+     "text": "设计",
+     "pinyin": "shè jì"
+    },
+    {
+     "label": "D",
+     "text": "装修",
+     "pinyin": "zhuāng xiū"
+    },
+    {
+     "label": "E",
+     "text": "阳台",
+     "pinyin": "yáng tái"
+    },
+    {
+     "label": "F",
+     "text": "建筑",
+     "pinyin": "jiàn zhù"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "新家的（ ）已经完成了，下个月就可以搬进去住。",
+     "correctAnswer": "D",
+     "explanation": "装修指的是对房子进行装饰和修整，让房子变得适合居住，所以这里用“装修”最合适。",
+     "id": "q1",
+     "type": "cloze-wordbank",
+     "pinyin": "xīn jiā de （ ） yǐ jīng wán chéng le ， xià gè yuè jiù kě yǐ bān jìn qù zhù 。"
+    },
+    {
+     "prompt": "这个（ ）很高，有三十层。",
+     "correctAnswer": "F",
+     "explanation": "建筑指房子、楼房等建筑物，“有三十层”说明是一座高楼，所以填“建筑”。",
+     "id": "q2",
+     "type": "cloze-wordbank",
+     "pinyin": "zhè ge （ ） hěn gāo ， yǒu sān shí céng 。"
+    },
+    {
+     "prompt": "这个房间的（ ）朝南，阳光很好。",
+     "correctAnswer": "A",
+     "explanation": "窗户是房间透光通风的部分，“朝南”指的是方向，所以这里用“窗户”。",
+     "id": "q3",
+     "type": "cloze-wordbank",
+     "pinyin": "zhè ge fáng jiān de （ ） cháo nán ， yáng guāng hěn hǎo 。"
+    },
+    {
+     "prompt": "这个房子的（ ）很漂亮，是请专业公司做的。",
+     "correctAnswer": "C",
+     "explanation": "设计指对房子外观、内部布局等的规划安排，专业公司通常做设计工作，所以用“设计”。",
+     "id": "q4",
+     "type": "cloze-wordbank",
+     "pinyin": "zhè ge fáng zi de （ ） hěn piào liàng ， shì qǐng zhuān yè gōng sī zuò de 。"
+    },
+    {
+     "prompt": "我喜欢在（ ）上种花，每天都能看到绿色。",
+     "correctAnswer": "E",
+     "explanation": "阳台是房子向外伸出的平台，可以种花、晒太阳，所以这里用“阳台”。",
+     "id": "q5",
+     "type": "cloze-wordbank",
+     "pinyin": "wǒ xǐ huān zài （ ） shàng zhòng huā ， měi tiān dōu néng kàn dào lǜ sè 。"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

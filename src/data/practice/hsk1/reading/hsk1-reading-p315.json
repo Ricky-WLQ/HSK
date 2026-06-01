@@ -1,0 +1,89 @@
+{
+ "id": "hsk1-reading-p315",
+ "level": "1",
+ "section": "reading",
+ "partKey": "reading-p3",
+ "title": "HSK1 Reading P3",
+ "titleZh": "阅读 第三部分（选词填空）",
+ "groups": [
+  {
+   "instruction": "从下面选择正确的词语填空。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "高兴",
+     "pinyin": "gāo xìng"
+    },
+    {
+     "label": "B",
+     "text": "喜欢",
+     "pinyin": "xǐ huān"
+    },
+    {
+     "label": "C",
+     "text": "朋友",
+     "pinyin": "péng yǒu"
+    },
+    {
+     "label": "D",
+     "text": "认识",
+     "pinyin": "rèn shí"
+    },
+    {
+     "label": "E",
+     "text": "一起",
+     "pinyin": "yì qǐ"
+    },
+    {
+     "label": "F",
+     "text": "水",
+     "pinyin": "shuǐ"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "他是我的好（ ）。",
+     "correctAnswer": "C",
+     "explanation": "“朋友”指关系友好的人，句子说“他是我的好朋友”，所以填“朋友”。",
+     "id": "q1",
+     "type": "cloze-wordbank",
+     "pinyin": "tā shì wǒ de hǎo （ ）。"
+    },
+    {
+     "prompt": "我们（ ）学习汉语。",
+     "correctAnswer": "E",
+     "explanation": "“一起”表示共同做某事，句子意思是“我们共同学习汉语”，所以填“一起”。",
+     "id": "q2",
+     "type": "cloze-wordbank",
+     "pinyin": "wǒ men （ ） xué xí hàn yǔ 。"
+    },
+    {
+     "prompt": "今天我很（ ）。",
+     "correctAnswer": "A",
+     "explanation": "“高兴”表示心情愉快，句子说“今天我很高兴”，所以填“高兴”。",
+     "id": "q3",
+     "type": "cloze-wordbank",
+     "pinyin": "jīn tiān wǒ hěn （ ）。"
+    },
+    {
+     "prompt": "我（ ）小红。",
+     "correctAnswer": "D",
+     "explanation": "“认识”表示与某人相识，句子意思是“我认识小红”，所以填“认识”。",
+     "id": "q4",
+     "type": "cloze-wordbank",
+     "pinyin": "wǒ （ ） xiǎo hóng 。"
+    },
+    {
+     "prompt": "我（ ）吃苹果。",
+     "correctAnswer": "B",
+     "explanation": "“喜欢”表示对某事物有好感，句子意思是“我喜欢吃苹果”，所以填“喜欢”。",
+     "id": "q5",
+     "type": "cloze-wordbank",
+     "pinyin": "wǒ （ ） chī píng guǒ 。"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

@@ -1,0 +1,89 @@
+{
+ "id": "hsk3-reading-p106",
+ "level": "3",
+ "section": "reading",
+ "partKey": "reading-p1",
+ "title": "HSK3 Reading P1",
+ "titleZh": "阅读 第一部分（句子匹配）",
+ "groups": [
+  {
+   "instruction": "从方框中选择一个合适的句子，与每个问题配对。注意每个句子只能用一次。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "太阳从东边升起。",
+     "pinyin": "tài yáng cóng dōng biān shēng qǐ 。"
+    },
+    {
+     "label": "B",
+     "text": "我用望远镜看星星。",
+     "pinyin": "wǒ yòng wàng yuǎn jìng kàn xīng xīng 。"
+    },
+    {
+     "label": "C",
+     "text": "他在月亮上走路。",
+     "pinyin": "tā zài yuè liàng shàng zǒu lù 。"
+    },
+    {
+     "label": "D",
+     "text": "火箭飞得很快。",
+     "pinyin": "huǒ jiàn fēi dé hěn kuài 。"
+    },
+    {
+     "label": "E",
+     "text": "地球是圆的。",
+     "pinyin": "dì qiú shì yuán de 。"
+    },
+    {
+     "label": "F",
+     "text": "月亮晚上出来。",
+     "pinyin": "yuè liàng wǎn shàng chū lái 。"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "你用什么看星星？",
+     "correctAnswer": "B",
+     "explanation": "句子说用望远镜看星星，所以回答‘你用什么看星星’的问题。",
+     "id": "q1",
+     "type": "match",
+     "pinyin": "nǐ yòng shén me kàn xīng xīng ？"
+    },
+    {
+     "prompt": "谁在月亮上走路？",
+     "correctAnswer": "C",
+     "explanation": "句子说他在月亮上走路，所以回答‘谁在月亮上走路’的问题。",
+     "id": "q2",
+     "type": "match",
+     "pinyin": "shuí zài yuè liàng shàng zǒu lù ？"
+    },
+    {
+     "prompt": "什么飞得很快？",
+     "correctAnswer": "D",
+     "explanation": "句子说火箭飞得很快，所以回答‘什么飞得很快’的问题。",
+     "id": "q3",
+     "type": "match",
+     "pinyin": "shén me fēi dé hěn kuài ？"
+    },
+    {
+     "prompt": "地球是什么形状？",
+     "correctAnswer": "E",
+     "explanation": "句子说地球是圆的，所以回答‘地球是什么形状’的问题。",
+     "id": "q4",
+     "type": "match",
+     "pinyin": "dì qiú shì shén me xíng zhuàng ？"
+    },
+    {
+     "prompt": "太阳从哪边升起？",
+     "correctAnswer": "A",
+     "explanation": "句子说太阳从东边升起，所以回答‘太阳从哪边升起’的问题。",
+     "id": "q5",
+     "type": "match",
+     "pinyin": "tài yáng cóng nǎ biān shēng qǐ ？"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

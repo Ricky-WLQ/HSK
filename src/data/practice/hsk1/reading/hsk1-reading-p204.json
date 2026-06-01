@@ -1,0 +1,89 @@
+{
+ "id": "hsk1-reading-p204",
+ "level": "1",
+ "section": "reading",
+ "partKey": "reading-p2",
+ "title": "HSK1 Reading P2",
+ "titleZh": "阅读 第二部分（问答匹配）",
+ "groups": [
+  {
+   "instruction": "请从方框中选择合适的回答。每个回答只能使用一次。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "今天天气很热。",
+     "pinyin": "jīn tiān tiān qì hěn rè 。"
+    },
+    {
+     "label": "B",
+     "text": "我很好，谢谢。",
+     "pinyin": "wǒ hěn hǎo ， xiè xiè 。"
+    },
+    {
+     "label": "C",
+     "text": "太阳很大。",
+     "pinyin": "tài yáng hěn dà 。"
+    },
+    {
+     "label": "D",
+     "text": "现在下雨了。",
+     "pinyin": "xiàn zài xià yǔ le 。"
+    },
+    {
+     "label": "E",
+     "text": "明天没有雨。",
+     "pinyin": "míng tiān méi yǒu yǔ 。"
+    },
+    {
+     "label": "F",
+     "text": "今天天气很冷。",
+     "pinyin": "jīn tiān tiān qì hěn lěng 。"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "现在下雨吗？",
+     "correctAnswer": "D",
+     "explanation": "问题问现在是否下雨，回答“现在下雨了”直接说明正在下雨，意思匹配。",
+     "id": "q1",
+     "type": "match",
+     "pinyin": "xiàn zài xià yǔ ma ？"
+    },
+    {
+     "prompt": "今天热不热？",
+     "correctAnswer": "A",
+     "explanation": "问题问今天热不热，回答“今天天气很热”直接说明天气热，意思一致。",
+     "id": "q2",
+     "type": "match",
+     "pinyin": "jīn tiān rè bù rè ？"
+    },
+    {
+     "prompt": "今天冷不冷？",
+     "correctAnswer": "F",
+     "explanation": "问题问今天冷不冷，回答“今天天气很冷”直接说明天气冷，意思一致。",
+     "id": "q3",
+     "type": "match",
+     "pinyin": "jīn tiān lěng bù lěng ？"
+    },
+    {
+     "prompt": "明天有雨吗？",
+     "correctAnswer": "E",
+     "explanation": "问题问明天有没有雨，回答“明天没有雨”直接给出否定答案，意思匹配。",
+     "id": "q4",
+     "type": "match",
+     "pinyin": "míng tiān yǒu yǔ ma ？"
+    },
+    {
+     "prompt": "现在有没有太阳？",
+     "correctAnswer": "C",
+     "explanation": "问题问现在有没有太阳，回答“太阳很大”说明太阳存在且大，意思匹配。",
+     "id": "q5",
+     "type": "match",
+     "pinyin": "xiàn zài yǒu méi yǒu tài yáng ？"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

@@ -1,0 +1,142 @@
+{
+ "id": "hsk2-reading-p413",
+ "level": "2",
+ "section": "reading",
+ "partKey": "reading-p4",
+ "title": "HSK2 Reading P4",
+ "titleZh": "阅读 第四部分（短文理解）",
+ "groups": [
+  {
+   "instruction": "请阅读下面的短文，然后根据短文内容选择正确答案。",
+   "questions": [
+    {
+     "prompt": "小王坐飞机去旅行，飞机晚点了。★他怎么了？",
+     "options": [
+      {
+       "label": "A",
+       "text": "飞机很快",
+       "pinyin": "fēi jī hěn kuài"
+      },
+      {
+       "label": "B",
+       "text": "飞机没晚",
+       "pinyin": "fēi jī méi wǎn"
+      },
+      {
+       "label": "C",
+       "text": "飞机晚了",
+       "pinyin": "fēi jī wǎn le"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "短文中说“飞机晚点了”，所以小王坐的飞机晚了。",
+     "id": "q1",
+     "type": "passage-mcq",
+     "pinyin": "xiǎo wáng zuò fēi jī qù lǚ xíng ， fēi jī wǎn diǎn le 。★ tā zěn me le ？"
+    },
+    {
+     "prompt": "小李骑自行车去图书馆，路上遇到下雨。★路上怎么了？",
+     "options": [
+      {
+       "label": "A",
+       "text": "下雨了",
+       "pinyin": "xià yǔ le"
+      },
+      {
+       "label": "B",
+       "text": "下雪了",
+       "pinyin": "xià xuě le"
+      },
+      {
+       "label": "C",
+       "text": "晴天",
+       "pinyin": "qíng tiān"
+      }
+     ],
+     "correctAnswer": "A",
+     "explanation": "短文中说“路上遇到下雨”，所以路上在下雨。",
+     "id": "q2",
+     "type": "passage-mcq",
+     "pinyin": "xiǎo lǐ qí zì xíng chē qù tú shū guǎn ， lù shàng yù dào xià yǔ 。★ lù shàng zěn me le ？"
+    },
+    {
+     "prompt": "小张坐地铁去公司，地铁上人很多。★地铁上怎么样？",
+     "options": [
+      {
+       "label": "A",
+       "text": "人很少",
+       "pinyin": "rén hěn shǎo"
+      },
+      {
+       "label": "B",
+       "text": "人很多",
+       "pinyin": "rén hěn duō"
+      },
+      {
+       "label": "C",
+       "text": "没人",
+       "pinyin": "méi rén"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "短文中说“地铁上人很多”，所以地铁上人很多。",
+     "id": "q3",
+     "type": "passage-mcq",
+     "pinyin": "xiǎo zhāng zuò dì tiě qù gōng sī ， dì tiě shàng rén hěn duō 。★ dì tiě shàng zěn me yàng ？"
+    },
+    {
+     "prompt": "小刘坐火车去上海，火车票很便宜。★火车票怎么样？",
+     "options": [
+      {
+       "label": "A",
+       "text": "很贵",
+       "pinyin": "hěn guì"
+      },
+      {
+       "label": "B",
+       "text": "很便宜",
+       "pinyin": "hěn pián yi"
+      },
+      {
+       "label": "C",
+       "text": "没有票",
+       "pinyin": "méi yǒu piào"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "短文中说“火车票很便宜”，所以火车票很便宜。",
+     "id": "q4",
+     "type": "passage-mcq",
+     "pinyin": "xiǎo liú zuò huǒ chē qù shàng hǎi ， huǒ chē piào hěn pián yi 。★ huǒ chē piào zěn me yàng ？"
+    },
+    {
+     "prompt": "小赵走路去学校，学校不远。★学校怎么样？",
+     "options": [
+      {
+       "label": "A",
+       "text": "很大",
+       "pinyin": "hěn dà"
+      },
+      {
+       "label": "B",
+       "text": "不远",
+       "pinyin": "bù yuǎn"
+      },
+      {
+       "label": "C",
+       "text": "很远",
+       "pinyin": "hěn yuǎn"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "短文中说“学校不远”，所以学校离得不远。",
+     "id": "q5",
+     "type": "passage-mcq",
+     "pinyin": "xiǎo zhào zǒu lù qù xué xiào ， xué xiào bù yuǎn 。★ xué xiào zěn me yàng ？"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

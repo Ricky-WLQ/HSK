@@ -1,0 +1,89 @@
+{
+ "id": "hsk2-reading-p220",
+ "level": "2",
+ "section": "reading",
+ "partKey": "reading-p2",
+ "title": "HSK2 Reading P2",
+ "titleZh": "阅读 第二部分（选词填空）",
+ "groups": [
+  {
+   "instruction": "请从下面的词语中选择合适的词填入句子的空白处。注意：有一个词是多余的。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "桌子",
+     "pinyin": "zhuō zi"
+    },
+    {
+     "label": "B",
+     "text": "床",
+     "pinyin": "chuáng"
+    },
+    {
+     "label": "C",
+     "text": "灯",
+     "pinyin": "dēng"
+    },
+    {
+     "label": "D",
+     "text": "电话",
+     "pinyin": "diàn huà"
+    },
+    {
+     "label": "E",
+     "text": "窗",
+     "pinyin": "chuāng"
+    },
+    {
+     "label": "F",
+     "text": "门",
+     "pinyin": "mén"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "天黑了，我开（ ）。",
+     "correctAnswer": "C",
+     "explanation": "天黑时需要照明，所以开灯是正确的。",
+     "id": "q1",
+     "type": "cloze-wordbank",
+     "pinyin": "tiān hēi le ， wǒ kāi （ ）。"
+    },
+    {
+     "prompt": "外面下雨了，我关（ ）。",
+     "correctAnswer": "E",
+     "explanation": "下雨天要关窗，防止雨水进入。",
+     "id": "q2",
+     "type": "cloze-wordbank",
+     "pinyin": "wài miàn xià yǔ le ， wǒ guān （ ）。"
+    },
+    {
+     "prompt": "我进房间的时候，先开（ ）。",
+     "correctAnswer": "F",
+     "explanation": "进房间需要先开门才能进入。",
+     "id": "q3",
+     "type": "cloze-wordbank",
+     "pinyin": "wǒ jìn fáng jiān de shí hòu ， xiān kāi （ ）。"
+    },
+    {
+     "prompt": "我晚上睡在（ ）上。",
+     "correctAnswer": "B",
+     "explanation": "睡觉通常躺在床上。",
+     "id": "q4",
+     "type": "cloze-wordbank",
+     "pinyin": "wǒ wǎn shàng shuì zài （ ） shàng 。"
+    },
+    {
+     "prompt": "我在（ ）上写字。",
+     "correctAnswer": "A",
+     "explanation": "写字一般在桌子上进行。",
+     "id": "q5",
+     "type": "cloze-wordbank",
+     "pinyin": "wǒ zài （ ） shàng xiě zì 。"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

@@ -1,0 +1,89 @@
+{
+ "id": "hsk3-reading-p207",
+ "level": "3",
+ "section": "reading",
+ "partKey": "reading-p2",
+ "title": "HSK3 Reading P2",
+ "titleZh": "阅读 第二部分（词语填空）",
+ "groups": [
+  {
+   "instruction": "从下面的词语中选择合适的填空，每个句子有一个空白，每个词语只能用一次。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "便宜",
+     "pinyin": "pián yi"
+    },
+    {
+     "label": "B",
+     "text": "付",
+     "pinyin": "fù"
+    },
+    {
+     "label": "C",
+     "text": "换",
+     "pinyin": "huàn"
+    },
+    {
+     "label": "D",
+     "text": "合适",
+     "pinyin": "hé shì"
+    },
+    {
+     "label": "E",
+     "text": "退",
+     "pinyin": "tuì"
+    },
+    {
+     "label": "F",
+     "text": "试",
+     "pinyin": "shì"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "这件衣服大小很（ ），我穿上正合适。",
+     "correctAnswer": "D",
+     "explanation": "“合适”表示衣服的大小、颜色等让人满意，与句子意思相符。",
+     "id": "q1",
+     "type": "cloze-wordbank",
+     "pinyin": "zhè jiàn yī fú dà xiǎo hěn （ ）， wǒ chuān shàng zhèng hé shì 。"
+    },
+    {
+     "prompt": "这个颜色我不喜欢，可以（ ）一个别的颜色吗？",
+     "correctAnswer": "C",
+     "explanation": "“换”指更换，符合句意。",
+     "id": "q2",
+     "type": "cloze-wordbank",
+     "pinyin": "zhè ge yán sè wǒ bù xǐ huān ， kě yǐ （ ） yí gè bié de yán sè ma ？"
+    },
+    {
+     "prompt": "现在打折，这些衣服都很（ ）。",
+     "correctAnswer": "A",
+     "explanation": "“便宜”指价格低，符合打折的情况。",
+     "id": "q3",
+     "type": "cloze-wordbank",
+     "pinyin": "xiàn zài dǎ zhé ， zhè xiē yī fú dōu hěn （ ）。"
+    },
+    {
+     "prompt": "你要不要先（ ）一下，看看合不合适？",
+     "correctAnswer": "F",
+     "explanation": "“试”指尝试穿衣服，看是否合身。",
+     "id": "q4",
+     "type": "cloze-wordbank",
+     "pinyin": "nǐ yào bù yào xiān （ ） yī xià ， kàn kàn hé bù hé shì ？"
+    },
+    {
+     "prompt": "我可以用手机（ ）钱吗？",
+     "correctAnswer": "B",
+     "explanation": "“付”指支付钱款，符合语境。",
+     "id": "q5",
+     "type": "cloze-wordbank",
+     "pinyin": "wǒ kě yǐ yòng shǒu jī （ ） qián ma ？"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

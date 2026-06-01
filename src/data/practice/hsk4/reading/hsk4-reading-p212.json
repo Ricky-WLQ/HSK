@@ -1,0 +1,118 @@
+{
+ "id": "hsk4-reading-p212",
+ "level": "4",
+ "section": "reading",
+ "partKey": "reading-p2",
+ "title": "HSK4 Reading P2",
+ "titleZh": "阅读 第二部分（短文理解）",
+ "groups": [
+  {
+   "instruction": "请阅读下面的短文，然后根据短文内容选择正确答案。",
+   "passage": "李明的爷爷退休后觉得生活很无聊。李明建议爷爷学书法，爷爷觉得这个主意不错，于是每天练习。经过几个月的努力，爷爷的书法进步很快。李明把爷爷写的字拍下来发到网上，没想到收到了很多好评。爷爷看到后十分开心，觉得生活又有了新的乐趣。",
+   "questions": [
+    {
+     "prompt": "爷爷为什么开始学书法？",
+     "options": [
+      {
+       "label": "A",
+       "text": "因为李明强迫他学"
+      },
+      {
+       "label": "B",
+       "text": "因为退休后太无聊"
+      },
+      {
+       "label": "C",
+       "text": "因为网上有人说他写得好"
+      },
+      {
+       "label": "D",
+       "text": "因为他想成为书法家"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "短文第一句说“李明的爷爷退休后觉得生活很无聊”，接着李明建议他学书法，爷爷觉得主意不错，所以开始学书法是因为退休后无聊。",
+     "id": "q1",
+     "type": "passage-mcq"
+    },
+    {
+     "prompt": "李明做了什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "每天陪爷爷练习"
+      },
+      {
+       "label": "B",
+       "text": "把爷爷的作品发到网上"
+      },
+      {
+       "label": "C",
+       "text": "给爷爷买书法用品"
+      },
+      {
+       "label": "D",
+       "text": "教爷爷写书法"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "短文中明确写道：“李明把爷爷写的字拍下来发到网上”，所以李明做的是把爷爷的作品发到网上。",
+     "id": "q2",
+     "type": "passage-mcq"
+    },
+    {
+     "prompt": "爷爷看到网上的好评后感觉怎么样？",
+     "options": [
+      {
+       "label": "A",
+       "text": "很失望"
+      },
+      {
+       "label": "B",
+       "text": "很生气"
+      },
+      {
+       "label": "C",
+       "text": "很开心"
+      },
+      {
+       "label": "D",
+       "text": "很累"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "短文最后说“爷爷看到后十分开心”，所以爷爷看到网上好评后感觉很开心。",
+     "id": "q3",
+     "type": "passage-mcq"
+    },
+    {
+     "prompt": "这篇短文主要告诉我们什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "爷爷学会了使用网络"
+      },
+      {
+       "label": "B",
+       "text": "爷爷通过学书法找到了新乐趣"
+      },
+      {
+       "label": "C",
+       "text": "李明学习书法很认真"
+      },
+      {
+       "label": "D",
+       "text": "网上评论对老人很重要"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "短文围绕爷爷退休后学书法，因网上好评而开心，最后点出“觉得生活又有了新的乐趣”，所以主要告诉我们爷爷通过学书法找到了新乐趣。",
+     "id": "q4",
+     "type": "passage-mcq"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

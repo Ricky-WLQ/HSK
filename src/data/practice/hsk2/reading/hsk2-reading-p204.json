@@ -1,0 +1,89 @@
+{
+ "id": "hsk2-reading-p204",
+ "level": "2",
+ "section": "reading",
+ "partKey": "reading-p2",
+ "title": "HSK2 Reading P2",
+ "titleZh": "阅读 第二部分（选词填空）",
+ "groups": [
+  {
+   "instruction": "请从下面的词语中选择合适的词填入句子的空白处，每个词只能用一次。有一个词是多余的。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "鱼",
+     "pinyin": "yú"
+    },
+    {
+     "label": "B",
+     "text": "猫",
+     "pinyin": "māo"
+    },
+    {
+     "label": "C",
+     "text": "兔子",
+     "pinyin": "tù zi"
+    },
+    {
+     "label": "D",
+     "text": "鸟",
+     "pinyin": "niǎo"
+    },
+    {
+     "label": "E",
+     "text": "马",
+     "pinyin": "mǎ"
+    },
+    {
+     "label": "F",
+     "text": "狗",
+     "pinyin": "gǒu"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "天上飞着一只（ ）。",
+     "correctAnswer": "D",
+     "explanation": "\"鸟\"会飞，所以天上飞的动物是鸟。",
+     "id": "q1",
+     "type": "cloze-wordbank",
+     "pinyin": "tiān shàng fēi zhe yī zhī （ ）。"
+    },
+    {
+     "prompt": "水里有好多（ ）。",
+     "correctAnswer": "A",
+     "explanation": "\"鱼\"生活在水里，所以水里的动物是鱼。",
+     "id": "q2",
+     "type": "cloze-wordbank",
+     "pinyin": "shuǐ lǐ yǒu hǎo duō （ ）。"
+    },
+    {
+     "prompt": "我的（ ）喜欢吃鱼。",
+     "correctAnswer": "B",
+     "explanation": "\"猫\"喜欢吃鱼，这是一个常见的常识。",
+     "id": "q3",
+     "type": "cloze-wordbank",
+     "pinyin": "wǒ de （ ） xǐ huān chī yú 。"
+    },
+    {
+     "prompt": "我家的（ ）会看门。",
+     "correctAnswer": "F",
+     "explanation": "\"狗\"常被养来看门，会保护家。",
+     "id": "q4",
+     "type": "cloze-wordbank",
+     "pinyin": "wǒ jiā de （ ） huì kān mén 。"
+    },
+    {
+     "prompt": "草地上有一只（ ），它的耳朵很长。",
+     "correctAnswer": "C",
+     "explanation": "\"兔子\"的耳朵很长，这是兔子的典型特征。",
+     "id": "q5",
+     "type": "cloze-wordbank",
+     "pinyin": "cǎo dì shàng yǒu yī zhī （ ）， tā de ěr duǒ hěn zhǎng 。"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

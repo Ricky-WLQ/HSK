@@ -1,0 +1,118 @@
+{
+ "id": "hsk4-reading-p219",
+ "level": "4",
+ "section": "reading",
+ "partKey": "reading-p2",
+ "title": "HSK4 Reading P2",
+ "titleZh": "阅读 第二部分（短文理解）",
+ "groups": [
+  {
+   "instruction": "请阅读下面的短文，然后根据短文内容选择正确的答案。",
+   "passage": "昨天，我陪朋友去听了一场民族音乐会。朋友对古筝很感兴趣，所以特意选了古筝独奏的曲目。演奏者是一位年轻的女孩，她手指灵活，音乐听起来非常优美。中场休息时，我们遇到了一位老艺术家，他告诉我们，学习古筝需要耐心和坚持，每天至少要练习两个小时。朋友听后决定从下周开始学古筝。我觉得学习乐器不仅能提高音乐素养，还能让人更有耐心。",
+   "questions": [
+    {
+     "prompt": "根据短文，朋友对什么乐器感兴趣？",
+     "options": [
+      {
+       "label": "A",
+       "text": "古筝"
+      },
+      {
+       "label": "B",
+       "text": "吉他"
+      },
+      {
+       "label": "C",
+       "text": "小提琴"
+      },
+      {
+       "label": "D",
+       "text": "钢琴"
+      }
+     ],
+     "correctAnswer": "A",
+     "explanation": "短文中明确提到“朋友对古筝很感兴趣”，所以朋友感兴趣的是古筝。",
+     "id": "q1",
+     "type": "passage-mcq"
+    },
+    {
+     "prompt": "演奏者有什么特点？",
+     "options": [
+      {
+       "label": "A",
+       "text": "手指灵活"
+      },
+      {
+       "label": "B",
+       "text": "每天练习两小时"
+      },
+      {
+       "label": "C",
+       "text": "是一位老艺术家"
+      },
+      {
+       "label": "D",
+       "text": "刚学古筝不久"
+      }
+     ],
+     "correctAnswer": "A",
+     "explanation": "短文中描述演奏者“是一位年轻的女孩，她手指灵活”，因此手指灵活是演奏者的特点。",
+     "id": "q2",
+     "type": "passage-mcq"
+    },
+    {
+     "prompt": "老艺术家说了什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "音乐会很无聊"
+      },
+      {
+       "label": "B",
+       "text": "学古筝很容易"
+      },
+      {
+       "label": "C",
+       "text": "每天至少要练习一个小时"
+      },
+      {
+       "label": "D",
+       "text": "学习古筝需要耐心和坚持"
+      }
+     ],
+     "correctAnswer": "D",
+     "explanation": "短文中老艺术家说“学习古筝需要耐心和坚持”，而不是说出其他选项的内容。",
+     "id": "q3",
+     "type": "passage-mcq"
+    },
+    {
+     "prompt": "作者认为学习乐器有什么好处？",
+     "options": [
+      {
+       "label": "A",
+       "text": "能让人更聪明"
+      },
+      {
+       "label": "B",
+       "text": "可以变得更有钱"
+      },
+      {
+       "label": "C",
+       "text": "可以交到更多朋友"
+      },
+      {
+       "label": "D",
+       "text": "能提高音乐素养"
+      }
+     ],
+     "correctAnswer": "D",
+     "explanation": "短文最后一句说“学习乐器不仅能提高音乐素养，还能让人更有耐心”，因此提高音乐素养是作者认为的好处。",
+     "id": "q4",
+     "type": "passage-mcq"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

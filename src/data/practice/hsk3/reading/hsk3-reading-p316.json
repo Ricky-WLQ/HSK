@@ -1,0 +1,118 @@
+{
+ "id": "hsk3-reading-p316",
+ "level": "3",
+ "section": "reading",
+ "partKey": "reading-p3",
+ "title": "HSK3 Reading P3",
+ "titleZh": "阅读 第三部分（短文理解）",
+ "groups": [
+  {
+   "instruction": "阅读下面的短文，然后根据短文内容回答每个问题。每个问题有三个选项，请选择唯一正确的答案。",
+   "passage": "小明住在北京，冬天很冷，经常下雪。他的朋友小丽住在广州，冬天也很暖和，很少看到雪。去年冬天，小丽去北京看小明，第一次看到雪，非常高兴。但是她不习惯北方的冷空气，感冒了。小明说：“以后冬天可以去南方旅行。”",
+   "questions": [
+    {
+     "prompt": "关于小丽住的地方，哪句是对的？",
+     "options": [
+      {
+       "label": "A",
+       "text": "经常感冒",
+       "pinyin": "jīng cháng gǎn mào"
+      },
+      {
+       "label": "B",
+       "text": "很少下雪",
+       "pinyin": "hěn shǎo xià xuě"
+      },
+      {
+       "label": "C",
+       "text": "冬天很冷",
+       "pinyin": "dōng tiān hěn lěng"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "文中说“他的朋友小丽住在广州，冬天也很暖和，很少看到雪”，所以小丽住的地方很少下雪。",
+     "id": "q1",
+     "type": "passage-mcq",
+     "pinyin": "guān yú xiǎo lì zhù de dì fāng ， nǎ jù shì duì de ？"
+    },
+    {
+     "prompt": "小丽为什么高兴？",
+     "options": [
+      {
+       "label": "A",
+       "text": "因为去南方",
+       "pinyin": "yīn wèi qù nán fāng"
+      },
+      {
+       "label": "B",
+       "text": "因为看到雪",
+       "pinyin": "yīn wèi kàn dào xuě"
+      },
+      {
+       "label": "C",
+       "text": "因为感冒好了",
+       "pinyin": "yīn wèi gǎn mào hǎo le"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "文中说“第一次看到雪，非常高兴”，所以是因为看到雪而高兴。",
+     "id": "q2",
+     "type": "passage-mcq",
+     "pinyin": "xiǎo lì wèi shén me gāo xìng ？"
+    },
+    {
+     "prompt": "小丽去北京后怎么了？",
+     "options": [
+      {
+       "label": "A",
+       "text": "感冒了",
+       "pinyin": "gǎn mào le"
+      },
+      {
+       "label": "B",
+       "text": "喜欢北方",
+       "pinyin": "xǐ huān běi fāng"
+      },
+      {
+       "label": "C",
+       "text": "不想回家",
+       "pinyin": "bù xiǎng huí jiā"
+      }
+     ],
+     "correctAnswer": "A",
+     "explanation": "文中说“但是她不习惯北方的冷空气，感冒了”，所以小丽感冒了。",
+     "id": "q3",
+     "type": "passage-mcq",
+     "pinyin": "xiǎo lì qù běi jīng hòu zěn me le ？"
+    },
+    {
+     "prompt": "小明建议什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "冬天去北方旅行",
+       "pinyin": "dōng tiān qù běi fāng lǚ xíng"
+      },
+      {
+       "label": "B",
+       "text": "多穿衣服",
+       "pinyin": "duō chuān yī fú"
+      },
+      {
+       "label": "C",
+       "text": "冬天去南方旅行",
+       "pinyin": "dōng tiān qù nán fāng lǚ xíng"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "文中小明说“以后冬天可以去南方旅行”，所以建议冬天去南方旅行。",
+     "id": "q4",
+     "type": "passage-mcq",
+     "pinyin": "xiǎo míng jiàn yì shén me ？"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

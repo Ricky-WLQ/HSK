@@ -1,0 +1,142 @@
+{
+ "id": "hsk2-reading-p420",
+ "level": "2",
+ "section": "reading",
+ "partKey": "reading-p4",
+ "title": "HSK2 Reading P4",
+ "titleZh": "阅读 第四部分（短文理解）",
+ "groups": [
+  {
+   "instruction": "请阅读下面的短文，然后回答问题。每个问题只有一个正确答案。",
+   "questions": [
+    {
+     "prompt": "她每天早起后先看二十分钟新闻。★她早上看新闻多久？",
+     "options": [
+      {
+       "label": "A",
+       "text": "二十分钟",
+       "pinyin": "èr shí fēn zhōng"
+      },
+      {
+       "label": "B",
+       "text": "十分钟",
+       "pinyin": "shí fēn zhōng"
+      },
+      {
+       "label": "C",
+       "text": "半小时",
+       "pinyin": "bàn xiǎo shí"
+      }
+     ],
+     "correctAnswer": "A",
+     "explanation": "短文说「看二十分钟新闻」，所以时间是二十分钟。",
+     "id": "q1",
+     "type": "passage-mcq",
+     "pinyin": "tā měi tiān zǎo qǐ hòu xiān kàn èr shí fēn zhōng xīn wén 。★ tā zǎo shàng kàn xīn wén duō jiǔ ？"
+    },
+    {
+     "prompt": "他今天下午三点开会，他提前十分钟到。★他几点到会议室？",
+     "options": [
+      {
+       "label": "A",
+       "text": "三点十分",
+       "pinyin": "sān diǎn shí fēn"
+      },
+      {
+       "label": "B",
+       "text": "两点五十",
+       "pinyin": "liǎng diǎn wǔ shí"
+      },
+      {
+       "label": "C",
+       "text": "两点四十五",
+       "pinyin": "liǎng diǎn sì shí wǔ"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "三点开会，提前十分钟到，就是两点五十。",
+     "id": "q2",
+     "type": "passage-mcq",
+     "pinyin": "tā jīn tiān xià wǔ sān diǎn kāi huì ， tā tí qián shí fēn zhōng dào 。★ tā jǐ diǎn dào huì yì shì ？"
+    },
+    {
+     "prompt": "她每天用半小时吃午饭，然后休息一刻钟。★她中午吃饭和休息一共多长时间？",
+     "options": [
+      {
+       "label": "A",
+       "text": "四十五分钟",
+       "pinyin": "sì shí wǔ fēn zhōng"
+      },
+      {
+       "label": "B",
+       "text": "一刻钟",
+       "pinyin": "yī kè zhōng"
+      },
+      {
+       "label": "C",
+       "text": "半小时",
+       "pinyin": "bàn xiǎo shí"
+      }
+     ],
+     "correctAnswer": "A",
+     "explanation": "半小时加一刻钟等于四十五分钟。",
+     "id": "q3",
+     "type": "passage-mcq",
+     "pinyin": "tā měi tiān yòng bàn xiǎo shí chī wǔ fàn ， rán hòu xiū xī yī kè zhōng 。★ tā zhōng wǔ chī fàn hé xiū xī yī gòng duō zhǎng shí jiān ？"
+    },
+    {
+     "prompt": "他晚上七点开始写作业，写了四十分钟。★他几点写完作业？",
+     "options": [
+      {
+       "label": "A",
+       "text": "七点二十",
+       "pinyin": "qī diǎn èr shí"
+      },
+      {
+       "label": "B",
+       "text": "七点四十",
+       "pinyin": "qī diǎn sì shí"
+      },
+      {
+       "label": "C",
+       "text": "八点",
+       "pinyin": "bā diǎn"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "七点开始，四十分钟后就是七点四十。",
+     "id": "q4",
+     "type": "passage-mcq",
+     "pinyin": "tā wǎn shàng qī diǎn kāi shǐ xiě zuò yè ， xiě le sì shí fēn zhōng 。★ tā jǐ diǎn xiě wán zuò yè ？"
+    },
+    {
+     "prompt": "她下午两点去图书馆，在里面待了一个半小时。★她几点离开图书馆？",
+     "options": [
+      {
+       "label": "A",
+       "text": "三点半",
+       "pinyin": "sān diǎn bàn"
+      },
+      {
+       "label": "B",
+       "text": "三点",
+       "pinyin": "sān diǎn"
+      },
+      {
+       "label": "C",
+       "text": "两点半",
+       "pinyin": "liǎng diǎn bàn"
+      }
+     ],
+     "correctAnswer": "A",
+     "explanation": "两点开始，一个半小时后是三点半。",
+     "id": "q5",
+     "type": "passage-mcq",
+     "pinyin": "tā xià wǔ liǎng diǎn qù tú shū guǎn ， zài lǐ miàn dài le yí gè bàn xiǎo shí 。★ tā jǐ diǎn lí kāi tú shū guǎn ？"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

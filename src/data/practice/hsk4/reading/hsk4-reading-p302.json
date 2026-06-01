@@ -1,0 +1,118 @@
+{
+ "id": "hsk4-reading-p302",
+ "level": "4",
+ "section": "reading",
+ "partKey": "reading-p3",
+ "title": "HSK4 Reading P3",
+ "titleZh": "阅读 第二部分B（中篇理解）",
+ "groups": [
+  {
+   "instruction": "阅读下面短文，然后回答问题。",
+   "passage": "小张是一名新员工，最近他总是觉得工作时间不够用，每天都要加班才能完成任务。他发现自己的注意力很容易被手机分散，经常看一会儿消息就浪费了半小时。后来，他听说了一种“番茄工作法”：先专注工作25分钟，不碰手机，然后休息5分钟。每完成四个这样的循环，可以休息15分钟。小张决定试一试。第一天，他按照这个方法工作，发现自己能集中注意力了，完成了比平时更多的任务。晚上他第一次按时下班，感到非常轻松。现在，小张每天都用这个方法，工作效率提高了很多。",
+   "questions": [
+    {
+     "prompt": "小张以前为什么经常加班？",
+     "options": [
+      {
+       "label": "A",
+       "text": "工作太难"
+      },
+      {
+       "label": "B",
+       "text": "别人打扰"
+      },
+      {
+       "label": "C",
+       "text": "任务太多"
+      },
+      {
+       "label": "D",
+       "text": "注意力被手机分散"
+      }
+     ],
+     "correctAnswer": "D",
+     "explanation": "根据原文“他发现自己的注意力很容易被手机分散，经常看一会儿消息就浪费了半小时”，这说明手机分散注意力导致他加班。",
+     "id": "q1",
+     "type": "passage-mcq"
+    },
+    {
+     "prompt": "这篇文章主要告诉我们什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "手机影响学习"
+      },
+      {
+       "label": "B",
+       "text": "小张很聪明"
+      },
+      {
+       "label": "C",
+       "text": "加班不好"
+      },
+      {
+       "label": "D",
+       "text": "番茄工作法对提高效率有帮助"
+      }
+     ],
+     "correctAnswer": "D",
+     "explanation": "短文通过小张的体验，说明番茄工作法让他提高了工作效率，因此文章中心是番茄工作法有助于提高效率。",
+     "id": "q2",
+     "type": "passage-mcq"
+    },
+    {
+     "prompt": "根据文章，如果小张继续使用番茄工作法，可能会怎样？",
+     "options": [
+      {
+       "label": "A",
+       "text": "他的工作效率会保持较高"
+      },
+      {
+       "label": "B",
+       "text": "他不再需要休息"
+      },
+      {
+       "label": "C",
+       "text": "他会更加疲劳"
+      },
+      {
+       "label": "D",
+       "text": "他可能会换工作"
+      }
+     ],
+     "correctAnswer": "A",
+     "explanation": "文章最后说“现在，小张每天都用这个方法，工作效率提高了很多”，因此推断继续使用会保持高效率。",
+     "id": "q3",
+     "type": "passage-mcq"
+    },
+    {
+     "prompt": "番茄工作法中，每完成几个循环可以休息15分钟？",
+     "options": [
+      {
+       "label": "A",
+       "text": "4个"
+      },
+      {
+       "label": "B",
+       "text": "2个"
+      },
+      {
+       "label": "C",
+       "text": "1个"
+      },
+      {
+       "label": "D",
+       "text": "3个"
+      }
+     ],
+     "correctAnswer": "A",
+     "explanation": "原文明确说“每完成四个这样的循环，可以休息15分钟”。",
+     "id": "q4",
+     "type": "passage-mcq"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

@@ -1,0 +1,142 @@
+{
+ "id": "hsk2-reading-p402",
+ "level": "2",
+ "section": "reading",
+ "partKey": "reading-p4",
+ "title": "HSK2 Reading P4",
+ "titleZh": "阅读 第四部分（短文理解）",
+ "groups": [
+  {
+   "instruction": "阅读下面的短文，然后根据短文内容回答问题。",
+   "questions": [
+    {
+     "prompt": "妈妈每天早上给女儿做鸡蛋。★她做什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "鸡蛋",
+       "pinyin": "jī dàn"
+      },
+      {
+       "label": "B",
+       "text": "面条",
+       "pinyin": "miàn tiáo"
+      },
+      {
+       "label": "C",
+       "text": "米饭",
+       "pinyin": "mǐ fàn"
+      }
+     ],
+     "correctAnswer": "A",
+     "explanation": "短文说妈妈给女儿做鸡蛋，所以她做的是鸡蛋。",
+     "id": "q1",
+     "type": "passage-mcq",
+     "pinyin": "mā mā měi tiān zǎo shàng gěi nǚ ér zuò jī dàn 。★ tā zuò shén me ？"
+    },
+    {
+     "prompt": "爸爸教儿子写汉字。★他教谁？",
+     "options": [
+      {
+       "label": "A",
+       "text": "妈妈",
+       "pinyin": "mā mā"
+      },
+      {
+       "label": "B",
+       "text": "儿子",
+       "pinyin": "ér zi"
+      },
+      {
+       "label": "C",
+       "text": "女儿",
+       "pinyin": "nǚ ér"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "短文说爸爸教儿子写汉字，所以他教的是儿子。",
+     "id": "q2",
+     "type": "passage-mcq",
+     "pinyin": "bà bà jiào ér zi xiě hàn zì 。★ tā jiào shuí ？"
+    },
+    {
+     "prompt": "姐姐帮妹妹穿衣服。★她帮谁？",
+     "options": [
+      {
+       "label": "A",
+       "text": "妹妹",
+       "pinyin": "mèi mèi"
+      },
+      {
+       "label": "B",
+       "text": "姐姐",
+       "pinyin": "jiě jiě"
+      },
+      {
+       "label": "C",
+       "text": "弟弟",
+       "pinyin": "dì di"
+      }
+     ],
+     "correctAnswer": "A",
+     "explanation": "短文说姐姐帮妹妹穿衣服，所以她帮的是妹妹。",
+     "id": "q3",
+     "type": "passage-mcq",
+     "pinyin": "jiě jiě bāng mèi mèi chuān yī fú 。★ tā bāng shuí ？"
+    },
+    {
+     "prompt": "爷爷每天给小华买苹果。★他给谁买苹果？",
+     "options": [
+      {
+       "label": "A",
+       "text": "老师",
+       "pinyin": "lǎo shī"
+      },
+      {
+       "label": "B",
+       "text": "小华",
+       "pinyin": "xiǎo huá"
+      },
+      {
+       "label": "C",
+       "text": "小丽",
+       "pinyin": "xiǎo lì"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "短文说爷爷每天给小华买苹果，所以他给的是小华买苹果。",
+     "id": "q4",
+     "type": "passage-mcq",
+     "pinyin": "yé yé měi tiān gěi xiǎo huá mǎi píng guǒ 。★ tā gěi shuí mǎi píng guǒ ？"
+    },
+    {
+     "prompt": "奶奶在厨房里包饺子。★她包什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "包子",
+       "pinyin": "bāo zi"
+      },
+      {
+       "label": "B",
+       "text": "饺子",
+       "pinyin": "jiǎo zi"
+      },
+      {
+       "label": "C",
+       "text": "面条",
+       "pinyin": "miàn tiáo"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "短文说奶奶在包饺子，所以她包的是饺子。",
+     "id": "q5",
+     "type": "passage-mcq",
+     "pinyin": "nǎi nǎi zài chú fáng lǐ bāo jiǎo zi 。★ tā bāo shén me ？"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

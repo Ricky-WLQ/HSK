@@ -1,0 +1,89 @@
+{
+ "id": "hsk3-reading-p119",
+ "level": "3",
+ "section": "reading",
+ "partKey": "reading-p1",
+ "title": "HSK3 Reading P1",
+ "titleZh": "阅读 第一部分（句子匹配）",
+ "groups": [
+  {
+   "instruction": "请从以下句子中为每个问题选择正确答案。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "哥哥在院子里教妹妹骑自行车。",
+     "pinyin": "gē gē zài yuàn zi lǐ jiào mèi mèi qí zì xíng chē 。"
+    },
+    {
+     "label": "B",
+     "text": "妈妈每天晚上给爷爷讲故事。",
+     "pinyin": "mā mā měi tiān wǎn shàng gěi yé yé jiǎng gù shì 。"
+    },
+    {
+     "label": "C",
+     "text": "爸爸周末带我们去山上放风筝。",
+     "pinyin": "bà bà zhōu mò dài wǒ men qù shān shàng fàng fēng zhēng 。"
+    },
+    {
+     "label": "D",
+     "text": "姐姐把最喜欢的玩具送给了弟弟。",
+     "pinyin": "jiě jiě bǎ zuì xǐ huān de wán jù sòng gěi le dì di 。"
+    },
+    {
+     "label": "E",
+     "text": "奶奶每天早晨都会去公园散步。",
+     "pinyin": "nǎi nǎi měi tiān zǎo chén dū huì qù gōng yuán sàn bù 。"
+    },
+    {
+     "label": "F",
+     "text": "我们一家人一起看以前的照片。",
+     "pinyin": "wǒ men yī jiā rén yì qǐ kàn yǐ qián de zhào piān 。"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "谁在院子里教妹妹骑自行车？",
+     "correctAnswer": "A",
+     "explanation": "句子提到哥哥在院子里教妹妹骑自行车，与问题一致。",
+     "id": "q1",
+     "type": "match",
+     "pinyin": "shuí zài yuàn zi lǐ jiào mèi mèi qí zì xíng chē ？"
+    },
+    {
+     "prompt": "奶奶每天早晨都会去哪里散步？",
+     "correctAnswer": "E",
+     "explanation": "句子说奶奶每天早晨去公园散步，所以是公园。",
+     "id": "q2",
+     "type": "match",
+     "pinyin": "nǎi nǎi měi tiān zǎo chén dū huì qù nǎ lǐ sàn bù ？"
+    },
+    {
+     "prompt": "妈妈每天晚上给爷爷做什么？",
+     "correctAnswer": "B",
+     "explanation": "句子指出妈妈每天晚上给爷爷讲故事，正是问题所问。",
+     "id": "q3",
+     "type": "match",
+     "pinyin": "mā mā měi tiān wǎn shàng gěi yé yé zuò shén me ？"
+    },
+    {
+     "prompt": "爸爸周末带我们去哪里放风筝？",
+     "correctAnswer": "C",
+     "explanation": "句子写明爸爸周末带我们去山上放风筝，地点是山上。",
+     "id": "q4",
+     "type": "match",
+     "pinyin": "bà bà zhōu mò dài wǒ men qù nǎ lǐ fàng fēng zhēng ？"
+    },
+    {
+     "prompt": "姐姐把最喜欢的玩具送给了谁？",
+     "correctAnswer": "D",
+     "explanation": "句子说姐姐把最喜欢的玩具送给了弟弟，所以是弟弟。",
+     "id": "q5",
+     "type": "match",
+     "pinyin": "jiě jiě bǎ zuì xǐ huān de wán jù sòng gěi le shuí ？"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

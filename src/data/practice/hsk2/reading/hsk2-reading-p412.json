@@ -1,0 +1,142 @@
+{
+ "id": "hsk2-reading-p412",
+ "level": "2",
+ "section": "reading",
+ "partKey": "reading-p4",
+ "title": "HSK2 Reading P4",
+ "titleZh": "阅读 第四部分（短文理解）",
+ "groups": [
+  {
+   "instruction": "请阅读下面的短文，然后根据短文内容选择正确答案。",
+   "questions": [
+    {
+     "prompt": "小王的爸爸在医院工作，他给病人看病。★他做什么工作？",
+     "options": [
+      {
+       "label": "A",
+       "text": "医生",
+       "pinyin": "yī shēng"
+      },
+      {
+       "label": "B",
+       "text": "老师",
+       "pinyin": "lǎo shī"
+      },
+      {
+       "label": "C",
+       "text": "司机",
+       "pinyin": "sī jī"
+      }
+     ],
+     "correctAnswer": "A",
+     "explanation": "短文说小王的爸爸在医院给病人看病，所以他是医生。",
+     "id": "q1",
+     "type": "passage-mcq",
+     "pinyin": "xiǎo wáng de bà bà zài yī yuàn gōng zuò ， tā gěi bìng rén kàn bìng 。★ tā zuò shén me gōng zuò ？"
+    },
+    {
+     "prompt": "张姐在餐厅做菜，她做的菜很好吃。★她的工作是什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "店员",
+       "pinyin": "diàn yuán"
+      },
+      {
+       "label": "B",
+       "text": "厨师",
+       "pinyin": "chú shī"
+      },
+      {
+       "label": "C",
+       "text": "护士",
+       "pinyin": "hù shì"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "短文说张姐在餐厅做菜，所以她的工作是厨师。",
+     "id": "q2",
+     "type": "passage-mcq",
+     "pinyin": "zhāng jiě zài cān tīng zuò cài ， tā zuò de cài hěn hǎo chī 。★ tā de gōng zuò shì shén me ？"
+    },
+    {
+     "prompt": "小刘每天开车送人，他开车开得很好。★他做什么工作？",
+     "options": [
+      {
+       "label": "A",
+       "text": "司机",
+       "pinyin": "sī jī"
+      },
+      {
+       "label": "B",
+       "text": "工人",
+       "pinyin": "gōng rén"
+      },
+      {
+       "label": "C",
+       "text": "老师",
+       "pinyin": "lǎo shī"
+      }
+     ],
+     "correctAnswer": "A",
+     "explanation": "短文说小刘每天开车送人，所以他是司机。",
+     "id": "q3",
+     "type": "passage-mcq",
+     "pinyin": "xiǎo liú měi tiān kāi chē sòng rén ， tā kāi chē kāi dé hěn hǎo 。★ tā zuò shén me gōng zuò ？"
+    },
+    {
+     "prompt": "王老师在学校教学生中文，学生们都喜欢她。★她的工作是什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "老师",
+       "pinyin": "lǎo shī"
+      },
+      {
+       "label": "B",
+       "text": "厨师",
+       "pinyin": "chú shī"
+      },
+      {
+       "label": "C",
+       "text": "医生",
+       "pinyin": "yī shēng"
+      }
+     ],
+     "correctAnswer": "A",
+     "explanation": "短文说王老师在学校教学生中文，所以她是老师。",
+     "id": "q4",
+     "type": "passage-mcq",
+     "pinyin": "wáng lǎo shī zài xué xiào jiào xué shēng zhōng wén ， xué shēng men dōu xǐ huān tā 。★ tā de gōng zuò shì shén me ？"
+    },
+    {
+     "prompt": "李芳在商店卖东西，她每天很忙。★她做什么工作？",
+     "options": [
+      {
+       "label": "A",
+       "text": "护士",
+       "pinyin": "hù shì"
+      },
+      {
+       "label": "B",
+       "text": "店员",
+       "pinyin": "diàn yuán"
+      },
+      {
+       "label": "C",
+       "text": "司机",
+       "pinyin": "sī jī"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "短文说李芳在商店卖东西，所以她是店员。",
+     "id": "q5",
+     "type": "passage-mcq",
+     "pinyin": "lǐ fāng zài shāng diàn mài dōng xī ， tā měi tiān hěn máng 。★ tā zuò shén me gōng zuò ？"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

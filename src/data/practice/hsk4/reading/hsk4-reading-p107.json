@@ -1,0 +1,74 @@
+{
+ "id": "hsk4-reading-p107",
+ "level": "4",
+ "section": "reading",
+ "partKey": "reading-p1",
+ "title": "HSK4 Reading P1",
+ "titleZh": "阅读 第一部分（选词填空）",
+ "groups": [
+  {
+   "instruction": "请从方框中选择合适的词语填空，每个词语只能用一次。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "风险"
+    },
+    {
+     "label": "B",
+     "text": "市场"
+    },
+    {
+     "label": "C",
+     "text": "成本"
+    },
+    {
+     "label": "D",
+     "text": "投资"
+    },
+    {
+     "label": "E",
+     "text": "利润"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "他的公司去年获得了很高的（ ），但今年因为竞争激烈下降了。",
+     "correctAnswer": "E",
+     "explanation": "句子描述公司获得的收益，利润指扣除成本后的收入，符合语境。",
+     "id": "q1",
+     "type": "cloze-wordbank"
+    },
+    {
+     "prompt": "开一家新店需要计算好（ ），包括房租、员工工资等。",
+     "correctAnswer": "C",
+     "explanation": "成本指生产或经营所需的费用，房租和工资都是成本的一部分。",
+     "id": "q2",
+     "type": "cloze-wordbank"
+    },
+    {
+     "prompt": "他决定把存款用于（ ），希望未来能获得更多回报。",
+     "correctAnswer": "D",
+     "explanation": "投资指为获取收益而投入资金，与存款和未来回报直接相关。",
+     "id": "q3",
+     "type": "cloze-wordbank"
+    },
+    {
+     "prompt": "创业时一定要考虑（ ），不能只看到好处。",
+     "correctAnswer": "A",
+     "explanation": "风险指可能发生的危险或损失，创业中需要评估不确定性。",
+     "id": "q4",
+     "type": "cloze-wordbank"
+    },
+    {
+     "prompt": "这家公司的产品在（ ）上很受欢迎，销量很好。",
+     "correctAnswer": "B",
+     "explanation": "市场指商品销售的领域或范围，产品受欢迎说明市场份额大。",
+     "id": "q5",
+     "type": "cloze-wordbank"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

@@ -1,0 +1,118 @@
+{
+ "id": "hsk4-reading-p313",
+ "level": "4",
+ "section": "reading",
+ "partKey": "reading-p3",
+ "title": "HSK4 Reading P3",
+ "titleZh": "阅读 第二部分B（中篇理解）",
+ "groups": [
+  {
+   "instruction": "请阅读下面短文，然后回答问题。",
+   "passage": "小张是一名大学生，最近他常常感到焦虑，因为考试压力大，和同学的关系也让他烦恼。他听说冥想可以帮助放松心情，于是决定试一试。一开始，他很难安静下来，脑子里总是想各种事情。但他没有放弃，每天坚持十分钟。慢慢地，他发现自己能更好地控制情绪了。此外，小张还经常和好朋友聊天，把心里的烦恼说出来，这让他感觉轻松了很多。现在，小张的心情比以前好多了。",
+   "questions": [
+    {
+     "prompt": "小张最近为什么感到焦虑？",
+     "options": [
+      {
+       "label": "A",
+       "text": "因为和家人吵架"
+      },
+      {
+       "label": "B",
+       "text": "因为生病"
+      },
+      {
+       "label": "C",
+       "text": "因为考试压力和人际关系"
+      },
+      {
+       "label": "D",
+       "text": "因为找不到工作"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "短文第一句提到“因为考试压力大，和同学的关系也让他烦恼”，所以原因是考试压力和人际关系。",
+     "id": "q1",
+     "type": "passage-mcq"
+    },
+    {
+     "prompt": "关于冥想，下列哪项说法正确？",
+     "options": [
+      {
+       "label": "A",
+       "text": "小张一开始很难安静下来"
+      },
+      {
+       "label": "B",
+       "text": "冥想让小张更焦虑"
+      },
+      {
+       "label": "C",
+       "text": "小张每天冥想一小时"
+      },
+      {
+       "label": "D",
+       "text": "小张很容易就学会了冥想"
+      }
+     ],
+     "correctAnswer": "A",
+     "explanation": "文中说“一开始，他很难安静下来”，所以B正确。A与原文相反，C和D文中未提及。",
+     "id": "q2",
+     "type": "passage-mcq"
+    },
+    {
+     "prompt": "短文主要告诉我们什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "缓解焦虑的方法"
+      },
+      {
+       "label": "B",
+       "text": "大学生活很辛苦"
+      },
+      {
+       "label": "C",
+       "text": "冥想比聊天更有效"
+      },
+      {
+       "label": "D",
+       "text": "应该多交朋友"
+      }
+     ],
+     "correctAnswer": "A",
+     "explanation": "短文通过小张的故事，介绍了冥想和聊天两种缓解焦虑的方法，主旨是缓解焦虑的方法。",
+     "id": "q3",
+     "type": "passage-mcq"
+    },
+    {
+     "prompt": "根据短文，可以知道小张是个怎样的人？",
+     "options": [
+      {
+       "label": "A",
+       "text": "坚持且积极改善自己"
+      },
+      {
+       "label": "B",
+       "text": "不喜欢朋友"
+      },
+      {
+       "label": "C",
+       "text": "不善于交流"
+      },
+      {
+       "label": "D",
+       "text": "容易放弃"
+      }
+     ],
+     "correctAnswer": "A",
+     "explanation": "小张虽然一开始冥想困难但没有放弃，每天坚持，并且主动找朋友聊天，说明他坚持且积极改善自己。",
+     "id": "q4",
+     "type": "passage-mcq"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

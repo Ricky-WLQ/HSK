@@ -1,0 +1,142 @@
+{
+ "id": "hsk1-reading-p417",
+ "level": "1",
+ "section": "reading",
+ "partKey": "reading-p4",
+ "title": "HSK1 Reading P4",
+ "titleZh": "阅读 第四部分（短句理解）",
+ "groups": [
+  {
+   "instruction": "请阅读下面的短文和问题，选择正确的答案。",
+   "questions": [
+    {
+     "prompt": "我早上七点起床，八点吃早饭。★我几点吃早饭？",
+     "options": [
+      {
+       "label": "A",
+       "text": "九点",
+       "pinyin": "jiǔ diǎn"
+      },
+      {
+       "label": "B",
+       "text": "八点",
+       "pinyin": "bā diǎn"
+      },
+      {
+       "label": "C",
+       "text": "七点",
+       "pinyin": "qī diǎn"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "短文中说“八点吃早饭”，所以是八点吃早饭。",
+     "id": "q1",
+     "type": "passage-mcq",
+     "pinyin": "wǒ zǎo shàng qī diǎn qǐ chuáng ， bā diǎn chī zǎo fàn 。★ wǒ jǐ diǎn chī zǎo fàn ？"
+    },
+    {
+     "prompt": "他下午三点工作，五点回家。★他几点回家？",
+     "options": [
+      {
+       "label": "A",
+       "text": "四点",
+       "pinyin": "sì diǎn"
+      },
+      {
+       "label": "B",
+       "text": "五点",
+       "pinyin": "wǔ diǎn"
+      },
+      {
+       "label": "C",
+       "text": "三点",
+       "pinyin": "sān diǎn"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "短文中说“五点回家”，所以回家时间是五点。",
+     "id": "q2",
+     "type": "passage-mcq",
+     "pinyin": "tā xià wǔ sān diǎn gōng zuò ， wǔ diǎn huí jiā 。★ tā jǐ diǎn huí jiā ？"
+    },
+    {
+     "prompt": "妈妈今天很忙，她晚上十点回家。★妈妈几点回家？",
+     "options": [
+      {
+       "label": "A",
+       "text": "十点",
+       "pinyin": "shí diǎn"
+      },
+      {
+       "label": "B",
+       "text": "九点",
+       "pinyin": "jiǔ diǎn"
+      },
+      {
+       "label": "C",
+       "text": "十一点",
+       "pinyin": "shí yì diǎn"
+      }
+     ],
+     "correctAnswer": "A",
+     "explanation": "短文中说“晚上十点回家”，所以妈妈十点回家。",
+     "id": "q3",
+     "type": "passage-mcq",
+     "pinyin": "mā mā jīn tiān hěn máng ， tā wǎn shàng shí diǎn huí jiā 。★ mā mā jǐ diǎn huí jiā ？"
+    },
+    {
+     "prompt": "我星期二去北京，星期三到北京。★我星期三在哪里？",
+     "options": [
+      {
+       "label": "A",
+       "text": "家",
+       "pinyin": "jiā"
+      },
+      {
+       "label": "B",
+       "text": "北京",
+       "pinyin": "běi jīng"
+      },
+      {
+       "label": "C",
+       "text": "上海",
+       "pinyin": "shàng hǎi"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "短文中说“星期三到北京”，所以星期三在北京。",
+     "id": "q4",
+     "type": "passage-mcq",
+     "pinyin": "wǒ xīng qī èr qù běi jīng ， xīng qī sān dào běi jīng 。★ wǒ xīng qī sān zài nǎ lǐ ？"
+    },
+    {
+     "prompt": "我每天学习两小时，今天学习一小时。★今天学习多长时间？",
+     "options": [
+      {
+       "label": "A",
+       "text": "两个小时",
+       "pinyin": "liǎng gè xiǎo shí"
+      },
+      {
+       "label": "B",
+       "text": "三个小时",
+       "pinyin": "sān gè xiǎo shí"
+      },
+      {
+       "label": "C",
+       "text": "一个小时",
+       "pinyin": "yí gè xiǎo shí"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "短文中说“今天学习一小时”，所以今天学习了一个小时。",
+     "id": "q5",
+     "type": "passage-mcq",
+     "pinyin": "wǒ měi tiān xué xí liǎng xiǎo shí ， jīn tiān xué xí yī xiǎo shí 。★ jīn tiān xué xí duō zhǎng shí jiān ？"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

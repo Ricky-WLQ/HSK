@@ -1,0 +1,118 @@
+{
+ "id": "hsk4-reading-p216",
+ "level": "4",
+ "section": "reading",
+ "partKey": "reading-p2",
+ "title": "HSK4 Reading P2",
+ "titleZh": "阅读 第二部分（短文理解）",
+ "groups": [
+  {
+   "instruction": "请阅读下面的短文，然后根据短文内容选择正确答案。",
+   "passage": "李明是一位年轻的科学家，他一直在研究如何解决塑料污染问题。一次偶然的机会，他在观察植物时发现了一种特殊的细菌，这种细菌能够分解塑料。经过多次实验，他成功提取了这种细菌的活性成分，并制成了一种新材料。这种材料可以在几天内将塑料完全分解，变成对环境无害的土壤。李明的新发现为环境保护提供了新思路。",
+   "questions": [
+    {
+     "prompt": "李明的新发现是什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "他制造了一种新型垃圾"
+      },
+      {
+       "label": "B",
+       "text": "他发明了一种新塑料"
+      },
+      {
+       "label": "C",
+       "text": "他发现了一种能分解塑料的细菌"
+      },
+      {
+       "label": "D",
+       "text": "他研究了一种植物生长方法"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "短文中明确提到“他发现了一种特殊的细菌，这种细菌能够分解塑料”，所以正确答案是发现了一种能分解塑料的细菌。",
+     "id": "q1",
+     "type": "passage-mcq"
+    },
+    {
+     "prompt": "李明是如何发现这种细菌的？",
+     "options": [
+      {
+       "label": "A",
+       "text": "通过阅读书籍"
+      },
+      {
+       "label": "B",
+       "text": "通过化学实验"
+      },
+      {
+       "label": "C",
+       "text": "通过观察植物"
+      },
+      {
+       "label": "D",
+       "text": "通过他人介绍"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "短文指出“一次偶然的机会，他在观察植物时发现了一种特殊的细菌”，所以是通过观察植物发现的。",
+     "id": "q2",
+     "type": "passage-mcq"
+    },
+    {
+     "prompt": "李明制成的新材料有什么作用？",
+     "options": [
+      {
+       "label": "A",
+       "text": "可以净化空气"
+      },
+      {
+       "label": "B",
+       "text": "可以加快植物生长"
+      },
+      {
+       "label": "C",
+       "text": "可以在几天内分解塑料"
+      },
+      {
+       "label": "D",
+       "text": "可以制造更多塑料"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "短文中说“制成了一种新材料。这种材料可以在几天内将塑料完全分解”，所以作用是几天内分解塑料。",
+     "id": "q3",
+     "type": "passage-mcq"
+    },
+    {
+     "prompt": "李明的发现有什么意义？",
+     "options": [
+      {
+       "label": "A",
+       "text": "增加了塑料的使用"
+      },
+      {
+       "label": "B",
+       "text": "导致更多污染"
+      },
+      {
+       "label": "C",
+       "text": "减少了植物种类"
+      },
+      {
+       "label": "D",
+       "text": "为环境保护提供了新思路"
+      }
+     ],
+     "correctAnswer": "D",
+     "explanation": "短文最后一句“李明的新发现为环境保护提供了新思路”，所以意义是为环保提供新思路。",
+     "id": "q4",
+     "type": "passage-mcq"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

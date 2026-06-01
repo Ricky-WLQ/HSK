@@ -1,0 +1,89 @@
+{
+ "id": "hsk3-reading-p216",
+ "level": "3",
+ "section": "reading",
+ "partKey": "reading-p2",
+ "title": "HSK3 Reading P2",
+ "titleZh": "阅读 第二部分（词语填空）",
+ "groups": [
+  {
+   "instruction": "请从下面的词语中选择合适的词填入句子中的空白处。每个词语只能使用一次，有一个词语是多余的。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "医生",
+     "pinyin": "yī shēng"
+    },
+    {
+     "label": "B",
+     "text": "检查",
+     "pinyin": "jiǎn chá"
+    },
+    {
+     "label": "C",
+     "text": "吃药",
+     "pinyin": "chī yào"
+    },
+    {
+     "label": "D",
+     "text": "生病",
+     "pinyin": "shēng bìng"
+    },
+    {
+     "label": "E",
+     "text": "休息",
+     "pinyin": "xiū xī"
+    },
+    {
+     "label": "F",
+     "text": "医院",
+     "pinyin": "yī yuàn"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "王明牙疼得很厉害，妈妈带他去了（ ）。",
+     "correctAnswer": "F",
+     "explanation": "牙疼需要去医院看病，所以空白处应填“医院”。",
+     "id": "q1",
+     "type": "cloze-wordbank",
+     "pinyin": "wáng míng yá téng dé hěn lì hài ， mā mā dài tā qù le （ ）。"
+    },
+    {
+     "prompt": "医生对小李说：“你需要多（ ），不要熬夜。”",
+     "correctAnswer": "E",
+     "explanation": "医生建议多休息，不要熬夜，所以空白处应填“休息”。",
+     "id": "q2",
+     "type": "cloze-wordbank",
+     "pinyin": "yī shēng duì xiǎo lǐ shuō ：“ nǐ xū yào duō （ ）， bú yào áo yè 。”"
+    },
+    {
+     "prompt": "奶奶每天按时（ ），血压控制得很好。",
+     "correctAnswer": "C",
+     "explanation": "按时吃药是控制血压的常见方法，所以空白处应填“吃药”。",
+     "id": "q3",
+     "type": "cloze-wordbank",
+     "pinyin": "nǎi nǎi měi tiān àn shí （ ）， xuè yā kòng zhì dé hěn hǎo 。"
+    },
+    {
+     "prompt": "我最近总是咳嗽，想去医院（ ）一下。",
+     "correctAnswer": "B",
+     "explanation": "咳嗽需要去医院检查身体，所以空白处应填“检查”。",
+     "id": "q4",
+     "type": "cloze-wordbank",
+     "pinyin": "wǒ zuì jìn zǒng shì ké sòu ， xiǎng qù yī yuàn （ ） yī xià 。"
+    },
+    {
+     "prompt": "他因为（ ）没来上课，我们都很担心。",
+     "correctAnswer": "D",
+     "explanation": "因为身体不舒服（生病）才没来上课，所以空白处应填“生病”。",
+     "id": "q5",
+     "type": "cloze-wordbank",
+     "pinyin": "tā yīn wèi （ ） méi lái shàng kè ， wǒ men dōu hěn dān xīn 。"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

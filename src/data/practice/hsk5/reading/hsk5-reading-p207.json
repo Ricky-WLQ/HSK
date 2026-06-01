@@ -1,0 +1,143 @@
+{
+ "id": "hsk5-reading-p207",
+ "level": "5",
+ "section": "reading",
+ "partKey": "reading-p2",
+ "title": "HSK5 Reading P2",
+ "titleZh": "阅读 长文理解（二）",
+ "groups": [
+  {
+   "instruction": "请根据短文内容，选择正确答案。",
+   "passage": "小王是一名大学生，他参加了一个名为“云支教”的志愿服务项目，每周通过网络给山区学生上英语课。起初，学生们因为网络不稳定和害羞不太配合。小王耐心调整教学方法，用游戏和故事吸引学生。一个月后，学生们的英语成绩明显提高，性格也开朗了许多。小王意识到，志愿服务不仅是付出，更是双向成长。他计划毕业后继续参与这类活动。",
+   "questions": [
+    {
+     "prompt": "小王参加的是什么志愿服务项目？",
+     "options": [
+      {
+       "label": "A",
+       "text": "网络教学"
+      },
+      {
+       "label": "B",
+       "text": "山区支教"
+      },
+      {
+       "label": "C",
+       "text": "云支教"
+      },
+      {
+       "label": "D",
+       "text": "英语辅导"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "短文第一句明确提到‘小王参加了一个名为“云支教”的志愿服务项目’，因此正确答案是‘云支教’。",
+     "id": "q1",
+     "type": "passage-mcq"
+    },
+    {
+     "prompt": "一开始，学生们为什么不配合？",
+     "options": [
+      {
+       "label": "A",
+       "text": "不喜欢英语课"
+      },
+      {
+       "label": "B",
+       "text": "没有时间上课"
+      },
+      {
+       "label": "C",
+       "text": "网络不稳定和害羞"
+      },
+      {
+       "label": "D",
+       "text": "课程太难"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "短文中说‘起初，学生们因为网络不稳定和害羞不太配合’，因此原因是网络不稳定和害羞。",
+     "id": "q2",
+     "type": "passage-mcq"
+    },
+    {
+     "prompt": "小王采取了什么方法来改善教学？",
+     "options": [
+      {
+       "label": "A",
+       "text": "减少课程内容"
+      },
+      {
+       "label": "B",
+       "text": "让学生自由学习"
+      },
+      {
+       "label": "C",
+       "text": "用游戏和故事吸引学生"
+      },
+      {
+       "label": "D",
+       "text": "增加作业量"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "短文中提到‘小王耐心调整教学方法，用游戏和故事吸引学生’，因此他用了游戏和故事。",
+     "id": "q3",
+     "type": "passage-mcq"
+    },
+    {
+     "prompt": "一个月后，学生们有什么变化？",
+     "options": [
+      {
+       "label": "A",
+       "text": "英语成绩下降"
+      },
+      {
+       "label": "B",
+       "text": "英语成绩提高，性格开朗"
+      },
+      {
+       "label": "C",
+       "text": "不再需要小王上课"
+      },
+      {
+       "label": "D",
+       "text": "性格变得更害羞"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "短文说‘一个月后，学生们的英语成绩明显提高，性格也开朗了许多’，因此变化是成绩提高和性格开朗。",
+     "id": "q4",
+     "type": "passage-mcq"
+    },
+    {
+     "prompt": "关于志愿服务，小王的认识是什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "只是单方面付出"
+      },
+      {
+       "label": "B",
+       "text": "浪费时间和精力"
+      },
+      {
+       "label": "C",
+       "text": "对志愿者没有好处"
+      },
+      {
+       "label": "D",
+       "text": "是双向成长"
+      }
+     ],
+     "correctAnswer": "D",
+     "explanation": "短文中‘小王意识到，志愿服务不仅是付出，更是双向成长’，因此他认为志愿服务是双向成长。",
+     "id": "q5",
+     "type": "passage-mcq"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

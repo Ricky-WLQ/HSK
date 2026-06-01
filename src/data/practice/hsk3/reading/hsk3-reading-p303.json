@@ -1,0 +1,118 @@
+{
+ "id": "hsk3-reading-p303",
+ "level": "3",
+ "section": "reading",
+ "partKey": "reading-p3",
+ "title": "HSK3 Reading P3",
+ "titleZh": "阅读 第三部分（短文理解）",
+ "groups": [
+  {
+   "instruction": "请阅读下面的短文，然后根据短文内容回答每个问题。每个问题有三个选项，请选择唯一正确的答案。",
+   "passage": "小张在小区里开了一家小超市。他每天很早就开门，晚上很晚才关门。因为他的服务很好，价格也合理，所以来买东西的人越来越多。半年后，他请了两个员工帮忙，还买了新的货架。现在他的超市生意很好，邻居们都觉得方便。",
+   "questions": [
+    {
+     "prompt": "小张的超市生意越来越好的原因是什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "价格很便宜",
+       "pinyin": "jià gé hěn pián yi"
+      },
+      {
+       "label": "B",
+       "text": "请了员工",
+       "pinyin": "qǐng le yuán gōng"
+      },
+      {
+       "label": "C",
+       "text": "服务好",
+       "pinyin": "fú wù hǎo"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "短文中提到“因为他的服务很好，价格也合理，所以来买东西的人越来越多”，服务好是原因之一，而价格合理不等于很便宜，请员工是后来发生的事，不是原因。",
+     "id": "q1",
+     "type": "passage-mcq",
+     "pinyin": "xiǎo zhāng de chāo shì shēng yì yuè lái yuè hǎo de yuán yīn shì shén me ？"
+    },
+    {
+     "prompt": "小张的超市开在什么地方？",
+     "options": [
+      {
+       "label": "A",
+       "text": "马路边",
+       "pinyin": "mǎ lù biān"
+      },
+      {
+       "label": "B",
+       "text": "小区里",
+       "pinyin": "xiǎo qū lǐ"
+      },
+      {
+       "label": "C",
+       "text": "商场里",
+       "pinyin": "shāng chǎng lǐ"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "短文第一句明确说“小张在小区里开了一家小超市”，因此超市在小区里。",
+     "id": "q2",
+     "type": "passage-mcq",
+     "pinyin": "xiǎo zhāng de chāo shì kāi zài shén me dì fāng ？"
+    },
+    {
+     "prompt": "小张是什么时候请员工帮忙的？",
+     "options": [
+      {
+       "label": "A",
+       "text": "一年后",
+       "pinyin": "yī nián hòu"
+      },
+      {
+       "label": "B",
+       "text": "半年后",
+       "pinyin": "bàn nián hòu"
+      },
+      {
+       "label": "C",
+       "text": "三个月后",
+       "pinyin": "sān gè yuè hòu"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "短文中说“半年后，他请了两个员工帮忙”，所以是半年后。",
+     "id": "q3",
+     "type": "passage-mcq",
+     "pinyin": "xiǎo zhāng shì shén me shí hòu qǐng yuán gōng bāng máng de ？"
+    },
+    {
+     "prompt": "邻居们觉得小张的超市怎么样？",
+     "options": [
+      {
+       "label": "A",
+       "text": "人很多",
+       "pinyin": "rén hěn duō"
+      },
+      {
+       "label": "B",
+       "text": "很贵",
+       "pinyin": "hěn guì"
+      },
+      {
+       "label": "C",
+       "text": "很方便",
+       "pinyin": "hěn fāng biàn"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "短文最后说“邻居们都觉得方便”，而不是觉得贵或人多。",
+     "id": "q4",
+     "type": "passage-mcq",
+     "pinyin": "lín jū men jué de xiǎo zhāng de chāo shì zěn me yàng ？"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

@@ -1,0 +1,118 @@
+{
+ "id": "hsk3-reading-p305",
+ "level": "3",
+ "section": "reading",
+ "partKey": "reading-p3",
+ "title": "HSK3 Reading P3",
+ "titleZh": "阅读 第三部分（短文理解）",
+ "groups": [
+  {
+   "instruction": "请阅读下面的短文，然后回答问题。每题只有一个正确答案。",
+   "passage": "我的妈妈会做很多好吃的菜。我最喜欢她做的红烧肉。这个周末，妈妈教我怎么做。我们先准备了猪肉、酱油和糖。然后妈妈告诉我，要慢慢煮，肉才会软。我学了一下午，终于做了一盘。虽然样子不太好看，但是味道很好。我觉得妈妈每天做饭很辛苦。",
+   "questions": [
+    {
+     "prompt": "小李最喜欢妈妈做的什么菜？",
+     "options": [
+      {
+       "label": "A",
+       "text": "炒鸡蛋",
+       "pinyin": "chǎo jī dàn"
+      },
+      {
+       "label": "B",
+       "text": "红烧肉",
+       "pinyin": "hóng shāo ròu"
+      },
+      {
+       "label": "C",
+       "text": "鱼",
+       "pinyin": "yú"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "短文中明确说“我最喜欢她做的红烧肉”，所以正确答案是红烧肉。",
+     "id": "q1",
+     "type": "passage-mcq",
+     "pinyin": "xiǎo lǐ zuì xǐ huān mā mā zuò de shén me cài ？"
+    },
+    {
+     "prompt": "妈妈教小李做菜的时候，先做了什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "煮肉",
+       "pinyin": "zhǔ ròu"
+      },
+      {
+       "label": "B",
+       "text": "放糖",
+       "pinyin": "fàng táng"
+      },
+      {
+       "label": "C",
+       "text": "准备材料",
+       "pinyin": "zhǔn bèi cái liào"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "短文中说“我们先准备了猪肉、酱油和糖”，所以先准备材料，而不是直接煮肉或放糖。",
+     "id": "q2",
+     "type": "passage-mcq",
+     "pinyin": "mā mā jiào xiǎo lǐ zuò cài de shí hòu ， xiān zuò le shén me ？"
+    },
+    {
+     "prompt": "红烧肉要怎么做才软？",
+     "options": [
+      {
+       "label": "A",
+       "text": "慢慢煮",
+       "pinyin": "màn màn zhǔ"
+      },
+      {
+       "label": "B",
+       "text": "加很多水",
+       "pinyin": "jiā hěn duō shuǐ"
+      },
+      {
+       "label": "C",
+       "text": "快煮",
+       "pinyin": "kuài zhǔ"
+      }
+     ],
+     "correctAnswer": "A",
+     "explanation": "短文中妈妈说“要慢慢煮，肉才会软”，所以需要慢慢煮。",
+     "id": "q3",
+     "type": "passage-mcq",
+     "pinyin": "hóng shāo ròu yào zěn me zuò cái ruǎn ？"
+    },
+    {
+     "prompt": "小李做完红烧肉后觉得怎么样？",
+     "options": [
+      {
+       "label": "A",
+       "text": "很容易",
+       "pinyin": "hěn róng yì"
+      },
+      {
+       "label": "B",
+       "text": "妈妈做饭很辛苦",
+       "pinyin": "mā mā zuò fàn hěn xīn kǔ"
+      },
+      {
+       "label": "C",
+       "text": "样子很好看",
+       "pinyin": "yàng zi hěn hǎo kàn"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "短文最后说“我觉得妈妈每天做饭很辛苦”，所以小李觉得妈妈很辛苦。",
+     "id": "q4",
+     "type": "passage-mcq",
+     "pinyin": "xiǎo lǐ zuò wán hóng shāo ròu hòu jué de zěn me yàng ？"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

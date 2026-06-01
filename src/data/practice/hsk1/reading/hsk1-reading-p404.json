@@ -1,0 +1,142 @@
+{
+ "id": "hsk1-reading-p404",
+ "level": "1",
+ "section": "reading",
+ "partKey": "reading-p4",
+ "title": "HSK1 Reading P4",
+ "titleZh": "阅读 第四部分（短句理解）",
+ "groups": [
+  {
+   "instruction": "阅读短文，选择正确的答案。",
+   "questions": [
+    {
+     "prompt": "这里很多人。那里很多花。★哪里有很多花？",
+     "options": [
+      {
+       "label": "A",
+       "text": "家里",
+       "pinyin": "jiā lǐ"
+      },
+      {
+       "label": "B",
+       "text": "这里",
+       "pinyin": "zhè lǐ"
+      },
+      {
+       "label": "C",
+       "text": "那里",
+       "pinyin": "nà lǐ"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "短文说“那里很多花”，所以那里有很多花。",
+     "id": "q1",
+     "type": "passage-mcq",
+     "pinyin": "zhè lǐ hěn duō rén 。 nà lǐ hěn duō huā 。★ nǎ lǐ yǒu hěn duō huā ？"
+    },
+    {
+     "prompt": "这里很多猫。那里很多鸟。★这里有什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "很多狗",
+       "pinyin": "hěn duō gǒu"
+      },
+      {
+       "label": "B",
+       "text": "很多鸟",
+       "pinyin": "hěn duō niǎo"
+      },
+      {
+       "label": "C",
+       "text": "很多猫",
+       "pinyin": "hěn duō māo"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "短文说“这里很多猫”，所以这里有很多猫。",
+     "id": "q2",
+     "type": "passage-mcq",
+     "pinyin": "zhè lǐ hěn duō māo 。 nà lǐ hěn duō niǎo 。★ zhè lǐ yǒu shén me ？"
+    },
+    {
+     "prompt": "我住的地方有很多人。小王住的地方有很多水。★小王住在哪里？",
+     "options": [
+      {
+       "label": "A",
+       "text": "有很多花的地方",
+       "pinyin": "yǒu hěn duō huā de dì fāng"
+      },
+      {
+       "label": "B",
+       "text": "有很多水的地方",
+       "pinyin": "yǒu hěn duō shuǐ de dì fāng"
+      },
+      {
+       "label": "C",
+       "text": "有很多人的地方",
+       "pinyin": "yǒu hěn duō rén de dì fāng"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "短文说“小王住的地方有很多水”，所以小王住在有很多水的地方。",
+     "id": "q3",
+     "type": "passage-mcq",
+     "pinyin": "wǒ zhù de dì fāng yǒu hěn duō rén 。 xiǎo wáng zhù de dì fāng yǒu hěn duō shuǐ 。★ xiǎo wáng zhù zài nǎ lǐ ？"
+    },
+    {
+     "prompt": "这里有很多花。那里有很多山。★哪里有很多山？",
+     "options": [
+      {
+       "label": "A",
+       "text": "家里",
+       "pinyin": "jiā lǐ"
+      },
+      {
+       "label": "B",
+       "text": "那里",
+       "pinyin": "nà lǐ"
+      },
+      {
+       "label": "C",
+       "text": "这里",
+       "pinyin": "zhè lǐ"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "短文说“那里有很多山”，所以那里有很多山。",
+     "id": "q4",
+     "type": "passage-mcq",
+     "pinyin": "zhè lǐ yǒu hěn duō huā 。 nà lǐ yǒu hěn duō shān 。★ nǎ lǐ yǒu hěn duō shān ？"
+    },
+    {
+     "prompt": "我家有很多书。小王家有很多花。★小王家有什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "很多书",
+       "pinyin": "hěn duō shū"
+      },
+      {
+       "label": "B",
+       "text": "很多水",
+       "pinyin": "hěn duō shuǐ"
+      },
+      {
+       "label": "C",
+       "text": "很多花",
+       "pinyin": "hěn duō huā"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "短文说“小王家有很多花”，所以小王家有很多花。",
+     "id": "q5",
+     "type": "passage-mcq",
+     "pinyin": "wǒ jiā yǒu hěn duō shū 。 xiǎo wáng jiā yǒu hěn duō huā 。★ xiǎo wáng jiā yǒu shén me ？"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

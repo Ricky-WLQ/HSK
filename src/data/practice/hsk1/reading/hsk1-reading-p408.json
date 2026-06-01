@@ -1,0 +1,142 @@
+{
+ "id": "hsk1-reading-p408",
+ "level": "1",
+ "section": "reading",
+ "partKey": "reading-p4",
+ "title": "HSK1 Reading P4",
+ "titleZh": "阅读 第四部分（短句理解）",
+ "groups": [
+  {
+   "instruction": "请阅读下面的短文，然后回答问题。每个问题只有一个正确答案。",
+   "questions": [
+    {
+     "prompt": "爸爸给我买了一只小猫。★谁买了小猫？",
+     "options": [
+      {
+       "label": "A",
+       "text": "我",
+       "pinyin": "wǒ"
+      },
+      {
+       "label": "B",
+       "text": "爸爸",
+       "pinyin": "bà bà"
+      },
+      {
+       "label": "C",
+       "text": "妈妈",
+       "pinyin": "mā mā"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "短文说“爸爸给我买了一只小猫”，所以是爸爸买了小猫。",
+     "id": "q1",
+     "type": "passage-mcq",
+     "pinyin": "bà bà gěi wǒ mǎi le yī zhī xiǎo māo 。★ shuí mǎi le xiǎo māo ？"
+    },
+    {
+     "prompt": "妈妈热了一杯牛奶给我。★妈妈给我什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "茶",
+       "pinyin": "chá"
+      },
+      {
+       "label": "B",
+       "text": "水",
+       "pinyin": "shuǐ"
+      },
+      {
+       "label": "C",
+       "text": "牛奶",
+       "pinyin": "niú nǎi"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "短文说“热了一杯牛奶给我”，所以妈妈给我的是牛奶。",
+     "id": "q2",
+     "type": "passage-mcq",
+     "pinyin": "mā mā rè le yī bēi niú nǎi gěi wǒ 。★ mā mā gěi wǒ shén me ？"
+    },
+    {
+     "prompt": "姐姐教弟弟写汉字。★谁教写汉字？",
+     "options": [
+      {
+       "label": "A",
+       "text": "弟弟",
+       "pinyin": "dì di"
+      },
+      {
+       "label": "B",
+       "text": "爸爸",
+       "pinyin": "bà bà"
+      },
+      {
+       "label": "C",
+       "text": "姐姐",
+       "pinyin": "jiě jiě"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "短文说“姐姐教弟弟写汉字”，所以是姐姐在教。",
+     "id": "q3",
+     "type": "passage-mcq",
+     "pinyin": "jiě jiě jiào dì di xiě hàn zì 。★ shuí jiào xiě hàn zì ？"
+    },
+    {
+     "prompt": "奶奶和我一起包饺子。★我和谁一起包饺子？",
+     "options": [
+      {
+       "label": "A",
+       "text": "爷爷",
+       "pinyin": "yé yé"
+      },
+      {
+       "label": "B",
+       "text": "奶奶",
+       "pinyin": "nǎi nǎi"
+      },
+      {
+       "label": "C",
+       "text": "妈妈",
+       "pinyin": "mā mā"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "短文说“奶奶和我一起包饺子”，所以是和奶奶一起。",
+     "id": "q4",
+     "type": "passage-mcq",
+     "pinyin": "nǎi nǎi hé wǒ yì qǐ bāo jiǎo zi 。★ wǒ hé shuí yì qǐ bāo jiǎo zi ？"
+    },
+    {
+     "prompt": "爸爸的生日是今天。★今天是谁的生日？",
+     "options": [
+      {
+       "label": "A",
+       "text": "我",
+       "pinyin": "wǒ"
+      },
+      {
+       "label": "B",
+       "text": "妈妈",
+       "pinyin": "mā mā"
+      },
+      {
+       "label": "C",
+       "text": "爸爸",
+       "pinyin": "bà bà"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "短文说“爸爸的生日是今天”，所以今天过生日的是爸爸。",
+     "id": "q5",
+     "type": "passage-mcq",
+     "pinyin": "bà bà de shēng rì shì jīn tiān 。★ jīn tiān shì shéi de shēng rì ？"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

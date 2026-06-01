@@ -1,0 +1,89 @@
+{
+ "id": "hsk1-reading-p210",
+ "level": "1",
+ "section": "reading",
+ "partKey": "reading-p2",
+ "title": "HSK1 Reading P2",
+ "titleZh": "阅读 第二部分（问答匹配）",
+ "groups": [
+  {
+   "instruction": "请为下面的句子选择合适的回答。注意：每个句子只能选择一个回答，有一个多余的回答。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "我今天很忙。",
+     "pinyin": "wǒ jīn tiān hěn máng 。"
+    },
+    {
+     "label": "B",
+     "text": "我七点去学校。",
+     "pinyin": "wǒ qī diǎn qù xué xiào 。"
+    },
+    {
+     "label": "C",
+     "text": "她十一点睡觉。",
+     "pinyin": "tā shí yì diǎn shuì jiào 。"
+    },
+    {
+     "label": "D",
+     "text": "他学习三个小时。",
+     "pinyin": "tā xué xí sān gè xiǎo shí 。"
+    },
+    {
+     "label": "E",
+     "text": "我们今天写作业。",
+     "pinyin": "wǒ men jīn tiān xiě zuò yè 。"
+    },
+    {
+     "label": "F",
+     "text": "我们中午休息。",
+     "pinyin": "wǒ men zhōng wǔ xiū xī 。"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "他每天学几小时？",
+     "correctAnswer": "D",
+     "explanation": "问题问每天学习多长时间，回答“他学习三个小时”提供了具体时长，与问题匹配。",
+     "id": "q1",
+     "type": "match",
+     "pinyin": "tā měi tiān xué jǐ xiǎo shí ？"
+    },
+    {
+     "prompt": "你几点去学校？",
+     "correctAnswer": "B",
+     "explanation": "问题问去学校的时间，回答“我七点去学校”给出了具体时间，符合问题。",
+     "id": "q2",
+     "type": "match",
+     "pinyin": "nǐ jǐ diǎn qù xué xiào ？"
+    },
+    {
+     "prompt": "她几点睡觉？",
+     "correctAnswer": "C",
+     "explanation": "问题问睡觉时间，回答“她十一点睡觉”给出了具体时间，与问题一致。",
+     "id": "q3",
+     "type": "match",
+     "pinyin": "tā jǐ diǎn shuì jiào ？"
+    },
+    {
+     "prompt": "你们什么时候休息？",
+     "correctAnswer": "F",
+     "explanation": "问题问休息时间，回答“我们中午休息”给出了具体时间段，符合问题。",
+     "id": "q4",
+     "type": "match",
+     "pinyin": "nǐ men shén me shí hòu xiū xī ？"
+    },
+    {
+     "prompt": "你们今天做什么？",
+     "correctAnswer": "E",
+     "explanation": "问题问今天的计划，回答“我们今天写作业”说明了具体活动，与问题匹配。",
+     "id": "q5",
+     "type": "match",
+     "pinyin": "nǐ men jīn tiān zuò shén me ？"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

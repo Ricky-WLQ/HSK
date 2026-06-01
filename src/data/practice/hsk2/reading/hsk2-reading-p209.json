@@ -1,0 +1,89 @@
+{
+ "id": "hsk2-reading-p209",
+ "level": "2",
+ "section": "reading",
+ "partKey": "reading-p2",
+ "title": "HSK2 Reading P2",
+ "titleZh": "阅读 第二部分（选词填空）",
+ "groups": [
+  {
+   "instruction": "请选择合适的词语填空，每个词语只能使用一次，有一个多余词语。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "喜欢",
+     "pinyin": "xǐ huān"
+    },
+    {
+     "label": "B",
+     "text": "中国",
+     "pinyin": "zhōng guó"
+    },
+    {
+     "label": "C",
+     "text": "时候",
+     "pinyin": "shí hòu"
+    },
+    {
+     "label": "D",
+     "text": "北京",
+     "pinyin": "běi jīng"
+    },
+    {
+     "label": "E",
+     "text": "名字",
+     "pinyin": "míng zì"
+    },
+    {
+     "label": "F",
+     "text": "知道",
+     "pinyin": "zhī dào"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "我（ ）中国电影。",
+     "correctAnswer": "A",
+     "explanation": "这句话的意思是“我喜爱中国电影”，需要填入一个表示喜好的动词，“喜欢”符合语义。",
+     "id": "q1",
+     "type": "cloze-wordbank",
+     "pinyin": "wǒ （ ） zhōng guó diàn yǐng 。"
+    },
+    {
+     "prompt": "你（ ）中国的名字吗？",
+     "correctAnswer": "F",
+     "explanation": "这句话询问是否知晓中国的名称，需要填入表示“知晓”的动词，“知道”符合。",
+     "id": "q2",
+     "type": "cloze-wordbank",
+     "pinyin": "nǐ （ ） zhōng guó de míng zì ma ？"
+    },
+    {
+     "prompt": "中国的（ ）叫中国。",
+     "correctAnswer": "E",
+     "explanation": "这句话说明中国自己的称呼，空白处需要填入表示“名称”的名词，“名字”符合。",
+     "id": "q3",
+     "type": "cloze-wordbank",
+     "pinyin": "zhōng guó de （ ） jiào zhōng guó 。"
+    },
+    {
+     "prompt": "你什么（ ）去中国？",
+     "correctAnswer": "C",
+     "explanation": "这句话询问去中国的时间点，空白处需要填入表示时间的名词，“时候”与“什么”搭配表示“什么时候”。",
+     "id": "q4",
+     "type": "cloze-wordbank",
+     "pinyin": "nǐ shén me （ ） qù zhōng guó ？"
+    },
+    {
+     "prompt": "我是（ ）人。",
+     "correctAnswer": "B",
+     "explanation": "这句话表达国籍，空白处需要填入国名，“中国”符合。",
+     "id": "q5",
+     "type": "cloze-wordbank",
+     "pinyin": "wǒ shì （ ） rén 。"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

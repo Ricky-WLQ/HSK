@@ -1,0 +1,89 @@
+{
+ "id": "hsk1-reading-p220",
+ "level": "1",
+ "section": "reading",
+ "partKey": "reading-p2",
+ "title": "HSK1 Reading P2",
+ "titleZh": "阅读 第二部分（问答匹配）",
+ "groups": [
+  {
+   "instruction": "请从下面选项中选择正确的回答。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "我不难过。",
+     "pinyin": "wǒ bù nán guò 。"
+    },
+    {
+     "label": "B",
+     "text": "我不高兴。",
+     "pinyin": "wǒ bù gāo xìng 。"
+    },
+    {
+     "label": "C",
+     "text": "她喜欢猫。",
+     "pinyin": "tā xǐ huān māo 。"
+    },
+    {
+     "label": "D",
+     "text": "我爱我的家。",
+     "pinyin": "wǒ ài wǒ de jiā 。"
+    },
+    {
+     "label": "E",
+     "text": "我想我的猫。",
+     "pinyin": "wǒ xiǎng wǒ de māo 。"
+    },
+    {
+     "label": "F",
+     "text": "我很高兴。",
+     "pinyin": "wǒ hěn gāo xìng 。"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "小明今天你高兴吗？",
+     "correctAnswer": "F",
+     "explanation": "问题问小明今天是否高兴，正确的回答是“我很高兴”，表达肯定的情绪。",
+     "id": "q1",
+     "type": "match",
+     "pinyin": "xiǎo míng jīn tiān nǐ gāo xìng ma ？"
+    },
+    {
+     "prompt": "小红你难过吗？",
+     "correctAnswer": "A",
+     "explanation": "问题问小红是否难过，正确的回答是“我不难过”，表示没有难过的情绪。",
+     "id": "q2",
+     "type": "match",
+     "pinyin": "xiǎo hóng nǐ nán guò ma ？"
+    },
+    {
+     "prompt": "你妹妹喜欢什么？",
+     "correctAnswer": "C",
+     "explanation": "问题问妹妹喜欢什么，正确的回答是“她喜欢猫”，说明妹妹的喜好。",
+     "id": "q3",
+     "type": "match",
+     "pinyin": "nǐ mèi mèi xǐ huān shén me ？"
+    },
+    {
+     "prompt": "你爱你的家吗？",
+     "correctAnswer": "D",
+     "explanation": "问题问是否爱自己的家，正确的回答是“我爱我的家”，表达对家的爱。",
+     "id": "q4",
+     "type": "match",
+     "pinyin": "nǐ ài nǐ de jiā ma ？"
+    },
+    {
+     "prompt": "你想你的猫吗？",
+     "correctAnswer": "E",
+     "explanation": "问题问是否想自己的猫，正确的回答是“我想我的猫”，表达想念的情绪。",
+     "id": "q5",
+     "type": "match",
+     "pinyin": "nǐ xiǎng nǐ de māo ma ？"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

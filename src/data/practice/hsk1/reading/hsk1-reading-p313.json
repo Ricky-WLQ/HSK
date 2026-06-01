@@ -1,0 +1,89 @@
+{
+ "id": "hsk1-reading-p313",
+ "level": "1",
+ "section": "reading",
+ "partKey": "reading-p3",
+ "title": "HSK1 Reading P3",
+ "titleZh": "阅读 第三部分（选词填空）",
+ "groups": [
+  {
+   "instruction": "请从下面的词库中选择合适的词语填入句子中的空白处。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "学习",
+     "pinyin": "xué xí"
+    },
+    {
+     "label": "B",
+     "text": "工作",
+     "pinyin": "gōng zuò"
+    },
+    {
+     "label": "C",
+     "text": "买",
+     "pinyin": "mǎi"
+    },
+    {
+     "label": "D",
+     "text": "钱",
+     "pinyin": "qián"
+    },
+    {
+     "label": "E",
+     "text": "卖",
+     "pinyin": "mài"
+    },
+    {
+     "label": "F",
+     "text": "商店",
+     "pinyin": "shāng diàn"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "他想开一个（ ）。",
+     "correctAnswer": "F",
+     "explanation": "句子说想开一个，后面需要一个表示场所的名词。“商店”是卖东西的地方，符合创业开店的场景。其他词中“钱”是货币，不能直接放在“一个”后面；“买”“工作”“学习”都是动词，不能放在“一个”后做宾语。",
+     "id": "q1",
+     "type": "cloze-wordbank",
+     "pinyin": "tā xiǎng kāi yí gè （ ）。"
+    },
+    {
+     "prompt": "他没有很多（ ）。",
+     "correctAnswer": "D",
+     "explanation": "句子说没有很多，后面需要一个表示财物或数量的名词。“钱”是货币，符合没有很多钱的语境。“商店”是地点，不能说没有很多商店（可以但不合理）；“买”“工作”“学习”都是动词，不能与“很多”搭配。",
+     "id": "q2",
+     "type": "cloze-wordbank",
+     "pinyin": "tā méi yǒu hěn duō （ ）。"
+    },
+    {
+     "prompt": "他（ ）了很多东西。",
+     "correctAnswer": "C",
+     "explanation": "句子说他了东西，需要动词。“买”表示用钱换东西，符合买东西的语境。“卖”是相反的动作，但后面说“了很多东西”通常指得到东西，所以“买”更合适；“工作”“学习”不能直接带“了东西”做宾语。",
+     "id": "q3",
+     "type": "cloze-wordbank",
+     "pinyin": "tā （ ） le hěn duō dōng xī 。"
+    },
+    {
+     "prompt": "他（ ）很忙。",
+     "correctAnswer": "B",
+     "explanation": "句子说他很忙，需要动词或名词作主语，但“很忙”是形容词短语，前面通常用动词“工作”或“学习”等来表示活动。“工作”指职业活动，与“忙”搭配自然。“学习”也可以忙，但“工作”更贴合创业主题；“买”“卖”“钱”“商店”都不能与“很忙”直接构成主谓结构。",
+     "id": "q4",
+     "type": "cloze-wordbank",
+     "pinyin": "tā （ ） hěn máng 。"
+    },
+    {
+     "prompt": "他（ ）怎么卖东西。",
+     "correctAnswer": "A",
+     "explanation": "句子说怎么卖东西，需要动词表示了解或掌握过程。“学习”表示通过研究或练习来掌握知识或技能，符合学习如何卖东西的语境。“买”“卖”“工作”等不能接“怎么卖东西”作为学习内容；“商店”“钱”是名词，不能做谓语。",
+     "id": "q5",
+     "type": "cloze-wordbank",
+     "pinyin": "tā （ ） zěn me mài dōng xī 。"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

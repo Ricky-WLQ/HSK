@@ -1,0 +1,89 @@
+{
+ "id": "hsk1-reading-p319",
+ "level": "1",
+ "section": "reading",
+ "partKey": "reading-p3",
+ "title": "HSK1 Reading P3",
+ "titleZh": "阅读 第三部分（选词填空）",
+ "groups": [
+  {
+   "instruction": "请从下面选择正确的词语填入句子的空白处。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "漂亮",
+     "pinyin": "piào liàng"
+    },
+    {
+     "label": "B",
+     "text": "钱",
+     "pinyin": "qián"
+    },
+    {
+     "label": "C",
+     "text": "苹果",
+     "pinyin": "píng guǒ"
+    },
+    {
+     "label": "D",
+     "text": "新年",
+     "pinyin": "xīn nián"
+    },
+    {
+     "label": "E",
+     "text": "高兴",
+     "pinyin": "gāo xìng"
+    },
+    {
+     "label": "F",
+     "text": "饺子",
+     "pinyin": "jiǎo zi"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "今天是我喜欢的（ ）。",
+     "correctAnswer": "D",
+     "explanation": "这句话表达说话人喜欢某个节日，空白处需要填一个节日名称，“新年”是传统节日，符合句意。",
+     "id": "q1",
+     "type": "cloze-wordbank",
+     "pinyin": "jīn tiān shì wǒ xǐ huān de （ ）。"
+    },
+    {
+     "prompt": "我们一家人吃（ ）。",
+     "correctAnswer": "F",
+     "explanation": "一家人吃饭时，空白处需要填一种食物。“饺子”是节日常见食物，放在句中自然。",
+     "id": "q2",
+     "type": "cloze-wordbank",
+     "pinyin": "wǒ men yī jiā rén chī （ ）。"
+    },
+    {
+     "prompt": "奶奶新年给我（ ）。",
+     "correctAnswer": "B",
+     "explanation": "奶奶在过年时给东西，空白处应填物品。“钱”是红包里的东西，符合新年习俗。",
+     "id": "q3",
+     "type": "cloze-wordbank",
+     "pinyin": "nǎi nǎi xīn nián gěi wǒ （ ）。"
+    },
+    {
+     "prompt": "这个苹果很（ ）。",
+     "correctAnswer": "A",
+     "explanation": "苹果是水果，空白处需要形容词描述它。“漂亮”形容苹果外观好看，语法正确。",
+     "id": "q4",
+     "type": "cloze-wordbank",
+     "pinyin": "zhè ge píng guǒ hěn （ ）。"
+    },
+    {
+     "prompt": "我们一家人很（ ）。",
+     "correctAnswer": "E",
+     "explanation": "一家人在一起，空白处需要形容词描述心情。“高兴”表示快乐，符合团圆时的情感。",
+     "id": "q5",
+     "type": "cloze-wordbank",
+     "pinyin": "wǒ men yī jiā rén hěn （ ）。"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

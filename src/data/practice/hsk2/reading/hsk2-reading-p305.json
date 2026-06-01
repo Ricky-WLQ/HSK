@@ -1,0 +1,89 @@
+{
+ "id": "hsk2-reading-p305",
+ "level": "2",
+ "section": "reading",
+ "partKey": "reading-p3",
+ "title": "HSK2 Reading P3",
+ "titleZh": "阅读 第三部分（句子匹配）",
+ "groups": [
+  {
+   "instruction": "请从A-F中选择一个合适的句子，与下面的提问或陈述配对。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "妹妹生病了。",
+     "pinyin": "mèi mèi shēng bìng le 。"
+    },
+    {
+     "label": "B",
+     "text": "爸爸问考试了。",
+     "pinyin": "bà bà wèn kǎo shì le 。"
+    },
+    {
+     "label": "C",
+     "text": "哥哥今天生日。",
+     "pinyin": "gē gē jīn tiān shēng rì 。"
+    },
+    {
+     "label": "D",
+     "text": "姐姐喜欢唱歌。",
+     "pinyin": "jiě jiě xǐ huān chàng gē 。"
+    },
+    {
+     "label": "E",
+     "text": "妈妈在做饭。",
+     "pinyin": "mā mā zài zuò fàn 。"
+    },
+    {
+     "label": "F",
+     "text": "我回家了。",
+     "pinyin": "wǒ huí jiā le 。"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "你回家了吗？",
+     "correctAnswer": "F",
+     "explanation": "当被问是否回家时，回答‘我回家了’表示已经到家，符合对话逻辑。",
+     "id": "q1",
+     "type": "match",
+     "pinyin": "nǐ huí jiā le ma ？"
+    },
+    {
+     "prompt": "妈妈在做什么？",
+     "correctAnswer": "E",
+     "explanation": "询问妈妈正在做的事，回答‘妈妈在做饭’直接描述了妈妈的活动。",
+     "id": "q2",
+     "type": "match",
+     "pinyin": "mā mā zài zuò shén me ？"
+    },
+    {
+     "prompt": "爸爸问你什么？",
+     "correctAnswer": "B",
+     "explanation": "问题问爸爸问的内容，回答‘爸爸问考试了’说明爸爸询问有关考试的事情。",
+     "id": "q3",
+     "type": "match",
+     "pinyin": "bà bà wèn nǐ shén me ？"
+    },
+    {
+     "prompt": "今天谁生日？",
+     "correctAnswer": "C",
+     "explanation": "询问今天过生日的人，回答‘哥哥今天生日’给出了具体人物。",
+     "id": "q4",
+     "type": "match",
+     "pinyin": "jīn tiān shuí shēng rì ？"
+    },
+    {
+     "prompt": "妹妹怎么了？",
+     "correctAnswer": "A",
+     "explanation": "询问妹妹的情况，回答‘妹妹生病了’说明妹妹身体不适。",
+     "id": "q5",
+     "type": "match",
+     "pinyin": "mèi mèi zěn me le ？"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

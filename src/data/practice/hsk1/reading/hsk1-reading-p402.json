@@ -1,0 +1,142 @@
+{
+ "id": "hsk1-reading-p402",
+ "level": "1",
+ "section": "reading",
+ "partKey": "reading-p4",
+ "title": "HSK1 Reading P4",
+ "titleZh": "阅读 第四部分（短句理解）",
+ "groups": [
+  {
+   "instruction": "请根据短文内容选择正确答案。",
+   "questions": [
+    {
+     "prompt": "小丽在教室写作业。★她写什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "作业",
+       "pinyin": "zuò yè"
+      },
+      {
+       "label": "B",
+       "text": "画",
+       "pinyin": "huà"
+      },
+      {
+       "label": "C",
+       "text": "书",
+       "pinyin": "shū"
+      }
+     ],
+     "correctAnswer": "A",
+     "explanation": "短文说小丽“写作业”，所以她在写作业，正确答案是“作业”。",
+     "id": "q1",
+     "type": "passage-mcq",
+     "pinyin": "xiǎo lì zài jiào shì xiě zuò yè 。★ tā xiě shén me ？"
+    },
+    {
+     "prompt": "哥哥每天读一本书。★他读什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "作业",
+       "pinyin": "zuò yè"
+      },
+      {
+       "label": "B",
+       "text": "信",
+       "pinyin": "xìn"
+      },
+      {
+       "label": "C",
+       "text": "书",
+       "pinyin": "shū"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "短文说哥哥“读一本书”，所以他读的是书，正确答案是“书”。",
+     "id": "q2",
+     "type": "passage-mcq",
+     "pinyin": "gē gē měi tiān dú yī běn shū 。★ tā dú shén me ？"
+    },
+    {
+     "prompt": "妈妈买了两本新书。★妈妈买了几本书？",
+     "options": [
+      {
+       "label": "A",
+       "text": "三本",
+       "pinyin": "sān běn"
+      },
+      {
+       "label": "B",
+       "text": "一本",
+       "pinyin": "yī běn"
+      },
+      {
+       "label": "C",
+       "text": "两本",
+       "pinyin": "liǎng běn"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "短文说“两本新书”，所以妈妈买了两本书，正确答案是“两本”。",
+     "id": "q3",
+     "type": "passage-mcq",
+     "pinyin": "mā mā mǎi le liǎng běn xīn shū 。★ mā mā mǎi le jǐ běn shū ？"
+    },
+    {
+     "prompt": "弟弟在纸上写了一个字。★他写了什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "笔",
+       "pinyin": "bǐ"
+      },
+      {
+       "label": "B",
+       "text": "字",
+       "pinyin": "zì"
+      },
+      {
+       "label": "C",
+       "text": "书",
+       "pinyin": "shū"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "短文说“写了一个字”，所以弟弟写了一个字，正确答案是“字”。",
+     "id": "q4",
+     "type": "passage-mcq",
+     "pinyin": "dì di zài zhǐ shàng xiě le yí gè zì 。★ tā xiě le shén me ？"
+    },
+    {
+     "prompt": "小明在读一本好看的书。★书怎么样？",
+     "options": [
+      {
+       "label": "A",
+       "text": "好看",
+       "pinyin": "hǎo kàn"
+      },
+      {
+       "label": "B",
+       "text": "大",
+       "pinyin": "dà"
+      },
+      {
+       "label": "C",
+       "text": "新",
+       "pinyin": "xīn"
+      }
+     ],
+     "correctAnswer": "A",
+     "explanation": "短文说“好看的书”，所以书很好看，正确答案是“好看”。",
+     "id": "q5",
+     "type": "passage-mcq",
+     "pinyin": "xiǎo míng zài dú yī běn hǎo kàn de shū 。★ shū zěn me yàng ？"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

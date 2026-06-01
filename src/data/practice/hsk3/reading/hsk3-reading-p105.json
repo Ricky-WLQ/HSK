@@ -1,0 +1,89 @@
+{
+ "id": "hsk3-reading-p105",
+ "level": "3",
+ "section": "reading",
+ "partKey": "reading-p1",
+ "title": "HSK3 Reading P1",
+ "titleZh": "阅读 第一部分（句子匹配）",
+ "groups": [
+  {
+   "instruction": "请为下面的每个问题选择匹配的句子。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "这本书的故事很有趣。",
+     "pinyin": "zhè běn shū de gù shì hěn yǒu qù 。"
+    },
+    {
+     "label": "B",
+     "text": "读书可以让我们变聪明。",
+     "pinyin": "dú shū kě yǐ ràng wǒ men biàn cōng míng 。"
+    },
+    {
+     "label": "C",
+     "text": "我常常用电脑写日记。",
+     "pinyin": "wǒ cháng cháng yòng diàn nǎo xiě rì jì 。"
+    },
+    {
+     "label": "D",
+     "text": "她喜欢在图书馆看书。",
+     "pinyin": "tā xǐ huān zài tú shū guǎn kàn shū 。"
+    },
+    {
+     "label": "E",
+     "text": "他每天看一本中文书。",
+     "pinyin": "tā měi tiān kàn yī běn zhōng wén shū 。"
+    },
+    {
+     "label": "F",
+     "text": "老师让我们写一篇文章。",
+     "pinyin": "lǎo shī ràng wǒ men xiě yì piān wén zhāng 。"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "老师让大家做什么？",
+     "correctAnswer": "F",
+     "explanation": "句子A说“老师让我们写一篇文章”，因此老师让大家做的事情就是写一篇文章。",
+     "id": "q1",
+     "type": "match",
+     "pinyin": "lǎo shī ràng dà jiā zuò shén me ？"
+    },
+    {
+     "prompt": "他每天看什么书？",
+     "correctAnswer": "E",
+     "explanation": "句子B说“他每天看一本中文书”，所以每天看的书是中文书。",
+     "id": "q2",
+     "type": "match",
+     "pinyin": "tā měi tiān kàn shén me shū ？"
+    },
+    {
+     "prompt": "这本书的故事怎么样？",
+     "correctAnswer": "A",
+     "explanation": "句子C说“这本书的故事很有趣”，所以故事是有趣的。",
+     "id": "q3",
+     "type": "match",
+     "pinyin": "zhè běn shū de gù shì zěn me yàng ？"
+    },
+    {
+     "prompt": "她喜欢在哪里看书？",
+     "correctAnswer": "D",
+     "explanation": "句子D说“她喜欢在图书馆看书”，因此她喜欢在图书馆看书。",
+     "id": "q4",
+     "type": "match",
+     "pinyin": "tā xǐ huān zài nǎ lǐ kàn shū ？"
+    },
+    {
+     "prompt": "“我”常常用什么写日记？",
+     "correctAnswer": "C",
+     "explanation": "句子E说“我常常用电脑写日记”，所以写日记用的是电脑。",
+     "id": "q5",
+     "type": "match",
+     "pinyin": "“ wǒ ” cháng cháng yòng shén me xiě rì jì ？"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

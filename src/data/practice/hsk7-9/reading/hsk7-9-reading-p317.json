@@ -1,0 +1,73 @@
+{
+ "id": "hsk7-9-reading-p317",
+ "level": "7-9",
+ "section": "reading",
+ "partKey": "reading-p3",
+ "title": "HSK7-9 Reading P3",
+ "titleZh": "阅读 第三部分（简答题）",
+ "groups": [
+  {
+   "instruction": "请阅读下面的说明文，然后根据文章内容回答5个问题。每个问题的答案应在10个字以内，可以直接从文中提取或稍作转述。",
+   "passage": "海洋环流是地球气候系统的重要调节器，其中表层洋流主要受风驱动，而深层环流则受海水密度差异控制。全球热盐环流，又称“传送带环流”，将温暖的表层海水从赤道输送到高纬度地区，在那里冷却下沉，形成深层冷水团，再沿洋底流向低纬度，最终上升完成循环。这一过程不仅重新分配热量，还输送营养物质与溶解氧。例如，北大西洋深层水的形成驱动了全球环流，其速度极慢，完成一次循环需数百年至千年。近年来，研究发现格陵兰冰盖融化导致淡水注入北大西洋，可能削弱热盐环流，进而影响欧洲和北美的气候，使冬季变冷。此外，海洋环流还通过调节二氧化碳吸收影响全球变暖。因此，理解海洋环流的变化对预测未来气候至关重要。",
+   "questions": [
+    {
+     "prompt": "驱动表层洋流的主要因素是什么？",
+     "correctAnswer": "风",
+     "acceptableAnswers": [
+      "风力",
+      "风的驱动"
+     ],
+     "explanation": "原文指出“表层洋流主要受风驱动”，因此主要因素是风。",
+     "id": "q1",
+     "type": "short-answer"
+    },
+    {
+     "prompt": "全球热盐环流又被称为什么？",
+     "correctAnswer": "传送带环流",
+     "acceptableAnswers": [
+      "传送带",
+      "热盐传送带"
+     ],
+     "explanation": "原文提到“全球热盐环流，又称‘传送带环流’”，所以答案为传送带环流。",
+     "id": "q2",
+     "type": "short-answer"
+    },
+    {
+     "prompt": "深层环流主要由什么控制？",
+     "correctAnswer": "海水密度差异",
+     "acceptableAnswers": [
+      "密度差异",
+      "密度差"
+     ],
+     "explanation": "原文说“深层环流则受海水密度差异控制”，因此答案是海水密度差异。",
+     "id": "q3",
+     "type": "short-answer"
+    },
+    {
+     "prompt": "北大西洋深层水的形成可能受到什么削弱？",
+     "correctAnswer": "格陵兰冰盖融化",
+     "acceptableAnswers": [
+      "冰盖融化",
+      "淡水注入"
+     ],
+     "explanation": "原文指出“格陵兰冰盖融化导致淡水注入北大西洋，可能削弱热盐环流”，因此答案是格陵兰冰盖融化。",
+     "id": "q4",
+     "type": "short-answer"
+    },
+    {
+     "prompt": "热盐环流完成一次循环大约需要多长时间？",
+     "correctAnswer": "数百年至千年",
+     "acceptableAnswers": [
+      "几百到一千年",
+      "数百至千年"
+     ],
+     "explanation": "原文明确“完成一次循环需数百年至千年”，因此答案为数百年至千年。",
+     "id": "q5",
+     "type": "short-answer"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

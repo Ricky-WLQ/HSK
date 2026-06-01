@@ -1,0 +1,118 @@
+{
+ "id": "hsk4-reading-p312",
+ "level": "4",
+ "section": "reading",
+ "partKey": "reading-p3",
+ "title": "HSK4 Reading P3",
+ "titleZh": "阅读 第二部分B（中篇理解）",
+ "groups": [
+  {
+   "instruction": "请阅读下面的短文，然后根据短文内容回答4个问题。每个问题有4个选项，请选择唯一正确的答案。",
+   "passage": "小王是一名中学生，他特别喜欢读小说，但每次写作文时都觉得很难。老师告诉他，写作不仅要读别人的作品，还要多观察生活。于是，小王开始注意身边的人和事，比如妈妈做饭的画面、同学之间的对话。他还坚持每天写日记，记录自己的真实感受。几个月后，他的作文果然有了很大进步，老师还在班上表扬了他。小王很高兴，他明白了读书和写作是互相帮助的。",
+   "questions": [
+    {
+     "prompt": "小王最初写作文时感觉怎么样？",
+     "options": [
+      {
+       "label": "A",
+       "text": "很无聊"
+      },
+      {
+       "label": "B",
+       "text": "很有趣"
+      },
+      {
+       "label": "C",
+       "text": "很难"
+      },
+      {
+       "label": "D",
+       "text": "很容易"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "短文中提到“每次写作文时都觉得很难”，因此小王最初觉得写作文很难。",
+     "id": "q1",
+     "type": "passage-mcq"
+    },
+    {
+     "prompt": "这篇短文主要想告诉我们什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "写日记是最重要的"
+      },
+      {
+       "label": "B",
+       "text": "读小说可以让人高兴"
+      },
+      {
+       "label": "C",
+       "text": "多观察生活能帮助写作"
+      },
+      {
+       "label": "D",
+       "text": "老师表扬了小王"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "短文通过小王的经历，重点说明了老师的话“写作不仅要读别人的作品，还要多观察生活”，以及最后“读书和写作是互相帮助的”，因此主要告诉我们多观察生活能帮助写作。",
+     "id": "q2",
+     "type": "passage-mcq"
+    },
+    {
+     "prompt": "小王坚持写日记后，作文进步了，这说明什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "老师不再教他写作了"
+      },
+      {
+       "label": "B",
+       "text": "写日记比读小说更重要"
+      },
+      {
+       "label": "C",
+       "text": "记录真实感受对写作有帮助"
+      },
+      {
+       "label": "D",
+       "text": "小王不再读小说了"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "短文中说“坚持每天写日记，记录自己的真实感受”，之后作文进步，说明记录真实感受对写作有帮助。",
+     "id": "q3",
+     "type": "passage-mcq"
+    },
+    {
+     "prompt": "老师表扬小王的原因是什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "他每天都写日记"
+      },
+      {
+       "label": "B",
+       "text": "他读了很多小说"
+      },
+      {
+       "label": "C",
+       "text": "他的作文进步很大"
+      },
+      {
+       "label": "D",
+       "text": "他观察了妈妈做饭"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "短文中明确写道“他的作文果然有了很大进步，老师还在班上表扬了他”，所以老师表扬他是因为作文进步大。",
+     "id": "q4",
+     "type": "passage-mcq"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

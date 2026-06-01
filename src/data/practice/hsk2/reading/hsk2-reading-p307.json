@@ -1,0 +1,89 @@
+{
+ "id": "hsk2-reading-p307",
+ "level": "2",
+ "section": "reading",
+ "partKey": "reading-p3",
+ "title": "HSK2 Reading P3",
+ "titleZh": "阅读 第三部分（句子匹配）",
+ "groups": [
+  {
+   "instruction": "请从A-F中选择合适的句子，与左边的句子组成对话。每个句子只能用一次。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "今天天气真热啊！",
+     "pinyin": "jīn tiān tiān qì zhēn rè a ！"
+    },
+    {
+     "label": "B",
+     "text": "明天天气很好。",
+     "pinyin": "míng tiān tiān qì hěn hǎo 。"
+    },
+    {
+     "label": "C",
+     "text": "零下十度，很冷。",
+     "pinyin": "líng xià shí dù ， hěn lěng 。"
+    },
+    {
+     "label": "D",
+     "text": "我也喜欢，秋天很舒服。",
+     "pinyin": "wǒ yě xǐ huān ， qiū tiān hěn shū fú 。"
+    },
+    {
+     "label": "E",
+     "text": "我喜欢冬天，可以玩雪。",
+     "pinyin": "wǒ xǐ huān dōng tiān ， kě yǐ wán xuě 。"
+    },
+    {
+     "label": "F",
+     "text": "好，那我们去看电影吧。",
+     "pinyin": "hǎo ， nà wǒ men qù kàn diàn yǐng ba 。"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "明天天气怎么样？",
+     "correctAnswer": "B",
+     "explanation": "问句询问明天的天气情况，回答直接说明天气很好，符合对话逻辑。",
+     "id": "q1",
+     "type": "match",
+     "pinyin": "míng tiān tiān qì zěn me yàng ？"
+    },
+    {
+     "prompt": "这里冬天冷吗？",
+     "correctAnswer": "C",
+     "explanation": "问句询问冬天的寒冷程度，回答给出具体温度并肯定冷，回答了问题。",
+     "id": "q2",
+     "type": "match",
+     "pinyin": "zhè lǐ dōng tiān lěng ma ？"
+    },
+    {
+     "prompt": "我喜欢秋天。",
+     "correctAnswer": "D",
+     "explanation": "陈述句表达对秋天的喜爱，回答表示同样喜欢并补充了理由（秋天很舒服），形成自然对话。",
+     "id": "q3",
+     "type": "match",
+     "pinyin": "wǒ xǐ huān qiū tiān 。"
+    },
+    {
+     "prompt": "下午要下雨，我们做什么？",
+     "correctAnswer": "F",
+     "explanation": "提出下雨时该做什么，回答建议看电影，是合理的室内活动，符合对话语境。",
+     "id": "q4",
+     "type": "match",
+     "pinyin": "xià wǔ yào xià yǔ ， wǒ men zuò shén me ？"
+    },
+    {
+     "prompt": "你最喜欢哪个季节？",
+     "correctAnswer": "E",
+     "explanation": "问句询问最喜欢的季节，回答明确说出冬天并给出玩雪的原因，直接对应。",
+     "id": "q5",
+     "type": "match",
+     "pinyin": "nǐ zuì xǐ huān nǎ ge jì jié ？"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

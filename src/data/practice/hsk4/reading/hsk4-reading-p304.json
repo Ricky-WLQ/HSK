@@ -1,0 +1,118 @@
+{
+ "id": "hsk4-reading-p304",
+ "level": "4",
+ "section": "reading",
+ "partKey": "reading-p3",
+ "title": "HSK4 Reading P3",
+ "titleZh": "阅读 第二部分B（中篇理解）",
+ "groups": [
+  {
+   "instruction": "请阅读下面的短文，然后根据短文内容回答每个问题。每题只有一个正确答案。",
+   "passage": "一位名叫李明的建筑师最近完成了一座社区图书馆的设计。这座图书馆最大的特点是环保。屋顶安装了太阳能板，可以为图书馆提供部分电力。墙角有雨水收集系统，收集的雨水用来浇灌周围的花草。图书馆内部没有固定的墙壁，而是用可移动的书架来划分空间。这样，人们可以根据需要调整区域大小。李明说，他希望这个图书馆不仅能提供阅读的场所，还能成为社区居民交流思想的空间。图书馆开放后，很多人喜欢在这里一边看书一边聊天，感觉很轻松。",
+   "questions": [
+    {
+     "prompt": "这座图书馆的电力来源是什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "太阳能"
+      },
+      {
+       "label": "B",
+       "text": "传统电力"
+      },
+      {
+       "label": "C",
+       "text": "雨水发电"
+      },
+      {
+       "label": "D",
+       "text": "风力发电"
+      }
+     ],
+     "correctAnswer": "A",
+     "explanation": "短文中提到“屋顶安装了太阳能板，可以为图书馆提供部分电力”，所以电力来源于太阳能。",
+     "id": "q1",
+     "type": "passage-mcq"
+    },
+    {
+     "prompt": "图书馆内部的空间是如何划分的？",
+     "options": [
+      {
+       "label": "A",
+       "text": "用窗帘"
+      },
+      {
+       "label": "B",
+       "text": "用玻璃门"
+      },
+      {
+       "label": "C",
+       "text": "用固定的墙壁"
+      },
+      {
+       "label": "D",
+       "text": "用可移动的书架"
+      }
+     ],
+     "correctAnswer": "D",
+     "explanation": "短文说“图书馆内部没有固定的墙壁，而是用可移动的书架来划分空间”，所以答案是可移动的书架。",
+     "id": "q2",
+     "type": "passage-mcq"
+    },
+    {
+     "prompt": "李明设计这座图书馆的主要目的是什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "创造环保的阅读空间"
+      },
+      {
+       "label": "B",
+       "text": "让大家多买书"
+      },
+      {
+       "label": "C",
+       "text": "减少社区的噪音"
+      },
+      {
+       "label": "D",
+       "text": "展示自己的建筑技术"
+      }
+     ],
+     "correctAnswer": "A",
+     "explanation": "从短文可知，图书馆注重环保，并且李明希望“不仅能提供阅读的场所，还能成为社区居民交流思想的空间”，所以主要目的是创造环保的阅读和交流空间。",
+     "id": "q3",
+     "type": "passage-mcq"
+    },
+    {
+     "prompt": "根据短文，人们对这座图书馆的感觉怎么样？",
+     "options": [
+      {
+       "label": "A",
+       "text": "觉得空间太小"
+      },
+      {
+       "label": "B",
+       "text": "觉得太安静"
+      },
+      {
+       "label": "C",
+       "text": "觉得轻松愉快"
+      },
+      {
+       "label": "D",
+       "text": "觉得不方便"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "短文最后说“很多人喜欢在这里一边看书一边聊天，感觉很轻松”，所以人们感觉轻松愉快。",
+     "id": "q4",
+     "type": "passage-mcq"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

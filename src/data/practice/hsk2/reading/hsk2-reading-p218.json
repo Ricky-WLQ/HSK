@@ -1,0 +1,89 @@
+{
+ "id": "hsk2-reading-p218",
+ "level": "2",
+ "section": "reading",
+ "partKey": "reading-p2",
+ "title": "HSK2 Reading P2",
+ "titleZh": "阅读 第二部分（选词填空）",
+ "groups": [
+  {
+   "instruction": "请从A-F中选择最恰当的词语填空。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "生气",
+     "pinyin": "shēng qì"
+    },
+    {
+     "label": "B",
+     "text": "担心",
+     "pinyin": "dān xīn"
+    },
+    {
+     "label": "C",
+     "text": "紧张",
+     "pinyin": "jǐn zhāng"
+    },
+    {
+     "label": "D",
+     "text": "难过",
+     "pinyin": "nán guò"
+    },
+    {
+     "label": "E",
+     "text": "害怕",
+     "pinyin": "hài pà"
+    },
+    {
+     "label": "F",
+     "text": "高兴",
+     "pinyin": "gāo xìng"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "他明天要参加一个比赛，现在非常（ ），连饭都吃不下。",
+     "correctAnswer": "C",
+     "explanation": "「紧张」指对即将发生的事情感到不安，符合比赛前的情绪；「高兴」「难过」「生气」「害怕」「担心」均不符合此语境。",
+     "id": "q1",
+     "type": "cloze-wordbank",
+     "pinyin": "tā míng tiān yào cān jiā yí gè bǐ sài ， xiàn zài fēi cháng （ ）， lián fàn dōu chī bù xià 。"
+    },
+    {
+     "prompt": "妈妈送给她一只小猫，她（ ）极了。",
+     "correctAnswer": "F",
+     "explanation": "「高兴」表示开心、快乐，收到礼物时的心情；其他词如「难过」「生气」「害怕」「紧张」「担心」都不合适。",
+     "id": "q2",
+     "type": "cloze-wordbank",
+     "pinyin": "mā mā sòng gěi tā yī zhī xiǎo māo ， tā （ ） jí le 。"
+    },
+    {
+     "prompt": "小明没有做完作业就去看电视，爸爸很（ ）。",
+     "correctAnswer": "A",
+     "explanation": "「生气」表示因不满而愤怒，对小明的行为感到愤怒；其他词如「高兴」「难过」「害怕」「紧张」「担心」均不符合。",
+     "id": "q3",
+     "type": "cloze-wordbank",
+     "pinyin": "xiǎo míng méi yǒu zuò wán zuò yè jiù qù kàn diàn shì ， bà bà hěn （ ）。"
+    },
+    {
+     "prompt": "晚上一个人走路回家，她很（ ），走得很快。",
+     "correctAnswer": "E",
+     "explanation": "「害怕」表示恐惧，晚上独行感到不安；「担心」通常指对某事忧虑，此处强调恐惧情绪，故「害怕」最准确。",
+     "id": "q4",
+     "type": "cloze-wordbank",
+     "pinyin": "wǎn shàng yí gè rén zǒu lù huí jiā ， tā hěn （ ）， zǒu dé hěn kuài 。"
+    },
+    {
+     "prompt": "奶奶生病住院了，他一直很（ ）奶奶的身体。",
+     "correctAnswer": "B",
+     "explanation": "「担心」表示对人或事不放心、忧虑，符合对生病奶奶的牵挂；其他词如「高兴」「难过」「生气」「害怕」「紧张」都不恰当。",
+     "id": "q5",
+     "type": "cloze-wordbank",
+     "pinyin": "nǎi nǎi shēng bìng zhù yuàn le ， tā yì zhí hěn （ ） nǎi nǎi de shēn tǐ 。"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

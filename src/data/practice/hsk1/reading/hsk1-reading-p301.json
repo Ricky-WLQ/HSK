@@ -7,79 +7,79 @@
  "titleZh": "阅读 第三部分（选词填空）",
  "groups": [
   {
-   "instruction": "请从A-F中选择合适的词语填入句子（ ）中。",
+   "instruction": "请从所给的词语中选择正确的填入括号中。",
    "sharedBank": [
     {
      "label": "A",
-     "text": "我",
-     "pinyin": "wǒ"
+     "text": "买",
+     "pinyin": "mǎi"
     },
     {
      "label": "B",
-     "text": "你",
-     "pinyin": "nǐ"
+     "text": "看",
+     "pinyin": "kàn"
     },
     {
      "label": "C",
-     "text": "好",
-     "pinyin": "hǎo"
+     "text": "吃",
+     "pinyin": "chī"
     },
     {
      "label": "D",
-     "text": "是",
-     "pinyin": "shì"
+     "text": "有",
+     "pinyin": "yǒu"
     },
     {
      "label": "E",
-     "text": "不",
-     "pinyin": "bù"
+     "text": "做",
+     "pinyin": "zuò"
     },
     {
      "label": "F",
-     "text": "水",
-     "pinyin": "shuǐ"
+     "text": "喝",
+     "pinyin": "hē"
     }
    ],
    "questions": [
     {
-     "prompt": "我（ ）学生。",
-     "correctAnswer": "D",
-     "explanation": "“是”表示判断，意思是“我是学生”。",
+     "prompt": "一月一日我们（ ）鱼。",
+     "correctAnswer": "C",
+     "explanation": "一月一日是新年，吃鱼有年年有余的意思，所以这里应填“吃”。",
      "id": "q1",
      "type": "cloze-wordbank",
-     "pinyin": "wǒ （ ） xué shēng 。"
+     "pinyin": "yí yuè yī rì wǒ men （ ） yú 。"
     },
     {
-     "prompt": "你（ ）吗？",
-     "correctAnswer": "C",
-     "explanation": "“你好吗？”是问候语，“好”表示状态。",
+     "prompt": "五月五日妈妈（ ）包子。",
+     "correctAnswer": "E",
+     "explanation": "端午节有做包子的习俗，妈妈做包子，所以这里应填“做”。",
      "id": "q2",
      "type": "cloze-wordbank",
-     "pinyin": "nǐ （ ） ma ？"
+     "pinyin": "wǔ yuè wǔ rì mā mā （ ） bāo zi 。"
     },
     {
-     "prompt": "他（ ）去。",
-     "correctAnswer": "E",
-     "explanation": "“不去”表示否定，“不”是否定副词。",
+     "prompt": "八月十五爸爸（ ）电视。",
+     "correctAnswer": "B",
+     "explanation": "中秋节晚上，爸爸在家看电视，所以这里应填“看”。",
      "id": "q3",
      "type": "cloze-wordbank",
-     "pinyin": "tā （ ） qù 。"
+     "pinyin": "bā yuè shí wǔ bà bà （ ） diàn shì 。"
     },
     {
-     "prompt": "（ ）喝水。",
-     "correctAnswer": "A",
-     "explanation": "“我喝水”表示主语“我”进行动作。",
+     "prompt": "九月九日我们（ ）牛奶。",
+     "correctAnswer": "F",
+     "explanation": "重阳节，我们喝牛奶作为饮品，所以这里应填“喝”。",
      "id": "q4",
      "type": "cloze-wordbank",
-     "pinyin": "（ ） hē shuǐ 。"
+     "pinyin": "jiǔ yuè jiǔ rì wǒ men （ ） niú nǎi 。"
     },
     {
-     "prompt": "（ ）是老师。",
-     "correctAnswer": "B",
-     "explanation": "“你是老师”中“你”是第二人称代词。",
+     "prompt": "七月七日孩子（ ）红苹果。",
+     "correctAnswer": "D",
+     "explanation": "七夕节，孩子有一个红苹果，表示拥有，所以这里应填“有”。",
      "id": "q5",
      "type": "cloze-wordbank",
-     "pinyin": "（ ） shì lǎo shī 。"
+     "pinyin": "qī yuè qī rì hái zi （ ） hóng píng guǒ 。"
     }
    ],
    "id": "g1"

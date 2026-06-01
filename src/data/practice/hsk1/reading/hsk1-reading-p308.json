@@ -1,0 +1,89 @@
+{
+ "id": "hsk1-reading-p308",
+ "level": "1",
+ "section": "reading",
+ "partKey": "reading-p3",
+ "title": "HSK1 Reading P3",
+ "titleZh": "阅读 第三部分（选词填空）",
+ "groups": [
+  {
+   "instruction": "请从下面的词语中选择正确的一个填入句子的空白处。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "好看",
+     "pinyin": "hǎo kàn"
+    },
+    {
+     "label": "B",
+     "text": "大",
+     "pinyin": "dà"
+    },
+    {
+     "label": "C",
+     "text": "钱",
+     "pinyin": "qián"
+    },
+    {
+     "label": "D",
+     "text": "贵",
+     "pinyin": "guì"
+    },
+    {
+     "label": "E",
+     "text": "便宜",
+     "pinyin": "pián yi"
+    },
+    {
+     "label": "F",
+     "text": "小",
+     "pinyin": "xiǎo"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "这件衣服很（ ），我很喜欢。",
+     "correctAnswer": "A",
+     "explanation": "句子表达对衣服的正面评价，'好看'符合语义，其他词如'贵''便宜'等不能直接说明喜欢的原因。",
+     "id": "q1",
+     "type": "cloze-wordbank",
+     "pinyin": "zhè jiàn yī fú hěn （ ）， wǒ hěn xǐ huān 。"
+    },
+    {
+     "prompt": "那件衣服太（ ）了，我不买。",
+     "correctAnswer": "D",
+     "explanation": "因为太贵而不买，符合日常生活逻辑，其他选项如'便宜'不会导致不买。",
+     "id": "q2",
+     "type": "cloze-wordbank",
+     "pinyin": "nà jiàn yī fú tài （ ） le ， wǒ bù mǎi 。"
+    },
+    {
+     "prompt": "这个商店的东西很（ ）。",
+     "correctAnswer": "E",
+     "explanation": "形容东西价格不高，'便宜'是唯一表示价格低的词。",
+     "id": "q3",
+     "type": "cloze-wordbank",
+     "pinyin": "zhè ge shāng diàn de dōng xī hěn （ ）。"
+    },
+    {
+     "prompt": "我要（ ）的，不要小的。",
+     "correctAnswer": "B",
+     "explanation": "与'小的'对比，明确表示要大的，'大'是唯一合适的词。",
+     "id": "q4",
+     "type": "cloze-wordbank",
+     "pinyin": "wǒ yào （ ） de ， bú yào xiǎo de 。"
+    },
+    {
+     "prompt": "这件衣服太（ ）了，我穿不了。",
+     "correctAnswer": "F",
+     "explanation": "穿不了通常因为太小，'小'符合句意，其他选项如'大'则可能穿不了但常会说'太大'，此处用'太小'更自然。",
+     "id": "q5",
+     "type": "cloze-wordbank",
+     "pinyin": "zhè jiàn yī fú tài （ ） le ， wǒ chuān bù liǎo 。"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

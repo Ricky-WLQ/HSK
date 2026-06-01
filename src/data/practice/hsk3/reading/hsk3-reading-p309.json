@@ -1,0 +1,118 @@
+{
+ "id": "hsk3-reading-p309",
+ "level": "3",
+ "section": "reading",
+ "partKey": "reading-p3",
+ "title": "HSK3 Reading P3",
+ "titleZh": "阅读 第三部分（短文理解）",
+ "groups": [
+  {
+   "instruction": "请阅读下面的短文，然后根据短文内容选择正确答案。",
+   "passage": "小王以前在城市工作，每天都很忙。去年他搬到乡村，开始种菜养鸡。乡村没有高楼，但空气很好。他觉得乡村生活比城市舒服，因为可以慢慢做事情。不过，他有时候也想念城市的朋友。",
+   "questions": [
+    {
+     "prompt": "小王现在住在哪里？",
+     "options": [
+      {
+       "label": "A",
+       "text": "大城市",
+       "pinyin": "dà chéng shì"
+      },
+      {
+       "label": "B",
+       "text": "国外",
+       "pinyin": "guó wài"
+      },
+      {
+       "label": "C",
+       "text": "乡村",
+       "pinyin": "xiāng cūn"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "短文中说“他搬到乡村”，所以他现在住在乡村。",
+     "id": "q1",
+     "type": "passage-mcq",
+     "pinyin": "xiǎo wáng xiàn zài zhù zài nǎ lǐ ？"
+    },
+    {
+     "prompt": "乡村的什么很好？",
+     "options": [
+      {
+       "label": "A",
+       "text": "朋友",
+       "pinyin": "péng yǒu"
+      },
+      {
+       "label": "B",
+       "text": "高楼",
+       "pinyin": "gāo lóu"
+      },
+      {
+       "label": "C",
+       "text": "空气",
+       "pinyin": "kōng qì"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "短文中提到“但空气很好”，所以空气很好。",
+     "id": "q2",
+     "type": "passage-mcq",
+     "pinyin": "xiāng cūn de shén me hěn hǎo ？"
+    },
+    {
+     "prompt": "小王为什么觉得乡村生活舒服？",
+     "options": [
+      {
+       "label": "A",
+       "text": "因为没有朋友",
+       "pinyin": "yīn wèi méi yǒu péng yǒu"
+      },
+      {
+       "label": "B",
+       "text": "因为可以种菜养鸡",
+       "pinyin": "yīn wèi kě yǐ zhòng cài yǎng jī"
+      },
+      {
+       "label": "C",
+       "text": "因为可以慢慢做事情",
+       "pinyin": "yīn wèi kě yǐ màn màn zuò shì qíng"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "短文中说“因为可以慢慢做事情”，这是他觉得舒服的原因。",
+     "id": "q3",
+     "type": "passage-mcq",
+     "pinyin": "xiǎo wáng wèi shén me jué de xiāng cūn shēng huó shū fú ？"
+    },
+    {
+     "prompt": "小王有时候会想什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "城市的朋友",
+       "pinyin": "chéng shì de péng yǒu"
+      },
+      {
+       "label": "B",
+       "text": "城市的空气",
+       "pinyin": "chéng shì de kōng qì"
+      },
+      {
+       "label": "C",
+       "text": "城市的高楼",
+       "pinyin": "chéng shì de gāo lóu"
+      }
+     ],
+     "correctAnswer": "A",
+     "explanation": "短文中说“有时候也想念城市的朋友”，所以他想念朋友。",
+     "id": "q4",
+     "type": "passage-mcq",
+     "pinyin": "xiǎo wáng yǒu shí hòu huì xiǎng shén me ？"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

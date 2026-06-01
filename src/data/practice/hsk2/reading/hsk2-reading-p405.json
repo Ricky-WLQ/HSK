@@ -1,0 +1,142 @@
+{
+ "id": "hsk2-reading-p405",
+ "level": "2",
+ "section": "reading",
+ "partKey": "reading-p4",
+ "title": "HSK2 Reading P4",
+ "titleZh": "阅读 第四部分（短文理解）",
+ "groups": [
+  {
+   "instruction": "请阅读下面的短文，然后回答问题。每题只有一个正确答案。",
+   "questions": [
+    {
+     "prompt": "小明每天七点去教室看书。★他每天做什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "睡觉",
+       "pinyin": "shuì jiào"
+      },
+      {
+       "label": "B",
+       "text": "看书",
+       "pinyin": "kàn shū"
+      },
+      {
+       "label": "C",
+       "text": "打球",
+       "pinyin": "dǎ qiú"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "短文中说小明每天七点去教室看书，所以正确答案是看书。",
+     "id": "q1",
+     "type": "passage-mcq",
+     "pinyin": "xiǎo míng měi tiān qī diǎn qù jiào shì kàn shū 。★ tā měi tiān zuò shén me ？"
+    },
+    {
+     "prompt": "小红在图书馆借了一本汉语书。★她借了什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "汉语书",
+       "pinyin": "hàn yǔ shū"
+      },
+      {
+       "label": "B",
+       "text": "故事书",
+       "pinyin": "gù shì shū"
+      },
+      {
+       "label": "C",
+       "text": "英语书",
+       "pinyin": "yīng yǔ shū"
+      }
+     ],
+     "correctAnswer": "A",
+     "explanation": "短文中明确说小红借了一本汉语书，所以正确答案是汉语书。",
+     "id": "q2",
+     "type": "passage-mcq",
+     "pinyin": "xiǎo hóng zài tú shū guǎn jiè le yī běn hàn yǔ shū 。★ tā jiè le shén me ？"
+    },
+    {
+     "prompt": "老师让学生写作业。★老师让学生做什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "看书",
+       "pinyin": "kàn shū"
+      },
+      {
+       "label": "B",
+       "text": "写作业",
+       "pinyin": "xiě zuò yè"
+      },
+      {
+       "label": "C",
+       "text": "吃饭",
+       "pinyin": "chī fàn"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "短文中说老师让学生写作业，所以正确答案是写作业。",
+     "id": "q3",
+     "type": "passage-mcq",
+     "pinyin": "lǎo shī ràng xué shēng xiě zuò yè 。★ lǎo shī ràng xué shēng zuò shén me ？"
+    },
+    {
+     "prompt": "小刚考试得了九十分，他很高兴。★小刚为什么高兴？",
+     "options": [
+      {
+       "label": "A",
+       "text": "因为得了九十分",
+       "pinyin": "yīn wèi dé le jiǔ shí fēn"
+      },
+      {
+       "label": "B",
+       "text": "因为回家",
+       "pinyin": "yīn wèi huí jiā"
+      },
+      {
+       "label": "C",
+       "text": "因为考试",
+       "pinyin": "yīn wèi kǎo shì"
+      }
+     ],
+     "correctAnswer": "A",
+     "explanation": "短文中说小刚考试得了九十分，他很高兴，所以高兴的原因是得了九十分。",
+     "id": "q4",
+     "type": "passage-mcq",
+     "pinyin": "xiǎo gāng kǎo shì dé le jiǔ shí fēn ， tā hěn gāo xìng 。★ xiǎo gāng wèi shén me gāo xìng ？"
+    },
+    {
+     "prompt": "王丽在教室听老师讲课。★王丽在做什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "写汉字",
+       "pinyin": "xiě hàn zì"
+      },
+      {
+       "label": "B",
+       "text": "听老师讲课",
+       "pinyin": "tīng lǎo shī jiǎng kè"
+      },
+      {
+       "label": "C",
+       "text": "看老师",
+       "pinyin": "kàn lǎo shī"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "短文中明确说王丽在教室听老师讲课，所以正确答案是听老师讲课。",
+     "id": "q5",
+     "type": "passage-mcq",
+     "pinyin": "wáng lì zài jiào shì tīng lǎo shī jiǎng kè 。★ wáng lì zài zuò shén me ？"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

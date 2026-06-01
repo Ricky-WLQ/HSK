@@ -1,0 +1,89 @@
+{
+ "id": "hsk1-reading-p302",
+ "level": "1",
+ "section": "reading",
+ "partKey": "reading-p3",
+ "title": "HSK1 Reading P3",
+ "titleZh": "阅读 第三部分（选词填空）",
+ "groups": [
+  {
+   "instruction": "请从下面的词语中选择合适的填入句子的空白处。每个词语只能用一次，有一个多余。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "欢迎",
+     "pinyin": "huān yíng"
+    },
+    {
+     "label": "B",
+     "text": "朋友",
+     "pinyin": "péng yǒu"
+    },
+    {
+     "label": "C",
+     "text": "认识",
+     "pinyin": "rèn shí"
+    },
+    {
+     "label": "D",
+     "text": "一起",
+     "pinyin": "yì qǐ"
+    },
+    {
+     "label": "E",
+     "text": "再见",
+     "pinyin": "zài jiàn"
+    },
+    {
+     "label": "F",
+     "text": "高兴",
+     "pinyin": "gāo xìng"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "我（ ）你很高兴。",
+     "correctAnswer": "C",
+     "explanation": "句子意思是‘认识你很高兴’，所以空白处应填‘认识’",
+     "id": "q1",
+     "type": "cloze-wordbank",
+     "pinyin": "wǒ （ ） nǐ hěn gāo xìng 。"
+    },
+    {
+     "prompt": "我们（ ）去玩。",
+     "correctAnswer": "D",
+     "explanation": "句子意思是‘我们一起去玩’，所以空白处应填‘一起’",
+     "id": "q2",
+     "type": "cloze-wordbank",
+     "pinyin": "wǒ men （ ） qù wán 。"
+    },
+    {
+     "prompt": "他是我的好（ ）。",
+     "correctAnswer": "B",
+     "explanation": "句子意思是‘他是我的好朋友’，所以空白处应填‘朋友’",
+     "id": "q3",
+     "type": "cloze-wordbank",
+     "pinyin": "tā shì wǒ de hǎo （ ）。"
+    },
+    {
+     "prompt": "你来我家，我很（ ）。",
+     "correctAnswer": "F",
+     "explanation": "句子意思是‘你来我家，我很高兴’，所以空白处应填‘高兴’",
+     "id": "q4",
+     "type": "cloze-wordbank",
+     "pinyin": "nǐ lái wǒ jiā ， wǒ hěn （ ）。"
+    },
+    {
+     "prompt": "我（ ）你来我家。",
+     "correctAnswer": "A",
+     "explanation": "句子意思是‘我欢迎你来我家’，所以空白处应填‘欢迎’",
+     "id": "q5",
+     "type": "cloze-wordbank",
+     "pinyin": "wǒ （ ） nǐ lái wǒ jiā 。"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

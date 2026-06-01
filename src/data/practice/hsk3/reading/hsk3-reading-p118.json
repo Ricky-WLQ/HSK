@@ -1,0 +1,89 @@
+{
+ "id": "hsk3-reading-p118",
+ "level": "3",
+ "section": "reading",
+ "partKey": "reading-p1",
+ "title": "HSK3 Reading P1",
+ "titleZh": "阅读 第一部分（句子匹配）",
+ "groups": [
+  {
+   "instruction": "请从下面六个句子中找出与问题内容相匹配的句子。每个问题只有一个正确选项。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "张姐下个月要升职当主管了。",
+     "pinyin": "zhāng jiě xià gè yuè yào shēng zhí dāng zhǔ guǎn le 。"
+    },
+    {
+     "label": "B",
+     "text": "李经理今天面试了三个新人。",
+     "pinyin": "lǐ jīng lǐ jīn tiān miàn shì le sān gè xīn rén 。"
+    },
+    {
+     "label": "C",
+     "text": "老板说这个季度业绩很好。",
+     "pinyin": "lǎo bǎn shuō zhè ge jì dù yè jì hěn hǎo 。"
+    },
+    {
+     "label": "D",
+     "text": "公司下周五举办年会活动。",
+     "pinyin": "gōng sī xià zhōu wǔ jǔ bàn nián huì huó dòng 。"
+    },
+    {
+     "label": "E",
+     "text": "新来的同事非常喜欢帮助别人。",
+     "pinyin": "xīn lái de tóng shì fēi cháng xǐ huān bāng zhù bié rén 。"
+    },
+    {
+     "label": "F",
+     "text": "小王每天加班到晚上九点。",
+     "pinyin": "xiǎo wáng měi tiān jiā bān dào wǎn shàng jiǔ diǎn 。"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "谁要升职了？",
+     "correctAnswer": "A",
+     "explanation": "问题问的是谁要升职，选项中只有“张姐下个月要升职当主管了”提到了升职，所以正确。",
+     "id": "q1",
+     "type": "match",
+     "pinyin": "shuí yào shēng zhí le ？"
+    },
+    {
+     "prompt": "谁每天工作到很晚？",
+     "correctAnswer": "F",
+     "explanation": "问题问的是谁工作到很晚，选项中“小王每天加班到晚上九点”说明小王工作到很晚，因此正确。",
+     "id": "q2",
+     "type": "match",
+     "pinyin": "shuí měi tiān gōng zuò dào hěn wǎn ？"
+    },
+    {
+     "prompt": "公司最近有什么好成绩？",
+     "correctAnswer": "C",
+     "explanation": "问题问公司的好成绩，选项中“老板说这个季度业绩很好”直接提到了业绩好，是公司成绩，所以正确。",
+     "id": "q3",
+     "type": "match",
+     "pinyin": "gōng sī zuì jìn yǒu shén me hǎo chéng jì ？"
+    },
+    {
+     "prompt": "新同事有什么特点？",
+     "correctAnswer": "E",
+     "explanation": "问题问新同事的特点，选项中“新来的同事非常喜欢帮助别人”描述了新同事的性格特点，因此正确。",
+     "id": "q4",
+     "type": "match",
+     "pinyin": "xīn tóng shì yǒu shén me tè diǎn ？"
+    },
+    {
+     "prompt": "李经理今天做了什么？",
+     "correctAnswer": "B",
+     "explanation": "问题问李经理今天做的事，选项中“李经理今天面试了三个新人”直接说明了李经理今天的工作内容，所以正确。",
+     "id": "q5",
+     "type": "match",
+     "pinyin": "lǐ jīng lǐ jīn tiān zuò le shén me ？"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

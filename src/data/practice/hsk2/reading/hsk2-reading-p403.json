@@ -1,0 +1,142 @@
+{
+ "id": "hsk2-reading-p403",
+ "level": "2",
+ "section": "reading",
+ "partKey": "reading-p4",
+ "title": "HSK2 Reading P4",
+ "titleZh": "阅读 第四部分（短文理解）",
+ "groups": [
+  {
+   "instruction": "阅读短文，选择正确答案。",
+   "questions": [
+    {
+     "prompt": "小王会弹钢琴，他每天练习一小时。★他喜欢做什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "跑步",
+       "pinyin": "pǎo bù"
+      },
+      {
+       "label": "B",
+       "text": "画画",
+       "pinyin": "huà huà"
+      },
+      {
+       "label": "C",
+       "text": "弹钢琴",
+       "pinyin": "tán gāng qín"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "短文说小王会弹钢琴，每天练习，所以他喜欢弹钢琴。",
+     "id": "q1",
+     "type": "passage-mcq",
+     "pinyin": "xiǎo wáng huì tán gāng qín ， tā měi tiān liàn xí yī xiǎo shí 。★ tā xǐ huān zuò shén me ？"
+    },
+    {
+     "prompt": "姐姐在学跳舞，她下个月参加比赛。★她什么时候比赛？",
+     "options": [
+      {
+       "label": "A",
+       "text": "明年",
+       "pinyin": "míng nián"
+      },
+      {
+       "label": "B",
+       "text": "今天",
+       "pinyin": "jīn tiān"
+      },
+      {
+       "label": "C",
+       "text": "下个月",
+       "pinyin": "xià gè yuè"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "短文说姐姐下个月参加比赛，所以比赛时间是下个月。",
+     "id": "q2",
+     "type": "passage-mcq",
+     "pinyin": "jiě jiě zài xué tiào wǔ ， tā xià gè yuè cān jiā bǐ sài 。★ tā shén me shí hòu bǐ sài ？"
+    },
+    {
+     "prompt": "小明在画一幅画，他用了红色和蓝色。★他用了什么颜色？",
+     "options": [
+      {
+       "label": "A",
+       "text": "红色和蓝色",
+       "pinyin": "hóng sè hé lán sè"
+      },
+      {
+       "label": "B",
+       "text": "蓝色和绿色",
+       "pinyin": "lán sè hé lǜ sè"
+      },
+      {
+       "label": "C",
+       "text": "红色和黄色",
+       "pinyin": "hóng sè hé huáng sè"
+      }
+     ],
+     "correctAnswer": "A",
+     "explanation": "短文说小明用了红色和蓝色，所以答案是红色和蓝色。",
+     "id": "q3",
+     "type": "passage-mcq",
+     "pinyin": "xiǎo míng zài huà yī fú huà ， tā yòng le hóng sè hé lán sè 。★ tā yòng le shén me yán sè ？"
+    },
+    {
+     "prompt": "妹妹喜欢唱歌，她唱得很好。★妹妹怎么样？",
+     "options": [
+      {
+       "label": "A",
+       "text": "跳舞很好",
+       "pinyin": "tiào wǔ hěn hǎo"
+      },
+      {
+       "label": "B",
+       "text": "唱歌很好",
+       "pinyin": "chàng gē hěn hǎo"
+      },
+      {
+       "label": "C",
+       "text": "画画很好",
+       "pinyin": "huà huà hěn hǎo"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "短文说妹妹喜欢唱歌而且唱得很好，所以妹妹唱歌很好。",
+     "id": "q4",
+     "type": "passage-mcq",
+     "pinyin": "mèi mèi xǐ huān chàng gē ， tā chàng dé hěn hǎo 。★ mèi mèi zěn me yàng ？"
+    },
+    {
+     "prompt": "哥哥在学写汉字，他每天写一张。★哥哥在学什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "唱歌",
+       "pinyin": "chàng gē"
+      },
+      {
+       "label": "B",
+       "text": "写汉字",
+       "pinyin": "xiě hàn zì"
+      },
+      {
+       "label": "C",
+       "text": "画画",
+       "pinyin": "huà huà"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "短文说哥哥在学写汉字，所以他在学写汉字。",
+     "id": "q5",
+     "type": "passage-mcq",
+     "pinyin": "gē gē zài xué xiě hàn zì ， tā měi tiān xiě yī zhāng 。★ gē gē zài xué shén me ？"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

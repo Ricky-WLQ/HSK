@@ -1,0 +1,89 @@
+{
+ "id": "hsk3-reading-p206",
+ "level": "3",
+ "section": "reading",
+ "partKey": "reading-p2",
+ "title": "HSK3 Reading P2",
+ "titleZh": "阅读 第二部分（词语填空）",
+ "groups": [
+  {
+   "instruction": "请从所给词语中选择合适的填入空白处，每个词语只用一次。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "退货",
+     "pinyin": "tuì huò"
+    },
+    {
+     "label": "B",
+     "text": "打折",
+     "pinyin": "dǎ zhé"
+    },
+    {
+     "label": "C",
+     "text": "信用卡",
+     "pinyin": "xìn yòng kǎ"
+    },
+    {
+     "label": "D",
+     "text": "零钱",
+     "pinyin": "líng qián"
+    },
+    {
+     "label": "E",
+     "text": "价格",
+     "pinyin": "jià gé"
+    },
+    {
+     "label": "F",
+     "text": "钱包",
+     "pinyin": "qián bāo"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "这家超市所有商品都（ ），便宜了百分之二十。",
+     "correctAnswer": "B",
+     "explanation": "‘打折’指商品降价销售，符合句意中‘便宜了百分之二十’的语境，其他词语均不适用。",
+     "id": "q1",
+     "type": "cloze-wordbank",
+     "pinyin": "zhè jiā chāo shì suǒ yǒu shāng pǐn dōu （ ）， pián yi le bǎi fēn zhī èr shí 。"
+    },
+    {
+     "prompt": "这件衣服不合适，我想去（ ）。",
+     "correctAnswer": "A",
+     "explanation": "‘退货’意为退还所购商品，符合‘衣服不合适’需要退换的语境，其他词语无法表达此意。",
+     "id": "q2",
+     "type": "cloze-wordbank",
+     "pinyin": "zhè jiàn yī fú bù hé shì ， wǒ xiǎng qù （ ）。"
+    },
+    {
+     "prompt": "我看一下这个手机的（ ），有没有更便宜的？",
+     "correctAnswer": "E",
+     "explanation": "‘价格’指商品多少钱，符合询问手机价钱并希望找更便宜商品的语境，其他词语逻辑不通。",
+     "id": "q3",
+     "type": "cloze-wordbank",
+     "pinyin": "wǒ kàn yī xià zhè ge shǒu jī de （ ）， yǒu méi yǒu gèng pián yi de ？"
+    },
+    {
+     "prompt": "买完东西后，收银员给了我一些（ ）。",
+     "correctAnswer": "D",
+     "explanation": "‘零钱’指小额货币，收银员找给顾客零钱是常见场景，其他词语无法表达此意。",
+     "id": "q4",
+     "type": "cloze-wordbank",
+     "pinyin": "mǎi wán dōng xī hòu ， shōu yín yuán gěi le wǒ yī xiē （ ）。"
+    },
+    {
+     "prompt": "在国外旅游时，我常常用（ ）付款，因为不用带很多现金。",
+     "correctAnswer": "C",
+     "explanation": "‘信用卡’是一种支付工具，符合‘不用带很多现金’的语境，其他词语均不合适。",
+     "id": "q5",
+     "type": "cloze-wordbank",
+     "pinyin": "zài guó wài lǚ yóu shí ， wǒ cháng cháng yòng （ ） fù kuǎn ， yīn wèi bù yòng dài hěn duō xiàn jīn 。"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

@@ -1,0 +1,118 @@
+{
+ "id": "hsk3-reading-p304",
+ "level": "3",
+ "section": "reading",
+ "partKey": "reading-p3",
+ "title": "HSK3 Reading P3",
+ "titleZh": "阅读 第三部分（短文理解）",
+ "groups": [
+  {
+   "instruction": "请阅读下面的短文，然后根据短文内容选择正确答案。",
+   "passage": "小王去年开了一家小餐馆，因为位置不太好，每天来的客人不多，第一个月亏了不少钱。后来他想到可以用手机做外卖，客人可以在家里点菜。他认真研究大家的喜好，做的菜越来越好，三个月后，餐馆终于开始赚钱了。现在他的外卖很受欢迎，客人还会在网上给他好评。",
+   "questions": [
+    {
+     "prompt": "小王为什么第一个月亏了不少钱？",
+     "options": [
+      {
+       "label": "A",
+       "text": "因为客人不太多",
+       "pinyin": "yīn wèi kè rén bù tài duō"
+      },
+      {
+       "label": "B",
+       "text": "因为他做的菜不好吃",
+       "pinyin": "yīn wèi tā zuò de cài bù hǎo chī"
+      },
+      {
+       "label": "C",
+       "text": "因为位置不好，客人不多",
+       "pinyin": "yīn wèi wèi zhì bù hǎo ， kè rén bù duō"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "短文中明确说“因为位置不太好，每天来的客人不多，第一个月亏了不少钱”，因此位置不好导致客人不多是亏损的原因。",
+     "id": "q1",
+     "type": "passage-mcq",
+     "pinyin": "xiǎo wáng wèi shén me dì yí gè yuè kuī le bù shǎo qián ？"
+    },
+    {
+     "prompt": "小王用什么方法让生意变好了？",
+     "options": [
+      {
+       "label": "A",
+       "text": "把菜的价格降低了",
+       "pinyin": "bǎ cài de jià gé jiàng dī le"
+      },
+      {
+       "label": "B",
+       "text": "用手机做外卖",
+       "pinyin": "yòng shǒu jī zuò wài mài"
+      },
+      {
+       "label": "C",
+       "text": "换了一个好位置",
+       "pinyin": "huàn le yí gè hǎo wèi zhì"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "短文提到“后来他想到可以用手机做外卖”，然后生意好转，因此用手机做外卖是让生意变好的方法。",
+     "id": "q2",
+     "type": "passage-mcq",
+     "pinyin": "xiǎo wáng yòng shén me fāng fǎ ràng shēng yì biàn hǎo le ？"
+    },
+    {
+     "prompt": "三个月后，小王的餐馆怎么样？",
+     "options": [
+      {
+       "label": "A",
+       "text": "客人还是不多",
+       "pinyin": "kè rén hái shì bù duō"
+      },
+      {
+       "label": "B",
+       "text": "开始赚钱了",
+       "pinyin": "kāi shǐ zhuàn qián le"
+      },
+      {
+       "label": "C",
+       "text": "亏了更多的钱",
+       "pinyin": "kuī le gèng duō de qián"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "短文说“三个月后，餐馆终于开始赚钱了”，因此三个月后餐馆开始赚钱。",
+     "id": "q3",
+     "type": "passage-mcq",
+     "pinyin": "sān gè yuè hòu ， xiǎo wáng de cān guǎn zěn me yàng ？"
+    },
+    {
+     "prompt": "关于小王的餐馆，下面哪一项是正确的？",
+     "options": [
+      {
+       "label": "A",
+       "text": "客人只能来店里吃饭",
+       "pinyin": "kè rén zhǐ néng lái diàn lǐ chī fàn"
+      },
+      {
+       "label": "B",
+       "text": "客人不喜欢外卖",
+       "pinyin": "kè rén bù xǐ huān wài mài"
+      },
+      {
+       "label": "C",
+       "text": "客人可以在家里点菜",
+       "pinyin": "kè rén kě yǐ zài jiā lǐ diǎn cài"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "短文说“客人可以在家里点菜”，说明外卖服务让客人可以在家点餐，因此选项B正确。",
+     "id": "q4",
+     "type": "passage-mcq",
+     "pinyin": "guān yú xiǎo wáng de cān guǎn ， xià miàn nǎ yī xiàng shì zhèng què de ？"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

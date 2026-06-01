@@ -1,0 +1,89 @@
+{
+ "id": "hsk3-reading-p103",
+ "level": "3",
+ "section": "reading",
+ "partKey": "reading-p1",
+ "title": "HSK3 Reading P1",
+ "titleZh": "阅读 第一部分（句子匹配）",
+ "groups": [
+  {
+   "instruction": "请从A到F六个句子中，为每个问题选择一个最合适的匹配句子。每个句子只能使用一次，有一个句子是多余的。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "乒乓球是中国的国球，很多人喜欢。",
+     "pinyin": "pīng pāng qiú shì zhōng guó de guó qiú ， hěn duō rén xǐ huān 。"
+    },
+    {
+     "label": "B",
+     "text": "游泳可以锻炼身体，还能减肥。",
+     "pinyin": "yóu yǒng kě yǐ duàn liàn shēn tǐ ， hái néng jiǎn féi 。"
+    },
+    {
+     "label": "C",
+     "text": "瑜伽课下星期开始，你要参加吗？",
+     "pinyin": "yú jiā kè xià xīng qī kāi shǐ ， nǐ yào cān jiā ma ？"
+    },
+    {
+     "label": "D",
+     "text": "她喜欢周末和朋友一起打篮球。",
+     "pinyin": "tā xǐ huān zhōu mò hé péng yǒu yì qǐ dǎ lán qiú 。"
+    },
+    {
+     "label": "E",
+     "text": "他每天早上六点去操场跑步。",
+     "pinyin": "tā měi tiān zǎo shàng liù diǎn qù cāo chǎng pǎo bù 。"
+    },
+    {
+     "label": "F",
+     "text": "他昨天在健身房举重把腰扭了。",
+     "pinyin": "tā zuó tiān zài jiàn shēn fáng jǔ zhòng bǎ yāo niǔ le 。"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "哪个句子说游泳有好处？",
+     "correctAnswer": "B",
+     "explanation": "句子C直接说明游泳可以锻炼身体，还能减肥，这描述的是游泳的好处。",
+     "id": "q1",
+     "type": "match",
+     "pinyin": "nǎ ge jù zi shuō yóu yǒng yǒu hǎo chù ？"
+    },
+    {
+     "prompt": "哪个句子说跑步的时间？",
+     "correctAnswer": "E",
+     "explanation": "句子A提到他每天早上六点去操场跑步，明确说明了跑步的时间。",
+     "id": "q2",
+     "type": "match",
+     "pinyin": "nǎ ge jù zi shuō pǎo bù de shí jiān ？"
+    },
+    {
+     "prompt": "哪个句子说乒乓球很受欢迎？",
+     "correctAnswer": "A",
+     "explanation": "句子D说明乒乓球是中国的国球，很多人喜欢，这体现了它的受欢迎程度。",
+     "id": "q3",
+     "type": "match",
+     "pinyin": "nǎ ge jù zi shuō pīng pāng qiú hěn shòu huān yíng ？"
+    },
+    {
+     "prompt": "哪个句子问要不要参加瑜伽课？",
+     "correctAnswer": "C",
+     "explanation": "句子E是一个问句，问瑜伽课下星期开始，你要参加吗？直接询问是否参加瑜伽课。",
+     "id": "q4",
+     "type": "match",
+     "pinyin": "nǎ ge jù zi wèn yào bù yào cān jiā yú jiā kè ？"
+    },
+    {
+     "prompt": "哪个句子提到和朋友一起打篮球？",
+     "correctAnswer": "D",
+     "explanation": "句子B说她喜欢周末和朋友一起打篮球，明确提到了和朋友一起打篮球。",
+     "id": "q5",
+     "type": "match",
+     "pinyin": "nǎ ge jù zi tí dào hé péng yǒu yì qǐ dǎ lán qiú ？"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

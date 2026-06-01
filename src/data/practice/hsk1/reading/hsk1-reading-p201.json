@@ -7,79 +7,79 @@
  "titleZh": "阅读 第二部分（问答匹配）",
  "groups": [
   {
-   "instruction": "请从A-F中选择与每个问题或陈述相匹配的回应。",
+   "instruction": "请为下面的句子选择合适的回答。",
    "sharedBank": [
     {
      "label": "A",
-     "text": "我很好，谢谢。",
-     "pinyin": "wǒ hěn hǎo ， xiè xiè 。"
+     "text": "我听老人说话。",
+     "pinyin": "wǒ tīng lǎo rén shuō huà 。"
     },
     {
      "label": "B",
-     "text": "我叫小李。",
-     "pinyin": "wǒ jiào xiǎo lǐ 。"
+     "text": "我给小朋友水。",
+     "pinyin": "wǒ gěi xiǎo péng yǒu shuǐ 。"
     },
     {
      "label": "C",
-     "text": "不客气。",
-     "pinyin": "bú kè qì 。"
+     "text": "我在学校读中文。",
+     "pinyin": "wǒ zài xué xiào dú zhōng wén 。"
     },
     {
      "label": "D",
-     "text": "今天很热。",
-     "pinyin": "jīn tiān hěn rè 。"
+     "text": "我在医院工作。",
+     "pinyin": "wǒ zài yī yuàn gōng zuò 。"
     },
     {
      "label": "E",
-     "text": "我十岁。",
-     "pinyin": "wǒ shí suì 。"
+     "text": "他买一个苹果。",
+     "pinyin": "tā mǎi yí gè píng guǒ 。"
     },
     {
      "label": "F",
-     "text": "再见。",
-     "pinyin": "zài jiàn 。"
+     "text": "我们给小朋友读书。",
+     "pinyin": "wǒ men gěi xiǎo péng yǒu dú shū 。"
     }
    ],
    "questions": [
     {
-     "prompt": "你好吗？",
-     "correctAnswer": "A",
-     "explanation": "“你好吗？”是问候，通常回答“我很好，谢谢。”",
+     "prompt": "你给谁水？",
+     "correctAnswer": "B",
+     "explanation": "提问“你给谁水？”是询问给水对象，回答“我给小朋友水”直接指明了给水给小朋友，符合题意。",
      "id": "q1",
      "type": "match",
-     "pinyin": "nǐ hǎo ma ？"
+     "pinyin": "nǐ gěi shuí shuǐ ？"
     },
     {
-     "prompt": "你叫什么？",
-     "correctAnswer": "B",
-     "explanation": "“你叫什么？”问名字，回答应介绍自己。",
+     "prompt": "你听谁说话？",
+     "correctAnswer": "A",
+     "explanation": "提问“你听谁说话？”是询问听的对象，回答“我听老人说话”直接说明了听老人说话，符合题意。",
      "id": "q2",
      "type": "match",
-     "pinyin": "nǐ jiào shén me ？"
+     "pinyin": "nǐ tīng shuí shuō huà ？"
     },
     {
-     "prompt": "谢谢你。",
+     "prompt": "你在学校做什么？",
      "correctAnswer": "C",
-     "explanation": "“谢谢你。”是感谢，通常回答“不客气。”",
+     "explanation": "提问“你在学校做什么？”是询问在学校进行的活动，回答“我在学校读中文”具体说明了读中文，符合题意。",
      "id": "q3",
      "type": "match",
-     "pinyin": "xiè xiè nǐ 。"
+     "pinyin": "nǐ zài xué xiào zuò shén me ？"
     },
     {
-     "prompt": "今天热吗？",
-     "correctAnswer": "D",
-     "explanation": "“今天热吗？”问天气，可回答“今天很热。”",
+     "prompt": "你们给谁读书？",
+     "correctAnswer": "F",
+     "explanation": "提问“你们给谁读书？”是询问读书的对象，回答“我们给小朋友读书”直接说明了给小朋友读书，符合题意。",
      "id": "q4",
      "type": "match",
-     "pinyin": "jīn tiān rè ma ？"
+     "pinyin": "nǐ men gěi shuí dú shū ？"
     },
     {
-     "prompt": "你几岁？",
-     "correctAnswer": "E",
-     "explanation": "“你几岁？”问年龄，回答“我十岁。”",
+     "prompt": "你在哪里工作？",
+     "correctAnswer": "D",
+     "explanation": "提问“你在哪里工作？”是询问工作地点，回答“我在医院工作”直接说明了在医院工作，符合题意。",
      "id": "q5",
      "type": "match",
-     "pinyin": "nǐ jǐ suì ？"
+     "pinyin": "nǐ zài nǎ lǐ gōng zuò ？"
     }
    ],
    "id": "g1"

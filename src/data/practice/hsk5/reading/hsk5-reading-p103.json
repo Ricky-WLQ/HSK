@@ -1,0 +1,143 @@
+{
+ "id": "hsk5-reading-p103",
+ "level": "5",
+ "section": "reading",
+ "partKey": "reading-p1",
+ "title": "HSK5 Reading P1",
+ "titleZh": "阅读 第三部分（长文理解）",
+ "groups": [
+  {
+   "instruction": "请阅读下面的短文，然后根据短文内容选择正确答案。",
+   "passage": "王明是一位在城市生活了二十年的画家。他的画室位于繁华的商业区，每天面对的是高楼大厦和匆匆忙忙的人群。虽然他的作品在市场上很受欢迎，但他总觉得自己的画缺少了什么。去年秋天，他决定搬到乡下住一段时间。他租了一间老房子，门前有一条小溪，屋后是一片竹林。起初，他很不习惯——没有网络，晚上一片漆黑，只有虫鸣和蛙声。但渐渐地，他发现了乡村的美：清晨的薄雾笼罩着田野，傍晚的夕阳把天空染成橘红色，邻居们亲切地打招呼，分享自己种的蔬菜。他画了很多风景画，每一幅都充满了生命力。半年后，他回到城市举办个人画展，观众惊讶地发现他的作品风格大变，充满了自然的气息和温暖的情感。王明说：“城市的繁华给了我物质，但乡村让我找到了艺术的灵魂。”",
+   "questions": [
+    {
+     "prompt": "文中“笼罩”一词的意思是？",
+     "options": [
+      {
+       "label": "A",
+       "text": "推动"
+      },
+      {
+       "label": "B",
+       "text": "包围"
+      },
+      {
+       "label": "C",
+       "text": "覆盖"
+      },
+      {
+       "label": "D",
+       "text": "照亮"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "“笼罩”在文中形容薄雾覆盖着田野，意思是覆盖。",
+     "id": "q1",
+     "type": "passage-mcq"
+    },
+    {
+     "prompt": "王明最初为什么不太习惯乡村生活？",
+     "options": [
+      {
+       "label": "A",
+       "text": "邻居不友好"
+      },
+      {
+       "label": "B",
+       "text": "没有朋友"
+      },
+      {
+       "label": "C",
+       "text": "房子太旧"
+      },
+      {
+       "label": "D",
+       "text": "没有网络，夜晚漆黑"
+      }
+     ],
+     "correctAnswer": "D",
+     "explanation": "文章明确说“起初，他很不习惯——没有网络，晚上一片漆黑”。",
+     "id": "q2",
+     "type": "passage-mcq"
+    },
+    {
+     "prompt": "王明在乡村期间发生的主要变化是什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "他的画风变得更有自然气息"
+      },
+      {
+       "label": "B",
+       "text": "他决定永远住在乡村"
+      },
+      {
+       "label": "C",
+       "text": "他学会了种菜"
+      },
+      {
+       "label": "D",
+       "text": "他提高了画技但不受欢迎"
+      }
+     ],
+     "correctAnswer": "A",
+     "explanation": "文章提到半年后他的作品风格大变，充满了自然的气息和温暖的情感。",
+     "id": "q3",
+     "type": "passage-mcq"
+    },
+    {
+     "prompt": "王明对乡村生活的总体态度是怎样的？",
+     "options": [
+      {
+       "label": "A",
+       "text": "始终不习惯"
+      },
+      {
+       "label": "B",
+       "text": "渐渐喜欢并感激"
+      },
+      {
+       "label": "C",
+       "text": "认为不如城市"
+      },
+      {
+       "label": "D",
+       "text": "讨厌"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "他从起初不习惯到渐渐发现乡村的美，并说乡村让他找到了艺术的灵魂，可见他喜欢并感激乡村。",
+     "id": "q4",
+     "type": "passage-mcq"
+    },
+    {
+     "prompt": "这篇文章主要想告诉我们什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "画家应该到处旅行"
+      },
+      {
+       "label": "B",
+       "text": "乡村比城市更适合居住"
+      },
+      {
+       "label": "C",
+       "text": "城市生活不适合艺术家"
+      },
+      {
+       "label": "D",
+       "text": "自然能带给艺术创作灵感"
+      }
+     ],
+     "correctAnswer": "D",
+     "explanation": "文章通过王明的经历强调乡村的自然环境让他找到艺术灵魂，说明自然能带来创作灵感。",
+     "id": "q5",
+     "type": "passage-mcq"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

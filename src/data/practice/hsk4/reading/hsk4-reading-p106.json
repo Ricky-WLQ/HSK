@@ -1,0 +1,74 @@
+{
+ "id": "hsk4-reading-p106",
+ "level": "4",
+ "section": "reading",
+ "partKey": "reading-p1",
+ "title": "HSK4 Reading P1",
+ "titleZh": "阅读 第一部分（选词填空）",
+ "groups": [
+  {
+   "instruction": "请从方框中选择合适的词语填入空白处，每个词语只能用一次。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "下载"
+    },
+    {
+     "label": "B",
+     "text": "上传"
+    },
+    {
+     "label": "C",
+     "text": "硬件"
+    },
+    {
+     "label": "D",
+     "text": "软件"
+    },
+    {
+     "label": "E",
+     "text": "注册"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "这个新（ ）可以帮助你更高效地管理时间。",
+     "correctAnswer": "D",
+     "explanation": "“软件”指计算机程序，句子中说“管理时间”，通常用软件实现。",
+     "id": "q1",
+     "type": "cloze-wordbank"
+    },
+    {
+     "prompt": "电脑的（ ）包括CPU、内存和硬盘等部件。",
+     "correctAnswer": "C",
+     "explanation": "“硬件”是电脑的物理部件，符合句中列举的CPU、内存等。",
+     "id": "q2",
+     "type": "cloze-wordbank"
+    },
+    {
+     "prompt": "使用这个平台前，你必须先（ ）一个个人账号。",
+     "correctAnswer": "E",
+     "explanation": "“注册”指登记信息以创建账号，符合句意。",
+     "id": "q3",
+     "type": "cloze-wordbank"
+    },
+    {
+     "prompt": "你可以从这个网站（ ）最新的学习视频。",
+     "correctAnswer": "A",
+     "explanation": "“下载”指从网络获取文件到本地，句中是从网站获取视频。",
+     "id": "q4",
+     "type": "cloze-wordbank"
+    },
+    {
+     "prompt": "完成报告后，别忘了（ ）到公司内部系统。",
+     "correctAnswer": "B",
+     "explanation": "“上传”指将本地文件发送到网络或服务器，符合句意。",
+     "id": "q5",
+     "type": "cloze-wordbank"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

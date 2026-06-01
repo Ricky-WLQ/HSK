@@ -1,0 +1,142 @@
+{
+ "id": "hsk2-reading-p409",
+ "level": "2",
+ "section": "reading",
+ "partKey": "reading-p4",
+ "title": "HSK2 Reading P4",
+ "titleZh": "阅读 第四部分（短文理解）",
+ "groups": [
+  {
+   "instruction": "请阅读下面的短文，然后选择正确的答案。",
+   "questions": [
+    {
+     "prompt": "小明考试得了100分。★他考得怎么样？",
+     "options": [
+      {
+       "label": "A",
+       "text": "不好",
+       "pinyin": "bù hǎo"
+      },
+      {
+       "label": "B",
+       "text": "很好",
+       "pinyin": "hěn hǎo"
+      },
+      {
+       "label": "C",
+       "text": "一般",
+       "pinyin": "yì bān"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "短文说小明考试得了100分，说明他考得很好。",
+     "id": "q1",
+     "type": "passage-mcq",
+     "pinyin": "xiǎo míng kǎo shì dé le 100 fēn 。★ tā kǎo dé zěn me yàng ？"
+    },
+    {
+     "prompt": "小红在图书馆看书。★她在做什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "睡觉",
+       "pinyin": "shuì jiào"
+      },
+      {
+       "label": "B",
+       "text": "看书",
+       "pinyin": "kàn shū"
+      },
+      {
+       "label": "C",
+       "text": "吃饭",
+       "pinyin": "chī fàn"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "短文说小红在图书馆看书，所以她在看书。",
+     "id": "q2",
+     "type": "passage-mcq",
+     "pinyin": "xiǎo hóng zài tú shū guǎn kàn shū 。★ tā zài zuò shén me ？"
+    },
+    {
+     "prompt": "小刚今天没来上课，因为他生病了。★他为什么没来？",
+     "options": [
+      {
+       "label": "A",
+       "text": "生病了",
+       "pinyin": "shēng bìng le"
+      },
+      {
+       "label": "B",
+       "text": "忘了",
+       "pinyin": "wàng le"
+      },
+      {
+       "label": "C",
+       "text": "出去玩了",
+       "pinyin": "chū qù wán le"
+      }
+     ],
+     "correctAnswer": "A",
+     "explanation": "短文说小刚没来上课是因为生病了。",
+     "id": "q3",
+     "type": "passage-mcq",
+     "pinyin": "xiǎo gāng jīn tiān méi lái shàng kè ， yīn wèi tā shēng bìng le 。★ tā wèi shén me méi lái ？"
+    },
+    {
+     "prompt": "小丽喜欢数学课，她觉得数学很有意思。★小丽喜欢什么课？",
+     "options": [
+      {
+       "label": "A",
+       "text": "数学",
+       "pinyin": "shù xué"
+      },
+      {
+       "label": "B",
+       "text": "英语",
+       "pinyin": "yīng yǔ"
+      },
+      {
+       "label": "C",
+       "text": "语文",
+       "pinyin": "yǔ wén"
+      }
+     ],
+     "correctAnswer": "A",
+     "explanation": "短文说小丽喜欢数学课。",
+     "id": "q4",
+     "type": "passage-mcq",
+     "pinyin": "xiǎo lì xǐ huān shù xué kè ， tā jué de shù xué hěn yǒu yì si 。★ xiǎo lì xǐ huān shén me kè ？"
+    },
+    {
+     "prompt": "王老师让学生们回答问题，学生们都很认真。★学生们在做什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "回答问题",
+       "pinyin": "huí dá wèn tí"
+      },
+      {
+       "label": "B",
+       "text": "画画",
+       "pinyin": "huà huà"
+      },
+      {
+       "label": "C",
+       "text": "唱歌",
+       "pinyin": "chàng gē"
+      }
+     ],
+     "correctAnswer": "A",
+     "explanation": "短文说王老师让学生们回答问题，所以学生们在回答问题。",
+     "id": "q5",
+     "type": "passage-mcq",
+     "pinyin": "wáng lǎo shī ràng xué shēng men huí dá wèn tí ， xué shēng men dōu hěn rèn zhēn 。★ xué shēng men zài zuò shén me ？"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

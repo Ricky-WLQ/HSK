@@ -1,0 +1,89 @@
+{
+ "id": "hsk2-reading-p304",
+ "level": "2",
+ "section": "reading",
+ "partKey": "reading-p3",
+ "title": "HSK2 Reading P3",
+ "titleZh": "阅读 第三部分（句子匹配）",
+ "groups": [
+  {
+   "instruction": "请从下面的选项中选择与左边句子相匹配的应答句。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "好的，我等你回来吃饭。",
+     "pinyin": "hǎo de ， wǒ děng nǐ huí lái chī fàn 。"
+    },
+    {
+     "label": "B",
+     "text": "你也要好好休息。",
+     "pinyin": "nǐ yě yào hǎo hǎo xiū xī 。"
+    },
+    {
+     "label": "C",
+     "text": "我下周回家。",
+     "pinyin": "wǒ xià zhōu huí jiā 。"
+    },
+    {
+     "label": "D",
+     "text": "很喜欢，谢谢姐姐！",
+     "pinyin": "hěn xǐ huān ， xiè xiè jiě jiě ！"
+    },
+    {
+     "label": "E",
+     "text": "不累，我很开心。",
+     "pinyin": "bù lèi ， wǒ hěn kāi xīn 。"
+    },
+    {
+     "label": "F",
+     "text": "收到了，很暖和，谢谢孩子。",
+     "pinyin": "shōu dào le ， hěn nuǎn huo ， xiè xiè hái zi 。"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "妈妈，我给您寄了一件毛衣。",
+     "correctAnswer": "F",
+     "explanation": "这是孩子告诉妈妈寄了毛衣，妈妈应该回应收到并表示感谢，所以用“收到了，很暖和，谢谢孩子”。",
+     "id": "q1",
+     "type": "match",
+     "pinyin": "mā mā ， wǒ gěi nín jì le yī jiàn máo yī 。"
+    },
+    {
+     "prompt": "爸爸，我下个月回家看您。",
+     "correctAnswer": "A",
+     "explanation": "孩子对爸爸说下个月回家，爸爸高兴地回应等待并一起吃饭，所以用“好的，我等你回来吃饭”。",
+     "id": "q2",
+     "type": "match",
+     "pinyin": "bà bà ， wǒ xià gè yuè huí jiā kàn nín 。"
+    },
+    {
+     "prompt": "姐姐，你最近工作累吗？",
+     "correctAnswer": "E",
+     "explanation": "弟弟关心姐姐工作是否累，姐姐回答不累并且心情好，所以用“不累，我很开心”。",
+     "id": "q3",
+     "type": "match",
+     "pinyin": "jiě jiě ， nǐ zuì jìn gōng zuò lèi ma ？"
+    },
+    {
+     "prompt": "妹妹，你的生日礼物喜欢吗？",
+     "correctAnswer": "D",
+     "explanation": "姐姐问妹妹是否喜欢生日礼物，妹妹表达很喜欢并感谢，所以用“很喜欢，谢谢姐姐！”",
+     "id": "q4",
+     "type": "match",
+     "pinyin": "mèi mèi ， nǐ de shēng rì lǐ wù xǐ huān ma ？"
+    },
+    {
+     "prompt": "哥哥，你什么时候回来？",
+     "correctAnswer": "C",
+     "explanation": "妹妹问哥哥回家的时间，哥哥明确回答下周回家，所以用“我下周回家”。",
+     "id": "q5",
+     "type": "match",
+     "pinyin": "gē gē ， nǐ shén me shí hòu huí lái ？"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

@@ -1,0 +1,142 @@
+{
+ "id": "hsk2-reading-p418",
+ "level": "2",
+ "section": "reading",
+ "partKey": "reading-p4",
+ "title": "HSK2 Reading P4",
+ "titleZh": "阅读 第四部分（短文理解）",
+ "groups": [
+  {
+   "instruction": "请阅读下面的短文，然后回答问题。",
+   "questions": [
+    {
+     "prompt": "小王在城市工作，他每天坐地铁上班。★他每天怎么上班？",
+     "options": [
+      {
+       "label": "A",
+       "text": "走路",
+       "pinyin": "zǒu lù"
+      },
+      {
+       "label": "B",
+       "text": "坐地铁",
+       "pinyin": "zuò dì tiě"
+      },
+      {
+       "label": "C",
+       "text": "坐飞机",
+       "pinyin": "zuò fēi jī"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "短文说小王每天坐地铁上班，所以正确选项是坐地铁。",
+     "id": "q1",
+     "type": "passage-mcq",
+     "pinyin": "xiǎo wáng zài chéng shì gōng zuò ， tā měi tiān zuò dì tiě shàng bān 。★ tā měi tiān zěn me shàng bān ？"
+    },
+    {
+     "prompt": "小丽住在乡村，她家有很多树。★她家有什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "很多楼",
+       "pinyin": "hěn duō lóu"
+      },
+      {
+       "label": "B",
+       "text": "很多树",
+       "pinyin": "hěn duō shù"
+      },
+      {
+       "label": "C",
+       "text": "很多车",
+       "pinyin": "hěn duō chē"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "短文说小丽家有很多树，所以正确选项是很多树。",
+     "id": "q2",
+     "type": "passage-mcq",
+     "pinyin": "xiǎo lì zhù zài xiāng cūn ， tā jiā yǒu hěn duō shù 。★ tā jiā yǒu shén me ？"
+    },
+    {
+     "prompt": "老张在城市开出租车，他每天很忙。★老张做什么工作？",
+     "options": [
+      {
+       "label": "A",
+       "text": "老师",
+       "pinyin": "lǎo shī"
+      },
+      {
+       "label": "B",
+       "text": "医生",
+       "pinyin": "yī shēng"
+      },
+      {
+       "label": "C",
+       "text": "司机",
+       "pinyin": "sī jī"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "短文说老张开出租车，所以他是司机。",
+     "id": "q3",
+     "type": "passage-mcq",
+     "pinyin": "lǎo zhāng zài chéng shì kāi chū zū chē ， tā měi tiān hěn máng 。★ lǎo zhāng zuò shén me gōng zuò ？"
+    },
+    {
+     "prompt": "小明在乡村种水稻，他喜欢种地。★小明喜欢做什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "种地",
+       "pinyin": "zhòng dì"
+      },
+      {
+       "label": "B",
+       "text": "唱歌",
+       "pinyin": "chàng gē"
+      },
+      {
+       "label": "C",
+       "text": "画画",
+       "pinyin": "huà huà"
+      }
+     ],
+     "correctAnswer": "A",
+     "explanation": "短文说明喜欢种地，所以正确选项是种地。",
+     "id": "q4",
+     "type": "passage-mcq",
+     "pinyin": "xiǎo míng zài xiāng cūn zhǒng shuǐ dào ， tā xǐ huān zhòng dì 。★ xiǎo míng xǐ huān zuò shén me ？"
+    },
+    {
+     "prompt": "李华在城市里的超市工作，她每天卖水果。★她在哪里工作？",
+     "options": [
+      {
+       "label": "A",
+       "text": "超市",
+       "pinyin": "chāo shì"
+      },
+      {
+       "label": "B",
+       "text": "学校",
+       "pinyin": "xué xiào"
+      },
+      {
+       "label": "C",
+       "text": "医院",
+       "pinyin": "yī yuàn"
+      }
+     ],
+     "correctAnswer": "A",
+     "explanation": "短文说李华在城市的超市工作，所以她在超市工作。",
+     "id": "q5",
+     "type": "passage-mcq",
+     "pinyin": "lǐ huá zài chéng shì lǐ de chāo shì gōng zuò ， tā měi tiān mài shuǐ guǒ 。★ tā zài nǎ lǐ gōng zuò ？"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

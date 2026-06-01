@@ -1,0 +1,89 @@
+{
+ "id": "hsk3-reading-p214",
+ "level": "3",
+ "section": "reading",
+ "partKey": "reading-p2",
+ "title": "HSK3 Reading P2",
+ "titleZh": "阅读 第二部分（词语填空）",
+ "groups": [
+  {
+   "instruction": "从下面的词语中选择合适的填在括号里，每个词语只能用一次。共有6个词语，5个句子，有一个词语多余。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "空气",
+     "pinyin": "kōng qì"
+    },
+    {
+     "label": "B",
+     "text": "交通",
+     "pinyin": "jiāo tōng"
+    },
+    {
+     "label": "C",
+     "text": "环境",
+     "pinyin": "huán jìng"
+    },
+    {
+     "label": "D",
+     "text": "安静",
+     "pinyin": "ān jìng"
+    },
+    {
+     "label": "E",
+     "text": "热闹",
+     "pinyin": "rè nào"
+    },
+    {
+     "label": "F",
+     "text": "方便",
+     "pinyin": "fāng biàn"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "城市里（ ）很拥挤，早上很多人坐地铁上班。",
+     "correctAnswer": "B",
+     "explanation": "句子描述城市早高峰地铁拥挤，强调出行状况，'交通'指车辆、行人的往来情况，与'拥挤'搭配合理。",
+     "id": "q1",
+     "type": "cloze-wordbank",
+     "pinyin": "chéng shì lǐ （ ） hěn yōng jǐ ， zǎo shàng hěn duō rén zuò dì tiě shàng bān 。"
+    },
+    {
+     "prompt": "乡村的（ ）比城市新鲜，因为有很多树。",
+     "correctAnswer": "A",
+     "explanation": "句子提到树木多使空气变得新鲜，'空气'指大气中的气体，符合语境。",
+     "id": "q2",
+     "type": "cloze-wordbank",
+     "pinyin": "xiāng cūn de （ ） bǐ chéng shì xīn xiān ， yīn wèi yǒu hěn duō shù 。"
+    },
+    {
+     "prompt": "这里很（ ），适合看书学习。",
+     "correctAnswer": "D",
+     "explanation": "'安静'表示没有声音或声音很小，适合看书学习的环境。",
+     "id": "q3",
+     "type": "cloze-wordbank",
+     "pinyin": "zhè lǐ hěn （ ）， shì hé kàn shū xué xí 。"
+    },
+    {
+     "prompt": "住在城市里，买东西很（ ），因为超市很近。",
+     "correctAnswer": "F",
+     "explanation": "句中提到超市近，买东西容易，'方便'指做某事不麻烦，符合语义。",
+     "id": "q4",
+     "type": "cloze-wordbank",
+     "pinyin": "zhù zài chéng shì lǐ ， mǎi dōng xī hěn （ ）， yīn wèi chāo shì hěn jìn 。"
+    },
+    {
+     "prompt": "我们要保护（ ），不乱扔垃圾。",
+     "correctAnswer": "C",
+     "explanation": "句子呼吁不乱扔垃圾来保护周围条件，'环境'指周围的地方、条件等，搭配合理。",
+     "id": "q5",
+     "type": "cloze-wordbank",
+     "pinyin": "wǒ men yào bǎo hù （ ）， bù luàn rēng lā jī 。"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

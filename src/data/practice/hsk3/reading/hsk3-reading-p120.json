@@ -1,0 +1,89 @@
+{
+ "id": "hsk3-reading-p120",
+ "level": "3",
+ "section": "reading",
+ "partKey": "reading-p1",
+ "title": "HSK3 Reading P1",
+ "titleZh": "阅读 第一部分（句子匹配）",
+ "groups": [
+  {
+   "instruction": "请从A-F中选择与每个句子内容匹配的选项。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "我们在图书馆学习了一下午。",
+     "pinyin": "wǒ men zài tú shū guǎn xué xí le yī xià wǔ 。"
+    },
+    {
+     "label": "B",
+     "text": "我请小张教我画画。",
+     "pinyin": "wǒ qǐng xiǎo zhāng jiào wǒ huà huà 。"
+    },
+    {
+     "label": "C",
+     "text": "她生病的时候我陪她去医院。",
+     "pinyin": "tā shēng bìng de shí hòu wǒ péi tā qù yī yuàn 。"
+    },
+    {
+     "label": "D",
+     "text": "我昨天帮小李复习生词。",
+     "pinyin": "wǒ zuó tiān bāng xiǎo lǐ fù xí shēng cí 。"
+    },
+    {
+     "label": "E",
+     "text": "下个月我们要一起参加跑步比赛。",
+     "pinyin": "xià gè yuè wǒ men yào yì qǐ cān jiā pǎo bù bǐ sài 。"
+    },
+    {
+     "label": "F",
+     "text": "小王送给我一本他最喜欢的书。",
+     "pinyin": "xiǎo wáng sòng gěi wǒ yī běn tā zuì xǐ huān de shū 。"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "小李为什么昨天进步很快？",
+     "correctAnswer": "D",
+     "explanation": "因为有人帮他复习生词，所以进步很快。",
+     "id": "q1",
+     "type": "match",
+     "pinyin": "xiǎo lǐ wèi shén me zuó tiān jìn bù hěn kuài ？"
+    },
+    {
+     "prompt": "你们下个月有什么计划？",
+     "correctAnswer": "E",
+     "explanation": "他们计划一起参加跑步比赛。",
+     "id": "q2",
+     "type": "match",
+     "pinyin": "nǐ men xià gè yuè yǒu shén me jì huà ？"
+    },
+    {
+     "prompt": "你怎么得到那本书的？",
+     "correctAnswer": "F",
+     "explanation": "是朋友送的，小王把他最喜欢的书送给了对方。",
+     "id": "q3",
+     "type": "match",
+     "pinyin": "nǐ zěn me dé dào nà běn shū de ？"
+    },
+    {
+     "prompt": "你们昨天下午做什么了？",
+     "correctAnswer": "A",
+     "explanation": "他们在图书馆学习了一下午。",
+     "id": "q4",
+     "type": "match",
+     "pinyin": "nǐ men zuó tiān xià wǔ zuò shén me le ？"
+    },
+    {
+     "prompt": "你为什么学会画画了？",
+     "correctAnswer": "B",
+     "explanation": "因为朋友小张教他画画。",
+     "id": "q5",
+     "type": "match",
+     "pinyin": "nǐ wèi shén me xué huì huà huà le ？"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

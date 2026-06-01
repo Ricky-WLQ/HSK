@@ -1,0 +1,89 @@
+{
+ "id": "hsk1-reading-p213",
+ "level": "1",
+ "section": "reading",
+ "partKey": "reading-p2",
+ "title": "HSK1 Reading P2",
+ "titleZh": "阅读 第二部分（问答匹配）",
+ "groups": [
+  {
+   "instruction": "请从A-F中选择合适的回答，完成对话。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "我每天读中文书。",
+     "pinyin": "wǒ měi tiān dú zhōng wén shū 。"
+    },
+    {
+     "label": "B",
+     "text": "你写的字很大。",
+     "pinyin": "nǐ xiě de zì hěn dà 。"
+    },
+    {
+     "label": "C",
+     "text": "我正在看书。",
+     "pinyin": "wǒ zhèng zài kàn shū 。"
+    },
+    {
+     "label": "D",
+     "text": "老师教我写字。",
+     "pinyin": "lǎo shī jiào wǒ xiě zì 。"
+    },
+    {
+     "label": "E",
+     "text": "这本书很好看。",
+     "pinyin": "zhè běn shū hěn hǎo kàn 。"
+    },
+    {
+     "label": "F",
+     "text": "我有一本书。",
+     "pinyin": "wǒ yǒu yī běn shū 。"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "你在做什么？",
+     "correctAnswer": "C",
+     "explanation": "'我正在看书'是回答'你在做什么'的正确句子，表示正在进行的活动。",
+     "id": "q1",
+     "type": "match",
+     "pinyin": "nǐ zài zuò shén me ？"
+    },
+    {
+     "prompt": "这本书怎么样？",
+     "correctAnswer": "E",
+     "explanation": "'这本书很好看'直接评价书的质量，符合问题'这本书怎么样'。",
+     "id": "q2",
+     "type": "match",
+     "pinyin": "zhè běn shū zěn me yàng ？"
+    },
+    {
+     "prompt": "你每天读什么？",
+     "correctAnswer": "A",
+     "explanation": "'我每天读中文书'具体说明每天阅读的内容，与问题'你每天读什么'匹配。",
+     "id": "q3",
+     "type": "match",
+     "pinyin": "nǐ měi tiān dú shén me ？"
+    },
+    {
+     "prompt": "谁教你写字？",
+     "correctAnswer": "D",
+     "explanation": "'老师教我写字'指出教写字的人是老师，回答了'谁教你写字'的问题。",
+     "id": "q4",
+     "type": "match",
+     "pinyin": "shuí jiào nǐ xiě zì ？"
+    },
+    {
+     "prompt": "我写的字怎么样？",
+     "correctAnswer": "B",
+     "explanation": "'你写的字很大'描述字的大小特征，是对'我写的字怎么样'的合理评价。",
+     "id": "q5",
+     "type": "match",
+     "pinyin": "wǒ xiě de zì zěn me yàng ？"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

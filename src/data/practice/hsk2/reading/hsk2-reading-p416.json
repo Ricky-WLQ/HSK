@@ -1,0 +1,142 @@
+{
+ "id": "hsk2-reading-p416",
+ "level": "2",
+ "section": "reading",
+ "partKey": "reading-p4",
+ "title": "HSK2 Reading P4",
+ "titleZh": "阅读 第四部分（短文理解）",
+ "groups": [
+  {
+   "instruction": "读一读短文，选择正确答案。",
+   "questions": [
+    {
+     "prompt": "妈妈今天很累。儿子给妈妈倒了一杯茶。★他做了什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "喝茶",
+       "pinyin": "hē chá"
+      },
+      {
+       "label": "B",
+       "text": "买茶",
+       "pinyin": "mǎi chá"
+      },
+      {
+       "label": "C",
+       "text": "倒茶",
+       "pinyin": "dào chá"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "短文中说“儿子给妈妈倒了一杯茶”，所以儿子做的事是倒茶。",
+     "id": "q1",
+     "type": "passage-mcq",
+     "pinyin": "mā mā jīn tiān hěn lèi 。 ér zi gěi mā mā dào le yī bēi chá 。★ tā zuò le shén me ？"
+    },
+    {
+     "prompt": "奶奶给孙女一本故事书。孙女很高兴。★她做了什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "买书",
+       "pinyin": "mǎi shū"
+      },
+      {
+       "label": "B",
+       "text": "送书",
+       "pinyin": "sòng shū"
+      },
+      {
+       "label": "C",
+       "text": "看书",
+       "pinyin": "kàn shū"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "短文中说“奶奶给孙女一本故事书”，给就是送的意思，所以奶奶送了书。",
+     "id": "q2",
+     "type": "passage-mcq",
+     "pinyin": "nǎi nǎi gěi sūn nǚ yī běn gù shì shū 。 sūn nǚ hěn gāo xìng 。★ tā zuò le shén me ？"
+    },
+    {
+     "prompt": "爸爸为儿子修好了玩具车。儿子很开心。★他做了什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "修车",
+       "pinyin": "xiū chē"
+      },
+      {
+       "label": "B",
+       "text": "玩车",
+       "pinyin": "wán chē"
+      },
+      {
+       "label": "C",
+       "text": "买车",
+       "pinyin": "mǎi chē"
+      }
+     ],
+     "correctAnswer": "A",
+     "explanation": "短文中说“爸爸为儿子修好了玩具车”，所以爸爸修了车。",
+     "id": "q3",
+     "type": "passage-mcq",
+     "pinyin": "bà bà wèi ér zi xiū hǎo le wán jù chē 。 ér zi hěn kāi xīn 。★ tā zuò le shén me ？"
+    },
+    {
+     "prompt": "姐姐帮弟弟写作业。弟弟不会写汉字。★她做了什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "自己写作业",
+       "pinyin": "zì jǐ xiě zuò yè"
+      },
+      {
+       "label": "B",
+       "text": "教弟弟写汉字",
+       "pinyin": "jiào dì di xiě hàn zì"
+      },
+      {
+       "label": "C",
+       "text": "帮弟弟写作业",
+       "pinyin": "bāng dì di xiě zuò yè"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "短文中说“姐姐帮弟弟写作业”，所以姐姐做的事是帮弟弟写作业。",
+     "id": "q4",
+     "type": "passage-mcq",
+     "pinyin": "jiě jiě bāng dì di xiě zuò yè 。 dì di bú huì xiě hàn zì 。★ tā zuò le shén me ？"
+    },
+    {
+     "prompt": "妹妹为哥哥画了一幅画。哥哥很高兴。★她做了什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "画了一幅画",
+       "pinyin": "huà le yī fú huà"
+      },
+      {
+       "label": "B",
+       "text": "看了一幅画",
+       "pinyin": "kàn le yī fú huà"
+      },
+      {
+       "label": "C",
+       "text": "送了一幅画",
+       "pinyin": "sòng le yī fú huà"
+      }
+     ],
+     "correctAnswer": "A",
+     "explanation": "短文中说“妹妹为哥哥画了一幅画”，所以妹妹画了画。",
+     "id": "q5",
+     "type": "passage-mcq",
+     "pinyin": "mèi mèi wèi gē gē huà le yī fú huà 。 gē gē hěn gāo xìng 。★ tā zuò le shén me ？"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

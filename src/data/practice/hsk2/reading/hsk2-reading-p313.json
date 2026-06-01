@@ -1,0 +1,89 @@
+{
+ "id": "hsk2-reading-p313",
+ "level": "2",
+ "section": "reading",
+ "partKey": "reading-p3",
+ "title": "HSK2 Reading P3",
+ "titleZh": "阅读 第三部分（句子匹配）",
+ "groups": [
+  {
+   "instruction": "请从选项中选择合适的回答，完成对话。每个对话是关于民俗风情的。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "新年我们吃饺子。",
+     "pinyin": "xīn nián wǒ men chī jiǎo zi 。"
+    },
+    {
+     "label": "B",
+     "text": "生日我们吃蛋糕。",
+     "pinyin": "shēng rì wǒ men chī dàn gāo 。"
+    },
+    {
+     "label": "C",
+     "text": "新年我们穿新衣服。",
+     "pinyin": "xīn nián wǒ men chuān xīn yī fú 。"
+    },
+    {
+     "label": "D",
+     "text": "生日我们送礼物。",
+     "pinyin": "shēng rì wǒ men sòng lǐ wù 。"
+    },
+    {
+     "label": "E",
+     "text": "生日我们吃水果。",
+     "pinyin": "shēng rì wǒ men chī shuǐ guǒ 。"
+    },
+    {
+     "label": "F",
+     "text": "新年我们看表演。",
+     "pinyin": "xīn nián wǒ men kàn biǎo yǎn 。"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "新年你们吃什么？",
+     "correctAnswer": "A",
+     "explanation": "新年有吃饺子的习俗，所以回答“新年我们吃饺子”是正确的。",
+     "id": "q1",
+     "type": "match",
+     "pinyin": "xīn nián nǐ men chī shén me ？"
+    },
+    {
+     "prompt": "新年你们穿什么？",
+     "correctAnswer": "C",
+     "explanation": "新年人们通常穿新衣服，所以回答“新年我们穿新衣服”是合适的。",
+     "id": "q2",
+     "type": "match",
+     "pinyin": "xīn nián nǐ men chuān shén me ？"
+    },
+    {
+     "prompt": "新年你们看什么？",
+     "correctAnswer": "F",
+     "explanation": "新年时很多地方有表演，所以回答“新年我们看表演”符合习俗。",
+     "id": "q3",
+     "type": "match",
+     "pinyin": "xīn nián nǐ men kàn shén me ？"
+    },
+    {
+     "prompt": "生日你们吃什么？",
+     "correctAnswer": "B",
+     "explanation": "生日时人们常吃蛋糕，所以回答“生日我们吃蛋糕”是正确的。",
+     "id": "q4",
+     "type": "match",
+     "pinyin": "shēng rì nǐ men chī shén me ？"
+    },
+    {
+     "prompt": "生日你们送什么？",
+     "correctAnswer": "D",
+     "explanation": "生日时互相送礼物是常见习俗，所以回答“生日我们送礼物”最合适。",
+     "id": "q5",
+     "type": "match",
+     "pinyin": "shēng rì nǐ men sòng shén me ？"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

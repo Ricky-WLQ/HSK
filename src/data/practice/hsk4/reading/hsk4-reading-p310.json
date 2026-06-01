@@ -1,0 +1,118 @@
+{
+ "id": "hsk4-reading-p310",
+ "level": "4",
+ "section": "reading",
+ "partKey": "reading-p3",
+ "title": "HSK4 Reading P3",
+ "titleZh": "阅读 第二部分B（中篇理解）",
+ "groups": [
+  {
+   "instruction": "请阅读下面的短文，然后回答四个问题。每个问题有四个选项，请选择最合适的答案。",
+   "passage": "小王最近工作压力很大，晚上经常失眠。他试过很多方法，比如听音乐、喝牛奶，但都没有效果。后来，朋友建议他每天花十分钟写日记，记录自己当天的情绪和想法。刚开始，小王觉得这样做很浪费时间，而且不知道写什么。但他还是决定试试看。坚持了一周后，他发现自己写日记时能更清楚自己的感受，心情也变得平静了许多。现在，他每天都会写日记，失眠的问题也慢慢解决了。",
+   "questions": [
+    {
+     "prompt": "小王最初对写日记的态度是什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "非常喜欢"
+      },
+      {
+       "label": "B",
+       "text": "觉得没用"
+      },
+      {
+       "label": "C",
+       "text": "很感兴趣"
+      },
+      {
+       "label": "D",
+       "text": "完全拒绝"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "原文中说“刚开始，小王觉得这样做很浪费时间，而且不知道写什么”，说明他觉得写日记没有用。",
+     "id": "q1",
+     "type": "passage-mcq"
+    },
+    {
+     "prompt": "这篇短文主要想告诉我们什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "写日记对情绪管理有帮助"
+      },
+      {
+       "label": "B",
+       "text": "工作压力会导致失眠"
+      },
+      {
+       "label": "C",
+       "text": "朋友的建议总是正确的"
+      },
+      {
+       "label": "D",
+       "text": "失眠可以通过听音乐解决"
+      }
+     ],
+     "correctAnswer": "A",
+     "explanation": "短文讲述了小王通过写日记改善了失眠和情绪问题，主要说明写日记对情绪管理的积极作用。",
+     "id": "q2",
+     "type": "passage-mcq"
+    },
+    {
+     "prompt": "根据短文，小王为什么决定试试写日记？",
+     "options": [
+      {
+       "label": "A",
+       "text": "因为其他方法都无效"
+      },
+      {
+       "label": "B",
+       "text": "因为朋友强迫他"
+      },
+      {
+       "label": "C",
+       "text": "因为他想记录工作"
+      },
+      {
+       "label": "D",
+       "text": "因为他喜欢写作"
+      }
+     ],
+     "correctAnswer": "A",
+     "explanation": "原文提到“他试过很多方法，比如听音乐、喝牛奶，但都没有效果”，之后朋友建议写日记，他才决定试试。",
+     "id": "q3",
+     "type": "passage-mcq"
+    },
+    {
+     "prompt": "写日记一周后，小王有什么变化？",
+     "options": [
+      {
+       "label": "A",
+       "text": "心情变得更平静"
+      },
+      {
+       "label": "B",
+       "text": "开始讨厌写日记"
+      },
+      {
+       "label": "C",
+       "text": "失眠问题完全消失了"
+      },
+      {
+       "label": "D",
+       "text": "工作压力更大了"
+      }
+     ],
+     "correctAnswer": "A",
+     "explanation": "原文说“坚持了一周后，他发现自己写日记时能更清楚自己的感受，心情也变得平静了许多”。",
+     "id": "q4",
+     "type": "passage-mcq"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

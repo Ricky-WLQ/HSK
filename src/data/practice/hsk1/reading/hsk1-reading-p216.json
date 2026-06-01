@@ -1,0 +1,89 @@
+{
+ "id": "hsk1-reading-p216",
+ "level": "1",
+ "section": "reading",
+ "partKey": "reading-p2",
+ "title": "HSK1 Reading P2",
+ "titleZh": "阅读 第二部分（问答匹配）",
+ "groups": [
+  {
+   "instruction": "请从A到F六个选项中，为下面的每个问题选择一个合适的回答。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "哥哥在看电视。",
+     "pinyin": "gē gē zài kàn diàn shì 。"
+    },
+    {
+     "label": "B",
+     "text": "姐姐在画画。",
+     "pinyin": "jiě jiě zài huà huà 。"
+    },
+    {
+     "label": "C",
+     "text": "爸爸在看书。",
+     "pinyin": "bà bà zài kàn shū 。"
+    },
+    {
+     "label": "D",
+     "text": "妈妈在喝茶。",
+     "pinyin": "mā mā zài hē chá 。"
+    },
+    {
+     "label": "E",
+     "text": "妹妹在唱歌。",
+     "pinyin": "mèi mèi zài chàng gē 。"
+    },
+    {
+     "label": "F",
+     "text": "弟弟在玩球。",
+     "pinyin": "dì di zài wán qiú 。"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "爸爸在做什么？",
+     "correctAnswer": "C",
+     "explanation": "问题问爸爸正在做什么，回答说明爸爸正在看书，所以正确。",
+     "id": "q1",
+     "type": "match",
+     "pinyin": "bà bà zài zuò shén me ？"
+    },
+    {
+     "prompt": "妈妈在做什么？",
+     "correctAnswer": "D",
+     "explanation": "问题问妈妈正在做什么，回答说明妈妈正在喝茶，所以正确。",
+     "id": "q2",
+     "type": "match",
+     "pinyin": "mā mā zài zuò shén me ？"
+    },
+    {
+     "prompt": "哥哥在做什么？",
+     "correctAnswer": "A",
+     "explanation": "问题问哥哥正在做什么，回答说明哥哥正在看电视，所以正确。",
+     "id": "q3",
+     "type": "match",
+     "pinyin": "gē gē zài zuò shén me ？"
+    },
+    {
+     "prompt": "姐姐在做什么？",
+     "correctAnswer": "B",
+     "explanation": "问题问姐姐正在做什么，回答说明姐姐正在画画，所以正确。",
+     "id": "q4",
+     "type": "match",
+     "pinyin": "jiě jiě zài zuò shén me ？"
+    },
+    {
+     "prompt": "弟弟在做什么？",
+     "correctAnswer": "F",
+     "explanation": "问题问弟弟正在做什么，回答说明弟弟正在玩球，所以正确。",
+     "id": "q5",
+     "type": "match",
+     "pinyin": "dì di zài zuò shén me ？"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

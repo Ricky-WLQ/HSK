@@ -1,0 +1,89 @@
+{
+ "id": "hsk3-reading-p202",
+ "level": "3",
+ "section": "reading",
+ "partKey": "reading-p2",
+ "title": "HSK3 Reading P2",
+ "titleZh": "阅读 第二部分（词语填空）",
+ "groups": [
+  {
+   "instruction": "请从A到F中选择合适的词语填入下列句子的空白处（每个词语只能用一次），其中一个词语为多余选项。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "培训",
+     "pinyin": "péi xùn"
+    },
+    {
+     "label": "B",
+     "text": "面试",
+     "pinyin": "miàn shì"
+    },
+    {
+     "label": "C",
+     "text": "加班",
+     "pinyin": "jiā bān"
+    },
+    {
+     "label": "D",
+     "text": "同事",
+     "pinyin": "tóng shì"
+    },
+    {
+     "label": "E",
+     "text": "工资",
+     "pinyin": "gōng zī"
+    },
+    {
+     "label": "F",
+     "text": "辞职",
+     "pinyin": "cí zhí"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "公司下个月会组织一次新的（ ），帮助大家提高技能。",
+     "correctAnswer": "A",
+     "explanation": "培训指的是有组织的学习活动，目的是提高技能，与句子意思相符。",
+     "id": "q1",
+     "type": "cloze-wordbank",
+     "pinyin": "gōng sī xià gè yuè huì zǔ zhī yī cì xīn de （ ）， bāng zhù dà jiā tí gāo jì néng 。"
+    },
+    {
+     "prompt": "为了完成这个项目，他这周已经连续（ ）三天了。",
+     "correctAnswer": "C",
+     "explanation": "加班指在正常工作时间之外继续工作，与句子中‘连续三天’相符。",
+     "id": "q2",
+     "type": "cloze-wordbank",
+     "pinyin": "wèi le wán chéng zhè ge xiàng mù ， tā zhè zhōu yǐ jīng lián xù （ ） sān tiān le 。"
+    },
+    {
+     "prompt": "小张因为对工作不满意，昨天向经理提出了（ ）。",
+     "correctAnswer": "F",
+     "explanation": "辞职指主动提出离开工作岗位，与句子中‘对工作不满意’相符。",
+     "id": "q3",
+     "type": "cloze-wordbank",
+     "pinyin": "xiǎo zhāng yīn wèi duì gōng zuò bù mǎn yì ， zuó tiān xiàng jīng lǐ tí chū le （ ）。"
+    },
+    {
+     "prompt": "每个月的（ ）都会直接打到银行卡上。",
+     "correctAnswer": "E",
+     "explanation": "工资是每月发放的劳动报酬，与‘打到银行卡上’相符。",
+     "id": "q4",
+     "type": "cloze-wordbank",
+     "pinyin": "měi gè yuè de （ ） dū huì zhí jiē dǎ dào yín háng kǎ shàng 。"
+    },
+    {
+     "prompt": "他下周要去一家新公司（ ），所以这几天在准备材料。",
+     "correctAnswer": "B",
+     "explanation": "面试是应聘时的面谈环节，与‘准备材料’‘去新公司’相符。",
+     "id": "q5",
+     "type": "cloze-wordbank",
+     "pinyin": "tā xià zhōu yào qù yī jiā xīn gōng sī （ ）， suǒ yǐ zhè jǐ tiān zài zhǔn bèi cái liào 。"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

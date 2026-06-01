@@ -1,0 +1,89 @@
+{
+ "id": "hsk1-reading-p314",
+ "level": "1",
+ "section": "reading",
+ "partKey": "reading-p3",
+ "title": "HSK1 Reading P3",
+ "titleZh": "阅读 第三部分（选词填空）",
+ "groups": [
+  {
+   "instruction": "请从A-F中选择合适的词语填入句子中的括号（ ）里。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "问",
+     "pinyin": "wèn"
+    },
+    {
+     "label": "B",
+     "text": "给",
+     "pinyin": "gěi"
+    },
+    {
+     "label": "C",
+     "text": "听",
+     "pinyin": "tīng"
+    },
+    {
+     "label": "D",
+     "text": "用",
+     "pinyin": "yòng"
+    },
+    {
+     "label": "E",
+     "text": "和",
+     "pinyin": "hé"
+    },
+    {
+     "label": "F",
+     "text": "看",
+     "pinyin": "kàn"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "我（ ）同学书。",
+     "correctAnswer": "B",
+     "explanation": "“给”表示给予，句子意思是“我给同学书”，符合志愿服务场景。其他词语填入后语法不通或语义不合适。",
+     "id": "q1",
+     "type": "cloze-wordbank",
+     "pinyin": "wǒ （ ） tóng xué shū 。"
+    },
+    {
+     "prompt": "我（ ）同学去学校。",
+     "correctAnswer": "E",
+     "explanation": "“和”表示并列关系，句子意思是“我和同学去学校”，其他词语无法连成通顺句子。",
+     "id": "q2",
+     "type": "cloze-wordbank",
+     "pinyin": "wǒ （ ） tóng xué qù xué xiào 。"
+    },
+    {
+     "prompt": "我（ ）书。",
+     "correctAnswer": "F",
+     "explanation": "“看”表示阅读，句子意思是“我看书”，是志愿活动中常见的行为。其他词语如“给”“和”等填入后不合语法。",
+     "id": "q3",
+     "type": "cloze-wordbank",
+     "pinyin": "wǒ （ ） shū 。"
+    },
+    {
+     "prompt": "我（ ）老师好。",
+     "correctAnswer": "A",
+     "explanation": "“问”用于问候，句子意思是“我问老师好”，是礼貌的志愿行为。其他词语如“看”“用”等无法与“老师好”搭配。",
+     "id": "q4",
+     "type": "cloze-wordbank",
+     "pinyin": "wǒ （ ） lǎo shī hǎo 。"
+    },
+    {
+     "prompt": "我（ ）笔写字。",
+     "correctAnswer": "D",
+     "explanation": "“用”表示使用工具，句子意思是“我用笔写字”，其他词语如“和”“给”等不能表达正确语义。",
+     "id": "q5",
+     "type": "cloze-wordbank",
+     "pinyin": "wǒ （ ） bǐ xiě zì 。"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

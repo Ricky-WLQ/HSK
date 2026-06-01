@@ -1,0 +1,118 @@
+{
+ "id": "hsk3-reading-p312",
+ "level": "3",
+ "section": "reading",
+ "partKey": "reading-p3",
+ "title": "HSK3 Reading P3",
+ "titleZh": "阅读 第三部分（短文理解）",
+ "groups": [
+  {
+   "instruction": "请阅读下面的短文，然后根据短文内容选择正确答案。",
+   "passage": "小明每个星期六都去社区图书馆做志愿者。他帮助读者找书，还参加了“讲故事”活动，给小朋友们讲有趣的故事。图书馆的老师说小明很认真，小朋友们都很喜欢他。",
+   "questions": [
+    {
+     "prompt": "小明什么时候去图书馆做志愿者？",
+     "options": [
+      {
+       "label": "A",
+       "text": "每个星期六",
+       "pinyin": "měi gè xīng qī liù"
+      },
+      {
+       "label": "B",
+       "text": "每个星期日",
+       "pinyin": "měi gè xīng qī rì"
+      },
+      {
+       "label": "C",
+       "text": "每个星期一",
+       "pinyin": "měi gè xīng qī yī"
+      }
+     ],
+     "correctAnswer": "A",
+     "explanation": "短文中明确提到“小明每个星期六都去社区图书馆做志愿者”。",
+     "id": "q1",
+     "type": "passage-mcq",
+     "pinyin": "xiǎo míng shén me shí hòu qù tú shū guǎn zuò zhì yuàn zhě ？"
+    },
+    {
+     "prompt": "小明在图书馆做了什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "打扫卫生",
+       "pinyin": "dǎ sǎo wèi shēng"
+      },
+      {
+       "label": "B",
+       "text": "帮助读者找书",
+       "pinyin": "bāng zhù dú zhě zhǎo shū"
+      },
+      {
+       "label": "C",
+       "text": "买书",
+       "pinyin": "mǎi shū"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "短文说“他帮助读者找书，还参加了‘讲故事’活动”，因此帮助读者找书是他的工作之一。",
+     "id": "q2",
+     "type": "passage-mcq",
+     "pinyin": "xiǎo míng zài tú shū guǎn zuò le shén me ？"
+    },
+    {
+     "prompt": "谁觉得小明很认真？",
+     "options": [
+      {
+       "label": "A",
+       "text": "小朋友们",
+       "pinyin": "xiǎo péng yǒu men"
+      },
+      {
+       "label": "B",
+       "text": "图书馆的老师",
+       "pinyin": "tú shū guǎn de lǎo shī"
+      },
+      {
+       "label": "C",
+       "text": "小明的妈妈",
+       "pinyin": "xiǎo míng de mā mā"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "短文中写道“图书馆的老师说小明很认真”。",
+     "id": "q3",
+     "type": "passage-mcq",
+     "pinyin": "shuí jué de xiǎo míng hěn rèn zhēn ？"
+    },
+    {
+     "prompt": "小朋友们喜欢小明吗？",
+     "options": [
+      {
+       "label": "A",
+       "text": "喜欢",
+       "pinyin": "xǐ huān"
+      },
+      {
+       "label": "B",
+       "text": "不知道",
+       "pinyin": "bù zhī dào"
+      },
+      {
+       "label": "C",
+       "text": "不喜欢",
+       "pinyin": "bù xǐ huān"
+      }
+     ],
+     "correctAnswer": "A",
+     "explanation": "短文最后一句说“小朋友们都很喜欢他”。",
+     "id": "q4",
+     "type": "passage-mcq",
+     "pinyin": "xiǎo péng yǒu men xǐ huān xiǎo míng ma ？"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

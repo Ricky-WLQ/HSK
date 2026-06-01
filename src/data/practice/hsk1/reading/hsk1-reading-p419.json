@@ -1,0 +1,142 @@
+{
+ "id": "hsk1-reading-p419",
+ "level": "1",
+ "section": "reading",
+ "partKey": "reading-p4",
+ "title": "HSK1 Reading P4",
+ "titleZh": "阅读 第四部分（短句理解）",
+ "groups": [
+  {
+   "instruction": "阅读下面的短文和问题，选择正确的答案。",
+   "questions": [
+    {
+     "prompt": "中国人喜欢喝茶。★他们喜欢喝什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "水",
+       "pinyin": "shuǐ"
+      },
+      {
+       "label": "B",
+       "text": "茶",
+       "pinyin": "chá"
+      },
+      {
+       "label": "C",
+       "text": "牛奶",
+       "pinyin": "niú nǎi"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "短文说“中国人喜欢喝茶”，所以喜欢喝的是茶。",
+     "id": "q1",
+     "type": "passage-mcq",
+     "pinyin": "zhōng guó rén xǐ huān hē chá 。★ tā men xǐ huān hē shén me ？"
+    },
+    {
+     "prompt": "晚上月亮很大。★月亮怎么样？",
+     "options": [
+      {
+       "label": "A",
+       "text": "很白",
+       "pinyin": "hěn bái"
+      },
+      {
+       "label": "B",
+       "text": "很小",
+       "pinyin": "hěn xiǎo"
+      },
+      {
+       "label": "C",
+       "text": "很大",
+       "pinyin": "hěn dà"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "短文说“月亮很大”，所以月亮很大。",
+     "id": "q2",
+     "type": "passage-mcq",
+     "pinyin": "wǎn shàng yuè liàng hěn dà 。★ yuè liàng zěn me yàng ？"
+    },
+    {
+     "prompt": "我学写漂亮的中国字。★我在做什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "吃饭",
+       "pinyin": "chī fàn"
+      },
+      {
+       "label": "B",
+       "text": "看书",
+       "pinyin": "kàn shū"
+      },
+      {
+       "label": "C",
+       "text": "写字",
+       "pinyin": "xiě zì"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "短文说“学写漂亮的中国字”，说明我在写字。",
+     "id": "q3",
+     "type": "passage-mcq",
+     "pinyin": "wǒ xué xiě piào liàng de zhōng guó zì 。★ wǒ zài zuò shén me ？"
+    },
+    {
+     "prompt": "孔子喜欢看很多书。★孔子喜欢什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "茶",
+       "pinyin": "chá"
+      },
+      {
+       "label": "B",
+       "text": "书",
+       "pinyin": "shū"
+      },
+      {
+       "label": "C",
+       "text": "水",
+       "pinyin": "shuǐ"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "短文说“孔子喜欢看很多书”，所以孔子喜欢书。",
+     "id": "q4",
+     "type": "passage-mcq",
+     "pinyin": "kǒng zi xǐ huān kàn hěn duō shū 。★ kǒng zi xǐ huān shén me ？"
+    },
+    {
+     "prompt": "中国的红色很漂亮。★红色怎么样？",
+     "options": [
+      {
+       "label": "A",
+       "text": "很多",
+       "pinyin": "hěn duō"
+      },
+      {
+       "label": "B",
+       "text": "很漂亮",
+       "pinyin": "hěn piào liàng"
+      },
+      {
+       "label": "C",
+       "text": "很大",
+       "pinyin": "hěn dà"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "短文说“红色很漂亮”，所以红色很漂亮。",
+     "id": "q5",
+     "type": "passage-mcq",
+     "pinyin": "zhōng guó de hóng sè hěn piào liàng 。★ hóng sè zěn me yàng ？"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

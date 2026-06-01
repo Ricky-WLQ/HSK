@@ -1,0 +1,89 @@
+{
+ "id": "hsk2-reading-p212",
+ "level": "2",
+ "section": "reading",
+ "partKey": "reading-p2",
+ "title": "HSK2 Reading P2",
+ "titleZh": "阅读 第二部分（选词填空）",
+ "groups": [
+  {
+   "instruction": "从下面的词语中选择合适的词填入句子的空白处，每个词语只能用一次，其中有一个词语是多余的。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "医院",
+     "pinyin": "yī yuàn"
+    },
+    {
+     "label": "B",
+     "text": "药",
+     "pinyin": "yào"
+    },
+    {
+     "label": "C",
+     "text": "休息",
+     "pinyin": "xiū xī"
+    },
+    {
+     "label": "D",
+     "text": "医生",
+     "pinyin": "yī shēng"
+    },
+    {
+     "label": "E",
+     "text": "生病",
+     "pinyin": "shēng bìng"
+    },
+    {
+     "label": "F",
+     "text": "健康",
+     "pinyin": "jiàn kāng"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "他（ ）了，不能去上班。",
+     "correctAnswer": "E",
+     "explanation": "此句中“生病”表示身体不舒服，导致无法上班，符合语境。",
+     "id": "q1",
+     "type": "cloze-wordbank",
+     "pinyin": "tā （ ） le ， bù néng qù shàng bān 。"
+    },
+    {
+     "prompt": "你最好多（ ），别太累了。",
+     "correctAnswer": "C",
+     "explanation": "此句中“休息”指停下工作或活动以恢复体力，与“别太累”搭配合理。",
+     "id": "q2",
+     "type": "cloze-wordbank",
+     "pinyin": "nǐ zuì hǎo duō （ ）， bié tài lèi le 。"
+    },
+    {
+     "prompt": "我有点头疼，要去看（ ）。",
+     "correctAnswer": "D",
+     "explanation": "此句中“医生”是治疗头疼的专业人员，“去看医生”是常见表达。",
+     "id": "q3",
+     "type": "cloze-wordbank",
+     "pinyin": "wǒ yǒu diǎn tóu téng ， yào qù kàn （ ）。"
+    },
+    {
+     "prompt": "这种（ ）一天吃三次。",
+     "correctAnswer": "B",
+     "explanation": "此句中“药”是需要按次数服用的物品，“一天吃三次”是吃药的习惯说法。",
+     "id": "q4",
+     "type": "cloze-wordbank",
+     "pinyin": "zhè zhǒng （ ） yī tiān chī sān cì 。"
+    },
+    {
+     "prompt": "多运动对身体（ ）有好处。",
+     "correctAnswer": "F",
+     "explanation": "此句中“健康”指身体状态好，“对身体有好处”与“健康”搭配自然。",
+     "id": "q5",
+     "type": "cloze-wordbank",
+     "pinyin": "duō yùn dòng duì shēn tǐ （ ） yǒu hǎo chù 。"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

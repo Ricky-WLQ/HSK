@@ -1,0 +1,74 @@
+{
+ "id": "hsk4-reading-p116",
+ "level": "4",
+ "section": "reading",
+ "partKey": "reading-p1",
+ "title": "HSK4 Reading P1",
+ "titleZh": "阅读 第一部分（选词填空）",
+ "groups": [
+  {
+   "instruction": "请从下面的词语中选择最合适的填入句子的空白处，每个词语只能用一次。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "面试"
+    },
+    {
+     "label": "B",
+     "text": "加班"
+    },
+    {
+     "label": "C",
+     "text": "升职"
+    },
+    {
+     "label": "D",
+     "text": "工资"
+    },
+    {
+     "label": "E",
+     "text": "辞职"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "明天我要去一家公司（ ），希望能得到这个职位。",
+     "correctAnswer": "A",
+     "explanation": "“面试”指找工作时与用人单位的见面考核，此处需填入与求职相关的动词，语义搭配合理。",
+     "id": "q1",
+     "type": "cloze-wordbank"
+    },
+    {
+     "prompt": "他因为觉得压力太大，决定（ ）。",
+     "correctAnswer": "E",
+     "explanation": "“辞职”指主动提出解除劳动合同，与句中“压力太大”导致离开的决定相符。",
+     "id": "q2",
+     "type": "cloze-wordbank"
+    },
+    {
+     "prompt": "这个月任务很多，我们不得不经常（ ）。",
+     "correctAnswer": "B",
+     "explanation": "“加班”指在规定工作时间之外继续工作，与“任务很多”需要增加工作时间的情境一致。",
+     "id": "q3",
+     "type": "cloze-wordbank"
+    },
+    {
+     "prompt": "他在公司工作三年后终于（ ）为部门经理。",
+     "correctAnswer": "C",
+     "explanation": "“升职”指职位晋升，变为“部门经理”正是升职的结果。",
+     "id": "q4",
+     "type": "cloze-wordbank"
+    },
+    {
+     "prompt": "这份工作的（ ）虽然不高，但福利很好。",
+     "correctAnswer": "D",
+     "explanation": "“工资”指劳动报酬，与“不高”搭配，且与“福利”并列对比，符合语境。",
+     "id": "q5",
+     "type": "cloze-wordbank"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

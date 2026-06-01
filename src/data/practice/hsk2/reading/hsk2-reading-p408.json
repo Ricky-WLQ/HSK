@@ -1,0 +1,142 @@
+{
+ "id": "hsk2-reading-p408",
+ "level": "2",
+ "section": "reading",
+ "partKey": "reading-p4",
+ "title": "HSK2 Reading P4",
+ "titleZh": "阅读 第四部分（短文理解）",
+ "groups": [
+  {
+   "instruction": "请阅读下面的短文，然后根据短文内容选择正确答案。",
+   "questions": [
+    {
+     "prompt": "小王喜欢看电影。他昨天看了一部关于动物的电影。★他看了什么电影？",
+     "options": [
+      {
+       "label": "A",
+       "text": "喜剧电影",
+       "pinyin": "xǐ jù diàn yǐng"
+      },
+      {
+       "label": "B",
+       "text": "动物电影",
+       "pinyin": "dòng wù diàn yǐng"
+      },
+      {
+       "label": "C",
+       "text": "爱情电影",
+       "pinyin": "ài qíng diàn yǐng"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "短文中说“他昨天看了一部关于动物的电影”，所以是动物电影。",
+     "id": "q1",
+     "type": "passage-mcq",
+     "pinyin": "xiǎo wáng xǐ huān kàn diàn yǐng 。 tā zuó tiān kàn le yī bù guān yú dòng wù de diàn yǐng 。★ tā kàn le shén me diàn yǐng ？"
+    },
+    {
+     "prompt": "姐姐和我去电影院。她买了爆米花。★她买了什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "可乐",
+       "pinyin": "kě lè"
+      },
+      {
+       "label": "B",
+       "text": "电影票",
+       "pinyin": "diàn yǐng piào"
+      },
+      {
+       "label": "C",
+       "text": "爆米花",
+       "pinyin": "bào mǐ huā"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "短文中说“她买了爆米花”，所以是爆米花。",
+     "id": "q2",
+     "type": "passage-mcq",
+     "pinyin": "jiě jiě hé wǒ qù diàn yǐng yuàn 。 tā mǎi le bào mǐ huā 。★ tā mǎi le shén me ？"
+    },
+    {
+     "prompt": "这部电影很长，有两小时。小明觉得很有意思。★他觉得电影怎么样？",
+     "options": [
+      {
+       "label": "A",
+       "text": "很有意思",
+       "pinyin": "hěn yǒu yì si"
+      },
+      {
+       "label": "B",
+       "text": "很短",
+       "pinyin": "hěn duǎn"
+      },
+      {
+       "label": "C",
+       "text": "不好看",
+       "pinyin": "bù hǎo kàn"
+      }
+     ],
+     "correctAnswer": "A",
+     "explanation": "短文中说“小明觉得很有意思”，所以电影很有意思。",
+     "id": "q3",
+     "type": "passage-mcq",
+     "pinyin": "zhè bù diàn yǐng hěn zhǎng ， yǒu liǎng xiǎo shí 。 xiǎo míng jué de hěn yǒu yì si 。★ tā jué de diàn yǐng zěn me yàng ？"
+    },
+    {
+     "prompt": "妈妈喜欢看电视剧。她每天看一集。★她每天做什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "看书",
+       "pinyin": "kàn shū"
+      },
+      {
+       "label": "B",
+       "text": "看电视剧",
+       "pinyin": "kàn diàn shì jù"
+      },
+      {
+       "label": "C",
+       "text": "看电影",
+       "pinyin": "kàn diàn yǐng"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "短文中说“她每天看一集”，前面提到“妈妈喜欢看电视剧”，所以每天看电视剧。",
+     "id": "q4",
+     "type": "passage-mcq",
+     "pinyin": "mā mā xǐ huān kàn diàn shì jù 。 tā měi tiān kàn yī jí 。★ tā měi tiān zuò shén me ？"
+    },
+    {
+     "prompt": "小张今天下午五点去看电影。★他几点看电影？",
+     "options": [
+      {
+       "label": "A",
+       "text": "下午五点",
+       "pinyin": "xià wǔ wǔ diǎn"
+      },
+      {
+       "label": "B",
+       "text": "晚上八点",
+       "pinyin": "wǎn shàng bā diǎn"
+      },
+      {
+       "label": "C",
+       "text": "下午三点",
+       "pinyin": "xià wǔ sān diǎn"
+      }
+     ],
+     "correctAnswer": "A",
+     "explanation": "短文中说“今天下午五点去看电影”，所以是下午五点。",
+     "id": "q5",
+     "type": "passage-mcq",
+     "pinyin": "xiǎo zhāng jīn tiān xià wǔ wǔ diǎn qù kàn diàn yǐng 。★ tā jǐ diǎn kàn diàn yǐng ？"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

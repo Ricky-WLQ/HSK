@@ -1,0 +1,89 @@
+{
+ "id": "hsk2-reading-p215",
+ "level": "2",
+ "section": "reading",
+ "partKey": "reading-p2",
+ "title": "HSK2 Reading P2",
+ "titleZh": "阅读 第二部分（选词填空）",
+ "groups": [
+  {
+   "instruction": "请从A-F中选择合适的词语填到每句的括号中，注意有一个词是多余的。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "慢",
+     "pinyin": "màn"
+    },
+    {
+     "label": "B",
+     "text": "晚",
+     "pinyin": "wǎn"
+    },
+    {
+     "label": "C",
+     "text": "准备",
+     "pinyin": "zhǔn bèi"
+    },
+    {
+     "label": "D",
+     "text": "迟到",
+     "pinyin": "chí dào"
+    },
+    {
+     "label": "E",
+     "text": "快",
+     "pinyin": "kuài"
+    },
+    {
+     "label": "F",
+     "text": "早",
+     "pinyin": "zǎo"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "今天早上他起得很（ ），结果上班迟到了。",
+     "correctAnswer": "B",
+     "explanation": "句子说“结果上班迟到了”，说明起床时间太晚，所以“晚”意思是时间靠后，符合句意。",
+     "id": "q1",
+     "type": "cloze-wordbank",
+     "pinyin": "jīn tiān zǎo shàng tā qǐ dé hěn （ ）， jié guǒ shàng bān chí dào le 。"
+    },
+    {
+     "prompt": "为了准时到公司，他每天（ ）二十分钟出门。",
+     "correctAnswer": "F",
+     "explanation": "为了准时到公司，需要提前出门，所以“早”表示在平时时间之前，符合句意。",
+     "id": "q2",
+     "type": "cloze-wordbank",
+     "pinyin": "wèi le zhǔn shí dào gōng sī ， tā měi tiān （ ） èr shí fēn zhōng chū mén 。"
+    },
+    {
+     "prompt": "他工作很（ ），只用了一个小时就完成了任务。",
+     "correctAnswer": "E",
+     "explanation": "只用一小时完成任务，说明做事迅速，“快”指速度高、用时短，符合句意。",
+     "id": "q3",
+     "type": "cloze-wordbank",
+     "pinyin": "tā gōng zuò hěn （ ）， zhǐ yòng le yí gè xiǎo shí jiù wán chéng le rèn wù 。"
+    },
+    {
+     "prompt": "明天要面试，他（ ）了很多问题。",
+     "correctAnswer": "C",
+     "explanation": "面试前需要做准备工作，“准备”意思是事先安排或筹划，符合句意。",
+     "id": "q4",
+     "type": "cloze-wordbank",
+     "pinyin": "míng tiān yào miàn shì ， tā （ ） le hěn duō wèn tí 。"
+    },
+    {
+     "prompt": "因为路上堵车，他（ ）了五分钟。",
+     "correctAnswer": "D",
+     "explanation": "堵车导致没有按时到达，“迟到”意思是比规定时间晚到，后面可以接时间长度，符合句意。",
+     "id": "q5",
+     "type": "cloze-wordbank",
+     "pinyin": "yīn wèi lù shàng dǔ chē ， tā （ ） le wǔ fēn zhōng 。"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

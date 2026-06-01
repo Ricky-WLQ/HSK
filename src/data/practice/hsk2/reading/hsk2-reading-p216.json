@@ -1,0 +1,89 @@
+{
+ "id": "hsk2-reading-p216",
+ "level": "2",
+ "section": "reading",
+ "partKey": "reading-p2",
+ "title": "HSK2 Reading P2",
+ "titleZh": "阅读 第二部分（选词填空）",
+ "groups": [
+  {
+   "instruction": "请从下面的词语中选择合适的填入句子的空白处。每个词语只能用一次，有一个词语多余。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "便宜",
+     "pinyin": "pián yi"
+    },
+    {
+     "label": "B",
+     "text": "商店",
+     "pinyin": "shāng diàn"
+    },
+    {
+     "label": "C",
+     "text": "贵",
+     "pinyin": "guì"
+    },
+    {
+     "label": "D",
+     "text": "买",
+     "pinyin": "mǎi"
+    },
+    {
+     "label": "E",
+     "text": "钱",
+     "pinyin": "qián"
+    },
+    {
+     "label": "F",
+     "text": "卖",
+     "pinyin": "mài"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "这件白色的衣服很（ ），只花了50元。",
+     "correctAnswer": "A",
+     "explanation": "句子说衣服只花了50元，说明价格不高，所以填“便宜”。",
+     "id": "q1",
+     "type": "cloze-wordbank",
+     "pinyin": "zhè jiàn bái sè de yī fú hěn （ ）， zhǐ huā le 50 yuán 。"
+    },
+    {
+     "prompt": "那件红色的衣服太（ ）了，要花500元。",
+     "correctAnswer": "C",
+     "explanation": "句子说衣服要花500元，说明价格很高，所以填“贵”。",
+     "id": "q2",
+     "type": "cloze-wordbank",
+     "pinyin": "nà jiàn hóng sè de yī fú tài （ ） le ， yào huā 500 yuán 。"
+    },
+    {
+     "prompt": "我（ ）了一件新衣服，明天穿。",
+     "correctAnswer": "D",
+     "explanation": "句子意思是得到一件新衣服，用“买”表示购买行为。",
+     "id": "q3",
+     "type": "cloze-wordbank",
+     "pinyin": "wǒ （ ） le yī jiàn xīn yī fú ， míng tiān chuān 。"
+    },
+    {
+     "prompt": "我没有带够（ ），不能买。",
+     "correctAnswer": "E",
+     "explanation": "句子说因为没有带够而无法购买，需要的是“钱”。",
+     "id": "q4",
+     "type": "cloze-wordbank",
+     "pinyin": "wǒ méi yǒu dài gòu （ ）， bù néng mǎi 。"
+    },
+    {
+     "prompt": "这家（ ）的衣服很好看。",
+     "correctAnswer": "B",
+     "explanation": "句子指卖衣服的地方，所以填“商店”。",
+     "id": "q5",
+     "type": "cloze-wordbank",
+     "pinyin": "zhè jiā （ ） de yī fú hěn hǎo kàn 。"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

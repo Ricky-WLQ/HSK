@@ -1,0 +1,142 @@
+{
+ "id": "hsk1-reading-p418",
+ "level": "1",
+ "section": "reading",
+ "partKey": "reading-p4",
+ "title": "HSK1 Reading P4",
+ "titleZh": "阅读 第四部分（短句理解）",
+ "groups": [
+  {
+   "instruction": "阅读下面的句子和问题，选择正确的答案。",
+   "questions": [
+    {
+     "prompt": "我每天和朋友一起学习。★谁和我一起学习？",
+     "options": [
+      {
+       "label": "A",
+       "text": "老师",
+       "pinyin": "lǎo shī"
+      },
+      {
+       "label": "B",
+       "text": "同学",
+       "pinyin": "tóng xué"
+      },
+      {
+       "label": "C",
+       "text": "朋友",
+       "pinyin": "péng yǒu"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "句子说“我和朋友一起学习”，所以一起学习的人是朋友。",
+     "id": "q1",
+     "type": "passage-mcq",
+     "pinyin": "wǒ měi tiān hé péng yǒu yì qǐ xué xí 。★ shuí hé wǒ yì qǐ xué xí ？"
+    },
+    {
+     "prompt": "她送给我一本书。★她送给我什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "花",
+       "pinyin": "huā"
+      },
+      {
+       "label": "B",
+       "text": "笔",
+       "pinyin": "bǐ"
+      },
+      {
+       "label": "C",
+       "text": "书",
+       "pinyin": "shū"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "句子说“送给我一本书”，所以礼物是书。",
+     "id": "q2",
+     "type": "passage-mcq",
+     "pinyin": "tā sòng gěi wǒ yī běn shū 。★ tā sòng gěi wǒ shén me ？"
+    },
+    {
+     "prompt": "我们需要帮助新同学。★谁需要帮助？",
+     "options": [
+      {
+       "label": "A",
+       "text": "新同学",
+       "pinyin": "xīn tóng xué"
+      },
+      {
+       "label": "B",
+       "text": "老师",
+       "pinyin": "lǎo shī"
+      },
+      {
+       "label": "C",
+       "text": "我们",
+       "pinyin": "wǒ men"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "句子说“我们需要帮助新同学”，所以需要帮助的人是“我们”。",
+     "id": "q3",
+     "type": "passage-mcq",
+     "pinyin": "wǒ men xū yào bāng zhù xīn tóng xué 。★ shuí xū yào bāng zhù ？"
+    },
+    {
+     "prompt": "我的好朋友叫小华。★小华是谁？",
+     "options": [
+      {
+       "label": "A",
+       "text": "我的老师",
+       "pinyin": "wǒ de lǎo shī"
+      },
+      {
+       "label": "B",
+       "text": "我的同学",
+       "pinyin": "wǒ de tóng xué"
+      },
+      {
+       "label": "C",
+       "text": "我的好朋友",
+       "pinyin": "wǒ de hǎo péng yǒu"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "句子说“我的好朋友叫小华”，所以小华是我的好朋友。",
+     "id": "q4",
+     "type": "passage-mcq",
+     "pinyin": "wǒ de hǎo péng yǒu jiào xiǎo huá 。★ xiǎo huá shì shuí ？"
+    },
+    {
+     "prompt": "我们一起喝茶。★我们做什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "喝水",
+       "pinyin": "hē shuǐ"
+      },
+      {
+       "label": "B",
+       "text": "吃饭",
+       "pinyin": "chī fàn"
+      },
+      {
+       "label": "C",
+       "text": "喝茶",
+       "pinyin": "hē chá"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "句子说“我们一起喝茶”，所以我们在喝茶。",
+     "id": "q5",
+     "type": "passage-mcq",
+     "pinyin": "wǒ men yì qǐ hē chá 。★ wǒ men zuò shén me ？"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

@@ -1,0 +1,142 @@
+{
+ "id": "hsk1-reading-p411",
+ "level": "1",
+ "section": "reading",
+ "partKey": "reading-p4",
+ "title": "HSK1 Reading P4",
+ "titleZh": "阅读 第四部分（短句理解）",
+ "groups": [
+  {
+   "instruction": "请阅读短文并选择正确答案。",
+   "questions": [
+    {
+     "prompt": "小王在饭店吃面条。★他吃了什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "面条",
+       "pinyin": "miàn tiáo"
+      },
+      {
+       "label": "B",
+       "text": "米饭",
+       "pinyin": "mǐ fàn"
+      },
+      {
+       "label": "C",
+       "text": "包子",
+       "pinyin": "bāo zi"
+      }
+     ],
+     "correctAnswer": "A",
+     "explanation": "短文说小王在饭店吃面条，所以他吃的是面条。",
+     "id": "q1",
+     "type": "passage-mcq",
+     "pinyin": "xiǎo wáng zài fàn diàn chī miàn tiáo 。★ tā chī le shén me ？"
+    },
+    {
+     "prompt": "妈妈做的菜很好吃。★谁做的菜？",
+     "options": [
+      {
+       "label": "A",
+       "text": "哥哥",
+       "pinyin": "gē gē"
+      },
+      {
+       "label": "B",
+       "text": "爸爸",
+       "pinyin": "bà bà"
+      },
+      {
+       "label": "C",
+       "text": "妈妈",
+       "pinyin": "mā mā"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "短文说妈妈做的菜很好吃，所以是妈妈做的菜。",
+     "id": "q2",
+     "type": "passage-mcq",
+     "pinyin": "mā mā zuò de cài hěn hǎo chī 。★ shuí zuò de cài ？"
+    },
+    {
+     "prompt": "我喝水，杯子很热。★杯子怎么样？",
+     "options": [
+      {
+       "label": "A",
+       "text": "很热",
+       "pinyin": "hěn rè"
+      },
+      {
+       "label": "B",
+       "text": "很冷",
+       "pinyin": "hěn lěng"
+      },
+      {
+       "label": "C",
+       "text": "很大",
+       "pinyin": "hěn dà"
+      }
+     ],
+     "correctAnswer": "A",
+     "explanation": "短文说杯子很热，所以杯子很热。",
+     "id": "q3",
+     "type": "passage-mcq",
+     "pinyin": "wǒ hē shuǐ ， bēi zi hěn rè 。★ bēi zi zěn me yàng ？"
+    },
+    {
+     "prompt": "朋友请我吃一个苹果。★谁请我吃苹果？",
+     "options": [
+      {
+       "label": "A",
+       "text": "老师",
+       "pinyin": "lǎo shī"
+      },
+      {
+       "label": "B",
+       "text": "同学",
+       "pinyin": "tóng xué"
+      },
+      {
+       "label": "C",
+       "text": "朋友",
+       "pinyin": "péng yǒu"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "短文说朋友请我吃苹果，所以是朋友请的。",
+     "id": "q4",
+     "type": "passage-mcq",
+     "pinyin": "péng yǒu qǐng wǒ chī yí gè píng guǒ 。★ shuí qǐng wǒ chī píng guǒ ？"
+    },
+    {
+     "prompt": "早上我喝了一杯牛奶。★我喝了什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "牛奶",
+       "pinyin": "niú nǎi"
+      },
+      {
+       "label": "B",
+       "text": "茶",
+       "pinyin": "chá"
+      },
+      {
+       "label": "C",
+       "text": "水",
+       "pinyin": "shuǐ"
+      }
+     ],
+     "correctAnswer": "A",
+     "explanation": "短文说早上我喝了一杯牛奶，所以我喝了牛奶。",
+     "id": "q5",
+     "type": "passage-mcq",
+     "pinyin": "zǎo shàng wǒ hē le yī bēi niú nǎi 。★ wǒ hē le shén me ？"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

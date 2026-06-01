@@ -1,0 +1,74 @@
+{
+ "id": "hsk4-reading-p119",
+ "level": "4",
+ "section": "reading",
+ "partKey": "reading-p1",
+ "title": "HSK4 Reading P1",
+ "titleZh": "阅读 第一部分（选词填空）",
+ "groups": [
+  {
+   "instruction": "请从下面方框中选择合适的词语填空，每个词语只能用一次。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "传统"
+    },
+    {
+     "label": "B",
+     "text": "烹饪"
+    },
+    {
+     "label": "C",
+     "text": "味道"
+    },
+    {
+     "label": "D",
+     "text": "特色"
+    },
+    {
+     "label": "E",
+     "text": "原料"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "这家餐馆的招牌菜很有地方（ ），吸引了很多顾客。",
+     "correctAnswer": "D",
+     "explanation": "“特色”指独特之处，“地方特色”表示这个地方独有的特点，符合句意。",
+     "id": "q1",
+     "type": "cloze-wordbank"
+    },
+    {
+     "prompt": "春节包饺子是中国人的（ ）习惯。",
+     "correctAnswer": "A",
+     "explanation": "“传统”指世代相传的习俗，“传统习惯”表示长期传承下来的习惯。",
+     "id": "q2",
+     "type": "cloze-wordbank"
+    },
+    {
+     "prompt": "这道菜的（ ）非常新鲜，都是从农场直接运来的。",
+     "correctAnswer": "E",
+     "explanation": "“原料”指未经加工的材料，句中“新鲜”“从农场运来”指的是制作菜的材料。",
+     "id": "q3",
+     "type": "cloze-wordbank"
+    },
+    {
+     "prompt": "这道汤的（ ）很鲜美，我喝了两大碗。",
+     "correctAnswer": "C",
+     "explanation": "“味道”指食物尝到的滋味，“鲜美”是形容味道好的词。",
+     "id": "q4",
+     "type": "cloze-wordbank"
+    },
+    {
+     "prompt": "他跟着一位大厨学习（ ）技巧。",
+     "correctAnswer": "B",
+     "explanation": "“烹饪”指制作饭菜的方法，“烹饪技巧”即做菜的技能。",
+     "id": "q5",
+     "type": "cloze-wordbank"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

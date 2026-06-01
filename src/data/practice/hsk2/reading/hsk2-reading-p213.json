@@ -1,0 +1,89 @@
+{
+ "id": "hsk2-reading-p213",
+ "level": "2",
+ "section": "reading",
+ "partKey": "reading-p2",
+ "title": "HSK2 Reading P2",
+ "titleZh": "阅读 第二部分（选词填空）",
+ "groups": [
+  {
+   "instruction": "从下面的词语中选择合适的填入句子空白处。每个词语只能用一次，有一个词语是多余的。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "饭",
+     "pinyin": "fàn"
+    },
+    {
+     "label": "B",
+     "text": "饿",
+     "pinyin": "è"
+    },
+    {
+     "label": "C",
+     "text": "炒",
+     "pinyin": "chǎo"
+    },
+    {
+     "label": "D",
+     "text": "好吃",
+     "pinyin": "hǎo chī"
+    },
+    {
+     "label": "E",
+     "text": "菜",
+     "pinyin": "cài"
+    },
+    {
+     "label": "F",
+     "text": "水",
+     "pinyin": "shuǐ"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "我中午吃了两碗（ ），现在很饱。",
+     "correctAnswer": "A",
+     "explanation": "“两碗”通常与“饭”搭配，表示米饭的量。“菜”一般不说“两碗菜”，所以填“饭”。",
+     "id": "q1",
+     "type": "cloze-wordbank",
+     "pinyin": "wǒ zhōng wǔ chī le liǎng wǎn （ ）， xiàn zài hěn bǎo 。"
+    },
+    {
+     "prompt": "妈妈做的（ ）很好吃，我吃了很多。",
+     "correctAnswer": "E",
+     "explanation": "“做的”后面常接“菜”或“饭”，但“菜”指菜肴，与“好吃”搭配更自然，且前一句未指定主食，故填“菜”。",
+     "id": "q2",
+     "type": "cloze-wordbank",
+     "pinyin": "mā mā zuò de （ ） hěn hǎo chī ， wǒ chī le hěn duō 。"
+    },
+    {
+     "prompt": "天气很热，我想喝一杯（ ）。",
+     "correctAnswer": "F",
+     "explanation": "“喝一杯”后常接液体，“水”是常见的饮品，符合语境。“饭”“菜”等不能喝。",
+     "id": "q3",
+     "type": "cloze-wordbank",
+     "pinyin": "tiān qì hěn rè ， wǒ xiǎng hē yī bēi （ ）。"
+    },
+    {
+     "prompt": "哥哥在厨房（ ）鸡蛋。",
+     "correctAnswer": "C",
+     "explanation": "“鸡蛋”常与“炒”搭配，表示一种烹饪方式，且“炒”是动词，符合句子结构。",
+     "id": "q4",
+     "type": "cloze-wordbank",
+     "pinyin": "gē gē zài chú fáng （ ） jī dàn 。"
+    },
+    {
+     "prompt": "我今天早上没吃饭，现在很（ ）。",
+     "correctAnswer": "B",
+     "explanation": "没吃饭会感到“饿”，表示肚子空、想吃东西的状态，其他词不能表示这种感受。",
+     "id": "q5",
+     "type": "cloze-wordbank",
+     "pinyin": "wǒ jīn tiān zǎo shàng méi chī fàn ， xiàn zài hěn （ ）。"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

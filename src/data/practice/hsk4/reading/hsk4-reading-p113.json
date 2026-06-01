@@ -1,0 +1,74 @@
+{
+ "id": "hsk4-reading-p113",
+ "level": "4",
+ "section": "reading",
+ "partKey": "reading-p1",
+ "title": "HSK4 Reading P1",
+ "titleZh": "阅读 第一部分（选词填空）",
+ "groups": [
+  {
+   "instruction": "请从以下词语中选择一个填入句子的空白处，每个词语只能用一次。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "成本"
+    },
+    {
+     "label": "B",
+     "text": "风险"
+    },
+    {
+     "label": "C",
+     "text": "利润"
+    },
+    {
+     "label": "D",
+     "text": "创业"
+    },
+    {
+     "label": "E",
+     "text": "市场"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "他去年开始了自己的（  ）项目，现在公司已经有一定规模。",
+     "correctAnswer": "D",
+     "explanation": "“创业”指开始创办事业，与“项目”搭配合理，描述开创自己的事业。",
+     "id": "q1",
+     "type": "cloze-wordbank"
+    },
+    {
+     "prompt": "为了增加（  ），公司决定提高产品价格，同时降低生产成本。",
+     "correctAnswer": "C",
+     "explanation": "“利润”指收入减去成本后的收益，公司通过提价和降成本来增加利润。",
+     "id": "q2",
+     "type": "cloze-wordbank"
+    },
+    {
+     "prompt": "我们需要仔细计算每个月的（  ），才能知道是否盈利。",
+     "correctAnswer": "A",
+     "explanation": "“成本”指生产或经营所需的费用，计算成本是判断盈利的基础。",
+     "id": "q3",
+     "type": "cloze-wordbank"
+    },
+    {
+     "prompt": "投资任何一种生意都有一定的（  ），所以要先做好调查。",
+     "correctAnswer": "B",
+     "explanation": "“风险”指可能发生的损失或危险，投资生意必然面临风险，提前调查可规避。",
+     "id": "q4",
+     "type": "cloze-wordbank"
+    },
+    {
+     "prompt": "这个新产品在（  ）上受到了很多消费者的欢迎。",
+     "correctAnswer": "E",
+     "explanation": "“市场”指商品销售的领域或范围，新产品在市场上受欢迎说明销路好。",
+     "id": "q5",
+     "type": "cloze-wordbank"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

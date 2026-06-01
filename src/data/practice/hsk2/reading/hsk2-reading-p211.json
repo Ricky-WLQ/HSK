@@ -1,0 +1,89 @@
+{
+ "id": "hsk2-reading-p211",
+ "level": "2",
+ "section": "reading",
+ "partKey": "reading-p2",
+ "title": "HSK2 Reading P2",
+ "titleZh": "阅读 第二部分（选词填空）",
+ "groups": [
+  {
+   "instruction": "请从下面A-F的词语中选择合适的词填入句子的空白处。每个词只能用一次，有一个词不需要使用。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "饺子",
+     "pinyin": "jiǎo zi"
+    },
+    {
+     "label": "B",
+     "text": "快乐",
+     "pinyin": "kuài lè"
+    },
+    {
+     "label": "C",
+     "text": "春节",
+     "pinyin": "chūn jié"
+    },
+    {
+     "label": "D",
+     "text": "礼物",
+     "pinyin": "lǐ wù"
+    },
+    {
+     "label": "E",
+     "text": "朋友",
+     "pinyin": "péng yǒu"
+    },
+    {
+     "label": "F",
+     "text": "新年",
+     "pinyin": "xīn nián"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "过年的时候，我们一家人吃（ ）。",
+     "correctAnswer": "A",
+     "explanation": "饺子是中国传统节日特别是春节时常见的食物，全家一起吃饺子象征团圆。",
+     "id": "q1",
+     "type": "cloze-wordbank",
+     "pinyin": "guò nián de shí hòu ， wǒ men yī jiā rén chī （ ）。"
+    },
+    {
+     "prompt": "过年的时候，孩子可以得到（ ）。",
+     "correctAnswer": "D",
+     "explanation": "节日或生日时，人们常常会送给孩子礼物，表示祝福和关爱。",
+     "id": "q2",
+     "type": "cloze-wordbank",
+     "pinyin": "guò nián de shí hòu ， hái zi kě yǐ dé dào （ ）。"
+    },
+    {
+     "prompt": "一年中，我最喜欢的节日是（ ）。",
+     "correctAnswer": "C",
+     "explanation": "春节是中国最重要的传统节日，很多人最喜欢这个节日。",
+     "id": "q3",
+     "type": "cloze-wordbank",
+     "pinyin": "yī nián zhōng ， wǒ zuì xǐ huān de jié rì shì （ ）。"
+    },
+    {
+     "prompt": "节日到了，祝大家（ ）！",
+     "correctAnswer": "B",
+     "explanation": "在节日时，人们常常用“快乐”来表达祝福，如“新年快乐”“节日快乐”。",
+     "id": "q4",
+     "type": "cloze-wordbank",
+     "pinyin": "jié rì dào le ， zhù dà jiā （ ）！"
+    },
+    {
+     "prompt": "过春节的时候，我和（ ）一起玩。",
+     "correctAnswer": "E",
+     "explanation": "和朋友一起玩是常见的事情，尤其在节日里，朋友会互相陪伴。",
+     "id": "q5",
+     "type": "cloze-wordbank",
+     "pinyin": "guò chūn jié de shí hòu ， wǒ hé （ ） yì qǐ wán 。"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

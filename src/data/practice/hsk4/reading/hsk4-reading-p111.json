@@ -1,0 +1,74 @@
+{
+ "id": "hsk4-reading-p111",
+ "level": "4",
+ "section": "reading",
+ "partKey": "reading-p1",
+ "title": "HSK4 Reading P1",
+ "titleZh": "阅读 第一部分（选词填空）",
+ "groups": [
+  {
+   "instruction": "请从所给词语中选择一个最恰当的填入句子中的空白处，每个词语只能用一次。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "紧张"
+    },
+    {
+     "label": "B",
+     "text": "放松"
+    },
+    {
+     "label": "C",
+     "text": "担心"
+    },
+    {
+     "label": "D",
+     "text": "失望"
+    },
+    {
+     "label": "E",
+     "text": "感动"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "看到母亲深夜还在为自己缝补衣服，他内心充满了（ ），眼泪忍不住流了下来。",
+     "correctAnswer": "E",
+     "explanation": "根据语境，母亲的行为让人产生感激和温暖的情感，“感动”符合这种心理反应。",
+     "id": "q1",
+     "type": "cloze-wordbank"
+    },
+    {
+     "prompt": "第一次参加省级比赛，他在后台走来走去，手心全是汗，明显非常（ ）。",
+     "correctAnswer": "A",
+     "explanation": "描述比赛前身体反应（出汗、走动），表明情绪不安，“紧张”最贴切。",
+     "id": "q2",
+     "type": "cloze-wordbank"
+    },
+    {
+     "prompt": "躺在温泉里听着轻音乐，她感觉全身都（ ）下来，所有烦恼都消失了。",
+     "correctAnswer": "B",
+     "explanation": "温泉和音乐带来舒适感，消除烦恼，表示从紧绷状态变为舒缓，“放松”符合。",
+     "id": "q3",
+     "type": "cloze-wordbank"
+    },
+    {
+     "prompt": "已经晚上十点了，孩子还没回家，妈妈不停地看钟，心里十分（ ）。",
+     "correctAnswer": "C",
+     "explanation": "孩子晚归引发焦虑，担心安全，“担心”准确表达这种忧虑情绪。",
+     "id": "q4",
+     "type": "cloze-wordbank"
+    },
+    {
+     "prompt": "他精心准备了三个月的画展，结果只来了不到十个人，这让他非常（ ）。",
+     "correctAnswer": "D",
+     "explanation": "付出很多努力但结果不理想，感到沮丧和失落，“失望”恰好描述这种心情。",
+     "id": "q5",
+     "type": "cloze-wordbank"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

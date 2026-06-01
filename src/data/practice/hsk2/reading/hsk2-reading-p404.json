@@ -1,0 +1,142 @@
+{
+ "id": "hsk2-reading-p404",
+ "level": "2",
+ "section": "reading",
+ "partKey": "reading-p4",
+ "title": "HSK2 Reading P4",
+ "titleZh": "阅读 第四部分（短文理解）",
+ "groups": [
+  {
+   "instruction": "请阅读下面的短文，然后选择正确答案。",
+   "questions": [
+    {
+     "prompt": "王医生每天早上七点开始工作。★他什么时候开始工作？",
+     "options": [
+      {
+       "label": "A",
+       "text": "早上八点",
+       "pinyin": "zǎo shàng bā diǎn"
+      },
+      {
+       "label": "B",
+       "text": "早上七点",
+       "pinyin": "zǎo shàng qī diǎn"
+      },
+      {
+       "label": "C",
+       "text": "早上六点",
+       "pinyin": "zǎo shàng liù diǎn"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "短文中说王医生每天早上七点开始工作，所以正确时间是早上七点。",
+     "id": "q1",
+     "type": "passage-mcq",
+     "pinyin": "wáng yī shēng měi tiān zǎo shàng qī diǎn kāi shǐ gōng zuò 。★ tā shén me shí hòu kāi shǐ gōng zuò ？"
+    },
+    {
+     "prompt": "李老师教中文，她很喜欢她的学生。★她是做什么工作的？",
+     "options": [
+      {
+       "label": "A",
+       "text": "医生",
+       "pinyin": "yī shēng"
+      },
+      {
+       "label": "B",
+       "text": "老师",
+       "pinyin": "lǎo shī"
+      },
+      {
+       "label": "C",
+       "text": "司机",
+       "pinyin": "sī jī"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "短文说李老师教中文，所以她的工作是老师。",
+     "id": "q2",
+     "type": "passage-mcq",
+     "pinyin": "lǐ lǎo shī jiāo zhōng wén ， tā hěn xǐ huān tā de xué shēng 。★ tā shì zuò shén me gōng zuò de ？"
+    },
+    {
+     "prompt": "张经理在公司工作，他每天要开很多会。★他的工作是什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "医生",
+       "pinyin": "yī shēng"
+      },
+      {
+       "label": "B",
+       "text": "老师",
+       "pinyin": "lǎo shī"
+      },
+      {
+       "label": "C",
+       "text": "经理",
+       "pinyin": "jīng lǐ"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "短文说张经理在公司工作，所以他的工作是经理。",
+     "id": "q3",
+     "type": "passage-mcq",
+     "pinyin": "zhāng jīng lǐ zài gōng sī gōng zuò ， tā měi tiān yào kāi hěn duō huì 。★ tā de gōng zuò shì shén me ？"
+    },
+    {
+     "prompt": "刘护士在一家医院工作，她每天帮助病人。★她在哪里工作？",
+     "options": [
+      {
+       "label": "A",
+       "text": "公司",
+       "pinyin": "gōng sī"
+      },
+      {
+       "label": "B",
+       "text": "医院",
+       "pinyin": "yī yuàn"
+      },
+      {
+       "label": "C",
+       "text": "学校",
+       "pinyin": "xué xiào"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "短文说刘护士在一家医院工作，所以她在医院工作。",
+     "id": "q4",
+     "type": "passage-mcq",
+     "pinyin": "liú hù shì zài yī jiā yī yuàn gōng zuò ， tā měi tiān bāng zhù bìng rén 。★ tā zài nǎ lǐ gōng zuò ？"
+    },
+    {
+     "prompt": "赵工人每天在工厂里做桌子。★他每天做什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "教书",
+       "pinyin": "jiāo shū"
+      },
+      {
+       "label": "B",
+       "text": "看病",
+       "pinyin": "kàn bìng"
+      },
+      {
+       "label": "C",
+       "text": "做桌子",
+       "pinyin": "zuò zhuō zi"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "短文说赵工人每天做桌子，所以他每天做桌子。",
+     "id": "q5",
+     "type": "passage-mcq",
+     "pinyin": "zhào gōng rén měi tiān zài gōng chǎng lǐ zuò zhuō zi 。★ tā měi tiān zuò shén me ？"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

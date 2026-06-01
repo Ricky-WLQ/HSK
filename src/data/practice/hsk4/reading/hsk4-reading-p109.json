@@ -1,0 +1,74 @@
+{
+ "id": "hsk4-reading-p109",
+ "level": "4",
+ "section": "reading",
+ "partKey": "reading-p1",
+ "title": "HSK4 Reading P1",
+ "titleZh": "阅读 第一部分（选词填空）",
+ "groups": [
+  {
+   "instruction": "请从下面五个词语中选择合适的词语填入下列五个句子的空白处，每个词语只能使用一次。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "拥挤"
+    },
+    {
+     "label": "B",
+     "text": "方便"
+    },
+    {
+     "label": "C",
+     "text": "新鲜"
+    },
+    {
+     "label": "D",
+     "text": "安静"
+    },
+    {
+     "label": "E",
+     "text": "污染"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "每天早上八点，城市里的地铁都非常（ ），很多人挤在一起。",
+     "correctAnswer": "A",
+     "explanation": "句子描述地铁里人多挤在一起，应该选择“拥挤”。",
+     "id": "q1",
+     "type": "cloze-wordbank"
+    },
+    {
+     "prompt": "乡村的蔬菜是刚从地里摘的，非常（ ），味道很好。",
+     "correctAnswer": "C",
+     "explanation": "刚摘的蔬菜特点是新鲜，因此用“新鲜”。",
+     "id": "q2",
+     "type": "cloze-wordbank"
+    },
+    {
+     "prompt": "住在市中心买东西很（ ），超市、商场都在附近。",
+     "correctAnswer": "B",
+     "explanation": "购物方便，指容易买到东西，所以填“方便”。",
+     "id": "q3",
+     "type": "cloze-wordbank"
+    },
+    {
+     "prompt": "乡村的夜晚很（ ），只能听见虫子的叫声。",
+     "correctAnswer": "D",
+     "explanation": "夜晚没有噪音，很安静，所以填“安静”。",
+     "id": "q4",
+     "type": "cloze-wordbank"
+    },
+    {
+     "prompt": "城市的空气（  ）问题越来越严重，人们开始戴口罩。",
+     "correctAnswer": "E",
+     "explanation": "空气问题通常指污染，所以填“污染”。",
+     "id": "q5",
+     "type": "cloze-wordbank"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

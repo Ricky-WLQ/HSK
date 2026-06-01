@@ -1,0 +1,89 @@
+{
+ "id": "hsk1-reading-p215",
+ "level": "1",
+ "section": "reading",
+ "partKey": "reading-p2",
+ "title": "HSK1 Reading P2",
+ "titleZh": "阅读 第二部分（问答匹配）",
+ "groups": [
+  {
+   "instruction": "请为下面的句子找到合适的回答。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "我读了一本好书。",
+     "pinyin": "wǒ dú le yī běn hǎo shū 。"
+    },
+    {
+     "label": "B",
+     "text": "我喜欢看书。",
+     "pinyin": "wǒ xǐ huān kàn shū 。"
+    },
+    {
+     "label": "C",
+     "text": "这本书很好。",
+     "pinyin": "zhè běn shū hěn hǎo 。"
+    },
+    {
+     "label": "D",
+     "text": "她每天写字。",
+     "pinyin": "tā měi tiān xiě zì 。"
+    },
+    {
+     "label": "E",
+     "text": "我不喜欢读书。",
+     "pinyin": "wǒ bù xǐ huān dú shū 。"
+    },
+    {
+     "label": "F",
+     "text": "他写了五个字。",
+     "pinyin": "tā xiě le wǔ gè zì 。"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "你昨天做了什么？",
+     "correctAnswer": "A",
+     "explanation": "问题问昨天做了什么，回答「我读了一本好书」是合适的描述过去动作的句子。",
+     "id": "q1",
+     "type": "match",
+     "pinyin": "nǐ zuó tiān zuò le shén me ？"
+    },
+    {
+     "prompt": "她每天做什么？",
+     "correctAnswer": "D",
+     "explanation": "问题问她每天的习惯，回答「她每天写字」表达了每天做的动作。",
+     "id": "q2",
+     "type": "match",
+     "pinyin": "tā měi tiān zuò shén me ？"
+    },
+    {
+     "prompt": "这本书怎么样？",
+     "correctAnswer": "C",
+     "explanation": "问题问这本书的评价，回答「这本书很好」给出了正面评价。",
+     "id": "q3",
+     "type": "match",
+     "pinyin": "zhè běn shū zěn me yàng ？"
+    },
+    {
+     "prompt": "你喜欢看什么？",
+     "correctAnswer": "B",
+     "explanation": "问题问喜欢的阅读内容，回答「我喜欢看书」直接说明了喜好。",
+     "id": "q4",
+     "type": "match",
+     "pinyin": "nǐ xǐ huān kàn shén me ？"
+    },
+    {
+     "prompt": "他写了几个字？",
+     "correctAnswer": "F",
+     "explanation": "问题问写了多少字，回答「他写了五个字」给出了具体数字。",
+     "id": "q5",
+     "type": "match",
+     "pinyin": "tā xiě le jǐ gè zì ？"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

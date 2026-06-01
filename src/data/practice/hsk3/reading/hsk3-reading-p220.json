@@ -1,0 +1,89 @@
+{
+ "id": "hsk3-reading-p220",
+ "level": "3",
+ "section": "reading",
+ "partKey": "reading-p2",
+ "title": "HSK3 Reading P2",
+ "titleZh": "阅读 第二部分（词语填空）",
+ "groups": [
+  {
+   "instruction": "请从以下词语中选择合适的词填入句子空白处，每个词语只能用一次，有一个词语多余。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "面试",
+     "pinyin": "miàn shì"
+    },
+    {
+     "label": "B",
+     "text": "加班",
+     "pinyin": "jiā bān"
+    },
+    {
+     "label": "C",
+     "text": "同事",
+     "pinyin": "tóng shì"
+    },
+    {
+     "label": "D",
+     "text": "经理",
+     "pinyin": "jīng lǐ"
+    },
+    {
+     "label": "E",
+     "text": "请假",
+     "pinyin": "qǐng jià"
+    },
+    {
+     "label": "F",
+     "text": "工资",
+     "pinyin": "gōng zī"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "他今天身体不舒服，向公司（ ）了。",
+     "correctAnswer": "E",
+     "explanation": "“请假”表示因事或因病请求允许休假，符合句中身体不舒服需要休息的语境。",
+     "id": "q1",
+     "type": "cloze-wordbank",
+     "pinyin": "tā jīn tiān shēn tǐ bù shū fú ， xiàng gōng sī （ ） le 。"
+    },
+    {
+     "prompt": "我们公司的（ ）每个月发一次。",
+     "correctAnswer": "F",
+     "explanation": "“工资”指员工定期获得的报酬，句中“每个月发一次”正是工资的发放特点。",
+     "id": "q2",
+     "type": "cloze-wordbank",
+     "pinyin": "wǒ men gōng sī de （ ） měi gè yuè fā yī cì 。"
+    },
+    {
+     "prompt": "我的（ ）坐在我旁边，他经常给我带早餐。",
+     "correctAnswer": "C",
+     "explanation": "“同事”指在同一单位工作的人，常坐在一起并分享早餐符合同事关系。",
+     "id": "q3",
+     "type": "cloze-wordbank",
+     "pinyin": "wǒ de （ ） zuò zài wǒ páng biān ， tā jīng cháng gěi wǒ dài zǎo cān 。"
+    },
+    {
+     "prompt": "今天工作很多，我需要（ ）到晚上八点。",
+     "correctAnswer": "B",
+     "explanation": "“加班”指在规定工作时间外继续工作，句中因工作多需要延长工作时间。",
+     "id": "q4",
+     "type": "cloze-wordbank",
+     "pinyin": "jīn tiān gōng zuò hěn duō ， wǒ xū yào （ ） dào wǎn shàng bā diǎn 。"
+    },
+    {
+     "prompt": "明天有一个（ ），我要穿西装。",
+     "correctAnswer": "A",
+     "explanation": "“面试”指应聘时与用人单位的见面考核，穿西装是常见准备。",
+     "id": "q5",
+     "type": "cloze-wordbank",
+     "pinyin": "míng tiān yǒu yí gè （ ）， wǒ yào chuān xī zhuāng 。"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

@@ -1,0 +1,118 @@
+{
+ "id": "hsk4-reading-p218",
+ "level": "4",
+ "section": "reading",
+ "partKey": "reading-p2",
+ "title": "HSK4 Reading P2",
+ "titleZh": "阅读 第二部分（短文理解）",
+ "groups": [
+  {
+   "instruction": "请阅读下面的短文，然后根据短文内容选择正确答案。",
+   "passage": "李明是一名大学生，他参加了海洋保护志愿者活动。他们去海边收集垃圾，发现很多塑料瓶和塑料袋。这些垃圾对海洋生物非常危险。志愿者花了三个小时清理海滩，然后分类垃圾。李明觉得虽然很累，但是很高兴能帮助保护海洋。他决定以后要少用塑料制品，还要告诉朋友们保护海洋的重要性。",
+   "questions": [
+    {
+     "prompt": "李明参加了什么活动？",
+     "options": [
+      {
+       "label": "A",
+       "text": "塑料制品展览"
+      },
+      {
+       "label": "B",
+       "text": "海滩游泳比赛"
+      },
+      {
+       "label": "C",
+       "text": "海洋生物调查"
+      },
+      {
+       "label": "D",
+       "text": "海洋保护志愿者活动"
+      }
+     ],
+     "correctAnswer": "D",
+     "explanation": "短文第一句明确说“李明是一名大学生，他参加了海洋保护志愿者活动”，所以正确选项是海洋保护志愿者活动。",
+     "id": "q1",
+     "type": "passage-mcq"
+    },
+    {
+     "prompt": "志愿者在海边发现了什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "很多塑料瓶和塑料袋"
+      },
+      {
+       "label": "B",
+       "text": "很多石头和沙子"
+      },
+      {
+       "label": "C",
+       "text": "很多贝壳和海星"
+      },
+      {
+       "label": "D",
+       "text": "很多鱼和虾"
+      }
+     ],
+     "correctAnswer": "A",
+     "explanation": "短文提到“他们去海边收集垃圾，发现很多塑料瓶和塑料袋”，所以正确选项是很多塑料瓶和塑料袋。",
+     "id": "q2",
+     "type": "passage-mcq"
+    },
+    {
+     "prompt": "志愿者清理海滩用了多长时间？",
+     "options": [
+      {
+       "label": "A",
+       "text": "一个小时"
+      },
+      {
+       "label": "B",
+       "text": "两个小时"
+      },
+      {
+       "label": "C",
+       "text": "三个小时"
+      },
+      {
+       "label": "D",
+       "text": "四个小时"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "短文中说“志愿者花了三个小时清理海滩”，因此正确选项是三个小时。",
+     "id": "q3",
+     "type": "passage-mcq"
+    },
+    {
+     "prompt": "李明决定以后要做什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "买更多塑料制品"
+      },
+      {
+       "label": "B",
+       "text": "每天去海边游泳"
+      },
+      {
+       "label": "C",
+       "text": "少用塑料制品并告诉朋友保护海洋"
+      },
+      {
+       "label": "D",
+       "text": "成为一名海洋科学家"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "短文最后说“他决定以后要少用塑料制品，还要告诉朋友们保护海洋的重要性”，所以正确选项是少用塑料制品并告诉朋友保护海洋。",
+     "id": "q4",
+     "type": "passage-mcq"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

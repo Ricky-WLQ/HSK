@@ -1,0 +1,89 @@
+{
+ "id": "hsk1-reading-p208",
+ "level": "1",
+ "section": "reading",
+ "partKey": "reading-p2",
+ "title": "HSK1 Reading P2",
+ "titleZh": "阅读 第二部分（问答匹配）",
+ "groups": [
+  {
+   "instruction": "请从A-F中选择一个合适的回答，每个问题只能选一个，每个回答最多用一次。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "我的笔是新的。",
+     "pinyin": "wǒ de bǐ shì xīn de 。"
+    },
+    {
+     "label": "B",
+     "text": "我写日记。",
+     "pinyin": "wǒ xiě rì jì 。"
+    },
+    {
+     "label": "C",
+     "text": "我喜欢看书。",
+     "pinyin": "wǒ xǐ huān kàn shū 。"
+    },
+    {
+     "label": "D",
+     "text": "这本书很好。",
+     "pinyin": "zhè běn shū hěn hǎo 。"
+    },
+    {
+     "label": "E",
+     "text": "我在图书馆看书。",
+     "pinyin": "wǒ zài tú shū guǎn kàn shū 。"
+    },
+    {
+     "label": "F",
+     "text": "你写得很好。",
+     "pinyin": "nǐ xiě dé hěn hǎo 。"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "你喜欢什么？",
+     "correctAnswer": "C",
+     "explanation": "问句问喜欢什么，回答应说明喜欢的事物。“我喜欢看书”正好回答喜欢看书，符合题意。",
+     "id": "q1",
+     "type": "match",
+     "pinyin": "nǐ xǐ huān shén me ？"
+    },
+    {
+     "prompt": "你写什么？",
+     "correctAnswer": "B",
+     "explanation": "问句问写什么，回答应说明写的内容。“我写日记”直接回答写日记，意思明确。",
+     "id": "q2",
+     "type": "match",
+     "pinyin": "nǐ xiě shén me ？"
+    },
+    {
+     "prompt": "这本书怎么样？",
+     "correctAnswer": "D",
+     "explanation": "问句问书怎么样，回答应评价书。“这本书很好”是对书的正面评价，符合题意。",
+     "id": "q3",
+     "type": "match",
+     "pinyin": "zhè běn shū zěn me yàng ？"
+    },
+    {
+     "prompt": "我写得好吗？",
+     "correctAnswer": "F",
+     "explanation": "问句问写得是否好，回答应给出评价。“你写得很好”是肯定评价，与问题对应。",
+     "id": "q4",
+     "type": "match",
+     "pinyin": "wǒ xiě dé hǎo ma ？"
+    },
+    {
+     "prompt": "你在哪里？",
+     "correctAnswer": "E",
+     "explanation": "问句问地点，回答应说明位置。“我在图书馆看书”明确说了在图书馆，符合要求。",
+     "id": "q5",
+     "type": "match",
+     "pinyin": "nǐ zài nǎ lǐ ？"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

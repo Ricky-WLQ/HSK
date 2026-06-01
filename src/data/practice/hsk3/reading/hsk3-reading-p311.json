@@ -1,0 +1,118 @@
+{
+ "id": "hsk3-reading-p311",
+ "level": "3",
+ "section": "reading",
+ "partKey": "reading-p3",
+ "title": "HSK3 Reading P3",
+ "titleZh": "阅读 第三部分（短文理解）",
+ "groups": [
+  {
+   "instruction": "阅读下面的短文，然后选择正确答案。",
+   "passage": "小王今天去电影院看一部新电影《未来世界》。这部电影讲的是未来人们的生活。电影很精彩，小王看得很高兴。但是，电影看到一半的时候，他的手机响了。他出去接电话，回来时却找不到自己的座位了。他问工作人员，工作人员帮他找到了座位。小王感谢了工作人员，然后继续看电影。",
+   "questions": [
+    {
+     "prompt": "小王今天去了哪里？",
+     "options": [
+      {
+       "label": "A",
+       "text": "公园",
+       "pinyin": "gōng yuán"
+      },
+      {
+       "label": "B",
+       "text": "图书馆",
+       "pinyin": "tú shū guǎn"
+      },
+      {
+       "label": "C",
+       "text": "电影院",
+       "pinyin": "diàn yǐng yuàn"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "短文第一句说小王今天去电影院看电影，所以正确答案是电影院。",
+     "id": "q1",
+     "type": "passage-mcq",
+     "pinyin": "xiǎo wáng jīn tiān qù le nǎ lǐ ？"
+    },
+    {
+     "prompt": "电影《未来世界》是关于什么的？",
+     "options": [
+      {
+       "label": "A",
+       "text": "现在的爱情",
+       "pinyin": "xiàn zài de ài qíng"
+      },
+      {
+       "label": "B",
+       "text": "过去的生活",
+       "pinyin": "guò qù de shēng huó"
+      },
+      {
+       "label": "C",
+       "text": "未来的生活",
+       "pinyin": "wèi lái de shēng huó"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "短文说这部电影讲的是未来人们的生活，所以是关于未来的生活。",
+     "id": "q2",
+     "type": "passage-mcq",
+     "pinyin": "diàn yǐng 《 wèi lái shì jiè 》 shì guān yú shén me de ？"
+    },
+    {
+     "prompt": "小王为什么出去接电话？",
+     "options": [
+      {
+       "label": "A",
+       "text": "他的手机响了",
+       "pinyin": "tā de shǒu jī xiǎng le"
+      },
+      {
+       "label": "B",
+       "text": "他要买吃的",
+       "pinyin": "tā yào mǎi chī de"
+      },
+      {
+       "label": "C",
+       "text": "他想休息一下",
+       "pinyin": "tā xiǎng xiū xī yī xià"
+      }
+     ],
+     "correctAnswer": "A",
+     "explanation": "短文说他的手机响了，所以他出去接电话。",
+     "id": "q3",
+     "type": "passage-mcq",
+     "pinyin": "xiǎo wáng wèi shén me chū qù jiē diàn huà ？"
+    },
+    {
+     "prompt": "小王最后怎么找到座位的？",
+     "options": [
+      {
+       "label": "A",
+       "text": "自己慢慢找",
+       "pinyin": "zì jǐ màn màn zhǎo"
+      },
+      {
+       "label": "B",
+       "text": "朋友告诉他",
+       "pinyin": "péng yǒu gào sù tā"
+      },
+      {
+       "label": "C",
+       "text": "工作人员帮他",
+       "pinyin": "gōng zuò rén yuán bāng tā"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "短文说他问工作人员，工作人员帮他找到了座位。",
+     "id": "q4",
+     "type": "passage-mcq",
+     "pinyin": "xiǎo wáng zuì hòu zěn me zhǎo dào zuò wèi de ？"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

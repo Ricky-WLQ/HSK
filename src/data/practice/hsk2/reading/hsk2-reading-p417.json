@@ -1,0 +1,142 @@
+{
+ "id": "hsk2-reading-p417",
+ "level": "2",
+ "section": "reading",
+ "partKey": "reading-p4",
+ "title": "HSK2 Reading P4",
+ "titleZh": "阅读 第四部分（短文理解）",
+ "groups": [
+  {
+   "instruction": "请阅读下面的短文，然后根据短文内容选择正确答案。",
+   "questions": [
+    {
+     "prompt": "他每天用望远镜看月亮。★他看什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "太阳",
+       "pinyin": "tài yáng"
+      },
+      {
+       "label": "B",
+       "text": "月亮",
+       "pinyin": "yuè liàng"
+      },
+      {
+       "label": "C",
+       "text": "星星",
+       "pinyin": "xīng xīng"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "短文中说'他每天用望远镜看月亮'，所以正确答案是'月亮'。",
+     "id": "q1",
+     "type": "passage-mcq",
+     "pinyin": "tā měi tiān yòng wàng yuǎn jìng kàn yuè liàng 。★ tā kàn shén me ？"
+    },
+    {
+     "prompt": "她晚上常常看星星。她说星星很漂亮。★她喜欢什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "月亮",
+       "pinyin": "yuè liàng"
+      },
+      {
+       "label": "B",
+       "text": "星星",
+       "pinyin": "xīng xīng"
+      },
+      {
+       "label": "C",
+       "text": "晚上",
+       "pinyin": "wǎn shàng"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "短文中说'她晚上常常看星星'并且'她说星星很漂亮'，说明她喜欢星星。",
+     "id": "q2",
+     "type": "passage-mcq",
+     "pinyin": "tā wǎn shàng cháng cháng kàn xīng xīng 。 tā shuō xīng xīng hěn piào liàng 。★ tā xǐ huān shén me ？"
+    },
+    {
+     "prompt": "他坐火箭去太空。他看到了地球。★他在哪里？",
+     "options": [
+      {
+       "label": "A",
+       "text": "地球上",
+       "pinyin": "dì qiú shàng"
+      },
+      {
+       "label": "B",
+       "text": "星星上",
+       "pinyin": "xīng xīng shàng"
+      },
+      {
+       "label": "C",
+       "text": "火箭上",
+       "pinyin": "huǒ jiàn shàng"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "短文中说'他坐火箭去太空'，所以他在火箭上。",
+     "id": "q3",
+     "type": "passage-mcq",
+     "pinyin": "tā zuò huǒ jiàn qù tài kōng 。 tā kàn dào le dì qiú 。★ tā zài nǎ lǐ ？"
+    },
+    {
+     "prompt": "她爸爸是宇航员。他去了太空三次。★她爸爸做什么工作？",
+     "options": [
+      {
+       "label": "A",
+       "text": "老师",
+       "pinyin": "lǎo shī"
+      },
+      {
+       "label": "B",
+       "text": "宇航员",
+       "pinyin": "yǔ háng yuán"
+      },
+      {
+       "label": "C",
+       "text": "医生",
+       "pinyin": "yī shēng"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "短文中说'她爸爸是宇航员'，所以他的工作是宇航员。",
+     "id": "q4",
+     "type": "passage-mcq",
+     "pinyin": "tā bà bà shì yǔ háng yuán 。 tā qù le tài kōng sān cì 。★ tā bà bà zuò shén me gōng zuò ？"
+    },
+    {
+     "prompt": "他晚上看天空。他看到了一颗很亮的星。★他看到了什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "月亮",
+       "pinyin": "yuè liàng"
+      },
+      {
+       "label": "B",
+       "text": "亮星",
+       "pinyin": "liàng xīng"
+      },
+      {
+       "label": "C",
+       "text": "飞机",
+       "pinyin": "fēi jī"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "短文中说'他看到了一颗很亮的星'，所以正确答案是'亮星'。",
+     "id": "q5",
+     "type": "passage-mcq",
+     "pinyin": "tā wǎn shàng kàn tiān kōng 。 tā kàn dào le yī kē hěn liàng de xīng 。★ tā kàn dào le shén me ？"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

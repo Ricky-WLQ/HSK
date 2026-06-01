@@ -7,79 +7,79 @@
  "titleZh": "阅读 第二部分（词语填空）",
  "groups": [
   {
-   "instruction": "请从A-F中选择合适的词语填空，每个词语只能使用一次，其中有一个词语是多余的。",
+   "instruction": "请从下面的词语中选择合适的词填入句子的空白处。每个词语只使用一次，有一个词语是多余的。主题：建筑与设计。",
    "sharedBank": [
     {
      "label": "A",
-     "text": "考试",
-     "pinyin": "kǎo shì"
+     "text": "窗户",
+     "pinyin": "chuāng hù"
     },
     {
      "label": "B",
-     "text": "已经",
-     "pinyin": "yǐ jīng"
+     "text": "颜色",
+     "pinyin": "yán sè"
     },
     {
      "label": "C",
-     "text": "正在",
-     "pinyin": "zhèng zài"
+     "text": "楼梯",
+     "pinyin": "lóu tī"
     },
     {
      "label": "D",
-     "text": "最近",
-     "pinyin": "zuì jìn"
+     "text": "墙",
+     "pinyin": "qiáng"
     },
     {
      "label": "E",
-     "text": "决定",
-     "pinyin": "jué dìng"
+     "text": "地板",
+     "pinyin": "dì bǎn"
     },
     {
      "label": "F",
-     "text": "应该",
-     "pinyin": "yīng gāi"
+     "text": "灯",
+     "pinyin": "dēng"
     }
    ],
    "questions": [
     {
-     "prompt": "他（ ）在教室里学习。",
-     "correctAnswer": "C",
-     "explanation": "表示动作正在进行，所以用“正在”。",
+     "prompt": "这个房子的（ ）很白，我们需要重新刷一下。",
+     "correctAnswer": "D",
+     "explanation": "句中“刷”通常指给墙面刷漆，所以空白处应填“墙”。",
      "id": "q1",
      "type": "cloze-wordbank",
-     "pinyin": "tā （ ） zài jiào shì lǐ xué xí 。"
+     "pinyin": "zhè ge fáng zi de （ ） hěn bái ， wǒ men xū yào chóng xīn shuā yī xià 。"
     },
     {
-     "prompt": "这个（ ）很难。",
-     "correctAnswer": "A",
-     "explanation": "“考试”是名词，指测验，放在这里合适。",
+     "prompt": "晚上回家，我打开（ ），屋里马上亮了。",
+     "correctAnswer": "F",
+     "explanation": "“打开”常与“灯”搭配，表示开灯使房间变亮。",
      "id": "q2",
      "type": "cloze-wordbank",
-     "pinyin": "zhè ge （ ） hěn nán 。"
+     "pinyin": "wǎn shàng huí jiā ， wǒ dǎ kāi （ ）， wū lǐ mǎ shàng liàng le 。"
     },
     {
-     "prompt": "我（ ）看完这本书了。",
-     "correctAnswer": "B",
-     "explanation": "表示动作已完成，用“已经”。",
+     "prompt": "这栋楼没有电梯，只能走（ ）。",
+     "correctAnswer": "C",
+     "explanation": "在没有电梯的楼里，人们走的是“楼梯”。",
      "id": "q3",
      "type": "cloze-wordbank",
-     "pinyin": "wǒ （ ） kàn wán zhè běn shū le 。"
+     "pinyin": "zhè dòng lóu méi yǒu diàn tī ， zhǐ néng zǒu （ ）。"
     },
     {
-     "prompt": "你（ ）去图书馆吗？",
-     "correctAnswer": "F",
-     "explanation": "表示建议或义务，用“应该”。",
+     "prompt": "妈妈让我把（ ）擦干净，因为上面有脚印。",
+     "correctAnswer": "E",
+     "explanation": "脚印通常出现在地板上，所以需要擦干净的是“地板”。",
      "id": "q4",
      "type": "cloze-wordbank",
-     "pinyin": "nǐ （ ） qù tú shū guǎn ma ？"
+     "pinyin": "mā mā ràng wǒ bǎ （ ） cā gān jìng ， yīn wèi shàng miàn yǒu jiǎo yìn 。"
     },
     {
-     "prompt": "你（ ）工作找得怎么样？",
-     "correctAnswer": "D",
-     "explanation": "询问最近的情况，用“最近”。",
+     "prompt": "打开（ ）让新鲜空气进来。",
+     "correctAnswer": "A",
+     "explanation": "让新鲜空气进入房间，通常需要打开“窗户”。",
      "id": "q5",
      "type": "cloze-wordbank",
-     "pinyin": "nǐ （ ） gōng zuò zhǎo dé zěn me yàng ？"
+     "pinyin": "dǎ kāi （ ） ràng xīn xiān kōng qì jìn lái 。"
     }
    ],
    "id": "g1"

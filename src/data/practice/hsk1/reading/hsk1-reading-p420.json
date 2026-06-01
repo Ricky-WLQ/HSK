@@ -1,0 +1,142 @@
+{
+ "id": "hsk1-reading-p420",
+ "level": "1",
+ "section": "reading",
+ "partKey": "reading-p4",
+ "title": "HSK1 Reading P4",
+ "titleZh": "阅读 第四部分（短句理解）",
+ "groups": [
+  {
+   "instruction": "阅读下面的句子和问题，选择正确的答案。",
+   "questions": [
+    {
+     "prompt": "我爸爸喜欢中国茶。★他喜欢什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "果汁",
+       "pinyin": "guǒ zhī"
+      },
+      {
+       "label": "B",
+       "text": "咖啡",
+       "pinyin": "kā fēi"
+      },
+      {
+       "label": "C",
+       "text": "茶",
+       "pinyin": "chá"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "句子说“我爸爸喜欢中国茶”，所以他喜欢的是茶。",
+     "id": "q1",
+     "type": "passage-mcq",
+     "pinyin": "wǒ bà bà xǐ huān zhōng guó chá 。★ tā xǐ huān shén me ？"
+    },
+    {
+     "prompt": "这个画很老，是明朝的。★这个画是什么时候的？",
+     "options": [
+      {
+       "label": "A",
+       "text": "现在",
+       "pinyin": "xiàn zài"
+      },
+      {
+       "label": "B",
+       "text": "清朝",
+       "pinyin": "qīng cháo"
+      },
+      {
+       "label": "C",
+       "text": "明朝",
+       "pinyin": "míng cháo"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "句子说“这个画很老，是明朝的”，所以画是明朝的。",
+     "id": "q2",
+     "type": "passage-mcq",
+     "pinyin": "zhè ge huà hěn lǎo ， shì míng cháo de 。★ zhè ge huà shì shén me shí hòu de ？"
+    },
+    {
+     "prompt": "我们去看古代房子。★我们去看什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "新房子",
+       "pinyin": "xīn fáng zi"
+      },
+      {
+       "label": "B",
+       "text": "商店",
+       "pinyin": "shāng diàn"
+      },
+      {
+       "label": "C",
+       "text": "古代房子",
+       "pinyin": "gǔ dài fáng zi"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "句子说“我们去看古代房子”，所以我们要看古代房子。",
+     "id": "q3",
+     "type": "passage-mcq",
+     "pinyin": "wǒ men qù kàn gǔ dài fáng zi 。★ wǒ men qù kàn shén me ？"
+    },
+    {
+     "prompt": "中国汉字有很多年。★中国汉字怎么样？",
+     "options": [
+      {
+       "label": "A",
+       "text": "很少",
+       "pinyin": "hěn shǎo"
+      },
+      {
+       "label": "B",
+       "text": "很新",
+       "pinyin": "hěn xīn"
+      },
+      {
+       "label": "C",
+       "text": "很多年",
+       "pinyin": "hěn duō nián"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "句子说“中国汉字有很多年”，所以中国汉字有很多年历史。",
+     "id": "q4",
+     "type": "passage-mcq",
+     "pinyin": "zhōng guó hàn zì yǒu hěn duō nián 。★ zhōng guó hàn zì zěn me yàng ？"
+    },
+    {
+     "prompt": "他学习了中国历史。★他学习什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "数学",
+       "pinyin": "shù xué"
+      },
+      {
+       "label": "B",
+       "text": "中国历史",
+       "pinyin": "zhōng guó lì shǐ"
+      },
+      {
+       "label": "C",
+       "text": "画画",
+       "pinyin": "huà huà"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "句子说“他学习了中国历史”，所以他学习的是中国历史。",
+     "id": "q5",
+     "type": "passage-mcq",
+     "pinyin": "tā xué xí le zhōng guó lì shǐ 。★ tā xué xí shén me ？"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

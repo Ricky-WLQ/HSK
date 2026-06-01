@@ -1,0 +1,89 @@
+{
+ "id": "hsk3-reading-p213",
+ "level": "3",
+ "section": "reading",
+ "partKey": "reading-p2",
+ "title": "HSK3 Reading P2",
+ "titleZh": "阅读 第二部分（词语填空）",
+ "groups": [
+  {
+   "instruction": "请从下列词语中选择合适的填入句子空白处，每个词只能使用一次，有一个词多余。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "聊天",
+     "pinyin": "liáo tiān"
+    },
+    {
+     "label": "B",
+     "text": "帮助",
+     "pinyin": "bāng zhù"
+    },
+    {
+     "label": "C",
+     "text": "礼物",
+     "pinyin": "lǐ wù"
+    },
+    {
+     "label": "D",
+     "text": "邀请",
+     "pinyin": "yāo qǐng"
+    },
+    {
+     "label": "E",
+     "text": "聚会",
+     "pinyin": "jù huì"
+    },
+    {
+     "label": "F",
+     "text": "见面",
+     "pinyin": "jiàn miàn"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "小丽给我打了一个电话，我们（ ）了一个小时。",
+     "correctAnswer": "A",
+     "explanation": "聊天指交谈，电话中常用来表示长时间对话，符合语境。",
+     "id": "q1",
+     "type": "cloze-wordbank",
+     "pinyin": "xiǎo lì gěi wǒ dǎ le yí gè diàn huà ， wǒ men （ ） le yí gè xiǎo shí 。"
+    },
+    {
+     "prompt": "我（ ）李明周末一起去爬山。",
+     "correctAnswer": "D",
+     "explanation": "邀请指请人到自己的地方或参加活动，此处请李明一起去爬山，语义合适。",
+     "id": "q2",
+     "type": "cloze-wordbank",
+     "pinyin": "wǒ （ ） lǐ míng zhōu mò yì qǐ qù pá shān 。"
+    },
+    {
+     "prompt": "王老师生病了，同学们都去（ ）他打扫房间。",
+     "correctAnswer": "B",
+     "explanation": "帮助指替人出力、出主意或给予支持，打扫房间是帮助的一种形式。",
+     "id": "q3",
+     "type": "cloze-wordbank",
+     "pinyin": "wáng lǎo shī shēng bìng le ， tóng xué men dōu qù （ ） tā dǎ sǎo fáng jiān 。"
+    },
+    {
+     "prompt": "昨天是我们高中同学的（ ），来了二十个人。",
+     "correctAnswer": "E",
+     "explanation": "聚会指多人聚集在一起活动，同学聚会是常见说法。",
+     "id": "q4",
+     "type": "cloze-wordbank",
+     "pinyin": "zuó tiān shì wǒ men gāo zhōng tóng xué de （ ）， lái le èr shí gè rén 。"
+    },
+    {
+     "prompt": "好久不见，我们明天下午三点在学校门口（ ）吧。",
+     "correctAnswer": "F",
+     "explanation": "见面指彼此对面相见，约定时间和地点会面常用见面。",
+     "id": "q5",
+     "type": "cloze-wordbank",
+     "pinyin": "hǎo jiǔ bú jiàn ， wǒ men míng tiān xià wǔ sān diǎn zài xué xiào mén kǒu （ ） ba 。"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

@@ -1,0 +1,70 @@
+{
+ "id": "hsk7-9-reading-p304",
+ "level": "7-9",
+ "section": "reading",
+ "partKey": "reading-p3",
+ "title": "HSK7-9 Reading P3",
+ "titleZh": "阅读 第三部分（简答题）",
+ "groups": [
+  {
+   "instruction": "请阅读下面的说明文，然后根据文章内容回答5个问题。每个答案不超过10个字。",
+   "passage": "大西洋经向翻转环流（AMOC）是地球气候系统中最重要的海洋环流之一。它如同一条巨大的传送带，将温暖的表层海水从赤道输送到北大西洋，同时将寒冷的深层海水从北大西洋输送到南方。AMOC的强弱直接影响了欧洲及北美的气候。例如，当AMOC增强时，欧洲冬季气温较高；减弱时则导致欧洲冬季寒冷。科学家通过分析深海沉积物中的有孔虫壳体的氧同位素比值，发现AMOC在末次冰期曾多次突然减弱，甚至完全崩溃，这与北大西洋冰盖融化的淡水注入有关。冰盖融化释放大量淡水，降低了海水的密度，导致表层海水下沉减弱，从而抑制了AMOC的运转。这一过程曾在过去一万年间发生多次，每次都对全球气候产生了重大影响。此外，AMOC的变化还会影响海洋生态系统的生产力，例如改变营养盐的垂直输送，进而影响浮游植物的生长。当前，全球变暖导致格陵兰冰盖加速融化，淡水量增加，可能再次削弱AMOC。观测数据显示，自20世纪中期以来，AMOC已减弱约15%。如果继续减弱，将可能导致欧洲东部和北美东部出现更频繁的极端天气事件，如暴雪和热浪，同时也会加剧海平面上升，对沿海城市构成威胁。因此，深入理解AMOC的机制及其对气候反馈的响应，对于预测未来气候变化至关重要。",
+   "questions": [
+    {
+     "prompt": "大西洋经向翻转环流又称什么？",
+     "correctAnswer": "AMOC",
+     "acceptableAnswers": [
+      "大西洋经向翻转环流英文缩写"
+     ],
+     "explanation": "文中第一句明确指出：“大西洋经向翻转环流（AMOC）”，AMOC是其英文缩写。",
+     "id": "q1",
+     "type": "short-answer"
+    },
+    {
+     "prompt": "AMOC将温暖的表层海水从赤道输送到哪里？",
+     "correctAnswer": "北大西洋",
+     "acceptableAnswers": [
+      "大西洋北部"
+     ],
+     "explanation": "原文提到：“将温暖的表层海水从赤道输送到北大西洋”。",
+     "id": "q2",
+     "type": "short-answer"
+    },
+    {
+     "prompt": "AMOC减弱会导致欧洲冬季气温如何变化？",
+     "correctAnswer": "变冷/寒冷",
+     "acceptableAnswers": [
+      "降低",
+      "寒冷"
+     ],
+     "explanation": "文中说：“减弱时则导致欧洲冬季寒冷”。",
+     "id": "q3",
+     "type": "short-answer"
+    },
+    {
+     "prompt": "什么因素曾导致末次冰期AMOC突然减弱？",
+     "correctAnswer": "冰盖融化淡水注入",
+     "acceptableAnswers": [
+      "淡水注入",
+      "冰盖融化"
+     ],
+     "explanation": "原文：“北大西洋冰盖融化的淡水注入……抑制了AMOC的运转”。",
+     "id": "q4",
+     "type": "short-answer"
+    },
+    {
+     "prompt": "自20世纪中期以来，AMOC减弱了多少？",
+     "correctAnswer": "约15%",
+     "acceptableAnswers": [
+      "15%"
+     ],
+     "explanation": "观测数据显示：“自20世纪中期以来，AMOC已减弱约15%”。",
+     "id": "q5",
+     "type": "short-answer"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

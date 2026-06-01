@@ -1,0 +1,142 @@
+{
+ "id": "hsk2-reading-p410",
+ "level": "2",
+ "section": "reading",
+ "partKey": "reading-p4",
+ "title": "HSK2 Reading P4",
+ "titleZh": "阅读 第四部分（短文理解）",
+ "groups": [
+  {
+   "instruction": "请阅读下面的短文，然后回答问题。",
+   "questions": [
+    {
+     "prompt": "小明喜欢画画，他每天画一个小时。★他喜欢做什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "唱歌",
+       "pinyin": "chàng gē"
+      },
+      {
+       "label": "B",
+       "text": "跑步",
+       "pinyin": "pǎo bù"
+      },
+      {
+       "label": "C",
+       "text": "画画",
+       "pinyin": "huà huà"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "短文说小明喜欢画画，所以画画是他喜欢的事。唱歌和跑步在短文中没有提到。",
+     "id": "q1",
+     "type": "passage-mcq",
+     "pinyin": "xiǎo míng xǐ huān huà huà ， tā měi tiān huà yí gè xiǎo shí 。★ tā xǐ huān zuò shén me ？"
+    },
+    {
+     "prompt": "小红喜欢看书，她周末常去图书馆。★她周末常去哪里？",
+     "options": [
+      {
+       "label": "A",
+       "text": "公园",
+       "pinyin": "gōng yuán"
+      },
+      {
+       "label": "B",
+       "text": "商店",
+       "pinyin": "shāng diàn"
+      },
+      {
+       "label": "C",
+       "text": "图书馆",
+       "pinyin": "tú shū guǎn"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "短文说小红周末常去图书馆，所以图书馆是正确的。商店和公园在短文中没有提到。",
+     "id": "q2",
+     "type": "passage-mcq",
+     "pinyin": "xiǎo hóng xǐ huān kàn shū ， tā zhōu mò cháng qù tú shū guǎn 。★ tā zhōu mò cháng qù nǎ lǐ ？"
+    },
+    {
+     "prompt": "小丽喜欢弹钢琴，她晚上练习。★她晚上做什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "看电视",
+       "pinyin": "kàn diàn shì"
+      },
+      {
+       "label": "B",
+       "text": "弹钢琴",
+       "pinyin": "tán gāng qín"
+      },
+      {
+       "label": "C",
+       "text": "睡觉",
+       "pinyin": "shuì jiào"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "短文说小丽晚上练习弹钢琴，所以弹钢琴是她晚上做的事。看电视和睡觉在短文中没有提到。",
+     "id": "q3",
+     "type": "passage-mcq",
+     "pinyin": "xiǎo lì xǐ huān tán gāng qín ， tā wǎn shàng liàn xí 。★ tā wǎn shàng zuò shén me ？"
+    },
+    {
+     "prompt": "小刚喜欢打球，他和朋友们一起打。★他和朋友们一起做什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "学习",
+       "pinyin": "xué xí"
+      },
+      {
+       "label": "B",
+       "text": "吃饭",
+       "pinyin": "chī fàn"
+      },
+      {
+       "label": "C",
+       "text": "打球",
+       "pinyin": "dǎ qiú"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "短文说小刚喜欢打球，和朋友们一起打，所以打球是他们一起做的事。吃饭和学习在短文中没有提到。",
+     "id": "q4",
+     "type": "passage-mcq",
+     "pinyin": "xiǎo gāng xǐ huān dǎ qiú ， tā hé péng yǒu men yì qǐ dǎ 。★ tā hé péng yǒu men yì qǐ zuò shén me ？"
+    },
+    {
+     "prompt": "小芳喜欢养花，她家里有很多花。★她家里有什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "很多玩具",
+       "pinyin": "hěn duō wán jù"
+      },
+      {
+       "label": "B",
+       "text": "很多花",
+       "pinyin": "hěn duō huā"
+      },
+      {
+       "label": "C",
+       "text": "很多书",
+       "pinyin": "hěn duō shū"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "短文说小芳家里有很多花，所以很多花是正确的。很多书和很多玩具在短文中没有提到。",
+     "id": "q5",
+     "type": "passage-mcq",
+     "pinyin": "xiǎo fāng xǐ huān yǎng huā ， tā jiā lǐ yǒu hěn duō huā 。★ tā jiā lǐ yǒu shén me ？"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

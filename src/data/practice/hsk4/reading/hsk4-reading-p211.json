@@ -1,0 +1,118 @@
+{
+ "id": "hsk4-reading-p211",
+ "level": "4",
+ "section": "reading",
+ "partKey": "reading-p2",
+ "title": "HSK4 Reading P2",
+ "titleZh": "阅读 第二部分（短文理解）",
+ "groups": [
+  {
+   "instruction": "请阅读下面的短文，然后根据短文内容选择正确答案。",
+   "passage": "小林在北京工作，妈妈一个人住在老家。最近妈妈总说腿疼，爬楼梯不方便。小林给妈妈买了一个智能音箱，可以语音控制开灯、播音乐，还能提醒她按时吃药。妈妈一开始不会用，小林每天打电话教她。现在妈妈已经习惯了，觉得这个小东西很贴心。",
+   "questions": [
+    {
+     "prompt": "小林为什么给妈妈买智能音箱？",
+     "options": [
+      {
+       "label": "A",
+       "text": "妈妈喜欢听音乐"
+      },
+      {
+       "label": "B",
+       "text": "妈妈腿疼，需要方便的东西"
+      },
+      {
+       "label": "C",
+       "text": "小林想教妈妈用电脑"
+      },
+      {
+       "label": "D",
+       "text": "妈妈想学新科技"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "原文说“妈妈总说腿疼，爬楼梯不方便”，所以小林买智能音箱是为了帮助她，让她生活更方便。",
+     "id": "q1",
+     "type": "passage-mcq"
+    },
+    {
+     "prompt": "智能音箱可以做什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "帮妈妈打扫房间"
+      },
+      {
+       "label": "B",
+       "text": "教妈妈学英语"
+      },
+      {
+       "label": "C",
+       "text": "帮妈妈做饭"
+      },
+      {
+       "label": "D",
+       "text": "提醒妈妈按时吃药"
+      }
+     ],
+     "correctAnswer": "D",
+     "explanation": "原文提到智能音箱能“提醒她按时吃药”，其他选项文中没有提到。",
+     "id": "q2",
+     "type": "passage-mcq"
+    },
+    {
+     "prompt": "妈妈一开始怎么使用智能音箱？",
+     "options": [
+      {
+       "label": "A",
+       "text": "不太会，小林每天教她"
+      },
+      {
+       "label": "B",
+       "text": "很喜欢，马上就会用"
+      },
+      {
+       "label": "C",
+       "text": "让朋友帮她装"
+      },
+      {
+       "label": "D",
+       "text": "觉得没用，退了"
+      }
+     ],
+     "correctAnswer": "A",
+     "explanation": "原文说“妈妈一开始不会用，小林每天打电话教她”，说明妈妈起初不会使用。",
+     "id": "q3",
+     "type": "passage-mcq"
+    },
+    {
+     "prompt": "关于妈妈的心情，下面哪个正确？",
+     "options": [
+      {
+       "label": "A",
+       "text": "妈妈觉得智能音箱很贴心"
+      },
+      {
+       "label": "B",
+       "text": "妈妈怪小林不回家"
+      },
+      {
+       "label": "C",
+       "text": "妈妈更喜欢手机"
+      },
+      {
+       "label": "D",
+       "text": "妈妈不会用，很生气"
+      }
+     ],
+     "correctAnswer": "A",
+     "explanation": "原文最后说妈妈“觉得这个小东西很贴心”，表明她喜欢这个智能音箱。",
+     "id": "q4",
+     "type": "passage-mcq"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

@@ -1,0 +1,118 @@
+{
+ "id": "hsk3-reading-p313",
+ "level": "3",
+ "section": "reading",
+ "partKey": "reading-p3",
+ "title": "HSK3 Reading P3",
+ "titleZh": "阅读 第三部分（短文理解）",
+ "groups": [
+  {
+   "instruction": "请阅读下面的短文，然后根据短文内容选择正确答案。",
+   "passage": "小明很喜欢读书，每天放学后都会看一个小时的课外书。最近他读了一本关于动物的书，觉得很有趣。于是他自己也写了一个小故事，叫《森林里的朋友》。他把故事读给妈妈听，妈妈夸他写得好。小明很开心，决定以后多读书，多写作。",
+   "questions": [
+    {
+     "prompt": "小明每天放学后做什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "玩游戏",
+       "pinyin": "wán yóu xì"
+      },
+      {
+       "label": "B",
+       "text": "写作业",
+       "pinyin": "xiě zuò yè"
+      },
+      {
+       "label": "C",
+       "text": "看课外书",
+       "pinyin": "kàn kè wài shū"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "短文中明确提到“每天放学后都会看一个小时的课外书”，所以小明每天放学后看课外书。",
+     "id": "q1",
+     "type": "passage-mcq",
+     "pinyin": "xiǎo míng měi tiān fàng xué hòu zuò shén me ？"
+    },
+    {
+     "prompt": "小明最近读了一本什么书？",
+     "options": [
+      {
+       "label": "A",
+       "text": "关于森林的书",
+       "pinyin": "guān yú sēn lín de shū"
+      },
+      {
+       "label": "B",
+       "text": "关于动物的书",
+       "pinyin": "guān yú dòng wù de shū"
+      },
+      {
+       "label": "C",
+       "text": "关于朋友的书",
+       "pinyin": "guān yú péng yǒu de shū"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "短文中说“最近他读了一本关于动物的书”，因此是关于动物的书。",
+     "id": "q2",
+     "type": "passage-mcq",
+     "pinyin": "xiǎo míng zuì jìn dú le yī běn shén me shū ？"
+    },
+    {
+     "prompt": "小明写的故事叫什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "《动物世界》",
+       "pinyin": "《 dòng wù shì jiè 》"
+      },
+      {
+       "label": "B",
+       "text": "《森林里的朋友》",
+       "pinyin": "《 sēn lín lǐ de péng yǒu 》"
+      },
+      {
+       "label": "C",
+       "text": "《我的好朋友》",
+       "pinyin": "《 wǒ de hǎo péng yǒu 》"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "短文中提到“他自己也写了一个小故事，叫《森林里的朋友》”，所以故事名字是《森林里的朋友》。",
+     "id": "q3",
+     "type": "passage-mcq",
+     "pinyin": "xiǎo míng xiě de gù shì jiào shén me ？"
+    },
+    {
+     "prompt": "谁夸小明写得好？",
+     "options": [
+      {
+       "label": "A",
+       "text": "爸爸",
+       "pinyin": "bà bà"
+      },
+      {
+       "label": "B",
+       "text": "妈妈",
+       "pinyin": "mā mā"
+      },
+      {
+       "label": "C",
+       "text": "老师",
+       "pinyin": "lǎo shī"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "短文中说“他把故事读给妈妈听，妈妈夸他写得好”，所以是妈妈夸他。",
+     "id": "q4",
+     "type": "passage-mcq",
+     "pinyin": "shuí kuā xiǎo míng xiě dé hǎo ？"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

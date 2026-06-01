@@ -1,0 +1,142 @@
+{
+ "id": "hsk2-reading-p411",
+ "level": "2",
+ "section": "reading",
+ "partKey": "reading-p4",
+ "title": "HSK2 Reading P4",
+ "titleZh": "阅读 第四部分（短文理解）",
+ "groups": [
+  {
+   "instruction": "请阅读下面的短文，然后根据短文内容选择正确的答案。",
+   "questions": [
+    {
+     "prompt": "小明喜欢去新开的饺子馆吃饺子。★他为什么去那家饺子馆？",
+     "options": [
+      {
+       "label": "A",
+       "text": "因为饺子好吃",
+       "pinyin": "yīn wèi jiǎo zi hǎo chī"
+      },
+      {
+       "label": "B",
+       "text": "因为新开",
+       "pinyin": "yīn wèi xīn kāi"
+      },
+      {
+       "label": "C",
+       "text": "因为便宜",
+       "pinyin": "yīn wèi pián yi"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "短文中说“新开的饺子馆”，所以小明去因为它是新开的。",
+     "id": "q1",
+     "type": "passage-mcq",
+     "pinyin": "xiǎo míng xǐ huān qù xīn kāi de jiǎo zi guǎn chī jiǎo zi 。★ tā wèi shén me qù nà jiā jiǎo zi guǎn ？"
+    },
+    {
+     "prompt": "姐姐今天做了很多蛋糕，请朋友们来吃。★姐姐做什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "买蛋糕",
+       "pinyin": "mǎi dàn gāo"
+      },
+      {
+       "label": "B",
+       "text": "做蛋糕",
+       "pinyin": "zuò dàn gāo"
+      },
+      {
+       "label": "C",
+       "text": "吃蛋糕",
+       "pinyin": "chī dàn gāo"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "短文中说“姐姐今天做了很多蛋糕”，所以姐姐在做蛋糕。",
+     "id": "q2",
+     "type": "passage-mcq",
+     "pinyin": "jiě jiě jīn tiān zuò le hěn duō dàn gāo ， qǐng péng yǒu men lái chī 。★ jiě jiě zuò shén me ？"
+    },
+    {
+     "prompt": "李老师觉得中国的火锅很好吃，经常和朋友一起去。★李老师喜欢吃什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "火锅",
+       "pinyin": "huǒ guō"
+      },
+      {
+       "label": "B",
+       "text": "面条",
+       "pinyin": "miàn tiáo"
+      },
+      {
+       "label": "C",
+       "text": "米饭",
+       "pinyin": "mǐ fàn"
+      }
+     ],
+     "correctAnswer": "A",
+     "explanation": "短文中说“中国的火锅很好吃”，所以李老师喜欢吃火锅。",
+     "id": "q3",
+     "type": "passage-mcq",
+     "pinyin": "lǐ lǎo shī jué de zhōng guó de huǒ guō hěn hǎo chī ， jīng cháng hé péng yǒu yì qǐ qù 。★ lǐ lǎo shī xǐ huān chī shén me ？"
+    },
+    {
+     "prompt": "小王不会做饭，他每天去外面吃。★小王为什么每天去外面吃？",
+     "options": [
+      {
+       "label": "A",
+       "text": "想省钱",
+       "pinyin": "xiǎng shěng qián"
+      },
+      {
+       "label": "B",
+       "text": "喜欢走路",
+       "pinyin": "xǐ huān zǒu lù"
+      },
+      {
+       "label": "C",
+       "text": "不想做饭",
+       "pinyin": "bù xiǎng zuò fàn"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "短文中说“不会做饭”，所以小王去外面吃是因为他不想（不会）做饭。",
+     "id": "q4",
+     "type": "passage-mcq",
+     "pinyin": "xiǎo wáng bú huì zuò fàn ， tā měi tiān qù wài miàn chī 。★ xiǎo wáng wèi shén me měi tiān qù wài miàn chī ？"
+    },
+    {
+     "prompt": "阿姨每天早上喝牛奶吃面包。★阿姨早上吃什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "米饭和菜",
+       "pinyin": "mǐ fàn hé cài"
+      },
+      {
+       "label": "B",
+       "text": "牛奶和面包",
+       "pinyin": "niú nǎi huó miàn bāo"
+      },
+      {
+       "label": "C",
+       "text": "水果",
+       "pinyin": "shuǐ guǒ"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "短文中说“喝牛奶吃面包”，所以阿姨早上吃牛奶和面包。",
+     "id": "q5",
+     "type": "passage-mcq",
+     "pinyin": "ā yí měi tiān zǎo shàng hē niú nǎi chī miàn bāo 。★ ā yí zǎo shàng chī shén me ？"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

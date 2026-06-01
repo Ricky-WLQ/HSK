@@ -1,0 +1,118 @@
+{
+ "id": "hsk4-reading-p306",
+ "level": "4",
+ "section": "reading",
+ "partKey": "reading-p3",
+ "title": "HSK4 Reading P3",
+ "titleZh": "阅读 第二部分B（中篇理解）",
+ "groups": [
+  {
+   "instruction": "阅读下面的短文，然后回答问题。每题只有一个正确答案。",
+   "passage": "小王是北方人，第一次去成都旅行。他听说成都的美食很有名，就决定去尝一尝。他先吃了一碗担担面，发现味道又麻又辣，和北方的面很不一样。晚上，他又和朋友去吃了火锅。火锅里有很多辣椒和花椒，小王吃得满头大汗，但是觉得很过瘾。他还发现成都人喜欢在火锅里放很多种菜，比如毛肚、鸭肠等。这次旅行让小王爱上了川菜，他决定以后还要再来成都品尝更多的美食。",
+   "questions": [
+    {
+     "prompt": "小王在成都先吃了什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "火锅"
+      },
+      {
+       "label": "B",
+       "text": "鸭肠"
+      },
+      {
+       "label": "C",
+       "text": "毛肚"
+      },
+      {
+       "label": "D",
+       "text": "担担面"
+      }
+     ],
+     "correctAnswer": "D",
+     "explanation": "从原文“他先吃了一碗担担面”可知，小王先吃的是担担面。",
+     "id": "q1",
+     "type": "passage-mcq"
+    },
+    {
+     "prompt": "这篇文章主要讲了什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "小王不喜欢川菜"
+      },
+      {
+       "label": "B",
+       "text": "成都火锅的做法"
+      },
+      {
+       "label": "C",
+       "text": "小王在成都的美食体验"
+      },
+      {
+       "label": "D",
+       "text": "北方菜和川菜的区别"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "全文围绕小王在成都尝试担担面、火锅等美食的经历，主要讲的是小王在成都的美食体验。",
+     "id": "q2",
+     "type": "passage-mcq"
+    },
+    {
+     "prompt": "根据文章，小王觉得川菜怎么样？",
+     "options": [
+      {
+       "label": "A",
+       "text": "又麻又辣但很过瘾"
+      },
+      {
+       "label": "B",
+       "text": "和北方菜一样"
+      },
+      {
+       "label": "C",
+       "text": "没有味道"
+      },
+      {
+       "label": "D",
+       "text": "太辣不喜欢"
+      }
+     ],
+     "correctAnswer": "A",
+     "explanation": "从原文“发现味道又麻又辣”“觉得很过瘾”可知，小王觉得川菜又麻又辣但很过瘾。",
+     "id": "q3",
+     "type": "passage-mcq"
+    },
+    {
+     "prompt": "成都人喜欢在火锅里放什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "只有肉"
+      },
+      {
+       "label": "B",
+       "text": "只有辣椒"
+      },
+      {
+       "label": "C",
+       "text": "很多种菜"
+      },
+      {
+       "label": "D",
+       "text": "面条"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "从原文“他还发现成都人喜欢在火锅里放很多种菜，比如毛肚、鸭肠等”可知，成都人喜欢放很多种菜。",
+     "id": "q4",
+     "type": "passage-mcq"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

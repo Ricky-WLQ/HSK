@@ -1,0 +1,89 @@
+{
+ "id": "hsk1-reading-p312",
+ "level": "1",
+ "section": "reading",
+ "partKey": "reading-p3",
+ "title": "HSK1 Reading P3",
+ "titleZh": "阅读 第三部分（选词填空）",
+ "groups": [
+  {
+   "instruction": "请从下列词语中选择正确的词语填入句子中的括号里。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "少",
+     "pinyin": "shǎo"
+    },
+    {
+     "label": "B",
+     "text": "卖",
+     "pinyin": "mài"
+    },
+    {
+     "label": "C",
+     "text": "钱",
+     "pinyin": "qián"
+    },
+    {
+     "label": "D",
+     "text": "买",
+     "pinyin": "mǎi"
+    },
+    {
+     "label": "E",
+     "text": "店",
+     "pinyin": "diàn"
+    },
+    {
+     "label": "F",
+     "text": "多",
+     "pinyin": "duō"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "他开了一家小（ ），卖水果。",
+     "correctAnswer": "E",
+     "explanation": "“店”指商店或店铺，这里说开了一家小店卖水果，意思通顺。",
+     "id": "q1",
+     "type": "cloze-wordbank",
+     "pinyin": "tā kāi le yī jiā xiǎo （ ）， mài shuǐ guǒ 。"
+    },
+    {
+     "prompt": "他每天（ ）很多水果。",
+     "correctAnswer": "B",
+     "explanation": "“卖”指把东西给别人换钱，他每天卖水果，符合语境。",
+     "id": "q2",
+     "type": "cloze-wordbank",
+     "pinyin": "tā měi tiān （ ） hěn duō shuǐ guǒ 。"
+    },
+    {
+     "prompt": "他一个月有很多（ ）。",
+     "correctAnswer": "C",
+     "explanation": "“钱”指货币，他一个月有很多钱，意思是他赚钱多。",
+     "id": "q3",
+     "type": "cloze-wordbank",
+     "pinyin": "tā yí gè yuè yǒu hěn duō （ ）。"
+    },
+    {
+     "prompt": "他的水果便宜，买的人（ ）。",
+     "correctAnswer": "F",
+     "explanation": "“多”指数量大，因为水果便宜，所以买东西的人很多。",
+     "id": "q4",
+     "type": "cloze-wordbank",
+     "pinyin": "tā de shuǐ guǒ pián yi ， mǎi de rén （ ）。"
+    },
+    {
+     "prompt": "今天下雨，来的人很（ ）。",
+     "correctAnswer": "A",
+     "explanation": "“少”指数量小，下雨天出门的人少，所以来店里的人很少。",
+     "id": "q5",
+     "type": "cloze-wordbank",
+     "pinyin": "jīn tiān xià yǔ ， lái de rén hěn （ ）。"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

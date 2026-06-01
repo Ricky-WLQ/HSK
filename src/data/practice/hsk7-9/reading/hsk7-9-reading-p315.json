@@ -1,0 +1,70 @@
+{
+ "id": "hsk7-9-reading-p315",
+ "level": "7-9",
+ "section": "reading",
+ "partKey": "reading-p3",
+ "title": "HSK7-9 Reading P3",
+ "titleZh": "阅读 第三部分（简答题）",
+ "groups": [
+  {
+   "instruction": "请根据短文回答下列问题，每个答案不超过10个字。",
+   "passage": "近年来，众筹作为一种新型融资模式，正在深刻改变创业生态。传统的创业融资主要依赖银行借贷或风险投资，但门槛高、流程复杂。众筹通过互联网平台，让创业者直接向公众展示项目并筹集资金，降低了融资门槛。例如，Kickstarter平台上的科技项目“Pebble智能手表”最初通过众筹获得超过1000万美元，推动了智能穿戴设备的普及。众筹不仅提供资金，还能验证市场需求，帮助创业者优化产品。然而，众筹也存在风险：项目失败率高达30%以上，投资者可能血本无归。因此，监管机构开始制定规则，如要求平台披露项目风险、设置融资上限等。在中国，京东众筹、淘宝众筹等平台快速发展，支持了众多文化创意和科技创业项目。专家指出，众筹使创业更加民主化，但创业者需具备良好的营销能力和项目执行力。总体而言，众筹已成为创业经济中不可或缺的一部分，预计未来五年全球众筹规模将突破千亿美元。",
+   "questions": [
+    {
+     "prompt": "众筹主要通过什么平台进行？",
+     "correctAnswer": "互联网平台",
+     "acceptableAnswers": [
+      "互联网"
+     ],
+     "explanation": "原文指出“众筹通过互联网平台，让创业者直接向公众展示项目并筹集资金”，因此答案是互联网平台。",
+     "id": "q1",
+     "type": "short-answer"
+    },
+    {
+     "prompt": "Pebble智能手表通过众筹获得了多少资金？",
+     "correctAnswer": "超过1000万美元",
+     "acceptableAnswers": [
+      "1000万美元",
+      "一千万美元"
+     ],
+     "explanation": "原文提到“Pebble智能手表最初通过众筹获得超过1000万美元”，因此答案是超过1000万美元。",
+     "id": "q2",
+     "type": "short-answer"
+    },
+    {
+     "prompt": "众筹项目的失败率是多少？",
+     "correctAnswer": "30%以上",
+     "acceptableAnswers": [
+      "30%",
+      "三成以上"
+     ],
+     "explanation": "原文明确说明“项目失败率高达30%以上”，因此答案是30%以上。",
+     "id": "q3",
+     "type": "short-answer"
+    },
+    {
+     "prompt": "监管机构要求平台披露什么？",
+     "correctAnswer": "项目风险",
+     "acceptableAnswers": [
+      "风险"
+     ],
+     "explanation": "原文提到“监管机构开始制定规则，如要求平台披露项目风险”，因此答案是项目风险。",
+     "id": "q4",
+     "type": "short-answer"
+    },
+    {
+     "prompt": "专家认为众筹使创业更加什么？",
+     "correctAnswer": "民主化",
+     "acceptableAnswers": [
+      "民主"
+     ],
+     "explanation": "原文指出“专家指出，众筹使创业更加民主化”，因此答案是民主化。",
+     "id": "q5",
+     "type": "short-answer"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

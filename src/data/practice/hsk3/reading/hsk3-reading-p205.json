@@ -1,0 +1,89 @@
+{
+ "id": "hsk3-reading-p205",
+ "level": "3",
+ "section": "reading",
+ "partKey": "reading-p2",
+ "title": "HSK3 Reading P2",
+ "titleZh": "阅读 第二部分（词语填空）",
+ "groups": [
+  {
+   "instruction": "请从下面方框中选择合适的词语填入句子空白处，每个词语只能用一次，有一个多余词语。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "退货",
+     "pinyin": "tuì huò"
+    },
+    {
+     "label": "B",
+     "text": "价格",
+     "pinyin": "jià gé"
+    },
+    {
+     "label": "C",
+     "text": "零钱",
+     "pinyin": "líng qián"
+    },
+    {
+     "label": "D",
+     "text": "发票",
+     "pinyin": "fā piào"
+    },
+    {
+     "label": "E",
+     "text": "便宜",
+     "pinyin": "pián yi"
+    },
+    {
+     "label": "F",
+     "text": "打折",
+     "pinyin": "dǎ zhé"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "今天商场全场（ ），我买了很多东西。",
+     "correctAnswer": "F",
+     "explanation": "「打折」指按一定比例降价销售，常用于商场促销活动，符合句意。",
+     "id": "q1",
+     "type": "cloze-wordbank",
+     "pinyin": "jīn tiān shāng chǎng quán chǎng （ ）， wǒ mǎi le hěn duō dōng xī 。"
+    },
+    {
+     "prompt": "这个手机质量有问题，我想去（ ）。",
+     "correctAnswer": "A",
+     "explanation": "「退货」指顾客将购买的商品退回给商家，通常因为质量问题或不满意，与句意匹配。",
+     "id": "q2",
+     "type": "cloze-wordbank",
+     "pinyin": "zhè ge shǒu jī zhì liàng yǒu wèn tí ， wǒ xiǎng qù （ ）。"
+    },
+    {
+     "prompt": "我付了100元，店员应该找我（ ）。",
+     "correctAnswer": "C",
+     "explanation": "「零钱」指面额较小的硬币或纸币，常用于找零，句中说需要找钱，所以用「零钱」。",
+     "id": "q3",
+     "type": "cloze-wordbank",
+     "pinyin": "wǒ fù le 100 yuán ， diàn yuán yīng gāi zhǎo wǒ （ ）。"
+    },
+    {
+     "prompt": "买完东西后，别忘了要（ ）。",
+     "correctAnswer": "D",
+     "explanation": "「发票」是购物后商家出具的付款凭证，常用于报销或维权，符合句意。",
+     "id": "q4",
+     "type": "cloze-wordbank",
+     "pinyin": "mǎi wán dōng xī hòu ， bié wàng le yào （ ）。"
+    },
+    {
+     "prompt": "这个电视的（ ）比网上贵。",
+     "correctAnswer": "B",
+     "explanation": "「价格」指商品的价值用货币表示，句中比较电视的价钱，所以用「价格」。",
+     "id": "q5",
+     "type": "cloze-wordbank",
+     "pinyin": "zhè ge diàn shì de （ ） bǐ wǎng shàng guì 。"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

@@ -1,0 +1,89 @@
+{
+ "id": "hsk3-reading-p211",
+ "level": "3",
+ "section": "reading",
+ "partKey": "reading-p2",
+ "title": "HSK3 Reading P2",
+ "titleZh": "阅读 第二部分（词语填空）",
+ "groups": [
+  {
+   "instruction": "请从下面6个词语中选出最合适的一个填入每个句子的括号中，使句子通顺合理。注意有一个词语用不到。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "回答",
+     "pinyin": "huí dá"
+    },
+    {
+     "label": "B",
+     "text": "预习",
+     "pinyin": "yù xí"
+    },
+    {
+     "label": "C",
+     "text": "作业",
+     "pinyin": "zuò yè"
+    },
+    {
+     "label": "D",
+     "text": "朗读",
+     "pinyin": "lǎng dú"
+    },
+    {
+     "label": "E",
+     "text": "复习",
+     "pinyin": "fù xí"
+    },
+    {
+     "label": "F",
+     "text": "练习",
+     "pinyin": "liàn xí"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "请大家（ ）课文第三段，注意发音。",
+     "correctAnswer": "D",
+     "explanation": "句子中需要填入一个动词，表示有感情地读出课文，“朗读”是最合适的词语。",
+     "id": "q1",
+     "type": "cloze-wordbank",
+     "pinyin": "qǐng dà jiā （ ） kè wén dì sān duàn ， zhù yì fā yīn 。"
+    },
+    {
+     "prompt": "明天要考试，今晚我要好好（ ）。",
+     "correctAnswer": "E",
+     "explanation": "句子的语境是考试前需要温习学过的内容，“复习”表示再次学习，符合句意。",
+     "id": "q2",
+     "type": "cloze-wordbank",
+     "pinyin": "míng tiān yào kǎo shì ， jīn wǎn wǒ yào hǎo hǎo （ ）。"
+    },
+    {
+     "prompt": "老师让我们先（ ）下节课的生词。",
+     "correctAnswer": "B",
+     "explanation": "下节课的内容需要提前了解，“预习”指上课前自己先学习，符合语境。",
+     "id": "q3",
+     "type": "cloze-wordbank",
+     "pinyin": "lǎo shī ràng wǒ men xiān （ ） xià jié kè de shēng cí 。"
+    },
+    {
+     "prompt": "为了写好汉字，每天都要（ ）写一页。",
+     "correctAnswer": "F",
+     "explanation": "句子表示通过反复写来改进汉字，“练习”指反复训练，符合句意。",
+     "id": "q4",
+     "type": "cloze-wordbank",
+     "pinyin": "wèi le xiě hǎo hàn zì ， měi tiān dōu yào （ ） xiě yī yè 。"
+    },
+    {
+     "prompt": "老师提问时，我第一个（ ）了问题。",
+     "correctAnswer": "A",
+     "explanation": "对老师的提问给出答案，“回答”是说出答案的意思，符合语境。",
+     "id": "q5",
+     "type": "cloze-wordbank",
+     "pinyin": "lǎo shī tí wèn shí ， wǒ dì yí gè （ ） le wèn tí 。"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

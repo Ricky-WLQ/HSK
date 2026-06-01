@@ -1,0 +1,142 @@
+{
+ "id": "hsk1-reading-p413",
+ "level": "1",
+ "section": "reading",
+ "partKey": "reading-p4",
+ "title": "HSK1 Reading P4",
+ "titleZh": "阅读 第四部分（短句理解）",
+ "groups": [
+  {
+   "instruction": "请阅读下面的短文，然后选择正确答案。",
+   "questions": [
+    {
+     "prompt": "她看到小狗，很高兴。★她怎么了？",
+     "options": [
+      {
+       "label": "A",
+       "text": "高兴",
+       "pinyin": "gāo xìng"
+      },
+      {
+       "label": "B",
+       "text": "累",
+       "pinyin": "lèi"
+      },
+      {
+       "label": "C",
+       "text": "生气",
+       "pinyin": "shēng qì"
+      }
+     ],
+     "correctAnswer": "A",
+     "explanation": "短文说“她看到小狗，很高兴”，所以她现在很高兴。",
+     "id": "q1",
+     "type": "passage-mcq",
+     "pinyin": "tā kàn dào xiǎo gǒu ， hěn gāo xìng 。★ tā zěn me le ？"
+    },
+    {
+     "prompt": "今天上课，他很不高兴。★他怎么了？",
+     "options": [
+      {
+       "label": "A",
+       "text": "冷",
+       "pinyin": "lěng"
+      },
+      {
+       "label": "B",
+       "text": "饿",
+       "pinyin": "è"
+      },
+      {
+       "label": "C",
+       "text": "不高兴",
+       "pinyin": "bù gāo xìng"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "短文说“他很不高兴”，所以他很不高兴。",
+     "id": "q2",
+     "type": "passage-mcq",
+     "pinyin": "jīn tiān shàng kè ， tā hěn bù gāo xìng 。★ tā zěn me le ？"
+    },
+    {
+     "prompt": "朋友走了，她很不高兴。★她怎么了？",
+     "options": [
+      {
+       "label": "A",
+       "text": "热",
+       "pinyin": "rè"
+      },
+      {
+       "label": "B",
+       "text": "高兴",
+       "pinyin": "gāo xìng"
+      },
+      {
+       "label": "C",
+       "text": "不高兴",
+       "pinyin": "bù gāo xìng"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "短文说“她很不高兴”，所以她很不高兴。",
+     "id": "q3",
+     "type": "passage-mcq",
+     "pinyin": "péng yǒu zǒu le ， tā hěn bù gāo xìng 。★ tā zěn me le ？"
+    },
+    {
+     "prompt": "他吃了苹果，很高兴。★他为什么高兴？",
+     "options": [
+      {
+       "label": "A",
+       "text": "吃苹果",
+       "pinyin": "chī píng guǒ"
+      },
+      {
+       "label": "B",
+       "text": "看朋友",
+       "pinyin": "kàn péng yǒu"
+      },
+      {
+       "label": "C",
+       "text": "学汉字",
+       "pinyin": "xué hàn zì"
+      }
+     ],
+     "correctAnswer": "A",
+     "explanation": "短文说“他吃了苹果，很高兴”，所以他高兴是因为吃苹果。",
+     "id": "q4",
+     "type": "passage-mcq",
+     "pinyin": "tā chī le píng guǒ ， hěn gāo xìng 。★ tā wèi shén me gāo xìng ？"
+    },
+    {
+     "prompt": "妈妈不在家，她想妈妈。★她怎么了？",
+     "options": [
+      {
+       "label": "A",
+       "text": "喝水",
+       "pinyin": "hē shuǐ"
+      },
+      {
+       "label": "B",
+       "text": "想妈妈",
+       "pinyin": "xiǎng mā mā"
+      },
+      {
+       "label": "C",
+       "text": "看书",
+       "pinyin": "kàn shū"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "短文说“她想妈妈”，所以她在想妈妈。",
+     "id": "q5",
+     "type": "passage-mcq",
+     "pinyin": "mā mā bù zài jiā ， tā xiǎng mā mā 。★ tā zěn me le ？"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

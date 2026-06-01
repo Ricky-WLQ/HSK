@@ -1,0 +1,89 @@
+{
+ "id": "hsk3-reading-p117",
+ "level": "3",
+ "section": "reading",
+ "partKey": "reading-p1",
+ "title": "HSK3 Reading P1",
+ "titleZh": "阅读 第一部分（句子匹配）",
+ "groups": [
+  {
+   "instruction": "请从下面6个句子中，为每个问题找出意思最匹配的一个句子。每个句子只能使用一次（其中一个是多余的）。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "我们上个月卖了很多东西。",
+     "pinyin": "wǒ men shàng gè yuè mài le hěn duō dōng xī 。"
+    },
+    {
+     "label": "B",
+     "text": "他每天工作十个小时。",
+     "pinyin": "tā měi tiān gōng zuò shí gè xiǎo shí 。"
+    },
+    {
+     "label": "C",
+     "text": "她学了三年经济。",
+     "pinyin": "tā xué le sān nián jīng jì 。"
+    },
+    {
+     "label": "D",
+     "text": "这个月饭店的生意很好。",
+     "pinyin": "zhè ge yuè fàn diàn de shēng yì hěn hǎo 。"
+    },
+    {
+     "label": "E",
+     "text": "他花了五万块钱。",
+     "pinyin": "tā huā le wǔ wàn kuài qián 。"
+    },
+    {
+     "label": "F",
+     "text": "我开了一家小公司，卖衣服。",
+     "pinyin": "wǒ kāi le yī jiā xiǎo gōng sī ， mài yī fú 。"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "他为什么每天很晚才回家？",
+     "correctAnswer": "B",
+     "explanation": "因为他每天工作十个小时，所以回家很晚。",
+     "id": "q1",
+     "type": "match",
+     "pinyin": "tā wèi shén me měi tiān hěn wǎn cái huí jiā ？"
+    },
+    {
+     "prompt": "你是怎么开始做老板的？",
+     "correctAnswer": "F",
+     "explanation": "因为他开了一家小公司，卖衣服，所以是老板。",
+     "id": "q2",
+     "type": "match",
+     "pinyin": "nǐ shì zěn me kāi shǐ zuò lǎo bǎn de ？"
+    },
+    {
+     "prompt": "那家饭店最近怎么样？",
+     "correctAnswer": "D",
+     "explanation": "因为这个月饭店的生意很好，所以情况不错。",
+     "id": "q3",
+     "type": "match",
+     "pinyin": "nà jiā fàn diàn zuì jìn zěn me yàng ？"
+    },
+    {
+     "prompt": "她大学时学了什么？",
+     "correctAnswer": "C",
+     "explanation": "因为她学了三年经济，所以她的专业是经济。",
+     "id": "q4",
+     "type": "match",
+     "pinyin": "tā dà xué shí xué le shén me ？"
+    },
+    {
+     "prompt": "你们公司上个月的生意怎么样？",
+     "correctAnswer": "A",
+     "explanation": "因为他们上个月卖了很多东西，所以生意很好。",
+     "id": "q5",
+     "type": "match",
+     "pinyin": "nǐ men gōng sī shàng gè yuè de shēng yì zěn me yàng ？"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

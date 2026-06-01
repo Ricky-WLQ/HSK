@@ -1,0 +1,118 @@
+{
+ "id": "hsk3-reading-p318",
+ "level": "3",
+ "section": "reading",
+ "partKey": "reading-p3",
+ "title": "HSK3 Reading P3",
+ "titleZh": "阅读 第三部分（短文理解）",
+ "groups": [
+  {
+   "instruction": "请阅读下面的短文，然后根据短文内容选择正确答案。",
+   "passage": "春天来了，小明在院子里发现一只小鸟正在树上筑巢。小鸟用树枝和草做了一个温暖的家。过了几天，下了一场大雨，小明担心小鸟的家会被淋湿。雨停后，他跑出去看，发现小鸟的家还是好好的，因为树枝很结实。小明很高兴，决定每天给小鸟送一些食物。",
+   "questions": [
+    {
+     "prompt": "小鸟在什么地方筑巢？",
+     "options": [
+      {
+       "label": "A",
+       "text": "在屋檐下",
+       "pinyin": "zài wū yán xià"
+      },
+      {
+       "label": "B",
+       "text": "在树上",
+       "pinyin": "zài shù shàng"
+      },
+      {
+       "label": "C",
+       "text": "在草地上",
+       "pinyin": "zài cǎo dì shàng"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "短文中说“小鸟正在树上筑巢”，所以小鸟是在树上筑巢的。",
+     "id": "q1",
+     "type": "passage-mcq",
+     "pinyin": "xiǎo niǎo zài shén me dì fāng zhù cháo ？"
+    },
+    {
+     "prompt": "小鸟用什么做家？",
+     "options": [
+      {
+       "label": "A",
+       "text": "石头和木头",
+       "pinyin": "shí tou hé mù tou"
+      },
+      {
+       "label": "B",
+       "text": "树枝和草",
+       "pinyin": "shù zhī hé cǎo"
+      },
+      {
+       "label": "C",
+       "text": "树叶和泥土",
+       "pinyin": "shù yè huó ní tǔ"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "短文中写“小鸟用树枝和草做了一个温暖的家”，所以是用树枝和草做的。",
+     "id": "q2",
+     "type": "passage-mcq",
+     "pinyin": "xiǎo niǎo yòng shén me zuò jiā ？"
+    },
+    {
+     "prompt": "小明为什么担心？",
+     "options": [
+      {
+       "label": "A",
+       "text": "因为树倒了",
+       "pinyin": "yīn wèi shù dào le"
+      },
+      {
+       "label": "B",
+       "text": "因为小鸟飞走了",
+       "pinyin": "yīn wèi xiǎo niǎo fēi zǒu le"
+      },
+      {
+       "label": "C",
+       "text": "因为下大雨了",
+       "pinyin": "yīn wèi xià dà yǔ le"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "短文中说“下了一场大雨，小明担心小鸟的家会被淋湿”，所以小明担心是因为下大雨。",
+     "id": "q3",
+     "type": "passage-mcq",
+     "pinyin": "xiǎo míng wèi shén me dān xīn ？"
+    },
+    {
+     "prompt": "雨停后，小明发现小鸟的家怎么样？",
+     "options": [
+      {
+       "label": "A",
+       "text": "不见了",
+       "pinyin": "bú jiàn le"
+      },
+      {
+       "label": "B",
+       "text": "被雨淋湿了",
+       "pinyin": "bèi yǔ lín shī le"
+      },
+      {
+       "label": "C",
+       "text": "好好的",
+       "pinyin": "hǎo hǎo de"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "短文中说“发现小鸟的家还是好好的”，所以雨停后小鸟的家仍然是好好的。",
+     "id": "q4",
+     "type": "passage-mcq",
+     "pinyin": "yǔ tíng hòu ， xiǎo míng fā xiàn xiǎo niǎo de jiā zěn me yàng ？"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

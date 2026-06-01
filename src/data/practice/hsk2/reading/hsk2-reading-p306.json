@@ -1,0 +1,89 @@
+{
+ "id": "hsk2-reading-p306",
+ "level": "2",
+ "section": "reading",
+ "partKey": "reading-p3",
+ "title": "HSK2 Reading P3",
+ "titleZh": "阅读 第三部分（句子匹配）",
+ "groups": [
+  {
+   "instruction": "请从A-F中选择合适的回答。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "我的作业还没写完。",
+     "pinyin": "wǒ de zuò yè hái méi xiě wán 。"
+    },
+    {
+     "label": "B",
+     "text": "明天是最后一天。",
+     "pinyin": "míng tiān shì zuì hòu yī tiān 。"
+    },
+    {
+     "label": "C",
+     "text": "你迟到了十分钟。",
+     "pinyin": "nǐ chí dào le shí fēn zhōng 。"
+    },
+    {
+     "label": "D",
+     "text": "他忘了定闹钟。",
+     "pinyin": "tā wàng le dìng nào zhōng 。"
+    },
+    {
+     "label": "E",
+     "text": "我们下午两点开会。",
+     "pinyin": "wǒ men xià wǔ liǎng diǎn kāi huì 。"
+    },
+    {
+     "label": "F",
+     "text": "我每天七点起床。",
+     "pinyin": "wǒ měi tiān qī diǎn qǐ chuáng 。"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "你早上什么时候起床？",
+     "correctAnswer": "F",
+     "explanation": "问早上几点起床，回答应该说明具体时间。",
+     "id": "q1",
+     "type": "match",
+     "pinyin": "nǐ zǎo shàng shén me shí hòu qǐ chuáng ？"
+    },
+    {
+     "prompt": "他为什么迟到了？",
+     "correctAnswer": "D",
+     "explanation": "问迟到的原因，回答应说明原因，如忘了定闹钟。",
+     "id": "q2",
+     "type": "match",
+     "pinyin": "tā wèi shén me chí dào le ？"
+    },
+    {
+     "prompt": "下午有什么安排？",
+     "correctAnswer": "E",
+     "explanation": "问下午的安排，回答应说明具体事项，如开会。",
+     "id": "q3",
+     "type": "match",
+     "pinyin": "xià wǔ yǒu shén me ān pái ？"
+    },
+    {
+     "prompt": "你的作业做完了吗？",
+     "correctAnswer": "A",
+     "explanation": "问作业完成情况，回答应说明是否完成，如还没写完。",
+     "id": "q4",
+     "type": "match",
+     "pinyin": "nǐ de zuò yè zuò wán le ma ？"
+    },
+    {
+     "prompt": "什么时候交作业？",
+     "correctAnswer": "B",
+     "explanation": "问交作业的时间，回答应说明截止日期，如明天是最后一天。",
+     "id": "q5",
+     "type": "match",
+     "pinyin": "shén me shí hòu jiāo zuò yè ？"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

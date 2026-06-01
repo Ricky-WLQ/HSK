@@ -1,0 +1,89 @@
+{
+ "id": "hsk2-reading-p314",
+ "level": "2",
+ "section": "reading",
+ "partKey": "reading-p3",
+ "title": "HSK2 Reading P3",
+ "titleZh": "阅读 第三部分（句子匹配）",
+ "groups": [
+  {
+   "instruction": "请根据对话内容，从A-F中选择一个最合适的句子完成对话。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "我用手机看电影。",
+     "pinyin": "wǒ yòng shǒu jī kàn diàn yǐng 。"
+    },
+    {
+     "label": "B",
+     "text": "她喜欢听音乐。",
+     "pinyin": "tā xǐ huān tīng yīn yuè 。"
+    },
+    {
+     "label": "C",
+     "text": "我们晚上一起聊天。",
+     "pinyin": "wǒ men wǎn shàng yì qǐ liáo tiān 。"
+    },
+    {
+     "label": "D",
+     "text": "他昨天买了一个新电脑。",
+     "pinyin": "tā zuó tiān mǎi le yí gè xīn diàn nǎo 。"
+    },
+    {
+     "label": "E",
+     "text": "这个手机很快。",
+     "pinyin": "zhè ge shǒu jī hěn kuài 。"
+    },
+    {
+     "label": "F",
+     "text": "我爸爸不会用电脑。",
+     "pinyin": "wǒ bà bà bú huì yòng diàn nǎo 。"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "你用什么看电影？",
+     "correctAnswer": "A",
+     "explanation": "问题问用什么看电影，回答应该说明使用的工具，选项A说用手机看电影，意思一致。",
+     "id": "q1",
+     "type": "match",
+     "pinyin": "nǐ yòng shén me kàn diàn yǐng ？"
+    },
+    {
+     "prompt": "他昨天买了什么？",
+     "correctAnswer": "D",
+     "explanation": "问题问他昨天买了什么，选项B说他买了一个新电脑，回答了物品。",
+     "id": "q2",
+     "type": "match",
+     "pinyin": "tā zuó tiān mǎi le shén me ？"
+    },
+    {
+     "prompt": "你们晚上做什么？",
+     "correctAnswer": "C",
+     "explanation": "问题问晚上做什么，选项C说一起聊天，是晚上可以做的活动。",
+     "id": "q3",
+     "type": "match",
+     "pinyin": "nǐ men wǎn shàng zuò shén me ？"
+    },
+    {
+     "prompt": "她喜欢做什么？",
+     "correctAnswer": "B",
+     "explanation": "问题问她喜欢做什么，选项D说她喜欢听音乐，是爱好。",
+     "id": "q4",
+     "type": "match",
+     "pinyin": "tā xǐ huān zuò shén me ？"
+    },
+    {
+     "prompt": "这个手机怎么样？",
+     "correctAnswer": "E",
+     "explanation": "问题问手机怎么样，选项E说这个手机很快，是评价。",
+     "id": "q5",
+     "type": "match",
+     "pinyin": "zhè ge shǒu jī zěn me yàng ？"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

@@ -1,0 +1,89 @@
+{
+ "id": "hsk3-reading-p111",
+ "level": "3",
+ "section": "reading",
+ "partKey": "reading-p1",
+ "title": "HSK3 Reading P1",
+ "titleZh": "阅读 第一部分（句子匹配）",
+ "groups": [
+  {
+   "instruction": "请从下面六个句子中，为每个问题选择一个最合适的句子。每个问题只有一个正确答案。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "动物园里有很多动物。",
+     "pinyin": "dòng wù yuán lǐ yǒu hěn duō dòng wù 。"
+    },
+    {
+     "label": "B",
+     "text": "下雨后，空气很新鲜。",
+     "pinyin": "xià yǔ hòu ， kōng qì hěn xīn xiān 。"
+    },
+    {
+     "label": "C",
+     "text": "我的狗每天都要散步。",
+     "pinyin": "wǒ de gǒu měi tiān dōu yào sàn bù 。"
+    },
+    {
+     "label": "D",
+     "text": "小鸟在树上唱歌。",
+     "pinyin": "xiǎo niǎo zài shù shàng chàng gē 。"
+    },
+    {
+     "label": "E",
+     "text": "这只猫最喜欢吃鱼。",
+     "pinyin": "zhè zhǐ māo zuì xǐ huān chī yú 。"
+    },
+    {
+     "label": "F",
+     "text": "花开了，蜜蜂飞来飞去。",
+     "pinyin": "huā kāi le ， mì fēng fēi lái fēi qù 。"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "什么动物喜欢在树上？",
+     "correctAnswer": "D",
+     "explanation": "句子C说“小鸟在树上唱歌”，说明小鸟喜欢待在树上，与问题相符。",
+     "id": "q1",
+     "type": "match",
+     "pinyin": "shén me dòng wù xǐ huān zài shù shàng ？"
+    },
+    {
+     "prompt": "雨天之后，什么变了？",
+     "correctAnswer": "B",
+     "explanation": "句子D说“下雨后，空气很新鲜”，直接回答了雨天之后空气变化的情况。",
+     "id": "q2",
+     "type": "match",
+     "pinyin": "yǔ tiān zhī hòu ， shén me biàn le ？"
+    },
+    {
+     "prompt": "什么东西爱吃鱼？",
+     "correctAnswer": "E",
+     "explanation": "句子A说“这只猫最喜欢吃鱼”，明确表示猫爱吃鱼。",
+     "id": "q3",
+     "type": "match",
+     "pinyin": "shén me dōng xī ài chī yú ？"
+    },
+    {
+     "prompt": "什么需要每天运动？",
+     "correctAnswer": "C",
+     "explanation": "句子E说“我的狗每天都要散步”，散步是一种运动，所以狗需要每天运动。",
+     "id": "q4",
+     "type": "match",
+     "pinyin": "shén me xū yào měi tiān yùn dòng ？"
+    },
+    {
+     "prompt": "哪些地方有很多动物？",
+     "correctAnswer": "A",
+     "explanation": "句子B说“动物园里有很多动物”，直接回答了问题。",
+     "id": "q5",
+     "type": "match",
+     "pinyin": "nǎ xiē dì fāng yǒu hěn duō dòng wù ？"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

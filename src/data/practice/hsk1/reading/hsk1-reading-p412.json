@@ -1,0 +1,142 @@
+{
+ "id": "hsk1-reading-p412",
+ "level": "1",
+ "section": "reading",
+ "partKey": "reading-p4",
+ "title": "HSK1 Reading P4",
+ "titleZh": "阅读 第四部分（短句理解）",
+ "groups": [
+  {
+   "instruction": "请根据短文选择正确答案。",
+   "questions": [
+    {
+     "prompt": "我早上七点起床。★我早上几点起床？",
+     "options": [
+      {
+       "label": "A",
+       "text": "六点",
+       "pinyin": "liù diǎn"
+      },
+      {
+       "label": "B",
+       "text": "七点",
+       "pinyin": "qī diǎn"
+      },
+      {
+       "label": "C",
+       "text": "八点",
+       "pinyin": "bā diǎn"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "短文说“早上七点起床”，所以起床时间是七点。",
+     "id": "q1",
+     "type": "passage-mcq",
+     "pinyin": "wǒ zǎo shàng qī diǎn qǐ chuáng 。★ wǒ zǎo shàng jǐ diǎn qǐ chuáng ？"
+    },
+    {
+     "prompt": "他每天学习三个小时。★他每天学习多长时间？",
+     "options": [
+      {
+       "label": "A",
+       "text": "两个小时",
+       "pinyin": "liǎng gè xiǎo shí"
+      },
+      {
+       "label": "B",
+       "text": "三个小时",
+       "pinyin": "sān gè xiǎo shí"
+      },
+      {
+       "label": "C",
+       "text": "四个小时",
+       "pinyin": "sì gè xiǎo shí"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "短文说“学习三个小时”，所以每天学习三个小时。",
+     "id": "q2",
+     "type": "passage-mcq",
+     "pinyin": "tā měi tiān xué xí sān gè xiǎo shí 。★ tā měi tiān xué xí duō zhǎng shí jiān ？"
+    },
+    {
+     "prompt": "我下午两点工作。★我下午几点工作？",
+     "options": [
+      {
+       "label": "A",
+       "text": "一点",
+       "pinyin": "yì diǎn"
+      },
+      {
+       "label": "B",
+       "text": "三点",
+       "pinyin": "sān diǎn"
+      },
+      {
+       "label": "C",
+       "text": "两点",
+       "pinyin": "liǎng diǎn"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "短文说“下午两点工作”，所以工作时间是两点。",
+     "id": "q3",
+     "type": "passage-mcq",
+     "pinyin": "wǒ xià wǔ liǎng diǎn gōng zuò 。★ wǒ xià wǔ jǐ diǎn gōng zuò ？"
+    },
+    {
+     "prompt": "她晚上十点睡觉。★她晚上几点睡觉？",
+     "options": [
+      {
+       "label": "A",
+       "text": "九点",
+       "pinyin": "jiǔ diǎn"
+      },
+      {
+       "label": "B",
+       "text": "十一点",
+       "pinyin": "shí yì diǎn"
+      },
+      {
+       "label": "C",
+       "text": "十点",
+       "pinyin": "shí diǎn"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "短文说“晚上十点睡觉”，所以睡觉时间是十点。",
+     "id": "q4",
+     "type": "passage-mcq",
+     "pinyin": "tā wǎn shàng shí diǎn shuì jiào 。★ tā wǎn shàng jǐ diǎn shuì jiào ？"
+    },
+    {
+     "prompt": "我今天有五个小时的时间。★我今天有多少小时？",
+     "options": [
+      {
+       "label": "A",
+       "text": "六个小时",
+       "pinyin": "liù gè xiǎo shí"
+      },
+      {
+       "label": "B",
+       "text": "五个小时",
+       "pinyin": "wǔ gè xiǎo shí"
+      },
+      {
+       "label": "C",
+       "text": "四个小时",
+       "pinyin": "sì gè xiǎo shí"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "短文说“有五个小时的时间”，所以时间是五个小时。",
+     "id": "q5",
+     "type": "passage-mcq",
+     "pinyin": "wǒ jīn tiān yǒu wǔ gè xiǎo shí de shí jiān 。★ wǒ jīn tiān yǒu duō shǎo xiǎo shí ？"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

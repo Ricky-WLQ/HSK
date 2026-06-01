@@ -1,0 +1,89 @@
+{
+ "id": "hsk1-reading-p207",
+ "level": "1",
+ "section": "reading",
+ "partKey": "reading-p2",
+ "title": "HSK1 Reading P2",
+ "titleZh": "阅读 第二部分（问答匹配）",
+ "groups": [
+  {
+   "instruction": "请从A-F中选择合适的回答，每个问题只有一个正确答案。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "妹妹三岁了。",
+     "pinyin": "mèi mèi sān suì le 。"
+    },
+    {
+     "label": "B",
+     "text": "哥哥喜欢吃苹果。",
+     "pinyin": "gē gē xǐ huān chī píng guǒ 。"
+    },
+    {
+     "label": "C",
+     "text": "姐姐在看书。",
+     "pinyin": "jiě jiě zài kàn shū 。"
+    },
+    {
+     "label": "D",
+     "text": "爸爸还没有回家。",
+     "pinyin": "bà bà hái méi yǒu huí jiā 。"
+    },
+    {
+     "label": "E",
+     "text": "妈妈去上班了。",
+     "pinyin": "mā mā qù shàng bān le 。"
+    },
+    {
+     "label": "F",
+     "text": "我爱我的家人。",
+     "pinyin": "wǒ ài wǒ de jiā rén 。"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "妈妈在吗？",
+     "correctAnswer": "E",
+     "explanation": "问题问妈妈是否在，回答说明妈妈去上班了，所以不在，与问题匹配。",
+     "id": "q1",
+     "type": "match",
+     "pinyin": "mā mā zài ma ？"
+    },
+    {
+     "prompt": "哥哥喜欢吃什么？",
+     "correctAnswer": "B",
+     "explanation": "问题问哥哥喜欢的食物，回答指出喜欢吃苹果，符合要求。",
+     "id": "q2",
+     "type": "match",
+     "pinyin": "gē gē xǐ huān chī shén me ？"
+    },
+    {
+     "prompt": "妹妹几岁了？",
+     "correctAnswer": "A",
+     "explanation": "问题问妹妹的年龄，回答给出三岁，直接对应。",
+     "id": "q3",
+     "type": "match",
+     "pinyin": "mèi mèi jǐ suì le ？"
+    },
+    {
+     "prompt": "爸爸回家了吗？",
+     "correctAnswer": "D",
+     "explanation": "问题问爸爸是否回家，回答说明还没有回家，与问题一致。",
+     "id": "q4",
+     "type": "match",
+     "pinyin": "bà bà huí jiā le ma ？"
+    },
+    {
+     "prompt": "你爱你的家人吗？",
+     "correctAnswer": "F",
+     "explanation": "问题询问对家人的爱，回答表达爱家人，意思相符。",
+     "id": "q5",
+     "type": "match",
+     "pinyin": "nǐ ài nǐ de jiā rén ma ？"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

@@ -1,0 +1,89 @@
+{
+ "id": "hsk1-reading-p305",
+ "level": "1",
+ "section": "reading",
+ "partKey": "reading-p3",
+ "title": "HSK1 Reading P3",
+ "titleZh": "阅读 第三部分（选词填空）",
+ "groups": [
+  {
+   "instruction": "请从下面的词语中选择合适的词填入句子的括号中。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "医院",
+     "pinyin": "yī yuàn"
+    },
+    {
+     "label": "B",
+     "text": "老师",
+     "pinyin": "lǎo shī"
+    },
+    {
+     "label": "C",
+     "text": "医生",
+     "pinyin": "yī shēng"
+    },
+    {
+     "label": "D",
+     "text": "工作",
+     "pinyin": "gōng zuò"
+    },
+    {
+     "label": "E",
+     "text": "苹果",
+     "pinyin": "píng guǒ"
+    },
+    {
+     "label": "F",
+     "text": "学生",
+     "pinyin": "xué shēng"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "他的（ ）是医生。",
+     "correctAnswer": "D",
+     "explanation": "“工作”指职业，这句话意思是他的职业是医生，符合句意。",
+     "id": "q1",
+     "type": "cloze-wordbank",
+     "pinyin": "tā de （ ） shì yī shēng 。"
+    },
+    {
+     "prompt": "她是一个（ ），人很好。",
+     "correctAnswer": "B",
+     "explanation": "“老师”是一种职业，这句话描述她是一位老师，而且人很好。",
+     "id": "q2",
+     "type": "cloze-wordbank",
+     "pinyin": "tā shì yí gè （ ）， rén hěn hǎo 。"
+    },
+    {
+     "prompt": "他是（ ），今年十岁。",
+     "correctAnswer": "F",
+     "explanation": "“学生”表示在学校学习的人，这句话说他今年十岁，是学生。",
+     "id": "q3",
+     "type": "cloze-wordbank",
+     "pinyin": "tā shì （ ）， jīn nián shí suì 。"
+    },
+    {
+     "prompt": "我爸爸是（ ），他很高。",
+     "correctAnswer": "C",
+     "explanation": "“医生”是治病救人的职业，这句话说爸爸是医生，而且个子很高。",
+     "id": "q4",
+     "type": "cloze-wordbank",
+     "pinyin": "wǒ bà bà shì （ ）， tā hěn gāo 。"
+    },
+    {
+     "prompt": "我今天去（ ）上班。",
+     "correctAnswer": "A",
+     "explanation": "“医院”是工作的地点，这句话说我今天去医院上班。",
+     "id": "q5",
+     "type": "cloze-wordbank",
+     "pinyin": "wǒ jīn tiān qù （ ） shàng bān 。"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

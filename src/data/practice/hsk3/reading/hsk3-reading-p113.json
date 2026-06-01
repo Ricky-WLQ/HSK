@@ -1,0 +1,89 @@
+{
+ "id": "hsk3-reading-p113",
+ "level": "3",
+ "section": "reading",
+ "partKey": "reading-p1",
+ "title": "HSK3 Reading P1",
+ "titleZh": "阅读 第一部分（句子匹配）",
+ "groups": [
+  {
+   "instruction": "从下面的句子中，为每个问题找到最合适的配对句子。每个句子只能用一次，有一个句子是多余的。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "叔叔送给我一本有趣的书。",
+     "pinyin": "shū shū sòng gěi wǒ yī běn yǒu qù de shū 。"
+    },
+    {
+     "label": "B",
+     "text": "姐姐帮我整理干净的房间。",
+     "pinyin": "jiě jiě bāng wǒ zhěng lǐ gān jìng de fáng jiān 。"
+    },
+    {
+     "label": "C",
+     "text": "妈妈教我做美味的番茄炒蛋。",
+     "pinyin": "mā mā jiào wǒ zuò měi wèi de fān qié chǎo dàn 。"
+    },
+    {
+     "label": "D",
+     "text": "爷爷带我去图书馆借书。",
+     "pinyin": "yé yé dài wǒ qù tú shū guǎn jiè shū 。"
+    },
+    {
+     "label": "E",
+     "text": "弟弟陪奶奶看电视聊天。",
+     "pinyin": "dì di péi nǎi nǎi kàn diàn shì liáo tiān 。"
+    },
+    {
+     "label": "F",
+     "text": "爸爸每天骑自行车送我上学。",
+     "pinyin": "bà bà měi tiān qí zì xíng chē sòng wǒ shàng xué 。"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "谁教我学做饭？",
+     "correctAnswer": "C",
+     "explanation": "句子中“妈妈教我”与“教做饭”意思相符，妈妈教做番茄炒蛋就是学做饭。",
+     "id": "q1",
+     "type": "match",
+     "pinyin": "shuí jiào wǒ xué zuò fàn ？"
+    },
+    {
+     "prompt": "谁陪奶奶看电视和说话？",
+     "correctAnswer": "E",
+     "explanation": "句子中“弟弟陪奶奶看电视聊天”直接对应陪伴奶奶的活动。",
+     "id": "q2",
+     "type": "match",
+     "pinyin": "shuí péi nǎi nǎi kàn diàn shì hé shuō huà ？"
+    },
+    {
+     "prompt": "谁帮我收拾屋子？",
+     "correctAnswer": "B",
+     "explanation": "句子中“姐姐帮我整理干净的房间”就是帮我收拾屋子的意思。",
+     "id": "q3",
+     "type": "match",
+     "pinyin": "shuí bāng wǒ shōu shí wū zi ？"
+    },
+    {
+     "prompt": "谁带我去图书馆？",
+     "correctAnswer": "D",
+     "explanation": "句子中“爷爷带我去图书馆借书”明确表示去图书馆。",
+     "id": "q4",
+     "type": "match",
+     "pinyin": "shuí dài wǒ qù tú shū guǎn ？"
+    },
+    {
+     "prompt": "谁送给我书？",
+     "correctAnswer": "A",
+     "explanation": "句子中“叔叔送给我一本有趣的书”直接对应送书。",
+     "id": "q5",
+     "type": "match",
+     "pinyin": "shuí sòng gěi wǒ shū ？"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

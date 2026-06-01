@@ -1,0 +1,74 @@
+{
+ "id": "hsk4-reading-p115",
+ "level": "4",
+ "section": "reading",
+ "partKey": "reading-p1",
+ "title": "HSK4 Reading P1",
+ "titleZh": "阅读 第一部分（选词填空）",
+ "groups": [
+  {
+   "instruction": "请从A-E中选择合适的词语填入下面句子的空白处，每个词语限用一次。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "旋律"
+    },
+    {
+     "label": "B",
+     "text": "创作"
+    },
+    {
+     "label": "C",
+     "text": "节奏"
+    },
+    {
+     "label": "D",
+     "text": "欣赏"
+    },
+    {
+     "label": "E",
+     "text": "演奏"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "这位钢琴家正在舞台上（ ）贝多芬的《月光奏鸣曲》。",
+     "correctAnswer": "E",
+     "explanation": "“演奏”指用乐器表演，句中钢琴家弹奏乐曲，所以填“演奏”。",
+     "id": "q1",
+     "type": "cloze-wordbank"
+    },
+    {
+     "prompt": "我喜欢这首歌的（ ），它让我想跟着一起跳舞。",
+     "correctAnswer": "C",
+     "explanation": "“节奏”指音乐中强弱、快慢的规律，跳舞需要跟随节奏，所以填“节奏”。",
+     "id": "q2",
+     "type": "cloze-wordbank"
+    },
+    {
+     "prompt": "这首民歌的（ ）简单易记，孩子们很快就学会了。",
+     "correctAnswer": "A",
+     "explanation": "“旋律”指一连串有高低变化的声音，学歌主要学旋律，所以填“旋律”。",
+     "id": "q3",
+     "type": "cloze-wordbank"
+    },
+    {
+     "prompt": "艺术爱好者们聚在一起（ ）这位大师的最新作品。",
+     "correctAnswer": "D",
+     "explanation": "“欣赏”指享受美好事物并感受其美，看作品常用“欣赏”，所以填“欣赏”。",
+     "id": "q4",
+     "type": "cloze-wordbank"
+    },
+    {
+     "prompt": "这位作家正在（ ）一部关于音乐家的小说。",
+     "correctAnswer": "B",
+     "explanation": "“创作”指创造新作品，写小说是文学创作，所以填“创作”。",
+     "id": "q5",
+     "type": "cloze-wordbank"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

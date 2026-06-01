@@ -1,0 +1,89 @@
+{
+ "id": "hsk2-reading-p319",
+ "level": "2",
+ "section": "reading",
+ "partKey": "reading-p3",
+ "title": "HSK2 Reading P3",
+ "titleZh": "阅读 第三部分（句子匹配）",
+ "groups": [
+  {
+   "instruction": "请为下面的句子选择最合适的应答句。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "我要和哥哥一起去。",
+     "pinyin": "wǒ yào hé gē gē yì qǐ qù 。"
+    },
+    {
+     "label": "B",
+     "text": "星星是小的。",
+     "pinyin": "xīng xīng shì xiǎo de 。"
+    },
+    {
+     "label": "C",
+     "text": "我看见了月亮和星星。",
+     "pinyin": "wǒ kàn jiàn le yuè liàng hé xīng xīng 。"
+    },
+    {
+     "label": "D",
+     "text": "天空有云，看不见星星。",
+     "pinyin": "tiān kōng yǒu yún ， kàn bú jiàn xīng xīng 。"
+    },
+    {
+     "label": "E",
+     "text": "今天晚上没有星星。",
+     "pinyin": "jīn tiān wǎn shàng méi yǒu xīng xīng 。"
+    },
+    {
+     "label": "F",
+     "text": "月亮比星星大。",
+     "pinyin": "yuè liàng bǐ xīng xīng dà 。"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "月亮大还是星星大？",
+     "correctAnswer": "F",
+     "explanation": "问句问月亮和星星的大小比较，应答句说月亮比星星大，回答了比较的问题。",
+     "id": "q1",
+     "type": "match",
+     "pinyin": "yuè liàng dà hái shì xīng xīng dà ？"
+    },
+    {
+     "prompt": "昨天你看星星了吗？",
+     "correctAnswer": "C",
+     "explanation": "问句询问昨天是否看星星，应答句说看见了月亮和星星，表示看到了星星。",
+     "id": "q2",
+     "type": "match",
+     "pinyin": "zuó tiān nǐ kàn xīng xīng le ma ？"
+    },
+    {
+     "prompt": "为什么看不见星星？",
+     "correctAnswer": "D",
+     "explanation": "问句问看不见星星的原因，应答句解释因为天空有云，所以看不见，直接回答了原因。",
+     "id": "q3",
+     "type": "match",
+     "pinyin": "wèi shén me kàn bú jiàn xīng xīng ？"
+    },
+    {
+     "prompt": "今天晚上有星星吗？",
+     "correctAnswer": "E",
+     "explanation": "问句询问今晚是否有星星，应答句说今天晚上没有星星，给出了否定回答。",
+     "id": "q4",
+     "type": "match",
+     "pinyin": "jīn tiān wǎn shàng yǒu xīng xīng ma ？"
+    },
+    {
+     "prompt": "你一个人去吗？",
+     "correctAnswer": "A",
+     "explanation": "问句询问去的时候是否一个人，应答句说和哥哥一起去，说明不是一个人。",
+     "id": "q5",
+     "type": "match",
+     "pinyin": "nǐ yí gè rén qù ma ？"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

@@ -1,0 +1,118 @@
+{
+ "id": "hsk4-reading-p217",
+ "level": "4",
+ "section": "reading",
+ "partKey": "reading-p2",
+ "title": "HSK4 Reading P2",
+ "titleZh": "阅读 第二部分（短文理解）",
+ "groups": [
+  {
+   "instruction": "请阅读下面的短文，然后回答问题。每个问题有四个选项，请选择唯一正确的答案。",
+   "passage": "王明参加了学校的辩论比赛，他需要准备一篇关于环境保护的辩词。一开始，他完全不知道怎么写，感到非常着急。后来，他去了图书馆，学习了如何使用数据库查找资料，还向指导老师请教了辩论技巧。经过一周的努力，他终于完成了一份逻辑清晰的辩词。在比赛中，王明所在的团队获得了第二名的好成绩。这次经历让他明白，遇到困难时要主动寻求帮助和方法。",
+   "questions": [
+    {
+     "prompt": "王明最初参加辩论比赛时，遇到了什么困难？",
+     "options": [
+      {
+       "label": "A",
+       "text": "完全不会写辩词"
+      },
+      {
+       "label": "B",
+       "text": "找不到比赛场地"
+      },
+      {
+       "label": "C",
+       "text": "团队成员不配合"
+      },
+      {
+       "label": "D",
+       "text": "比赛时间太紧张"
+      }
+     ],
+     "correctAnswer": "A",
+     "explanation": "短文中明确提到“一开始，他完全不知道怎么写”，说明王明遇到的困难是完全不会写辩词。",
+     "id": "q1",
+     "type": "passage-mcq"
+    },
+    {
+     "prompt": "王明是如何解决辩词写作问题的？",
+     "options": [
+      {
+       "label": "A",
+       "text": "向同学借现成的辩词"
+      },
+      {
+       "label": "B",
+       "text": "去图书馆学习并请教老师"
+      },
+      {
+       "label": "C",
+       "text": "直接放弃比赛"
+      },
+      {
+       "label": "D",
+       "text": "自己在家慢慢想"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "短文中说“他去了图书馆，学习了如何使用数据库查找资料，还向指导老师请教了辩论技巧”，因此他通过去图书馆和请教老师解决了问题。",
+     "id": "q2",
+     "type": "passage-mcq"
+    },
+    {
+     "prompt": "在比赛中，王明所在的团队取得了什么成绩？",
+     "options": [
+      {
+       "label": "A",
+       "text": "进入了决赛但没名次"
+      },
+      {
+       "label": "B",
+       "text": "获得了第一名"
+      },
+      {
+       "label": "C",
+       "text": "获得了第二名"
+      },
+      {
+       "label": "D",
+       "text": "没有获奖"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "短文中明确写道“在比赛中，王明所在的团队获得了第二名的好成绩”，所以是第二名。",
+     "id": "q3",
+     "type": "passage-mcq"
+    },
+    {
+     "prompt": "通过这次辩论比赛的经历，王明有什么感悟？",
+     "options": [
+      {
+       "label": "A",
+       "text": "图书馆的数据库没有用"
+      },
+      {
+       "label": "B",
+       "text": "遇到困难时要主动寻求帮助和方法"
+      },
+      {
+       "label": "C",
+       "text": "环境保护很难，无法改变"
+      },
+      {
+       "label": "D",
+       "text": "辩论比赛太累了，以后不参加"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "短文最后一句说“这次经历让他明白，遇到困难时要主动寻求帮助和方法”，这是他的感悟。",
+     "id": "q4",
+     "type": "passage-mcq"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

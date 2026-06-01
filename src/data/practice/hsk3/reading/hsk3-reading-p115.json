@@ -1,0 +1,89 @@
+{
+ "id": "hsk3-reading-p115",
+ "level": "3",
+ "section": "reading",
+ "partKey": "reading-p1",
+ "title": "HSK3 Reading P1",
+ "titleZh": "阅读 第一部分（句子匹配）",
+ "groups": [
+  {
+   "instruction": "请从A-F中选择一个句子，使它与每个问题情境相匹配。每个句子只能使用一次，有一个句子是多余的。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "明天早上八点出发。",
+     "pinyin": "míng tiān zǎo shàng bā diǎn chū fā 。"
+    },
+    {
+     "label": "B",
+     "text": "我昨天在网上买了火车票。",
+     "pinyin": "wǒ zuó tiān zài wǎng shàng mǎi le huǒ chē piào 。"
+    },
+    {
+     "label": "C",
+     "text": "坐出租车到机场需要半小时。",
+     "pinyin": "zuò chū zū chē dào jī chǎng xū yào bàn xiǎo shí 。"
+    },
+    {
+     "label": "D",
+     "text": "请问，去火车站怎么走？",
+     "pinyin": "qǐng wèn ， qù huǒ chē zhàn zěn me zǒu ？"
+    },
+    {
+     "label": "E",
+     "text": "我坐地铁到火车站。",
+     "pinyin": "wǒ zuò dì tiě dào huǒ chē zhàn 。"
+    },
+    {
+     "label": "F",
+     "text": "这个房间一天多少钱？",
+     "pinyin": "zhè ge fáng jiān yī tiān duō shǎo qián ？"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "小李不知道去火车站的路，他应该怎么问？",
+     "correctAnswer": "D",
+     "explanation": "问路时常用‘请问，……怎么走？’这个句型，与选项中的句子一致。",
+     "id": "q1",
+     "type": "match",
+     "pinyin": "xiǎo lǐ bù zhī dào qù huǒ chē zhàn de lù ， tā yīng gāi zěn me wèn ？"
+    },
+    {
+     "prompt": "小李想住酒店，他需要问什么？",
+     "correctAnswer": "F",
+     "explanation": "询问房间价格时，用‘这个房间一天多少钱？’非常合适。",
+     "id": "q2",
+     "type": "match",
+     "pinyin": "xiǎo lǐ xiǎng zhù jiǔ diàn ， tā xū yào wèn shén me ？"
+    },
+    {
+     "prompt": "小李告诉朋友他买票的方式。",
+     "correctAnswer": "B",
+     "explanation": "‘在网上买了火车票’说明购票方式，与情境相符。",
+     "id": "q3",
+     "type": "match",
+     "pinyin": "xiǎo lǐ gào sù péng yǒu tā mǎi piào de fāng shì 。"
+    },
+    {
+     "prompt": "小李告诉朋友他乘坐的交通工具。",
+     "correctAnswer": "E",
+     "explanation": "‘坐地铁到火车站’清楚地说明了交通方式。",
+     "id": "q4",
+     "type": "match",
+     "pinyin": "xiǎo lǐ gào sù péng yǒu tā chéng zuò de jiāo tōng gōng jù 。"
+    },
+    {
+     "prompt": "导游告诉小李第二天的出发时间。",
+     "correctAnswer": "A",
+     "explanation": "‘明天早上八点出发’直接告知出发时间，符合导游的说话内容。",
+     "id": "q5",
+     "type": "match",
+     "pinyin": "dǎo yóu gào sù xiǎo lǐ dì èr tiān de chū fā shí jiān 。"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

@@ -7,132 +7,132 @@
  "titleZh": "阅读 第四部分（短句理解）",
  "groups": [
   {
-   "instruction": "请阅读下面的句子，然后回答问题。选择正确的答案。",
+   "instruction": "阅读下面的句子，然后回答问题。选择正确的选项。",
    "questions": [
     {
-     "prompt": "我弟弟八岁。★他多大了？",
+     "prompt": "王老师教我们写字。★王老师教我们做什么？",
      "options": [
       {
        "label": "A",
-       "text": "八岁",
-       "pinyin": "bā suì"
+       "text": "说话",
+       "pinyin": "shuō huà"
       },
       {
        "label": "B",
-       "text": "九岁",
-       "pinyin": "jiǔ suì"
+       "text": "看书",
+       "pinyin": "kàn shū"
       },
       {
        "label": "C",
-       "text": "七岁",
-       "pinyin": "qī suì"
-      }
-     ],
-     "correctAnswer": "A",
-     "explanation": "句子说弟弟八岁，所以年龄是八岁。",
-     "id": "q1",
-     "type": "passage-mcq",
-     "pinyin": "wǒ dì di bā suì 。★ tā duō dà le ？"
-    },
-    {
-     "prompt": "妈妈在厨房喝水。★谁在喝水？",
-     "options": [
-      {
-       "label": "A",
-       "text": "爸爸",
-       "pinyin": "bà bà"
-      },
-      {
-       "label": "B",
-       "text": "妈妈",
-       "pinyin": "mā mā"
-      },
-      {
-       "label": "C",
-       "text": "弟弟",
-       "pinyin": "dì di"
-      }
-     ],
-     "correctAnswer": "B",
-     "explanation": "句子说妈妈在喝水，所以是妈妈。",
-     "id": "q2",
-     "type": "passage-mcq",
-     "pinyin": "mā mā zài chú fáng hē shuǐ 。★ shuí zài hē shuǐ ？"
-    },
-    {
-     "prompt": "今天星期二。★明天是星期几？",
-     "options": [
-      {
-       "label": "A",
-       "text": "星期一",
-       "pinyin": "xīng qī yī"
-      },
-      {
-       "label": "B",
-       "text": "星期二",
-       "pinyin": "xīng qī èr"
-      },
-      {
-       "label": "C",
-       "text": "星期三",
-       "pinyin": "xīng qī sān"
+       "text": "写字",
+       "pinyin": "xiě zì"
       }
      ],
      "correctAnswer": "C",
-     "explanation": "今天是星期二，明天是星期三。",
+     "explanation": "短文中说“王老师教我们写字”，所以王老师教我们写字。",
+     "id": "q1",
+     "type": "passage-mcq",
+     "pinyin": "wáng lǎo shī jiào wǒ men xiě zì 。★ wáng lǎo shī jiào wǒ men zuò shén me ？"
+    },
+    {
+     "prompt": "新年我们吃鱼。★新年我们吃什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "肉",
+       "pinyin": "ròu"
+      },
+      {
+       "label": "B",
+       "text": "菜",
+       "pinyin": "cài"
+      },
+      {
+       "label": "C",
+       "text": "鱼",
+       "pinyin": "yú"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "短文中说“新年我们吃鱼”，所以新年我们吃鱼。",
+     "id": "q2",
+     "type": "passage-mcq",
+     "pinyin": "xīn nián wǒ men chī yú 。★ xīn nián wǒ men chī shén me ？"
+    },
+    {
+     "prompt": "中国茶很好喝。★中国茶怎么样？",
+     "options": [
+      {
+       "label": "A",
+       "text": "很贵",
+       "pinyin": "hěn guì"
+      },
+      {
+       "label": "B",
+       "text": "很大",
+       "pinyin": "hěn dà"
+      },
+      {
+       "label": "C",
+       "text": "很好喝",
+       "pinyin": "hěn hǎo hē"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "短文中说“中国茶很好喝”，所以中国茶很好喝。",
      "id": "q3",
      "type": "passage-mcq",
-     "pinyin": "jīn tiān xīng qī èr 。★ míng tiān shì xīng qī jǐ ？"
+     "pinyin": "zhōng guó chá hěn hǎo hē 。★ zhōng guó chá zěn me yàng ？"
     },
     {
-     "prompt": "我的书在桌子上。★书在哪里？",
+     "prompt": "他写了很多字。★他写了什么？",
      "options": [
       {
        "label": "A",
-       "text": "椅子上",
-       "pinyin": "yǐ zi shàng"
+       "text": "画",
+       "pinyin": "huà"
       },
       {
        "label": "B",
-       "text": "桌子上",
-       "pinyin": "zhuō zi shàng"
+       "text": "字",
+       "pinyin": "zì"
       },
       {
        "label": "C",
-       "text": "床上",
-       "pinyin": "chuáng shàng"
+       "text": "书",
+       "pinyin": "shū"
       }
      ],
      "correctAnswer": "B",
-     "explanation": "句子说书在桌子上。",
+     "explanation": "短文中说“他写了很多字”，所以他写了字。",
      "id": "q4",
      "type": "passage-mcq",
-     "pinyin": "wǒ de shū zài zhuō zi shàng 。★ shū zài nǎ lǐ ？"
+     "pinyin": "tā xiě le hěn duō zì 。★ tā xiě le shén me ？"
     },
     {
-     "prompt": "我喜欢吃苹果。★我喜欢吃什么？",
+     "prompt": "孔子是中国人。★孔子是哪里人？",
      "options": [
       {
        "label": "A",
-       "text": "香蕉",
-       "pinyin": "xiāng jiāo"
+       "text": "日本人",
+       "pinyin": "rì běn rén"
       },
       {
        "label": "B",
-       "text": "苹果",
-       "pinyin": "píng guǒ"
+       "text": "中国人",
+       "pinyin": "zhōng guó rén"
       },
       {
        "label": "C",
-       "text": "西瓜",
-       "pinyin": "xī guā"
+       "text": "美国人",
+       "pinyin": "měi guó rén"
       }
      ],
      "correctAnswer": "B",
-     "explanation": "句子说喜欢吃苹果。",
+     "explanation": "短文中说“孔子是中国人”，所以孔子是中国人。",
      "id": "q5",
      "type": "passage-mcq",
-     "pinyin": "wǒ xǐ huān chī píng guǒ 。★ wǒ xǐ huān chī shén me ？"
+     "pinyin": "kǒng zi shì zhōng guó rén 。★ kǒng zi shì nǎ lǐ rén ？"
     }
    ],
    "id": "g1"

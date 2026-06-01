@@ -1,0 +1,142 @@
+{
+ "id": "hsk2-reading-p407",
+ "level": "2",
+ "section": "reading",
+ "partKey": "reading-p4",
+ "title": "HSK2 Reading P4",
+ "titleZh": "阅读 第四部分（短文理解）",
+ "groups": [
+  {
+   "instruction": "请阅读下面的短文，然后选出正确答案。",
+   "questions": [
+    {
+     "prompt": "她喜欢看中国电影。★她喜欢什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "看书",
+       "pinyin": "kàn shū"
+      },
+      {
+       "label": "B",
+       "text": "看京剧",
+       "pinyin": "kàn jīng jù"
+      },
+      {
+       "label": "C",
+       "text": "看电影",
+       "pinyin": "kàn diàn yǐng"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "短文说“她喜欢看中国电影”，所以她喜欢看电影。",
+     "id": "q1",
+     "type": "passage-mcq",
+     "pinyin": "tā xǐ huān kàn zhòng guó diàn yǐng 。★ tā xǐ huān shén me ？"
+    },
+    {
+     "prompt": "我爷爷会讲很多故事。★爷爷会做什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "画画",
+       "pinyin": "huà huà"
+      },
+      {
+       "label": "B",
+       "text": "讲故事",
+       "pinyin": "jiǎng gù shì"
+      },
+      {
+       "label": "C",
+       "text": "唱歌",
+       "pinyin": "chàng gē"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "原文说“爷爷会讲很多故事”，所以爷爷会讲故事。",
+     "id": "q2",
+     "type": "passage-mcq",
+     "pinyin": "wǒ yé yé huì jiǎng hěn duō gù shì 。★ yé yé huì zuò shén me ？"
+    },
+    {
+     "prompt": "他每天练习写汉字。★他练习什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "写汉字",
+       "pinyin": "xiě hàn zì"
+      },
+      {
+       "label": "B",
+       "text": "画画",
+       "pinyin": "huà huà"
+      },
+      {
+       "label": "C",
+       "text": "唱歌",
+       "pinyin": "chàng gē"
+      }
+     ],
+     "correctAnswer": "A",
+     "explanation": "原文说“练习写汉字”，所以他练习写汉字。",
+     "id": "q3",
+     "type": "passage-mcq",
+     "pinyin": "tā měi tiān liàn xí xiě hàn zì 。★ tā liàn xí shén me ？"
+    },
+    {
+     "prompt": "他喜欢听中国音乐。★他喜欢什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "看电影",
+       "pinyin": "kàn diàn yǐng"
+      },
+      {
+       "label": "B",
+       "text": "听音乐",
+       "pinyin": "tīng yīn yuè"
+      },
+      {
+       "label": "C",
+       "text": "看书",
+       "pinyin": "kàn shū"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "短文说“他喜欢听中国音乐”，所以他喜欢听音乐。",
+     "id": "q4",
+     "type": "passage-mcq",
+     "pinyin": "tā xǐ huān tīng zhōng guó yīn yuè 。★ tā xǐ huān shén me ？"
+    },
+    {
+     "prompt": "我妈妈会包饺子。★妈妈会做什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "包饺子",
+       "pinyin": "bāo jiǎo zi"
+      },
+      {
+       "label": "B",
+       "text": "做面条",
+       "pinyin": "zuò miàn tiáo"
+      },
+      {
+       "label": "C",
+       "text": "炒菜",
+       "pinyin": "chǎo cài"
+      }
+     ],
+     "correctAnswer": "A",
+     "explanation": "原文说“妈妈会包饺子”，所以妈妈会包饺子。",
+     "id": "q5",
+     "type": "passage-mcq",
+     "pinyin": "wǒ mā mā huì bāo jiǎo zi 。★ mā mā huì zuò shén me ？"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

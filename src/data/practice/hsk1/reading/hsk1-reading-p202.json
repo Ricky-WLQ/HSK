@@ -1,0 +1,89 @@
+{
+ "id": "hsk1-reading-p202",
+ "level": "1",
+ "section": "reading",
+ "partKey": "reading-p2",
+ "title": "HSK1 Reading P2",
+ "titleZh": "阅读 第二部分（问答匹配）",
+ "groups": [
+  {
+   "instruction": "请从A-F中选择合适的回答，每个问题只有一个正确答案。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "我去看电影。",
+     "pinyin": "wǒ qù kàn diàn yǐng 。"
+    },
+    {
+     "label": "B",
+     "text": "我不喜欢这个演员。",
+     "pinyin": "wǒ bù xǐ huān zhè ge yǎn yuán 。"
+    },
+    {
+     "label": "C",
+     "text": "我喜欢中国电影。",
+     "pinyin": "wǒ xǐ huān zhōng guó diàn yǐng 。"
+    },
+    {
+     "label": "D",
+     "text": "我和朋友一起。",
+     "pinyin": "wǒ hé péng yǒu yì qǐ 。"
+    },
+    {
+     "label": "E",
+     "text": "明天晚上有票。",
+     "pinyin": "míng tiān wǎn shàng yǒu piào 。"
+    },
+    {
+     "label": "F",
+     "text": "电影很好看。",
+     "pinyin": "diàn yǐng hěn hǎo kàn 。"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "你喜欢什么电影？",
+     "correctAnswer": "C",
+     "explanation": "问题问喜欢什么电影，回答“我喜欢中国电影”直接表明喜欢的电影类型，与疑问词“什么”对应。",
+     "id": "q1",
+     "type": "match",
+     "pinyin": "nǐ xǐ huān shén me diàn yǐng ？"
+    },
+    {
+     "prompt": "电影怎么样？",
+     "correctAnswer": "F",
+     "explanation": "问题问电影的评价，回答“电影很好看”是对电影质量的直接描述，符合问答逻辑。",
+     "id": "q2",
+     "type": "match",
+     "pinyin": "diàn yǐng zěn me yàng ？"
+    },
+    {
+     "prompt": "你和谁去看电影？",
+     "correctAnswer": "D",
+     "explanation": "问题问陪同对象，回答“我和朋友一起”明确说明了同行者，回答了“谁”的问题。",
+     "id": "q3",
+     "type": "match",
+     "pinyin": "nǐ hé shuí qù kàn diàn yǐng ？"
+    },
+    {
+     "prompt": "什么时候有票？",
+     "correctAnswer": "E",
+     "explanation": "问题问时间，回答“明天晚上有票”提供了具体时间，符合疑问词“什么时候”的提问。",
+     "id": "q4",
+     "type": "match",
+     "pinyin": "shén me shí hòu yǒu piào ？"
+    },
+    {
+     "prompt": "你喜欢这个演员吗？",
+     "correctAnswer": "B",
+     "explanation": "问题询问对演员的喜好，回答“我不喜欢这个演员”给出了否定的态度，直接回答了问题。",
+     "id": "q5",
+     "type": "match",
+     "pinyin": "nǐ xǐ huān zhè ge yǎn yuán ma ？"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

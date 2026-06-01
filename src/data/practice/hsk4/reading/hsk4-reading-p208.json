@@ -1,0 +1,118 @@
+{
+ "id": "hsk4-reading-p208",
+ "level": "4",
+ "section": "reading",
+ "partKey": "reading-p2",
+ "title": "HSK4 Reading P2",
+ "titleZh": "阅读 第二部分（短文理解）",
+ "groups": [
+  {
+   "instruction": "请阅读下面的短文，然后根据短文内容回答问题。每个问题有四个选项，请选择唯一正确的答案。",
+   "passage": "我从小就喜欢看星星，一直梦想着去太空旅行。去年，我参加了天文俱乐部的活动，用望远镜观察了木星。木星的表面有很多条纹，还有四颗明亮的卫星。工作人员告诉我，木星是太阳系中最大的行星，它的体重是地球的三百多倍。我希望能有更多的人了解太空，学习天文知识。",
+   "questions": [
+    {
+     "prompt": "作者什么时候参加了天文俱乐部的活动？",
+     "options": [
+      {
+       "label": "A",
+       "text": "前年"
+      },
+      {
+       "label": "B",
+       "text": "去年"
+      },
+      {
+       "label": "C",
+       "text": "今年"
+      },
+      {
+       "label": "D",
+       "text": "小时候"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "短文中明确提到“去年，我参加了天文俱乐部的活动”，所以是去年。",
+     "id": "q1",
+     "type": "passage-mcq"
+    },
+    {
+     "prompt": "作者用什么观察了木星？",
+     "options": [
+      {
+       "label": "A",
+       "text": "望远镜"
+      },
+      {
+       "label": "B",
+       "text": "电脑"
+      },
+      {
+       "label": "C",
+       "text": "肉眼"
+      },
+      {
+       "label": "D",
+       "text": "显微镜"
+      }
+     ],
+     "correctAnswer": "A",
+     "explanation": "短文说“用望远镜观察了木星”，因此使用的是望远镜。",
+     "id": "q2",
+     "type": "passage-mcq"
+    },
+    {
+     "prompt": "木星表面有什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "火山"
+      },
+      {
+       "label": "B",
+       "text": "山脉"
+      },
+      {
+       "label": "C",
+       "text": "条纹和卫星"
+      },
+      {
+       "label": "D",
+       "text": "光环"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "短文中提到“木星的表面有很多条纹，还有四颗明亮的卫星”，所以选项A正确。",
+     "id": "q3",
+     "type": "passage-mcq"
+    },
+    {
+     "prompt": "关于木星，下面哪项是正确的？",
+     "options": [
+      {
+       "label": "A",
+       "text": "木星比地球小"
+      },
+      {
+       "label": "B",
+       "text": "木星没有卫星"
+      },
+      {
+       "label": "C",
+       "text": "木星是太阳系中最大的行星"
+      },
+      {
+       "label": "D",
+       "text": "木星的体重是地球的三百倍"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "短文说“木星是太阳系中最大的行星”，而B、C与原文相反，D中原文是“三百多倍”，不是精确的三百倍，因此只有A正确。",
+     "id": "q4",
+     "type": "passage-mcq"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

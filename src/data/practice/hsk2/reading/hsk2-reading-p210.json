@@ -1,0 +1,89 @@
+{
+ "id": "hsk2-reading-p210",
+ "level": "2",
+ "section": "reading",
+ "partKey": "reading-p2",
+ "title": "HSK2 Reading P2",
+ "titleZh": "阅读 第二部分（选词填空）",
+ "groups": [
+  {
+   "instruction": "请从下面方框中选择恰当的词语填空，每个词语只能用一次，其中有一个词语是多余的。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "请假",
+     "pinyin": "qǐng jià"
+    },
+    {
+     "label": "B",
+     "text": "上班",
+     "pinyin": "shàng bān"
+    },
+    {
+     "label": "C",
+     "text": "同事",
+     "pinyin": "tóng shì"
+    },
+    {
+     "label": "D",
+     "text": "老板",
+     "pinyin": "lǎo bǎn"
+    },
+    {
+     "label": "E",
+     "text": "下班",
+     "pinyin": "xià bān"
+    },
+    {
+     "label": "F",
+     "text": "工资",
+     "pinyin": "gōng zī"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "他每天早上八点（ ）。",
+     "correctAnswer": "B",
+     "explanation": "“早上八点”是一天工作开始的时间，所以用“上班”，意思是开始工作。其他词语如“下班”指工作结束，不符合语境。",
+     "id": "q1",
+     "type": "cloze-wordbank",
+     "pinyin": "tā měi tiān zǎo shàng bā diǎn （ ）。"
+    },
+    {
+     "prompt": "她今天身体不舒服，想（ ）一天。",
+     "correctAnswer": "A",
+     "explanation": "“身体不舒服”需要休息，所以用“请假”，意思是申请暂时不上班。其他词语不能表达这个意思。",
+     "id": "q2",
+     "type": "cloze-wordbank",
+     "pinyin": "tā jīn tiān shēn tǐ bù shū fú ， xiǎng （ ） yī tiān 。"
+    },
+    {
+     "prompt": "他的（ ）比我的多，因为他工作更努力。",
+     "correctAnswer": "F",
+     "explanation": "“比我的多”指的是钱或收入，所以用“工资”，即工作报酬。其他词语没有这个含义。",
+     "id": "q3",
+     "type": "cloze-wordbank",
+     "pinyin": "tā de （ ） bǐ wǒ de duō ， yīn wèi tā gōng zuò gèng nǔ lì 。"
+    },
+    {
+     "prompt": "这个公司的（ ）对员工很好。",
+     "correctAnswer": "D",
+     "explanation": "“对员工很好”通常指的是公司负责人，所以用“老板”，即公司的管理者。其他词语不匹配。",
+     "id": "q4",
+     "type": "cloze-wordbank",
+     "pinyin": "zhè ge gōng sī de （ ） duì yuán gōng hěn hǎo 。"
+    },
+    {
+     "prompt": "我和我的（ ）一起吃饭。",
+     "correctAnswer": "C",
+     "explanation": "“一起吃饭”的通常是工作伙伴，所以用“同事”，即一起工作的人。其他词语如“老板”虽然可能，但不一定，而且“同事”更常见自然。",
+     "id": "q5",
+     "type": "cloze-wordbank",
+     "pinyin": "wǒ hé wǒ de （ ） yì qǐ chī fàn 。"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

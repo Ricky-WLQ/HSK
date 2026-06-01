@@ -1,0 +1,89 @@
+{
+ "id": "hsk3-reading-p219",
+ "level": "3",
+ "section": "reading",
+ "partKey": "reading-p2",
+ "title": "HSK3 Reading P2",
+ "titleZh": "阅读 第二部分（词语填空）",
+ "groups": [
+  {
+   "instruction": "请从下面的词语中选择合适的填入句子空白处。每个词语只能用一次，有一个词语是多余的。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "照顾",
+     "pinyin": "zhào gù"
+    },
+    {
+     "label": "B",
+     "text": "回忆",
+     "pinyin": "huí yì"
+    },
+    {
+     "label": "C",
+     "text": "拥抱",
+     "pinyin": "yōng bào"
+    },
+    {
+     "label": "D",
+     "text": "关心",
+     "pinyin": "guān xīn"
+    },
+    {
+     "label": "E",
+     "text": "温暖",
+     "pinyin": "wēn nuǎn"
+    },
+    {
+     "label": "F",
+     "text": "礼物",
+     "pinyin": "lǐ wù"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "妈妈每天早上都会给我做早饭，还帮我穿衣服，她非常（ ）我。",
+     "correctAnswer": "A",
+     "explanation": "“照顾”意为关心并帮助照料，符合句子中妈妈为我做早饭、穿衣服的语境。",
+     "id": "q1",
+     "type": "cloze-wordbank",
+     "pinyin": "mā mā měi tiān zǎo shàng dū huì gěi wǒ zuò zǎo fàn ， hái bāng wǒ chuān yī fú ， tā fēi cháng （ ） wǒ 。"
+    },
+    {
+     "prompt": "冬天的时候，家里开着暖气，感觉特别（ ）。",
+     "correctAnswer": "E",
+     "explanation": "“温暖”指温度舒适暖和，与冬天开暖气带来的感觉一致。",
+     "id": "q2",
+     "type": "cloze-wordbank",
+     "pinyin": "dōng tiān de shí hòu ， jiā lǐ kāi zhe nuǎn qì ， gǎn jué tè bié （ ）。"
+    },
+    {
+     "prompt": "爸爸出差回来，给我带了一个漂亮的（ ）。",
+     "correctAnswer": "F",
+     "explanation": "“礼物”是赠送的物品，爸爸出差带回的东西自然是礼物。",
+     "id": "q3",
+     "type": "cloze-wordbank",
+     "pinyin": "bà bà chū chāi huí lái ， gěi wǒ dài le yí gè piào liàng de （ ）。"
+    },
+    {
+     "prompt": "每次我难过的时候，姐姐都会给我一个（ ）。",
+     "correctAnswer": "C",
+     "explanation": "“拥抱”是用手臂搂抱的动作，在难过时姐姐给拥抱符合安慰的语境。",
+     "id": "q4",
+     "type": "cloze-wordbank",
+     "pinyin": "měi cì wǒ nán guò de shí hòu ， jiě jiě dū huì gěi wǒ yí gè （ ）。"
+    },
+    {
+     "prompt": "爷爷奶奶总是很（ ）我的学习，问我考试考得怎么样。",
+     "correctAnswer": "D",
+     "explanation": "“关心”意为对人或事重视、爱护，问学习情况正是关心的表现。",
+     "id": "q5",
+     "type": "cloze-wordbank",
+     "pinyin": "yé yé nǎi nǎi zǒng shì hěn （ ） wǒ de xué xí ， wèn wǒ kǎo shì kǎo dé zěn me yàng 。"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

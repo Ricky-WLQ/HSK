@@ -1,0 +1,118 @@
+{
+ "id": "hsk4-reading-p209",
+ "level": "4",
+ "section": "reading",
+ "partKey": "reading-p2",
+ "title": "HSK4 Reading P2",
+ "titleZh": "阅读 第二部分（短文理解）",
+ "groups": [
+  {
+   "instruction": "请根据短文内容，选择正确答案。",
+   "passage": "小张是一名快递员。最近天气预报说台风要来了，他提前把快递车加固了，还多带了几件雨衣。但是台风来的那天，风很大，雨却没有想象中那么多。他觉得自己白准备了。",
+   "questions": [
+    {
+     "prompt": "小张的工作是什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "天气预报员"
+      },
+      {
+       "label": "B",
+       "text": "司机"
+      },
+      {
+       "label": "C",
+       "text": "雨衣销售员"
+      },
+      {
+       "label": "D",
+       "text": "快递员"
+      }
+     ],
+     "correctAnswer": "D",
+     "explanation": "短文第一句明确说“小张是一名快递员”，所以他的工作是快递员。",
+     "id": "q1",
+     "type": "passage-mcq"
+    },
+    {
+     "prompt": "天气预报说了什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "会下雨"
+      },
+      {
+       "label": "B",
+       "text": "雨很大"
+      },
+      {
+       "label": "C",
+       "text": "台风要来了"
+      },
+      {
+       "label": "D",
+       "text": "风很大"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "短文提到“天气预报说台风要来了”，所以预报内容是台风将来。",
+     "id": "q2",
+     "type": "passage-mcq"
+    },
+    {
+     "prompt": "小张为台风做了哪些准备？",
+     "options": [
+      {
+       "label": "A",
+       "text": "请假在家"
+      },
+      {
+       "label": "B",
+       "text": "加固了快递车，带了雨衣"
+      },
+      {
+       "label": "C",
+       "text": "换了新轮胎"
+      },
+      {
+       "label": "D",
+       "text": "买了新雨衣"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "短文说“他提前把快递车加固了，还多带了几件雨衣”，对应选项B。",
+     "id": "q3",
+     "type": "passage-mcq"
+    },
+    {
+     "prompt": "台风当天天气怎么样？",
+     "options": [
+      {
+       "label": "A",
+       "text": "风小，雨也小"
+      },
+      {
+       "label": "B",
+       "text": "风很大，雨不多"
+      },
+      {
+       "label": "C",
+       "text": "风大，雨也很大"
+      },
+      {
+       "label": "D",
+       "text": "没有风，只有雨"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "短文描述“风很大，雨却没有想象中那么多”，所以是风大而雨不多。",
+     "id": "q4",
+     "type": "passage-mcq"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

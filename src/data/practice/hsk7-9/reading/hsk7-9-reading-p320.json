@@ -1,0 +1,73 @@
+{
+ "id": "hsk7-9-reading-p320",
+ "level": "7-9",
+ "section": "reading",
+ "partKey": "reading-p3",
+ "title": "HSK7-9 Reading P3",
+ "titleZh": "阅读 第三部分（简答题）",
+ "groups": [
+  {
+   "instruction": "请阅读下面的短文，然后根据短文内容回答5个问题。每个答案不超过10个字。",
+   "passage": "在丽江古城，有一支名为“古城守望者”的志愿服务团队，他们由四十余名经过严格历史文化培训的本地居民和大学生组成。每周六上午，志愿者们身着统一的纳西族传统服饰，在四方街、木府等标志性景点为游客提供免费导览。不同于普通导游，他们着重讲解古建筑背后的文化意蕴，如“三坊一照壁”的建筑布局如何体现纳西族“天人和一”的哲学思想。通过生动的故事，他们将茶马古道上的马帮传说、东巴文字的象形奥秘娓娓道来。项目发起人赵老师表示，此举旨在唤醒公众对文化遗产的保护意识。志愿者小李分享说：“有位外国游客听完后，主动要求加入我们的清洁古巷行动。”据统计，该团队年均服务游客超过两万人次，并多次获得市级表彰，成为丽江旅游的一张文化名片。",
+   "questions": [
+    {
+     "prompt": "这个志愿服务团队的名字是什么？",
+     "correctAnswer": "古城守望者",
+     "acceptableAnswers": [
+      "古城守望者团队",
+      "古城守望者志愿队"
+     ],
+     "explanation": "文章第一句提到“一支名为‘古城守望者’的志愿服务团队”。",
+     "id": "q1",
+     "type": "short-answer"
+    },
+    {
+     "prompt": "志愿者每周什么时间提供服务？",
+     "correctAnswer": "每周六上午",
+     "acceptableAnswers": [
+      "周六上午",
+      "每个周六上午"
+     ],
+     "explanation": "文中明确写道“每周六上午，志愿者们……提供免费导览”。",
+     "id": "q2",
+     "type": "short-answer"
+    },
+    {
+     "prompt": "志愿者统一穿戴什么服饰？",
+     "correctAnswer": "纳西族传统服饰",
+     "acceptableAnswers": [
+      "纳西族服装",
+      "传统纳西族服饰"
+     ],
+     "explanation": "文章描述“志愿者们身着统一的纳西族传统服饰”。",
+     "id": "q3",
+     "type": "short-answer"
+    },
+    {
+     "prompt": "项目发起人的目的是什么？",
+     "correctAnswer": "唤醒文化遗产保护意识",
+     "acceptableAnswers": [
+      "唤醒保护意识",
+      "唤起文物保护意识"
+     ],
+     "explanation": "文中说“项目发起人赵老师表示，此举旨在唤醒公众对文化遗产的保护意识”。",
+     "id": "q4",
+     "type": "short-answer"
+    },
+    {
+     "prompt": "该团队年均服务游客大约多少？",
+     "correctAnswer": "超过两万人次",
+     "acceptableAnswers": [
+      "两万多人次",
+      "两万人次以上"
+     ],
+     "explanation": "文章提到“该团队年均服务游客超过两万人次”。",
+     "id": "q5",
+     "type": "short-answer"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

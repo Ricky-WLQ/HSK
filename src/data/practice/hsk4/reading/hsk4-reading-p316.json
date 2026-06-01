@@ -1,0 +1,118 @@
+{
+ "id": "hsk4-reading-p316",
+ "level": "4",
+ "section": "reading",
+ "partKey": "reading-p3",
+ "title": "HSK4 Reading P3",
+ "titleZh": "阅读 第二部分B（中篇理解）",
+ "groups": [
+  {
+   "instruction": "请阅读下面的短文，然后回答4个问题。每个问题有4个选项，请选择唯一正确的答案。",
+   "passage": "小明最近开始使用一个在线学习平台学习英语。这个平台可以根据他的英语水平推荐合适的课程，还有智能纠音功能，能帮助他纠正发音错误。他每天花半小时练习，感觉进步很快。但有时候网络不稳定，会影响学习效果。他的朋友小红觉得面对面教学更好，因为可以随时提问，老师也能直接指出问题。小明认为在线学习更方便，时间灵活，还能重复听课程。他认为未来在线教育会越来越普及。",
+   "questions": [
+    {
+     "prompt": "小明用什么平台学习英语？",
+     "options": [
+      {
+       "label": "A",
+       "text": "一个图书馆"
+      },
+      {
+       "label": "B",
+       "text": "一个学校英语班"
+      },
+      {
+       "label": "C",
+       "text": "一个手机游戏"
+      },
+      {
+       "label": "D",
+       "text": "一个在线学习平台"
+      }
+     ],
+     "correctAnswer": "D",
+     "explanation": "短文第一句明确说“小明最近开始使用一个在线学习平台学习英语”。",
+     "id": "q1",
+     "type": "passage-mcq"
+    },
+    {
+     "prompt": "小明每天花多长时间练习英语？",
+     "options": [
+      {
+       "label": "A",
+       "text": "十五分钟"
+      },
+      {
+       "label": "B",
+       "text": "两个小时"
+      },
+      {
+       "label": "C",
+       "text": "一小时"
+      },
+      {
+       "label": "D",
+       "text": "半小时"
+      }
+     ],
+     "correctAnswer": "D",
+     "explanation": "短文中提到“他每天花半小时练习”。",
+     "id": "q2",
+     "type": "passage-mcq"
+    },
+    {
+     "prompt": "小红为什么更喜欢面对面教学？",
+     "options": [
+      {
+       "label": "A",
+       "text": "因为面对面教学时间更灵活"
+      },
+      {
+       "label": "B",
+       "text": "因为在线学习太贵了"
+      },
+      {
+       "label": "C",
+       "text": "因为她不喜欢用电脑"
+      },
+      {
+       "label": "D",
+       "text": "因为可以随时提问，老师能直接指出问题"
+      }
+     ],
+     "correctAnswer": "D",
+     "explanation": "短文中说“小红觉得面对面教学更好，因为可以随时提问，老师也能直接指出问题”。",
+     "id": "q3",
+     "type": "passage-mcq"
+    },
+    {
+     "prompt": "这篇短文主要说明了什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "网络问题永远不会影响学习"
+      },
+      {
+       "label": "B",
+       "text": "小明和小红都喜欢在线学习"
+      },
+      {
+       "label": "C",
+       "text": "小明的英语进步非常慢"
+      },
+      {
+       "label": "D",
+       "text": "在线学习和面对面教学各有优缺点"
+      }
+     ],
+     "correctAnswer": "D",
+     "explanation": "短文既提到了在线学习的优点（方便、时间灵活、重复听）和缺点（网络问题），也提到了面对面教学的优势（随时提问），因此主要说明两种方式各有特点。",
+     "id": "q4",
+     "type": "passage-mcq"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

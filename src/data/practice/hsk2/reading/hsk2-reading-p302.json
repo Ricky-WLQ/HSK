@@ -1,0 +1,89 @@
+{
+ "id": "hsk2-reading-p302",
+ "level": "2",
+ "section": "reading",
+ "partKey": "reading-p3",
+ "title": "HSK2 Reading P3",
+ "titleZh": "阅读 第三部分（句子匹配）",
+ "groups": [
+  {
+   "instruction": "请从A-F中选择合适的句子完成对话。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "这个菜多少钱？",
+     "pinyin": "zhè ge cài duō shǎo qián ？"
+    },
+    {
+     "label": "B",
+     "text": "请给我一杯水。",
+     "pinyin": "qǐng gěi wǒ yī bēi shuǐ 。"
+    },
+    {
+     "label": "C",
+     "text": "我想吃辣的。",
+     "pinyin": "wǒ xiǎng chī là de 。"
+    },
+    {
+     "label": "D",
+     "text": "我妈妈做的饺子很好吃。",
+     "pinyin": "wǒ mā mā zuò de jiǎo zi hěn hǎo chī 。"
+    },
+    {
+     "label": "E",
+     "text": "你喜欢喝茶吗？",
+     "pinyin": "nǐ xǐ huān hē chá ma ？"
+    },
+    {
+     "label": "F",
+     "text": "这家店的牛肉面不错。",
+     "pinyin": "zhè jiā diàn de niú ròu miàn bù cuò 。"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "你推荐什么菜？",
+     "correctAnswer": "F",
+     "explanation": "问推荐菜时，回答介绍了一家店的牛肉面，符合推荐的意思。",
+     "id": "q1",
+     "type": "match",
+     "pinyin": "nǐ tuī jiàn shén me cài ？"
+    },
+    {
+     "prompt": "你妈妈会做什么好吃的？",
+     "correctAnswer": "D",
+     "explanation": "问妈妈会做什么，回答提到妈妈做的饺子好吃，直接回应了问题。",
+     "id": "q2",
+     "type": "match",
+     "pinyin": "nǐ mā mā huì zuò shén me hǎo chī de ？"
+    },
+    {
+     "prompt": "你要什么味道的？",
+     "correctAnswer": "C",
+     "explanation": "问想要什么味道，回答想吃辣的，说明了口味偏好。",
+     "id": "q3",
+     "type": "match",
+     "pinyin": "nǐ yào shén me wèi dào de ？"
+    },
+    {
+     "prompt": "这个菜多少钱？",
+     "correctAnswer": "A",
+     "explanation": "问题就是询问价格，回答重复了问题中的问价，可视为确认或反问，在对话中常见。",
+     "id": "q4",
+     "type": "match",
+     "pinyin": "zhè ge cài duō shǎo qián ？"
+    },
+    {
+     "prompt": "你觉得怎么样？我有点渴。",
+     "correctAnswer": "B",
+     "explanation": "对方说有点渴，回答请求给一杯水，是自然的回应。",
+     "id": "q5",
+     "type": "match",
+     "pinyin": "nǐ jué de zěn me yàng ？ wǒ yǒu diǎn kě 。"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

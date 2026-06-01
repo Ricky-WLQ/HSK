@@ -1,0 +1,89 @@
+{
+ "id": "hsk2-reading-p316",
+ "level": "2",
+ "section": "reading",
+ "partKey": "reading-p3",
+ "title": "HSK2 Reading P3",
+ "titleZh": "阅读 第三部分（句子匹配）",
+ "groups": [
+  {
+   "instruction": "请从下面的选项中选择合适的句子，完成对话。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "现在七点半了。",
+     "pinyin": "xiàn zài qī diǎn bàn le 。"
+    },
+    {
+     "label": "B",
+     "text": "你明天有空吗？",
+     "pinyin": "nǐ míng tiān yǒu kòng ma ？"
+    },
+    {
+     "label": "C",
+     "text": "我们六点半见面吧。",
+     "pinyin": "wǒ men liù diǎn bàn jiàn miàn ba 。"
+    },
+    {
+     "label": "D",
+     "text": "我每天早上七点起床。",
+     "pinyin": "wǒ měi tiān zǎo shàng qī diǎn qǐ chuáng 。"
+    },
+    {
+     "label": "E",
+     "text": "下午两点有会，别来晚。",
+     "pinyin": "xià wǔ liǎng diǎn yǒu huì ， bié lái wǎn 。"
+    },
+    {
+     "label": "F",
+     "text": "明天上午我有时间。",
+     "pinyin": "míng tiān shàng wǔ wǒ yǒu shí jiān 。"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "你明天上午有空吗？",
+     "correctAnswer": "F",
+     "explanation": "问句询问明天上午是否有空，选项C回答明天上午有时间，意思匹配。",
+     "id": "q1",
+     "type": "match",
+     "pinyin": "nǐ míng tiān shàng wǔ yǒu kòng ma ？"
+    },
+    {
+     "prompt": "现在几点了？",
+     "correctAnswer": "A",
+     "explanation": "问句询问现在的时间，选项E回答现在是七点半，符合问句要求。",
+     "id": "q2",
+     "type": "match",
+     "pinyin": "xiàn zài jǐ diǎn le ？"
+    },
+    {
+     "prompt": "我们几点见面？",
+     "correctAnswer": "C",
+     "explanation": "问句询问见面的具体时间，选项D提议六点半见面，回应了时间问题。",
+     "id": "q3",
+     "type": "match",
+     "pinyin": "wǒ men jǐ diǎn jiàn miàn ？"
+    },
+    {
+     "prompt": "你几点起床？",
+     "correctAnswer": "D",
+     "explanation": "问句询问起床时间，选项A回答每天早上七点起床，直接回答了问题。",
+     "id": "q4",
+     "type": "match",
+     "pinyin": "nǐ jǐ diǎn qǐ chuáng ？"
+    },
+    {
+     "prompt": "下午有会吗？",
+     "correctAnswer": "E",
+     "explanation": "问句询问下午是否有会，选项B回答下午两点有会并提醒别迟到，意思一致。",
+     "id": "q5",
+     "type": "match",
+     "pinyin": "xià wǔ yǒu huì ma ？"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

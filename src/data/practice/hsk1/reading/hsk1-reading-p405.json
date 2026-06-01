@@ -1,0 +1,142 @@
+{
+ "id": "hsk1-reading-p405",
+ "level": "1",
+ "section": "reading",
+ "partKey": "reading-p4",
+ "title": "HSK1 Reading P4",
+ "titleZh": "阅读 第四部分（短句理解）",
+ "groups": [
+  {
+   "instruction": "阅读下面的短文，然后回答问题。每个问题有三个选项，选择正确的答案。",
+   "questions": [
+    {
+     "prompt": "爷爷喝茶，爸爸喝咖啡。★爷爷喝什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "咖啡",
+       "pinyin": "kā fēi"
+      },
+      {
+       "label": "B",
+       "text": "水",
+       "pinyin": "shuǐ"
+      },
+      {
+       "label": "C",
+       "text": "茶",
+       "pinyin": "chá"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "短文说“爷爷喝茶”，所以爷爷喝的是茶。",
+     "id": "q1",
+     "type": "passage-mcq",
+     "pinyin": "yé yé hē chá ， bà bà hē kā fēi 。★ yé yé hē shén me ？"
+    },
+    {
+     "prompt": "妹妹吃面包，我吃米饭。★妹妹吃什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "面包",
+       "pinyin": "miàn bāo"
+      },
+      {
+       "label": "B",
+       "text": "米饭",
+       "pinyin": "mǐ fàn"
+      },
+      {
+       "label": "C",
+       "text": "面条",
+       "pinyin": "miàn tiáo"
+      }
+     ],
+     "correctAnswer": "A",
+     "explanation": "短文说“妹妹吃面包”，所以妹妹吃的是面包。",
+     "id": "q2",
+     "type": "passage-mcq",
+     "pinyin": "mèi mèi chī miàn bāo ， wǒ chī mǐ fàn 。★ mèi mèi chī shén me ？"
+    },
+    {
+     "prompt": "妈妈买鱼，爸爸买肉。★妈妈买什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "鱼",
+       "pinyin": "yú"
+      },
+      {
+       "label": "B",
+       "text": "菜",
+       "pinyin": "cài"
+      },
+      {
+       "label": "C",
+       "text": "肉",
+       "pinyin": "ròu"
+      }
+     ],
+     "correctAnswer": "A",
+     "explanation": "短文说“妈妈买鱼”，所以妈妈买的是鱼。",
+     "id": "q3",
+     "type": "passage-mcq",
+     "pinyin": "mā mā mǎi yú ， bà bà mǎi ròu 。★ mā mā mǎi shén me ？"
+    },
+    {
+     "prompt": "我很喜欢吃甜的蛋糕。★蛋糕怎么样？",
+     "options": [
+      {
+       "label": "A",
+       "text": "甜的",
+       "pinyin": "tián de"
+      },
+      {
+       "label": "B",
+       "text": "大的",
+       "pinyin": "dà de"
+      },
+      {
+       "label": "C",
+       "text": "红的",
+       "pinyin": "hóng de"
+      }
+     ],
+     "correctAnswer": "A",
+     "explanation": "短文说蛋糕是“甜的”，所以蛋糕是甜的。",
+     "id": "q4",
+     "type": "passage-mcq",
+     "pinyin": "wǒ hěn xǐ huān chī tián de dàn gāo 。★ dàn gāo zěn me yàng ？"
+    },
+    {
+     "prompt": "桌子上有三个苹果。★有几个苹果？",
+     "options": [
+      {
+       "label": "A",
+       "text": "一个",
+       "pinyin": "yí gè"
+      },
+      {
+       "label": "B",
+       "text": "三个",
+       "pinyin": "sān gè"
+      },
+      {
+       "label": "C",
+       "text": "两个",
+       "pinyin": "liǎng gè"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "短文说“三个苹果”，所以有三个苹果。",
+     "id": "q5",
+     "type": "passage-mcq",
+     "pinyin": "zhuō zi shàng yǒu sān gè píng guǒ 。★ yǒu jǐ gè píng guǒ ？"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

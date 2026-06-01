@@ -1,0 +1,89 @@
+{
+ "id": "hsk3-reading-p217",
+ "level": "3",
+ "section": "reading",
+ "partKey": "reading-p2",
+ "title": "HSK3 Reading P2",
+ "titleZh": "阅读 第二部分（词语填空）",
+ "groups": [
+  {
+   "instruction": "请从下列词语中选择一个合适的填入句子的空白处。每个词语只能用一次，有一个词语是多余的。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "短信",
+     "pinyin": "duǎn xìn"
+    },
+    {
+     "label": "B",
+     "text": "礼物",
+     "pinyin": "lǐ wù"
+    },
+    {
+     "label": "C",
+     "text": "见面",
+     "pinyin": "jiàn miàn"
+    },
+    {
+     "label": "D",
+     "text": "关心",
+     "pinyin": "guān xīn"
+    },
+    {
+     "label": "E",
+     "text": "邀请",
+     "pinyin": "yāo qǐng"
+    },
+    {
+     "label": "F",
+     "text": "帮助",
+     "pinyin": "bāng zhù"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "明天是我的生日，希望你能来参加，我（ ）你。",
+     "correctAnswer": "E",
+     "explanation": "句子意思是请对方来参加生日活动，‘邀请’意为请人参加活动，符合语境。",
+     "id": "q1",
+     "type": "cloze-wordbank",
+     "pinyin": "míng tiān shì wǒ de shēng rì ， xī wàng nǐ néng lái cān jiā ， wǒ （ ） nǐ 。"
+    },
+    {
+     "prompt": "小王最近工作很忙，我们应该多（ ）他。",
+     "correctAnswer": "D",
+     "explanation": "句子表达对小王生活状态的关注，‘关心’意为对人或事物表示重视和爱护，符合语境。",
+     "id": "q2",
+     "type": "cloze-wordbank",
+     "pinyin": "xiǎo wáng zuì jìn gōng zuò hěn máng ， wǒ men yīng gāi duō （ ） tā 。"
+    },
+    {
+     "prompt": "小李搬新家了，朋友们都去（ ）他搬东西。",
+     "correctAnswer": "F",
+     "explanation": "句子表示朋友们为小李搬家出力，‘帮助’意为替人出力、出主意或给予物质上、精神上的支援，符合语境。",
+     "id": "q3",
+     "type": "cloze-wordbank",
+     "pinyin": "xiǎo lǐ bān xīn jiā le ， péng yǒu men dōu qù （ ） tā bān dōng xī 。"
+    },
+    {
+     "prompt": "我们经常用手机发（ ）联系。",
+     "correctAnswer": "A",
+     "explanation": "句子中‘发’后面需要接一个名词，‘短信’是手机发送的文字信息，符合习惯搭配。",
+     "id": "q4",
+     "type": "cloze-wordbank",
+     "pinyin": "wǒ men jīng cháng yòng shǒu jī fā （ ） lián xì 。"
+    },
+    {
+     "prompt": "好久没见了，我们找个时间（ ）吧。",
+     "correctAnswer": "C",
+     "explanation": "句子表示想与对方会面，‘见面’意为彼此相见，符合语境。",
+     "id": "q5",
+     "type": "cloze-wordbank",
+     "pinyin": "hǎo jiǔ méi jiàn le ， wǒ men zhǎo gè shí jiān （ ） ba 。"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

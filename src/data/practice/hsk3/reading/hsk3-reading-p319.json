@@ -1,0 +1,118 @@
+{
+ "id": "hsk3-reading-p319",
+ "level": "3",
+ "section": "reading",
+ "partKey": "reading-p3",
+ "title": "HSK3 Reading P3",
+ "titleZh": "阅读 第三部分（短文理解）",
+ "groups": [
+  {
+   "instruction": "请阅读下面的短文，然后根据短文内容选择正确答案。",
+   "passage": "小张最近工作很忙，每天都要加班，他觉得压力很大。朋友建议他画画放松心情。他买了一盒彩色铅笔，每天晚上画半小时。刚开始他画得不好，但他坚持练习。一个月后，他发现自己不再那么紧张了，而且画得越来越好看。",
+   "questions": [
+    {
+     "prompt": "小张为什么觉得压力很大？",
+     "options": [
+      {
+       "label": "A",
+       "text": "他每天画画",
+       "pinyin": "tā měi tiān huà huà"
+      },
+      {
+       "label": "B",
+       "text": "他买了彩色铅笔",
+       "pinyin": "tā mǎi le cǎi sè qiān bǐ"
+      },
+      {
+       "label": "C",
+       "text": "他工作很忙，每天加班",
+       "pinyin": "tā gōng zuò hěn máng ， měi tiān jiā bān"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "短文中说“小张最近工作很忙，每天都要加班，他觉得压力很大”，所以压力大的原因是工作忙、加班。",
+     "id": "q1",
+     "type": "passage-mcq",
+     "pinyin": "xiǎo zhāng wèi shén me jué de yā lì hěn dà ？"
+    },
+    {
+     "prompt": "朋友建议小张做什么来放松心情？",
+     "options": [
+      {
+       "label": "A",
+       "text": "每天加班",
+       "pinyin": "měi tiān jiā bān"
+      },
+      {
+       "label": "B",
+       "text": "画画",
+       "pinyin": "huà huà"
+      },
+      {
+       "label": "C",
+       "text": "买彩色铅笔",
+       "pinyin": "mǎi cǎi sè qiān bǐ"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "短文中明确说“朋友建议他画画放松心情”，所以朋友的建议是画画。",
+     "id": "q2",
+     "type": "passage-mcq",
+     "pinyin": "péng yǒu jiàn yì xiǎo zhāng zuò shén me lái fàng sōng xīn qíng ？"
+    },
+    {
+     "prompt": "小张坚持画画一个月后，有什么变化？",
+     "options": [
+      {
+       "label": "A",
+       "text": "他每天加班更晚",
+       "pinyin": "tā měi tiān jiā bān gèng wǎn"
+      },
+      {
+       "label": "B",
+       "text": "他更紧张了",
+       "pinyin": "tā gèng jǐn zhāng le"
+      },
+      {
+       "label": "C",
+       "text": "他不再紧张，画得越来越好",
+       "pinyin": "tā bù zài jǐn zhāng ， huà dé yuè lái yuè hǎo"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "短文中说“一个月后，他发现自己不再那么紧张了，而且画得越来越好看”，所以变化是紧张减轻，画技进步。",
+     "id": "q3",
+     "type": "passage-mcq",
+     "pinyin": "xiǎo zhāng jiān chí huà huà yí gè yuè hòu ， yǒu shén me biàn huà ？"
+    },
+    {
+     "prompt": "小张每天花多长时间画画？",
+     "options": [
+      {
+       "label": "A",
+       "text": "半小时",
+       "pinyin": "bàn xiǎo shí"
+      },
+      {
+       "label": "B",
+       "text": "一个小时",
+       "pinyin": "yí gè xiǎo shí"
+      },
+      {
+       "label": "C",
+       "text": "十分钟",
+       "pinyin": "shí fēn zhōng"
+      }
+     ],
+     "correctAnswer": "A",
+     "explanation": "短文中说“每天晚上画半小时”，所以每天画半小时。",
+     "id": "q4",
+     "type": "passage-mcq",
+     "pinyin": "xiǎo zhāng měi tiān huā duō zhǎng shí jiān huà huà ？"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

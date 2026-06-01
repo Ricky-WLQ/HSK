@@ -7,79 +7,79 @@
  "titleZh": "阅读 第二部分（选词填空）",
  "groups": [
   {
-   "instruction": "从下面A-F的词语中选择合适的填入句子的空白处，每个词语只能用一次，有一个多余选项。",
+   "instruction": "请从以下词语中选择一个合适的词填入每个句子的括号里。注意：每个词语只能用一次，其中一个词语是多余的。",
    "sharedBank": [
     {
      "label": "A",
-     "text": "高兴",
-     "pinyin": "gāo xìng"
+     "text": "听",
+     "pinyin": "tīng"
     },
     {
      "label": "B",
-     "text": "苹果",
-     "pinyin": "píng guǒ"
+     "text": "看",
+     "pinyin": "kàn"
     },
     {
      "label": "C",
-     "text": "商店",
-     "pinyin": "shāng diàn"
+     "text": "跳",
+     "pinyin": "tiào"
     },
     {
      "label": "D",
-     "text": "喝",
-     "pinyin": "hē"
+     "text": "跑",
+     "pinyin": "pǎo"
     },
     {
      "label": "E",
-     "text": "漂亮",
-     "pinyin": "piào liàng"
+     "text": "游",
+     "pinyin": "yóu"
     },
     {
      "label": "F",
-     "text": "昨天",
-     "pinyin": "zuó tiān"
+     "text": "飞",
+     "pinyin": "fēi"
     }
    ],
    "questions": [
     {
-     "prompt": "我昨天去（ ）买了一个苹果。",
-     "correctAnswer": "C",
-     "explanation": "“商店”是卖东西的地方，句子说去买苹果，所以填“商店”。",
+     "prompt": "鱼在水里（ ）。",
+     "correctAnswer": "E",
+     "explanation": "鱼在水中运动是用游的，所以填“游”。",
      "id": "q1",
      "type": "cloze-wordbank",
-     "pinyin": "wǒ zuó tiān qù （ ） mǎi le yí gè píng guǒ 。"
+     "pinyin": "yú zài shuǐ lǐ （ ）。"
     },
     {
-     "prompt": "她今天很（ ）。",
-     "correctAnswer": "A",
-     "explanation": "“高兴”表示开心、快乐，形容心情好。",
+     "prompt": "鸟在天上（ ）。",
+     "correctAnswer": "F",
+     "explanation": "鸟在天上飞翔，所以填“飞”。",
      "id": "q2",
      "type": "cloze-wordbank",
-     "pinyin": "tā jīn tiān hěn （ ）。"
+     "pinyin": "niǎo zài tiān shàng （ ）。"
     },
     {
-     "prompt": "这个女孩真（ ）。",
-     "correctAnswer": "E",
-     "explanation": "“漂亮”形容人好看、美丽。",
+     "prompt": "狗在地上（ ）。",
+     "correctAnswer": "D",
+     "explanation": "狗在地上快速移动，用“跑”最合适。",
      "id": "q3",
      "type": "cloze-wordbank",
-     "pinyin": "zhè ge nǚ hái zhēn （ ）。"
+     "pinyin": "gǒu zài dì shàng （ ）。"
     },
     {
-     "prompt": "我喜欢（ ）水。",
-     "correctAnswer": "D",
-     "explanation": "“喝”是动词，表示饮用液体。",
+     "prompt": "猫在沙发上（ ）。",
+     "correctAnswer": "C",
+     "explanation": "猫喜欢跳跃，这里填“跳”描述猫的动作。",
      "id": "q4",
      "type": "cloze-wordbank",
-     "pinyin": "wǒ xǐ huān （ ） shuǐ 。"
+     "pinyin": "māo zài shā fā shàng （ ）。"
     },
     {
-     "prompt": "他吃了两个（ ）。",
-     "correctAnswer": "B",
-     "explanation": "“苹果”是一种水果，可以吃。",
+     "prompt": "我（ ）到小猫在叫。",
+     "correctAnswer": "A",
+     "explanation": "用耳朵感受声音，应该用“听”，所以填“听”。",
      "id": "q5",
      "type": "cloze-wordbank",
-     "pinyin": "tā chī le liǎng gè （ ）。"
+     "pinyin": "wǒ （ ） dào xiǎo māo zài jiào 。"
     }
    ],
    "id": "g1"

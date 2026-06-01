@@ -7,106 +7,106 @@
  "titleZh": "阅读 第二部分（短文理解）",
  "groups": [
   {
-   "instruction": "请阅读下面这段文字，然后根据内容选择正确答案。",
-   "passage": "你好！我下个月要去北京旅行。我打算坐飞机去，因为火车票很难买。我订了一个离故宫很近的酒店，这样很方便。我计划第一天去故宫，第二天去长城。我很期待这次旅行。你有什么建议吗？",
+   "instruction": "请阅读下面的短文，然后回答问题。",
+   "passage": "双十一那天，小王在网上买了很多东西，其中有一台电脑。电脑原价五千元，打折后只要四千元，他觉得很划算。三天后电脑送到了，小王打开一看，发现屏幕有一个坏点。他马上联系客服，客服说可以免费换货，而且派人上门取货。小王觉得这样的服务很好，以后还会在这家店买东西。",
    "questions": [
     {
-     "prompt": "小明打算怎么去北京？",
+     "prompt": "小王为什么觉得电脑很划算？",
      "options": [
       {
        "label": "A",
-       "text": "坐火车"
+       "text": "电脑质量很好"
       },
       {
        "label": "B",
-       "text": "坐飞机"
+       "text": "电脑送货很快"
       },
       {
        "label": "C",
-       "text": "开车"
+       "text": "电脑打折后价格便宜"
       },
       {
        "label": "D",
-       "text": "走路"
+       "text": "电脑原价很高"
       }
      ],
-     "correctAnswer": "B",
-     "explanation": "文中说“我打算坐飞机去”，所以小明是坐飞机去北京。",
+     "correctAnswer": "C",
+     "explanation": "短文中提到“电脑原价五千元，打折后只要四千元，他觉得很划算”，可见小王觉得划算是因为打折后价格便宜。",
      "id": "q1",
      "type": "passage-mcq"
     },
     {
-     "prompt": "小明订的酒店在哪里？",
+     "prompt": "电脑有什么问题？",
      "options": [
       {
        "label": "A",
-       "text": "离火车站很近"
+       "text": "电脑屏幕有坏点"
       },
       {
        "label": "B",
-       "text": "离故宫很近"
+       "text": "电脑颜色不喜欢"
       },
       {
        "label": "C",
-       "text": "离长城很近"
+       "text": "电脑不能开机"
       },
       {
        "label": "D",
-       "text": "离机场很远"
+       "text": "电脑尺寸不合适"
       }
      ],
-     "correctAnswer": "B",
-     "explanation": "文中说“我订了一个离故宫很近的酒店”，所以酒店离故宫近。",
+     "correctAnswer": "A",
+     "explanation": "短文中明确说“发现屏幕有一个坏点”，因此电脑的问题是屏幕有坏点。",
      "id": "q2",
      "type": "passage-mcq"
     },
     {
-     "prompt": "小明第一天计划做什么？",
+     "prompt": "客服给小王提供了什么服务？",
      "options": [
       {
        "label": "A",
-       "text": "去长城"
+       "text": "免费维修并送货上门"
       },
       {
        "label": "B",
-       "text": "去故宫"
+       "text": "赠送优惠券"
       },
       {
        "label": "C",
-       "text": "去酒店"
+       "text": "免费换货并上门取货"
       },
       {
        "label": "D",
-       "text": "买火车票"
+       "text": "免费退货并退款"
       }
      ],
-     "correctAnswer": "B",
-     "explanation": "文中说“我计划第一天去故宫”，所以小明第一天去故宫。",
+     "correctAnswer": "C",
+     "explanation": "短文中说“客服说可以免费换货，而且派人上门取货”，所以服务是免费换货并上门取货。",
      "id": "q3",
      "type": "passage-mcq"
     },
     {
-     "prompt": "小明对这次旅行有什么感觉？",
+     "prompt": "小王对这次购物经历有什么看法？",
      "options": [
       {
        "label": "A",
-       "text": "很担心"
+       "text": "想退货换其他店"
       },
       {
        "label": "B",
-       "text": "很紧张"
+       "text": "觉得服务好，以后还会来"
       },
       {
        "label": "C",
-       "text": "很期待"
+       "text": "很失望，下次不来了"
       },
       {
        "label": "D",
-       "text": "很失望"
+       "text": "觉得价格太贵"
       }
      ],
-     "correctAnswer": "C",
-     "explanation": "文中说“我很期待这次旅行”，所以小明对旅行很期待。",
+     "correctAnswer": "B",
+     "explanation": "短文最后说“小王觉得这样的服务很好，以后还会在这家店买东西”，因此他对服务满意，以后还会来。",
      "id": "q4",
      "type": "passage-mcq"
     }
