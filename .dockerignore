@@ -1,0 +1,22 @@
+# Keep the build context (and final image) clean. Critically, exclude local
+# node_modules and .next so a build on another OS (Windows) can't pollute the
+# Linux image with the wrong native binaries.
+node_modules
+.next
+.git
+_build
+*.log
+npm-debug.log*
+
+# Secrets never enter the image — Zeabur injects env vars at runtime.
+.env
+.env.*
+!.env.example
+
+# Python / tooling artifacts not needed at runtime.
+scripts/__pycache__
+**/__pycache__
+
+# Don't copy the Docker build files into the image.
+Dockerfile
+.dockerignore

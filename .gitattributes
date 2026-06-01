@@ -1,0 +1,7 @@
+# These files are consumed by the Linux Docker builder on Zeabur. Force LF so a
+# Windows checkout (core.autocrlf=true) can never commit CRLF, which would break
+# Dockerfile line-continuations and append a stray \r to every .dockerignore pattern
+# (silently defeating the node_modules / .env exclusions).
+Dockerfile      text eol=lf
+.dockerignore   text eol=lf
+*.sh            text eol=lf
