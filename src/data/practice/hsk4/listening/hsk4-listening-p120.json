@@ -55,9 +55,9 @@
     {
      "id": "q2",
      "type": "listening-mcq",
-     "prompt": "女提议看电影，男同意，并决定看喜剧片，所以是看喜剧电影。",
+     "prompt": "他们周末打算做什么？",
      "correctAnswer": "B",
-     "explanation": "",
+     "explanation": "女提议看电影，男同意，并决定看新上映的喜剧片，所以答案是看喜剧电影。",
      "audio": {
       "key": "listening/v1/1cc016d14a816377ad0e1890d3131535493e7edccb65624e37903a0963f865dc.mp3",
       "lines": [
