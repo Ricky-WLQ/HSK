@@ -1,0 +1,48 @@
+{
+ "standard": "HSK 3.0 (2021 CLEC)",
+ "source": "Official HSK syllabus grammar (graded 1-6 + syllabus 7-9), DeepSeek-enriched",
+ "levels": [
+  {
+   "level": "1",
+   "file": "hsk1.json",
+   "points": 19,
+   "drills": 76
+  },
+  {
+   "level": "2",
+   "file": "hsk2.json",
+   "points": 35,
+   "drills": 139
+  },
+  {
+   "level": "3",
+   "file": "hsk3.json",
+   "points": 32,
+   "drills": 128
+  },
+  {
+   "level": "4",
+   "file": "hsk4.json",
+   "points": 24,
+   "drills": 96
+  },
+  {
+   "level": "5",
+   "file": "hsk5.json",
+   "points": 22,
+   "drills": 88
+  },
+  {
+   "level": "6",
+   "file": "hsk6.json",
+   "points": 18,
+   "drills": 72
+  },
+  {
+   "level": "7-9",
+   "file": "hsk7-9.json",
+   "points": 40,
+   "drills": 160
+  }
+ ]
+}

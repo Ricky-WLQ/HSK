@@ -1,0 +1,1365 @@
+[
+ {
+  "id": "g-6-01",
+  "level": "6",
+  "category": "Pronouns",
+  "nameZh": "代词：本、本身、本人",
+  "nameEn": "Pronouns: 本, 本身, 本人",
+  "explanation": "本 (běn) means 'this/our' (formal, attached to nouns like 学校, 国). 本身 (běnshēn) means 'itself' (emphasizing the thing itself). 本人 (běnrén) means 'I/me personally' or 'the person himself/herself' (formal, self-reference).",
+  "structuralForm": "本 + Noun; Noun + 本身; 本人",
+  "examples": [
+   {
+    "zh": "本校将于下周举行校庆活动。",
+    "pinyin": "běn xiào jiāng yú xià zhōu jǔ xíng xiào qìng huó dòng。",
+    "en": "Our school will hold a school anniversary event next week."
+   },
+   {
+    "zh": "生活本身就是复杂的。",
+    "pinyin": "shēng huó běn shēn jiù shì fù zá de。",
+    "en": "Life itself is complicated."
+   },
+   {
+    "zh": "这是本人的亲身经历。",
+    "pinyin": "zhè shì běn rén de qīn shēn jīng lì。",
+    "en": "This is my personal experience."
+   }
+  ],
+  "drills": [
+   {
+    "type": "fill_blank",
+    "prompt": "（ ）校有悠久的历史。",
+    "options": [
+     "本",
+     "本身",
+     "本人",
+     "该"
+    ],
+    "answerIndex": 0,
+    "explanation": "本 means 'this/our' and is used with nouns like 校 (school)."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "Which word means 'itself' as in 'The problem itself is not difficult'?",
+    "options": [
+     "本",
+     "本身",
+     "本人",
+     "自己"
+    ],
+    "answerIndex": 1,
+    "explanation": "本身 emphasizes the thing itself, like 'itself'."
+   },
+   {
+    "type": "fill_blank",
+    "prompt": "我（ ）认为这个计划不可行。",
+    "options": [
+     "本",
+     "本身",
+     "本人",
+     "自己"
+    ],
+    "answerIndex": 2,
+    "explanation": "本人 is a formal way to say 'I myself' or 'the person himself/herself'."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "Which word completes the sentence '这项政策（ ）没有问题，但执行起来困难'？",
+    "options": [
+     "本",
+     "本身",
+     "本人",
+     "自身"
+    ],
+    "answerIndex": 1,
+    "explanation": "本身 means 'itself' - the policy itself has no problem."
+   }
+  ]
+ },
+ {
+  "id": "g-6-02",
+  "level": "6",
+  "category": "Numbers & measure words",
+  "nameZh": "量词：名量词与动量词",
+  "nameEn": "Measure Words: Noun and Verb Measure Words",
+  "explanation": "Measure words (量词) are used between numerals and nouns (noun measure words) or after verbs (verb measure words) to indicate quantity or frequency. This point covers specific measure words like 栋 (for buildings), 枚 (for small flat objects), 番 (for speeches or actions).",
+  "structuralForm": "Numeral + [磅/串/栋/副/枚/束/艘/枝/株/幔/组/番] + Noun  or  Verb + 一番",
+  "examples": [
+   {
+    "zh": "他买了一栋楼房。",
+    "pinyin": "tā mǎi le yī dòng lóu fáng。",
+    "en": "He bought a building."
+   },
+   {
+    "zh": "她送我一枚硬币。",
+    "pinyin": "tā sòng wǒ yī méi yìng bì。",
+    "en": "She gave me a coin."
+   },
+   {
+    "zh": "他们讨论了一番。",
+    "pinyin": "tā men tǎo lùn le yī fān。",
+    "en": "They discussed for a while."
+   }
+  ],
+  "drills": [
+   {
+    "type": "fill_blank",
+    "prompt": "他买了一（ ）楼房。",
+    "options": [
+     "栋",
+     "枚",
+     "艘",
+     "副"
+    ],
+    "answerIndex": 0,
+    "explanation": "楼房 (building) uses 栋."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "Which measure word is correct for '硬币' (coin)?",
+    "options": [
+     "枚",
+     "粒",
+     "块",
+     "颗"
+    ],
+    "answerIndex": 0,
+    "explanation": "硬币 uses 枚."
+   },
+   {
+    "type": "fill_blank",
+    "prompt": "我们讨论了一（ ）。",
+    "options": [
+     "番",
+     "遍",
+     "次",
+     "回"
+    ],
+    "answerIndex": 0,
+    "explanation": "讨论一番 is a fixed pattern meaning 'discuss for a while'."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "Which measure word is used for '船' (ship)?",
+    "options": [
+     "艘",
+     "只",
+     "条",
+     "架"
+    ],
+    "answerIndex": 0,
+    "explanation": "船 uses 艘."
+   }
+  ]
+ },
+ {
+  "id": "g-6-03",
+  "level": "6",
+  "category": "Verbs",
+  "nameZh": "离合词",
+  "nameEn": "Separable Verbs",
+  "explanation": "Separable verbs (离合词) are verb-object compounds that can be split by inserting aspect markers (了, 过), complements, or modifiers between the verb and the object.",
+  "structuralForm": "V + (了/过/起/着) + (number/measure word) + Object",
+  "examples": [
+   {
+    "zh": "他们打了一架。",
+    "pinyin": "tā men dǎ le yī jià。",
+    "en": "They had a fight."
+   },
+   {
+    "zh": "他发了一会儿呆。",
+    "pinyin": "tā fā le yī huì er dāi。",
+    "en": "He was in a daze for a while."
+   },
+   {
+    "zh": "我投了你一票。",
+    "pinyin": "wǒ tóu le nǐ yī piào。",
+    "en": "I voted for you."
+   }
+  ],
+  "drills": [
+   {
+    "type": "fill_blank",
+    "prompt": "他（   ）了一会儿呆。",
+    "options": [
+     "发",
+     "发呆",
+     "发了",
+     "发着"
+    ],
+    "answerIndex": 0,
+    "explanation": "The verb '发' is separated from the object '呆' by the time phrase '了一会儿'."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "选择正确的句子。",
+    "options": [
+     "我打了他一架。",
+     "我打架了他。",
+     "我打了一架他。",
+     "我打一架了他。"
+    ],
+    "answerIndex": 0,
+    "explanation": "The correct structure is 'V + 了 + indirect object + number + object' as in '打了他一架'."
+   },
+   {
+    "type": "fill_blank",
+    "prompt": "我们准备（   ）个东请客。",
+    "options": [
+     "做",
+     "做东",
+     "做了",
+     "做着"
+    ],
+    "answerIndex": 0,
+    "explanation": "The verb '做' is separated from the object '东' by the measure word '个'."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "选择正确的句子。",
+    "options": [
+     "他发火了一次。",
+     "他发了一次火。",
+     "他发火了次。",
+     "他火发了一次。"
+    ],
+    "answerIndex": 1,
+    "explanation": "Correct separable verb order: '发' + '了一次' + '火'."
+   }
+  ]
+ },
+ {
+  "id": "g-6-04",
+  "level": "6",
+  "category": "Fixed patterns",
+  "nameZh": "固定短语和成语",
+  "nameEn": "Fixed Phrases and Idioms",
+  "explanation": "Fixed phrases (固定短语) and idioms (成语) are set expressions in Chinese with specific meanings. They often derive from historical or literary sources and cannot be changed. For example, '巴不得' means 'can't wait to', and '丢三落四' means 'be scatterbrained'.",
+  "structuralForm": "固定短语/成语 + 其他成分",
+  "examples": [
+   {
+    "zh": "他巴不得立刻见到你。",
+    "pinyin": "tā bā bù dé lì kè jiàn dào nǐ。",
+    "en": "He can't wait to see you right away."
+   },
+   {
+    "zh": "这个人总是丢三落四的。",
+    "pinyin": "zhè ge rén zǒng shì diū sān là sì de。",
+    "en": "This person is always forgetting things."
+   },
+   {
+    "zh": "我们做事情要一丝不苟。",
+    "pinyin": "wǒ men zuò shì qíng yào yī sī bù gǒu。",
+    "en": "We must be meticulous in doing things."
+   }
+  ],
+  "drills": [
+   {
+    "type": "fill_blank",
+    "prompt": "他（ ）马上放假，好去旅行。",
+    "options": [
+     "巴不得",
+     "不得已",
+     "不由得",
+     "不敢当"
+    ],
+    "answerIndex": 0,
+    "explanation": "'巴不得' means 'can't wait to', fitting the context of wishing to travel soon. '不得已' means 'have no choice', '不由得' means 'can't help but', '不敢当' means 'I don't deserve it'."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "选择正确的成语填空：他做事总是____，不放过任何细节。",
+    "options": [
+     "一帆风顺",
+     "一丝不苟",
+     "拔苗助长",
+     "丢三落四"
+    ],
+    "answerIndex": 1,
+    "explanation": "'一丝不苟' means 'meticulous, careful', appropriate for not missing details. '一帆风顺' means 'smooth sailing', '拔苗助长' means 'spoil things by excessive enthusiasm', '丢三落四' means 'scatterbrained'."
+   },
+   {
+    "type": "fill_blank",
+    "prompt": "看到孩子受伤，他（ ）流下了眼泪。",
+    "options": [
+     "不由得",
+     "恨不得",
+     "巴不得",
+     "不得已"
+    ],
+    "answerIndex": 0,
+    "explanation": "'不由得' means 'can't help but', fitting the involuntary reaction. '恨不得' means 'wish to death', '巴不得' means 'can't wait to', '不得已' means 'have no choice'."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "选择正确的短语：他经常____，不是忘带钥匙就是忘带手机。",
+    "options": [
+     "伤脑筋",
+     "出洋相",
+     "丢三落四",
+     "不像话"
+    ],
+    "answerIndex": 2,
+    "explanation": "'丢三落四' means 'forgetful, scatterbrained', matching the description of forgetting keys and phone. '伤脑筋' means 'headache, troublesome', '出洋相' means 'make a fool of oneself', '不像话' means 'unreasonable'."
+   }
+  ]
+ },
+ {
+  "id": "g-6-05",
+  "level": "6",
+  "category": "Prepositions",
+  "nameZh": "介词：于和本着",
+  "nameEn": "Prepositions 于 and 本着",
+  "explanation": "于 indicates time or location, often used in formal contexts. 本着 means 'in accordance with' or 'based on'.",
+  "structuralForm": "动词+于+时间/地点；于+时间/地点+动词（短语）；本着+名词（短语）",
+  "examples": [
+   {
+    "zh": "鲁迅生于1881年。",
+    "pinyin": "lǔ xùn shēng yú1881nián。",
+    "en": "Lu Xun was born in 1881."
+   },
+   {
+    "zh": "您的来信已于昨日收到。",
+    "pinyin": "nín de lái xìn yǐ yú zuó rì shōu dào。",
+    "en": "Your letter has been received yesterday."
+   },
+   {
+    "zh": "我们应该本着政策办事。",
+    "pinyin": "wǒ men yīng gāi běn zhe zhèng cè bàn shì。",
+    "en": "We should act in accordance with the policy."
+   }
+  ],
+  "drills": [
+   {
+    "type": "fill_blank",
+    "prompt": "鲁迅生（ ）1881年。",
+    "options": [
+     "于",
+     "在",
+     "从",
+     "对"
+    ],
+    "answerIndex": 0,
+    "explanation": "于 is used after 生 to indicate the time of birth in formal contexts."
+   },
+   {
+    "type": "fill_blank",
+    "prompt": "您的来信已（ ）昨日收到。",
+    "options": [
+     "于",
+     "在",
+     "从",
+     "自"
+    ],
+    "answerIndex": 0,
+    "explanation": "于 is used before a time phrase to indicate the time of an action in formal language."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "我们应该（ ）政策办事。",
+    "options": [
+     "本着",
+     "关于",
+     "对于",
+     "根据"
+    ],
+    "answerIndex": 0,
+    "explanation": "本着 means 'in accordance with' and takes a noun phrase to indicate the basis of an action."
+   },
+   {
+    "type": "fill_blank",
+    "prompt": "这本书出版（ ）1999年。",
+    "options": [
+     "于",
+     "在",
+     "从",
+     "自"
+    ],
+    "answerIndex": 0,
+    "explanation": "于 is used after 出版 to indicate the publication year in formal contexts."
+   }
+  ]
+ },
+ {
+  "id": "g-6-06",
+  "level": "6",
+  "category": "Fixed patterns",
+  "nameZh": "插入语",
+  "nameEn": "Parenthetical phrases",
+  "explanation": "Parenthetical phrases are set phrases inserted into sentences, often set off by commas, to express the speaker's attitude, summarize, state common knowledge, or emphasize certainty. Common ones include 归根到底 (in the final analysis), 总而言之 (in a word), 众所周知 (as everyone knows), and 毫无疑问 (without doubt).",
+  "structuralForm": "归根到底 / 总而言之 / 众所周知 / 毫无疑问",
+  "examples": [
+   {
+    "zh": "众所周知，中国是一个发展中国家。",
+    "pinyin": "zhòng suǒ zhōu zhī，zhōng guó shì yí gè fā zhǎn zhōng guó jiā。",
+    "en": "As everyone knows, China is a developing country."
+   },
+   {
+    "zh": "总而言之，这次会议非常成功。",
+    "pinyin": "zǒng ér yán zhī，zhè cì huì yì fēi cháng chéng gōng。",
+    "en": "In a word, this meeting was very successful."
+   },
+   {
+    "zh": "毫无疑问，他是最合适的人选。",
+    "pinyin": "háo wú yí wèn，tā shì zuì hé shì de rén xuǎn。",
+    "en": "Without doubt, he is the most suitable candidate."
+   }
+  ],
+  "drills": [
+   {
+    "type": "fill_blank",
+    "prompt": "______，健康是最重要的。",
+    "options": [
+     "众所周知",
+     "总而言之",
+     "归根到底",
+     "毫无疑问"
+    ],
+    "answerIndex": 0,
+    "explanation": "\"众所周知\" is used to state a widely accepted fact. Health is universally recognized as important."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "______，这次实验失败了，但我们积累了经验。选择一个合适的插入语。",
+    "options": [
+     "总而言之",
+     "归根到底",
+     "众所周知",
+     "毫无疑问"
+    ],
+    "answerIndex": 0,
+    "explanation": "\"总而言之\" introduces a summary of the situation, fitting the contrast between failure and gained experience."
+   },
+   {
+    "type": "fill_blank",
+    "prompt": "______，他的能力很强，完全可以胜任这个职位。",
+    "options": [
+     "毫无疑问",
+     "总而言之",
+     "众所周知",
+     "归根到底"
+    ],
+    "answerIndex": 0,
+    "explanation": "\"毫无疑问\" expresses certainty about his ability, matching the confident tone."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "______，一个人的成功离不开团队的支持。选择一个合适的插入语。",
+    "options": [
+     "归根到底",
+     "总而言之",
+     "众所周知",
+     "毫无疑问"
+    ],
+    "answerIndex": 0,
+    "explanation": "\"归根到底\" indicates the fundamental reason, emphasizing that teamwork is essential for success."
+   }
+  ]
+ },
+ {
+  "id": "g-6-07",
+  "level": "6",
+  "category": "Sentence patterns",
+  "nameZh": "“把”字句（表致使）",
+  "nameEn": "把-construction (causative)",
+  "explanation": "This structure uses 把 to indicate that the subject causes the object to be in a certain state or to undergo an action, often with a resultative complement expressing a high degree or unexpected outcome.",
+  "structuralForm": "主语 + 把 + 宾语 + 动词短语",
+  "examples": [
+   {
+    "zh": "这件事把她气得一夜没睡。",
+    "pinyin": "zhè jiàn shì bǎ tā qì dé yī yè méi shuì。",
+    "en": "This matter made her so angry that she didn't sleep all night."
+   },
+   {
+    "zh": "看把你美得！",
+    "pinyin": "kàn bǎ nǐ měi dé！",
+    "en": "Look, you're so pleased (with yourself)!"
+   },
+   {
+    "zh": "这份工作把他累个半死。",
+    "pinyin": "zhè fèn gōng zuò bǎ tā lèi gè bàn sǐ。",
+    "en": "This job nearly worked him to death."
+   }
+  ],
+  "drills": [
+   {
+    "type": "fill_blank",
+    "prompt": "他昨天加班到很晚，______累得直不起腰。",
+    "options": [
+     "把他",
+     "让他",
+     "给他",
+     "把他给"
+    ],
+    "answerIndex": 0,
+    "explanation": "The causative 把 structure requires 把 + object + verb phrase; '把他' is correct here."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "Which sentence uses 把 to express causation (making someone feel/do something)?",
+    "options": [
+     "他把饭吃完了。",
+     "她把孩子感动得哭了。",
+     "他把书放在桌子上。",
+     "她把手机丢在出租车里。"
+    ],
+    "answerIndex": 1,
+    "explanation": "Only B has a causative result (感动得哭了); the others are disposal constructions."
+   },
+   {
+    "type": "fill_blank",
+    "prompt": "这个消息______她高兴得跳了起来。",
+    "options": [
+     "把",
+     "让",
+     "被",
+     "给"
+    ],
+    "answerIndex": 0,
+    "explanation": "The causative 把 is needed before the object '她' to indicate the news caused her to jump."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "Select the sentence that correctly follows the causative 把 pattern: 主语+把+宾语+动词短语。",
+    "options": [
+     "老师把作业改完了。",
+     "老板把员工训了一顿。",
+     "妈妈把房间打扫干净。",
+     "他的话把我气得说不出话来。"
+    ],
+    "answerIndex": 3,
+    "explanation": "D is causative (气得说不出话); A, B, C are disposal actions without causative meaning."
+   }
+  ]
+ },
+ {
+  "id": "g-6-08",
+  "level": "6",
+  "category": "Sentence patterns",
+  "nameZh": "被动句（为…所…）",
+  "nameEn": "Passive Voice with 为…所…",
+  "explanation": "The pattern '为 + agent + 所 + verb' is a formal passive structure, often used in written Chinese. It emphasizes the agent and is equivalent to '被...' but more literary.",
+  "structuralForm": "为 + Noun/Pronoun + 所 + Verb",
+  "examples": [
+   {
+    "zh": "我为他的真诚所感动。",
+    "pinyin": "wǒ wèi tā de zhēn chéng suǒ gǎn dòng。",
+    "en": "I was moved by his sincerity."
+   },
+   {
+    "zh": "这部小说为读者所喜爱。",
+    "pinyin": "zhè bù xiǎo shuō wèi dú zhě suǒ xǐ ài。",
+    "en": "This novel is loved by readers."
+   },
+   {
+    "zh": "他的观点为众人所接受。",
+    "pinyin": "tā de guān diǎn wèi zhòng rén suǒ jiē shòu。",
+    "en": "His viewpoint was accepted by everyone."
+   }
+  ],
+  "drills": [
+   {
+    "type": "fill_blank",
+    "prompt": "他的演讲（ ）大家所称赞。",
+    "options": [
+     "被",
+     "为",
+     "让",
+     "把"
+    ],
+    "answerIndex": 1,
+    "explanation": "The correct passive marker for '为...所...' is '为'."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "选出正确的句子：",
+    "options": [
+     "我被他的精神所感动。",
+     "我让他的精神所感动。",
+     "我为他的精神所感动。",
+     "我由他的精神所感动。"
+    ],
+    "answerIndex": 2,
+    "explanation": "Only '为...所...' is correct here; '被' can also form passive but not with '所' in this structure."
+   },
+   {
+    "type": "fill_blank",
+    "prompt": "这个理论（ ）科学界所认可。",
+    "options": [
+     "被",
+     "为",
+     "让",
+     "由"
+    ],
+    "answerIndex": 1,
+    "explanation": "Use '为' to form the passive pattern '为...所...'."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "选择正确的补全：____环境所影响。",
+    "options": [
+     "人们被",
+     "人们为",
+     "人们让",
+     "人们由"
+    ],
+    "answerIndex": 1,
+    "explanation": "The pattern requires '为 + agent' before '所'."
+   }
+  ]
+ },
+ {
+  "id": "g-6-09",
+  "level": "6",
+  "category": "Complex sentences",
+  "nameZh": "并列复句",
+  "nameEn": "Compound Sentence with Alternation",
+  "explanation": "Used to connect two alternating actions or states, indicating that they occur interchangeably over a period of time.",
+  "structuralForm": "时而..., 时而...",
+  "examples": [
+   {
+    "zh": "这几天时而天晴，时而下雨。",
+    "pinyin": "zhè jǐ tiān shí ér tiān qíng，shí ér xià yǔ。",
+    "en": "These days it's sometimes sunny, sometimes rainy."
+   },
+   {
+    "zh": "他时而高兴，时而悲伤，情绪很不稳定。",
+    "pinyin": "tā shí ér gāo xìng，shí ér bēi shāng，qíng xù hěn bù wěn dìng。",
+    "en": "He is sometimes happy, sometimes sad; his mood is very unstable."
+   }
+  ],
+  "drills": [
+   {
+    "type": "fill_blank",
+    "prompt": "她的心情（ ）高兴，（ ）低落，让人捉摸不透。",
+    "options": [
+     "时而；时而",
+     "有时；有时",
+     "一边；一边",
+     "不但；而且"
+    ],
+    "answerIndex": 0,
+    "explanation": "The pattern '时而...时而...' is used to describe alternating states, fitting the context of changing moods."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "Which structure best expresses alternating weather conditions?",
+    "options": [
+     "时而刮风，时而下雨",
+     "又刮风又下雨",
+     "一边刮风一边下雨",
+     "先刮风后下雨"
+    ],
+    "answerIndex": 0,
+    "explanation": "Only '时而...时而...' indicates alternation, while the others indicate simultaneity or sequence."
+   },
+   {
+    "type": "fill_blank",
+    "prompt": "这家餐厅的菜味道（ ）好，（ ）差，不太稳定。",
+    "options": [
+     "时而；时而",
+     "又；又",
+     "不仅；而且",
+     "一边；一边"
+    ],
+    "answerIndex": 0,
+    "explanation": "The sentence describes alternating quality, so '时而...时而...' is appropriate."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "Choose the sentence that correctly uses '时而...时而...' to describe alternating activities:",
+    "options": [
+     "他时而看书，时而写字。",
+     "他一边看书一边写字。",
+     "他或者看书或者写字。",
+     "他先看书后写字。"
+    ],
+    "answerIndex": 0,
+    "explanation": "Only the first option uses '时而...时而...' to express alternation, while others imply simultaneity, choice, or sequence."
+   }
+  ]
+ },
+ {
+  "id": "g-6-10",
+  "level": "6",
+  "category": "Complex sentences",
+  "nameZh": "承接复句",
+  "nameEn": "Progression Compound Sentence",
+  "explanation": "进而 is used to indicate that the second action is a natural progression or further step from the first, often in a logical sequence.",
+  "structuralForm": "...，进而...",
+  "examples": [
+   {
+    "zh": "我们先了解情况，进而制定出解决问题的方案。",
+    "pinyin": "wǒ men xiān liǎo jiě qíng kuàng，jìn ér zhì dìng chū jiě jué wèn tí de fāng àn。",
+    "en": "We first understand the situation, and then formulate a plan to solve the problem."
+   },
+   {
+    "zh": "公司先在国内市场站稳脚跟，进而进军国际市场。",
+    "pinyin": "gōng sī xiān zài guó nèi shì chǎng zhàn wěn jiǎo gēn，jìn ér jìn jūn guó jì shì chǎng。",
+    "en": "The company first establishes a foothold in the domestic market, and then enters the international market."
+   },
+   {
+    "zh": "他通过不断学习，进而掌握了多项技能。",
+    "pinyin": "tā tōng guò bù duàn xué xí，jìn ér zhǎng wò le duō xiàng jì néng。",
+    "en": "He continuously learns, and thus masters multiple skills."
+   }
+  ],
+  "drills": [
+   {
+    "type": "fill_blank",
+    "prompt": "我们先收集数据，＿＿＿分析规律。",
+    "options": [
+     "进而",
+     "而且",
+     "反而",
+     "因而"
+    ],
+    "answerIndex": 0,
+    "explanation": "进而 indicates progression from data collection to analysis."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "Which word correctly completes the sentence to show a logical progression? '他先完成基础工作，＿＿＿着手高级任务。'",
+    "options": [
+     "进而",
+     "从而",
+     "并且",
+     "于是"
+    ],
+    "answerIndex": 0,
+    "explanation": "进而 is used for a step-by-step progression."
+   },
+   {
+    "type": "fill_blank",
+    "prompt": "公司计划先提升产品质量，＿＿＿扩大市场份额。",
+    "options": [
+     "进而",
+     "然后",
+     "而且",
+     "反而"
+    ],
+    "answerIndex": 0,
+    "explanation": "进而 shows the second action follows from the first."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "Choose the correct word to express 'and then as a further step': '研究团队先进行实验，＿＿＿发表论文。'",
+    "options": [
+     "进而",
+     "从而",
+     "并且",
+     "以至"
+    ],
+    "answerIndex": 0,
+    "explanation": "进而 indicates a progression from experiment to publication."
+   }
+  ]
+ },
+ {
+  "id": "g-6-11",
+  "level": "6",
+  "category": "Complex sentences",
+  "nameZh": "递进复句",
+  "nameEn": "Progressive Complex Sentences",
+  "explanation": "Progressive complex sentences use '况且' to add a further reason, and '尚且...何况/更别说' to indicate that if something is true for a more extreme case, it is even more true for a less extreme case.",
+  "structuralForm": "..., 况且...; 尚且... 何况/更别说...",
+  "examples": [
+   {
+    "zh": "上海地方那么大，况且你又不知道地址，怎么能找到他呢？",
+    "pinyin": "shàng hǎi dì fāng nà me dà，kuàng qiě nǐ yòu bù zhī dào dì zhǐ，zěn me néng zhǎo dào tā ne？",
+    "en": "Shanghai is so big, and besides, you don't know the address, how can you find him?"
+   },
+   {
+    "zh": "大人尚且如此，更别说小孩子了。",
+    "pinyin": "dà rén shàng qiě rú cǐ，gèng bié shuō xiǎo hái zi le。",
+    "en": "Even adults are like this, let alone children."
+   },
+   {
+    "zh": "这么简单的道理，他尚且不明白，何况你呢？",
+    "pinyin": "zhè me jiǎn dān de dào lǐ，tā shàng qiě bù míng bái，hé kuàng nǐ ne？",
+    "en": "He doesn't even understand such a simple truth, let alone you?"
+   }
+  ],
+  "drills": [
+   {
+    "type": "fill_blank",
+    "prompt": "他连自己都照顾不好，______照顾别人了。",
+    "options": [
+     "况且",
+     "何况",
+     "而且",
+     "并且"
+    ],
+    "answerIndex": 1,
+    "explanation": "'何况' is used here to mean 'let alone' in a rhetorical question, indicating a more extreme case."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "这道题太难了，______我根本不会做。",
+    "options": [
+     "况且",
+     "尚且",
+     "而且",
+     "反而"
+    ],
+    "answerIndex": 0,
+    "explanation": "'况且' adds an additional reason, meaning 'besides' or 'moreover'."
+   },
+   {
+    "type": "fill_blank",
+    "prompt": "这么重的箱子，______是成年人，也搬不动。",
+    "options": [
+     "况且",
+     "尚且",
+     "何况",
+     "而且"
+    ],
+    "answerIndex": 1,
+    "explanation": "'尚且' means 'even' in a concessive sense, leading to a conclusion with '更别说'."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "他连简单的加法都不会，______复杂的方程？",
+    "options": [
+     "况且",
+     "尚且",
+     "何况",
+     "更别说"
+    ],
+    "answerIndex": 2,
+    "explanation": "'何况' is used in rhetorical questions to indicate that something is even less likely."
+   }
+  ]
+ },
+ {
+  "id": "g-6-12",
+  "level": "6",
+  "category": "Complex sentences",
+  "nameZh": "因果复句",
+  "nameEn": "Causal Complex Sentences",
+  "explanation": "Use '...以至...' to indicate cause leading to an extreme extent or result; use '(由于)...,以致...' to indicate cause leading to a negative result.",
+  "structuralForm": "...,以至... (由于)...,以致...",
+  "examples": [
+   {
+    "zh": "他看书太认真了，以至我到他身边他都没发觉。",
+    "pinyin": "tā kàn shū tài rèn zhēn le，yǐ zhì wǒ dào tā shēn biān tā dōu méi fā jué。",
+    "en": "He was so absorbed in reading that he didn't notice me coming to his side."
+   },
+   {
+    "zh": "他工作太累，以致身体都累垮了。",
+    "pinyin": "tā gōng zuò tài lèi，yǐ zhì shēn tǐ dōu lèi kuǎ le。",
+    "en": "He was so overworked that his health collapsed."
+   },
+   {
+    "zh": "由于天气突然变冷，以致很多人都感冒了。",
+    "pinyin": "yóu yú tiān qì tū rán biàn lěng，yǐ zhì hěn duō rén dōu gǎn mào le。",
+    "en": "Because the weather suddenly turned cold, many people caught colds."
+   }
+  ],
+  "drills": [
+   {
+    "type": "fill_blank",
+    "prompt": "他工作太忙，____没有时间吃饭。",
+    "options": [
+     "从而",
+     "以致",
+     "以至",
+     "因而"
+    ],
+    "answerIndex": 1,
+    "explanation": "'以致' is used for negative results, so '没有时间吃饭' is a negative outcome."
+   },
+   {
+    "type": "fill_blank",
+    "prompt": "他因为工作太劳累，____病倒了。",
+    "options": [
+     "以至",
+     "以致",
+     "从而",
+     "于是"
+    ],
+    "answerIndex": 1,
+    "explanation": "'病倒了' is a negative result, so '以致' is correct."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "以下句子中，哪个使用了‘以至’来强调程度？",
+    "options": [
+     "他病得很重，以至无法起床。",
+     "他病得很重，以致无法起床。",
+     "他病得很重，所以无法起床。",
+     "他病得很重，因而无法起床。"
+    ],
+    "answerIndex": 0,
+    "explanation": "Only the first sentence uses '以至' to emphasize the extreme extent of the result."
+   },
+   {
+    "type": "fill_blank",
+    "prompt": "____他平时不注意锻炼，____体质很弱。",
+    "options": [
+     "由于, 以致",
+     "由于, 以至",
+     "因为, 所以",
+     "既然, 那么"
+    ],
+    "answerIndex": 0,
+    "explanation": "The pattern '由于...,以致...' indicates a negative result, fitting '体质很弱'."
+   }
+  ]
+ },
+ {
+  "id": "g-6-13",
+  "level": "6",
+  "category": "Complex sentences",
+  "nameZh": "选择复句",
+  "nameEn": "Choice Compound Sentences",
+  "explanation": "Used to express a strong preference or determination, where the speaker chooses one action over another, often with '宁肯/宁愿...也不...' meaning 'would rather...than...' or '宁肯/宁愿...也要...' meaning 'would rather... in order to...'.",
+  "structuralForm": "宁肯/宁愿 + A, 也不/也要 + B",
+  "examples": [
+   {
+    "zh": "我宁肯不吃不睡，也要完成任务。",
+    "pinyin": "wǒ nìng kěn bù chī bù shuì，yě yào wán chéng rèn wù。",
+    "en": "I would rather go without eating or sleeping than fail to complete the task."
+   },
+   {
+    "zh": "他宁愿辞职，也不愿意向老板低头。",
+    "pinyin": "tā nìng yuàn cí zhí，yě bù yuàn yì xiàng lǎo bǎn dī tóu。",
+    "en": "He would rather resign than bow down to the boss."
+   },
+   {
+    "zh": "她宁肯自己受苦，也要让孩子过上好日子。",
+    "pinyin": "tā nìng kěn zì jǐ shòu kǔ，yě yào ràng hái zi guò shàng hǎo rì zi。",
+    "en": "She would rather suffer herself so that her child can have a good life."
+   }
+  ],
+  "drills": [
+   {
+    "type": "fill_blank",
+    "prompt": "他（ ）放弃比赛，也不愿意承认失败。",
+    "options": [
+     "宁可",
+     "宁愿",
+     "宁肯",
+     "宁愿/宁肯"
+    ],
+    "answerIndex": 3,
+    "explanation": "Both '宁愿' and '宁肯' are acceptable in this pattern."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "选择正确的选项完成句子：她___自己饿着，___把食物留给孩子们。",
+    "options": [
+     "宁肯...也要...",
+     "宁肯...也不...",
+     "宁愿...也不...",
+     "宁愿...也要..."
+    ],
+    "answerIndex": 0,
+    "explanation": "'宁肯...也要...' expresses determination to do something despite sacrifice."
+   },
+   {
+    "type": "fill_blank",
+    "prompt": "我（ ）走路去上班，也不愿意挤地铁。",
+    "options": [
+     "宁肯",
+     "宁愿",
+     "宁可",
+     "以上都行"
+    ],
+    "answerIndex": 3,
+    "explanation": "All three forms '宁肯', '宁愿', '宁可' are correct here."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "哪个句子正确使用了'选择复句'结构？",
+    "options": [
+     "他宁肯吃中餐，也不吃西餐。",
+     "他宁肯吃中餐，也要吃西餐。",
+     "他宁愿吃中餐，也不吃西餐。",
+     "他宁愿吃中餐，也要吃西餐。"
+    ],
+    "answerIndex": 2,
+    "explanation": "'宁愿...也不...' is correct; '也要' would imply purpose, not preference."
+   }
+  ]
+ },
+ {
+  "id": "g-6-14",
+  "level": "6",
+  "category": "Complex sentences",
+  "nameZh": "目的复句",
+  "nameEn": "Purpose Clauses",
+  "explanation": "These conjunctions introduce a clause expressing purpose: '以便' indicates a positive purpose ('so that'), while '以免' and '免得' indicate a negative purpose ('lest', 'so as not to'). The main clause states an action taken to achieve or avoid the purpose.",
+  "structuralForm": "..., 以便 ...; ..., 以免 ...; ..., 免得 ...",
+  "examples": [
+   {
+    "zh": "请告诉我你的电话号码，以便以后联系。",
+    "pinyin": "qǐng gào sù wǒ nǐ de diàn huà hào mǎ，yǐ biàn yǐ hòu lián xì。",
+    "en": "Please tell me your phone number so that we can contact you later."
+   },
+   {
+    "zh": "开车要遵守交通规则，以免发生意外。",
+    "pinyin": "kāi chē yào zūn shǒu jiāo tōng guī zé，yǐ miǎn fā shēng yì wài。",
+    "en": "When driving, follow traffic rules to avoid accidents."
+   },
+   {
+    "zh": "出发之前好好看看地图，免得走错路。",
+    "pinyin": "chū fā zhī qián hǎo hǎo kàn kàn dì tú，miǎn de zǒu cuò lù。",
+    "en": "Look at the map carefully before departing, so as not to get lost."
+   }
+  ],
+  "drills": [
+   {
+    "type": "fill_blank",
+    "prompt": "请把窗户关好，（）蚊子飞进来。",
+    "options": [
+     "以便",
+     "以免",
+     "从而",
+     "为了"
+    ],
+    "answerIndex": 1,
+    "explanation": "We close the window to prevent mosquitoes from coming in, so '以免' (to avoid) is correct."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "Which conjunction is used to express a positive purpose?",
+    "options": [
+     "以免",
+     "免得",
+     "以便",
+     "由于"
+    ],
+    "answerIndex": 2,
+    "explanation": "'以便' means 'so that' and is used for positive purpose, while '以免' and '免得' are for negative purpose."
+   },
+   {
+    "type": "fill_blank",
+    "prompt": "他提前到了车站，（）赶上早一班车。",
+    "options": [
+     "以免",
+     "免得",
+     "以便",
+     "以致"
+    ],
+    "answerIndex": 2,
+    "explanation": "He arrived early so that he could catch an earlier train. '以便' indicates a positive purpose."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "Choose the correct sentence:",
+    "options": [
+     "下雨了，我们带伞以便淋湿。",
+     "下雨了，我们带伞以免淋湿。",
+     "下雨了，我们带伞以便淋湿。",
+     "下雨了，我们带伞因为淋湿。"
+    ],
+    "answerIndex": 1,
+    "explanation": "We take umbrellas to avoid getting wet, so '以免' is correct. The others are either wrong meaning or wrong conjunction."
+   }
+  ]
+ },
+ {
+  "id": "g-6-15",
+  "level": "6",
+  "category": "Complex sentences",
+  "nameZh": "转折复句",
+  "nameEn": "Adversative Complex Sentences",
+  "explanation": "These patterns express a concession or contrast between two clauses. '不过/只是...而已/罢了' means 'it's just that... that's all', downplaying the reason. '固然...但是/可是/不过...' means 'admittedly... but...', acknowledging a point while introducing a contrasting one.",
+  "structuralForm": "不过/只是...而已/罢了; 固然...但是/可是/不过...",
+  "examples": [
+   {
+    "zh": "大家都觉得她很自私，只是不愿意说而已。",
+    "pinyin": "dà jiā dōu jué de tā hěn zì sī，zhǐ shì bù yuàn yì shuō ér yǐ。",
+    "en": "Everyone thinks she is selfish, it's just that they are unwilling to say so."
+   },
+   {
+    "zh": "这样的生活固然稳定，但是对年轻人来说没有前途。",
+    "pinyin": "zhè yàng de shēng huó gù rán wěn dìng，dàn shì duì nián qīng rén lái shuō méi yǒu qián tú。",
+    "en": "Admittedly, such a life is stable, but it holds no future for young people."
+   },
+   {
+    "zh": "他固然很聪明，可是不够努力。",
+    "pinyin": "tā gù rán hěn cōng míng，kě shì bù gòu nǔ lì。",
+    "en": "He is admittedly very smart, but not hardworking enough."
+   }
+  ],
+  "drills": [
+   {
+    "type": "fill_blank",
+    "prompt": "他（ ）很聪明，可是不够努力。",
+    "options": [
+     "固然",
+     "虽然",
+     "因为",
+     "即使"
+    ],
+    "answerIndex": 0,
+    "explanation": "'固然' is used for concession, meaning 'admittedly', fitting the contrast with '可是'."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "Which sentence correctly uses '只是...而已'?",
+    "options": [
+     "我只是想试试而已。",
+     "我只是一点点而已。",
+     "我只是不去而已。",
+     "我只是而已。"
+    ],
+    "answerIndex": 0,
+    "explanation": "The pattern '只是...而已' means 'just... that's all'. Option A correctly places '是想试试' between '只是' and '而已'."
+   },
+   {
+    "type": "fill_blank",
+    "prompt": "她（ ）说了几句，并不想吵架。",
+    "options": [
+     "不过",
+     "但是",
+     "因此",
+     "而且"
+    ],
+    "answerIndex": 0,
+    "explanation": "'不过' introduces a mild contrast, meaning 'it's just that', fitting the context of downplaying."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "Which sentence correctly uses '固然...但是'?",
+    "options": [
+     "固然他很努力，但是成绩不好。",
+     "他固然很努力，但是成绩不好。",
+     "他固然很努力，但是成绩不好吗？",
+     "固然他努力，但是成绩不好。"
+    ],
+    "answerIndex": 1,
+    "explanation": "In '固然...但是', '固然' is placed after the subject. Option B has correct word order."
+   }
+  ]
+ },
+ {
+  "id": "g-6-16",
+  "level": "6",
+  "category": "Complex sentences",
+  "nameZh": "假设复句（倘若/倘使/倘如/倘...也/就...）",
+  "nameEn": "Hypothetical Compound Sentences with 倘若/倘使/倘如",
+  "explanation": "This pattern introduces a hypothetical condition using 倘若, 倘使, 倘如, or 倘, and the result clause often uses 也 or 就. It expresses that if the condition were true, the result would follow. It is more formal and literary than 如果.",
+  "structuralForm": "倘若/倘使/倘如/倘...，也/就...",
+  "examples": [
+   {
+    "zh": "倘若你不信，就亲自去看看吧。",
+    "pinyin": "tǎng ruò nǐ bù xìn，jiù qīn zì qù kàn kàn ba。",
+    "en": "If you don't believe it, just go and see for yourself."
+   },
+   {
+    "zh": "倘使明天不下雨，我们就去爬山。",
+    "pinyin": "tǎng shǐ míng tiān bù xià yǔ，wǒ men jiù qù pá shān。",
+    "en": "If it doesn't rain tomorrow, we will go hiking."
+   },
+   {
+    "zh": "倘如他愿意帮忙，事情就好办了。",
+    "pinyin": "tǎng rú tā yuàn yì bāng máng，shì qíng jiù hǎo bàn le。",
+    "en": "If he is willing to help, things will be easy."
+   }
+  ],
+  "drills": [
+   {
+    "type": "fill_blank",
+    "prompt": "______你不想去，我也不会勉强你。",
+    "options": [
+     "倘若",
+     "虽然",
+     "因为",
+     "既然"
+    ],
+    "answerIndex": 0,
+    "explanation": "倘若 introduces a hypothetical condition, meaning 'if'. Other options do not convey a hypothetical condition."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "______他愿意帮忙，问题就能解决。",
+    "options": [
+     "倘若",
+     "即使",
+     "既然",
+     "只有"
+    ],
+    "answerIndex": 0,
+    "explanation": "倘若 is correct for a hypothetical condition. 即使 means 'even if' (concessive), 既然 means 'since' (causal), 只有 means 'only if' (restrictive)."
+   },
+   {
+    "type": "fill_blank",
+    "prompt": "______事情真的如此，我们就得改变计划。",
+    "options": [
+     "倘如",
+     "即使",
+     "因为",
+     "虽然"
+    ],
+    "answerIndex": 0,
+    "explanation": "倘如 is a variant of 倘若, used in formal contexts to introduce a hypothesis."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "______你不愿意，我们也可以理解。",
+    "options": [
+     "倘若",
+     "尽管",
+     "无论",
+     "哪怕"
+    ],
+    "answerIndex": 0,
+    "explanation": "倘若 introduces the hypothetical condition. 尽管 means 'although', 无论 means 'no matter', 哪怕 means 'even if' (concessive)."
+   }
+  ]
+ },
+ {
+  "id": "g-6-17",
+  "level": "6",
+  "category": "Complex sentences",
+  "nameZh": "让步复句",
+  "nameEn": "Concessive Complex Sentences with 即便/就算...也",
+  "explanation": "This pattern introduces a concession or hypothetical situation, emphasizing that the result in the main clause remains unchanged regardless. 即便 and 就算 are synonymous, meaning 'even if'.",
+  "structuralForm": "即便/就算...也...",
+  "examples": [
+   {
+    "zh": "即便工作上取得了很大的成就，也不能骄傲自满。",
+    "pinyin": "jí biàn gōng zuò shàng qǔ dé le hěn dà de chéng jiù，yě bù néng jiāo ào zì mǎn。",
+    "en": "Even if you achieve great success at work, you should not become arrogant."
+   },
+   {
+    "zh": "就算天气不好，我们也得去参加比赛。",
+    "pinyin": "jiù suàn tiān qì bù hǎo，wǒ men yě dé qù cān jiā bǐ sài。",
+    "en": "Even if the weather is bad, we still have to go to the competition."
+   },
+   {
+    "zh": "即便你不同意，我也要坚持自己的决定。",
+    "pinyin": "jí biàn nǐ bù tóng yì，wǒ yě yào jiān chí zì jǐ de jué dìng。",
+    "en": "Even if you disagree, I will insist on my own decision."
+   }
+  ],
+  "drills": [
+   {
+    "type": "fill_blank",
+    "prompt": "______你不来，我们也会按时开始。",
+    "options": [
+     "即便",
+     "既然",
+     "虽然",
+     "因为"
+    ],
+    "answerIndex": 0,
+    "explanation": "即便 introduces a concession, correct; the others have different meanings."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "选择正确的词语完成句子：______天气再冷，她也坚持冬泳。",
+    "options": [
+     "就算",
+     "虽然",
+     "尽管",
+     "如果"
+    ],
+    "answerIndex": 0,
+    "explanation": "就算...也表示让步，意为'即使'；虽然和尽管引导事实，如果引导条件。"
+   },
+   {
+    "type": "fill_blank",
+    "prompt": "即便他犯了错误，我们______不能放弃他。",
+    "options": [
+     "也",
+     "却",
+     "还",
+     "都"
+    ],
+    "answerIndex": 0,
+    "explanation": "与即便搭配的'也'表示结果不受影响，其他不合适。"
+   },
+   {
+    "type": "choose_form",
+    "prompt": "以下哪组关联词可以填入‘______你反对，我______要坚持’？",
+    "options": [
+     "即便...也",
+     "不管...都",
+     "虽然...但是",
+     "因为...所以"
+    ],
+    "answerIndex": 0,
+    "explanation": "即便...也表示让步，符合句意；其他不符合。"
+   }
+  ]
+ },
+ {
+  "id": "g-6-18",
+  "level": "6",
+  "category": "Sentence patterns",
+  "nameZh": "紧缩复句",
+  "nameEn": "Compressed Complex Sentence",
+  "explanation": "A compressed complex sentence expresses a conditional or progressive relationship using fixed patterns. '愈(是)...愈(是)...' means 'the more... the more...', and '要+动词+就+动词+个+补语' means 'if you want to do something, then do it thoroughly/fully'.",
+  "structuralForm": "愈(是)...愈(是)... ; 要+Verb+就+Verb+个+Complement",
+  "examples": [
+   {
+    "zh": "愈是危险愈是要冷静。",
+    "pinyin": "yù shì wēi xiǎn yù shì yào lěng jìng。",
+    "en": "The more dangerous it is, the more you need to stay calm."
+   },
+   {
+    "zh": "要玩儿就玩儿个痛快。",
+    "pinyin": "yào wán ér jiù wán ér gè tòng kuài。",
+    "en": "If you want to play, then play to your heart's content."
+   },
+   {
+    "zh": "愈是困难愈是要坚持。",
+    "pinyin": "yù shì kùn nán yù shì yào jiān chí。",
+    "en": "The more difficult it is, the more you need to persist."
+   }
+  ],
+  "drills": [
+   {
+    "type": "fill_blank",
+    "prompt": "愈是（ ）愈是要保持冷静。",
+    "options": [
+     "危险",
+     "安全",
+     "简单",
+     "容易"
+    ],
+    "answerIndex": 0,
+    "explanation": "The pattern '愈是...愈是...' expresses a proportional relationship. '危险' (dangerous) fits the context of needing to stay calm."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "Which sentence correctly uses the pattern '愈(是)...愈(是)...'?",
+    "options": [
+     "愈是努力愈是会成功。",
+     "愈是努力就会成功。",
+     "愈努力愈成功。",
+     "愈是努力更成功。"
+    ],
+    "answerIndex": 0,
+    "explanation": "Option 0 correctly uses '愈是...愈是...'. Option 1 uses '就会', option 3 omits '是', and option 4 uses '更' incorrectly."
+   },
+   {
+    "type": "fill_blank",
+    "prompt": "要跑就跑个（ ）。",
+    "options": [
+     "跑",
+     "跑得",
+     "跑个",
+     "跑着"
+    ],
+    "answerIndex": 2,
+    "explanation": "The pattern requires repeating the verb and adding '个' before the complement. '跑个痛快' means 'run to your heart's content'."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "Which sentence correctly uses the pattern '要+Verb+就+Verb+个+Complement'?",
+    "options": [
+     "要玩就玩个痛快。",
+     "要玩就玩痛快。",
+     "要玩就玩得痛快。",
+     "要玩就玩个痛快了。"
+    ],
+    "answerIndex": 0,
+    "explanation": "Option 0 follows the pattern exactly: '要玩就玩个痛快'. Option 1 is missing '个', option 2 uses '得' instead of '个', and option 4 adds '了' unnecessarily."
+   }
+  ]
+ }
+]

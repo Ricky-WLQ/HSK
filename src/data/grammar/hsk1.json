@@ -1,0 +1,1436 @@
+[
+ {
+  "id": "g-1-01",
+  "level": "1",
+  "category": "Pronouns",
+  "nameZh": "人称代词",
+  "nameEn": "Personal Pronouns",
+  "explanation": "Personal pronouns include singular forms (我, 你, 您, 他, 她) and plural forms (我们, 你们, 他们). 您 is the polite form of 你. They are used as subjects or objects in sentences.",
+  "structuralForm": "我/你/您/他/她 → 我们/你们/他们",
+  "examples": [
+   {
+    "zh": "我叫小明。",
+    "pinyin": "wǒ jiào xiǎo míng。",
+    "en": "My name is Xiaoming."
+   },
+   {
+    "zh": "您贵姓？",
+    "pinyin": "nín guì xìng？",
+    "en": "What is your surname? (polite)"
+   },
+   {
+    "zh": "他是我哥哥。",
+    "pinyin": "tā shì wǒ gē gē。",
+    "en": "He is my older brother."
+   }
+  ],
+  "drills": [
+   {
+    "type": "fill_blank",
+    "prompt": "（ ）是学生。 (We are students.)",
+    "options": [
+     "我们",
+     "你们",
+     "他们",
+     "我"
+    ],
+    "answerIndex": 0,
+    "explanation": "The sentence means 'We are students', so the subject pronoun should be '我们' (we)."
+   },
+   {
+    "type": "fill_blank",
+    "prompt": "（ ）好！(Hello! polite form)",
+    "options": [
+     "你",
+     "您",
+     "他",
+     "她"
+    ],
+    "answerIndex": 1,
+    "explanation": "The polite form of 'you' is used in formal greetings, so '您' is correct."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "Choose the correct pronoun: __ is my sister.",
+    "options": [
+     "他",
+     "她",
+     "它",
+     "我"
+    ],
+    "answerIndex": 1,
+    "explanation": "For a female person, use '她' (she)."
+   },
+   {
+    "type": "fill_blank",
+    "prompt": "（ ）学习汉语。 (They study Chinese.)",
+    "options": [
+     "我们",
+     "你们",
+     "他们",
+     "你"
+    ],
+    "answerIndex": 2,
+    "explanation": "The sentence means 'They study Chinese', so '他们' (they) is correct."
+   }
+  ]
+ },
+ {
+  "id": "g-1-02",
+  "level": "1",
+  "category": "Pronouns",
+  "nameZh": "指示代词",
+  "nameEn": "Demonstrative Pronouns",
+  "explanation": "Demonstrative pronouns '这' (this) and '那' (that) point to people or things; '这儿' (here) and '那儿' (there) indicate locations.",
+  "structuralForm": "这/那 + 是 + noun; 在这儿/在那儿 (verb placement)",
+  "examples": [
+   {
+    "zh": "这是什么？",
+    "pinyin": "zhè shì shén me？",
+    "en": "What is this?"
+   },
+   {
+    "zh": "那是阿明。",
+    "pinyin": "nà shì ā míng。",
+    "en": "That is Amin."
+   },
+   {
+    "zh": "他在那儿。",
+    "pinyin": "tā zài nà ér。",
+    "en": "He is there."
+   }
+  ],
+  "drills": [
+   {
+    "type": "fill_blank",
+    "prompt": "（ ）是我的书。",
+    "options": [
+     "这",
+     "这儿",
+     "那",
+     "那儿"
+    ],
+    "answerIndex": 0,
+    "explanation": "'这' points to an object close to the speaker, here 'my book'."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "选择正确的词：______ 是学校。",
+    "options": [
+     "这",
+     "这儿",
+     "那",
+     "那儿"
+    ],
+    "answerIndex": 2,
+    "explanation": "'那' means 'that' when pointing to a distant place (school)."
+   },
+   {
+    "type": "fill_blank",
+    "prompt": "我们在（ ）。",
+    "options": [
+     "这",
+     "这儿",
+     "那",
+     "那儿"
+    ],
+    "answerIndex": 1,
+    "explanation": "'这儿' means 'here' indicating the location where 'we' are."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "选择正确的词：______ 是老师。",
+    "options": [
+     "这",
+     "这儿",
+     "那",
+     "那儿"
+    ],
+    "answerIndex": 0,
+    "explanation": "'这' refers to 'this person' close to the speaker, here 'teacher'."
+   }
+  ]
+ },
+ {
+  "id": "g-1-03",
+  "level": "1",
+  "category": "Other",
+  "nameZh": "时间名词：年月日、星期、钟点",
+  "nameEn": "Time Nouns: Dates, Days of Week, Clock Time",
+  "explanation": "Chinese dates follow year-month-day order. Days of the week use 星期 followed by a number (星期一 to 星期日). Clock time uses 点 for hour, 分 for minute, 差 for 'to', 刻 for quarter, and 半 for half.",
+  "structuralForm": "X年X月X日, 星期X, X点X分, 差X分X点, X点X刻, X点半",
+  "examples": [
+   {
+    "zh": "今天是2013年12月5日。",
+    "pinyin": "jīn tiān shì2013nián12yuè5rì。",
+    "en": "Today is December 5, 2013."
+   },
+   {
+    "zh": "明天是星期一。",
+    "pinyin": "míng tiān shì xīng qī yī。",
+    "en": "Tomorrow is Monday."
+   },
+   {
+    "zh": "现在八点半。",
+    "pinyin": "xiàn zài bā diǎn bàn。",
+    "en": "It's 8:30 now."
+   }
+  ],
+  "drills": [
+   {
+    "type": "fill_blank",
+    "prompt": "今天是2013年12月（ ）。",
+    "options": [
+     "5日",
+     "5月",
+     "5年",
+     "5星期"
+    ],
+    "answerIndex": 0,
+    "explanation": "In Chinese dates, after the month comes the day, so '5日' is correct."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "Which means 'Monday'?",
+    "options": [
+     "星期一",
+     "星期1",
+     "周一",
+     "星期一日"
+    ],
+    "answerIndex": 0,
+    "explanation": "Days of the week use 星期 + number: Monday is 星期一."
+   },
+   {
+    "type": "fill_blank",
+    "prompt": "现在（ ）8点。 (meaning 5 to 8)",
+    "options": [
+     "差五分",
+     "五分",
+     "五刻",
+     "半"
+    ],
+    "answerIndex": 0,
+    "explanation": "'差五分八点' means 5 minutes to 8 o'clock."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "Which means '8:15'?",
+    "options": [
+     "八点一刻",
+     "八点三刻",
+     "八点五分",
+     "八点半"
+    ],
+    "answerIndex": 0,
+    "explanation": "一刻 means a quarter of an hour, so '八点一刻' is 8:15."
+   }
+  ]
+ },
+ {
+  "id": "g-1-04",
+  "level": "1",
+  "category": "Numbers & measure words",
+  "nameZh": "钱数的表达",
+  "nameEn": "Expression of Money Amounts",
+  "explanation": "In Chinese, money amounts are expressed using units: 元 (or 块) for the main unit, 角 (or 毛) for tenths, and 分 for hundredths. For example, 10.58 yuan is said as '十块五毛八分' or sometimes just '十块五毛八'.",
+  "structuralForm": "Number + 元/块 + Number + 角/毛 + Number + 分",
+  "examples": [
+   {
+    "zh": "这本书十块五毛八分。",
+    "pinyin": "zhè běn shū shí kuài wǔ máo bā fēn。",
+    "en": "This book costs ten yuan, five jiao, and eight fen."
+   },
+   {
+    "zh": "一杯咖啡八块五毛。",
+    "pinyin": "yī bēi kā fēi bā kuài wǔ máo。",
+    "en": "A cup of coffee is eight yuan and five jiao."
+   },
+   {
+    "zh": "一个面包三块两毛。",
+    "pinyin": "yí gè miàn bāo sān kuài liǎng máo。",
+    "en": "A bread is three yuan and two jiao."
+   }
+  ],
+  "drills": [
+   {
+    "type": "choose_form",
+    "prompt": "How do you say '12.34 yuan' in Chinese?",
+    "options": [
+     "十二块三毛四分",
+     "十二元三毛四分",
+     "十二块三毛四",
+     "十二元三毛四分"
+    ],
+    "answerIndex": 3,
+    "explanation": "The correct form uses 元 and includes all units: 十二元三毛四分. Although 块 is common in speech, 元 is more formal. Option 1 uses 块 but is also acceptable, but the given options have a correct one with 元."
+   },
+   {
+    "type": "fill_blank",
+    "prompt": "苹果五块（ ）毛。",
+    "options": [
+     "四",
+     "六",
+     "八",
+     "十"
+    ],
+    "answerIndex": 2,
+    "explanation": "The sentence means 'Apple costs 5 yuan and ( ) jiao.' The correct answer is '八' to make 五块八毛, a plausible amount. Other numbers are too high or low."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "Which is the correct way to say '7.05 yuan'?",
+    "options": [
+     "七块五分",
+     "七块零五分",
+     "七块五毛",
+     "七元五分"
+    ],
+    "answerIndex": 1,
+    "explanation": "When there is a zero in the jiao position, we add 零. So 七块零五分 is correct. 七块五分 would mean 7.50, and 七块五毛 is 7.50."
+   },
+   {
+    "type": "fill_blank",
+    "prompt": "这件衣服一百（ ）块。",
+    "options": [
+     "五",
+     "五毛",
+     "五元",
+     "五分"
+    ],
+    "answerIndex": 0,
+    "explanation": "The sentence is 'This clothes is one hundred ( ) yuan.' The blank needs a number before 块. '五' means five, so 一百零五块. '五毛' would be wrong because 块 is already there."
+   }
+  ]
+ },
+ {
+  "id": "g-1-05",
+  "level": "1",
+  "category": "Numbers & measure words",
+  "nameZh": "一百以内的基数词",
+  "nameEn": "Cardinal Numbers (1-99)",
+  "explanation": "Cardinal numbers are used to indicate quantity. For numbers from 1 to 99, combine the tens digit and units digit. For example, 46 is 'sì shí liù' (四十六).",
+  "structuralForm": "1~99",
+  "examples": [
+   {
+    "zh": "我爸爸四十六岁。",
+    "pinyin": "wǒ bà bà sì shí liù suì。",
+    "en": "My father is 46 years old."
+   },
+   {
+    "zh": "他有二十本书。",
+    "pinyin": "tā yǒu èr shí běn shū。",
+    "en": "He has 20 books."
+   }
+  ],
+  "drills": [
+   {
+    "type": "fill_blank",
+    "prompt": "我爸爸（ ）岁。",
+    "options": [
+     "四十六",
+     "四六",
+     "四十六十",
+     "六十四"
+    ],
+    "answerIndex": 0,
+    "explanation": "四十六 is the correct cardinal number 46. The tens digit is 40 (四十) and units 6 (六), combined as 四十六."
+   },
+   {
+    "type": "fill_blank",
+    "prompt": "她买了（ ）本书。",
+    "options": [
+     "五",
+     "第五",
+     "五个",
+     "五次"
+    ],
+    "answerIndex": 0,
+    "explanation": "The cardinal number 五 indicates quantity. '第五' is ordinal, '五个' includes the measure word, and '五次' means five times."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "下面哪个是数字20的正确写法？",
+    "options": [
+     "十二",
+     "二十",
+     "第二十",
+     "十二个"
+    ],
+    "answerIndex": 1,
+    "explanation": "二十 is the correct cardinal number for 20. '十二' is 12, '第二十' is ordinal, and '十二个' includes a measure word."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "选择正确的句子：",
+    "options": [
+     "他今年三十岁。",
+     "他今年第三十岁。",
+     "他今年三十个岁。",
+     "他今年三十。"
+    ],
+    "answerIndex": 0,
+    "explanation": "Only '三十岁' correctly uses the cardinal number with the measure word '岁'. '第三十岁' is ordinal, '三十个岁' has a redundant measure word, and '三十' lacks the measure word."
+   }
+  ]
+ },
+ {
+  "id": "g-1-06",
+  "level": "1",
+  "category": "Numbers & measure words",
+  "nameZh": "常用量词",
+  "nameEn": "Common Measure Words",
+  "explanation": "Measure words are used between numbers and nouns. Different nouns require specific measure words. 个 is the most common; 名 is for people in formal contexts; 本 is for books; 口 is for family members.",
+  "structuralForm": "个、名、本、口",
+  "examples": [
+   {
+    "zh": "我有一个弟弟。",
+    "pinyin": "wǒ yǒu yí gè dì di。",
+    "en": "I have a younger brother."
+   },
+   {
+    "zh": "她是名学生。",
+    "pinyin": "tā shì míng xué shēng。",
+    "en": "She is a student."
+   },
+   {
+    "zh": "我有十本书。",
+    "pinyin": "wǒ yǒu shí běn shū。",
+    "en": "I have ten books."
+   }
+  ],
+  "drills": [
+   {
+    "type": "fill_blank",
+    "prompt": "我有一（ ）苹果。",
+    "options": [
+     "个",
+     "本",
+     "口",
+     "名"
+    ],
+    "answerIndex": 0,
+    "explanation": "苹果 takes the general measure word 个."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "Which measure word is correct for '学生' in a formal context?",
+    "options": [
+     "个",
+     "名",
+     "本",
+     "口"
+    ],
+    "answerIndex": 1,
+    "explanation": "名 is used for people in formal contexts like students."
+   },
+   {
+    "type": "fill_blank",
+    "prompt": "她买了三（ ）书。",
+    "options": [
+     "个",
+     "本",
+     "口",
+     "名"
+    ],
+    "answerIndex": 1,
+    "explanation": "书 takes the measure word 本."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "For '家人' (family members), which measure word is correct?",
+    "options": [
+     "个",
+     "名",
+     "本",
+     "口"
+    ],
+    "answerIndex": 3,
+    "explanation": "口 is used for counting family members."
+   }
+  ]
+ },
+ {
+  "id": "g-1-07",
+  "level": "1",
+  "category": "Verbs",
+  "nameZh": "表达情感态度的动词：爱、喜欢、想",
+  "nameEn": "Verbs expressing emotions/attitudes: love, like, want",
+  "explanation": "These verbs express feelings or desires. '爱' means to love, '喜欢' means to like, and '想' means to want or wish. They are followed by a noun or verb phrase.",
+  "structuralForm": "Subject + 爱/喜欢/想 + Noun / Verb Phrase",
+  "examples": [
+   {
+    "zh": "我爱你。",
+    "pinyin": "wǒ ài nǐ。",
+    "en": "I love you."
+   },
+   {
+    "zh": "我喜欢看电影。",
+    "pinyin": "wǒ xǐ huān kàn diàn yǐng。",
+    "en": "I like watching movies."
+   },
+   {
+    "zh": "他想喝水。",
+    "pinyin": "tā xiǎng hē shuǐ。",
+    "en": "He wants to drink water."
+   }
+  ],
+  "drills": [
+   {
+    "type": "fill_blank",
+    "prompt": "我（ ）你。",
+    "options": [
+     "爱",
+     "是",
+     "有",
+     "在"
+    ],
+    "answerIndex": 0,
+    "explanation": "The verb '爱' means to love, which fits the emotional context."
+   },
+   {
+    "type": "fill_blank",
+    "prompt": "他（ ）吃苹果。",
+    "options": [
+     "喜欢",
+     "是",
+     "有",
+     "能"
+    ],
+    "answerIndex": 0,
+    "explanation": "'喜欢' expresses liking an activity, followed by a verb."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "Which verb means 'to want'?",
+    "options": [
+     "爱",
+     "喜欢",
+     "想",
+     "要"
+    ],
+    "answerIndex": 2,
+    "explanation": "'想' is used to express a desire or wish to do something."
+   },
+   {
+    "type": "fill_blank",
+    "prompt": "妈妈（ ）我。",
+    "options": [
+     "爱",
+     "是",
+     "有",
+     "看"
+    ],
+    "answerIndex": 0,
+    "explanation": "'爱' is the appropriate verb for expressing love."
+   }
+  ]
+ },
+ {
+  "id": "g-1-08",
+  "level": "1",
+  "category": "Verbs",
+  "nameZh": "助动词“能”和“会”",
+  "nameEn": "Modal verbs 能 and 会",
+  "explanation": "能 indicates ability or permission, often due to external conditions. 会 indicates a learned skill or knowledge. Both are placed before the verb.",
+  "structuralForm": "能/会 + Verb (Phrase)",
+  "examples": [
+   {
+    "zh": "你能来吗？",
+    "pinyin": "nǐ néng lái ma？",
+    "en": "Can you come?"
+   },
+   {
+    "zh": "我会打网球。",
+    "pinyin": "wǒ huì dǎ wǎng qiú。",
+    "en": "I can play tennis."
+   },
+   {
+    "zh": "他不会说中文。",
+    "pinyin": "tā bú huì shuō zhōng wén。",
+    "en": "He can't speak Chinese."
+   }
+  ],
+  "drills": [
+   {
+    "type": "fill_blank",
+    "prompt": "他___说中文。",
+    "options": [
+     "能",
+     "会",
+     "可以",
+     "要"
+    ],
+    "answerIndex": 1,
+    "explanation": "会 is used for skills like speaking a language."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "今天下雨，我们不___去公园。",
+    "options": [
+     "能",
+     "会",
+     "可以",
+     "想"
+    ],
+    "answerIndex": 0,
+    "explanation": "能 indicates ability under circumstances (cannot go because of rain)."
+   },
+   {
+    "type": "fill_blank",
+    "prompt": "我___打网球。",
+    "options": [
+     "能",
+     "会",
+     "可以",
+     "应该"
+    ],
+    "answerIndex": 1,
+    "explanation": "会 for learned skill."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "你___帮我吗？",
+    "options": [
+     "能",
+     "会",
+     "可以",
+     "要"
+    ],
+    "answerIndex": 0,
+    "explanation": "能 for asking permission or ability to help."
+   }
+  ]
+ },
+ {
+  "id": "g-1-09",
+  "level": "1",
+  "category": "Adverbs",
+  "nameZh": "程度副词和范围副词",
+  "nameEn": "Degree and Scope Adverbs",
+  "explanation": "These adverbs modify adjectives or verbs. 很/非常/真 mean 'very' before adjectives; 太 means 'too' and often takes 了; 也 means 'also' before verbs; 都 means 'all' before verbs.",
+  "structuralForm": "很/非常/真 + Adj; 太 + Adj (+ 了); Subj + 也 + Verb Phrase; Subj + 都 + Verb Phrase",
+  "examples": [
+   {
+    "zh": "我很好。",
+    "pinyin": "wǒ hěn hǎo。",
+    "en": "I am very good."
+   },
+   {
+    "zh": "他非常漂亮。",
+    "pinyin": "tā fēi cháng piào liàng。",
+    "en": "She is very beautiful."
+   },
+   {
+    "zh": "太好了！",
+    "pinyin": "tài hǎo le！",
+    "en": "Great!"
+   }
+  ],
+  "drills": [
+   {
+    "type": "fill_blank",
+    "prompt": "她（ ）漂亮。",
+    "options": [
+     "很",
+     "也",
+     "都",
+     "了"
+    ],
+    "answerIndex": 0,
+    "explanation": "很 is used before an adjective to mean 'very'. 也 means 'also', 都 means 'all', 了 is a particle."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "这本书太贵了。Which adverb is used here?",
+    "options": [
+     "很",
+     "非常",
+     "太",
+     "真"
+    ],
+    "answerIndex": 2,
+    "explanation": "太 with 了 indicates an excessive degree. 很/非常/真 can also mean 'very' but lack the 'too' nuance."
+   },
+   {
+    "type": "fill_blank",
+    "prompt": "我（ ）是学生。",
+    "options": [
+     "都",
+     "也",
+     "很",
+     "太"
+    ],
+    "answerIndex": 1,
+    "explanation": "也 means 'also', used before the verb. 都 means 'all', 很 and 太 modify adjectives."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "我们（ ）喜欢学习。",
+    "options": [
+     "很",
+     "也",
+     "都",
+     "太"
+    ],
+    "answerIndex": 2,
+    "explanation": "都 means 'all' and is used before the verb to indicate the subject collectively. 很/太 are for adjectives, 也 for 'also'."
+   }
+  ]
+ },
+ {
+  "id": "g-1-10",
+  "level": "1",
+  "category": "Other",
+  "nameZh": "和",
+  "nameEn": "and (conjunction)",
+  "explanation": "和 is a conjunction used to connect two nouns or noun phrases, meaning 'and'.",
+  "structuralForm": "A+和+B",
+  "examples": [
+   {
+    "zh": "我和他都学习汉语。",
+    "pinyin": "wǒ hé tā dōu xué xí hàn yǔ。",
+    "en": "He and I both study Chinese."
+   },
+   {
+    "zh": "苹果和香蕉是水果。",
+    "pinyin": "píng guǒ hé xiāng jiāo shì shuǐ guǒ。",
+    "en": "Apples and bananas are fruits."
+   },
+   {
+    "zh": "爸爸和妈妈去商店。",
+    "pinyin": "bà bà hé mā mā qù shāng diàn。",
+    "en": "Dad and Mom go to the store."
+   }
+  ],
+  "drills": [
+   {
+    "type": "fill_blank",
+    "prompt": "我（ ）你都是学生。",
+    "options": [
+     "和",
+     "的",
+     "了",
+     "在"
+    ],
+    "answerIndex": 0,
+    "explanation": "和 connects the nouns '我' and '你' to mean 'both you and I'."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "选择合适的词语：他（ ）我是朋友。",
+    "options": [
+     "和",
+     "的",
+     "了",
+     "在"
+    ],
+    "answerIndex": 0,
+    "explanation": "和 connects '他' and '我' to mean 'he and I'."
+   },
+   {
+    "type": "fill_blank",
+    "prompt": "猫（ ）狗都是动物。",
+    "options": [
+     "和",
+     "的",
+     "了",
+     "在"
+    ],
+    "answerIndex": 0,
+    "explanation": "和 connects '猫' and '狗' to mean 'cats and dogs'."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "选择合适的词语：爸爸（ ）妈妈工作。",
+    "options": [
+     "和",
+     "的",
+     "了",
+     "在"
+    ],
+    "answerIndex": 0,
+    "explanation": "和 connects '爸爸' and '妈妈' to mean 'dad and mom'."
+   }
+  ]
+ },
+ {
+  "id": "g-1-11",
+  "level": "1",
+  "category": "Particles",
+  "nameZh": "的（表领属）",
+  "nameEn": "Possessive particle 的",
+  "explanation": "The particle 的 is used after a pronoun or noun to indicate possession, similar to 's in English.",
+  "structuralForm": "代词/名词 + 的 + 名词",
+  "examples": [
+   {
+    "zh": "我的书包",
+    "pinyin": "wǒ de shū bāo",
+    "en": "My bag"
+   },
+   {
+    "zh": "你的书",
+    "pinyin": "nǐ de shū",
+    "en": "Your book"
+   },
+   {
+    "zh": "妈妈的手机",
+    "pinyin": "mā mā de shǒu jī",
+    "en": "Mom's phone"
+   }
+  ],
+  "drills": [
+   {
+    "type": "fill_blank",
+    "prompt": "这是（ ）书。",
+    "options": [
+     "我",
+     "我的",
+     "你",
+     "的"
+    ],
+    "answerIndex": 1,
+    "explanation": "Possession requires 的 after the pronoun '我'."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "Which sentence means 'my teacher'?",
+    "options": [
+     "我是老师",
+     "我的老师",
+     "我老师",
+     "老师我"
+    ],
+    "answerIndex": 1,
+    "explanation": "'我的老师' is the correct possessive form."
+   },
+   {
+    "type": "fill_blank",
+    "prompt": "（ ）猫很可爱。",
+    "options": [
+     "他",
+     "他的",
+     "她",
+     "你的"
+    ],
+    "answerIndex": 1,
+    "explanation": "'他的' means 'his' and fits the gap."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "Select the correct phrase for 'mom's bag'.",
+    "options": [
+     "妈妈书包",
+     "妈妈的包的",
+     "妈妈的书包",
+     "书包妈妈"
+    ],
+    "answerIndex": 2,
+    "explanation": "'妈妈的书包' uses 的 correctly to show possession."
+   }
+  ]
+ },
+ {
+  "id": "g-1-12",
+  "level": "1",
+  "category": "Particles",
+  "nameZh": "语气助词“了”",
+  "nameEn": "Modal particle 'le'",
+  "explanation": "Used at the end of a sentence to indicate a change of state or a new situation.",
+  "structuralForm": "Clause + 了",
+  "examples": [
+   {
+    "zh": "他去医院了。",
+    "pinyin": "tā qù yī yuàn le。",
+    "en": "He went to the hospital."
+   },
+   {
+    "zh": "我吃饭了。",
+    "pinyin": "wǒ chī fàn le。",
+    "en": "I ate (have eaten)."
+   },
+   {
+    "zh": "他来了。",
+    "pinyin": "tā lái le。",
+    "en": "He has come."
+   }
+  ],
+  "drills": [
+   {
+    "type": "fill_blank",
+    "prompt": "他（ ）医院。",
+    "options": [
+     "去",
+     "去了",
+     "去吗",
+     "没去"
+    ],
+    "answerIndex": 1,
+    "explanation": "The sentence needs '了' to indicate a change (he went)."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "Choose the correct sentence to express 'I have eaten.'",
+    "options": [
+     "我吃饭。",
+     "我吃饭了。",
+     "我吃饭吗。",
+     "我没吃饭。"
+    ],
+    "answerIndex": 1,
+    "explanation": "'了' shows completion of the action eating."
+   },
+   {
+    "type": "fill_blank",
+    "prompt": "昨天他（ ）。",
+    "options": [
+     "来",
+     "来了",
+     "不来",
+     "来吗"
+    ],
+    "answerIndex": 1,
+    "explanation": "'了' marks the occurrence of 'coming' in the past."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "Choose the correct sentence to express 'Now he is at the hospital (new state).'",
+    "options": [
+     "他在医院了。",
+     "他在医院。",
+     "他在医院吗。",
+     "他不在医院。"
+    ],
+    "answerIndex": 0,
+    "explanation": "'了' indicates a change to being at the hospital."
+   }
+  ]
+ },
+ {
+  "id": "g-1-13",
+  "level": "1",
+  "category": "Verbs",
+  "nameZh": "动词谓语句：“是”字句“有”字句",
+  "nameEn": "Verb-Predicate Sentences: Shi and You Sentences",
+  "explanation": "In Chinese, '是' (to be) and '有' (to have) are used as main verbs in subject-verb-object sentences. '是' asserts identity or attributes, while '有' indicates possession or existence. Negate '是' with '不是', and '有' with '没有'.",
+  "structuralForm": "主语 + 是/有 + 宾语；主语 + 不是/没有 + 宾语",
+  "examples": [
+   {
+    "zh": "她是老师。",
+    "pinyin": "tā shì lǎo shī。",
+    "en": "She is a teacher."
+   },
+   {
+    "zh": "他有一个哥哥。",
+    "pinyin": "tā yǒu yí gè gē gē。",
+    "en": "He has an older brother."
+   },
+   {
+    "zh": "我没有猫。",
+    "pinyin": "wǒ méi yǒu māo。",
+    "en": "I don't have a cat."
+   }
+  ],
+  "drills": [
+   {
+    "type": "fill_blank",
+    "prompt": "我（ ）中国人。",
+    "options": [
+     "是",
+     "有",
+     "不是",
+     "没有"
+    ],
+    "answerIndex": 0,
+    "explanation": "The sentence means 'I am Chinese.' Use '是' to express identity."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "他（ ）一本书。",
+    "options": [
+     "是",
+     "有",
+     "不是",
+     "没有"
+    ],
+    "answerIndex": 1,
+    "explanation": "The sentence means 'He has a book.' Use '有' to indicate possession."
+   },
+   {
+    "type": "fill_blank",
+    "prompt": "她（ ）老师，她是学生。",
+    "options": [
+     "是",
+     "有",
+     "不是",
+     "没有"
+    ],
+    "answerIndex": 2,
+    "explanation": "The sentence means 'She is not a teacher; she is a student.' Use '不是' for negation of '是'."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "我（ ）钱。",
+    "options": [
+     "是",
+     "有",
+     "不是",
+     "没有"
+    ],
+    "answerIndex": 3,
+    "explanation": "The sentence means 'I don't have money.' Use '没有' to negate '有'."
+   }
+  ]
+ },
+ {
+  "id": "g-1-14",
+  "level": "1",
+  "category": "Sentence patterns",
+  "nameZh": "形容词谓语句",
+  "nameEn": "Adjective Predicate Sentence",
+  "explanation": "In Chinese, adjectives can directly serve as predicates without a linking verb. An adverb like 很 is often placed before the adjective to soften the tone, though it may not always mean 'very'.",
+  "structuralForm": "主语 + 副词(很/非常) + 形容词",
+  "examples": [
+   {
+    "zh": "我很高兴。",
+    "pinyin": "wǒ hěn gāo xìng。",
+    "en": "I am happy."
+   },
+   {
+    "zh": "马力非常漂亮。",
+    "pinyin": "mǎ lì fēi cháng piào liàng。",
+    "en": "Mali is very beautiful."
+   },
+   {
+    "zh": "这个苹果很大。",
+    "pinyin": "zhè ge píng guǒ hěn dà。",
+    "en": "This apple is big."
+   }
+  ],
+  "drills": [
+   {
+    "type": "fill_blank",
+    "prompt": "我___高兴。",
+    "options": [
+     "很",
+     "是",
+     "有",
+     "在"
+    ],
+    "answerIndex": 0,
+    "explanation": "The adjective '高兴' needs an adverb like 很 before it; '是' is a verb 'to be', which is not used here."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "Which sentence uses an adjective predicate correctly?",
+    "options": [
+     "他是高兴。",
+     "他很高兴。",
+     "他有高兴。",
+     "他在高兴。"
+    ],
+    "answerIndex": 1,
+    "explanation": "Adjective predicates need an adverb like 很; '是' is incorrect, '有' means 'have', '在' indicates location or continuous action."
+   },
+   {
+    "type": "fill_blank",
+    "prompt": "她___漂亮。",
+    "options": [
+     "非常",
+     "是",
+     "有",
+     "了"
+    ],
+    "answerIndex": 0,
+    "explanation": "非常 is an adverb meaning 'very', correct before adjective; 了 indicates change or completion, not needed here."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "Which word should fill the blank? 这个苹果___大。",
+    "options": [
+     "很",
+     "是",
+     "有",
+     "不"
+    ],
+    "answerIndex": 0,
+    "explanation": "很 is used before adjectives in affirmative sentences; '不' would make it negative, but the sentence is affirmative."
+   }
+  ]
+ },
+ {
+  "id": "g-1-15",
+  "level": "1",
+  "category": "Sentence patterns",
+  "nameZh": "名词谓语句",
+  "nameEn": "Noun Predicate Sentence",
+  "explanation": "In Chinese, nouns or noun phrases can directly serve as predicates without a verb. This structure is commonly used to state age, time, date, day of week, price, etc. The subject and predicate are simply juxtaposed.",
+  "structuralForm": "Subject + Noun Phrase (age/time/day/date/price)",
+  "examples": [
+   {
+    "zh": "我20岁。",
+    "pinyin": "wǒ20suì。",
+    "en": "I am 20 years old."
+   },
+   {
+    "zh": "今天星期日。",
+    "pinyin": "jīn tiān xīng qī rì。",
+    "en": "Today is Sunday."
+   },
+   {
+    "zh": "这本词典20块钱。",
+    "pinyin": "zhè běn cí diǎn20kuài qián。",
+    "en": "This dictionary is 20 yuan."
+   }
+  ],
+  "drills": [
+   {
+    "type": "fill_blank",
+    "prompt": "我（ ）。",
+    "options": [
+     "20岁",
+     "是20岁",
+     "20岁了",
+     "20"
+    ],
+    "answerIndex": 0,
+    "explanation": "In a noun predicate sentence, the noun phrase directly follows the subject without 是."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "Choose the correct sentence to say 'Today is Sunday.'",
+    "options": [
+     "今天星期日。",
+     "今天是星期日。",
+     "今天有星期日。",
+     "今天在星期日。"
+    ],
+    "answerIndex": 0,
+    "explanation": "The noun predicate structure does not use the verb 是."
+   },
+   {
+    "type": "fill_blank",
+    "prompt": "现在（ ）。",
+    "options": [
+     "两点半",
+     "是两点半",
+     "有两点半",
+     "在两点半"
+    ],
+    "answerIndex": 0,
+    "explanation": "Time can be directly predicated without a verb."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "Choose the correct sentence to say 'This dictionary is 20 yuan.'",
+    "options": [
+     "这本词典20块钱。",
+     "这本词典是20块钱。",
+     "这本词典有20块钱。",
+     "这本词典20块。"
+    ],
+    "answerIndex": 0,
+    "explanation": "Price is expressed with a noun phrase directly after the subject."
+   }
+  ]
+ },
+ {
+  "id": "g-1-16",
+  "level": "1",
+  "category": "Other",
+  "nameZh": "否定句:“不”“没”",
+  "nameEn": "Negation: 不 and 没",
+  "explanation": "不 negates verbs and adjectives in the present or future; 没（有）negates verbs in the past or negates possession (有).",
+  "structuralForm": "主语+不/没有+动词/形容词",
+  "examples": [
+   {
+    "zh": "我不是韩国人。",
+    "pinyin": "wǒ bú shì hán guó rén。",
+    "en": "I am not Korean."
+   },
+   {
+    "zh": "昨天我没来。",
+    "pinyin": "zuó tiān wǒ méi lái。",
+    "en": "Yesterday I didn't come."
+   },
+   {
+    "zh": "我没有猫。",
+    "pinyin": "wǒ méi yǒu māo。",
+    "en": "I don't have a cat."
+   }
+  ],
+  "drills": [
+   {
+    "type": "fill_blank",
+    "prompt": "我___是学生。",
+    "options": [
+     "不",
+     "没",
+     "很",
+     "也"
+    ],
+    "answerIndex": 0,
+    "explanation": "不 is used to negate present tense verbs like 是."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "Which word correctly completes the sentence? 昨天我___去学校。",
+    "options": [
+     "不",
+     "没",
+     "很",
+     "也"
+    ],
+    "answerIndex": 1,
+    "explanation": "没 is used to negate past actions."
+   },
+   {
+    "type": "fill_blank",
+    "prompt": "他___有汉语书。",
+    "options": [
+     "不",
+     "没",
+     "很",
+     "也"
+    ],
+    "answerIndex": 1,
+    "explanation": "没 negates possession before 有."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "Which word correctly completes the sentence? 她___高兴。",
+    "options": [
+     "不",
+     "没",
+     "很",
+     "也"
+    ],
+    "answerIndex": 0,
+    "explanation": "不 negates adjectives in present tense."
+   }
+  ]
+ },
+ {
+  "id": "g-1-17",
+  "level": "1",
+  "category": "Sentence patterns",
+  "nameZh": "祈使句（表示礼貌请求）",
+  "nameEn": "Imperative Sentences for Polite Requests",
+  "explanation": "This pattern uses 请 before a verb to make a polite request or invitation. It is commonly used in everyday interactions.",
+  "structuralForm": "请 + Verb!",
+  "examples": [
+   {
+    "zh": "请进！",
+    "pinyin": "qǐng jìn！",
+    "en": "Please come in!"
+   },
+   {
+    "zh": "请坐！",
+    "pinyin": "qǐng zuò！",
+    "en": "Please sit down!"
+   },
+   {
+    "zh": "请喝茶！",
+    "pinyin": "qǐng hē chá！",
+    "en": "Please have some tea!"
+   }
+  ],
+  "drills": [
+   {
+    "type": "fill_blank",
+    "prompt": "你来了！快（ ）！",
+    "options": [
+     "请进",
+     "进请",
+     "请你进",
+     "请"
+    ],
+    "answerIndex": 0,
+    "explanation": "The correct form is '请进' (please come in), following the pattern 请 + verb."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "如何礼貌地邀请别人坐下？",
+    "options": [
+     "请坐",
+     "坐请",
+     "你坐",
+     "坐下"
+    ],
+    "answerIndex": 0,
+    "explanation": "The polite request is '请坐' (please sit down), using 请 before the verb 坐."
+   },
+   {
+    "type": "fill_blank",
+    "prompt": "请（ ）！这里有一杯茶。",
+    "options": [
+     "请喝茶",
+     "喝茶请",
+     "请喝",
+     "喝"
+    ],
+    "answerIndex": 0,
+    "explanation": "The full phrase is '请喝茶' (please drink tea), with 请 before the verb 喝 and object 茶."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "哪个句子是礼貌地请求别人进来？",
+    "options": [
+     "进请",
+     "请进",
+     "你进来",
+     "进来"
+    ],
+    "answerIndex": 1,
+    "explanation": "Only '请进' (please come in) correctly places 请 before the verb 进."
+   }
+  ]
+ },
+ {
+  "id": "g-1-18",
+  "level": "1",
+  "category": "Sentence patterns",
+  "nameZh": "感叹句",
+  "nameEn": "Exclamatory Sentences",
+  "explanation": "Exclamatory sentences express strong emotion. '真 + adjective!' is used for present exclamations, while '太 + adjective + 了!' emphasizes excessiveness or intensity.",
+  "structuralForm": "真 + Adjective! / 太 + Adjective + 了!",
+  "examples": [
+   {
+    "zh": "这本书真好！",
+    "pinyin": "zhè běn shū zhēn hǎo！",
+    "en": "This book is really good!"
+   },
+   {
+    "zh": "这个苹果太大了！",
+    "pinyin": "zhè ge píng guǒ tài dà le！",
+    "en": "This apple is too big!"
+   }
+  ],
+  "drills": [
+   {
+    "type": "fill_blank",
+    "prompt": "今天天气（ ）好！",
+    "options": [
+     "太",
+     "真",
+     "很",
+     "非常"
+    ],
+    "answerIndex": 1,
+    "explanation": "'真 + adjective' is used for exclamations. Here '真好' means 'really good'."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "Which sentence is a correct exclamation using '太...了'?",
+    "options": [
+     "太漂亮",
+     "太漂亮了",
+     "太漂亮吗",
+     "太漂亮吧"
+    ],
+    "answerIndex": 1,
+    "explanation": "'太 + adjective + 了' is the correct pattern for exclamations."
+   },
+   {
+    "type": "fill_blank",
+    "prompt": "这件衣服（ ）贵了！",
+    "options": [
+     "真",
+     "非常",
+     "太",
+     "很"
+    ],
+    "answerIndex": 2,
+    "explanation": "'太 + adjective + 了' indicates excessiveness. '太贵了' means 'too expensive'."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "Choose the correct exclamation for 'This movie is really interesting.'",
+    "options": [
+     "这部电影真好！",
+     "这部电影真有趣！",
+     "这部电影太有趣了！",
+     "以上都对"
+    ],
+    "answerIndex": 3,
+    "explanation": "Both '真有趣' and '太有趣了' are correct exclamations. '真好' is also possible but less specific."
+   }
+  ]
+ },
+ {
+  "id": "g-1-19",
+  "level": "1",
+  "category": "Sentence patterns",
+  "nameZh": "疑问句",
+  "nameEn": "Interrogative Sentences",
+  "explanation": "Chinese interrogative sentences include yes/no questions with 吗 and wh-questions with question words like 什么, 谁, 哪儿, 几, 多少, 多, 怎么, 怎么样. The word order remains the same as statements.",
+  "structuralForm": "Subject + Predicate + 吗? / Subject + Verb + Question Word?",
+  "examples": [
+   {
+    "zh": "他是学生吗？",
+    "pinyin": "tā shì xué shēng ma？",
+    "en": "Is he a student?"
+   },
+   {
+    "zh": "你叫什么？",
+    "pinyin": "nǐ jiào shén me？",
+    "en": "What is your name?"
+   },
+   {
+    "zh": "你去哪儿？",
+    "pinyin": "nǐ qù nǎ ér？",
+    "en": "Where are you going?"
+   }
+  ],
+  "drills": [
+   {
+    "type": "fill_blank",
+    "prompt": "你（ ）名字？",
+    "options": [
+     "什么",
+     "吗",
+     "怎么",
+     "哪儿"
+    ],
+    "answerIndex": 0,
+    "explanation": "Use 什么 to ask 'what' about a noun like name."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "Choose the correct question to ask 'How old are you?':",
+    "options": [
+     "你多大",
+     "你多少",
+     "你什么大",
+     "你几大"
+    ],
+    "answerIndex": 0,
+    "explanation": "Use 多+adjective to ask about age: 你多大？"
+   },
+   {
+    "type": "fill_blank",
+    "prompt": "你是学生（ ）？",
+    "options": [
+     "吗",
+     "呢",
+     "什么",
+     "谁"
+    ],
+    "answerIndex": 0,
+    "explanation": "吗 turns a statement into a yes/no question."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "Which question asks 'Where are you from?':",
+    "options": [
+     "你是哪国人",
+     "你是什么人",
+     "你哪儿人",
+     "你谁人"
+    ],
+    "answerIndex": 0,
+    "explanation": "哪 (nǎ) + measure word asks 'which', 哪国人 means 'which country's person'."
+   }
+  ]
+ }
+]

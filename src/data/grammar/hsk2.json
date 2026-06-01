@@ -1,0 +1,2620 @@
+[
+ {
+  "id": "g-2-01",
+  "level": "2",
+  "category": "Nouns",
+  "nameZh": "方位名词",
+  "nameEn": "Location Nouns",
+  "explanation": "These nouns indicate position or direction, such as 上 (up/on), 下 (down/under), 左 (left), 右 (right), 前 (front), 后 (back). They are often used after a noun with 在 to form a location phrase.",
+  "structuralForm": "在 + Noun + 上/下/左/右/前/后",
+  "examples": [
+   {
+    "zh": "书在桌子上。",
+    "pinyin": "shū zài zhuō zi shàng。",
+    "en": "The book is on the table."
+   },
+   {
+    "zh": "猫在椅子下。",
+    "pinyin": "māo zài yǐ zi xià。",
+    "en": "The cat is under the chair."
+   },
+   {
+    "zh": "她在我的左边。",
+    "pinyin": "tā zài wǒ de zuǒ biān。",
+    "en": "She is on my left."
+   }
+  ],
+  "drills": [
+   {
+    "type": "fill_blank",
+    "prompt": "猫在桌子（   ）。",
+    "options": [
+     "上",
+     "下",
+     "左",
+     "右"
+    ],
+    "answerIndex": 1,
+    "explanation": "Cats often hide under tables, so '下' (under) is correct."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "选择正确的方位词：学校在银行的（   ）。",
+    "options": [
+     "上",
+     "左",
+     "下",
+     "后"
+    ],
+    "answerIndex": 1,
+    "explanation": "'左' means left; common phrase '在左边'."
+   },
+   {
+    "type": "fill_blank",
+    "prompt": "请把书放在桌子（   ）。",
+    "options": [
+     "上",
+     "下",
+     "前",
+     "后"
+    ],
+    "answerIndex": 0,
+    "explanation": "'上' means on top; books are placed on a table."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "我站在她的（   ）。",
+    "options": [
+     "左边",
+     "上边",
+     "下边",
+     "后边"
+    ],
+    "answerIndex": 0,
+    "explanation": "'左边' means left side; the sentence requires a side direction word."
+   }
+  ]
+ },
+ {
+  "id": "g-2-02",
+  "level": "2",
+  "category": "Prepositions",
+  "nameZh": "方位名词短语",
+  "nameEn": "Location Noun Phrases",
+  "explanation": "Location nouns like 上边, 下边, 前边, 后边, 左边, 右边, 旁边 are placed after a noun to indicate position. The pattern is: Noun + Location Noun.",
+  "structuralForm": "名词 + 方位名词 (e.g. 桌子上, 银行前边, 学校西边)",
+  "examples": [
+   {
+    "zh": "我的书在桌子上。",
+    "pinyin": "wǒ de shū zài zhuō zi shàng。",
+    "en": "My book is on the table."
+   },
+   {
+    "zh": "银行前边有一家超市。",
+    "pinyin": "yín háng qián biān yǒu yī jiā chāo shì。",
+    "en": "There is a supermarket in front of the bank."
+   },
+   {
+    "zh": "学校西边有一个公园。",
+    "pinyin": "xué xiào xī biān yǒu yí gè gōng yuán。",
+    "en": "There is a park to the west of the school."
+   }
+  ],
+  "drills": [
+   {
+    "type": "fill_blank",
+    "prompt": "小猫在椅子（ ）。",
+    "options": [
+     "上边",
+     "下边",
+     "旁边",
+     "里边"
+    ],
+    "answerIndex": 0,
+    "explanation": "The correct location noun is 上边 because the cat is on the chair."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "Which is the correct way to say 'next to the bank'?",
+    "options": [
+     "银行旁边",
+     "旁边银行",
+     "银行边",
+     "边银行"
+    ],
+    "answerIndex": 0,
+    "explanation": "The correct pattern is Noun + Location Noun: 银行 + 旁边."
+   },
+   {
+    "type": "fill_blank",
+    "prompt": "超市在学校的（ ）。",
+    "options": [
+     "旁边",
+     "上边",
+     "下边",
+     "后边"
+    ],
+    "answerIndex": 0,
+    "explanation": "旁边 means 'next to', which fits the context of a supermarket near the school."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "Which sentence correctly uses a location noun phrase?",
+    "options": [
+     "桌子上有一本书。",
+     "书桌子上一本有。",
+     "有一本书桌子上。",
+     "桌子上一本有书。"
+    ],
+    "answerIndex": 0,
+    "explanation": "Only '桌子上有一本书' has the correct word order and location phrase."
+   }
+  ]
+ },
+ {
+  "id": "g-2-03",
+  "level": "2",
+  "category": "Pronouns",
+  "nameZh": "大家、每和指示代词+量词",
+  "nameEn": "Pronouns: 大家, 每, and Demonstrative Pronoun + Measure Word",
+  "explanation": "大家 means 'everyone' or 'all', 每 means 'every' and is used with a measure word to indicate 'each/every', and 这/那 + measure word + noun means 'this/that + (measure word) + noun'.",
+  "structuralForm": "大家 + verb/adjective; 每 + measure word + noun; 这/那 + measure word + noun",
+  "examples": [
+   {
+    "zh": "大家好！",
+    "pinyin": "dà jiā hǎo！",
+    "en": "Hello everyone!"
+   },
+   {
+    "zh": "我每天八点上课。",
+    "pinyin": "wǒ měi tiān bā diǎn shàng kè。",
+    "en": "I have class at eight every day."
+   },
+   {
+    "zh": "这本书是我的。",
+    "pinyin": "zhè běn shū shì wǒ de。",
+    "en": "This book is mine."
+   }
+  ],
+  "drills": [
+   {
+    "type": "fill_blank",
+    "prompt": "（ ）好！",
+    "options": [
+     "大家",
+     "每",
+     "这",
+     "那"
+    ],
+    "answerIndex": 0,
+    "explanation": "大家 means 'everyone' and is used to greet a group."
+   },
+   {
+    "type": "fill_blank",
+    "prompt": "我（ ）天去学校。",
+    "options": [
+     "这",
+     "那",
+     "每",
+     "大家"
+    ],
+    "answerIndex": 2,
+    "explanation": "每 means 'every/each'; 每天 means 'every day'."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "Choose the correct phrase: （ ）是我的老师。",
+    "options": [
+     "那个人",
+     "大家",
+     "每",
+     "这本"
+    ],
+    "answerIndex": 0,
+    "explanation": "那个人 means 'that person' combined with demonstrative pronoun 那 and measure word 个."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "Choose the correct word: 你看，（ ）本书在这里。",
+    "options": [
+     "这",
+     "那",
+     "每",
+     "大家"
+    ],
+    "answerIndex": 0,
+    "explanation": "这 indicates something close to the speaker; 这本书 means 'this book'."
+   }
+  ]
+ },
+ {
+  "id": "g-2-04",
+  "level": "2",
+  "category": "Numbers & measure words",
+  "nameZh": "数词：基数词、序数词、二和两",
+  "nameEn": "Numbers: Cardinal, Ordinal, and Usage of 二 and 两",
+  "explanation": "In Chinese, 二 (èr) is used for cardinal numbers (e.g., 十二, 二十) and in some fixed expressions. 两 (liǎng) is used before measure words (e.g., 两本书, 两斤苹果). For ordinal numbers, use 第 + cardinal number (e.g., 第一, 第二).",
+  "structuralForm": "百、千、万；第一、第二；二/两+度量衡单位+名词；两+一般量词+名词",
+  "examples": [
+   {
+    "zh": "我有一万五千八百块钱。",
+    "pinyin": "wǒ yǒu yī wàn wǔ qiān bā bǎi kuài qián。",
+    "en": "I have 15,800 yuan."
+   },
+   {
+    "zh": "他是第一名。",
+    "pinyin": "tā shì dì yì míng。",
+    "en": "He is the first place."
+   },
+   {
+    "zh": "我要买两斤苹果和两本书。",
+    "pinyin": "wǒ yào mǎi liǎng jīn píng guǒ hé liǎng běn shū。",
+    "en": "I want to buy two jin of apples and two books."
+   }
+  ],
+  "drills": [
+   {
+    "type": "fill_blank",
+    "prompt": "桌子上有（ ）本书。",
+    "options": [
+     "二",
+     "两",
+     "第",
+     "个"
+    ],
+    "answerIndex": 1,
+    "explanation": "Before a general measure word like 本, we use 两, not 二."
+   },
+   {
+    "type": "fill_blank",
+    "prompt": "他考了（ ）名。",
+    "options": [
+     "第一",
+     "一两",
+     "二第",
+     "两一"
+    ],
+    "answerIndex": 0,
+    "explanation": "Ordinal numbers use 第 + cardinal number, so 第一名."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "Which is correct for 'twenty-two'?",
+    "options": [
+     "二十二",
+     "二十两",
+     "两十二",
+     "二两"
+    ],
+    "answerIndex": 0,
+    "explanation": "Cardinal numbers above ten use 二, so 二十二 is correct."
+   },
+   {
+    "type": "fill_blank",
+    "prompt": "这个房间有（ ）百人。",
+    "options": [
+     "二",
+     "两",
+     "第",
+     "个"
+    ],
+    "answerIndex": 0,
+    "explanation": "In numbers like 二百, we use 二 before 百, not 两."
+   }
+  ]
+ },
+ {
+  "id": "g-2-05",
+  "level": "2",
+  "category": "Numbers & measure words",
+  "nameZh": "量词（名量词和动量词）",
+  "nameEn": "Measure Words (Noun and Verb)",
+  "explanation": "Chinese uses measure words between numbers/demonstratives and nouns, and after verbs to indicate frequency or duration. Common noun measure words include 件 (for items), 条 (for long thin objects), 块 (for pieces), 张 (for flat objects), 斤 (for weight). Verb measure words like 次 (time) and 下 (a bit) indicate occurrences or short actions.",
+  "structuralForm": "Number + Measure Word + Noun; Verb + Number + Measure Word (次/下)",
+  "examples": [
+   {
+    "zh": "我有一件衬衫。",
+    "pinyin": "wǒ yǒu yī jiàn chèn shān。",
+    "en": "I have one shirt."
+   },
+   {
+    "zh": "他买了两条裤子。",
+    "pinyin": "tā mǎi le liǎng tiáo kù zi。",
+    "en": "He bought two pants."
+   },
+   {
+    "zh": "我去过一次长城。",
+    "pinyin": "wǒ qù guò yī cì zhǎng chéng。",
+    "en": "I have been to the Great Wall once."
+   }
+  ],
+  "drills": [
+   {
+    "type": "fill_blank",
+    "prompt": "我吃了三（ ）面包。",
+    "options": [
+     "件",
+     "条",
+     "块",
+     "张"
+    ],
+    "answerIndex": 2,
+    "explanation": "块 is used for piece-shaped items like bread."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "Which is correct for 'two sheets of paper'?",
+    "options": [
+     "两张纸",
+     "两条纸",
+     "两块纸",
+     "两件纸"
+    ],
+    "answerIndex": 0,
+    "explanation": "张 is used for flat items like paper."
+   },
+   {
+    "type": "fill_blank",
+    "prompt": "我打了他两（ ）。",
+    "options": [
+     "次",
+     "下",
+     "件",
+     "条"
+    ],
+    "answerIndex": 1,
+    "explanation": "下 is a verb measure word for brief actions like hitting."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "Which sentence means 'I have been to Shanghai three times'?",
+    "options": [
+     "我去过上海三次。",
+     "我去过上海三下。",
+     "我去过上海三件。",
+     "我去过上海三条。"
+    ],
+    "answerIndex": 0,
+    "explanation": "次 is used for number of times."
+   }
+  ]
+ },
+ {
+  "id": "g-2-06",
+  "level": "2",
+  "category": "Verbs",
+  "nameZh": "觉得、希望",
+  "nameEn": "Expressing opinions and wishes: juéde and xīwàng",
+  "explanation": "Use '觉得' to express an opinion or feeling, and '希望' to express a wish or hope. Both are followed by a verb phrase, adjective phrase, or clause.",
+  "structuralForm": "Subject + 觉得 + Verb Phrase / Adjective Phrase / Clause\nSubject + 希望 + Verb Phrase / Clause",
+  "examples": [
+   {
+    "zh": "我觉得这件衣服很漂亮。",
+    "pinyin": "wǒ jué de zhè jiàn yī fú hěn piào liàng。",
+    "en": "I think this dress is very beautiful."
+   },
+   {
+    "zh": "妈妈希望我早点回家。",
+    "pinyin": "mā mā xī wàng wǒ zǎo diǎn huí jiā。",
+    "en": "Mom hopes I come home early."
+   },
+   {
+    "zh": "我觉得今天有点冷。",
+    "pinyin": "wǒ jué de jīn tiān yǒu diǎn lěng。",
+    "en": "I feel a bit cold today."
+   }
+  ],
+  "drills": [
+   {
+    "type": "fill_blank",
+    "prompt": "我（ ）他身体健康。",
+    "options": [
+     "觉得",
+     "希望",
+     "知道",
+     "喜欢"
+    ],
+    "answerIndex": 1,
+    "explanation": "'希望' is used to express a wish, so '我希望他身体健康' means 'I hope he is healthy.'"
+   },
+   {
+    "type": "choose_form",
+    "prompt": "你想表达'我认为这个电影不好看'，应该用哪个词？",
+    "options": [
+     "觉得",
+     "希望",
+     "知道",
+     "以为"
+    ],
+    "answerIndex": 0,
+    "explanation": "'觉得' is used to give an opinion, like '我觉得这个电影不好看'."
+   },
+   {
+    "type": "fill_blank",
+    "prompt": "她（ ）自己明天能来上课。",
+    "options": [
+     "觉得",
+     "希望",
+     "能",
+     "可以"
+    ],
+    "answerIndex": 1,
+    "explanation": "'她希望自己明天能来上课' means 'She hopes she can come to class tomorrow.' Only '希望' fits the wish meaning."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "你看到朋友很累，你想说'我认为你需要休息'，应该用：",
+    "options": [
+     "我觉得你需要休息",
+     "我希望你需要休息",
+     "我知道你需要休息",
+     "我喜欢你需要休息"
+    ],
+    "answerIndex": 0,
+    "explanation": "'我觉得' expresses your opinion, so '我觉得你需要休息' is correct."
+   }
+  ]
+ },
+ {
+  "id": "g-2-07",
+  "level": "2",
+  "category": "Verbs",
+  "nameZh": "助动词：要、可以、可能",
+  "nameEn": "Modal Verbs: yào, kěyǐ, kěnéng",
+  "explanation": "These modal verbs indicate necessity or desire (要), permission (可以), and possibility (可能). They are placed before the main verb or clause.",
+  "structuralForm": "主语 + 要/可以/可能 + 动词（短语）/小句",
+  "examples": [
+   {
+    "zh": "她要去图书馆。",
+    "pinyin": "tā yào qù tú shū guǎn。",
+    "en": "She wants to go to the library."
+   },
+   {
+    "zh": "这儿可以拍照。",
+    "pinyin": "zhè ér kě yǐ pāi zhào。",
+    "en": "You can take photos here."
+   },
+   {
+    "zh": "明天可能下雨。",
+    "pinyin": "míng tiān kě néng xià yǔ。",
+    "en": "It may rain tomorrow."
+   }
+  ],
+  "drills": [
+   {
+    "type": "fill_blank",
+    "prompt": "你 ____ 说中文。",
+    "options": [
+     "要",
+     "可以",
+     "可能",
+     "会"
+    ],
+    "answerIndex": 1,
+    "explanation": "This sentence gives permission, so '可以' is correct."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "明天 ____ 是晴天。",
+    "options": [
+     "要",
+     "可以",
+     "可能",
+     "会"
+    ],
+    "answerIndex": 2,
+    "explanation": "This expresses possibility, so '可能' is correct."
+   },
+   {
+    "type": "fill_blank",
+    "prompt": "我 ____ 去北京。",
+    "options": [
+     "要",
+     "可以",
+     "可能",
+     "想"
+    ],
+    "answerIndex": 0,
+    "explanation": "This expresses a desire or plan, so '要' is correct."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "这儿 ____ 吸烟吗？",
+    "options": [
+     "要",
+     "可以",
+     "可能",
+     "会"
+    ],
+    "answerIndex": 1,
+    "explanation": "This asks for permission, so '可以' is correct."
+   }
+  ]
+ },
+ {
+  "id": "g-2-08",
+  "level": "2",
+  "category": "Verbs",
+  "nameZh": "离合词",
+  "nameEn": "Separable Verbs",
+  "explanation": "Separable verbs in Chinese are verb-object compounds that can be split, allowing insertion of aspect markers, complements, or measure words between the verb and object. For example, 游泳 becomes 游了一次泳.",
+  "structuralForm": "V + (了/过/着/Num+Measure word) + O",
+  "examples": [
+   {
+    "zh": "我昨天唱了一首歌。",
+    "pinyin": "wǒ zuó tiān chàng le yī shǒu gē。",
+    "en": "I sang a song yesterday."
+   },
+   {
+    "zh": "他每天游一次泳。",
+    "pinyin": "tā měi tiān yóu yī cì yǒng。",
+    "en": "He swims once a day."
+   },
+   {
+    "zh": "她正在跳着舞。",
+    "pinyin": "tā zhèng zài tiào zhe wǔ。",
+    "en": "She is dancing right now."
+   }
+  ],
+  "drills": [
+   {
+    "type": "fill_blank",
+    "prompt": "他今天（ ）。",
+    "options": [
+     "游了一次泳",
+     "游泳了一次",
+     "一次游泳了",
+     "游泳了"
+    ],
+    "answerIndex": 0,
+    "explanation": "Separable verb 游泳 requires the verb 游, then 了, then measure word 一次, then object 泳."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "下面哪个句子使用了正确的离合词形式？",
+    "options": [
+     "我昨天唱歌了",
+     "我昨天唱了一次歌",
+     "我昨天唱歌一次",
+     "我昨天唱了歌"
+    ],
+    "answerIndex": 1,
+    "explanation": "The correct pattern for 唱歌 is 唱了一次歌, with measure word inserted."
+   },
+   {
+    "type": "fill_blank",
+    "prompt": "我们明天要（ ）。",
+    "options": [
+     "上一天班",
+     "上班一天",
+     "一天上班",
+     "上班了"
+    ],
+    "answerIndex": 0,
+    "explanation": "For 上班, use verb 上, then measure word 一天, then object 班."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "她每天（ ）。",
+    "options": [
+     "跳一次舞",
+     "跳舞一次",
+     "一次跳舞",
+     "跳舞了"
+    ],
+    "answerIndex": 0,
+    "explanation": "The correct separable form is 跳一次舞, with measure word 一次 between verb and object."
+   }
+  ]
+ },
+ {
+  "id": "g-2-09",
+  "level": "2",
+  "category": "Verbs",
+  "nameZh": "动词重叠",
+  "nameEn": "Verb Reduplication",
+  "explanation": "Verb reduplication (VV or V一V) indicates a short duration or a tentative action, often meaning 'do something a little' or 'try doing something'.",
+  "structuralForm": "VV / V 一 V",
+  "examples": [
+   {
+    "zh": "我试试这件衣服。",
+    "pinyin": "wǒ shì shì zhè jiàn yī fú。",
+    "en": "I'll try this clothes."
+   },
+   {
+    "zh": "你看一看那本书。",
+    "pinyin": "nǐ kàn yī kàn nà běn shū。",
+    "en": "You take a look at that book."
+   },
+   {
+    "zh": "我们聊聊天吧。",
+    "pinyin": "wǒ men liáo liáo tiān ba。",
+    "en": "Let's chat a while."
+   }
+  ],
+  "drills": [
+   {
+    "type": "fill_blank",
+    "prompt": "你（ ）这件衣服，看看合不合适。",
+    "options": [
+     "试试",
+     "试一下",
+     "试试看",
+     "试一试"
+    ],
+    "answerIndex": 3,
+    "explanation": "'试一试' is the V一V form suitable for a tentative action. The other options are less standard for this structure."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "选择正确的动词重叠形式：我想（ ）你的手机。",
+    "options": [
+     "看看",
+     "看了看",
+     "看一看",
+     "看看看"
+    ],
+    "answerIndex": 2,
+    "explanation": "'看一看' is the V一V form meaning 'take a look'. '看看' is also possible but the pattern here requires V一V. '看了看' is past, '看看看' is wrong."
+   },
+   {
+    "type": "fill_blank",
+    "prompt": "我们（ ）吧，别太累了。",
+    "options": [
+     "休息休息",
+     "休息一休息",
+     "休息休息吧",
+     "休息一下吧"
+    ],
+    "answerIndex": 0,
+    "explanation": "'休息休息' is the VV form meaning 'rest a bit'. The others are incorrect forms."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "选择正确的表达：他（ ）那本书，觉得很有意思。",
+    "options": [
+     "看看",
+     "看了看",
+     "看一看",
+     "看了看"
+    ],
+    "answerIndex": 3,
+    "explanation": "'看了看' is the past tense of V一V, indicating a completed short action. '看看' is present/future, '看了看' is wrong reduplication, '看一看' is present."
+   }
+  ]
+ },
+ {
+  "id": "g-2-10",
+  "level": "2",
+  "category": "Other",
+  "nameZh": "形容词重叠",
+  "nameEn": "Adjective Reduplication",
+  "explanation": "Adjectives can be reduplicated to describe a state or condition, making descriptions more vivid. AA pattern (e.g., 高高) and AABB pattern (e.g., 干干净净) are common. Typically used with 的 at the end.",
+  "structuralForm": "AA的 / AABB的",
+  "examples": [
+   {
+    "zh": "他个子高高的。",
+    "pinyin": "tā gè zi gāo gāo de。",
+    "en": "He is tall."
+   },
+   {
+    "zh": "她的眼睛大大的。",
+    "pinyin": "tā de yǎn jīng dà dà de。",
+    "en": "Her eyes are big."
+   },
+   {
+    "zh": "他的房间干干净净的。",
+    "pinyin": "tā de fáng jiān gān gān jìng jìng de。",
+    "en": "His room is spotless."
+   }
+  ],
+  "drills": [
+   {
+    "type": "fill_blank",
+    "prompt": "他的头发（ ）的。",
+    "options": [
+     "长长",
+     "长",
+     "很长",
+     "真长"
+    ],
+    "answerIndex": 0,
+    "explanation": "The reduplicated form 长长 describes the state of being long."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "她穿得（ ）的。",
+    "options": [
+     "很漂亮",
+     "漂亮",
+     "漂漂亮亮",
+     "真漂亮"
+    ],
+    "answerIndex": 2,
+    "explanation": "The AABB pattern 漂漂亮亮 describes the state of being beautiful."
+   },
+   {
+    "type": "fill_blank",
+    "prompt": "教室被同学们打扫得（ ）的。",
+    "options": [
+     "干干净净",
+     "干净",
+     "很干净",
+     "真干净"
+    ],
+    "answerIndex": 0,
+    "explanation": "The AABB pattern 干干净净 describes the state of being clean."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "他个子（ ）。",
+    "options": [
+     "高高",
+     "很高的",
+     "高高的",
+     "高"
+    ],
+    "answerIndex": 2,
+    "explanation": "When reduplicated adjective is used as predicate, it often takes 的. 高高的 is correct here."
+   }
+  ]
+ },
+ {
+  "id": "g-2-11",
+  "level": "2",
+  "category": "Adverbs",
+  "nameZh": "程度副词：最、更",
+  "nameEn": "Degree Adverbs: 最 and 更",
+  "explanation": "最 (zuì) expresses the superlative degree ('the most'), while 更 (gèng) expresses the comparative degree ('more'). Both are placed before adjectives or verbs.",
+  "structuralForm": "最 + Adj / 更 + Adj",
+  "examples": [
+   {
+    "zh": "这件衣服更漂亮。",
+    "pinyin": "zhè jiàn yī fú gèng piào liàng。",
+    "en": "This piece of clothing is more beautiful."
+   },
+   {
+    "zh": "你最棒。",
+    "pinyin": "nǐ zuì bàng。",
+    "en": "You are the best."
+   }
+  ],
+  "drills": [
+   {
+    "type": "fill_blank",
+    "prompt": "这家餐厅的菜（ ）好吃，是全市最好的。",
+    "options": [
+     "最",
+     "更",
+     "很",
+     "太"
+    ],
+    "answerIndex": 0,
+    "explanation": "The sentence means 'the most delicious in the city', so the superlative 最 is correct."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "这件衣服比那件（ ）漂亮。",
+    "options": [
+     "最",
+     "更",
+     "很",
+     "太"
+    ],
+    "answerIndex": 1,
+    "explanation": "The structure '比' indicates comparison, so the comparative 更 is correct."
+   },
+   {
+    "type": "fill_blank",
+    "prompt": "小明跑得（ ）快，他每次都是第一名。",
+    "options": [
+     "更",
+     "最",
+     "很",
+     "多"
+    ],
+    "answerIndex": 1,
+    "explanation": "The phrase '每次都是第一名' implies superlative, so 最 is correct."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "今天比昨天（ ）热。",
+    "options": [
+     "最",
+     "更",
+     "太",
+     "非常"
+    ],
+    "answerIndex": 1,
+    "explanation": "The structure '比' indicates comparison, so the comparative 更 is correct."
+   }
+  ]
+ },
+ {
+  "id": "g-2-12",
+  "level": "2",
+  "category": "Adverbs",
+  "nameZh": "副词“正”或“正在”",
+  "nameEn": "Adverb 'zheng' or 'zhengzai'",
+  "explanation": "正 or 正在 is used before a verb to indicate an action is in progress. It can be used with 呢 at the end for emphasis.",
+  "structuralForm": "正/正在 + Verb(Phrase) (+ 呢)",
+  "examples": [
+   {
+    "zh": "妈妈正在做饭呢。",
+    "pinyin": "mā mā zhèng zài zuò fàn ne。",
+    "en": "Mom is cooking."
+   },
+   {
+    "zh": "我正在看书。",
+    "pinyin": "wǒ zhèng zài kàn shū。",
+    "en": "I am reading a book."
+   },
+   {
+    "zh": "他正打电话呢。",
+    "pinyin": "tā zhèng dǎ diàn huà ne。",
+    "en": "He is on the phone."
+   }
+  ],
+  "drills": [
+   {
+    "type": "fill_blank",
+    "prompt": "他（ ）吃饭呢。",
+    "options": [
+     "正",
+     "在",
+     "了",
+     "过"
+    ],
+    "answerIndex": 0,
+    "explanation": "正 indicates ongoing action, and with 呢 it emphasizes the action in progress. 在 alone is not correct here because the grammar point is 正."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "选择正确的句子。",
+    "options": [
+     "他在写字。",
+     "他正在写字呢。",
+     "他写字了。",
+     "他写字过。"
+    ],
+    "answerIndex": 1,
+    "explanation": "他正在写字呢 uses the pattern 正在...呢 to show action in progress."
+   },
+   {
+    "type": "fill_blank",
+    "prompt": "妈妈（ ）做饭呢。",
+    "options": [
+     "正在",
+     "已经",
+     "可以",
+     "会"
+    ],
+    "answerIndex": 0,
+    "explanation": "正在 is the correct adverb for ongoing action. 已经 means 'already', 可以 means 'can', 会 means 'will'."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "下列哪个句子表示动作正在进行？",
+    "options": [
+     "他正来。",
+     "他正在来。",
+     "他正来呢。",
+     "他正来了。"
+    ],
+    "answerIndex": 2,
+    "explanation": "他正来呢 correctly uses 正 with 呢 to indicate action in progress. The other options are incomplete or incorrect."
+   }
+  ]
+ },
+ {
+  "id": "g-2-13",
+  "level": "2",
+  "category": "Particles",
+  "nameZh": "的（的）字短语",
+  "nameEn": "The particle 的 (phrase with 的)",
+  "explanation": "The particle 的 can be used to form a noun phrase meaning 'the one(s) belonging to...' or 'the one(s) that are...'. It attaches to pronouns, nouns, or adjectives to indicate possession or a specific attribute.",
+  "structuralForm": "noun/pronoun/adj + 的",
+  "examples": [
+   {
+    "zh": "这是她的。",
+    "pinyin": "zhè shì tā de。",
+    "en": "This is hers."
+   },
+   {
+    "zh": "哪个是你的？",
+    "pinyin": "nǎ ge shì nǐ de？",
+    "en": "Which one is yours?"
+   },
+   {
+    "zh": "红的好看。",
+    "pinyin": "hóng de hǎo kàn。",
+    "en": "The red one is pretty."
+   }
+  ],
+  "drills": [
+   {
+    "type": "fill_blank",
+    "prompt": "这本书是（ ）的。",
+    "options": [
+     "我",
+     "我的",
+     "我吗",
+     "我没"
+    ],
+    "answerIndex": 1,
+    "explanation": "The blank needs a possessive form '我的' to mean 'mine'. '我' alone is not possessive, '我吗' is a question tag, '我没' means 'I don't have'."
+   },
+   {
+    "type": "fill_blank",
+    "prompt": "那件衣服是（ ）的。",
+    "options": [
+     "红",
+     "红色",
+     "红红",
+     "红着"
+    ],
+    "answerIndex": 0,
+    "explanation": "The adjective '红' before 的 indicates 'the red one'. '红色' is a noun meaning 'red color', '红红' is reduplicated adjective, '红着' is verb+着."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "桌子上有一本书，那本是（ ）？",
+    "options": [
+     "你的",
+     "你",
+     "你好",
+     "你了"
+    ],
+    "answerIndex": 0,
+    "explanation": "To ask 'Which one is yours?', we need the possessive '你的'. The other options are incomplete or incorrect."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "我想买那个（ ）的。",
+    "options": [
+     "小",
+     "小了",
+     "小地",
+     "小着"
+    ],
+    "answerIndex": 0,
+    "explanation": "Adjective '小' plus 的 means 'the small one'. '小了' is verb+了, '小地' is wrong, '小着' is verb+着."
+   }
+  ]
+ },
+ {
+  "id": "g-2-14",
+  "level": "2",
+  "category": "Particles",
+  "nameZh": "语气助词：了（表变化）",
+  "nameEn": "Modal particle: 了 (indicating change)",
+  "explanation": "了 can be used at the end of a sentence to indicate a change or new situation. It often follows nouns, adjectives, or verbs in structures like 'Noun + 了', 'Adjective + 了', or '要/就要/快要/快 + Verb Phrase + 了'.",
+  "structuralForm": "名词 + 了 / 形容词 + 了 / 要/就要/快要/快 + 动词（短语）+ 了",
+  "examples": [
+   {
+    "zh": "你几岁了？",
+    "pinyin": "nǐ jǐ suì le？",
+    "en": "How old are you?"
+   },
+   {
+    "zh": "几点了？",
+    "pinyin": "jǐ diǎn le？",
+    "en": "What time is it?"
+   },
+   {
+    "zh": "天冷了。",
+    "pinyin": "tiān lěng le。",
+    "en": "The weather has become cold."
+   }
+  ],
+  "drills": [
+   {
+    "type": "choose_form",
+    "prompt": "选择正确的句子表示'我变成学生了'：",
+    "options": [
+     "我是学生了",
+     "我是学生",
+     "我学生了",
+     "我学生"
+    ],
+    "answerIndex": 0,
+    "explanation": "The change is expressed with '了' after the noun phrase. '我是学生了' means 'I am a student now (I wasn't before).'"
+   },
+   {
+    "type": "fill_blank",
+    "prompt": "他的病好（ ）。",
+    "options": [
+     "了",
+     "吗",
+     "呢",
+     "的"
+    ],
+    "answerIndex": 0,
+    "explanation": "The sentence indicates a change: his illness has gotten better. '了' is required."
+   },
+   {
+    "type": "fill_blank",
+    "prompt": "快下雨（ ），我们回家吧。",
+    "options": [
+     "了",
+     "吗",
+     "呢",
+     "的"
+    ],
+    "answerIndex": 0,
+    "explanation": "'快 + verb + 了' expresses that something is about to happen. '快要下雨了' is the full form; here '快了' is acceptable."
+   }
+  ]
+ },
+ {
+  "id": "g-2-15",
+  "level": "2",
+  "category": "Particles",
+  "nameZh": "动态助词：了",
+  "nameEn": "Dynamic particle 了",
+  "explanation": "The particle 了 is placed after a verb to indicate the completion of an action, often followed by a quantity phrase specifying how many or how much.",
+  "structuralForm": "Subject + Verb + 了 + Quantity Phrase",
+  "examples": [
+   {
+    "zh": "我买了两本书。",
+    "pinyin": "wǒ mǎi le liǎng běn shū。",
+    "en": "I bought two books."
+   },
+   {
+    "zh": "他吃了三个苹果。",
+    "pinyin": "tā chī le sān gè píng guǒ。",
+    "en": "He ate three apples."
+   },
+   {
+    "zh": "她看了两场电影。",
+    "pinyin": "tā kàn le liǎng chǎng diàn yǐng。",
+    "en": "She watched two movies."
+   }
+  ],
+  "drills": [
+   {
+    "type": "fill_blank",
+    "prompt": "我（　）两本中文书。",
+    "options": [
+     "买了",
+     "看",
+     "是",
+     "有"
+    ],
+    "answerIndex": 0,
+    "explanation": "'买了' indicates the completion of buying, forming '我买了两本书'."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "Choose the correct form to complete: 他昨天（　）三杯咖啡。",
+    "options": [
+     "喝了",
+     "喝",
+     "喝过",
+     "喝着"
+    ],
+    "answerIndex": 0,
+    "explanation": "'喝了' with 了 indicates the action of drinking was completed yesterday."
+   },
+   {
+    "type": "fill_blank",
+    "prompt": "她（　）两个面包。",
+    "options": [
+     "买",
+     "买了",
+     "买过",
+     "买着"
+    ],
+    "answerIndex": 1,
+    "explanation": "'买了' shows she completed the purchase of two breads."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "Choose the correct form to complete: 我们（　）一本词典。",
+    "options": [
+     "买了",
+     "买",
+     "买过",
+     "买到"
+    ],
+    "answerIndex": 0,
+    "explanation": "'买了' with 了 and quantity '一本' fits the pattern."
+   }
+  ]
+ },
+ {
+  "id": "g-2-16",
+  "level": "2",
+  "category": "Particles",
+  "nameZh": "动态助词：着",
+  "nameEn": "Aspect Particle 着",
+  "explanation": "The particle 着 is used after a verb to indicate an ongoing action or a continuous state. It is often translated as '-ing' or describing a state that persists.",
+  "structuralForm": "Subject + Verb + 着 (+ Object)",
+  "examples": [
+   {
+    "zh": "门开着。",
+    "pinyin": "mén kāi zhe。",
+    "en": "The door is open."
+   },
+   {
+    "zh": "外面下着雨。",
+    "pinyin": "wài miàn xià zhe yǔ。",
+    "en": "It's raining outside."
+   }
+  ],
+  "drills": [
+   {
+    "type": "fill_blank",
+    "prompt": "他______一本书。",
+    "options": [
+     "拿着",
+     "拿了",
+     "拿了着",
+     "拿着了"
+    ],
+    "answerIndex": 0,
+    "explanation": "着 indicates the ongoing action of holding. '拿着' is correct."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "Which sentence correctly uses 着 for a continuous state?",
+    "options": [
+     "他看书着。",
+     "他看着书。",
+     "着他看书。",
+     "书看着他。"
+    ],
+    "answerIndex": 1,
+    "explanation": "The correct structure is verb + 着 + object. '他看着书' means 'He is reading a book.'"
+   },
+   {
+    "type": "fill_blank",
+    "prompt": "教室______灯。",
+    "options": [
+     "开着",
+     "开了",
+     "开着着",
+     "开了着"
+    ],
+    "answerIndex": 0,
+    "explanation": "开着 indicates the lights are on (a continuous state)."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "Choose the correct sentence: 'He is sleeping.'",
+    "options": [
+     "睡觉着",
+     "睡着觉",
+     "着睡觉",
+     "睡觉了着"
+    ],
+    "answerIndex": 1,
+    "explanation": "睡着觉 is correct: verb 睡 + 着 + object 觉, meaning 'sleeping'."
+   }
+  ]
+ },
+ {
+  "id": "g-2-17",
+  "level": "2",
+  "category": "Particles",
+  "nameZh": "动态助词：过",
+  "nameEn": "Aspect Particle: 过",
+  "explanation": "The particle 过 is used after a verb to indicate that an action has been experienced at least once in the past, emphasizing the experience rather than the time.",
+  "structuralForm": "主语 + Verb + 过 + Object",
+  "examples": [
+   {
+    "zh": "我去过长城。",
+    "pinyin": "wǒ qù guò cháng chéng。",
+    "en": "I have been to the Great Wall."
+   },
+   {
+    "zh": "我没吃过烤鸭。",
+    "pinyin": "wǒ méi chī guò kǎo yā。",
+    "en": "I have never eaten roast duck."
+   },
+   {
+    "zh": "你看过这部电影吗？",
+    "pinyin": "nǐ kàn guò zhè bù diàn yǐng ma？",
+    "en": "Have you seen this movie?"
+   }
+  ],
+  "drills": [
+   {
+    "type": "fill_blank",
+    "prompt": "你___中国菜吗？",
+    "options": [
+     "吃过",
+     "吃",
+     "吃了",
+     "吃的"
+    ],
+    "answerIndex": 0,
+    "explanation": "Asking about past experience requires 过 after the verb."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "他___上海。",
+    "options": [
+     "去过",
+     "去",
+     "去了",
+     "去的"
+    ],
+    "answerIndex": 0,
+    "explanation": "用过 indicates he has been to Shanghai before."
+   },
+   {
+    "type": "fill_blank",
+    "prompt": "我___法国。",
+    "options": [
+     "没去过",
+     "没去",
+     "没去了",
+     "没去的"
+    ],
+    "answerIndex": 0,
+    "explanation": "Negative experience uses 没 before the verb and 过 after."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "你___这本书吗？",
+    "options": [
+     "看过",
+     "看",
+     "看了",
+     "看的"
+    ],
+    "answerIndex": 0,
+    "explanation": "Asking about experience uses 过 after the verb."
+   }
+  ]
+ },
+ {
+  "id": "g-2-18",
+  "level": "2",
+  "category": "Prepositions",
+  "nameZh": "介词：跟、给、对",
+  "nameEn": "Prepositions: 跟(with), 给(for), 对(to)",
+  "explanation": "These prepositions introduce the recipient or companion of an action. 跟 means 'with' (accompanying), 给 means 'for' or 'to' (beneficiary), and 对 means 'to' or 'toward' (direction of speech/action). They precede nouns/pronouns to form adverbial phrases.",
+  "structuralForm": "跟 + 某人 (+ 一起) + 动词(短语)；给 + 某人 + 动词(短语)；对 + 某人 + 动词(短语)",
+  "examples": [
+   {
+    "zh": "我跟他一起去超市。",
+    "pinyin": "wǒ gēn tā yì qǐ qù chāo shì。",
+    "en": "I go to the supermarket with him."
+   },
+   {
+    "zh": "我给爸爸打电话。",
+    "pinyin": "wǒ gěi bà bà dǎ diàn huà。",
+    "en": "I call Dad."
+   },
+   {
+    "zh": "我对他说。",
+    "pinyin": "wǒ duì tā shuō。",
+    "en": "I said to him."
+   }
+  ],
+  "drills": [
+   {
+    "type": "fill_blank",
+    "prompt": "明天我（ ）朋友一起去看电影。",
+    "options": [
+     "跟",
+     "给",
+     "对",
+     "从"
+    ],
+    "answerIndex": 0,
+    "explanation": "Use 跟 to express 'with' a friend."
+   },
+   {
+    "type": "fill_blank",
+    "prompt": "妈妈（ ）我买了一件新衣服。",
+    "options": [
+     "跟",
+     "给",
+     "对",
+     "把"
+    ],
+    "answerIndex": 1,
+    "explanation": "Use 给 to indicate 'for' me (beneficiary)."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "Choose the correct sentence:",
+    "options": [
+     "我对老师说谢谢。",
+     "我给老师说谢谢。",
+     "我跟老师说谢谢。",
+     "我从老师说谢谢。"
+    ],
+    "answerIndex": 0,
+    "explanation": "Use 对 to express 'to' the teacher (direction of speech)."
+   },
+   {
+    "type": "fill_blank",
+    "prompt": "你（ ）谁一起吃饭？",
+    "options": [
+     "跟",
+     "给",
+     "对",
+     "让"
+    ],
+    "answerIndex": 0,
+    "explanation": "Use 跟 to ask 'with whom'."
+   }
+  ]
+ },
+ {
+  "id": "g-2-19",
+  "level": "2",
+  "category": "Prepositions",
+  "nameZh": "介词：引进空间方位从、向、往、到、离",
+  "nameEn": "Prepositions for Spatial Orientation: 从, 向, 往, 到, 离",
+  "explanation": "These prepositions indicate spatial relationships: 从 marks starting point, 向 marks direction, 往 marks direction (often used with walking/turning verbs), 从...到... marks from one place to another, 离 indicates distance from a place.",
+  "structuralForm": "从 + place + verb; 向 + direction + verb; 往 + direction + verb; 从 + place + 到 + place; A + 离 + B + far/near",
+  "examples": [
+   {
+    "zh": "我刚从中国回来。",
+    "pinyin": "wǒ gāng cóng zhōng guó huí lái。",
+    "en": "I just came back from China."
+   },
+   {
+    "zh": "往左拐。",
+    "pinyin": "wǎng zuǒ guǎi。",
+    "en": "Turn left."
+   },
+   {
+    "zh": "从家到银行远吗？",
+    "pinyin": "cóng jiā dào yín háng yuǎn ma？",
+    "en": "Is it far from home to the bank?"
+   }
+  ],
+  "drills": [
+   {
+    "type": "fill_blank",
+    "prompt": "我（ ）中国回来。",
+    "options": [
+     "从",
+     "向",
+     "往",
+     "离"
+    ],
+    "answerIndex": 0,
+    "explanation": "从 indicates the starting point of returning."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "他（ ）学校很远。",
+    "options": [
+     "从",
+     "向",
+     "往",
+     "离"
+    ],
+    "answerIndex": 3,
+    "explanation": "离 expresses distance from a place."
+   },
+   {
+    "type": "fill_blank",
+    "prompt": "请（ ）左拐。",
+    "options": [
+     "从",
+     "向",
+     "往",
+     "到"
+    ],
+    "answerIndex": 2,
+    "explanation": "往 indicates the direction for turning."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "从我家（ ）学校很近。",
+    "options": [
+     "到",
+     "往",
+     "向",
+     "离"
+    ],
+    "answerIndex": 0,
+    "explanation": "从...到... connects starting point and destination."
+   }
+  ]
+ },
+ {
+  "id": "g-2-20",
+  "level": "2",
+  "category": "Fixed patterns",
+  "nameZh": "定语",
+  "nameEn": "Attributive",
+  "explanation": "In Chinese, attributives are modifiers placed before nouns, often connected by '的' to describe the noun (e.g., 'adj + 的 + noun'). This pattern indicates that the adjective modifies the noun.",
+  "structuralForm": "形容词 + 的 + 名词",
+  "examples": [
+   {
+    "zh": "这是一只可爱的小狗。",
+    "pinyin": "zhè shì yī zhī kě ài de xiǎo gǒu。",
+    "en": "This is a cute little dog."
+   },
+   {
+    "zh": "她穿着漂亮的衣服。",
+    "pinyin": "tā chuān zhe piào liàng de yī fú。",
+    "en": "She is wearing beautiful clothes."
+   },
+   {
+    "zh": "我喜欢吃好吃的水果。",
+    "pinyin": "wǒ xǐ huān chī hǎo chī de shuǐ guǒ。",
+    "en": "I like to eat delicious fruit."
+   }
+  ],
+  "drills": [
+   {
+    "type": "fill_blank",
+    "prompt": "这是一只（ ）的小狗。",
+    "options": [
+     "可爱",
+     "红",
+     "快",
+     "好"
+    ],
+    "answerIndex": 0,
+    "explanation": "'可爱' is the correct adjective to describe a puppy; others are semantically or grammatically inappropriate."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "哪个句子正确？",
+    "options": [
+     "红色衣服",
+     "红色的衣服",
+     "红色衣服的",
+     "衣服红色"
+    ],
+    "answerIndex": 1,
+    "explanation": "Only '红色的衣服' correctly uses 'Adj + 的 + Noun' structure."
+   },
+   {
+    "type": "fill_blank",
+    "prompt": "我喜欢看那本（ ）的书。",
+    "options": [
+     "有趣",
+     "有趣地",
+     "有趣的",
+     "有兴趣"
+    ],
+    "answerIndex": 2,
+    "explanation": "'有趣的' is the correct attributive form; others are incorrect (missing 的, adverb, or wrong phrase)."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "他穿着一件（ ）衬衫。",
+    "options": [
+     "白色",
+     "白色的",
+     "白颜色",
+     "白色地"
+    ],
+    "answerIndex": 1,
+    "explanation": "'白色的' is the correct attributive form; '白色' lacks 的, '白颜色' is unnatural, '白色地' is adverbial."
+   }
+  ]
+ },
+ {
+  "id": "g-2-21",
+  "level": "2",
+  "category": "Adverbs",
+  "nameZh": "时间、地点和描写性状语",
+  "nameEn": "Adverbials: Time, Place, and Descriptive",
+  "explanation": "In Chinese, adverbials indicate time, place, or manner. Time adverbials usually come before the verb (after the subject). Place adverbials use '在' before a location and come before the verb. Descriptive adverbials use an adjective followed by '地' before the verb.",
+  "structuralForm": "主语 + 时间状语 + 动词（短语）\n在 + 地点/处所 + 动词（短语）\n主语 + 形容词 + 地 + 动词（短语）",
+  "examples": [
+   {
+    "zh": "他八点起床。",
+    "pinyin": "tā bā diǎn qǐ chuáng。",
+    "en": "He gets up at eight."
+   },
+   {
+    "zh": "他在北京大学学习。",
+    "pinyin": "tā zài běi jīng dà xué xué xí。",
+    "en": "He studies at Peking University."
+   },
+   {
+    "zh": "她高兴地笑了。",
+    "pinyin": "tā gāo xìng dì xiào le。",
+    "en": "She smiled happily."
+   }
+  ],
+  "drills": [
+   {
+    "type": "fill_blank",
+    "prompt": "我（ ）去学校。",
+    "options": [
+     "早上八点",
+     "在教室",
+     "高兴地",
+     "学习"
+    ],
+    "answerIndex": 0,
+    "explanation": "Time adverbial should be placed before the verb."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "Which sentence correctly means 'He studies at Peking University'?",
+    "options": [
+     "他在北京大学学习。",
+     "他学习在北京大学。",
+     "他北京大学在学习。",
+     "他学习北京大学在。"
+    ],
+    "answerIndex": 0,
+    "explanation": "Place adverbial uses '在' before location and before the verb."
+   },
+   {
+    "type": "fill_blank",
+    "prompt": "她（ ）笑了。",
+    "options": [
+     "高兴地",
+     "在教室",
+     "八点",
+     "学习"
+    ],
+    "answerIndex": 0,
+    "explanation": "Descriptive adverbial uses adjective + 地 before the verb."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "Which sentence correctly means 'I go to school at 8'?",
+    "options": [
+     "我八点去学校。",
+     "我去学校八点。",
+     "我学校去八点。",
+     "八点我去学校。"
+    ],
+    "answerIndex": 0,
+    "explanation": "Time adverbial should be placed after the subject and before the verb."
+   }
+  ]
+ },
+ {
+  "id": "g-2-22",
+  "level": "2",
+  "category": "Complements",
+  "nameZh": "简单程度补语",
+  "nameEn": "Simple Degree Complement",
+  "explanation": "Used to indicate the degree of an action or state. The pattern is verb + 得 + (adverb of degree) + adjective. The adverb is often 很, 非常, etc.",
+  "structuralForm": "动词 + 得 + (程度副词) + 形容词",
+  "examples": [
+   {
+    "zh": "你说得很对。",
+    "pinyin": "nǐ shuō dé hěn duì。",
+    "en": "You speak very correctly."
+   },
+   {
+    "zh": "他跑得很快。",
+    "pinyin": "tā pǎo dé hěn kuài。",
+    "en": "He runs very fast."
+   },
+   {
+    "zh": "她写得很慢。",
+    "pinyin": "tā xiě dé hěn màn。",
+    "en": "She writes very slowly."
+   }
+  ],
+  "drills": [
+   {
+    "type": "fill_blank",
+    "prompt": "他唱歌（ ）很好。",
+    "options": [
+     "得",
+     "的",
+     "地",
+     "了"
+    ],
+    "answerIndex": 0,
+    "explanation": "得 is used after the verb to connect the degree complement."
+   },
+   {
+    "type": "fill_blank",
+    "prompt": "你考试考（ ）怎么样？",
+    "options": [
+     "得",
+     "的",
+     "地",
+     "了"
+    ],
+    "answerIndex": 0,
+    "explanation": "得 is needed before the complement 怎么样."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "Choose the correct sentence:",
+    "options": [
+     "他说中文得很好。",
+     "他说中文得很好。",
+     "他说中文说得很好。",
+     "他说中文说很好。"
+    ],
+    "answerIndex": 2,
+    "explanation": "The correct pattern is verb + 得 + adverb + adjective. 说 is repeated before 得 because 中文 is the object."
+   },
+   {
+    "type": "fill_blank",
+    "prompt": "他写汉字写（ ）（ ）漂亮。",
+    "options": [
+     "得很",
+     "很得",
+     "得地",
+     "地很"
+    ],
+    "answerIndex": 0,
+    "explanation": "得 links the verb to the complement, and 很 is an adverb before the adjective."
+   }
+  ]
+ },
+ {
+  "id": "g-2-23",
+  "level": "2",
+  "category": "Sentence patterns",
+  "nameZh": "主谓谓语句",
+  "nameEn": "Subject-Predicate Predicate Sentence",
+  "explanation": "In this pattern, the subject of the whole sentence is followed by a predicate that is itself a subject-predicate phrase. The first subject is often a topic, and the second subject is an attribute or part of that topic, followed by a description.",
+  "structuralForm": "Subject + (Subject2 + Predicate2)",
+  "examples": [
+   {
+    "zh": "她个子很高。",
+    "pinyin": "tā gè zi hěn gāo。",
+    "en": "She is very tall. (lit. Her height is tall.)"
+   },
+   {
+    "zh": "我头疼。",
+    "pinyin": "wǒ tóu téng。",
+    "en": "I have a headache. (lit. My head hurts.)"
+   }
+  ],
+  "drills": [
+   {
+    "type": "fill_blank",
+    "prompt": "他（ ）很大。",
+    "options": [
+     "个子",
+     "个子是",
+     "是个子",
+     "个子有"
+    ],
+    "answerIndex": 0,
+    "explanation": "This structure needs the subject (个子) directly followed by the predicate. Option 0 is correct; others add unnecessary words."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "Which sentence correctly uses the subject-predicate predicate pattern?",
+    "options": [
+     "他很高个子。",
+     "他个子很高。",
+     "他的个子很高。",
+     "他是高个子。"
+    ],
+    "answerIndex": 1,
+    "explanation": "'他个子很高' directly uses the topic-comment structure. Options 0 and 2 have wrong order or grammar; option 3 is a different pattern."
+   },
+   {
+    "type": "fill_blank",
+    "prompt": "妈妈（ ）很好。",
+    "options": [
+     "身体",
+     "身体是",
+     "身体的",
+     "有身体"
+    ],
+    "answerIndex": 0,
+    "explanation": "The correct pattern is subject (妈妈) + attribute (身体) + description (很好). Only option 0 fits."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "Choose the best translation for 'I have a stomachache' using the pattern:",
+    "options": [
+     "我肚子疼。",
+     "我的肚子疼。",
+     "我有肚子疼。",
+     "我疼肚子。"
+    ],
+    "answerIndex": 0,
+    "explanation": "'我肚子疼' is the natural subject-predicate predicate sentence. Other options are grammatically less idiomatic or incorrect."
+   }
+  ]
+ },
+ {
+  "id": "g-2-24",
+  "level": "2",
+  "category": "Sentence patterns",
+  "nameZh": "连动句（表目的）",
+  "nameEn": "Purpose Serial Verb Sentences",
+  "explanation": "In Chinese, a serial verb construction can express purpose by using 来/去 (come/go) followed by a location and then a verb phrase. The verb after the location indicates the purpose of the action.",
+  "structuralForm": "来/去 + 地点 + 动词（短语）",
+  "examples": [
+   {
+    "zh": "我来北京学习汉语。",
+    "pinyin": "wǒ lái běi jīng xué xí hàn yǔ。",
+    "en": "I came to Beijing to study Chinese."
+   },
+   {
+    "zh": "她去超市买东西。",
+    "pinyin": "tā qù chāo shì mǎi dōng xī。",
+    "en": "She goes to the supermarket to buy things."
+   },
+   {
+    "zh": "他们去公园散步。",
+    "pinyin": "tā men qù gōng yuán sàn bù。",
+    "en": "They go to the park for a walk."
+   }
+  ],
+  "drills": [
+   {
+    "type": "fill_blank",
+    "prompt": "妈妈____商店买衣服。",
+    "options": [
+     "来",
+     "去",
+     "在",
+     "到"
+    ],
+    "answerIndex": 1,
+    "explanation": "We use 去 to indicate going to the store to buy clothes."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "Which sentence correctly expresses 'He went to the library to read books'?",
+    "options": [
+     "他去图书馆看书。",
+     "他来图书馆看书。",
+     "他图书馆去看书。",
+     "他看书去图书馆。"
+    ],
+    "answerIndex": 0,
+    "explanation": "The correct serial verb structure is 去 + location + verb (purpose)."
+   },
+   {
+    "type": "fill_blank",
+    "prompt": "我每天____学校上课。",
+    "options": [
+     "来",
+     "去",
+     "在",
+     "到"
+    ],
+    "answerIndex": 1,
+    "explanation": "We use 去 to show going to school to attend class."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "Which sentence means 'She came to the hospital to see the doctor'?",
+    "options": [
+     "她去医院看医生。",
+     "她来医院看医生。",
+     "她看医生来医院。",
+     "她到医院看医生。"
+    ],
+    "answerIndex": 1,
+    "explanation": "Use 来 for 'came' to show movement towards speaker's location."
+   }
+  ]
+ },
+ {
+  "id": "g-2-25",
+  "level": "2",
+  "category": "Sentence patterns",
+  "nameZh": "双宾语句",
+  "nameEn": "Double Object Sentences",
+  "explanation": "Some verbs like 给 (give), 送 (send), 找 (give change), 借 (lend/borrow), and 教 (teach) can take two objects: an indirect object (person) followed by a direct object (thing). The word order is: Subject + Verb + Indirect Object + Direct Object.",
+  "structuralForm": "主语+给/送/找/借/教+间接宾语+直接宾语",
+  "examples": [
+   {
+    "zh": "玛丽送给我一本书。",
+    "pinyin": "mǎ lì sòng gěi wǒ yī běn shū。",
+    "en": "Mary gave me a book."
+   },
+   {
+    "zh": "老师教我们汉语。",
+    "pinyin": "lǎo shī jiào wǒ men hàn yǔ。",
+    "en": "The teacher teaches us Chinese."
+   },
+   {
+    "zh": "我借给他一支笔。",
+    "pinyin": "wǒ jiè gěi tā yī zhī bǐ。",
+    "en": "I lent him a pen."
+   }
+  ],
+  "drills": [
+   {
+    "type": "fill_blank",
+    "prompt": "妈妈 ___ 一个苹果。",
+    "options": [
+     "给我",
+     "给",
+     "给我了",
+     "送给我"
+    ],
+    "answerIndex": 0,
+    "explanation": "The verb 给 requires the indirect object (人) before the direct object (物). Here '给我' is the verb phrase meaning 'give me'."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "Which sentence is correct?",
+    "options": [
+     "我书给老师。",
+     "我给老师书。",
+     "我老师给书。",
+     "老师我给书。"
+    ],
+    "answerIndex": 1,
+    "explanation": "The correct order is subject + 给 + indirect object (老师) + direct object (书)."
+   },
+   {
+    "type": "fill_blank",
+    "prompt": "你能 ___ 一支笔吗？",
+    "options": [
+     "借给我",
+     "借我",
+     "借你",
+     "给你借"
+    ],
+    "answerIndex": 0,
+    "explanation": "Use 借给 to mean 'lend to', followed by indirect object (me) then direct object (pen)."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "Choose the correct sentence.",
+    "options": [
+     "老师教我们汉语。",
+     "老师教汉语我们。",
+     "老师我们教汉语。",
+     "老师教给汉语我们。"
+    ],
+    "answerIndex": 0,
+    "explanation": "教 takes indirect object first (我们) then direct object (汉语)."
+   }
+  ]
+ },
+ {
+  "id": "g-2-26",
+  "level": "2",
+  "category": "Sentence patterns",
+  "nameZh": "兼语句",
+  "nameEn": "Pivotal Sentence",
+  "explanation": "A pivotal sentence uses a verb like 请, 叫, or 让 to form a structure where the object of the first verb is also the subject of the second verb. It expresses making or asking someone to do something.",
+  "structuralForm": "主语 + 请/叫/让 + 兼语 + 动词（短语）",
+  "examples": [
+   {
+    "zh": "他请我吃饭。",
+    "pinyin": "tā qǐng wǒ chī fàn。",
+    "en": "He invites me to eat."
+   },
+   {
+    "zh": "老师让我明天去办公室。",
+    "pinyin": "lǎo shī ràng wǒ míng tiān qù bàn gōng shì。",
+    "en": "The teacher asked me to go to the office tomorrow."
+   },
+   {
+    "zh": "妈妈叫我回家。",
+    "pinyin": "mā mā jiào wǒ huí jiā。",
+    "en": "Mom told me to go home."
+   }
+  ],
+  "drills": [
+   {
+    "type": "fill_blank",
+    "prompt": "他（ ）我去看电影。",
+    "options": [
+     "让",
+     "给",
+     "对",
+     "跟"
+    ],
+    "answerIndex": 0,
+    "explanation": "The correct verb is 让, forming a pivotal sentence meaning 'he asked me to go watch a movie'."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "Which sentence correctly uses a pivotal structure?",
+    "options": [
+     "我请你吃饭。",
+     "我吃饭你。",
+     "你请我吃饭。",
+     "吃饭我请你。"
+    ],
+    "answerIndex": 0,
+    "explanation": "The correct pivotal structure is '主语+请+兼语+动词' as in '我请你吃饭'."
+   },
+   {
+    "type": "fill_blank",
+    "prompt": "妈妈（ ）我打扫房间。",
+    "options": [
+     "让",
+     "请",
+     "叫",
+     "要"
+    ],
+    "answerIndex": 2,
+    "explanation": "In this context, 叫 means 'tell/ask' someone to do something, and it fits the pivotal structure."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "Choose the correct sentence with 请 as a pivotal verb.",
+    "options": [
+     "我请他喝水。",
+     "我喝水请他。",
+     "请他我喝水。",
+     "喝水我请他。"
+    ],
+    "answerIndex": 0,
+    "explanation": "The order is subject + 请 + pivot + verb phrase, so '我请他喝水' is correct."
+   }
+  ]
+ },
+ {
+  "id": "g-2-27",
+  "level": "2",
+  "category": "Comparison",
+  "nameZh": "比较句：“比”字句的否定",
+  "nameEn": "Comparative Sentences: Negative Form of \"比\"",
+  "explanation": "The 比 (bǐ) structure is used for comparisons. Its negative form uses 没有 (méiyǒu) to express that A is not as ... as B.",
+  "structuralForm": "A + 比 + B + Adjective; A + 比 + B + Adjective + 一点儿/得多/多了/数量短语; A + 没有 + B + Adjective",
+  "examples": [
+   {
+    "zh": "今天比昨天冷。",
+    "pinyin": "jīn tiān bǐ zuó tiān lěng。",
+    "en": "Today is colder than yesterday."
+   },
+   {
+    "zh": "今天比昨天冷多了。",
+    "pinyin": "jīn tiān bǐ zuó tiān lěng duō le。",
+    "en": "Today is much colder than yesterday."
+   },
+   {
+    "zh": "我比他高5厘米。",
+    "pinyin": "wǒ bǐ tā gāo5lí mǐ。",
+    "en": "I am 5 cm taller than him."
+   }
+  ],
+  "drills": [
+   {
+    "type": "fill_blank",
+    "prompt": "他（ ）我大。",
+    "options": [
+     "比",
+     "没有",
+     "有",
+     "是"
+    ],
+    "answerIndex": 0,
+    "explanation": "To say 'He is older than me', use 比 to show comparison."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "Which sentence means 'She is not as beautiful as her sister'?",
+    "options": [
+     "她比姐姐漂亮。",
+     "她没有姐姐漂亮。",
+     "她比姐姐没有漂亮。",
+     "她不比姐姐漂亮。"
+    ],
+    "answerIndex": 1,
+    "explanation": "The negative comparison uses 没有 to indicate 'not as ... as'."
+   },
+   {
+    "type": "fill_blank",
+    "prompt": "这本书（ ）那本书贵。",
+    "options": [
+     "比",
+     "没有",
+     "有",
+     "和"
+    ],
+    "answerIndex": 0,
+    "explanation": "To compare prices, use 比: 'This book is more expensive than that book'."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "Which sentence correctly uses the comparative?",
+    "options": [
+     "我比我哥哥不高。",
+     "我比我哥哥没有高。",
+     "我没有我哥哥高。",
+     "我比我哥哥不高。"
+    ],
+    "answerIndex": 2,
+    "explanation": "The correct negative form is 没有: 'I am not as tall as my older brother'."
+   }
+  ]
+ },
+ {
+  "id": "g-2-28",
+  "level": "2",
+  "category": "Sentence patterns",
+  "nameZh": "“是……的”强调结构",
+  "nameEn": "Shi...de Emphasis Structure",
+  "explanation": "Used to emphasize the time, place, or manner of an action that occurred in the past. The structure is '是 + emphasized element + verb + (object) + 的'.",
+  "structuralForm": "Subject + 是 + [emphasis: time/place/manner] + Verb + (Object) + 的",
+  "examples": [
+   {
+    "zh": "我是昨天来的。",
+    "pinyin": "wǒ shì zuó tiān lái de。",
+    "en": "I came yesterday."
+   },
+   {
+    "zh": "我是在北京认识她的。",
+    "pinyin": "wǒ shì zài běi jīng rèn shí tā de。",
+    "en": "I met her in Beijing."
+   },
+   {
+    "zh": "我是坐飞机来北京的。",
+    "pinyin": "wǒ shì zuò fēi jī lái běi jīng de。",
+    "en": "I came to Beijing by plane."
+   }
+  ],
+  "drills": [
+   {
+    "type": "fill_blank",
+    "prompt": "我___昨天到的北京。",
+    "options": [
+     "是",
+     "的",
+     "了",
+     "在"
+    ],
+    "answerIndex": 0,
+    "explanation": "The pattern requires 是 before the emphasized time."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "Which sentence correctly emphasizes the manner 'by train'?",
+    "options": [
+     "他是坐火车来的。",
+     "他是坐火车来。",
+     "他坐火车是来的。",
+     "他坐火车来的是。"
+    ],
+    "answerIndex": 0,
+    "explanation": "The correct structure is 是...的 around the manner."
+   },
+   {
+    "type": "fill_blank",
+    "prompt": "他们___在北京认识的。",
+    "options": [
+     "是",
+     "的",
+     "了",
+     "有"
+    ],
+    "answerIndex": 0,
+    "explanation": "The pattern requires 是 before the emphasized place."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "Which sentence emphasizes the place?",
+    "options": [
+     "她是昨天来的。",
+     "她是在北京来的。",
+     "她是坐飞机来的。",
+     "她是来的北京。"
+    ],
+    "answerIndex": 1,
+    "explanation": "B emphasizes the place '在北京'."
+   }
+  ]
+ },
+ {
+  "id": "g-2-29",
+  "level": "2",
+  "category": "Sentence patterns",
+  "nameZh": "否定祈使句",
+  "nameEn": "Negative Imperative Sentences",
+  "explanation": "Use '别' or '不要' before a verb to form a negative imperative, telling someone not to do something.",
+  "structuralForm": "别 / 不要 + Verb",
+  "examples": [
+   {
+    "zh": "别去！",
+    "pinyin": "bié qù！",
+    "en": "Don't go!"
+   },
+   {
+    "zh": "不要说话！",
+    "pinyin": "bú yào shuō huà！",
+    "en": "Don't speak!"
+   }
+  ],
+  "drills": [
+   {
+    "type": "fill_blank",
+    "prompt": "（ ）在这里抽烟。",
+    "options": [
+     "别",
+     "是",
+     "会",
+     "能"
+    ],
+    "answerIndex": 0,
+    "explanation": "'别' is used to form a negative imperative, meaning 'don't'."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "妈妈对孩子说：“（ ）跑！”",
+    "options": [
+     "不要",
+     "不是",
+     "不好",
+     "不会"
+    ],
+    "answerIndex": 0,
+    "explanation": "'不要' is another common way to say 'don't' in imperatives."
+   },
+   {
+    "type": "fill_blank",
+    "prompt": "（ ）迟到！",
+    "options": [
+     "别",
+     "没",
+     "不",
+     "是"
+    ],
+    "answerIndex": 0,
+    "explanation": "'别' expresses a prohibition, equivalent to 'don't'."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "老师对学生说：“（ ）说话！”",
+    "options": [
+     "不要",
+     "没有",
+     "不是",
+     "不会"
+    ],
+    "answerIndex": 0,
+    "explanation": "'不要' is a polite way to tell someone not to do something."
+   }
+  ]
+ },
+ {
+  "id": "g-2-30",
+  "level": "2",
+  "category": "Sentence patterns",
+  "nameZh": "用“吧”的一般疑问句",
+  "nameEn": "Yes-No Questions with 吧",
+  "explanation": "Used to ask for confirmation or express doubt about something the speaker thinks is true. Attach 吧 to the end of a statement.",
+  "structuralForm": "S + 吧？",
+  "examples": [
+   {
+    "zh": "他是美国人吧？",
+    "pinyin": "tā shì měi guó rén ba？",
+    "en": "He is American, right?"
+   },
+   {
+    "zh": "她今天来吧？",
+    "pinyin": "tā jīn tiān lái ba？",
+    "en": "She is coming today, right?"
+   },
+   {
+    "zh": "你喜欢咖啡吧？",
+    "pinyin": "nǐ xǐ huān kā fēi ba？",
+    "en": "You like coffee, don't you?"
+   }
+  ],
+  "drills": [
+   {
+    "type": "fill_blank",
+    "prompt": "你是中国人（ ）？",
+    "options": [
+     "吧",
+     "吗",
+     "呢",
+     "的"
+    ],
+    "answerIndex": 0,
+    "explanation": "Use 吧 to seek confirmation that you are Chinese."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "Choose the correct sentence to ask \"You are a student, right?\"",
+    "options": [
+     "你是学生吗？",
+     "你是学生吧？",
+     "你是学生呢？",
+     "你是学生了？"
+    ],
+    "answerIndex": 1,
+    "explanation": "Only 吧 forms a confirmation question."
+   },
+   {
+    "type": "fill_blank",
+    "prompt": "明天星期天，（ ）？",
+    "options": [
+     "吧",
+     "吗",
+     "呢",
+     "啊"
+    ],
+    "answerIndex": 0,
+    "explanation": "Use 吧 to confirm the fact that tomorrow is Sunday."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "Which sentence expresses a guess seeking confirmation?",
+    "options": [
+     "今天很热吗？",
+     "今天很热吧？",
+     "今天很热呢？",
+     "今天很热了？"
+    ],
+    "answerIndex": 1,
+    "explanation": "今天很热吧？ is a guess seeking confirmation; others are different question types."
+   }
+  ]
+ },
+ {
+  "id": "g-2-31",
+  "level": "2",
+  "category": "Sentence patterns",
+  "nameZh": "正反疑问句",
+  "nameEn": "Affirmative-Negative Questions",
+  "explanation": "Used to form yes-no questions by stating both the affirmative and negative forms of a verb or adjective. Structure: Subject + Verb + 不/没 + Verb + (Object)? or Subject + Adjective + 不 + Adjective?",
+  "structuralForm": "Subject + V/Adj + 不/没 + V/Adj + (Object)?",
+  "examples": [
+   {
+    "zh": "你来不来？",
+    "pinyin": "nǐ lái bù lái？",
+    "en": "Are you coming or not?"
+   },
+   {
+    "zh": "汉语难不难？",
+    "pinyin": "hàn yǔ nán bù nán？",
+    "en": "Is Chinese difficult or not?"
+   }
+  ],
+  "drills": [
+   {
+    "type": "fill_blank",
+    "prompt": "你____去？",
+    "options": [
+     "去不去",
+     "去不",
+     "不去去",
+     "去不去去"
+    ],
+    "answerIndex": 0,
+    "explanation": "The correct pattern for a verb is 'V不V'. Here, '去不去' means 'go or not go'."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "This is a question: 他是不是老师？ Choose the correct structure:",
+    "options": [
+     "他是不老师",
+     "他是不是老师",
+     "他是老师不",
+     "他老师是不是"
+    ],
+    "answerIndex": 1,
+    "explanation": "The structure is 'Subject + V/Adj + 不 + V/Adj + Object'. '是不是' is correct."
+   },
+   {
+    "type": "fill_blank",
+    "prompt": "这本书____？",
+    "options": [
+     "好不好",
+     "好不",
+     "好没好",
+     "不好好"
+    ],
+    "answerIndex": 0,
+    "explanation": "For adjectives, 'A不A' is used. '好不好' means 'good or not good'."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "Which question is correct for asking 'Do you eat or not?'",
+    "options": [
+     "你吃吃？",
+     "你吃不？",
+     "你吃不吃了？",
+     "你吃不吃？"
+    ],
+    "answerIndex": 3,
+    "explanation": "Correct form: '你吃不吃' (Subject + V + 不 + V)."
+   }
+  ]
+ },
+ {
+  "id": "g-2-32",
+  "level": "2",
+  "category": "Sentence patterns",
+  "nameZh": "特殊疑问句（什么时候、怎么、为什么、多+形容词）",
+  "nameEn": "Special Questions (When, How, Why, How + Adjective)",
+  "explanation": "In Chinese, to ask about time, manner, reason, or degree, use question words: 什么时候 (when), 怎么 (how), 为什么 (why), and 多 + adjective (how + adj). The word order remains the same as a statement, just replace the unknown information with the question word.",
+  "structuralForm": "什么时候 + (subject) + verb? (Subject) + 怎么 + verb (phrase)? (Subject) + 为什么 + verb (phrase)? (Subject) + 多 + adjective?",
+  "examples": [
+   {
+    "zh": "你明天什么时候来学校？",
+    "pinyin": "nǐ míng tiān shén me shí hòu lái xué xiào？",
+    "en": "When will you come to school tomorrow?"
+   },
+   {
+    "zh": "这个字怎么读？",
+    "pinyin": "zhè ge zì zěn me dú？",
+    "en": "How do you read this character?"
+   },
+   {
+    "zh": "你为什么学习汉语？",
+    "pinyin": "nǐ wèi shén me xué xí hàn yǔ？",
+    "en": "Why do you study Chinese?"
+   }
+  ],
+  "drills": [
+   {
+    "type": "fill_blank",
+    "prompt": "你（ ）去北京？",
+    "options": [
+     "什么时候",
+     "怎么",
+     "为什么",
+     "多高"
+    ],
+    "answerIndex": 0,
+    "explanation": "We ask about time with 什么时候."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "这个汉字（ ）读？选择正确的疑问词。",
+    "options": [
+     "什么时候",
+     "怎么",
+     "为什么",
+     "多少"
+    ],
+    "answerIndex": 1,
+    "explanation": "怎么 asks about manner."
+   },
+   {
+    "type": "fill_blank",
+    "prompt": "他（ ）不来上课？",
+    "options": [
+     "什么时候",
+     "怎么",
+     "为什么",
+     "多大"
+    ],
+    "answerIndex": 2,
+    "explanation": "为什么 asks for reason."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "你（ ）高？",
+    "options": [
+     "多高",
+     "什么时候",
+     "怎么",
+     "为什么"
+    ],
+    "answerIndex": 0,
+    "explanation": "多 + adjective asks about degree."
+   }
+  ]
+ },
+ {
+  "id": "g-2-33",
+  "level": "2",
+  "category": "Sentence patterns",
+  "nameZh": "附加疑问句",
+  "nameEn": "Tag Questions",
+  "explanation": "Tag questions are short questions added to the end of a statement to seek agreement, confirmation, or permission. Common tags include 好吗 (okay?), 可以吗 (may I?), 行吗 (will it do?), and 怎么样 (how about?).",
+  "structuralForm": "Statement + 好吗/可以吗/行吗/怎么样？",
+  "examples": [
+   {
+    "zh": "我们坐火车去，好吗？",
+    "pinyin": "wǒ men zuò huǒ chē qù，hǎo ma？",
+    "en": "We'll go by train, okay?"
+   },
+   {
+    "zh": "我们吃中餐，可以吗？",
+    "pinyin": "wǒ men chī zhōng cān，kě yǐ ma？",
+    "en": "Let's eat Chinese food, is that okay?"
+   },
+   {
+    "zh": "明天见面，怎么样？",
+    "pinyin": "míng tiān jiàn miàn，zěn me yàng？",
+    "en": "How about meeting tomorrow?"
+   }
+  ],
+  "drills": [
+   {
+    "type": "fill_blank",
+    "prompt": "我们______去游泳，怎么样？",
+    "options": [
+     "一起",
+     "什么",
+     "怎么",
+     "很"
+    ],
+    "answerIndex": 0,
+    "explanation": "一起 means 'together', completing the suggestion."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "Which sentence uses the tag question correctly to make a suggestion?",
+    "options": [
+     "我们吃饭好吗？",
+     "我们吃饭吗？",
+     "我们吃饭好？",
+     "我们吃饭好呢？"
+    ],
+    "answerIndex": 0,
+    "explanation": "Only '我们吃饭好吗？' correctly adds the tag 好吗 to a statement."
+   },
+   {
+    "type": "fill_blank",
+    "prompt": "我们______，可以吗？",
+    "options": [
+     "休息一下",
+     "休息",
+     "休息了",
+     "休息吗"
+    ],
+    "answerIndex": 0,
+    "explanation": "休息一下 means 'take a rest for a while', fitting the suggestion structure."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "Choose the correct tag question for '我们唱歌' to make a suggestion.",
+    "options": [
+     "我们唱歌，好吗？",
+     "我们唱歌吗？",
+     "唱歌好吗？",
+     "我们唱歌好？"
+    ],
+    "answerIndex": 0,
+    "explanation": "The correct tag question attaches 好吗 after a comma following the statement."
+   }
+  ]
+ },
+ {
+  "id": "g-2-34",
+  "level": "2",
+  "category": "Complex sentences",
+  "nameZh": "因果复句（因为...所以...）",
+  "nameEn": "Cause-Effect Sentences (因为...所以...)",
+  "explanation": "Use 因为 to introduce the reason and 所以 to introduce the result. The reason clause usually comes first.",
+  "structuralForm": "因为 + reason, 所以 + result",
+  "examples": [
+   {
+    "zh": "因为我病了，所以没去上课。",
+    "pinyin": "yīn wèi wǒ bìng le，suǒ yǐ méi qù shàng kè。",
+    "en": "Because I was sick, I didn't go to class."
+   },
+   {
+    "zh": "因为下雨，所以我不去公园。",
+    "pinyin": "yīn wèi xià yǔ，suǒ yǐ wǒ bù qù gōng yuán。",
+    "en": "Because it's raining, I won't go to the park."
+   },
+   {
+    "zh": "因为我很累，所以想睡觉。",
+    "pinyin": "yīn wèi wǒ hěn lèi，suǒ yǐ xiǎng shuì jiào。",
+    "en": "Because I'm tired, I want to sleep."
+   }
+  ],
+  "drills": [
+   {
+    "type": "fill_blank",
+    "prompt": "（ ）下雨，所以我不去公园。",
+    "options": [
+     "因为",
+     "所以",
+     "虽然",
+     "如果"
+    ],
+    "answerIndex": 0,
+    "explanation": "Use 因为 to give the reason."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "Choose the correct sentence using 因为...所以...",
+    "options": [
+     "因为我病了，所以不去。",
+     "因为所以我去。",
+     "我病了所以因为。",
+     "所以我病了因为。"
+    ],
+    "answerIndex": 0,
+    "explanation": "The correct structure is 因为...所以... with reason first."
+   },
+   {
+    "type": "fill_blank",
+    "prompt": "因为我不舒服，（ ）没去上班。",
+    "options": [
+     "所以",
+     "因为",
+     "但是",
+     "和"
+    ],
+    "answerIndex": 0,
+    "explanation": "所以 introduces the result."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "Which sentence correctly uses 因为...所以...?",
+    "options": [
+     "所以下雨，因为我不去。",
+     "因为下雨，所以我不去。",
+     "因为所以下雨，我不去。",
+     "我不去，因为所以下雨。"
+    ],
+    "answerIndex": 1,
+    "explanation": "B has the correct order: reason first then result."
+   }
+  ]
+ },
+ {
+  "id": "g-2-35",
+  "level": "2",
+  "category": "Sentence patterns",
+  "nameZh": "转折复句",
+  "nameEn": "Contrastive Complex Sentences",
+  "explanation": "Used to connect two clauses where the second clause contrasts with or contradicts the expectation set by the first clause. The conjunctions 但是 or 可是 mean 'but' or 'however'.",
+  "structuralForm": "..., 但是/可是 ...",
+  "examples": [
+   {
+    "zh": "汉语很难，但是很有意思。",
+    "pinyin": "hàn yǔ hěn nán，dàn shì hěn yǒu yì si。",
+    "en": "Chinese is difficult, but it is interesting."
+   },
+   {
+    "zh": "他学习很努力，可是考试没考好。",
+    "pinyin": "tā xué xí hěn nǔ lì，kě shì kǎo shì méi kǎo hǎo。",
+    "en": "He studies very hard, but he didn't do well on the exam."
+   }
+  ],
+  "drills": [
+   {
+    "type": "fill_blank",
+    "prompt": "今天天气很好，（ ）我不想出去。",
+    "options": [
+     "因为",
+     "所以",
+     "但是",
+     "而且"
+    ],
+    "answerIndex": 2,
+    "explanation": "The sentence expresses a contrast: good weather but unwilling to go out. '但是' introduces the contrasting clause."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "选择正确的词完成句子：我很累，___还想继续工作。",
+    "options": [
+     "但是",
+     "因为",
+     "所以",
+     "然后"
+    ],
+    "answerIndex": 0,
+    "explanation": "The first clause states being tired, and the second clause expresses a desire to continue working, which is a contrast. '但是' fits the contrastive meaning."
+   },
+   {
+    "type": "fill_blank",
+    "prompt": "他喜欢吃苹果，（ ）不喜欢吃香蕉。",
+    "options": [
+     "而且",
+     "或者",
+     "但是",
+     "因为"
+    ],
+    "answerIndex": 2,
+    "explanation": "The two clauses contrast: likes apples but not bananas. '但是' indicates the contrast."
+   },
+   {
+    "type": "choose_form",
+    "prompt": "选择正确的词：这个房间很小，___很干净。",
+    "options": [
+     "可是",
+     "因为",
+     "所以",
+     "虽然"
+    ],
+    "answerIndex": 0,
+    "explanation": "'可是' is a synonym for '但是' and fits the contrastive structure: small room but clean."
+   }
+  ]
+ }
+]

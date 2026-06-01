@@ -16,6 +16,9 @@ export default async function SiteHeader() {
           <Link href="/vocab" className="btn-ghost">
             {t.vocab.title}
           </Link>
+          <Link href="/grammar" className="btn-ghost">
+            {t.grammar.title}
+          </Link>
           <Link href="/practice" className="btn-ghost">
             {t.practice.title}
           </Link>

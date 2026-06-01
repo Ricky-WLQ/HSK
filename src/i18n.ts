@@ -59,6 +59,8 @@ export const messages = {
     continueLearning: "Continue learning",
     vocabTitle: "Vocabulary",
     vocabDesc: "Browse HSK 1–9 word lists, flashcards, and quizzes with audio.",
+    grammarTitle: "Grammar",
+    grammarDesc: "Official HSK grammar points with structural patterns, examples, and practice drills.",
     practiceTitle: "Practice",
     practiceDesc: "Official-format reading practice with instant feedback and AI explanations.",
     progressTitle: "Your progress",
@@ -139,6 +141,22 @@ export const messages = {
     passage: "Passage",
     wordBank: "Word bank",
     level: "HSK",
+  },
+  grammar: {
+    title: "Grammar",
+    subtitle:
+      "Official HSK 3.0 grammar points (levels 1–9) with structural patterns, examples, and exam-style practice drills.",
+    points: "points",
+    drills: "drills",
+    back: "All levels",
+    pinyin: "Pinyin",
+    english: "English",
+    practice: "Practice",
+    check: "Check",
+    correct: "Correct",
+    wrong: "Incorrect",
+    score: "Score",
+    complete: "Level complete!",
   },
 } as const;
 
