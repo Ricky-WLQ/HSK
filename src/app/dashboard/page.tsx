@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { redirect } from "next/navigation";
-import { BookOpen, FileText, Languages, ClipboardCheck, ArrowRight } from "lucide-react";
+import { BookOpen, FileText, Languages, ClipboardCheck, TrendingUp, BookMarked, ArrowRight } from "lucide-react";
 import { getSession } from "@/lib/session";
 import { prisma } from "@/lib/prisma";
 import SignOutButton from "@/components/SignOutButton";
@@ -112,6 +112,32 @@ export default async function DashboardPage() {
                 <ArrowRight className="h-4 w-4 opacity-0 transition group-hover:opacity-100" />
               </div>
               <p className="mt-1 text-sm text-foreground/60">{t.dashboard.mockDesc}</p>
+            </div>
+          </Link>
+
+          <Link href="/progress" className="card-interactive group flex items-start gap-4 p-6">
+            <span className="icon-container h-11 w-11 shrink-0 text-primary">
+              <TrendingUp className="h-5 w-5" />
+            </span>
+            <div className="min-w-0">
+              <div className="flex items-center gap-1 font-heading text-xl font-extrabold">
+                {t.dashboard.statsCardTitle}
+                <ArrowRight className="h-4 w-4 opacity-0 transition group-hover:opacity-100" />
+              </div>
+              <p className="mt-1 text-sm text-foreground/60">{t.dashboard.statsCardDesc}</p>
+            </div>
+          </Link>
+
+          <Link href="/mistakes" className="card-interactive group flex items-start gap-4 p-6">
+            <span className="icon-container h-11 w-11 shrink-0 text-secondary">
+              <BookMarked className="h-5 w-5" />
+            </span>
+            <div className="min-w-0">
+              <div className="flex items-center gap-1 font-heading text-xl font-extrabold">
+                {t.dashboard.mistakesCardTitle}
+                <ArrowRight className="h-4 w-4 opacity-0 transition group-hover:opacity-100" />
+              </div>
+              <p className="mt-1 text-sm text-foreground/60">{t.dashboard.mistakesCardDesc}</p>
             </div>
           </Link>
         </div>
