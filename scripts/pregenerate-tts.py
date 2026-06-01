@@ -121,8 +121,11 @@ def process(word):
     audio, ok = generate_verified(text)
     if not audio:
         return ("fail", text)
-    s3.put_object(Bucket=BUCKET, Key=key, Body=audio, ContentType="audio/mpeg",
-                  CacheControl="public, max-age=31536000, immutable")
+    try:
+        s3.put_object(Bucket=BUCKET, Key=key, Body=audio, ContentType="audio/mpeg",
+                      CacheControl="public, max-age=31536000, immutable")
+    except Exception:
+        return ("fail", text)
     return ("ok" if ok else "unverified", text)
 
 

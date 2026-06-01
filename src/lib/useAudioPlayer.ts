@@ -5,8 +5,9 @@ import { useCallback, useEffect, useRef, useState } from "react";
 /**
  * Plays Mandarin TTS from /api/tts. Centralizes the lifecycle so every caller
  * gets the same guarantees: a new play() aborts the previous fetch and stops the
- * previous clip (no overlap across flashcards/quiz questions), and the object URL
- * is always revoked — on end, error, abort, or unmount (no blob-URL leaks).
+ * previous clip (no overlap), and the object URL is always revoked — on end,
+ * error, abort, or unmount (no blob-URL leaks). Use ONE instance per surface
+ * (e.g. lift it to the list component) so all of its buttons share one player.
  */
 export function useAudioPlayer() {
   const controllerRef = useRef<AbortController | null>(null);
@@ -60,7 +61,6 @@ export function useAudioPlayer() {
         audio.onerror = revoke;
         await audio.play();
       } catch {
-        // aborted, network error, or autoplay blocked — free the URL we created
         release();
       } finally {
         if (controllerRef.current === controller) setLoading(false);

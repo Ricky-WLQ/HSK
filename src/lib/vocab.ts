@@ -54,6 +54,17 @@ export async function getVocabLevel(level: string): Promise<VocabWord[]> {
   return words;
 }
 
+/** Random sample of up to `n` items (Fisher-Yates). Kept out of component render. */
+export function sampleWords(items: VocabWord[], n: number): VocabWord[] {
+  if (items.length <= n) return items;
+  const a = [...items];
+  for (let i = a.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [a[i], a[j]] = [a[j], a[i]];
+  }
+  return a.slice(0, n);
+}
+
 /** CEFR-ish band label per HSK 3.0 stage. */
 export function levelBand(level: string): string {
   if (["1", "2", "3"].includes(level)) return "Beginner";

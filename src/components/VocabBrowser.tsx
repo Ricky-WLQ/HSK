@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useMemo, useState } from "react";
+import { useCallback, useEffect, useMemo, useState } from "react";
 import { Volume2, Check } from "lucide-react";
 import { t } from "@/i18n";
 import { useAudioPlayer } from "@/lib/useAudioPlayer";
@@ -14,6 +14,16 @@ export default function VocabBrowser({ words }: { words: VocabWord[] }) {
   const [showDef, setShowDef] = useState(true);
   const [limit, setLimit] = useState(PAGE);
   const [mastery, setMastery] = useState<Record<string, number>>({});
+  // One shared audio player for all cards so only one clip plays at a time.
+  const { play, loading } = useAudioPlayer();
+  const [activeText, setActiveText] = useState<string | null>(null);
+  const onPlay = useCallback(
+    (text: string) => {
+      setActiveText(text);
+      void play(text);
+    },
+    [play],
+  );
 
   const level = words[0]?.level;
   useEffect(() => {
@@ -77,6 +87,8 @@ export default function VocabBrowser({ words }: { words: VocabWord[] }) {
               showPinyin={showPinyin}
               showDef={showDef}
               mastered={(mastery[w.id] ?? 0) >= 4}
+              onPlay={onPlay}
+              playing={loading && activeText === w.hanzi}
             />
           ))}
         </div>
@@ -101,11 +113,15 @@ function WordCard({
   showPinyin,
   showDef,
   mastered,
+  onPlay,
+  playing,
 }: {
   w: VocabWord;
   showPinyin: boolean;
   showDef: boolean;
   mastered: boolean;
+  onPlay: (text: string) => void;
+  playing: boolean;
 }) {
   return (
     <div className="card-flat relative p-4">
@@ -126,7 +142,7 @@ function WordCard({
             </div>
           )}
         </div>
-        <PlayButton text={w.hanzi} />
+        <PlayButton text={w.hanzi} onPlay={onPlay} playing={playing} />
       </div>
       {showDef &&
         (w.definition ? (
@@ -138,17 +154,24 @@ function WordCard({
   );
 }
 
-function PlayButton({ text }: { text: string }) {
-  const { play, loading } = useAudioPlayer();
+function PlayButton({
+  text,
+  onPlay,
+  playing,
+}: {
+  text: string;
+  onPlay: (text: string) => void;
+  playing: boolean;
+}) {
   return (
     <button
-      onClick={() => void play(text)}
-      disabled={loading}
+      onClick={() => onPlay(text)}
+      disabled={playing}
       aria-label={t.vocab.play}
       title={t.vocab.play}
       className="icon-container h-9 w-9 shrink-0 text-primary disabled:opacity-50"
     >
-      <Volume2 className={`h-4 w-4 ${loading ? "animate-pulse" : ""}`} />
+      <Volume2 className={`h-4 w-4 ${playing ? "animate-pulse" : ""}`} />
     </button>
   );
 }

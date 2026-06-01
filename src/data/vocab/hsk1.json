@@ -873,10 +873,10 @@
   "hanzi": "东西",
   "traditional": "東西",
   "level": "1",
-  "pinyin": "dōng xī",
+  "pinyin": "dōng xi",
   "readings": [
-   "dōng xī",
-   "dōng xi"
+   "dōng xi",
+   "dōng xī"
   ],
   "pos": [
    "n",
@@ -886,9 +886,9 @@
   "definition": "thing; object",
   "examples": [
    {
-    "hanzi": "这个东西很好。",
-    "pinyin": "zhè ge dōng xi hěn hǎo.",
-    "english": "This thing is very good."
+    "hanzi": "这是什么东西？",
+    "pinyin": "Zhè shì shénme dōng xi?",
+    "english": "What is this thing?"
    }
   ]
  },
@@ -1046,9 +1046,9 @@
   "definition": "how many; how much",
   "examples": [
    {
-    "hanzi": "你家有多少人？",
-    "pinyin": "Nǐ jiā yǒu duōshao rén?",
-    "english": "How many people are in your family?"
+    "hanzi": "你们班有多少学生？",
+    "pinyin": "Nǐmen bān yǒu duōshǎo xuéshēng?",
+    "english": "How many students are in your class?"
    }
   ]
  },
@@ -2954,12 +2954,12 @@
    "r",
    "c"
   ],
-  "definition": "surname Na",
+  "definition": "that",
   "examples": [
    {
-    "hanzi": "他姓那。",
-    "pinyin": "Tā xìng Nā.",
-    "english": "His surname is Na."
+    "hanzi": "那本书是我的。",
+    "pinyin": "Nà běn shū shì wǒ de.",
+    "english": "That book is mine."
    }
   ]
  },

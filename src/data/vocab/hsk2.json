@@ -883,10 +883,10 @@
   "hanzi": "告诉",
   "traditional": "告訴",
   "level": "2",
-  "pinyin": "gào sù",
+  "pinyin": "gào su",
   "readings": [
-   "gào sù",
-   "gào su"
+   "gào su",
+   "gào sù"
   ],
   "pos": [
    "v"
@@ -895,7 +895,7 @@
   "examples": [
    {
     "hanzi": "请告诉我你的名字。",
-    "pinyin": "Qǐng gàosu wǒ nǐ de míngzi.",
+    "pinyin": "Qǐng gào su wǒ nǐ de míngzì.",
     "english": "Please tell me your name."
    }
   ]

@@ -2328,9 +2328,9 @@
   "hanzi": "策略",
   "traditional": null,
   "level": "6",
-  "pinyin": "cè lu:è",
+  "pinyin": "cè lüè",
   "readings": [
-   "cè lu:è"
+   "cè lüè"
   ],
   "pos": [
    "n"
@@ -4958,9 +4958,9 @@
   "definition": "mostly; for the most part",
   "examples": [
    {
-    "hanzi": "我们大都喜欢这个电影。",
-    "pinyin": "Wǒmen dà dū xǐhuān zhège diànyǐng.",
-    "english": "Most of us like this movie."
+    "hanzi": "他的话大都不可信。",
+    "pinyin": "Tā de huà dà dōu bù kě xìn.",
+    "english": "His words are mostly untrustworthy."
    }
   ]
  },
@@ -11263,9 +11263,9 @@
   "hanzi": "忽略",
   "traditional": null,
   "level": "6",
-  "pinyin": "hū lu:è",
+  "pinyin": "hū lüè",
   "readings": [
-   "hū lu:è"
+   "hū lüè"
   ],
   "pos": [
    "v"
@@ -13874,10 +13874,10 @@
   "hanzi": "结实",
   "traditional": "結實",
   "level": "6",
-  "pinyin": "jiē shí",
+  "pinyin": "jiē shi",
   "readings": [
-   "jiē shí",
-   "jiē shi"
+   "jiē shi",
+   "jiē shí"
   ],
   "pos": [
    "a"
@@ -13886,7 +13886,7 @@
   "examples": [
    {
     "hanzi": "这张桌子很结实。",
-    "pinyin": "Zhè zhāng zhuōzi hěn jiēshi.",
+    "pinyin": "Zhè zhāng zhuōzi hěn jiē shi.",
     "english": "This table is very sturdy."
    }
   ]
@@ -29175,9 +29175,9 @@
   "hanzi": "小偷儿",
   "traditional": "小偷兒",
   "level": "6",
-  "pinyin": "xiǎotōur5",
+  "pinyin": "xiǎotōur",
   "readings": [
-   "xiǎotōur5"
+   "xiǎotōur"
   ],
   "pos": [],
   "definition": "thief",

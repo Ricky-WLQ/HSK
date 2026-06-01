@@ -1,7 +1,7 @@
 import { notFound } from "next/navigation";
 import SiteHeader from "@/components/SiteHeader";
 import VocabQuiz from "@/components/VocabQuiz";
-import { getVocabLevel, isHskLevel } from "@/lib/vocab";
+import { getVocabLevel, isHskLevel, sampleWords } from "@/lib/vocab";
 import { requireSession } from "@/lib/session";
 import { t } from "@/i18n";
 
@@ -16,7 +16,10 @@ export default async function QuizPage({
   const { level } = await params;
   if (!isHskLevel(level)) notFound();
   const all = await getVocabLevel(level);
-  const words = all.filter((w) => w.definition && w.definition.length > 0);
+  // A quiz only needs ~12 questions + distractors; sample server-side so we don't
+  // ship the entire level (hsk7-9.json is ~2 MB) to the client just to pick 12.
+  const pool = all.filter((w) => w.definition && w.definition.length > 0);
+  const words = sampleWords(pool, 80);
 
   return (
     <div className="min-h-screen">

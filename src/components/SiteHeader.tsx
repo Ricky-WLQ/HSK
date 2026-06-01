@@ -12,7 +12,7 @@ export default async function SiteHeader() {
         <Link href="/" className="font-heading text-xl font-extrabold text-gradient-hero">
           {t.app.name}
         </Link>
-        <nav className="flex items-center gap-3">
+        <nav className="flex items-center gap-3" aria-label="Main navigation">
           <Link href="/vocab" className="btn-ghost">
             {t.vocab.title}
           </Link>

@@ -1076,12 +1076,12 @@
    "v",
    "g"
   ],
-  "definition": "difference; error; to differ",
+  "definition": "poor; inferior; to fall short; lacking",
   "examples": [
    {
-    "hanzi": "这两个数字的差很小。",
-    "pinyin": "zhè liǎng gè shùzì de chā hěn xiǎo.",
-    "english": "The difference between these two numbers is very small."
+    "hanzi": "我差一点忘了。",
+    "pinyin": "Wǒ chà yīdiǎn wàng le.",
+    "english": "I almost forgot."
    }
   ]
  },
@@ -2868,10 +2868,11 @@
  {
   "id": "hsk3-0134",
   "hanzi": "干",
-  "traditional": "幹",
+  "traditional": "乾",
   "level": "3",
-  "pinyin": "gàn",
+  "pinyin": "gān",
   "readings": [
+   "gān",
    "gàn"
   ],
   "pos": [
@@ -2881,9 +2882,9 @@
   "definition": "dry; dried",
   "examples": [
    {
-    "hanzi": "衣服已经干了。",
-    "pinyin": "yīfu yǐjīng gān le.",
-    "english": "The clothes are already dry."
+    "hanzi": "我的衣服干了。",
+    "pinyin": "Wǒ de yīfu gān le.",
+    "english": "My clothes are dry."
    }
   ]
  },
@@ -9744,21 +9745,21 @@
   "hanzi": "脏",
   "traditional": "髒",
   "level": "3",
-  "pinyin": "zàng",
+  "pinyin": "zāng",
   "readings": [
-   "zàng",
-   "zāng"
+   "zāng",
+   "zàng"
   ],
   "pos": [
    "a",
    "g"
   ],
-  "definition": "internal organs; viscera",
+  "definition": "dirty; unclean",
   "examples": [
    {
-    "hanzi": "脏是身体内部的重要器官。",
-    "pinyin": "Zàng shì shēntǐ nèibù de zhòngyào qìguān.",
-    "english": "The internal organs are important parts inside the body."
+    "hanzi": "你的手很脏。",
+    "pinyin": "Nǐ de shǒu hěn zāng.",
+    "english": "Your hands are very dirty."
    }
   ]
  },
@@ -10151,12 +10152,12 @@
    "v",
    "g"
   ],
-  "definition": "kind; type; to plant; seed",
+  "definition": "kind; type",
   "examples": [
    {
-    "hanzi": "他种了一棵树。",
-    "pinyin": "Tā zhòng le yī kē shù.",
-    "english": "He planted a tree."
+    "hanzi": "我喜欢这种音乐。",
+    "pinyin": "Wǒ xǐhuān zhè zhǒng yīnyuè.",
+    "english": "I like this kind of music."
    }
   ]
  },

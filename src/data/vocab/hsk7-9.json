@@ -11195,10 +11195,10 @@
   "hanzi": "揣",
   "traditional": null,
   "level": "7-9",
-  "pinyin": "chuāi",
+  "pinyin": "chuǎi",
   "readings": [
-   "chuāi",
-   "chuǎi"
+   "chuǎi",
+   "chuāi"
   ],
   "pos": [
    "v"
@@ -11206,9 +11206,9 @@
   "definition": "to estimate; to guess",
   "examples": [
    {
-    "hanzi": "我揣测他可能不会来。",
-    "pinyin": "wǒ chuǎicè tā kěnéng bù huì lái.",
-    "english": "I guess he might not come."
+    "hanzi": "我揣不准他的意思。",
+    "pinyin": "Wǒ chuǎi bù zhǔn tā de yìsi.",
+    "english": "I can't accurately guess his meaning."
    }
   ]
  },
@@ -12646,9 +12646,9 @@
   "hanzi": "粗略",
   "traditional": null,
   "level": "7-9",
-  "pinyin": "cū lu:è",
+  "pinyin": "cū lüè",
   "readings": [
-   "cū lu:è"
+   "cū lüè"
   ],
   "pos": [
    "a",
@@ -18909,12 +18909,12 @@
    "ad",
    "an"
   ],
-  "definition": "nauseated; disgusted",
+  "definition": "evil; wicked",
   "examples": [
    {
-    "hanzi": "我恶了。",
-    "pinyin": "Wǒ ě le.",
-    "english": "I feel nauseated."
+    "hanzi": "他是个恶人。",
+    "pinyin": "Tā shì gè èrén.",
+    "english": "He is an evil person."
    }
   ]
  },
@@ -18988,9 +18988,9 @@
   "hanzi": "掠夺",
   "traditional": "掠奪",
   "level": "7-9",
-  "pinyin": "lu:è duó",
+  "pinyin": "lüè duó",
   "readings": [
-   "lu:è duó"
+   "lüè duó"
   ],
   "pos": [
    "v",
@@ -19010,9 +19010,9 @@
   "hanzi": "略",
   "traditional": null,
   "level": "7-9",
-  "pinyin": "lu:è",
+  "pinyin": "lüè",
   "readings": [
-   "lu:è"
+   "lüè"
   ],
   "pos": [
    "d",
@@ -19032,9 +19032,9 @@
   "hanzi": "略微",
   "traditional": null,
   "level": "7-9",
-  "pinyin": "lu:è wēi",
+  "pinyin": "lüè wēi",
   "readings": [
-   "lu:è wēi"
+   "lüè wēi"
   ],
   "pos": [
    "d"
@@ -28515,9 +28515,9 @@
   "hanzi": "闺女",
   "traditional": "閨女",
   "level": "7-9",
-  "pinyin": "guī ˙nu:",
+  "pinyin": "guī nü",
   "readings": [
-   "guī ˙nu:"
+   "guī nü"
   ],
   "pos": [
    "n"
@@ -46945,9 +46945,9 @@
   "hanzi": "离谱儿",
   "traditional": "離譜兒",
   "level": "7-9",
-  "pinyin": "lí pǔr5",
+  "pinyin": "lí pǔr",
   "readings": [
-   "lí pǔr5"
+   "lí pǔr"
   ],
   "pos": [],
   "definition": "absurd; outrageous; unreasonable",
@@ -49001,9 +49001,9 @@
   "hanzi": "领略",
   "traditional": "領略",
   "level": "7-9",
-  "pinyin": "lǐng lu:è",
+  "pinyin": "lǐng lüè",
   "readings": [
-   "lǐng lu:è"
+   "lǐng lüè"
   ],
   "pos": [
    "v"
@@ -55477,9 +55477,9 @@
   "hanzi": "虐待",
   "traditional": null,
   "level": "7-9",
-  "pinyin": "nu:è dài",
+  "pinyin": "nüè dài",
   "readings": [
-   "nu:è dài"
+   "nüè dài"
   ],
   "pos": [
    "v",
@@ -60751,9 +60751,9 @@
   "hanzi": "侵略",
   "traditional": null,
   "level": "7-9",
-  "pinyin": "qīn lu:è",
+  "pinyin": "qīn lüè",
   "readings": [
-   "qīn lu:è"
+   "qīn lüè"
   ],
   "pos": [
    "v",
@@ -67117,9 +67117,9 @@
   "hanzi": "省略",
   "traditional": null,
   "level": "7-9",
-  "pinyin": "shěng lu:è",
+  "pinyin": "shěng lüè",
   "readings": [
-   "shěng lu:è"
+   "shěng lüè"
   ],
   "pos": [
    "v"
@@ -95789,9 +95789,9 @@
   "hanzi": "战略",
   "traditional": "戰略",
   "level": "7-9",
-  "pinyin": "zhàn lu:è",
+  "pinyin": "zhàn lüè",
   "readings": [
-   "zhàn lu:è"
+   "zhàn lüè"
   ],
   "pos": [
    "n"

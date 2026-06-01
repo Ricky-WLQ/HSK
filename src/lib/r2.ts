@@ -34,8 +34,12 @@ function urlFor(key: string): string {
 export async function r2Get(key: string): Promise<ArrayBuffer | null> {
   const c = client();
   if (!c) return null;
-  const res = await c.fetch(urlFor(key), { method: "GET" });
-  if (res.status === 200) return await res.arrayBuffer();
+  try {
+    const res = await c.fetch(urlFor(key), { method: "GET", signal: AbortSignal.timeout(10_000) });
+    if (res.status === 200) return await res.arrayBuffer();
+  } catch {
+    // timeout / network error — treat as a miss
+  }
   return null;
 }
 
@@ -55,6 +59,7 @@ export async function r2Put(
         "Content-Type": contentType,
         "Cache-Control": "public, max-age=31536000, immutable",
       },
+      signal: AbortSignal.timeout(15_000),
     });
     return res.ok;
   } catch {

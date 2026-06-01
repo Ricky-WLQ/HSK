@@ -416,15 +416,16 @@
   "hanzi": "背",
   "traditional": null,
   "level": "4",
-  "pinyin": "bèi",
+  "pinyin": "bēi",
   "readings": [
+   "bēi",
    "bèi"
   ],
   "pos": [
    "v",
    "n"
   ],
-  "definition": "to carry on the back; back (body part)",
+  "definition": "to carry on the back; to shoulder",
   "examples": [
    {
     "hanzi": "他背着书包上学。",
@@ -2589,10 +2590,10 @@
   "hanzi": "大夫",
   "traditional": null,
   "level": "4",
-  "pinyin": "dà fū",
+  "pinyin": "dài fu",
   "readings": [
-   "dà fū",
-   "dài fu"
+   "dài fu",
+   "dà fū"
   ],
   "pos": [
    "n"
@@ -2600,9 +2601,9 @@
   "definition": "doctor; physician",
   "examples": [
    {
-    "hanzi": "这位大夫很有经验。",
-    "pinyin": "Zhè wèi dàifu hěn yǒu jīngyàn.",
-    "english": "This doctor is very experienced."
+    "hanzi": "我昨天去看大夫了。",
+    "pinyin": "Wǒ zuótiān qù kàn dài fu le.",
+    "english": "I went to see the doctor yesterday."
    }
   ]
  },
@@ -12543,7 +12544,7 @@
   "pinyin": "qū",
   "readings": [
    "qū",
-   "Oū"
+   "Ōu"
   ],
   "pos": [
    "n"
@@ -14542,12 +14543,12 @@
    "n",
    "v"
   ],
-  "definition": "to count",
+  "definition": "number; several",
   "examples": [
    {
-    "hanzi": "你能数到十吗？",
-    "pinyin": "Nǐ néng shǔ dào shí ma?",
-    "english": "Can you count to ten?"
+    "hanzi": "这个数很大。",
+    "pinyin": "Zhège shù hěn dà.",
+    "english": "This number is very large."
    }
   ]
  },
