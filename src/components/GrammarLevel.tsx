@@ -3,7 +3,19 @@
 import { useCallback, useMemo, useRef, useState } from "react";
 import { Check, X, Languages } from "lucide-react";
 import { t } from "@/i18n";
-import { groupByCategory, type GrammarPoint } from "@/lib/grammar";
+import type { GrammarPoint } from "@/lib/grammar";
+
+// Inlined (pure) so this client component never imports the server-only
+// loaders in @/lib/grammar (which pull in node:fs / node:path).
+function groupByCategory(points: GrammarPoint[]): [string, GrammarPoint[]][] {
+  const map = new Map<string, GrammarPoint[]>();
+  for (const p of points) {
+    const cat = p.category || "Other";
+    if (!map.has(cat)) map.set(cat, []);
+    map.get(cat)!.push(p);
+  }
+  return [...map.entries()];
+}
 
 export default function GrammarLevel({
   points,

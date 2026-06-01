@@ -54,14 +54,3 @@ export async function getGrammarLevel(level: string): Promise<GrammarPoint[]> {
   _levels.set(level, points);
   return points;
 }
-
-/** Group points by their (English) category, preserving first-seen order. */
-export function groupByCategory(points: GrammarPoint[]): [string, GrammarPoint[]][] {
-  const map = new Map<string, GrammarPoint[]>();
-  for (const p of points) {
-    const cat = p.category || "Other";
-    if (!map.has(cat)) map.set(cat, []);
-    map.get(cat)!.push(p);
-  }
-  return [...map.entries()];
-}
