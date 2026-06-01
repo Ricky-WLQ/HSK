@@ -22,6 +22,9 @@ export default async function SiteHeader() {
           <Link href="/practice" className="btn-ghost">
             {t.practice.title}
           </Link>
+          <Link href="/exam" className="btn-ghost">
+            {t.exam.nav}
+          </Link>
           <ThemeToggle />
           <Link
             href={signedIn ? "/dashboard" : "/login"}

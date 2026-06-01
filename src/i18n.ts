@@ -61,6 +61,8 @@ export const messages = {
     vocabDesc: "Browse HSK 1–9 word lists, flashcards, and quizzes with audio.",
     grammarTitle: "Grammar",
     grammarDesc: "Official HSK grammar points with structural patterns, examples, and practice drills.",
+    mockTitle: "Mock exams & diagnostic",
+    mockDesc: "Full timed exams in the official HSK structure, with per-section timers and instant scoring.",
     practiceTitle: "Practice",
     practiceDesc: "Official-format reading practice with instant feedback and AI explanations.",
     progressTitle: "Your progress",
@@ -157,6 +159,39 @@ export const messages = {
     wrong: "Incorrect",
     score: "Score",
     complete: "Level complete!",
+  },
+  exam: {
+    title: "Mock Exam",
+    nav: "Exams",
+    diagnosticTitle: "Diagnostic",
+    hubTitle: "Mock Exams",
+    hubSubtitle:
+      "Full timed HSK 3.0 mock exams in the official structure — per-section timers, section-lock, and instant scoring.",
+    diagnosticHubTitle: "Diagnostic Test",
+    diagnosticHubSubtitle:
+      "A quick listening + reading check to gauge your level and surface weak spots.",
+    intro:
+      "A full timed exam in the official structure. Each section is timed separately and locks when its time runs out.",
+    diagnosticIntro:
+      "A short listening + reading check. Each section is timed; results show your score and weak areas.",
+    questions: "questions",
+    minutes: "min",
+    total: "Total",
+    lockNote:
+      "Sections are timed and lock when time runs out — like the real exam. You can't return to a finished section.",
+    start: "Start exam",
+    startMock: "Start mock exam",
+    startDiagnostic: "Start diagnostic",
+    results: "Results",
+    grading: "Grading your written answers…",
+    objectiveScore: "Listening + Reading + objective items",
+    writtenScore: "Score",
+    notGraded: "Not graded (left blank or grading unavailable)",
+    back: "All levels",
+    pinyin: "Pinyin",
+    submitSection: "Submit section →",
+    finish: "Finish & grade",
+    selectLevel: "Choose your level",
   },
 } as const;
 

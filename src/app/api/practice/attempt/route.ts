@@ -4,7 +4,7 @@ import { prisma } from "@/lib/prisma";
 import { rateLimited } from "@/lib/rate-limit";
 
 const LEVELS = new Set(["1", "2", "3", "4", "5", "6", "7-9"]);
-const SECTIONS = new Set(["listening", "reading", "writing", "translation", "speaking", "grammar"]);
+const SECTIONS = new Set(["listening", "reading", "writing", "translation", "speaking", "grammar", "mock", "diagnostic"]);
 
 export async function POST(req: NextRequest) {
   const session = await getSession();
