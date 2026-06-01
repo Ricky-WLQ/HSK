@@ -6,9 +6,10 @@ Live: https://hsk-online.zeabur.app · GitHub: Ricky-WLQ/HSK (auto-redeploys on 
 - `DATABASE_URL` = `${POSTGRES_CONNECTION_STRING}`
 - `BETTER_AUTH_SECRET` = strong 32+ char secret (`openssl rand -base64 32`) — app refuses to boot without it
 - `BETTER_AUTH_URL` = `https://hsk-online.zeabur.app` — must NOT be localhost in prod
-- `SILICONFLOW_API_KEY` = … (TTS)
 - `R2_ACCOUNT_ID`, `R2_ENDPOINT`, `R2_BUCKET`, `R2_ACCESS_KEY_ID`, `R2_SECRET_ACCESS_KEY`, `R2_PUBLIC_URL` (audio bank)
-- `DEEPSEEK_API_KEY` (build-time scripts only; optional at runtime)
+- `DEEPSEEK_API_KEY`, `SILICONFLOW_API_KEY` (build-time scripts only — definitions, ASR audit, images; not needed at runtime)
+
+TTS uses **Edge TTS** (Microsoft neural voices via `edge-tts-universal`) — free, no API key, no env var.
 
 ## Deploy flow
 1. `git push origin main` → Zeabur builds (`next build --webpack`).
@@ -20,5 +21,6 @@ Live: https://hsk-online.zeabur.app · GitHub: Ricky-WLQ/HSK (auto-redeploys on 
    `zeabur service exec <app> -- '--' node -e "fetch('http://localhost:8080/api/...', {...})"`.
 
 ## Pre-generating the TTS audio bank
-`python scripts/pregenerate-tts.py` (idempotent; skips clips already in R2). Run after vocab data changes.
-Runtime `/api/tts` lazily fills any gaps (ASR-verified) so the app works before the bank is fully warm.
+`python scripts/pregenerate-tts.py` — Edge TTS → R2 (idempotent; skips clips already tagged
+`engine=edge`). Run after vocab data changes. Runtime `/api/tts` lazily fills any gaps via Edge TTS,
+so the app works before the bank is fully warm. (Requires `pip install edge-tts boto3`.)

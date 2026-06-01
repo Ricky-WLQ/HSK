@@ -1,28 +1,26 @@
 """
-Pre-generate the Mandarin TTS audio bank to Cloudflare R2.
+Pre-generate the Mandarin TTS audio bank to Cloudflare R2 using **Edge TTS**
+(Microsoft neural voices — free, production-grade). This replaces CosyVoice2-0.5B,
+which non-deterministically produced silent/truncated audio on short words.
 
-CosyVoice2-0.5B non-deterministically drops the final syllable of short inputs
-(verified: 40-60% failure on 1-3 char words). The fix is generate -> ASR-verify
-the final character is present -> retry until correct. We do this once at build
-time and store each clip in R2 keyed by a hash of the text, so runtime playback
-is instant and guaranteed-correct. The Next.js runtime uses the SAME key scheme
-(src/lib/tts.ts) and lazily fills any gaps.
+Edge TTS renders every word reliably and at consistent volume (verified: 30/30
+words, 0 silent, min loudness far above CosyVoice2's best). Same R2 key scheme as
+the Node runtime (src/lib/tts.ts): tts/v1/{voiceKey}/sha256(voiceKey:text).mp3.
 
-Idempotent + resumable: skips words already present in R2.
+Idempotent + resumable: objects are tagged `engine=edge`; a re-run skips words
+already regenerated with Edge (so it also replaces the old CosyVoice clips).
 Usage:  python scripts/pregenerate-tts.py [level ...]   (default: all levels)
-        python scripts/pregenerate-tts.py --limit 15 1   (test: 15 words of HSK1)
-Reads SILICONFLOW_API_KEY and R2_* from .env (gitignored).
+        python scripts/pregenerate-tts.py --limit 20 1
+Reads R2_* from .env (gitignored). Edge TTS needs no API key.
 """
+import asyncio
 import hashlib
 import json
 import os
-import re
 import sys
-import time
-import urllib.request
-from concurrent.futures import ThreadPoolExecutor, as_completed
 
 import boto3
+import edge_tts
 from botocore.config import Config
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -35,101 +33,72 @@ with open(os.path.join(ROOT, ".env"), encoding="utf-8") as f:
             k, v = line.split("=", 1)
             env[k] = v.strip().strip('"')
 
-SF_KEY = env["SILICONFLOW_API_KEY"]
-TTS_MODEL = "FunAudioLLM/CosyVoice2-0.5B"
-ASR_MODEL = "FunAudioLLM/SenseVoiceSmall"
 VOICE_KEY = "narrator"
-VOICE = f"{TTS_MODEL}:anna"
-KEY_PREFIX = "tts/v1"  # must match src/lib/tts.ts
-MAX_RETRY = 5
+EDGE_VOICE = "zh-CN-XiaoxiaoNeural"  # must match src/lib/tts.ts narrator voice
+EDGE_RATE = "-10%"
+KEY_PREFIX = "tts/v1"
+CONCURRENCY = 8
+GEN_TIMEOUT = 20
+MAX_RETRY = 6
 
-s3 = boto3.client(
-    "s3",
-    endpoint_url=env["R2_ENDPOINT"],
-    aws_access_key_id=env["R2_ACCESS_KEY_ID"],
-    aws_secret_access_key=env["R2_SECRET_ACCESS_KEY"],
-    region_name="auto",
-    config=Config(signature_version="s3v4", retries={"max_attempts": 3}),
-)
+s3 = boto3.client("s3", endpoint_url=env["R2_ENDPOINT"], aws_access_key_id=env["R2_ACCESS_KEY_ID"],
+    aws_secret_access_key=env["R2_SECRET_ACCESS_KEY"], region_name="auto",
+    config=Config(signature_version="s3v4", retries={"max_attempts": 3}))
 BUCKET = env["R2_BUCKET"]
+sem = asyncio.Semaphore(CONCURRENCY)
 
 
-def r2_key(text: str, voice_key: str = VOICE_KEY) -> str:
+def r2_key(text, voice_key=VOICE_KEY):
     h = hashlib.sha256(f"{voice_key}:{text}".encode("utf-8")).hexdigest()
     return f"{KEY_PREFIX}/{voice_key}/{h}.mp3"
 
 
-def tts(text: str) -> bytes:
-    inp = text if re.search(r"[。！？，、.!?…]$", text) else text + "。"
-    body = json.dumps({
-        "model": TTS_MODEL, "input": inp, "voice": VOICE,
-        "response_format": "mp3", "speed": 0.9, "stream": False,
-    }).encode("utf-8")
-    req = urllib.request.Request(
-        "https://api.siliconflow.cn/v1/audio/speech", data=body,
-        headers={"Content-Type": "application/json", "Authorization": "Bearer " + SF_KEY})
-    return urllib.request.urlopen(req, timeout=60).read()
-
-
-def asr(mp3: bytes) -> str:
-    b = "----hskpregenboundary"
-    body = (
-        ("--" + b + "\r\n").encode()
-        + b'Content-Disposition: form-data; name="model"\r\n\r\n'
-        + (ASR_MODEL + "\r\n").encode()
-        + ("--" + b + "\r\n").encode()
-        + b'Content-Disposition: form-data; name="file"; filename="a.mp3"\r\nContent-Type: audio/mpeg\r\n\r\n'
-        + mp3 + b"\r\n" + ("--" + b + "--\r\n").encode()
-    )
-    req = urllib.request.Request(
-        "https://api.siliconflow.cn/v1/audio/transcriptions", data=body,
-        headers={"Content-Type": "multipart/form-data; boundary=" + b, "Authorization": "Bearer " + SF_KEY})
-    txt = json.loads(urllib.request.urlopen(req, timeout=60).read()).get("text", "")
-    return re.sub(r"<\|[^|]*\|>", "", txt).strip()
-
-
-def generate_verified(text: str):
-    """Return (mp3_bytes, verified_bool). Retries until the final character of
-    `text` appears in the ASR transcript. ASR is unreliable on a lone syllable,
-    so when it never confirms we fall back to the LONGEST attempt (a truncated
-    clip is shorter than a complete one)."""
-    best = None
-    best_len = -1
-    target = text[-1]
-    for _ in range(MAX_RETRY):
+async def edge_generate(text):
+    """Return mp3 bytes, or None after exhausting retries. Per-call hard timeout
+    guards against Edge's occasional WebSocket hang."""
+    for attempt in range(MAX_RETRY):
         try:
-            audio = tts(text)
-            if not audio:
-                continue
-            if len(audio) > best_len:
-                best, best_len = audio, len(audio)
-            if target in asr(audio):
-                return audio, True
+            comm = edge_tts.Communicate(text, EDGE_VOICE, rate=EDGE_RATE)
+            chunks = []
+
+            async def collect():
+                async for ch in comm.stream():
+                    if ch["type"] == "audio":
+                        chunks.append(ch["data"])
+
+            await asyncio.wait_for(collect(), timeout=GEN_TIMEOUT)
+            audio = b"".join(chunks)
+            if audio:
+                return audio
         except Exception:
-            time.sleep(1.0)
-    return best, False
+            await asyncio.sleep(1.0 * (attempt + 1))
+    return None
 
 
-def process(word):
+async def process(word):
     text = word["hanzi"]
     key = r2_key(text)
-    try:
-        s3.head_object(Bucket=BUCKET, Key=key)
-        return ("skip", text)
-    except Exception:
-        pass
-    audio, ok = generate_verified(text)
-    if not audio:
-        return ("fail", text)
-    try:
-        s3.put_object(Bucket=BUCKET, Key=key, Body=audio, ContentType="audio/mpeg",
-                      CacheControl="public, max-age=31536000, immutable")
-    except Exception:
-        return ("fail", text)
-    return ("ok" if ok else "unverified", text)
+    async with sem:
+        # resumable: skip words already regenerated with Edge
+        try:
+            head = await asyncio.to_thread(s3.head_object, Bucket=BUCKET, Key=key)
+            if head.get("Metadata", {}).get("engine") == "edge":
+                return "skip"
+        except Exception:
+            pass
+        audio = await edge_generate(text)
+        if not audio:
+            return "fail"
+        try:
+            await asyncio.to_thread(
+                s3.put_object, Bucket=BUCKET, Key=key, Body=audio, ContentType="audio/mpeg",
+                CacheControl="public, max-age=31536000, immutable", Metadata={"engine": "edge"})
+        except Exception:
+            return "fail"
+        return "ok"
 
 
-def main():
+async def main():
     args = sys.argv[1:]
     limit = None
     if "--limit" in args:
@@ -142,19 +111,17 @@ def main():
         words += json.load(open(os.path.join(VOCAB, f"hsk{lv}.json"), encoding="utf-8"))
     if limit:
         words = words[:limit]
-    print(f"pregenerating {len(words)} words -> R2 bucket '{BUCKET}'", flush=True)
-    counts = {"ok": 0, "unverified": 0, "skip": 0, "fail": 0}
+    print(f"Edge-TTS pregenerating {len(words)} words -> R2 '{BUCKET}'", flush=True)
+    counts = {"ok": 0, "skip": 0, "fail": 0}
     done = 0
-    with ThreadPoolExecutor(max_workers=8) as ex:
-        futs = [ex.submit(process, w) for w in words]
-        for fut in as_completed(futs):
-            status, text = fut.result()
-            counts[status] += 1
-            done += 1
-            if done % 100 == 0:
-                print(f"  {done}/{len(words)}  {counts}", flush=True)
+    tasks = [asyncio.ensure_future(process(w)) for w in words]
+    for fut in asyncio.as_completed(tasks):
+        counts[await fut] += 1
+        done += 1
+        if done % 100 == 0:
+            print(f"  {done}/{len(words)}  {counts}", flush=True)
     print(f"DONE {counts}", flush=True)
 
 
 if __name__ == "__main__":
-    main()
+    asyncio.run(main())

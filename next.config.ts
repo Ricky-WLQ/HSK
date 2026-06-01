@@ -9,7 +9,7 @@ const nextConfig: NextConfig = {
   // better-auth is server-only and pulls in optional DB adapters (kysely, etc.)
   // that ship as CommonJS — bundling them trips webpack's strict ESM analysis,
   // so we require them at runtime instead.
-  serverExternalPackages: ["@prisma/client", "prisma", "better-auth"],
+  serverExternalPackages: ["@prisma/client", "prisma", "better-auth", "edge-tts-universal"],
 };
 
 export default nextConfig;

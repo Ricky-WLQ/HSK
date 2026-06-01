@@ -1,11 +1,11 @@
 import { NextRequest, NextResponse } from "next/server";
 import { getSession } from "@/lib/session";
-import { ttsKey, normalizeVoiceKey, generateVerifiedAudio } from "@/lib/tts";
+import { ttsKey, normalizeVoiceKey, generateAudio } from "@/lib/tts";
 import { r2Configured, r2Get, r2Put } from "@/lib/r2";
 
 // Audio is pre-generated to R2 (scripts/pregenerate-tts.py) and served from there;
-// anything missing is generated on demand (ASR-verified), cached, and uploaded.
-// Login-gated: only authenticated users can spend the TTS/SiliconFlow quota.
+// anything missing is generated on demand (Edge TTS), cached, and uploaded.
+// Login-gated: only authenticated users can spend generation cost.
 
 // Small hot in-memory LRU so repeated plays of the same word skip the R2 round-trip.
 const hot = new Map<string, ArrayBuffer>();
@@ -83,13 +83,13 @@ export async function GET(req: NextRequest) {
     }
   }
 
-  // 3) generate on demand (rate-limited, ASR-verified)
+  // 3) generate on demand (rate-limited)
   if (genLimited(session.user.id)) {
     return NextResponse.json({ error: "rate limited" }, { status: 429 });
   }
   let audio: ArrayBuffer | null = null;
   try {
-    audio = await generateVerifiedAudio(text, voiceKey);
+    audio = await generateAudio(text, voiceKey);
   } catch {
     audio = null;
   }
