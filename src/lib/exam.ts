@@ -110,8 +110,9 @@ export async function getPracticeSetsForLevel(
 export async function getPracticeSet(setId: string): Promise<HskPracticeSet | null> {
   const cached = _sets.get(setId);
   if (cached) return cached;
-  // setId shape: hsk{level}-{section}-{NNN}; file at practice/hsk{level}/{section}/{setId}.json
-  const m = setId.match(/^hsk(.+)-(listening|reading|writing|translation|speaking)-\d+$/);
+  // setId shape: hsk{level}-{section}-p{NN}; file at practice/hsk{level}/{section}/{setId}.json
+  // level may contain a hyphen ("7-9"); the part suffix is like "p301".
+  const m = setId.match(/^hsk([\d-]+)-(listening|reading|writing|translation|speaking)-[a-z]*\d+$/);
   if (!m) return null;
   const [, level, section] = m;
   try {
