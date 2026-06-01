@@ -1,0 +1,89 @@
+{
+ "id": "hsk2-reading-p108",
+ "level": "2",
+ "section": "reading",
+ "partKey": "reading-p1",
+ "title": "HSK2 Reading P1",
+ "titleZh": "阅读 第一部分（看图选句）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请选择与句子内容匹配的场景图片。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-aaa2a3c46c97f30ba0794f7baf5571c0.png"
+    },
+    {
+     "label": "B",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-286ca5b6170e1e9da82f66b47216fc64.png"
+    },
+    {
+     "label": "C",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-19e37cd3a482f0acd2cec8d302ef1ce8.png"
+    },
+    {
+     "label": "D",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-f5741e18f630f8694a691f9fb58337e5.png"
+    },
+    {
+     "label": "E",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-1c5eadc7eaa7538cf3ea4e0927328ccc.png"
+    },
+    {
+     "label": "F",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-f4a5e632fd7ee56df896cd6044a068d4.png"
+    }
+   ],
+   "questions": [
+    {
+     "id": "q1",
+     "type": "image-match",
+     "prompt": "我吃苹果",
+     "correctAnswer": "C",
+     "explanation": "句子的意思是“我吃苹果”，图片中的人在吃苹果，所以匹配。",
+     "pinyin": "wǒ chī píng guǒ"
+    },
+    {
+     "id": "q2",
+     "type": "image-match",
+     "prompt": "他喝水",
+     "correctAnswer": "A",
+     "explanation": "句子的意思是“他喝水”，图片中的男孩在喝水，所以匹配。",
+     "pinyin": "tā hē shuǐ"
+    },
+    {
+     "id": "q3",
+     "type": "image-match",
+     "prompt": "猫在睡觉",
+     "correctAnswer": "B",
+     "explanation": "句子的意思是“猫在睡觉”，图片中的猫在睡觉，所以匹配。",
+     "pinyin": "māo zài shuì jiào"
+    },
+    {
+     "id": "q4",
+     "type": "image-match",
+     "prompt": "学生看书",
+     "correctAnswer": "E",
+     "explanation": "句子的意思是“学生看书”，图片中的学生在看书，所以匹配。",
+     "pinyin": "xué shēng kàn shū"
+    },
+    {
+     "id": "q5",
+     "type": "image-match",
+     "prompt": "妈妈做饭",
+     "correctAnswer": "D",
+     "explanation": "句子的意思是“妈妈做饭”，图片中的女人在做饭，所以匹配。",
+     "pinyin": "mā mā zuò fàn"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

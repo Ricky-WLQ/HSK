@@ -1,0 +1,89 @@
+{
+ "id": "hsk1-reading-p105",
+ "level": "1",
+ "section": "reading",
+ "partKey": "reading-p1",
+ "title": "HSK1 Reading P1",
+ "titleZh": "阅读 第一部分（看图选句）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请选出与句子内容相符的图片。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-747b5a88fc47c70ca5cd636d21c42147.png"
+    },
+    {
+     "label": "B",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-e59fb77a6a98734da006f8ffeb4c9636.png"
+    },
+    {
+     "label": "C",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-211943d1f2f280d55cbeb3b19b269321.png"
+    },
+    {
+     "label": "D",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-5e14890f43e89158ad2e65e0aaf409ed.png"
+    },
+    {
+     "label": "E",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-031e9eee2e99bdf13baedf2b99f3ad95.png"
+    },
+    {
+     "label": "F",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-ff31f792106bd2aae1cc89b56fb14d64.png"
+    }
+   ],
+   "questions": [
+    {
+     "id": "q1",
+     "type": "image-match",
+     "prompt": "她吃苹果。",
+     "correctAnswer": "E",
+     "explanation": "一个女人在吃苹果。",
+     "pinyin": "tā chī píng guǒ 。"
+    },
+    {
+     "id": "q2",
+     "type": "image-match",
+     "prompt": "他看书。",
+     "correctAnswer": "A",
+     "explanation": "一个男人在看书。",
+     "pinyin": "tā kàn shū 。"
+    },
+    {
+     "id": "q3",
+     "type": "image-match",
+     "prompt": "妈妈喝水。",
+     "correctAnswer": "B",
+     "explanation": "一位母亲在喝水。",
+     "pinyin": "mā mā hē shuǐ 。"
+    },
+    {
+     "id": "q4",
+     "type": "image-match",
+     "prompt": "孩子跑。",
+     "correctAnswer": "F",
+     "explanation": "一个小孩在跑步。",
+     "pinyin": "hái zi pǎo 。"
+    },
+    {
+     "id": "q5",
+     "type": "image-match",
+     "prompt": "学生写字。",
+     "correctAnswer": "D",
+     "explanation": "一个学生在写字。",
+     "pinyin": "xué shēng xiě zì 。"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

@@ -1,0 +1,89 @@
+{
+ "id": "hsk2-reading-p120",
+ "level": "2",
+ "section": "reading",
+ "partKey": "reading-p1",
+ "title": "HSK2 Reading P1",
+ "titleZh": "阅读 第一部分（看图选句）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请将下面的句子与对应的图片场景匹配。注意：有一个场景是多余的。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-2b32ceff6ce485cc0f37d47c4bb2ae8c.png"
+    },
+    {
+     "label": "B",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-eec35160d2f22a843a0d9d110a7713ad.png"
+    },
+    {
+     "label": "C",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-90fa3199988e4a33798698f7fe3b6d34.png"
+    },
+    {
+     "label": "D",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-18698230313813de21738573054bd8a9.png"
+    },
+    {
+     "label": "E",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-08475612492542ef2ebef0123658e501.png"
+    },
+    {
+     "label": "F",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-e007b36013234aa9c416fbd675ad23be.png"
+    }
+   ],
+   "questions": [
+    {
+     "id": "q1",
+     "type": "image-match",
+     "prompt": "他吃饭。",
+     "correctAnswer": "A",
+     "explanation": "这句话的意思是有一个男人在吃饭，图片中正好是一个男人在吃饭的场景，所以匹配。",
+     "pinyin": "tā chī fàn 。"
+    },
+    {
+     "id": "q2",
+     "type": "image-match",
+     "prompt": "她看书。",
+     "correctAnswer": "D",
+     "explanation": "这句话的意思是有一个女人在看书，图片中是一个女人在看书的场景，所以匹配。",
+     "pinyin": "tā kàn shū 。"
+    },
+    {
+     "id": "q3",
+     "type": "image-match",
+     "prompt": "我吃苹果。",
+     "correctAnswer": "B",
+     "explanation": "这句话的意思是有一个男孩在吃苹果，图片中是一个男孩在吃苹果的场景，所以匹配。",
+     "pinyin": "wǒ chī píng guǒ 。"
+    },
+    {
+     "id": "q4",
+     "type": "image-match",
+     "prompt": "猫睡觉。",
+     "correctAnswer": "C",
+     "explanation": "这句话的意思是有一只猫在睡觉，图片中是一只猫在睡觉的场景，所以匹配。",
+     "pinyin": "māo shuì jiào 。"
+    },
+    {
+     "id": "q5",
+     "type": "image-match",
+     "prompt": "他看电视。",
+     "correctAnswer": "F",
+     "explanation": "这句话的意思是有一个男人在看电视，图片中是一个男人在看电视的场景，所以匹配。",
+     "pinyin": "tā kàn diàn shì 。"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

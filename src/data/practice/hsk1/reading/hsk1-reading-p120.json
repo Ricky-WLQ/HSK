@@ -1,0 +1,89 @@
+{
+ "id": "hsk1-reading-p120",
+ "level": "1",
+ "section": "reading",
+ "partKey": "reading-p1",
+ "title": "HSK1 Reading P1",
+ "titleZh": "阅读 第一部分（看图选句）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "下面有5个句子和6幅图片，请选出与每个句子内容相符的图片。注意：有一幅图片是多余的。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-40ac1573f0b30351fca602d6a4b4f71a.png"
+    },
+    {
+     "label": "B",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-1c5eadc7eaa7538cf3ea4e0927328ccc.png"
+    },
+    {
+     "label": "C",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-a0f408edb53ef22fd94212849d89cc69.png"
+    },
+    {
+     "label": "D",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-c39decf93ce2d9971385f0515e1b60ce.png"
+    },
+    {
+     "label": "E",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-68ff70691194772002e80dd956f169e5.png"
+    },
+    {
+     "label": "F",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-a01be37e38c700e05d364e8e9a91bc62.png"
+    }
+   ],
+   "questions": [
+    {
+     "id": "q1",
+     "type": "image-match",
+     "prompt": "猫喝水",
+     "correctAnswer": "D",
+     "explanation": "这句话的意思是猫在喝水。",
+     "pinyin": "māo hē shuǐ"
+    },
+    {
+     "id": "q2",
+     "type": "image-match",
+     "prompt": "学生看书",
+     "correctAnswer": "B",
+     "explanation": "这句话的意思是学生在看书。",
+     "pinyin": "xué shēng kàn shū"
+    },
+    {
+     "id": "q3",
+     "type": "image-match",
+     "prompt": "他吃苹果",
+     "correctAnswer": "C",
+     "explanation": "这句话的意思是他在吃苹果。",
+     "pinyin": "tā chī píng guǒ"
+    },
+    {
+     "id": "q4",
+     "type": "image-match",
+     "prompt": "妈妈做饭",
+     "correctAnswer": "E",
+     "explanation": "这句话的意思是妈妈在做饭。",
+     "pinyin": "mā mā zuò fàn"
+    },
+    {
+     "id": "q5",
+     "type": "image-match",
+     "prompt": "狗在睡觉",
+     "correctAnswer": "A",
+     "explanation": "这句话的意思是狗正在睡觉。",
+     "pinyin": "gǒu zài shuì jiào"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

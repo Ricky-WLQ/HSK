@@ -1,0 +1,89 @@
+{
+ "id": "hsk2-reading-p112",
+ "level": "2",
+ "section": "reading",
+ "partKey": "reading-p1",
+ "title": "HSK2 Reading P1",
+ "titleZh": "阅读 第一部分（看图选句）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请将下列句子与对应的图片匹配。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-eec35160d2f22a843a0d9d110a7713ad.png"
+    },
+    {
+     "label": "B",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-747b5a88fc47c70ca5cd636d21c42147.png"
+    },
+    {
+     "label": "C",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-f48e9eb0ade9f4ea417b62a5a1192600.png"
+    },
+    {
+     "label": "D",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-def2ac14ad2ca02d21b00b27fbd9def3.png"
+    },
+    {
+     "label": "E",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-4c30ba027d7d73b8af4edaaa3e459b4e.png"
+    },
+    {
+     "label": "F",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-c584693cd29546e1ca27bcc1995b3ff2.png"
+    }
+   ],
+   "questions": [
+    {
+     "id": "q1",
+     "type": "image-match",
+     "prompt": "他看书。",
+     "correctAnswer": "B",
+     "explanation": "他在看书。",
+     "pinyin": "tā kàn shū 。"
+    },
+    {
+     "id": "q2",
+     "type": "image-match",
+     "prompt": "我吃苹果。",
+     "correctAnswer": "A",
+     "explanation": "我在吃苹果。",
+     "pinyin": "wǒ chī píng guǒ 。"
+    },
+    {
+     "id": "q3",
+     "type": "image-match",
+     "prompt": "妈妈做饭。",
+     "correctAnswer": "D",
+     "explanation": "妈妈在做饭。",
+     "pinyin": "mā mā zuò fàn 。"
+    },
+    {
+     "id": "q4",
+     "type": "image-match",
+     "prompt": "小狗跑。",
+     "correctAnswer": "F",
+     "explanation": "小狗在跑。",
+     "pinyin": "xiǎo gǒu pǎo 。"
+    },
+    {
+     "id": "q5",
+     "type": "image-match",
+     "prompt": "她喝水。",
+     "correctAnswer": "E",
+     "explanation": "她在喝水。",
+     "pinyin": "tā hē shuǐ 。"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

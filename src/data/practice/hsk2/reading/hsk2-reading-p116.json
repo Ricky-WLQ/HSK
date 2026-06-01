@@ -1,0 +1,89 @@
+{
+ "id": "hsk2-reading-p116",
+ "level": "2",
+ "section": "reading",
+ "partKey": "reading-p1",
+ "title": "HSK2 Reading P1",
+ "titleZh": "阅读 第一部分（看图选句）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请将下列句子与对应的场景匹配。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-def2ac14ad2ca02d21b00b27fbd9def3.png"
+    },
+    {
+     "label": "B",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-7318515ca6c95198cff49e7e85952f38.png"
+    },
+    {
+     "label": "C",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-8eb0a0066b2b1806c1ac8463310379b9.png"
+    },
+    {
+     "label": "D",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-b7d8864dc17436d03facd06ce7bcc2cf.png"
+    },
+    {
+     "label": "E",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-c584693cd29546e1ca27bcc1995b3ff2.png"
+    },
+    {
+     "label": "F",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-9b854e52cb7fc487618644a020ed70f6.png"
+    }
+   ],
+   "questions": [
+    {
+     "id": "q1",
+     "type": "image-match",
+     "prompt": "妈妈做饭。",
+     "correctAnswer": "A",
+     "explanation": "这句话的意思是妈妈正在做饭。",
+     "pinyin": "mā mā zuò fàn 。"
+    },
+    {
+     "id": "q2",
+     "type": "image-match",
+     "prompt": "爸爸喝水。",
+     "correctAnswer": "B",
+     "explanation": "这句话的意思是爸爸正在喝水。",
+     "pinyin": "bà bà hē shuǐ 。"
+    },
+    {
+     "id": "q3",
+     "type": "image-match",
+     "prompt": "小猫吃鱼。",
+     "correctAnswer": "F",
+     "explanation": "这句话的意思是猫在吃鱼。",
+     "pinyin": "xiǎo māo chī yú 。"
+    },
+    {
+     "id": "q4",
+     "type": "image-match",
+     "prompt": "小狗跑。",
+     "correctAnswer": "E",
+     "explanation": "这句话的意思是狗在跑。",
+     "pinyin": "xiǎo gǒu pǎo 。"
+    },
+    {
+     "id": "q5",
+     "type": "image-match",
+     "prompt": "孩子看书。",
+     "correctAnswer": "D",
+     "explanation": "这句话的意思是孩子正在看书。",
+     "pinyin": "hái zi kàn shū 。"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

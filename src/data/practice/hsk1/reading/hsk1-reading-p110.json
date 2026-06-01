@@ -1,0 +1,89 @@
+{
+ "id": "hsk1-reading-p110",
+ "level": "1",
+ "section": "reading",
+ "partKey": "reading-p1",
+ "title": "HSK1 Reading P1",
+ "titleZh": "阅读 第一部分（看图选句）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请将句子与对应的图片场景匹配。每个句子描述一个日常物品或动作。有一个多余的场景。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-8f1194a0604c3dbf2ccfb08082149718.png"
+    },
+    {
+     "label": "B",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-d0572ffdf1b1b89fc4a8c8faf06304af.png"
+    },
+    {
+     "label": "C",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-c39decf93ce2d9971385f0515e1b60ce.png"
+    },
+    {
+     "label": "D",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-747b5a88fc47c70ca5cd636d21c42147.png"
+    },
+    {
+     "label": "E",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-799c13d2af7c2ed9006336f2fb949713.png"
+    },
+    {
+     "label": "F",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-3a52d29c58769337a5ef9eaba443aebe.png"
+    }
+   ],
+   "questions": [
+    {
+     "id": "q1",
+     "type": "image-match",
+     "prompt": "我吃苹果",
+     "correctAnswer": "B",
+     "explanation": "这句话说'我吃苹果'，意思是'我'在吃'苹果'。",
+     "pinyin": "wǒ chī píng guǒ"
+    },
+    {
+     "id": "q2",
+     "type": "image-match",
+     "prompt": "他在看书",
+     "correctAnswer": "D",
+     "explanation": "这句话说'他在看书'，意思是'他'正在看'书'。",
+     "pinyin": "tā zài kàn shū"
+    },
+    {
+     "id": "q3",
+     "type": "image-match",
+     "prompt": "猫在喝水",
+     "correctAnswer": "C",
+     "explanation": "这句话说'猫在喝水'，意思是'猫'正在喝'水'。",
+     "pinyin": "māo zài hē shuǐ"
+    },
+    {
+     "id": "q4",
+     "type": "image-match",
+     "prompt": "妈妈做饭",
+     "correctAnswer": "A",
+     "explanation": "这句话说'妈妈做饭'，意思是'妈妈'在做饭。",
+     "pinyin": "mā mā zuò fàn"
+    },
+    {
+     "id": "q5",
+     "type": "image-match",
+     "prompt": "学生写字",
+     "correctAnswer": "E",
+     "explanation": "这句话说'学生写字'，意思是'学生'在写'字'。",
+     "pinyin": "xué shēng xiě zì"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

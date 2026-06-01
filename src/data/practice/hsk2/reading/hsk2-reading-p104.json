@@ -1,0 +1,89 @@
+{
+ "id": "hsk2-reading-p104",
+ "level": "2",
+ "section": "reading",
+ "partKey": "reading-p1",
+ "title": "HSK2 Reading P1",
+ "titleZh": "阅读 第一部分（看图选句）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请将下列句子与对应的场景配对。每个场景描述一个具体的事物或动作。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-56bbc6c975ffb59491c861acf294ead6.png"
+    },
+    {
+     "label": "B",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-18698230313813de21738573054bd8a9.png"
+    },
+    {
+     "label": "C",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-3487bcf87ad403b2f1ec0fcf48568e3c.png"
+    },
+    {
+     "label": "D",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-7318515ca6c95198cff49e7e85952f38.png"
+    },
+    {
+     "label": "E",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-286ca5b6170e1e9da82f66b47216fc64.png"
+    },
+    {
+     "label": "F",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-879eee38f8ab59cae616a80151fe576e.png"
+    }
+   ],
+   "questions": [
+    {
+     "id": "q1",
+     "type": "image-match",
+     "prompt": "我吃苹果。",
+     "correctAnswer": "F",
+     "explanation": "句子描述一个男孩在吃苹果，场景中男孩正在吃红苹果。",
+     "pinyin": "wǒ chī píng guǒ 。"
+    },
+    {
+     "id": "q2",
+     "type": "image-match",
+     "prompt": "她看书。",
+     "correctAnswer": "B",
+     "explanation": "句子描述一个女人在看书，场景中女人正在读书。",
+     "pinyin": "tā kàn shū 。"
+    },
+    {
+     "id": "q3",
+     "type": "image-match",
+     "prompt": "他喝水。",
+     "correctAnswer": "D",
+     "explanation": "句子描述一个男人在喝水，场景中男人正在喝水。",
+     "pinyin": "tā hē shuǐ 。"
+    },
+    {
+     "id": "q4",
+     "type": "image-match",
+     "prompt": "猫在睡觉。",
+     "correctAnswer": "E",
+     "explanation": "句子描述一只猫在睡觉，场景中猫在沙发上睡觉。",
+     "pinyin": "māo zài shuì jiào 。"
+    },
+    {
+     "id": "q5",
+     "type": "image-match",
+     "prompt": "孩子在玩球。",
+     "correctAnswer": "C",
+     "explanation": "句子描述一个孩子在玩球，场景中孩子正在玩球。",
+     "pinyin": "hái zi zài wán qiú 。"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

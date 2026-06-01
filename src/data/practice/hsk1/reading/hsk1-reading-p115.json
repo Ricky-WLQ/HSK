@@ -1,0 +1,89 @@
+{
+ "id": "hsk1-reading-p115",
+ "level": "1",
+ "section": "reading",
+ "partKey": "reading-p1",
+ "title": "HSK1 Reading P1",
+ "titleZh": "阅读 第一部分（看图选句）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请根据句子内容，选择对应的图片。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-18698230313813de21738573054bd8a9.png"
+    },
+    {
+     "label": "B",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-5b1d7b684f24e79d7c851083af0c3f0b.png"
+    },
+    {
+     "label": "C",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-d9a3bf47b91832383c34f0e73e11171b.png"
+    },
+    {
+     "label": "D",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-19e37cd3a482f0acd2cec8d302ef1ce8.png"
+    },
+    {
+     "label": "E",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-c49b240bed5b1a31498e640950f8db78.png"
+    },
+    {
+     "label": "F",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-03908074a8811645d4f4abaf48ba3784.png"
+    }
+   ],
+   "questions": [
+    {
+     "id": "q1",
+     "type": "image-match",
+     "prompt": "我吃苹果",
+     "correctAnswer": "D",
+     "explanation": "一个人吃一个苹果。",
+     "pinyin": "wǒ chī píng guǒ"
+    },
+    {
+     "id": "q2",
+     "type": "image-match",
+     "prompt": "她在看书",
+     "correctAnswer": "A",
+     "explanation": "一个女人在看书。",
+     "pinyin": "tā zài kàn shū"
+    },
+    {
+     "id": "q3",
+     "type": "image-match",
+     "prompt": "狗喝水",
+     "correctAnswer": "C",
+     "explanation": "一只狗在喝水。",
+     "pinyin": "gǒu hē shuǐ"
+    },
+    {
+     "id": "q4",
+     "type": "image-match",
+     "prompt": "他坐火车",
+     "correctAnswer": "F",
+     "explanation": "一个男人在坐火车。",
+     "pinyin": "tā zuò huǒ chē"
+    },
+    {
+     "id": "q5",
+     "type": "image-match",
+     "prompt": "孩子走路",
+     "correctAnswer": "B",
+     "explanation": "一个小孩在走路。",
+     "pinyin": "hái zi zǒu lù"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

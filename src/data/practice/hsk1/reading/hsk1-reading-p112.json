@@ -1,0 +1,89 @@
+{
+ "id": "hsk1-reading-p112",
+ "level": "1",
+ "section": "reading",
+ "partKey": "reading-p1",
+ "title": "HSK1 Reading P1",
+ "titleZh": "阅读 第一部分（看图选句）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请将以下句子与对应的图片场景匹配。每个句子描述一个具体的日常物品或动作。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-6a3736591e32297012d19244ff0fedba.png"
+    },
+    {
+     "label": "B",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-9b854e52cb7fc487618644a020ed70f6.png"
+    },
+    {
+     "label": "C",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-747b5a88fc47c70ca5cd636d21c42147.png"
+    },
+    {
+     "label": "D",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-6c2163c0ffbc6adb26148f657d98ed88.png"
+    },
+    {
+     "label": "E",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-ef0abcf167197adc7a9987f965a02af4.png"
+    },
+    {
+     "label": "F",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-b02b2de12d748e9eaa20049ac6676e1d.png"
+    }
+   ],
+   "questions": [
+    {
+     "id": "q1",
+     "type": "image-match",
+     "prompt": "我喝水",
+     "correctAnswer": "A",
+     "explanation": "我喝水表示一个人正在喝水。",
+     "pinyin": "wǒ hē shuǐ"
+    },
+    {
+     "id": "q2",
+     "type": "image-match",
+     "prompt": "他看书",
+     "correctAnswer": "C",
+     "explanation": "他看书表示一个男人正在看书。",
+     "pinyin": "tā kàn shū"
+    },
+    {
+     "id": "q3",
+     "type": "image-match",
+     "prompt": "猫吃鱼",
+     "correctAnswer": "B",
+     "explanation": "猫吃鱼表示一只猫正在吃鱼。",
+     "pinyin": "māo chī yú"
+    },
+    {
+     "id": "q4",
+     "type": "image-match",
+     "prompt": "小孩写字",
+     "correctAnswer": "F",
+     "explanation": "小孩写字表示一个小孩正在写字。",
+     "pinyin": "xiǎo hái xiě zì"
+    },
+    {
+     "id": "q5",
+     "type": "image-match",
+     "prompt": "老师说话",
+     "correctAnswer": "E",
+     "explanation": "老师说话表示一位老师正在说话。",
+     "pinyin": "lǎo shī shuō huà"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

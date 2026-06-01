@@ -1,0 +1,89 @@
+{
+ "id": "hsk1-reading-p113",
+ "level": "1",
+ "section": "reading",
+ "partKey": "reading-p1",
+ "title": "HSK1 Reading P1",
+ "titleZh": "阅读 第一部分（看图选句）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "选出与句子内容相符的场景。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-9716193db94e7f1fcadc6bf241a5c2dc.png"
+    },
+    {
+     "label": "B",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-11fde26fd13c5ea98cfc649719eabb82.png"
+    },
+    {
+     "label": "C",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-b5f5d1689da65d02ecfe40c2fb072941.png"
+    },
+    {
+     "label": "D",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-a423dbd7d0947820f22b6cc4581f53aa.png"
+    },
+    {
+     "label": "E",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-602dcaded4155468bd0fb675d8627bf7.png"
+    },
+    {
+     "label": "F",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-a3f35d7ef2d226c42fcd70b9dc8e9aad.png"
+    }
+   ],
+   "questions": [
+    {
+     "id": "q1",
+     "type": "image-match",
+     "prompt": "我喝水。",
+     "correctAnswer": "F",
+     "explanation": "句子“我喝水”描述一个女人正在喝水。",
+     "pinyin": "wǒ hē shuǐ 。"
+    },
+    {
+     "id": "q2",
+     "type": "image-match",
+     "prompt": "他看书。",
+     "correctAnswer": "E",
+     "explanation": "句子“他看书”描述一个男孩正在看书。",
+     "pinyin": "tā kàn shū 。"
+    },
+    {
+     "id": "q3",
+     "type": "image-match",
+     "prompt": "她吃苹果。",
+     "correctAnswer": "D",
+     "explanation": "句子“她吃苹果”描述一个女孩正在吃苹果。",
+     "pinyin": "tā chī píng guǒ 。"
+    },
+    {
+     "id": "q4",
+     "type": "image-match",
+     "prompt": "猫喝水。",
+     "correctAnswer": "B",
+     "explanation": "句子“猫喝水”描述一只猫正在喝水。",
+     "pinyin": "māo hē shuǐ 。"
+    },
+    {
+     "id": "q5",
+     "type": "image-match",
+     "prompt": "我写字。",
+     "correctAnswer": "C",
+     "explanation": "句子“我写字”描述一个人正在写字。",
+     "pinyin": "wǒ xiě zì 。"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

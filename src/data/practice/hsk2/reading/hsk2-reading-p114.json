@@ -1,0 +1,89 @@
+{
+ "id": "hsk2-reading-p114",
+ "level": "2",
+ "section": "reading",
+ "partKey": "reading-p1",
+ "title": "HSK2 Reading P1",
+ "titleZh": "阅读 第一部分（看图选句）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请选出与句子匹配的图片场景。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-9b854e52cb7fc487618644a020ed70f6.png"
+    },
+    {
+     "label": "B",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-15786318ce6b2df1fb55866728f44892.png"
+    },
+    {
+     "label": "C",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-4424f09e23dec821c5600493ac372729.png"
+    },
+    {
+     "label": "D",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-41c0f5744645b48c7086d13b5431dfb9.png"
+    },
+    {
+     "label": "E",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-747b5a88fc47c70ca5cd636d21c42147.png"
+    },
+    {
+     "label": "F",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-88da03a3b2f7da00782169a3325b9207.png"
+    }
+   ],
+   "questions": [
+    {
+     "id": "q1",
+     "type": "image-match",
+     "prompt": "猫吃鱼。",
+     "correctAnswer": "A",
+     "explanation": "这个句子的意思是猫在吃鱼，图片中应该有一只猫在吃鱼。",
+     "pinyin": "māo chī yú 。"
+    },
+    {
+     "id": "q2",
+     "type": "image-match",
+     "prompt": "我喝牛奶。",
+     "correctAnswer": "F",
+     "explanation": "这个句子的意思是“我”喝牛奶，图片中应该有一个女孩子在喝牛奶。",
+     "pinyin": "wǒ hē niú nǎi 。"
+    },
+    {
+     "id": "q3",
+     "type": "image-match",
+     "prompt": "他看书。",
+     "correctAnswer": "E",
+     "explanation": "这个句子的意思是他正在看书，图片中应该有一个男人在看一本书。",
+     "pinyin": "tā kàn shū 。"
+    },
+    {
+     "id": "q4",
+     "type": "image-match",
+     "prompt": "她写字。",
+     "correctAnswer": "C",
+     "explanation": "这个句子的意思是她在写字，图片中应该有一个女人用笔在纸上写字。",
+     "pinyin": "tā xiě zì 。"
+    },
+    {
+     "id": "q5",
+     "type": "image-match",
+     "prompt": "狗跑得快。",
+     "correctAnswer": "D",
+     "explanation": "这个句子的意思是狗跑得很快，图片中应该有一只狗在快速奔跑。",
+     "pinyin": "gǒu pǎo dé kuài 。"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

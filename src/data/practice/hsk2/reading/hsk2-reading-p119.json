@@ -1,0 +1,89 @@
+{
+ "id": "hsk2-reading-p119",
+ "level": "2",
+ "section": "reading",
+ "partKey": "reading-p1",
+ "title": "HSK2 Reading P1",
+ "titleZh": "阅读 第一部分（看图选句）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请将每个句子与描述最匹配的场景图片连接起来。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-5e14890f43e89158ad2e65e0aaf409ed.png"
+    },
+    {
+     "label": "B",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-747b5a88fc47c70ca5cd636d21c42147.png"
+    },
+    {
+     "label": "C",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-08475612492542ef2ebef0123658e501.png"
+    },
+    {
+     "label": "D",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-a3f35d7ef2d226c42fcd70b9dc8e9aad.png"
+    },
+    {
+     "label": "E",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-a0f408edb53ef22fd94212849d89cc69.png"
+    },
+    {
+     "label": "F",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-90fa3199988e4a33798698f7fe3b6d34.png"
+    }
+   ],
+   "questions": [
+    {
+     "id": "q1",
+     "type": "image-match",
+     "prompt": "他吃苹果。",
+     "correctAnswer": "E",
+     "explanation": "这句话描述了一个男人在吃苹果的动作。",
+     "pinyin": "tā chī píng guǒ 。"
+    },
+    {
+     "id": "q2",
+     "type": "image-match",
+     "prompt": "她喝水。",
+     "correctAnswer": "D",
+     "explanation": "这句话描述了一个女人在喝水的动作。",
+     "pinyin": "tā hē shuǐ 。"
+    },
+    {
+     "id": "q3",
+     "type": "image-match",
+     "prompt": "猫睡觉。",
+     "correctAnswer": "F",
+     "explanation": "这句话描述了一只猫在睡觉。",
+     "pinyin": "māo shuì jiào 。"
+    },
+    {
+     "id": "q4",
+     "type": "image-match",
+     "prompt": "学生写字。",
+     "correctAnswer": "A",
+     "explanation": "这句话描述了一个学生在写字。",
+     "pinyin": "xué shēng xiě zì 。"
+    },
+    {
+     "id": "q5",
+     "type": "image-match",
+     "prompt": "他看书。",
+     "correctAnswer": "B",
+     "explanation": "这句话描述了一个男人在看书。",
+     "pinyin": "tā kàn shū 。"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

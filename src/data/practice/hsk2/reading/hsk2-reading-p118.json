@@ -1,0 +1,89 @@
+{
+ "id": "hsk2-reading-p118",
+ "level": "2",
+ "section": "reading",
+ "partKey": "reading-p1",
+ "title": "HSK2 Reading P1",
+ "titleZh": "阅读 第一部分（看图选句）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "看下面的句子，然后选择符合句子的图画。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-e6283ede6cd47f389bf04deb2b505eee.png"
+    },
+    {
+     "label": "B",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-ee30e52eb336661849d9f02a99d115dc.png"
+    },
+    {
+     "label": "C",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-fe6c9c5df64f06d9330dd2a61d138688.png"
+    },
+    {
+     "label": "D",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-05fff68b8d5a8aaa81d1e9ec53286ccd.png"
+    },
+    {
+     "label": "E",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-ff83576505eee527c09b2a7c33ad2e42.png"
+    },
+    {
+     "label": "F",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-89b5f96ffdd8b179fdf5a7612768ef81.png"
+    }
+   ],
+   "questions": [
+    {
+     "id": "q1",
+     "type": "image-match",
+     "prompt": "妈妈擦桌子。",
+     "correctAnswer": "D",
+     "explanation": "妈妈正在用布擦桌子。",
+     "pinyin": "mā mā cā zhuō zi 。"
+    },
+    {
+     "id": "q2",
+     "type": "image-match",
+     "prompt": "爸爸看报纸。",
+     "correctAnswer": "A",
+     "explanation": "爸爸正在看报纸。",
+     "pinyin": "bà bà kàn bào zhǐ 。"
+    },
+    {
+     "id": "q3",
+     "type": "image-match",
+     "prompt": "小猫喝牛奶。",
+     "correctAnswer": "E",
+     "explanation": "小猫在喝牛奶。",
+     "pinyin": "xiǎo māo hē niú nǎi 。"
+    },
+    {
+     "id": "q4",
+     "type": "image-match",
+     "prompt": "学生画画。",
+     "correctAnswer": "C",
+     "explanation": "学生正在画画。",
+     "pinyin": "xué shēng huà huà 。"
+    },
+    {
+     "id": "q5",
+     "type": "image-match",
+     "prompt": "姐姐买衣服。",
+     "correctAnswer": "B",
+     "explanation": "姐姐在买衣服。",
+     "pinyin": "jiě jiě mǎi yī fú 。"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

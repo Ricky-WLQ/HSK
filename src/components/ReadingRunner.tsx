@@ -155,7 +155,21 @@ export default function ReadingRunner({ set }: { set: HskPracticeSet }) {
             </div>
           )}
 
-          {group.sharedBank && (
+          {group.sharedBank && group.sharedBank.some((o) => o.imageUrl) ? (
+            <div className="mb-5 grid grid-cols-3 gap-2">
+              {group.sharedBank.map((o) => (
+                <div key={o.label} className="rounded-xl border border-card-border p-1 text-center">
+                  {/* eslint-disable-next-line @next/next/no-img-element */}
+                  <img
+                    src={o.imageUrl}
+                    alt={`${t.practice.picture} ${o.label}`}
+                    className="aspect-square w-full rounded-lg object-cover"
+                  />
+                  <span className="text-xs font-bold text-primary">{o.label}</span>
+                </div>
+              ))}
+            </div>
+          ) : group.sharedBank ? (
             <div className="mb-5 rounded-xl border border-card-border p-3">
               <div className="mb-2 text-xs font-semibold uppercase text-foreground/50">
                 {t.practice.wordBank}
@@ -174,7 +188,7 @@ export default function ReadingRunner({ set }: { set: HskPracticeSet }) {
                 ))}
               </div>
             </div>
-          )}
+          ) : null}
 
           <div className="space-y-5">
             {group.questions.map((q, qi) => {

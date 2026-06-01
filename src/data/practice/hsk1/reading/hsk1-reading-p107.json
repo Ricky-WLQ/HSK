@@ -1,0 +1,89 @@
+{
+ "id": "hsk1-reading-p107",
+ "level": "1",
+ "section": "reading",
+ "partKey": "reading-p1",
+ "title": "HSK1 Reading P1",
+ "titleZh": "阅读 第一部分（看图选句）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请根据句子选择对应的图片。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-9c67db088406f9c9bc1664bc5cc2c046.png"
+    },
+    {
+     "label": "B",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-18698230313813de21738573054bd8a9.png"
+    },
+    {
+     "label": "C",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-c39decf93ce2d9971385f0515e1b60ce.png"
+    },
+    {
+     "label": "D",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-81425e0ba82ec9721d707cfd1ec91217.png"
+    },
+    {
+     "label": "E",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-c66f83e76f1a181ed9291b4bc5988ea0.png"
+    },
+    {
+     "label": "F",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-19e37cd3a482f0acd2cec8d302ef1ce8.png"
+    }
+   ],
+   "questions": [
+    {
+     "id": "q1",
+     "type": "image-match",
+     "prompt": "他吃苹果。",
+     "correctAnswer": "F",
+     "explanation": "句子意思是：一个男人在吃苹果。",
+     "pinyin": "tā chī píng guǒ 。"
+    },
+    {
+     "id": "q2",
+     "type": "image-match",
+     "prompt": "她看书。",
+     "correctAnswer": "B",
+     "explanation": "句子意思是：一个女人在看书。",
+     "pinyin": "tā kàn shū 。"
+    },
+    {
+     "id": "q3",
+     "type": "image-match",
+     "prompt": "猫喝水。",
+     "correctAnswer": "C",
+     "explanation": "句子意思是：猫在喝水。",
+     "pinyin": "māo hē shuǐ 。"
+    },
+    {
+     "id": "q4",
+     "type": "image-match",
+     "prompt": "我坐车。",
+     "correctAnswer": "D",
+     "explanation": "句子意思是：我坐在车里。",
+     "pinyin": "wǒ zuò chē 。"
+    },
+    {
+     "id": "q5",
+     "type": "image-match",
+     "prompt": "鸟飞走。",
+     "correctAnswer": "E",
+     "explanation": "句子意思是：鸟飞走了。",
+     "pinyin": "niǎo fēi zǒu 。"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

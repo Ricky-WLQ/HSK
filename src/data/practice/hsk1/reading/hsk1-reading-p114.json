@@ -1,0 +1,89 @@
+{
+ "id": "hsk1-reading-p114",
+ "level": "1",
+ "section": "reading",
+ "partKey": "reading-p1",
+ "title": "HSK1 Reading P1",
+ "titleZh": "阅读 第一部分（看图选句）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请将以下句子与对应的图片配对。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-e3ec1cdea09eec30d0d125800719e265.png"
+    },
+    {
+     "label": "B",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-16484695afb04772f2d2d7d44f9c3273.png"
+    },
+    {
+     "label": "C",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-814d265534b0a7256beb0b5edf079263.png"
+    },
+    {
+     "label": "D",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-d456ee3ace34f27c4c95c16d69aef27f.png"
+    },
+    {
+     "label": "E",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-7f5602fc4a2a7410586253bfc69964fd.png"
+    },
+    {
+     "label": "F",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-747b5a88fc47c70ca5cd636d21c42147.png"
+    }
+   ],
+   "questions": [
+    {
+     "id": "q1",
+     "type": "image-match",
+     "prompt": "我喝水了",
+     "correctAnswer": "D",
+     "explanation": "意思是我喝水了。",
+     "pinyin": "wǒ hē shuǐ le"
+    },
+    {
+     "id": "q2",
+     "type": "image-match",
+     "prompt": "他看书了",
+     "correctAnswer": "F",
+     "explanation": "意思是他看书了。",
+     "pinyin": "tā kàn shū le"
+    },
+    {
+     "id": "q3",
+     "type": "image-match",
+     "prompt": "她写字了",
+     "correctAnswer": "E",
+     "explanation": "意思是她写字了。",
+     "pinyin": "tā xiě zì le"
+    },
+    {
+     "id": "q4",
+     "type": "image-match",
+     "prompt": "猫吃米饭",
+     "correctAnswer": "A",
+     "explanation": "意思是猫在吃米饭。",
+     "pinyin": "māo chī mǐ fàn"
+    },
+    {
+     "id": "q5",
+     "type": "image-match",
+     "prompt": "小狗跑了",
+     "correctAnswer": "B",
+     "explanation": "意思是一只小狗跑了。",
+     "pinyin": "xiǎo gǒu pǎo le"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

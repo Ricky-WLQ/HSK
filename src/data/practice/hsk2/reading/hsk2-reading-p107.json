@@ -1,0 +1,89 @@
+{
+ "id": "hsk2-reading-p107",
+ "level": "2",
+ "section": "reading",
+ "partKey": "reading-p1",
+ "title": "HSK2 Reading P1",
+ "titleZh": "阅读 第一部分（看图选句）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请将下列句子与对应的图片场景匹配。每个句子描述一个日常物品或动作，选择正确的场景。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-fc898c229747b22719814f8195d519d2.png"
+    },
+    {
+     "label": "B",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-1a8f5555121d3cea1ee466edbc79e44b.png"
+    },
+    {
+     "label": "C",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-0f29181c22fd663832f2b05289ad4ecd.png"
+    },
+    {
+     "label": "D",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-554259c1227e12c01d2b2d0c575d662d.png"
+    },
+    {
+     "label": "E",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-dc41d075462e364378c06236a3baa0d4.png"
+    },
+    {
+     "label": "F",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-18698230313813de21738573054bd8a9.png"
+    }
+   ],
+   "questions": [
+    {
+     "id": "q1",
+     "type": "image-match",
+     "prompt": "我喝牛奶。",
+     "correctAnswer": "A",
+     "explanation": "这个句子描述一个人喝牛奶的动作。",
+     "pinyin": "wǒ hē niú nǎi 。"
+    },
+    {
+     "id": "q2",
+     "type": "image-match",
+     "prompt": "她看书。",
+     "correctAnswer": "F",
+     "explanation": "这个句子描述一个人看书的活动。",
+     "pinyin": "tā kàn shū 。"
+    },
+    {
+     "id": "q3",
+     "type": "image-match",
+     "prompt": "他写字。",
+     "correctAnswer": "B",
+     "explanation": "这个句子描述一个人写字的行为。",
+     "pinyin": "tā xiě zì 。"
+    },
+    {
+     "id": "q4",
+     "type": "image-match",
+     "prompt": "小猫吃鱼。",
+     "correctAnswer": "D",
+     "explanation": "这个句子描述小猫吃鱼的情景。",
+     "pinyin": "xiǎo māo chī yú 。"
+    },
+    {
+     "id": "q5",
+     "type": "image-match",
+     "prompt": "学生上课。",
+     "correctAnswer": "E",
+     "explanation": "这个句子描述学生上课的场景。",
+     "pinyin": "xué shēng shàng kè 。"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

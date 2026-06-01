@@ -1,0 +1,89 @@
+{
+ "id": "hsk2-reading-p105",
+ "level": "2",
+ "section": "reading",
+ "partKey": "reading-p1",
+ "title": "HSK2 Reading P1",
+ "titleZh": "阅读 第一部分（看图选句）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请把句子和图片搭配起来。选出与句子意思一致的图片。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-0858385e85a6571166c1c4e0dc553d44.png"
+    },
+    {
+     "label": "B",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-c39decf93ce2d9971385f0515e1b60ce.png"
+    },
+    {
+     "label": "C",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-9a4518cb66fff963eea8ffef93534320.png"
+    },
+    {
+     "label": "D",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-4326d09ae6c5788aec30563b6d79d88f.png"
+    },
+    {
+     "label": "E",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-253b684abdffc32667edf1c80a225d20.png"
+    },
+    {
+     "label": "F",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-602dcaded4155468bd0fb675d8627bf7.png"
+    }
+   ],
+   "questions": [
+    {
+     "id": "q1",
+     "type": "image-match",
+     "prompt": "我吃苹果。",
+     "correctAnswer": "D",
+     "explanation": "句子说一个人吃苹果，所以图片里应该是吃苹果的动作。",
+     "pinyin": "wǒ chī píng guǒ 。"
+    },
+    {
+     "id": "q2",
+     "type": "image-match",
+     "prompt": "他看书。",
+     "correctAnswer": "F",
+     "explanation": "句子说一个男人看书，所以图片里应该是看书的动作。",
+     "pinyin": "tā kàn shū 。"
+    },
+    {
+     "id": "q3",
+     "type": "image-match",
+     "prompt": "猫喝水。",
+     "correctAnswer": "B",
+     "explanation": "句子说猫在喝水，所以图片里应该是猫喝水的动作。",
+     "pinyin": "māo hē shuǐ 。"
+    },
+    {
+     "id": "q4",
+     "type": "image-match",
+     "prompt": "她写字。",
+     "correctAnswer": "A",
+     "explanation": "句子说一个女人写字，所以图片里应该是写字的动作。",
+     "pinyin": "tā xiě zì 。"
+    },
+    {
+     "id": "q5",
+     "type": "image-match",
+     "prompt": "狗跑。",
+     "correctAnswer": "E",
+     "explanation": "句子说狗在跑，所以图片里应该是狗跑步的动作。",
+     "pinyin": "gǒu pǎo 。"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

@@ -1,0 +1,89 @@
+{
+ "id": "hsk1-reading-p117",
+ "level": "1",
+ "section": "reading",
+ "partKey": "reading-p1",
+ "title": "HSK1 Reading P1",
+ "titleZh": "阅读 第一部分（看图选句）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请选出与句子描述一致的场景",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-1e4f57b7bd1edd6ea3d734ee43aca8da.png"
+    },
+    {
+     "label": "B",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-745e6b16f7c390b03bd77be03b983ccb.png"
+    },
+    {
+     "label": "C",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-7394c7083e4a3bd17078ca05c8cb1ad5.png"
+    },
+    {
+     "label": "D",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-f8bbcc97cb2d31a32ae8287171bd84a4.png"
+    },
+    {
+     "label": "E",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-71a6a678ac63933cc80f163b03e4589a.png"
+    },
+    {
+     "label": "F",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-747b5a88fc47c70ca5cd636d21c42147.png"
+    }
+   ],
+   "questions": [
+    {
+     "id": "q1",
+     "type": "image-match",
+     "prompt": "我吃苹果",
+     "correctAnswer": "A",
+     "explanation": "句子“我吃苹果”的意思是“我在吃苹果”。",
+     "pinyin": "wǒ chī píng guǒ"
+    },
+    {
+     "id": "q2",
+     "type": "image-match",
+     "prompt": "她喝牛奶",
+     "correctAnswer": "B",
+     "explanation": "句子“她喝牛奶”的意思是“她在喝牛奶”。",
+     "pinyin": "tā hē niú nǎi"
+    },
+    {
+     "id": "q3",
+     "type": "image-match",
+     "prompt": "猫看电视",
+     "correctAnswer": "C",
+     "explanation": "句子“猫看电视”的意思是“猫在看电视”。",
+     "pinyin": "māo kàn diàn shì"
+    },
+    {
+     "id": "q4",
+     "type": "image-match",
+     "prompt": "他在看书",
+     "correctAnswer": "F",
+     "explanation": "句子“他在看书”的意思是“他在看书”。",
+     "pinyin": "tā zài kàn shū"
+    },
+    {
+     "id": "q5",
+     "type": "image-match",
+     "prompt": "学生写汉字",
+     "correctAnswer": "E",
+     "explanation": "句子“学生写汉字”的意思是“学生在写汉字”。",
+     "pinyin": "xué shēng xiě hàn zì"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

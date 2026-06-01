@@ -1,0 +1,89 @@
+{
+ "id": "hsk1-reading-p118",
+ "level": "1",
+ "section": "reading",
+ "partKey": "reading-p1",
+ "title": "HSK1 Reading P1",
+ "titleZh": "阅读 第一部分（看图选句）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请将每个句子与对应的图片场景匹配。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-18698230313813de21738573054bd8a9.png"
+    },
+    {
+     "label": "B",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-aaa2a3c46c97f30ba0794f7baf5571c0.png"
+    },
+    {
+     "label": "C",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-15a933035a891ab0187235f22d54e64e.png"
+    },
+    {
+     "label": "D",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-226bac3e7f9bec3d43d88384724d4b31.png"
+    },
+    {
+     "label": "E",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-e47af36f37d7669d3679d437bb9f5b7f.png"
+    },
+    {
+     "label": "F",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-b1c6f0f9c07382e5b8a7d6514cbe43a1.png"
+    }
+   ],
+   "questions": [
+    {
+     "id": "q1",
+     "type": "image-match",
+     "prompt": "我喝水",
+     "correctAnswer": "B",
+     "explanation": "意思是‘我喝一些水’。这是一个动作，一个人喝水。",
+     "pinyin": "wǒ hē shuǐ"
+    },
+    {
+     "id": "q2",
+     "type": "image-match",
+     "prompt": "她看书",
+     "correctAnswer": "A",
+     "explanation": "意思是‘她看一本书’。这是一个动作，一个女人看书。",
+     "pinyin": "tā kàn shū"
+    },
+    {
+     "id": "q3",
+     "type": "image-match",
+     "prompt": "他写字",
+     "correctAnswer": "C",
+     "explanation": "意思是‘他写汉字’。这是一个动作，一个男人写字。",
+     "pinyin": "tā xiě zì"
+    },
+    {
+     "id": "q4",
+     "type": "image-match",
+     "prompt": "小猫睡觉",
+     "correctAnswer": "E",
+     "explanation": "意思是‘小猫睡觉’。这是一个动作，一只小猫在睡觉。",
+     "pinyin": "xiǎo māo shuì jiào"
+    },
+    {
+     "id": "q5",
+     "type": "image-match",
+     "prompt": "爸爸做饭",
+     "correctAnswer": "F",
+     "explanation": "意思是‘爸爸做饭’。这是一个动作，一个男人在做饭。",
+     "pinyin": "bà bà zuò fàn"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

@@ -1,0 +1,89 @@
+{
+ "id": "hsk1-reading-p103",
+ "level": "1",
+ "section": "reading",
+ "partKey": "reading-p1",
+ "title": "HSK1 Reading P1",
+ "titleZh": "阅读 第一部分（看图选句）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "看句子，选择对应的图片。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-56cd2b29e5de99b3c491957b738f42eb.png"
+    },
+    {
+     "label": "B",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-1e7b3107cb17fdca9eb4105190b82da3.png"
+    },
+    {
+     "label": "C",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-1b7b0ed85bc4f861043665ffda9c1095.png"
+    },
+    {
+     "label": "D",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-d6977b30b463035db9254de114734f30.png"
+    },
+    {
+     "label": "E",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-e306d9334e43b7c034855b1a886aafb8.png"
+    },
+    {
+     "label": "F",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-3ac3c40cc7d1c8a7d05c9ff06af37371.png"
+    }
+   ],
+   "questions": [
+    {
+     "id": "q1",
+     "type": "image-match",
+     "prompt": "她在喝水。",
+     "correctAnswer": "D",
+     "explanation": "一个女人在喝水。",
+     "pinyin": "tā zài hē shuǐ 。"
+    },
+    {
+     "id": "q2",
+     "type": "image-match",
+     "prompt": "小狗在跑。",
+     "correctAnswer": "E",
+     "explanation": "一只小狗在跑。",
+     "pinyin": "xiǎo gǒu zài pǎo 。"
+    },
+    {
+     "id": "q3",
+     "type": "image-match",
+     "prompt": "他在看书。",
+     "correctAnswer": "C",
+     "explanation": "一个男人在看书。",
+     "pinyin": "tā zài kàn shū 。"
+    },
+    {
+     "id": "q4",
+     "type": "image-match",
+     "prompt": "猫在吃鱼。",
+     "correctAnswer": "A",
+     "explanation": "一只猫在吃鱼。",
+     "pinyin": "māo zài chī yú 。"
+    },
+    {
+     "id": "q5",
+     "type": "image-match",
+     "prompt": "他在睡觉。",
+     "correctAnswer": "B",
+     "explanation": "一个男人在睡觉。",
+     "pinyin": "tā zài shuì jiào 。"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

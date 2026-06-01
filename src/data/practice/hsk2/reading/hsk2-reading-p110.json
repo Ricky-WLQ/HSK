@@ -1,0 +1,89 @@
+{
+ "id": "hsk2-reading-p110",
+ "level": "2",
+ "section": "reading",
+ "partKey": "reading-p1",
+ "title": "HSK2 Reading P1",
+ "titleZh": "阅读 第一部分（看图选句）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "下面有五个句子和六个场景图。请把句子和对应的场景图连起来。注意：有一个场景图是多余的。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-722f15886a86a59a2c333935332add30.png"
+    },
+    {
+     "label": "B",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-5453cf4bfd1b9d798fb27e297584e6cd.png"
+    },
+    {
+     "label": "C",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-86c3419f5dc294bcd2fe7c17b122b4f3.png"
+    },
+    {
+     "label": "D",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-db594050694616ac2c22fca5aef52370.png"
+    },
+    {
+     "label": "E",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-a0f408edb53ef22fd94212849d89cc69.png"
+    },
+    {
+     "label": "F",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-903cccf9b2b93a6f5136e4fd6ea5e7bb.png"
+    }
+   ],
+   "questions": [
+    {
+     "id": "q1",
+     "type": "image-match",
+     "prompt": "他吃苹果。",
+     "correctAnswer": "E",
+     "explanation": "这个句子说一个人正在吃苹果。",
+     "pinyin": "tā chī píng guǒ 。"
+    },
+    {
+     "id": "q2",
+     "type": "image-match",
+     "prompt": "她喝水。",
+     "correctAnswer": "A",
+     "explanation": "这个句子说一个女人正在喝水。",
+     "pinyin": "tā hē shuǐ 。"
+    },
+    {
+     "id": "q3",
+     "type": "image-match",
+     "prompt": "我看书。",
+     "correctAnswer": "B",
+     "explanation": "这个句子说一个人正在看书。",
+     "pinyin": "wǒ kàn shū 。"
+    },
+    {
+     "id": "q4",
+     "type": "image-match",
+     "prompt": "猫在桌子上。",
+     "correctAnswer": "D",
+     "explanation": "这个句子说一只猫在桌子上面。",
+     "pinyin": "māo zài zhuō zi shàng 。"
+    },
+    {
+     "id": "q5",
+     "type": "image-match",
+     "prompt": "他画画。",
+     "correctAnswer": "C",
+     "explanation": "这个句子说一个人正在画画。",
+     "pinyin": "tā huà huà 。"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

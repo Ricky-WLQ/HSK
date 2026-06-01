@@ -1,0 +1,89 @@
+{
+ "id": "hsk1-reading-p116",
+ "level": "1",
+ "section": "reading",
+ "partKey": "reading-p1",
+ "title": "HSK1 Reading P1",
+ "titleZh": "阅读 第一部分（看图选句）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "将句子与对应的场景图片配对。注意：有一个场景是多余的。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-841438c16a9f263fc3d41caa6b77567e.png"
+    },
+    {
+     "label": "B",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-211de00ec4e4b3c7ef3fc44cd12e5374.png"
+    },
+    {
+     "label": "C",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-031e9eee2e99bdf13baedf2b99f3ad95.png"
+    },
+    {
+     "label": "D",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-1c5eadc7eaa7538cf3ea4e0927328ccc.png"
+    },
+    {
+     "label": "E",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-9b854e52cb7fc487618644a020ed70f6.png"
+    },
+    {
+     "label": "F",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-5f2f2a4a31f0c4626a9e7a50d5df266d.png"
+    }
+   ],
+   "questions": [
+    {
+     "id": "q1",
+     "type": "image-match",
+     "prompt": "学生看书",
+     "correctAnswer": "D",
+     "explanation": "学生正在看书。",
+     "pinyin": "xué shēng kàn shū"
+    },
+    {
+     "id": "q2",
+     "type": "image-match",
+     "prompt": "老师喝水",
+     "correctAnswer": "A",
+     "explanation": "老师正在喝水。",
+     "pinyin": "lǎo shī hē shuǐ"
+    },
+    {
+     "id": "q3",
+     "type": "image-match",
+     "prompt": "猫吃鱼",
+     "correctAnswer": "E",
+     "explanation": "猫正在吃鱼。",
+     "pinyin": "māo chī yú"
+    },
+    {
+     "id": "q4",
+     "type": "image-match",
+     "prompt": "狗吃米饭",
+     "correctAnswer": "F",
+     "explanation": "狗正在吃米饭。",
+     "pinyin": "gǒu chī mǐ fàn"
+    },
+    {
+     "id": "q5",
+     "type": "image-match",
+     "prompt": "她吃苹果",
+     "correctAnswer": "C",
+     "explanation": "她正在吃苹果。",
+     "pinyin": "tā chī píng guǒ"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

@@ -1,0 +1,89 @@
+{
+ "id": "hsk1-reading-p102",
+ "level": "1",
+ "section": "reading",
+ "partKey": "reading-p1",
+ "title": "HSK1 Reading P1",
+ "titleZh": "阅读 第一部分（看图选句）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请把句子和对应的场景搭配起来。每个场景只画了一个主体和一个动作。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-554259c1227e12c01d2b2d0c575d662d.png"
+    },
+    {
+     "label": "B",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-1e4f57b7bd1edd6ea3d734ee43aca8da.png"
+    },
+    {
+     "label": "C",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-3c98d48532fc85627575a8d3c96d2c73.png"
+    },
+    {
+     "label": "D",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-364ea1dec5605780f9f555372ece25ea.png"
+    },
+    {
+     "label": "E",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-497163683ede48977e8e12b03ad6e596.png"
+    },
+    {
+     "label": "F",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-18698230313813de21738573054bd8a9.png"
+    }
+   ],
+   "questions": [
+    {
+     "id": "q1",
+     "type": "image-match",
+     "prompt": "我吃苹果",
+     "correctAnswer": "B",
+     "explanation": "这个句子表示‘我’正在吃苹果。",
+     "pinyin": "wǒ chī píng guǒ"
+    },
+    {
+     "id": "q2",
+     "type": "image-match",
+     "prompt": "他喝一杯水",
+     "correctAnswer": "E",
+     "explanation": "这个句子表示‘他’正在喝一杯水。",
+     "pinyin": "tā hē yī bēi shuǐ"
+    },
+    {
+     "id": "q3",
+     "type": "image-match",
+     "prompt": "她看一本书",
+     "correctAnswer": "F",
+     "explanation": "这个句子表示‘她’正在看一本书。",
+     "pinyin": "tā kàn yī běn shū"
+    },
+    {
+     "id": "q4",
+     "type": "image-match",
+     "prompt": "小狗跑很快",
+     "correctAnswer": "D",
+     "explanation": "这个句子表示小狗跑得很快。",
+     "pinyin": "xiǎo gǒu pǎo hěn kuài"
+    },
+    {
+     "id": "q5",
+     "type": "image-match",
+     "prompt": "小猫吃鱼",
+     "correctAnswer": "A",
+     "explanation": "这个句子表示小猫正在吃鱼。",
+     "pinyin": "xiǎo māo chī yú"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

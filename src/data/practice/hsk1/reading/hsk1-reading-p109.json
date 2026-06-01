@@ -1,0 +1,89 @@
+{
+ "id": "hsk1-reading-p109",
+ "level": "1",
+ "section": "reading",
+ "partKey": "reading-p1",
+ "title": "HSK1 Reading P1",
+ "titleZh": "阅读 第一部分（看图选句）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请选择与句子意思相符的图片。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-3487bcf87ad403b2f1ec0fcf48568e3c.png"
+    },
+    {
+     "label": "B",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-1ded0c1f0746038937931214697ab7f2.png"
+    },
+    {
+     "label": "C",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-c39decf93ce2d9971385f0515e1b60ce.png"
+    },
+    {
+     "label": "D",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-56bbc6c975ffb59491c861acf294ead6.png"
+    },
+    {
+     "label": "E",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-18698230313813de21738573054bd8a9.png"
+    },
+    {
+     "label": "F",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-84cd71817179e0f8c680e1c9b135d466.png"
+    }
+   ],
+   "questions": [
+    {
+     "id": "q1",
+     "type": "image-match",
+     "prompt": "我吃苹果。",
+     "correctAnswer": "B",
+     "explanation": "这个句子描述一个人正在吃一个苹果。",
+     "pinyin": "wǒ chī píng guǒ 。"
+    },
+    {
+     "id": "q2",
+     "type": "image-match",
+     "prompt": "猫喝水。",
+     "correctAnswer": "C",
+     "explanation": "这个句子描述猫正在喝水。",
+     "pinyin": "māo hē shuǐ 。"
+    },
+    {
+     "id": "q3",
+     "type": "image-match",
+     "prompt": "她看书。",
+     "correctAnswer": "E",
+     "explanation": "这个句子描述一个女人正在看书。",
+     "pinyin": "tā kàn shū 。"
+    },
+    {
+     "id": "q4",
+     "type": "image-match",
+     "prompt": "他买衣服。",
+     "correctAnswer": "F",
+     "explanation": "这个句子描述一个男人正在买衣服。",
+     "pinyin": "tā mǎi yī fú 。"
+    },
+    {
+     "id": "q5",
+     "type": "image-match",
+     "prompt": "孩子玩球。",
+     "correctAnswer": "A",
+     "explanation": "这个句子描述一个孩子正在玩球。",
+     "pinyin": "hái zi wán qiú 。"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

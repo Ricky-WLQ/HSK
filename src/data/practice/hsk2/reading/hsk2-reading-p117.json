@@ -1,0 +1,89 @@
+{
+ "id": "hsk2-reading-p117",
+ "level": "2",
+ "section": "reading",
+ "partKey": "reading-p1",
+ "title": "HSK2 Reading P1",
+ "titleZh": "阅读 第一部分（看图选句）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "下面有5个句子，每个句子描述一个场景。请将句子与正确的场景图片匹配。还有一个多余的场景图片不会被使用。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-def2ac14ad2ca02d21b00b27fbd9def3.png"
+    },
+    {
+     "label": "B",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-254ae6ddfc30c2de37bb3046449204a1.png"
+    },
+    {
+     "label": "C",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-ac3daeed8f471b4565aed7a501c1f971.png"
+    },
+    {
+     "label": "D",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-90fa3199988e4a33798698f7fe3b6d34.png"
+    },
+    {
+     "label": "E",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-f799e71ce40c7ee5fca8b8011e3ea4e8.png"
+    },
+    {
+     "label": "F",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-4d67659db676a0b4a998bc52813da7cd.png"
+    }
+   ],
+   "questions": [
+    {
+     "id": "q1",
+     "type": "image-match",
+     "prompt": "爸爸看报纸。",
+     "correctAnswer": "F",
+     "explanation": "这句话的意思是爸爸正在看报纸。",
+     "pinyin": "bà bà kàn bào zhǐ 。"
+    },
+    {
+     "id": "q2",
+     "type": "image-match",
+     "prompt": "妈妈做饭。",
+     "correctAnswer": "A",
+     "explanation": "这句话的意思是妈妈在做饭。",
+     "pinyin": "mā mā zuò fàn 。"
+    },
+    {
+     "id": "q3",
+     "type": "image-match",
+     "prompt": "孩子喝牛奶。",
+     "correctAnswer": "E",
+     "explanation": "这句话的意思是孩子正在喝牛奶。",
+     "pinyin": "hái zi hē niú nǎi 。"
+    },
+    {
+     "id": "q4",
+     "type": "image-match",
+     "prompt": "猫在睡觉。",
+     "correctAnswer": "D",
+     "explanation": "这句话的意思是猫正在睡觉。",
+     "pinyin": "māo zài shuì jiào 。"
+    },
+    {
+     "id": "q5",
+     "type": "image-match",
+     "prompt": "我买水果。",
+     "correctAnswer": "C",
+     "explanation": "这句话的意思是我买水果。",
+     "pinyin": "wǒ mǎi shuǐ guǒ 。"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

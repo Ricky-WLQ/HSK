@@ -1,0 +1,89 @@
+{
+ "id": "hsk2-reading-p102",
+ "level": "2",
+ "section": "reading",
+ "partKey": "reading-p1",
+ "title": "HSK2 Reading P1",
+ "titleZh": "阅读 第一部分（看图选句）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请将左边的句子与右边的场景匹配。每个句子描述一个日常物品或动作。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-b5e0053a96bdb4194cd975dcfbb60ca7.png"
+    },
+    {
+     "label": "B",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-879eee38f8ab59cae616a80151fe576e.png"
+    },
+    {
+     "label": "C",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-c49b240bed5b1a31498e640950f8db78.png"
+    },
+    {
+     "label": "D",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-e007b36013234aa9c416fbd675ad23be.png"
+    },
+    {
+     "label": "E",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-18698230313813de21738573054bd8a9.png"
+    },
+    {
+     "label": "F",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-0cf283094a80f0f436b845bb4134af44.png"
+    }
+   ],
+   "questions": [
+    {
+     "id": "q1",
+     "type": "image-match",
+     "prompt": "我吃苹果。",
+     "correctAnswer": "B",
+     "explanation": "这个句子描述一个男孩正在吃一个红苹果。",
+     "pinyin": "wǒ chī píng guǒ 。"
+    },
+    {
+     "id": "q2",
+     "type": "image-match",
+     "prompt": "他喝水。",
+     "correctAnswer": "F",
+     "explanation": "这个句子描述一个男人正在喝水。",
+     "pinyin": "tā hē shuǐ 。"
+    },
+    {
+     "id": "q3",
+     "type": "image-match",
+     "prompt": "她看书。",
+     "correctAnswer": "E",
+     "explanation": "这个句子描述一个女人正在看书。",
+     "pinyin": "tā kàn shū 。"
+    },
+    {
+     "id": "q4",
+     "type": "image-match",
+     "prompt": "他看电视。",
+     "correctAnswer": "D",
+     "explanation": "这个句子描述一个男人正在看电视。",
+     "pinyin": "tā kàn diàn shì 。"
+    },
+    {
+     "id": "q5",
+     "type": "image-match",
+     "prompt": "她写汉字。",
+     "correctAnswer": "A",
+     "explanation": "这个句子描述一个女人正在写汉字。",
+     "pinyin": "tā xiě hàn zì 。"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

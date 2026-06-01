@@ -1,0 +1,89 @@
+{
+ "id": "hsk2-reading-p113",
+ "level": "2",
+ "section": "reading",
+ "partKey": "reading-p1",
+ "title": "HSK2 Reading P1",
+ "titleZh": "阅读 第一部分（看图选句）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请将句子与对应的场景图片匹配。每个句子描述一个简单动作或物品。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-c39decf93ce2d9971385f0515e1b60ce.png"
+    },
+    {
+     "label": "B",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-602dcaded4155468bd0fb675d8627bf7.png"
+    },
+    {
+     "label": "C",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-848c0b6aa7be346b629045ddefddc3a8.png"
+    },
+    {
+     "label": "D",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-41c0f5744645b48c7086d13b5431dfb9.png"
+    },
+    {
+     "label": "E",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-a0f408edb53ef22fd94212849d89cc69.png"
+    },
+    {
+     "label": "F",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-9d876ef8fdbe4fa3c80e876a75207f83.png"
+    }
+   ],
+   "questions": [
+    {
+     "id": "q1",
+     "type": "image-match",
+     "prompt": "我吃苹果。",
+     "correctAnswer": "E",
+     "explanation": "这个句子说“我”正在吃“苹果”。",
+     "pinyin": "wǒ chī píng guǒ 。"
+    },
+    {
+     "id": "q2",
+     "type": "image-match",
+     "prompt": "猫喝水。",
+     "correctAnswer": "A",
+     "explanation": "这个句子说猫在喝水。",
+     "pinyin": "māo hē shuǐ 。"
+    },
+    {
+     "id": "q3",
+     "type": "image-match",
+     "prompt": "他看书。",
+     "correctAnswer": "B",
+     "explanation": "这个句子说他正在看书。",
+     "pinyin": "tā kàn shū 。"
+    },
+    {
+     "id": "q4",
+     "type": "image-match",
+     "prompt": "妈妈买水果。",
+     "correctAnswer": "C",
+     "explanation": "这个句子说妈妈买水果。",
+     "pinyin": "mā mā mǎi shuǐ guǒ 。"
+    },
+    {
+     "id": "q5",
+     "type": "image-match",
+     "prompt": "狗跑得快。",
+     "correctAnswer": "D",
+     "explanation": "这个句子说狗跑得很快。",
+     "pinyin": "gǒu pǎo dé kuài 。"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

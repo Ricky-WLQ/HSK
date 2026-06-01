@@ -1,0 +1,89 @@
+{
+ "id": "hsk2-reading-p109",
+ "level": "2",
+ "section": "reading",
+ "partKey": "reading-p1",
+ "title": "HSK2 Reading P1",
+ "titleZh": "阅读 第一部分（看图选句）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "下面有5个句子和6个场景，请为每个句子找到对应的场景。有一个场景是多余的。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-bde597b6fe0551b97948c8fe30927a9e.png"
+    },
+    {
+     "label": "B",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-a423dbd7d0947820f22b6cc4581f53aa.png"
+    },
+    {
+     "label": "C",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-31c9aeefca38ce865ad6041eddafcd8c.png"
+    },
+    {
+     "label": "D",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-722f15886a86a59a2c333935332add30.png"
+    },
+    {
+     "label": "E",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-b1ee03eafba6d4ef37e9910e70d2a712.png"
+    },
+    {
+     "label": "F",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-747b5a88fc47c70ca5cd636d21c42147.png"
+    }
+   ],
+   "questions": [
+    {
+     "id": "q1",
+     "type": "image-match",
+     "prompt": "我喝水",
+     "correctAnswer": "D",
+     "explanation": "这个句子描述的是一个人喝水的动作。",
+     "pinyin": "wǒ hē shuǐ"
+    },
+    {
+     "id": "q2",
+     "type": "image-match",
+     "prompt": "他看书",
+     "correctAnswer": "F",
+     "explanation": "这个句子描述的是一个人看书的动作。",
+     "pinyin": "tā kàn shū"
+    },
+    {
+     "id": "q3",
+     "type": "image-match",
+     "prompt": "她吃苹果",
+     "correctAnswer": "B",
+     "explanation": "这个句子描述的是一个女孩吃苹果的动作。",
+     "pinyin": "tā chī píng guǒ"
+    },
+    {
+     "id": "q4",
+     "type": "image-match",
+     "prompt": "猫在桌子上",
+     "correctAnswer": "C",
+     "explanation": "这个句子描述的是猫在桌子上的位置。",
+     "pinyin": "māo zài zhuō zi shàng"
+    },
+    {
+     "id": "q5",
+     "type": "image-match",
+     "prompt": "学生写字",
+     "correctAnswer": "A",
+     "explanation": "这个句子描述的是学生写字的动作。",
+     "pinyin": "xué shēng xiě zì"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

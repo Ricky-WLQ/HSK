@@ -1,0 +1,89 @@
+{
+ "id": "hsk1-reading-p111",
+ "level": "1",
+ "section": "reading",
+ "partKey": "reading-p1",
+ "title": "HSK1 Reading P1",
+ "titleZh": "阅读 第一部分（看图选句）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请将下列句子与对应的图片场景配对。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-19e37cd3a482f0acd2cec8d302ef1ce8.png"
+    },
+    {
+     "label": "B",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-4cdc29af88037c18677724904046d88a.png"
+    },
+    {
+     "label": "C",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-d1a107a6d749928424cf4e8aec39acb8.png"
+    },
+    {
+     "label": "D",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-e3196cd1b7d0fdb8b41656dca131ab3c.png"
+    },
+    {
+     "label": "E",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-1c5eadc7eaa7538cf3ea4e0927328ccc.png"
+    },
+    {
+     "label": "F",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-0cf283094a80f0f436b845bb4134af44.png"
+    }
+   ],
+   "questions": [
+    {
+     "id": "q1",
+     "type": "image-match",
+     "prompt": "我吃苹果",
+     "correctAnswer": "A",
+     "explanation": "一个男人在吃一个红色的苹果。",
+     "pinyin": "wǒ chī píng guǒ"
+    },
+    {
+     "id": "q2",
+     "type": "image-match",
+     "prompt": "他喝一杯水",
+     "correctAnswer": "F",
+     "explanation": "一个男人在喝一杯水。",
+     "pinyin": "tā hē yī bēi shuǐ"
+    },
+    {
+     "id": "q3",
+     "type": "image-match",
+     "prompt": "猫在椅子上",
+     "correctAnswer": "B",
+     "explanation": "一只猫坐在椅子上。",
+     "pinyin": "māo zài yǐ zi shàng"
+    },
+    {
+     "id": "q4",
+     "type": "image-match",
+     "prompt": "学生看书",
+     "correctAnswer": "E",
+     "explanation": "一个学生正在看书。",
+     "pinyin": "xué shēng kàn shū"
+    },
+    {
+     "id": "q5",
+     "type": "image-match",
+     "prompt": "妈妈做饭",
+     "correctAnswer": "D",
+     "explanation": "妈妈在厨房里做饭。",
+     "pinyin": "mā mā zuò fàn"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-01T09:28:49.317697+00:00",
+ "generated": "2026-06-01T11:45:07.854684+00:00",
  "sets": [
   {
    "id": "hsk1-listening-p101",
@@ -3602,6 +3602,186 @@
    "questionCount": 6
   },
   {
+   "id": "hsk1-reading-p101",
+   "level": "1",
+   "section": "reading",
+   "partKey": "reading-p1",
+   "title": "HSK1 Reading P1",
+   "titleZh": "阅读 第一部分（看图选句）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk1-reading-p102",
+   "level": "1",
+   "section": "reading",
+   "partKey": "reading-p1",
+   "title": "HSK1 Reading P1",
+   "titleZh": "阅读 第一部分（看图选句）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk1-reading-p103",
+   "level": "1",
+   "section": "reading",
+   "partKey": "reading-p1",
+   "title": "HSK1 Reading P1",
+   "titleZh": "阅读 第一部分（看图选句）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk1-reading-p104",
+   "level": "1",
+   "section": "reading",
+   "partKey": "reading-p1",
+   "title": "HSK1 Reading P1",
+   "titleZh": "阅读 第一部分（看图选句）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk1-reading-p105",
+   "level": "1",
+   "section": "reading",
+   "partKey": "reading-p1",
+   "title": "HSK1 Reading P1",
+   "titleZh": "阅读 第一部分（看图选句）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk1-reading-p106",
+   "level": "1",
+   "section": "reading",
+   "partKey": "reading-p1",
+   "title": "HSK1 Reading P1",
+   "titleZh": "阅读 第一部分（看图选句）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk1-reading-p107",
+   "level": "1",
+   "section": "reading",
+   "partKey": "reading-p1",
+   "title": "HSK1 Reading P1",
+   "titleZh": "阅读 第一部分（看图选句）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk1-reading-p108",
+   "level": "1",
+   "section": "reading",
+   "partKey": "reading-p1",
+   "title": "HSK1 Reading P1",
+   "titleZh": "阅读 第一部分（看图选句）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk1-reading-p109",
+   "level": "1",
+   "section": "reading",
+   "partKey": "reading-p1",
+   "title": "HSK1 Reading P1",
+   "titleZh": "阅读 第一部分（看图选句）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk1-reading-p110",
+   "level": "1",
+   "section": "reading",
+   "partKey": "reading-p1",
+   "title": "HSK1 Reading P1",
+   "titleZh": "阅读 第一部分（看图选句）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk1-reading-p111",
+   "level": "1",
+   "section": "reading",
+   "partKey": "reading-p1",
+   "title": "HSK1 Reading P1",
+   "titleZh": "阅读 第一部分（看图选句）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk1-reading-p112",
+   "level": "1",
+   "section": "reading",
+   "partKey": "reading-p1",
+   "title": "HSK1 Reading P1",
+   "titleZh": "阅读 第一部分（看图选句）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk1-reading-p113",
+   "level": "1",
+   "section": "reading",
+   "partKey": "reading-p1",
+   "title": "HSK1 Reading P1",
+   "titleZh": "阅读 第一部分（看图选句）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk1-reading-p114",
+   "level": "1",
+   "section": "reading",
+   "partKey": "reading-p1",
+   "title": "HSK1 Reading P1",
+   "titleZh": "阅读 第一部分（看图选句）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk1-reading-p115",
+   "level": "1",
+   "section": "reading",
+   "partKey": "reading-p1",
+   "title": "HSK1 Reading P1",
+   "titleZh": "阅读 第一部分（看图选句）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk1-reading-p116",
+   "level": "1",
+   "section": "reading",
+   "partKey": "reading-p1",
+   "title": "HSK1 Reading P1",
+   "titleZh": "阅读 第一部分（看图选句）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk1-reading-p117",
+   "level": "1",
+   "section": "reading",
+   "partKey": "reading-p1",
+   "title": "HSK1 Reading P1",
+   "titleZh": "阅读 第一部分（看图选句）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk1-reading-p118",
+   "level": "1",
+   "section": "reading",
+   "partKey": "reading-p1",
+   "title": "HSK1 Reading P1",
+   "titleZh": "阅读 第一部分（看图选句）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk1-reading-p119",
+   "level": "1",
+   "section": "reading",
+   "partKey": "reading-p1",
+   "title": "HSK1 Reading P1",
+   "titleZh": "阅读 第一部分（看图选句）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk1-reading-p120",
+   "level": "1",
+   "section": "reading",
+   "partKey": "reading-p1",
+   "title": "HSK1 Reading P1",
+   "titleZh": "阅读 第一部分（看图选句）",
+   "questionCount": 5
+  },
+  {
    "id": "hsk1-reading-p201",
    "level": "1",
    "section": "reading",
@@ -4139,6 +4319,186 @@
    "partKey": "reading-p4",
    "title": "HSK1 Reading P4",
    "titleZh": "阅读 第四部分（短句理解）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk2-reading-p101",
+   "level": "2",
+   "section": "reading",
+   "partKey": "reading-p1",
+   "title": "HSK2 Reading P1",
+   "titleZh": "阅读 第一部分（看图选句）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk2-reading-p102",
+   "level": "2",
+   "section": "reading",
+   "partKey": "reading-p1",
+   "title": "HSK2 Reading P1",
+   "titleZh": "阅读 第一部分（看图选句）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk2-reading-p103",
+   "level": "2",
+   "section": "reading",
+   "partKey": "reading-p1",
+   "title": "HSK2 Reading P1",
+   "titleZh": "阅读 第一部分（看图选句）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk2-reading-p104",
+   "level": "2",
+   "section": "reading",
+   "partKey": "reading-p1",
+   "title": "HSK2 Reading P1",
+   "titleZh": "阅读 第一部分（看图选句）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk2-reading-p105",
+   "level": "2",
+   "section": "reading",
+   "partKey": "reading-p1",
+   "title": "HSK2 Reading P1",
+   "titleZh": "阅读 第一部分（看图选句）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk2-reading-p106",
+   "level": "2",
+   "section": "reading",
+   "partKey": "reading-p1",
+   "title": "HSK2 Reading P1",
+   "titleZh": "阅读 第一部分（看图选句）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk2-reading-p107",
+   "level": "2",
+   "section": "reading",
+   "partKey": "reading-p1",
+   "title": "HSK2 Reading P1",
+   "titleZh": "阅读 第一部分（看图选句）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk2-reading-p108",
+   "level": "2",
+   "section": "reading",
+   "partKey": "reading-p1",
+   "title": "HSK2 Reading P1",
+   "titleZh": "阅读 第一部分（看图选句）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk2-reading-p109",
+   "level": "2",
+   "section": "reading",
+   "partKey": "reading-p1",
+   "title": "HSK2 Reading P1",
+   "titleZh": "阅读 第一部分（看图选句）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk2-reading-p110",
+   "level": "2",
+   "section": "reading",
+   "partKey": "reading-p1",
+   "title": "HSK2 Reading P1",
+   "titleZh": "阅读 第一部分（看图选句）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk2-reading-p111",
+   "level": "2",
+   "section": "reading",
+   "partKey": "reading-p1",
+   "title": "HSK2 Reading P1",
+   "titleZh": "阅读 第一部分（看图选句）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk2-reading-p112",
+   "level": "2",
+   "section": "reading",
+   "partKey": "reading-p1",
+   "title": "HSK2 Reading P1",
+   "titleZh": "阅读 第一部分（看图选句）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk2-reading-p113",
+   "level": "2",
+   "section": "reading",
+   "partKey": "reading-p1",
+   "title": "HSK2 Reading P1",
+   "titleZh": "阅读 第一部分（看图选句）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk2-reading-p114",
+   "level": "2",
+   "section": "reading",
+   "partKey": "reading-p1",
+   "title": "HSK2 Reading P1",
+   "titleZh": "阅读 第一部分（看图选句）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk2-reading-p115",
+   "level": "2",
+   "section": "reading",
+   "partKey": "reading-p1",
+   "title": "HSK2 Reading P1",
+   "titleZh": "阅读 第一部分（看图选句）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk2-reading-p116",
+   "level": "2",
+   "section": "reading",
+   "partKey": "reading-p1",
+   "title": "HSK2 Reading P1",
+   "titleZh": "阅读 第一部分（看图选句）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk2-reading-p117",
+   "level": "2",
+   "section": "reading",
+   "partKey": "reading-p1",
+   "title": "HSK2 Reading P1",
+   "titleZh": "阅读 第一部分（看图选句）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk2-reading-p118",
+   "level": "2",
+   "section": "reading",
+   "partKey": "reading-p1",
+   "title": "HSK2 Reading P1",
+   "titleZh": "阅读 第一部分（看图选句）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk2-reading-p119",
+   "level": "2",
+   "section": "reading",
+   "partKey": "reading-p1",
+   "title": "HSK2 Reading P1",
+   "titleZh": "阅读 第一部分（看图选句）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk2-reading-p120",
+   "level": "2",
+   "section": "reading",
+   "partKey": "reading-p1",
+   "title": "HSK2 Reading P1",
+   "titleZh": "阅读 第一部分（看图选句）",
    "questionCount": 5
   },
   {

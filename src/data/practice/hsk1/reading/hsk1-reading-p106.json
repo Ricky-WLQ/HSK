@@ -1,0 +1,89 @@
+{
+ "id": "hsk1-reading-p106",
+ "level": "1",
+ "section": "reading",
+ "partKey": "reading-p1",
+ "title": "HSK1 Reading P1",
+ "titleZh": "阅读 第一部分（看图选句）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请将句子与对应的场景匹配。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-8eb0a0066b2b1806c1ac8463310379b9.png"
+    },
+    {
+     "label": "B",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-d7957ffc2e89a8a88d326e734c0d2fba.png"
+    },
+    {
+     "label": "C",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-df36757edcf9ae50323102ceafd68983.png"
+    },
+    {
+     "label": "D",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-6b011a7d1c55d3402bebc3073d39728f.png"
+    },
+    {
+     "label": "E",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-924bfdba00b36f503f1f90bf8b5747e9.png"
+    },
+    {
+     "label": "F",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-5e14890f43e89158ad2e65e0aaf409ed.png"
+    }
+   ],
+   "questions": [
+    {
+     "id": "q1",
+     "type": "image-match",
+     "prompt": "小猫吃鱼",
+     "correctAnswer": "E",
+     "explanation": "小猫正在吃鱼。",
+     "pinyin": "xiǎo māo chī yú"
+    },
+    {
+     "id": "q2",
+     "type": "image-match",
+     "prompt": "妈妈看书",
+     "correctAnswer": "C",
+     "explanation": "妈妈正在看书。",
+     "pinyin": "mā mā kàn shū"
+    },
+    {
+     "id": "q3",
+     "type": "image-match",
+     "prompt": "我喝热水",
+     "correctAnswer": "D",
+     "explanation": "我在喝热水。",
+     "pinyin": "wǒ hē rè shuǐ"
+    },
+    {
+     "id": "q4",
+     "type": "image-match",
+     "prompt": "学生写字",
+     "correctAnswer": "F",
+     "explanation": "学生正在写字。",
+     "pinyin": "xué shēng xiě zì"
+    },
+    {
+     "id": "q5",
+     "type": "image-match",
+     "prompt": "他睡觉了",
+     "correctAnswer": "B",
+     "explanation": "他已经在睡觉了。",
+     "pinyin": "tā shuì jiào le"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

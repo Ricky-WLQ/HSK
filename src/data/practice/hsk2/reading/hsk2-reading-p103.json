@@ -1,0 +1,89 @@
+{
+ "id": "hsk2-reading-p103",
+ "level": "2",
+ "section": "reading",
+ "partKey": "reading-p1",
+ "title": "HSK2 Reading P1",
+ "titleZh": "阅读 第一部分（看图选句）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请选出与句子内容相符的图片。注意：所有句子和图片只描写一个具体的动作或物体。其中有一张图片是多余的，与任何句子都不匹配。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-9bd8d8ebab7711b67015473821b013d3.png"
+    },
+    {
+     "label": "B",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-91f6454b031c45e5db09bc29ddc06b79.png"
+    },
+    {
+     "label": "C",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-d0572ffdf1b1b89fc4a8c8faf06304af.png"
+    },
+    {
+     "label": "D",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-6fecdeb03047992adbd016764ac74ea4.png"
+    },
+    {
+     "label": "E",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-8de628167d5918e8832c2c8cbbc87dd1.png"
+    },
+    {
+     "label": "F",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-f7eccc5723e3d5736c569446c700f30a.png"
+    }
+   ],
+   "questions": [
+    {
+     "id": "q1",
+     "type": "image-match",
+     "prompt": "妈妈喝水",
+     "correctAnswer": "D",
+     "explanation": "这句话说妈妈在喝水。‘喝’是动作，‘水’是液体。",
+     "pinyin": "mā mā hē shuǐ"
+    },
+    {
+     "id": "q2",
+     "type": "image-match",
+     "prompt": "我吃苹果",
+     "correctAnswer": "C",
+     "explanation": "这句话说一个孩子在吃苹果。‘吃’是动作，‘苹果’是一种水果。",
+     "pinyin": "wǒ chī píng guǒ"
+    },
+    {
+     "id": "q3",
+     "type": "image-match",
+     "prompt": "爸爸看书",
+     "correctAnswer": "E",
+     "explanation": "这句话说爸爸在看书。‘看’是动作，‘书’是书本。",
+     "pinyin": "bà bà kàn shū"
+    },
+    {
+     "id": "q4",
+     "type": "image-match",
+     "prompt": "猫喝牛奶",
+     "correctAnswer": "B",
+     "explanation": "这句话说猫在喝牛奶。‘牛奶’是白色的饮料。",
+     "pinyin": "māo hē niú nǎi"
+    },
+    {
+     "id": "q5",
+     "type": "image-match",
+     "prompt": "飞机飞",
+     "correctAnswer": "A",
+     "explanation": "这句话说飞机在天上飞。‘飞’是飞机在空中的动作。",
+     "pinyin": "fēi jī fēi"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}
