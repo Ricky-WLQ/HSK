@@ -1,0 +1,62 @@
+{
+ "id": "hsk3-writing-p215",
+ "level": "3",
+ "section": "writing",
+ "partKey": "writing-p2",
+ "title": "HSK3 Writing P2",
+ "titleZh": "书写 第二部分（看图写句子）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请根据下面每个题目中的词语和场景，用该词语写一个完整的句子。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "苹果",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-d5669317f5521ec8514e6fee994090aa.png",
+     "correctAnswer": "他从碗里拿出一个苹果。",
+     "sample": "他从碗里拿出一个苹果。"
+    },
+    {
+     "id": "q2",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "书包",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-0b489db5f08841ce75e5fcac1a9ab7e9.png",
+     "correctAnswer": "她把书放进书包里。",
+     "sample": "她把书放进书包里。"
+    },
+    {
+     "id": "q3",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "电脑",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-fcc3af0258a07c85eb5e762b6201eefa.png",
+     "correctAnswer": "她每天用电脑工作。",
+     "sample": "她每天用电脑工作。"
+    },
+    {
+     "id": "q4",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "杯子",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-3f3fe0840f0e23e4c876cedbabc241be.png",
+     "correctAnswer": "他把水倒进杯子里。",
+     "sample": "他把水倒进杯子里。"
+    },
+    {
+     "id": "q5",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "书",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-2a1c7d19c8483874e1e18d353d94c579.png",
+     "correctAnswer": "他正在看一本书。",
+     "sample": "他正在看一本书。"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

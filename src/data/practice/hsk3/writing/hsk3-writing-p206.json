@@ -1,0 +1,62 @@
+{
+ "id": "hsk3-writing-p206",
+ "level": "3",
+ "section": "writing",
+ "partKey": "writing-p2",
+ "title": "HSK3 Writing P2",
+ "titleZh": "书写 第二部分（看图写句子）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "根据下面的图片和词语，写出正确的句子。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "洗",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-6f95072f4fd8891a2eca9ead2d0aec33.png",
+     "correctAnswer": "妈妈在洗一个红苹果。",
+     "sample": "妈妈在洗一个红苹果。"
+    },
+    {
+     "id": "q2",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "买",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-a549e95c139d4b267d6f1fa0f8d4fd94.png",
+     "correctAnswer": "他买了一件蓝色的外套。",
+     "sample": "他买了一件蓝色的外套。"
+    },
+    {
+     "id": "q3",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "看",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-6f256727b972ed366204453876dbe26e.png",
+     "correctAnswer": "她正在看一本书。",
+     "sample": "她正在看一本书。"
+    },
+    {
+     "id": "q4",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "吃",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-23b863d7a11c6a88adb6366fd8a5130c.png",
+     "correctAnswer": "弟弟在吃面条。",
+     "sample": "弟弟在吃面条。"
+    },
+    {
+     "id": "q5",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "喝",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-296921c16c3e523dea3f7fb811c7470b.png",
+     "correctAnswer": "他们一起喝橙汁。",
+     "sample": "他们一起喝橙汁。"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

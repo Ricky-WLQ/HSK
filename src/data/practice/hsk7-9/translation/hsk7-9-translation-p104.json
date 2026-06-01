@@ -1,0 +1,33 @@
+{
+ "id": "hsk7-9-translation-p104",
+ "level": "7-9",
+ "section": "translation",
+ "partKey": "translation-p1",
+ "title": "HSK7-9 Translation P1",
+ "titleZh": "翻译 第一部分（英译中）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请将下列英文段落翻译成中文，要求忠实通顺。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "translation-passage",
+     "prompt": "请将下列英文段落翻译成中文，要求忠实通顺。",
+     "sourceText": "The urgency of addressing climate change has never been more apparent. Recent decades have witnessed unprecedented global warming, leading to more frequent extreme weather events such as hurricanes, droughts, and wildfires. Scientists warn that without immediate and substantial reductions in greenhouse gas emissions, we risk crossing irreversible tipping points. International agreements like the Paris Accord represent steps in the right direction, but implementation has been uneven. Developed nations bear a historical responsibility, yet developing countries also need to adopt sustainable practices. The challenge is not solely environmental; it is deeply intertwined with economic and social justice. Transitioning to a green economy requires massive investment, political will, and public support. Ultimately, combating climate change demands collective action at all levels, from individual lifestyle changes to global policy coordination.",
+     "correctAnswer": "应对气候变化的紧迫性从未像现在这样明显。近几十年来，全球变暖空前加剧，导致飓风、干旱和野火等极端天气事件更加频繁。科学家警告说，如果不立即大幅减少温室气体排放，我们就有可能越过不可逆转的临界点。像《巴黎协定》这样的国际协议代表了正确的方向，但执行情况并不均衡。发达国家负有历史责任，但发展中国家也需要采取可持续的做法。这一挑战不仅仅是环境问题；它与社会经济公正紧密相连。向绿色经济转型需要巨额投资、政治意愿和公众支持。归根结底，应对气候变化需要从个人生活方式改变到全球政策协调等各个层面的集体行动。",
+     "sample": "应对气候变化的紧迫性从未像现在这样明显。近几十年来，全球变暖空前加剧，导致飓风、干旱和野火等极端天气事件更加频繁。科学家警告说，如果不立即大幅减少温室气体排放，我们就有可能越过不可逆转的临界点。像《巴黎协定》这样的国际协议代表了正确的方向，但执行情况并不均衡。发达国家负有历史责任，但发展中国家也需要采取可持续的做法。这一挑战不仅仅是环境问题；它与社会经济公正紧密相连。向绿色经济转型需要巨额投资、政治意愿和公众支持。归根结底，应对气候变化需要从个人生活方式改变到全球政策协调等各个层面的集体行动。"
+    },
+    {
+     "id": "q2",
+     "type": "translation-passage",
+     "prompt": "请将下列英文段落翻译成中文，要求忠实通顺。",
+     "sourceText": "The rapid advancement of artificial intelligence raises profound ethical questions that society must address. While AI systems can enhance efficiency and innovation in fields like healthcare, transportation, and education, they also pose risks related to privacy, bias, and job displacement. Algorithms trained on historical data may perpetuate existing inequalities, leading to unfair outcomes in hiring, lending, or law enforcement. Moreover, the opacity of deep learning models makes accountability difficult. It is crucial to establish robust governance frameworks that prioritize transparency, fairness, and human oversight. Rather than viewing AI as a mere tool, we should consider its broader societal implications. Public dialogue and interdisciplinary collaboration are necessary to ensure that AI development aligns with human values and serves the common good.",
+     "correctAnswer": "人工智能的快速发展引发了社会必须深刻思考的伦理问题。虽然人工智能系统可以在医疗、交通和教育等领域提高效率和创新，但它们也带来了隐私、偏见和就业替代方面的风险。基于历史数据训练的算法可能会固化现有的不平等，导致在招聘、贷款或执法中出现不公正的结果。此外，深度学习模型的不透明性使得问责变得困难。建立优先考虑透明度、公平性和人类监督的健全治理框架至关重要。我们不应将人工智能视为单纯的工具，而应考虑其更广泛的社会影响。公众对话和跨学科合作对于确保人工智能的发展符合人类价值观并服务于公共利益是必要的。",
+     "sample": "人工智能的快速发展引发了社会必须深刻思考的伦理问题。虽然人工智能系统可以在医疗、交通和教育等领域提高效率和创新，但它们也带来了隐私、偏见和就业替代方面的风险。基于历史数据训练的算法可能会固化现有的不平等，导致在招聘、贷款或执法中出现不公正的结果。此外，深度学习模型的不透明性使得问责变得困难。建立优先考虑透明度、公平性和人类监督的健全治理框架至关重要。我们不应将人工智能视为单纯的工具，而应考虑其更广泛的社会影响。公众对话和跨学科合作对于确保人工智能的发展符合人类价值观并服务于公共利益是必要的。"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

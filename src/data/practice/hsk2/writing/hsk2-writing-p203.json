@@ -1,0 +1,67 @@
+{
+ "id": "hsk2-writing-p203",
+ "level": "2",
+ "section": "writing",
+ "partKey": "writing-p2",
+ "title": "HSK2 Writing P2",
+ "titleZh": "书写 第二部分（写汉字）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请根据拼音填入正确的汉字。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "writing-fill-char",
+     "prompt": "我喜欢（chī）水果。",
+     "correctAnswer": "吃",
+     "acceptableAnswers": [
+      "吃"
+     ],
+     "pinyin": "wǒ xǐ huān chī shuǐ guǒ 。"
+    },
+    {
+     "id": "q2",
+     "type": "writing-fill-char",
+     "prompt": "明天我要去（shāng）场买东西。",
+     "correctAnswer": "商",
+     "acceptableAnswers": [
+      "商"
+     ],
+     "pinyin": "míng tiān wǒ yào qù shāng chǎng mǎi dōng xī 。"
+    },
+    {
+     "id": "q3",
+     "type": "writing-fill-char",
+     "prompt": "他每天早上七点（qǐ）床。",
+     "correctAnswer": "起",
+     "acceptableAnswers": [
+      "起"
+     ],
+     "pinyin": "tā měi tiān zǎo shàng qī diǎn qǐ chuáng 。"
+    },
+    {
+     "id": "q4",
+     "type": "writing-fill-char",
+     "prompt": "这本书是我的，那本是（nǐ）的。",
+     "correctAnswer": "你",
+     "acceptableAnswers": [
+      "你"
+     ],
+     "pinyin": "zhè běn shū shì wǒ de ， nà běn shì nǐ de 。"
+    },
+    {
+     "id": "q5",
+     "type": "writing-fill-char",
+     "prompt": "妈妈在厨房做（fàn）。",
+     "correctAnswer": "饭",
+     "acceptableAnswers": [
+      "饭"
+     ],
+     "pinyin": "mā mā zài chú fáng zuò fàn 。"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

@@ -1,0 +1,33 @@
+{
+ "id": "hsk7-9-translation-p120",
+ "level": "7-9",
+ "section": "translation",
+ "partKey": "translation-p1",
+ "title": "HSK7-9 Translation P1",
+ "titleZh": "翻译 第一部分（英译中）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请将以下英文段落翻译成中文，要求忠实原文、语言流畅，符合汉语表达习惯。注意保持原文的书面语风格。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "translation-passage",
+     "prompt": "请将以下英文段落翻译成中文，要求忠实原文、语言流畅，符合汉语表达习惯。注意保持原文的书面语风格。",
+     "sourceText": "The concept of sustainable development has gained significant traction in recent decades, yet its practical implementation remains fraught with challenges. At its core, sustainable development seeks to balance economic growth, social equity, and environmental protection. However, these three pillars often come into conflict. For instance, rapid industrialization can boost economic output but may exacerbate pollution and resource depletion. Similarly, policies aimed at preserving natural habitats might restrict land use for housing or agriculture, affecting livelihoods. Achieving a harmonious integration requires not only technological innovation but also fundamental shifts in societal values and governance structures. Governments, businesses, and individuals must collaborate to create systems that prioritize long-term well-being over short-term gains. Education plays a crucial role in fostering awareness and empowering citizens to make informed choices. Without a collective commitment to rethinking our relationship with nature and each other, the goal of sustainability may remain elusive.",
+     "correctAnswer": "可持续发展的概念在近几十年得到了广泛认同，但其实际实施仍充满挑战。核心理念是寻求经济增长、社会公平与环境保护之间的平衡。然而，这三个支柱常常相互冲突。例如，快速工业化可能促进经济产出，但也会加剧污染和资源枯竭。同样，保护自然栖息地的政策可能会限制住房或农业用地，影响生计。要实现和谐整合，不仅需要技术创新，还需要社会价值观和治理结构的根本转变。政府、企业和个人必须合作，创建优先考虑长期福祉而非短期收益的体系。教育在培养意识、赋予公民做出明智选择的能力方面发挥关键作用。如果不共同反思我们与自然及彼此的关系，可持续性的目标可能仍难以实现。",
+     "sample": "可持续发展的概念在近几十年得到了广泛认同，但其实际实施仍充满挑战。核心理念是寻求经济增长、社会公平与环境保护之间的平衡。然而，这三个支柱常常相互冲突。例如，快速工业化可能促进经济产出，但也会加剧污染和资源枯竭。同样，保护自然栖息地的政策可能会限制住房或农业用地，影响生计。要实现和谐整合，不仅需要技术创新，还需要社会价值观和治理结构的根本转变。政府、企业和个人必须合作，创建优先考虑长期福祉而非短期收益的体系。教育在培养意识、赋予公民做出明智选择的能力方面发挥关键作用。如果不共同反思我们与自然及彼此的关系，可持续性的目标可能仍难以实现。"
+    },
+    {
+     "id": "q2",
+     "type": "translation-passage",
+     "prompt": "请将以下英文段落翻译成中文，要求忠实原文、语言流畅，符合汉语表达习惯。注意保持原文的书面语风格。",
+     "sourceText": "The rapid urbanization of the 21st century has brought about unprecedented challenges for city planners and policymakers. As more people flock to urban centers in search of better opportunities, the strain on infrastructure, housing, and public services becomes increasingly acute. One pressing issue is the proliferation of slums and informal settlements, where residents often lack access to clean water, sanitation, and secure tenure. Addressing this requires not just the construction of affordable housing, but also integrated approaches that consider employment, transportation, and social integration. Moreover, as cities expand, their ecological footprint grows, contributing to climate change and biodiversity loss. Urban green spaces, efficient public transit, and renewable energy sources are essential for creating sustainable cities. Ultimately, the goal is to foster inclusive communities that are not only environmentally resilient but also economically vibrant and socially just. This requires collaboration among all stakeholders, including central and local governments, private developers, civil society, and the residents themselves.",
+     "correctAnswer": "21世纪的快速城市化给城市规划者和政策制定者带来了前所未有的挑战。随着越来越多的人涌向城市中心寻求更好的机会，基础设施、住房和公共服务的压力日益加剧。一个紧迫的问题是贫民窟和非正规住区的蔓延，那里的居民往往缺乏清洁用水、卫生设施以及有保障的居住权。解决这一问题不仅需要建设经济适用房，还需要考虑就业、交通和社会融合的综合措施。此外，随着城市扩张，其生态足迹也在增大，加剧了气候变化和生物多样性丧失。城市绿地、高效公共交通和可再生能源对于创建可持续城市至关重要。最终目标是培育包容性社区，这些社区不仅具有环境韧性，而且在经济上充满活力、在社会上公正。这需要所有利益相关方——包括中央和地方政府、私人开发商、民间社会以及居民本身——之间的合作。",
+     "sample": "21世纪的快速城市化给城市规划者和政策制定者带来了前所未有的挑战。随着越来越多的人涌向城市中心寻求更好的机会，基础设施、住房和公共服务的压力日益加剧。一个紧迫的问题是贫民窟和非正规住区的蔓延，那里的居民往往缺乏清洁用水、卫生设施以及有保障的居住权。解决这一问题不仅需要建设经济适用房，还需要考虑就业、交通和社会融合的综合措施。此外，随着城市扩张，其生态足迹也在增大，加剧了气候变化和生物多样性丧失。城市绿地、高效公共交通和可再生能源对于创建可持续城市至关重要。最终目标是培育包容性社区，这些社区不仅具有环境韧性，而且在经济上充满活力、在社会上公正。这需要所有利益相关方——包括中央和地方政府、私人开发商、民间社会以及居民本身——之间的合作。"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

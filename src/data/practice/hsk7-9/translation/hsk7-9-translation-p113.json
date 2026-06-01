@@ -1,0 +1,33 @@
+{
+ "id": "hsk7-9-translation-p113",
+ "level": "7-9",
+ "section": "translation",
+ "partKey": "translation-p1",
+ "title": "HSK7-9 Translation P1",
+ "titleZh": "翻译 第一部分（英译中）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请将以下英文段落翻译成地道的中文，注意保持原文风格和学术性。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "translation-passage",
+     "prompt": "请将以下英文段落翻译成地道的中文，注意保持原文风格和学术性。",
+     "sourceText": "The concept of sustainable development has gained widespread recognition in recent decades, yet its implementation remains fraught with challenges. At its core, sustainable development seeks to balance economic growth, social equity, and environmental protection. However, the interplay between these three pillars often leads to conflicts of interest. For instance, rapid industrialization may boost economic indicators but at the cost of environmental degradation and social displacement. Moreover, the long-term nature of sustainability goals clashes with short-term political and economic cycles. To address these tensions, policymakers must adopt integrated approaches that consider cross-sectoral impacts. Education and public awareness are also crucial in fostering a culture of sustainability. Without a fundamental shift in societal values and behaviors, even the most well-designed policies may fail to achieve their intended outcomes.",
+     "correctAnswer": "可持续发展的概念在近几十年得到了广泛认可，但其落实仍面临重重挑战。其核心在于寻求经济增长、社会公平和环境保护之间的平衡。然而，这三者之间的相互作用常常导致利益冲突。例如，快速工业化可能提升经济指标，但代价是环境退化和人口迁移。此外，可持续发展目标的长期性与短期的政治经济周期相矛盾。为应对这些矛盾，决策者必须采取综合考虑跨部门影响的整合方法。教育和公众意识对于培养可持续文化也至关重要。没有社会价值观和行为的根本转变，即使最精心设计的政策也可能无法实现预期目标。",
+     "sample": "可持续发展的概念在近几十年得到了广泛认可，但其落实仍面临重重挑战。其核心在于寻求经济增长、社会公平和环境保护之间的平衡。然而，这三者之间的相互作用常常导致利益冲突。例如，快速工业化可能提升经济指标，但代价是环境退化和人口迁移。此外，可持续发展目标的长期性与短期的政治经济周期相矛盾。为应对这些矛盾，决策者必须采取综合考虑跨部门影响的整合方法。教育和公众意识对于培养可持续文化也至关重要。没有社会价值观和行为的根本转变，即使最精心设计的政策也可能无法实现预期目标。"
+    },
+    {
+     "id": "q2",
+     "type": "translation-passage",
+     "prompt": "请将以下英文段落翻译成地道的中文，注意保持原文风格和学术性。",
+     "sourceText": "The rapid advancement of artificial intelligence has sparked intense debate about its ethical implications. While AI systems offer unprecedented efficiency in fields like healthcare and transportation, they also pose risks such as algorithmic bias and privacy infringement. One pressing concern is the 'black box' problem, where decisions made by deep learning models become opaque even to their creators. This lack of transparency undermines accountability and trust. Furthermore, the automation of jobs through AI threatens to exacerbate socioeconomic inequalities, as low-skilled workers are disproportionately affected. To navigate these challenges, researchers advocate for the development of 'explainable AI' and robust regulatory frameworks. Ethical guidelines should prioritize human well-being and fairness, ensuring that technological progress does not come at the expense of fundamental rights. Ultimately, the future of AI depends on our collective ability to steer its development responsibly.",
+     "correctAnswer": "人工智能的迅猛发展引发了关于其伦理影响的激烈讨论。尽管AI系统在医疗和交通等领域提供了前所未有的效率，但也带来了算法偏见和隐私侵犯等风险。一个紧迫问题是“黑箱”难题，即深度学习模型做出的决策对其创造者而言也变得不透明。这种缺乏透明度削弱了问责制和信任。此外，AI带来的工作自动化可能加剧社会经济不平等，因为低技能工人受到不成比例的影响。为应对这些挑战，研究人员倡导开发“可解释AI”并建立稳健的监管框架。伦理准则应优先考虑人类福祉和公平，确保技术进步不以牺牲基本权利为代价。最终，人工智能的未来取决于我们集体负责任地引导其发展的能力。",
+     "sample": "人工智能的迅猛发展引发了关于其伦理影响的激烈讨论。尽管AI系统在医疗和交通等领域提供了前所未有的效率，但也带来了算法偏见和隐私侵犯等风险。一个紧迫问题是“黑箱”难题，即深度学习模型做出的决策对其创造者而言也变得不透明。这种缺乏透明度削弱了问责制和信任。此外，AI带来的工作自动化可能加剧社会经济不平等，因为低技能工人受到不成比例的影响。为应对这些挑战，研究人员倡导开发“可解释AI”并建立稳健的监管框架。伦理准则应优先考虑人类福祉和公平，确保技术进步不以牺牲基本权利为代价。最终，人工智能的未来取决于我们集体负责任地引导其发展的能力。"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

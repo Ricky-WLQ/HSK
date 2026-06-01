@@ -1,0 +1,31 @@
+{
+ "id": "hsk5-writing-p107",
+ "level": "5",
+ "section": "writing",
+ "partKey": "writing-p1",
+ "title": "HSK5 Writing P1",
+ "titleZh": "写作 第一部分（看图写作）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请根据下面四幅画写一篇短文，叙述一个完整的故事。要求：内容连贯，语言通顺，不少于100字。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "writing-essay",
+     "prompt": "请根据下面四幅画写一篇短文，叙述一个完整的故事。要求：内容连贯，语言通顺，不少于100字。",
+     "minChars": 100,
+     "correctAnswer": "一天下雨，小明在路上看到一只流浪猫躲在长椅下瑟瑟发抖。他感到很同情，便用毛巾把猫包起来带回家。回到家后，小明给猫喝了牛奶，还准备了温暖的窝。之后，小明每天给猫喂食、清洁，甚至带它去看兽医。在悉心照顾下，猫逐渐恢复健康，变得活泼可爱，毛色也光亮起来。小明非常高兴，觉得自己的决定是正确的。",
+     "sample": "一天下雨，小明在路上看到一只流浪猫躲在长椅下瑟瑟发抖。他感到很同情，便用毛巾把猫包起来带回家。回到家后，小明给猫喝了牛奶，还准备了温暖的窝。之后，小明每天给猫喂食、清洁，甚至带它去看兽医。在悉心照顾下，猫逐渐恢复健康，变得活泼可爱，毛色也光亮起来。小明非常高兴，觉得自己的决定是正确的。",
+     "images": [
+      "/api/practice-image?key=images/v1/scene-9e9ffffb86128a6a5168a48fb4046bd6.png",
+      "/api/practice-image?key=images/v1/scene-44d6c7d185738abc32e9577dcc3f238f.png",
+      "/api/practice-image?key=images/v1/scene-2be574130da5d4f1ec0500e2704f217e.png",
+      "/api/practice-image?key=images/v1/scene-5d1672c4882ccc61ddd7228ee2d2abf9.png"
+     ]
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

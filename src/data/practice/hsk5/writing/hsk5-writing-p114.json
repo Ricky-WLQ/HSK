@@ -1,0 +1,31 @@
+{
+ "id": "hsk5-writing-p114",
+ "level": "5",
+ "section": "writing",
+ "partKey": "writing-p1",
+ "title": "HSK5 Writing P1",
+ "titleZh": "写作 第一部分（看图写作）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请根据以下四幅图写一篇作文，叙述一个完整的故事。注意：每幅图的内容要连贯，人物和场景一致。字数：不少于100字。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "writing-essay",
+     "prompt": "请根据以下四幅图写一篇作文，叙述一个完整的故事。注意：每幅图的内容要连贯，人物和场景一致。字数：不少于100字。",
+     "minChars": 100,
+     "correctAnswer": "一天下午，小明在热闹的街道上散步。他不小心从口袋里掉出了钱包，自己却完全没有注意到。过了一会儿，一个年轻人看到了地上的钱包，他立刻捡起来，四处张望寻找失主。小明走到半路突然发现钱包不见了，心里非常着急，赶紧原路返回寻找。这时，那个年轻人看到小明焦急的样子，主动上前询问，确认后把钱包还给了小明。小明激动地握着年轻人的手，连声说谢谢。年轻人笑着说不用客气。小明深深感到：世界上还是好人多。这虽然是一件小事，却让他感动了很久。",
+     "sample": "一天下午，小明在热闹的街道上散步。他不小心从口袋里掉出了钱包，自己却完全没有注意到。过了一会儿，一个年轻人看到了地上的钱包，他立刻捡起来，四处张望寻找失主。小明走到半路突然发现钱包不见了，心里非常着急，赶紧原路返回寻找。这时，那个年轻人看到小明焦急的样子，主动上前询问，确认后把钱包还给了小明。小明激动地握着年轻人的手，连声说谢谢。年轻人笑着说不用客气。小明深深感到：世界上还是好人多。这虽然是一件小事，却让他感动了很久。",
+     "images": [
+      "/api/practice-image?key=images/v1/scene-3bc0e8b506a90a1f615f96917ead7c6c.png",
+      "/api/practice-image?key=images/v1/scene-92b5226cc2d91a49ca1776b4adb6cd89.png",
+      "/api/practice-image?key=images/v1/scene-1613968bd255a4cf90d7ab214b87de5a.png",
+      "/api/practice-image?key=images/v1/scene-af979ddc0b90d3d835f6b1f236bfcca4.png"
+     ]
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

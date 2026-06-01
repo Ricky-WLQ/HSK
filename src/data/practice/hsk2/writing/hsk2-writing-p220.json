@@ -1,0 +1,67 @@
+{
+ "id": "hsk2-writing-p220",
+ "level": "2",
+ "section": "writing",
+ "partKey": "writing-p2",
+ "title": "HSK2 Writing P2",
+ "titleZh": "书写 第二部分（写汉字）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请根据拼音和上下文，在空格中填入正确的汉字。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "writing-fill-char",
+     "prompt": "我（hěn）高兴。",
+     "correctAnswer": "很",
+     "acceptableAnswers": [
+      "很"
+     ],
+     "pinyin": "wǒ hěn gāo xìng 。"
+    },
+    {
+     "id": "q2",
+     "type": "writing-fill-char",
+     "prompt": "他（huì）说英语。",
+     "correctAnswer": "会",
+     "acceptableAnswers": [
+      "会"
+     ],
+     "pinyin": "tā huì shuō yīng yǔ 。"
+    },
+    {
+     "id": "q3",
+     "type": "writing-fill-char",
+     "prompt": "你（yào）去哪儿？",
+     "correctAnswer": "要",
+     "acceptableAnswers": [
+      "要"
+     ],
+     "pinyin": "nǐ yào qù nǎ ér ？"
+    },
+    {
+     "id": "q4",
+     "type": "writing-fill-char",
+     "prompt": "她（yǒu）一本书。",
+     "correctAnswer": "有",
+     "acceptableAnswers": [
+      "有"
+     ],
+     "pinyin": "tā yǒu yī běn shū 。"
+    },
+    {
+     "id": "q5",
+     "type": "writing-fill-char",
+     "prompt": "我们（zài）家。",
+     "correctAnswer": "在",
+     "acceptableAnswers": [
+      "在"
+     ],
+     "pinyin": "wǒ men zài jiā 。"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

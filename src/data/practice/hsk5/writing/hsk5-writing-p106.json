@@ -1,0 +1,31 @@
+{
+ "id": "hsk5-writing-p106",
+ "level": "5",
+ "section": "writing",
+ "partKey": "writing-p1",
+ "title": "HSK5 Writing P1",
+ "titleZh": "写作 第一部分（看图写作）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请根据以下四幅图写一篇叙述文，讲述一个完整的故事。注意情节连贯，语言自然，符合HSK5水平。字数不少于100字。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "writing-essay",
+     "prompt": "请根据以下四幅图写一篇叙述文，讲述一个完整的故事。注意情节连贯，语言自然，符合HSK5水平。字数不少于100字。",
+     "minChars": 100,
+     "correctAnswer": "小明打算给妈妈做一顿饭，于是他翻开了菜谱。他自信地拿起刀切菜，没想到切得太急，手指被划伤了。他简单地包扎后继续做菜，但炒菜时油温太高，菜都焦了，厨房里满是烟。妈妈回家后，看到这副景象，并没有责备他，反而给了他一个温暖的拥抱。最后，母子俩一起煮了面条，开心地吃了起来。小明体会到，心意比手艺更重要。",
+     "sample": "小明打算给妈妈做一顿饭，于是他翻开了菜谱。他自信地拿起刀切菜，没想到切得太急，手指被划伤了。他简单地包扎后继续做菜，但炒菜时油温太高，菜都焦了，厨房里满是烟。妈妈回家后，看到这副景象，并没有责备他，反而给了他一个温暖的拥抱。最后，母子俩一起煮了面条，开心地吃了起来。小明体会到，心意比手艺更重要。",
+     "images": [
+      "/api/practice-image?key=images/v1/scene-87745566ff7ebbc59e8df45e9d69a877.png",
+      "/api/practice-image?key=images/v1/scene-017e4b372a62de982c0c5a34cf30071d.png",
+      "/api/practice-image?key=images/v1/scene-888a1bf41fa6ce0482a5d5aa3121f419.png",
+      "/api/practice-image?key=images/v1/scene-ff9ae430aaf7d252a958ec6f24b287ba.png"
+     ]
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

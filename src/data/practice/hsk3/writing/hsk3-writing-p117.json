@@ -1,0 +1,67 @@
+{
+ "id": "hsk3-writing-p117",
+ "level": "3",
+ "section": "writing",
+ "partKey": "writing-p1",
+ "title": "HSK3 Writing P1",
+ "titleZh": "书写 第一部分（写汉字）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请根据拼音在下列句子中填入正确的汉字。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "writing-fill-char",
+     "prompt": "你明天能来参加我的生日（wǎn）会吗？",
+     "correctAnswer": "晚",
+     "acceptableAnswers": [
+      "晚"
+     ],
+     "pinyin": "nǐ míng tiān néng lái cān jiā wǒ de shēng rì wǎn huì ma ？"
+    },
+    {
+     "id": "q2",
+     "type": "writing-fill-char",
+     "prompt": "我昨天买了一本关于（lì）史的书。",
+     "correctAnswer": "历",
+     "acceptableAnswers": [
+      "历"
+     ],
+     "pinyin": "wǒ zuó tiān mǎi le yī běn guān yú lì shǐ de shū 。"
+    },
+    {
+     "id": "q3",
+     "type": "writing-fill-char",
+     "prompt": "请把这些（lā）圾扔到垃圾桶里。",
+     "correctAnswer": "垃",
+     "acceptableAnswers": [
+      "垃"
+     ],
+     "pinyin": "qǐng bǎ zhè xiē lā jī rēng dào lā jī tǒng lǐ 。"
+    },
+    {
+     "id": "q4",
+     "type": "writing-fill-char",
+     "prompt": "她每天坚持（liàn）习钢琴两个小时。",
+     "correctAnswer": "练",
+     "acceptableAnswers": [
+      "练"
+     ],
+     "pinyin": "tā měi tiān jiān chí liàn xí gāng qín liǎng gè xiǎo shí 。"
+    },
+    {
+     "id": "q5",
+     "type": "writing-fill-char",
+     "prompt": "我们应该保护（huán）境，不要乱扔垃圾。",
+     "correctAnswer": "环",
+     "acceptableAnswers": [
+      "环"
+     ],
+     "pinyin": "wǒ men yīng gāi bǎo hù huán jìng ， bú yào luàn rēng lā jī 。"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

@@ -1,0 +1,62 @@
+{
+ "id": "hsk3-writing-p213",
+ "level": "3",
+ "section": "writing",
+ "partKey": "writing-p2",
+ "title": "HSK3 Writing P2",
+ "titleZh": "书写 第二部分（看图写句子）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "根据场景和词语，写出正确的句子。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "电脑",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-fa1d7d991cdc7e680fd0a7d9f6cb2fe9.png",
+     "correctAnswer": "他用电脑工作。",
+     "sample": "他用电脑工作。"
+    },
+    {
+     "id": "q2",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "自行车",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-4d7034c4556c921713452e266da9650f.png",
+     "correctAnswer": "她每天骑自行车上学。",
+     "sample": "她每天骑自行车上学。"
+    },
+    {
+     "id": "q3",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "苹果",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-844255198193df02d74cfc161e8a60db.png",
+     "correctAnswer": "这个苹果很好吃。",
+     "sample": "这个苹果很好吃。"
+    },
+    {
+     "id": "q4",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "花园",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-045179e281e27b49a9e2f3f698c4ff73.png",
+     "correctAnswer": "花园里有很多花。",
+     "sample": "花园里有很多花。"
+    },
+    {
+     "id": "q5",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "教室",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-2515384e7c4128c1f9ea3a432ea2d61b.png",
+     "correctAnswer": "我们在教室上课。",
+     "sample": "我们在教室上课。"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

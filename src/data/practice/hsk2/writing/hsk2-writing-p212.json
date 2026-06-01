@@ -1,0 +1,67 @@
+{
+ "id": "hsk2-writing-p212",
+ "level": "2",
+ "section": "writing",
+ "partKey": "writing-p2",
+ "title": "HSK2 Writing P2",
+ "titleZh": "书写 第二部分（写汉字）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请根据拼音填写句子中缺少的一个汉字。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "writing-fill-char",
+     "prompt": "我每天早上七点（qǐ）床。",
+     "correctAnswer": "起",
+     "acceptableAnswers": [
+      "起"
+     ],
+     "pinyin": "wǒ měi tiān zǎo shàng qī diǎn qǐ chuáng 。"
+    },
+    {
+     "id": "q2",
+     "type": "writing-fill-char",
+     "prompt": "这本书很有（yì）思。",
+     "correctAnswer": "意",
+     "acceptableAnswers": [
+      "意"
+     ],
+     "pinyin": "zhè běn shū hěn yǒu yì si 。"
+    },
+    {
+     "id": "q3",
+     "type": "writing-fill-char",
+     "prompt": "她喜欢（chī）苹果。",
+     "correctAnswer": "吃",
+     "acceptableAnswers": [
+      "吃"
+     ],
+     "pinyin": "tā xǐ huān chī píng guǒ 。"
+    },
+    {
+     "id": "q4",
+     "type": "writing-fill-char",
+     "prompt": "明天是（xīng）期六。",
+     "correctAnswer": "星",
+     "acceptableAnswers": [
+      "星"
+     ],
+     "pinyin": "míng tiān shì xīng qī liù 。"
+    },
+    {
+     "id": "q5",
+     "type": "writing-fill-char",
+     "prompt": "请（zuò）这里。",
+     "correctAnswer": "坐",
+     "acceptableAnswers": [
+      "坐"
+     ],
+     "pinyin": "qǐng zuò zhè lǐ 。"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

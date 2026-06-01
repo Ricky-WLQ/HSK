@@ -1,0 +1,33 @@
+{
+ "id": "hsk7-9-translation-p103",
+ "level": "7-9",
+ "section": "translation",
+ "partKey": "translation-p1",
+ "title": "HSK7-9 Translation P1",
+ "titleZh": "翻译 第一部分（英译中）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "将以下英文段落翻译成中文，要求忠实流畅，符合HSK7-9水平。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "translation-passage",
+     "prompt": "将以下英文段落翻译成中文，要求忠实流畅，符合HSK7-9水平。",
+     "sourceText": "The integration of artificial intelligence into modern medicine represents a paradigm shift in healthcare delivery. AI algorithms now assist radiologists in detecting early-stage tumors with unprecedented accuracy, while machine learning models predict patient outcomes based on vast datasets. However, this technological revolution raises ethical questions about data privacy and the potential for algorithmic bias. Critics argue that over-reliance on AI could erode the human touch in medicine, where empathy and clinical intuition remain indispensable. Proponents counter that AI serves as a powerful tool, augmenting rather than replacing human expertise. As regulatory frameworks struggle to keep pace with innovation, striking a balance between technological advancement and patient welfare becomes paramount.",
+     "correctAnswer": "人工智能融入现代医学代表了医疗服务的范式转变。如今，AI算法协助放射科医生以前所未有的准确性检测早期肿瘤，而机器学习模型则基于海量数据集预测患者预后。然而，这场技术革命引发了关于数据隐私和算法偏差可能性的伦理问题。批评者认为，过度依赖AI可能削弱医学中的人情味，而同理心和临床直觉仍然不可或缺。支持者则反驳说，AI是一种强大的工具，增强而非取代人类专业知识。在监管框架难以跟上创新步伐之际，在技术进步与患者福祉之间取得平衡变得至关重要。",
+     "sample": "人工智能融入现代医学代表了医疗服务的范式转变。如今，AI算法协助放射科医生以前所未有的准确性检测早期肿瘤，而机器学习模型则基于海量数据集预测患者预后。然而，这场技术革命引发了关于数据隐私和算法偏差可能性的伦理问题。批评者认为，过度依赖AI可能削弱医学中的人情味，而同理心和临床直觉仍然不可或缺。支持者则反驳说，AI是一种强大的工具，增强而非取代人类专业知识。在监管框架难以跟上创新步伐之际，在技术进步与患者福祉之间取得平衡变得至关重要。"
+    },
+    {
+     "id": "q2",
+     "type": "translation-passage",
+     "prompt": "将以下英文段落翻译成中文，要求忠实流畅，符合HSK7-9水平。",
+     "sourceText": "Intangible cultural heritage, encompassing traditions, oral histories, and performing arts, faces unprecedented threats in the era of globalization. While UNESCO's conventions provide a framework for safeguarding, local communities bear the primary responsibility for transmission. Remarkably, some indigenous groups have leveraged digital technology to document their ancestral knowledge, creating interactive archives that bridge generational gaps. Yet, this digital preservation must not overshadow the living practice—the essence lies in dynamic intergenerational transmission. Cultural policies should prioritize community empowerment over top-down intervention, respecting the organic evolution of traditions. Ultimately, safeguarding intangible heritage is not about freezing practices in time, but ensuring their continued relevance and adaptation.",
+     "correctAnswer": "非物质文化遗产，包括传统、口述历史和表演艺术，在全球化的时代面临前所未有的威胁。尽管联合国教科文组织的公约提供了保护框架，但地方社区承担着传承的主要责任。值得注意的是，一些土著群体利用数字技术记录其祖先知识，创建了跨越代际鸿沟的互动档案。然而，这种数字化保护不应掩盖活态实践——其本质在于动态的代际传承。文化政策应优先考虑社区赋权而非自上而下的干预，尊重传统的有机演变。归根结底，保护非物质文化遗产不是将实践冻结在时间中，而是确保其持续的相关性和适应性。",
+     "sample": "非物质文化遗产，包括传统、口述历史和表演艺术，在全球化的时代面临前所未有的威胁。尽管联合国教科文组织的公约提供了保护框架，但地方社区承担着传承的主要责任。值得注意的是，一些土著群体利用数字技术记录其祖先知识，创建了跨越代际鸿沟的互动档案。然而，这种数字化保护不应掩盖活态实践——其本质在于动态的代际传承。文化政策应优先考虑社区赋权而非自上而下的干预，尊重传统的有机演变。归根结底，保护非物质文化遗产不是将实践冻结在时间中，而是确保其持续的相关性和适应性。"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

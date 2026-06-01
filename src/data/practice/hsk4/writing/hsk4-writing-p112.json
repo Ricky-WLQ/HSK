@@ -1,0 +1,62 @@
+{
+ "id": "hsk4-writing-p112",
+ "level": "4",
+ "section": "writing",
+ "partKey": "writing-p1",
+ "title": "HSK4 Writing P1",
+ "titleZh": "写作 第一部分（看图写句子）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请根据以下每个场景，用所给词语写出一个正确的句子。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "冰箱",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-d730e0b82e89b166f457f979a36cb91f.png",
+     "correctAnswer": "夏天的时候，我经常从冰箱里拿水喝。",
+     "sample": "夏天的时候，我经常从冰箱里拿水喝。"
+    },
+    {
+     "id": "q2",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "眼镜",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-d25f68d90d059081fa0ca1a263612943.png",
+     "correctAnswer": "她戴上眼镜开始看书。",
+     "sample": "她戴上眼镜开始看书。"
+    },
+    {
+     "id": "q3",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "地图",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-05e70b65c095f51e536fb1389bb1424b.png",
+     "correctAnswer": "游客看着地图寻找博物馆的位置。",
+     "sample": "游客看着地图寻找博物馆的位置。"
+    },
+    {
+     "id": "q4",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "钥匙",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-9db76abc4f25357fb91b2bffe220f5ab.png",
+     "correctAnswer": "他用钥匙打开了大门。",
+     "sample": "他用钥匙打开了大门。"
+    },
+    {
+     "id": "q5",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "抱",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-921e855c13148826f2e07461d8f7353a.png",
+     "correctAnswer": "妈妈紧紧地抱着孩子。",
+     "sample": "妈妈紧紧地抱着孩子。"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

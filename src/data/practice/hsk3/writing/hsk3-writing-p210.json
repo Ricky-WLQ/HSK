@@ -1,0 +1,62 @@
+{
+ "id": "hsk3-writing-p210",
+ "level": "3",
+ "section": "writing",
+ "partKey": "writing-p2",
+ "title": "HSK3 Writing P2",
+ "titleZh": "书写 第二部分（看图写句子）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "根据图片和给定的词语，写出一个完整的句子。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "书包",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-47f1506f81d5681ff3950f4edbb59232.png",
+     "correctAnswer": "他把书放进书包里。",
+     "sample": "他把书放进书包里。"
+    },
+    {
+     "id": "q2",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "自行车",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-97eedf8b973c2ed568c9cade7cc8b5c6.png",
+     "correctAnswer": "他每天骑自行车去上班。",
+     "sample": "他每天骑自行车去上班。"
+    },
+    {
+     "id": "q3",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "杯子",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-6b7b051033d0d974c559e2750a809cf8.png",
+     "correctAnswer": "她倒了一杯水放在桌子上。",
+     "sample": "她倒了一杯水放在桌子上。"
+    },
+    {
+     "id": "q4",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "手机",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-12ab7292a22614d7bc47ce22bd079528.png",
+     "correctAnswer": "他正在用手机发信息。",
+     "sample": "他正在用手机发信息。"
+    },
+    {
+     "id": "q5",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "猫",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-85f0c197dca530f0db3353f346bd2099.png",
+     "correctAnswer": "那只猫在椅子上睡觉。",
+     "sample": "那只猫在椅子上睡觉。"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

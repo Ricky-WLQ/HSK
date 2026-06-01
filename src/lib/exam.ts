@@ -25,6 +25,11 @@ export type HskSection = (typeof HSK_SECTIONS)[number];
 //  listening-mcq                 — hear audio (+ spoken question); pick from 3–4 text options
 //  listening-statement-true-false— hear a passage, judge a PRINTED statement (correctAnswer "对"/"错"); HSK7–9
 //  listening-dictation           — hear audio, free-write a short answer; AI-graded; HSK7–9
+// Writing/translation item types (see scripts/generate-writing.py):
+//  writing-fill-char  — sentence with a （pinyin） blank; write the missing character (correctAnswer); AUTO-graded
+//  writing-sentence   — a picture + a given word; write one sentence using the word; AI-graded (sample provided)
+//  writing-essay      — a topic (optionally 4 panels) → write an essay of ≥minChars; AI-graded
+//  translation-passage— translate the English sourceText into Chinese; AI-graded (sample provided)
 export type HskQuestionType =
   | "match"
   | "cloze-wordbank"
@@ -38,7 +43,11 @@ export type HskQuestionType =
   | "listening-picture-match"
   | "listening-mcq"
   | "listening-statement-true-false"
-  | "listening-dictation";
+  | "listening-dictation"
+  | "writing-fill-char"
+  | "writing-sentence"
+  | "writing-essay"
+  | "translation-passage";
 
 export interface HskOption {
   label: string; // "A".."G"
@@ -71,8 +80,15 @@ export interface HskQuestion {
   correctAnswer: string; // option letter(s) for MCQ/match/cloze; "对"/"错" for true-false; reference text for short-answer/dictation
   acceptableAnswers?: string[]; // short-answer / dictation accepted variants
   explanation?: string; // Chinese explanation of the answer
-  imageUrl?: string; // single shown picture (listening-picture-true-false / image-match prompt picture)
+  imageUrl?: string; // single shown picture (listening-picture-true-false / image-match prompt picture / writing-sentence)
   audio?: HskAudio; // item-level audio (independent listening items, HSK1–3)
+  // Writing / translation fields:
+  givenWord?: string; // writing-sentence: the word the learner must use
+  minChars?: number; // writing-essay: minimum character count
+  sourceText?: string; // translation-passage: the English text to translate
+  sample?: string; // AI-graded reference answer (sentence / essay / translation) shown after grading
+  images?: string[]; // writing-essay 4-panel narrative: ordered panel image URLs
+  rubric?: string; // grading guidance for the AI grader (per item)
 }
 
 export interface HskGroup {
@@ -162,7 +178,14 @@ export function countQuestions(set: HskPracticeSet): number {
   return set.groups.reduce((n, g) => n + g.questions.length, 0);
 }
 
-/** Auto-gradable types are graded by exact match; free-write types are AI-graded. */
+/** Auto-gradable types are graded by exact match; free-write/produced types are AI-graded. */
+const AI_GRADED: ReadonlySet<HskQuestionType> = new Set<HskQuestionType>([
+  "short-answer",
+  "listening-dictation",
+  "writing-sentence",
+  "writing-essay",
+  "translation-passage",
+]);
 export function isAutoGradable(type: HskQuestionType): boolean {
-  return type !== "short-answer" && type !== "listening-dictation";
+  return !AI_GRADED.has(type);
 }

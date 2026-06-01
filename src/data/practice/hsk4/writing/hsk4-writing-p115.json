@@ -1,0 +1,62 @@
+{
+ "id": "hsk4-writing-p115",
+ "level": "4",
+ "section": "writing",
+ "partKey": "writing-p1",
+ "title": "HSK4 Writing P1",
+ "titleZh": "写作 第一部分（看图写句子）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "根据图片和给出的词语，写出一个完整的句子。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "桌子",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-db3fc6c44449d3a8de7742f1127e4c25.png",
+     "correctAnswer": "他坐在桌子前认真地写作业。",
+     "sample": "他坐在桌子前认真地写作业。"
+    },
+    {
+     "id": "q2",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "电脑",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-dca2014fd3d6247d62867dababe0b0ba.png",
+     "correctAnswer": "她每天用电脑工作。",
+     "sample": "她每天用电脑工作。"
+    },
+    {
+     "id": "q3",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "公园",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-4f64b22e4ee9526e630fd98d853fb5b0.png",
+     "correctAnswer": "周末我们常常去公园散步。",
+     "sample": "周末我们常常去公园散步。"
+    },
+    {
+     "id": "q4",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "水果",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-c5f6d9e444f4c7c64fd63062b80851e2.png",
+     "correctAnswer": "妈妈买了许多新鲜的水果。",
+     "sample": "妈妈买了许多新鲜的水果。"
+    },
+    {
+     "id": "q5",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "书包",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-f8ee9d241ad8b524f359853c78e66b13.png",
+     "correctAnswer": "他的书包里有很多书。",
+     "sample": "他的书包里有很多书。"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

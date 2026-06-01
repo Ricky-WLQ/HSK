@@ -1,0 +1,33 @@
+{
+ "id": "hsk7-9-translation-p110",
+ "level": "7-9",
+ "section": "translation",
+ "partKey": "translation-p1",
+ "title": "HSK7-9 Translation P1",
+ "titleZh": "翻译 第一部分（英译中）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "将下列英文段落翻译成中文，要求忠实原文、通顺自然，符合汉语表达习惯。注意处理长句和学术词汇。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "translation-passage",
+     "prompt": "将下列英文段落翻译成中文，要求忠实原文、通顺自然，符合汉语表达习惯。注意处理长句和学术词汇。",
+     "sourceText": "The concept of sustainable development has evolved significantly since its introduction in the 1987 Brundtland Report. Initially focused on environmental protection and economic growth, it now encompasses social equity, cultural preservation, and intergenerational justice. Critics argue that the term has been overused to the point of becoming meaningless, with corporations and governments adopting it as a buzzword without substantive change. However, recent research suggests that integrating sustainability into core business strategies can yield long-term competitive advantages. For instance, companies that proactively reduce carbon emissions often see reduced operational costs and enhanced brand reputation. Moreover, sustainable practices can drive innovation, as firms seek new ways to minimize waste and energy consumption. Despite these benefits, implementation remains challenging due to short-term profit pressures and lack of regulatory enforcement. The path forward requires a paradigm shift from viewing sustainability as a constraint to recognizing it as an opportunity for transformative growth.",
+     "correctAnswer": "可持续发展的概念自1987年《布伦特兰报告》提出以来已发生显著演变。最初侧重于环境保护与经济增长，如今已涵盖社会公平、文化保存和代际正义。批评者认为，该术语因过度使用而近乎失去意义，企业和政府将其当作口头禅，却未做出实质性改变。然而，近期研究表明，将可持续性融入核心商业策略可带来长期竞争优势。例如，主动减少碳排放的公司往往能降低运营成本并提升品牌声誉。此外，可持续实践能推动创新，企业会寻求减少废弃物和能源消耗的新方法。尽管有这些益处，但由于短期盈利压力以及监管执行不力，实施仍面临挑战。未来之路需要范式转变，不再将可持续性视为限制，而是认识到它作为变革性增长的机遇。",
+     "sample": "可持续发展的概念自1987年《布伦特兰报告》提出以来已发生显著演变。最初侧重于环境保护与经济增长，如今已涵盖社会公平、文化保存和代际正义。批评者认为，该术语因过度使用而近乎失去意义，企业和政府将其当作口头禅，却未做出实质性改变。然而，近期研究表明，将可持续性融入核心商业策略可带来长期竞争优势。例如，主动减少碳排放的公司往往能降低运营成本并提升品牌声誉。此外，可持续实践能推动创新，企业会寻求减少废弃物和能源消耗的新方法。尽管有这些益处，但由于短期盈利压力以及监管执行不力，实施仍面临挑战。未来之路需要范式转变，不再将可持续性视为限制，而是认识到它作为变革性增长的机遇。"
+    },
+    {
+     "id": "q2",
+     "type": "translation-passage",
+     "prompt": "将下列英文段落翻译成中文，要求忠实原文、通顺自然，符合汉语表达习惯。注意处理长句和学术词汇。",
+     "sourceText": "The widespread adoption of artificial intelligence in healthcare promises to revolutionize diagnostics, treatment planning, and patient monitoring. Machine learning algorithms can analyze medical images with accuracy surpassing human radiologists, while natural language processing tools extract insights from clinical notes. However, integrating AI into clinical workflows raises ethical concerns regarding data privacy, algorithmic bias, and accountability. For example, if an AI system misdiagnoses a condition, who bears the responsibility—the developer, the hospital, or the physician? Furthermore, disparities in access to AI-powered healthcare could exacerbate existing inequalities, as resource-limited settings may lack the infrastructure to deploy these technologies. To address these challenges, regulators are developing frameworks that require transparency in AI decision-making and rigorous validation before deployment. Meanwhile, interdisciplinary collaboration between computer scientists, clinicians, and ethicists is essential to ensure that AI serves human welfare rather than undermining it. The future of AI in medicine hinges on striking a balance between innovation and caution.",
+     "correctAnswer": "人工智能在医疗领域的广泛应用有望彻底改变诊断、治疗方案设计和患者监测。机器学习算法分析医学影像的准确性可超过人类放射科医生，而自然语言处理工具则从临床笔记中提取见解。然而，将人工智能整合到临床工作流程中引发了关于数据隐私、算法偏差和问责制的伦理问题。例如，若人工智能系统误诊，责任应由开发者、医院还是医生承担？此外，获取人工智能驱动的医疗资源的机会差异可能加剧现有不平等，因为资源有限的场所可能缺乏部署这些技术的基础设施。为应对这些挑战，监管机构正在制定框架，要求人工智能决策透明，并在部署前进行严格验证。同时，计算机科学家、临床医生和伦理学家之间的跨学科合作至关重要，以确保人工智能服务于人类福祉而非损害它。人工智能在医学中的未来取决于在创新与谨慎之间取得平衡。",
+     "sample": "人工智能在医疗领域的广泛应用有望彻底改变诊断、治疗方案设计和患者监测。机器学习算法分析医学影像的准确性可超过人类放射科医生，而自然语言处理工具则从临床笔记中提取见解。然而，将人工智能整合到临床工作流程中引发了关于数据隐私、算法偏差和问责制的伦理问题。例如，若人工智能系统误诊，责任应由开发者、医院还是医生承担？此外，获取人工智能驱动的医疗资源的机会差异可能加剧现有不平等，因为资源有限的场所可能缺乏部署这些技术的基础设施。为应对这些挑战，监管机构正在制定框架，要求人工智能决策透明，并在部署前进行严格验证。同时，计算机科学家、临床医生和伦理学家之间的跨学科合作至关重要，以确保人工智能服务于人类福祉而非损害它。人工智能在医学中的未来取决于在创新与谨慎之间取得平衡。"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

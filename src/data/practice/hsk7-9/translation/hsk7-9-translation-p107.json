@@ -1,0 +1,33 @@
+{
+ "id": "hsk7-9-translation-p107",
+ "level": "7-9",
+ "section": "translation",
+ "partKey": "translation-p1",
+ "title": "HSK7-9 Translation P1",
+ "titleZh": "翻译 第一部分（英译中）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请将以下英文段落翻译成中文，要求忠实原文、语言流畅，符合高级汉语表达习惯。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "translation-passage",
+     "prompt": "请将以下英文段落翻译成中文，要求忠实原文、语言流畅，符合高级汉语表达习惯。",
+     "sourceText": "The concept of sustainable development has gained widespread recognition, yet its implementation remains fraught with challenges. While many nations have pledged to reduce carbon emissions, the economic disparities between developed and developing countries often hinder collective progress. For instance, affluent nations possess the resources to invest in green technology, whereas poorer regions struggle to meet basic needs, let alone prioritize environmental concerns. Moreover, the intricate interplay between economic growth and ecological preservation demands nuanced policies that balance short-term gains with long-term sustainability. Scholars argue that without a fundamental shift in consumption patterns and a more equitable distribution of technological advancements, the goals set by international agreements like the Paris Accord may remain aspirational rather than attainable.",
+     "correctAnswer": "可持续发展的概念已获得广泛认可，但其落实仍充满挑战。尽管许多国家承诺减少碳排放，但发达国家与发展中国家之间的经济差距往往阻碍集体进步。例如，富裕国家拥有资源投资绿色技术，而贫困地区连基本需求都难以满足，更遑论优先考虑环境问题。此外，经济增长与生态保护之间的复杂相互作用需要精细的政策，以平衡短期收益与长期可持续性。学者们认为，如果不从根本上改变消费模式，不更公平地分配技术进步成果，那么《巴黎协定》等国际协议设定的目标可能仍是遥不可及的愿望，而非可实现的目标。",
+     "sample": "可持续发展的概念已获得广泛认可，但其落实仍充满挑战。尽管许多国家承诺减少碳排放，但发达国家与发展中国家之间的经济差距往往阻碍集体进步。例如，富裕国家拥有资源投资绿色技术，而贫困地区连基本需求都难以满足，更遑论优先考虑环境问题。此外，经济增长与生态保护之间的复杂相互作用需要精细的政策，以平衡短期收益与长期可持续性。学者们认为，如果不从根本上改变消费模式，不更公平地分配技术进步成果，那么《巴黎协定》等国际协议设定的目标可能仍是遥不可及的愿望，而非可实现的目标。"
+    },
+    {
+     "id": "q2",
+     "type": "translation-passage",
+     "prompt": "请将以下英文段落翻译成中文，要求忠实原文、语言流畅，符合高级汉语表达习惯。",
+     "sourceText": "In the realm of cognitive science, the debate over innate versus acquired knowledge persists, with implications for education and artificial intelligence. Proponents of nativism argue that certain cognitive structures are hardwired at birth, providing a foundation for language acquisition and moral reasoning. In contrast, empiricists emphasize the role of environmental stimuli and experiential learning in shaping the mind. Recent neuroimaging studies reveal that while newborns exhibit neural predispositions for processing faces and sounds, the brain's plasticity allows for profound restructuring based on experience. This interplay suggests a dynamic synergy rather than a dichotomy. Understanding this complex interaction is crucial for developing pedagogical strategies that leverage both innate capabilities and tailored instruction to optimize learning outcomes.",
+     "correctAnswer": "在认知科学领域，关于知识是先天的还是后天的争论持续存在，这对教育和人工智能具有深远影响。先天论的支持者认为，某些认知结构在出生时便已固化，为语言习得和道德推理奠定了基础。相反，经验论者强调环境刺激和体验式学习在塑造心智中的作用。最近的神经影像学研究表明，尽管新生儿在处理面孔和声音时表现出神经倾向，但大脑的可塑性允许基于经验进行深刻的重组。这种相互作用表明一种动态的协同而非二分法。理解这一复杂交互作用对于开发教学策略至关重要，这些策略应充分利用先天能力与定制化指导，以优化学习效果。",
+     "sample": "在认知科学领域，关于知识是先天的还是后天的争论持续存在，这对教育和人工智能具有深远影响。先天论的支持者认为，某些认知结构在出生时便已固化，为语言习得和道德推理奠定了基础。相反，经验论者强调环境刺激和体验式学习在塑造心智中的作用。最近的神经影像学研究表明，尽管新生儿在处理面孔和声音时表现出神经倾向，但大脑的可塑性允许基于经验进行深刻的重组。这种相互作用表明一种动态的协同而非二分法。理解这一复杂交互作用对于开发教学策略至关重要，这些策略应充分利用先天能力与定制化指导，以优化学习效果。"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

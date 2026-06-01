@@ -1,0 +1,67 @@
+{
+ "id": "hsk2-writing-p210",
+ "level": "2",
+ "section": "writing",
+ "partKey": "writing-p2",
+ "title": "HSK2 Writing P2",
+ "titleZh": "书写 第二部分（写汉字）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请根据拼音填写正确的汉字。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "writing-fill-char",
+     "prompt": "我（shì）学生",
+     "correctAnswer": "是",
+     "acceptableAnswers": [
+      "是"
+     ],
+     "pinyin": "wǒ shì xué shēng"
+    },
+    {
+     "id": "q2",
+     "type": "writing-fill-char",
+     "prompt": "今天天气很（lěng）",
+     "correctAnswer": "冷",
+     "acceptableAnswers": [
+      "冷"
+     ],
+     "pinyin": "jīn tiān tiān qì hěn lěng"
+    },
+    {
+     "id": "q3",
+     "type": "writing-fill-char",
+     "prompt": "我们（xiǎng）去公园",
+     "correctAnswer": "想",
+     "acceptableAnswers": [
+      "想"
+     ],
+     "pinyin": "wǒ men xiǎng qù gōng yuán"
+    },
+    {
+     "id": "q4",
+     "type": "writing-fill-char",
+     "prompt": "他（hē）水",
+     "correctAnswer": "喝",
+     "acceptableAnswers": [
+      "喝"
+     ],
+     "pinyin": "tā hē shuǐ"
+    },
+    {
+     "id": "q5",
+     "type": "writing-fill-char",
+     "prompt": "妈妈（zuò）饭",
+     "correctAnswer": "做",
+     "acceptableAnswers": [
+      "做"
+     ],
+     "pinyin": "mā mā zuò fàn"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

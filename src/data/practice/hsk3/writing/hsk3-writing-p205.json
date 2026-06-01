@@ -1,0 +1,62 @@
+{
+ "id": "hsk3-writing-p205",
+ "level": "3",
+ "section": "writing",
+ "partKey": "writing-p2",
+ "title": "HSK3 Writing P2",
+ "titleZh": "书写 第二部分（看图写句子）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请根据下面的场景描述和词语，写出一个包含该词语的句子。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "苹果",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-995aee37b5c12f5c17331e4f4d5841d7.png",
+     "correctAnswer": "我每天吃一个苹果。",
+     "sample": "我每天吃一个苹果。"
+    },
+    {
+     "id": "q2",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "狗",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-f11876950cc981786a6685c7f943c462.png",
+     "correctAnswer": "那只狗很可爱。",
+     "sample": "那只狗很可爱。"
+    },
+    {
+     "id": "q3",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "跑步",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-f9550777c9fb8dbb6e163dfc48cf52a3.png",
+     "correctAnswer": "他每天早上跑步。",
+     "sample": "他每天早上跑步。"
+    },
+    {
+     "id": "q4",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "写",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-76ad3425874155436d6453f49eed7552.png",
+     "correctAnswer": "她正在写作业。",
+     "sample": "她正在写作业。"
+    },
+    {
+     "id": "q5",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "书",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-a6288f1a7aa48ced46afcfacd5588e95.png",
+     "correctAnswer": "我喜欢看这本书。",
+     "sample": "我喜欢看这本书。"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

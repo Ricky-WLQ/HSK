@@ -1,0 +1,33 @@
+{
+ "id": "hsk7-9-translation-p102",
+ "level": "7-9",
+ "section": "translation",
+ "partKey": "translation-p1",
+ "title": "HSK7-9 Translation P1",
+ "titleZh": "翻译 第一部分（英译中）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "将以下英文段落翻译成中文，要求忠实流畅，符合汉语表达习惯，词汇语法难度对应HSK7-9级。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "translation-passage",
+     "prompt": "将以下英文段落翻译成中文，要求忠实流畅，符合汉语表达习惯，词汇语法难度对应HSK7-9级。",
+     "sourceText": "Climate change poses a significant threat to global agriculture, with rising temperatures and shifting precipitation patterns disrupting crop cycles and reducing yields. In many regions, traditional farming practices are becoming less viable, forcing farmers to adapt through technological innovation or crop diversification. However, these adaptations often require substantial investment and access to resources that are not universally available. Smallholder farmers in developing countries are particularly vulnerable, as they lack the financial and technical support needed to implement sustainable changes. The international community must prioritize agricultural resilience, promoting research into drought-resistant crops and efficient water management. Without concerted action, food security will be severely compromised, exacerbating poverty and social instability in already fragile ecosystems.",
+     "correctAnswer": "气候变化对全球农业构成重大威胁，气温升高和降水模式改变打乱了作物生长周期，导致减产。在许多地区，传统耕作方式日益难以为继，迫使农民通过技术创新或作物多样化来适应。然而，这些适应措施往往需要大量投资和获取资源，而这些并非普遍可得。发展中国家的自给农尤其脆弱，因为他们缺乏实施可持续变革所需的资金和技术支持。国际社会必须优先考虑农业韧性，推动抗旱作物和高效水资源管理的研究。如果不采取协调行动，粮食安全将受到严重损害，从而加剧本已脆弱的生态系统中的贫困和社会不稳定。",
+     "sample": "气候变化对全球农业构成重大威胁，气温升高和降水模式改变打乱了作物生长周期，导致减产。在许多地区，传统耕作方式日益难以为继，迫使农民通过技术创新或作物多样化来适应。然而，这些适应措施往往需要大量投资和获取资源，而这些并非普遍可得。发展中国家的自给农尤其脆弱，因为他们缺乏实施可持续变革所需的资金和技术支持。国际社会必须优先考虑农业韧性，推动抗旱作物和高效水资源管理的研究。如果不采取协调行动，粮食安全将受到严重损害，从而加剧本已脆弱的生态系统中的贫困和社会不稳定。"
+    },
+    {
+     "id": "q2",
+     "type": "translation-passage",
+     "prompt": "将以下英文段落翻译成中文，要求忠实流畅，符合汉语表达习惯，词汇语法难度对应HSK7-9级。",
+     "sourceText": "Artificial intelligence is revolutionizing education by enabling personalized learning experiences that adapt to individual student needs. Intelligent tutoring systems can assess a learner's strengths and weaknesses, offering tailored exercises and feedback. However, the integration of AI in classrooms raises ethical concerns, particularly regarding data privacy and the potential for algorithmic bias. Educators must be trained not only to use these tools effectively but also to critically evaluate their outputs. Moreover, over-reliance on AI may undermine the development of critical thinking and social skills if not balanced with human interaction. As AI continues to evolve, policymakers and educators must collaborate to ensure that technology serves as an aid, not a replacement, for teachers. Ultimately, the goal is to harness AI's power to make education more inclusive and effective, while safeguarding the human elements essential to learning.",
+     "correctAnswer": "人工智能正通过提供适应个体学生需求的个性化学习体验，彻底改变教育。智能辅导系统可以评估学习者的长处和弱点，提供量身定制的练习和反馈。然而，人工智能在课堂中的整合引发了伦理问题，尤其是关于数据隐私和算法偏见的可能性。教育工作者不仅要学会有效使用这些工具，还要学会批判性评估其输出。此外，如果没有人类互动作为平衡，过度依赖人工智能可能会削弱批判性思维和社交技能的发展。随着人工智能的不断发展，政策制定者和教育工作者必须合作，确保技术成为教师的助手而非替代品。最终目标是利用人工智能的力量使教育更具包容性和有效性，同时保护学习所必需的人文因素。",
+     "sample": "人工智能正通过提供适应个体学生需求的个性化学习体验，彻底改变教育。智能辅导系统可以评估学习者的长处和弱点，提供量身定制的练习和反馈。然而，人工智能在课堂中的整合引发了伦理问题，尤其是关于数据隐私和算法偏见的可能性。教育工作者不仅要学会有效使用这些工具，还要学会批判性评估其输出。此外，如果没有人类互动作为平衡，过度依赖人工智能可能会削弱批判性思维和社交技能的发展。随着人工智能的不断发展，政策制定者和教育工作者必须合作，确保技术成为教师的助手而非替代品。最终目标是利用人工智能的力量使教育更具包容性和有效性，同时保护学习所必需的人文因素。"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

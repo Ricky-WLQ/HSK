@@ -1,0 +1,33 @@
+{
+ "id": "hsk7-9-translation-p115",
+ "level": "7-9",
+ "section": "translation",
+ "partKey": "translation-p1",
+ "title": "HSK7-9 Translation P1",
+ "titleZh": "翻译 第一部分（英译中）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "将下列英文段落翻译成中文，要求忠实流畅，符合学术语体。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "translation-passage",
+     "prompt": "将下列英文段落翻译成中文，要求忠实流畅，符合学术语体。",
+     "sourceText": "The rapid advancement of artificial intelligence has sparked widespread debate about its impact on employment. While AI automates routine tasks and boosts productivity, it also displaces workers in sectors like manufacturing and customer service. However, proponents argue that AI creates new job opportunities in fields such as data analysis and machine learning. The key challenge lies in workforce adaptation: retraining programs and educational reforms are essential to equip people with skills for the AI era. Governments must also address income inequality exacerbated by technological change. Ultimately, the future of work hinges on our ability to harness AI's potential while mitigating its disruptive effects.",
+     "correctAnswer": "人工智能的快速发展引发了关于其对就业影响的广泛讨论。虽然人工智能能够自动化日常任务并提高生产力，但也导致制造业和客服等行业的工人失业。然而，支持者认为，人工智能在数据分析和机器学习等领域创造了新的就业机会。关键在于劳动力的适应性调整：再培训计划和教育改革对于培养人们适应人工智能时代所需的技能至关重要。政府还必须解决因技术变革而加剧的收入不平等问题。最终，工作的未来取决于我们能否在利用人工智能潜力的同时减轻其破坏性影响。",
+     "sample": "人工智能的快速发展引发了关于其对就业影响的广泛讨论。虽然人工智能能够自动化日常任务并提高生产力，但也导致制造业和客服等行业的工人失业。然而，支持者认为，人工智能在数据分析和机器学习等领域创造了新的就业机会。关键在于劳动力的适应性调整：再培训计划和教育改革对于培养人们适应人工智能时代所需的技能至关重要。政府还必须解决因技术变革而加剧的收入不平等问题。最终，工作的未来取决于我们能否在利用人工智能潜力的同时减轻其破坏性影响。"
+    },
+    {
+     "id": "q2",
+     "type": "translation-passage",
+     "prompt": "将下列英文段落翻译成中文，要求忠实流畅，符合学术语体。",
+     "sourceText": "The concept of green GDP has gained traction as a measure of economic growth that accounts for environmental costs. Traditional GDP ignores resource depletion and pollution, leading to unsustainable practices. Green GDP subtracts the value of environmental degradation and resource consumption from conventional GDP, offering a more holistic view of progress. Critics, however, point to difficulties in quantifying ecological damage and setting monetary values on natural assets. Despite these challenges, several countries have piloted green accounting systems. Advocates argue that such metrics are vital for steering policies toward sustainable development, where economic prosperity does not come at the expense of the planet's health.",
+     "correctAnswer": "绿色GDP的概念作为衡量经济增长并考虑环境成本的一种方式已获得关注。传统GDP忽略了资源消耗和污染，导致不可持续的做法。绿色GDP从传统GDP中扣除环境退化和资源消耗的价值，提供了更全面的进展视角。然而，批评者指出，量化生态损害和为自然资产设定货币价值存在困难。尽管存在这些挑战，一些国家已经试点了绿色核算体系。支持者认为，这类指标对于引导政策走向可持续发展至关重要，使经济繁荣不以牺牲地球健康为代价。",
+     "sample": "绿色GDP的概念作为衡量经济增长并考虑环境成本的一种方式已获得关注。传统GDP忽略了资源消耗和污染，导致不可持续的做法。绿色GDP从传统GDP中扣除环境退化和资源消耗的价值，提供了更全面的进展视角。然而，批评者指出，量化生态损害和为自然资产设定货币价值存在困难。尽管存在这些挑战，一些国家已经试点了绿色核算体系。支持者认为，这类指标对于引导政策走向可持续发展至关重要，使经济繁荣不以牺牲地球健康为代价。"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

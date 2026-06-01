@@ -1,0 +1,62 @@
+{
+ "id": "hsk4-writing-p113",
+ "level": "4",
+ "section": "writing",
+ "partKey": "writing-p1",
+ "title": "HSK4 Writing P1",
+ "titleZh": "写作 第一部分（看图写句子）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请根据以下每个词语和场景描述，写出一个包含该词语的句子。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "护照",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-97dbcba349ce8a17b6cb2c863b2796df.png",
+     "correctAnswer": "在机场，他把护照递给工作人员。",
+     "sample": "在机场，他把护照递给工作人员。"
+    },
+    {
+     "id": "q2",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "钥匙",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-75d4c90a74f5af3d05f8d07716e6fca8.png",
+     "correctAnswer": "他用钥匙打开了房间的门。",
+     "sample": "他用钥匙打开了房间的门。"
+    },
+    {
+     "id": "q3",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "电梯",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-e61db30452be893085e98c0ea5e20291.png",
+     "correctAnswer": "我们坐电梯去十楼。",
+     "sample": "我们坐电梯去十楼。"
+    },
+    {
+     "id": "q4",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "冰箱",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-bfd733697791e82e4d2cb1219d92ea00.png",
+     "correctAnswer": "冰箱里有很多水果和蔬菜。",
+     "sample": "冰箱里有很多水果和蔬菜。"
+    },
+    {
+     "id": "q5",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "眼镜",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-1ac567f71c63eebc31c718684dcaf8f9.png",
+     "correctAnswer": "他戴着眼镜看报纸。",
+     "sample": "他戴着眼镜看报纸。"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

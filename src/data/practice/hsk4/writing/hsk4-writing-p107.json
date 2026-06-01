@@ -1,0 +1,62 @@
+{
+ "id": "hsk4-writing-p107",
+ "level": "4",
+ "section": "writing",
+ "partKey": "writing-p1",
+ "title": "HSK4 Writing P1",
+ "titleZh": "写作 第一部分（看图写句子）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请根据给出的词语和场景，写出一个合适的句子。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "冰箱",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-1e1cf201b627b02ca60dcd0a84c68236.png",
+     "correctAnswer": "妈妈从冰箱里拿出了一些蔬菜。",
+     "sample": "妈妈从冰箱里拿出了一些蔬菜。"
+    },
+    {
+     "id": "q2",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "表演",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-a76627b3125bd39f88012a8567cbe889.png",
+     "correctAnswer": "他在舞台上表演杂技。",
+     "sample": "他在舞台上表演杂技。"
+    },
+    {
+     "id": "q3",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "近视",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-d1aa61774fead8acc627025fb947b474.png",
+     "correctAnswer": "他因为近视，看书时眼睛离得很近。",
+     "sample": "他因为近视，看书时眼睛离得很近。"
+    },
+    {
+     "id": "q4",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "骑",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-70c1ccd23f5f580b42665664a990be61.png",
+     "correctAnswer": "她每天骑自行车去上学。",
+     "sample": "她每天骑自行车去上学。"
+    },
+    {
+     "id": "q5",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "弹",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-5079fe82e3c121885ad0617351411b43.png",
+     "correctAnswer": "他每天晚上弹吉他练习。",
+     "sample": "他每天晚上弹吉他练习。"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

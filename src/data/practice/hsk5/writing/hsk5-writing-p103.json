@@ -1,0 +1,31 @@
+{
+ "id": "hsk5-writing-p103",
+ "level": "5",
+ "section": "writing",
+ "partKey": "writing-p1",
+ "title": "HSK5 Writing P1",
+ "titleZh": "写作 第一部分（看图写作）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "根据下面四幅图的内容，写一篇约150字的短文，叙述一个完整的故事。注意使用连贯的叙述，可以加入适当的对话和心理描写。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "writing-essay",
+     "prompt": "根据下面四幅图的内容，写一篇约150字的短文，叙述一个完整的故事。注意使用连贯的叙述，可以加入适当的对话和心理描写。",
+     "minChars": 100,
+     "correctAnswer": "一天，小明在街上散步，突然看到一个大约五六岁的小女孩在路边哭。他赶紧走过去，蹲下身子，轻声问她为什么哭。小女孩抽泣着说，她跟妈妈走散了，找不到回家的路。小明安慰她说：“别担心，我带你去找警察叔叔帮忙。”于是，他拉着小女孩的手，来到了附近的警察局。警察叔叔很快联系到了小女孩的父母。不一会儿，她的父母急匆匆地赶来，看到女儿安然无恙，激动地握着小明的手，连声道谢。小女孩也扑过来抱住小明，脸上露出了笑容。小明开心地说：“不用谢，这是我应该做的。”",
+     "sample": "一天，小明在街上散步，突然看到一个大约五六岁的小女孩在路边哭。他赶紧走过去，蹲下身子，轻声问她为什么哭。小女孩抽泣着说，她跟妈妈走散了，找不到回家的路。小明安慰她说：“别担心，我带你去找警察叔叔帮忙。”于是，他拉着小女孩的手，来到了附近的警察局。警察叔叔很快联系到了小女孩的父母。不一会儿，她的父母急匆匆地赶来，看到女儿安然无恙，激动地握着小明的手，连声道谢。小女孩也扑过来抱住小明，脸上露出了笑容。小明开心地说：“不用谢，这是我应该做的。”",
+     "images": [
+      "/api/practice-image?key=images/v1/scene-462be9220fcd4eb230e93849cc7a4168.png",
+      "/api/practice-image?key=images/v1/scene-b82e8f549c61ec22231e4f3ebc35f572.png",
+      "/api/practice-image?key=images/v1/scene-14b173b2966ea3a40ac49f1d9acf4b27.png",
+      "/api/practice-image?key=images/v1/scene-863a5d3db5622cb0d2a74f8d35b57042.png"
+     ]
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

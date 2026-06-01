@@ -1,0 +1,31 @@
+{
+ "id": "hsk5-writing-p118",
+ "level": "5",
+ "section": "writing",
+ "partKey": "writing-p1",
+ "title": "HSK5 Writing P1",
+ "titleZh": "写作 第一部分（看图写作）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请根据以下四幅图写一篇叙述文，描述图中的故事。要求内容连贯，语句通顺，不少于100字。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "writing-essay",
+     "prompt": "请根据以下四幅图写一篇叙述文，描述图中的故事。要求内容连贯，语句通顺，不少于100字。",
+     "minChars": 100,
+     "correctAnswer": "小明是一名大学生，他非常喜欢阅读历史书籍。今天下午，他按照自己列的书单去学校图书馆找一本关于唐朝的书。他在书架间仔细寻找，却怎么也找不到。于是，他走向服务台向管理员寻求帮助。管理员热情地帮他查询电脑，发现那本书被放错了位置，在二楼的历史区。小明上到二楼，果然找到了那本书，他非常开心，并顺利办理了借书手续。",
+     "sample": "小明是一名大学生，他非常喜欢阅读历史书籍。今天下午，他按照自己列的书单去学校图书馆找一本关于唐朝的书。他在书架间仔细寻找，却怎么也找不到。于是，他走向服务台向管理员寻求帮助。管理员热情地帮他查询电脑，发现那本书被放错了位置，在二楼的历史区。小明上到二楼，果然找到了那本书，他非常开心，并顺利办理了借书手续。",
+     "images": [
+      "/api/practice-image?key=images/v1/scene-3c63349a16d06237d843dfd5261d87d7.png",
+      "/api/practice-image?key=images/v1/scene-200ba0207b66f6f30a475ee4bebdd194.png",
+      "/api/practice-image?key=images/v1/scene-323edc49ef690f497c6f33e7530d70e1.png",
+      "/api/practice-image?key=images/v1/scene-310fa51a52c93eff0bbaaf8890218518.png"
+     ]
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

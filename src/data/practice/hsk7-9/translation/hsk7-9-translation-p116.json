@@ -1,0 +1,33 @@
+{
+ "id": "hsk7-9-translation-p116",
+ "level": "7-9",
+ "section": "translation",
+ "partKey": "translation-p1",
+ "title": "HSK7-9 Translation P1",
+ "titleZh": "翻译 第一部分（英译中）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请将以下英文段落翻译成中文，要求忠实原文且语言流畅，符合HSK7-9级水平。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "translation-passage",
+     "prompt": "请将以下英文段落翻译成中文，要求忠实原文且语言流畅，符合HSK7-9级水平。",
+     "sourceText": "Climate change poses a significant threat to global food security, particularly in developing countries where subsistence farming is prevalent. Rising temperatures and erratic precipitation patterns are reducing arable land and water availability for irrigation. Consequently, crop yields for staple foods like rice, wheat, and maize are declining. Scientists predict that without adaptive measures, such as developing drought-resistant crops and improving water management, food production may drop by up to 30% by 2050. This would exacerbate hunger and poverty, especially in regions already vulnerable to malnutrition. International cooperation is crucial to fund research and implement sustainable agricultural practices. However, political will and economic constraints often hinder progress. The urgency of the situation demands immediate action from governments, NGOs, and the private sector to mitigate the adverse effects and ensure a stable food supply for future generations.",
+     "correctAnswer": "气候变化对全球粮食安全构成重大威胁，尤其是在以自给自足农业为主的发展中国家。气温升高和降水模式异常导致可耕地面积减少，灌溉用水短缺。因此，水稻、小麦和玉米等主食作物的产量正在下降。科学家预测，如果不采取开发抗旱作物和改善水资源管理等适应措施，到2050年粮食产量可能下降多达30%。这将加剧饥饿和贫困，特别是在本已容易遭受营养不良的地区。国际合作对于资助研究和实施可持续农业实践至关重要。然而，政治意愿和经济制约常常阻碍进展。形势紧迫，要求政府、非政府组织和私营部门立即采取行动，以减轻不利影响，确保子孙后代的稳定粮食供应。",
+     "sample": "气候变化对全球粮食安全构成重大威胁，尤其是在以自给自足农业为主的发展中国家。气温升高和降水模式异常导致可耕地面积减少，灌溉用水短缺。因此，水稻、小麦和玉米等主食作物的产量正在下降。科学家预测，如果不采取开发抗旱作物和改善水资源管理等适应措施，到2050年粮食产量可能下降多达30%。这将加剧饥饿和贫困，特别是在本已容易遭受营养不良的地区。国际合作对于资助研究和实施可持续农业实践至关重要。然而，政治意愿和经济制约常常阻碍进展。形势紧迫，要求政府、非政府组织和私营部门立即采取行动，以减轻不利影响，确保子孙后代的稳定粮食供应。"
+    },
+    {
+     "id": "q2",
+     "type": "translation-passage",
+     "prompt": "请将以下英文段落翻译成中文，要求忠实原文且语言流畅，符合HSK7-9级水平。",
+     "sourceText": "The internet has revolutionized communication, commerce, and entertainment, but its rapid expansion has also created new social challenges. Social media platforms, while connecting billions of people, can amplify misinformation and contribute to political polarization. The digital divide persists, with many rural and low-income communities lacking reliable access to high-speed internet, thereby limiting their educational and economic opportunities. Furthermore, the prevalence of cyberbullying and online harassment has raised concerns about mental health, particularly among adolescents. Information overload and privacy breaches have become commonplace, prompting calls for stricter regulations on data usage. As artificial intelligence and automation further integrate into daily life, ethical questions about job displacement and algorithmic bias emerge. Society must navigate these complexities carefully, balancing innovation with responsibility to ensure the internet remains a tool for empowerment rather than a source of division.",
+     "correctAnswer": "互联网彻底改变了通信、商业和娱乐，但其迅速扩张也带来了新的社会挑战。社交媒体平台在连接数十亿人的同时，也可能放大错误信息并加剧政治两极分化。数字鸿沟依然存在，许多农村和低收入社区缺乏可靠的高速互联网接入，从而限制了他们的教育和经济机会。此外，网络欺凌和在线骚扰的普遍存在引发了对心理健康的担忧，尤其是在青少年中。信息过载和隐私泄露已变得司空见惯，促使人们呼吁对数据使用加强监管。随着人工智能和自动化进一步融入日常生活，关于岗位替代和算法偏差的伦理问题出现。社会必须谨慎应对这些复杂性，平衡创新与责任，确保互联网仍然是赋权的工具，而不是分裂的根源。",
+     "sample": "互联网彻底改变了通信、商业和娱乐，但其迅速扩张也带来了新的社会挑战。社交媒体平台在连接数十亿人的同时，也可能放大错误信息并加剧政治两极分化。数字鸿沟依然存在，许多农村和低收入社区缺乏可靠的高速互联网接入，从而限制了他们的教育和经济机会。此外，网络欺凌和在线骚扰的普遍存在引发了对心理健康的担忧，尤其是在青少年中。信息过载和隐私泄露已变得司空见惯，促使人们呼吁对数据使用加强监管。随着人工智能和自动化进一步融入日常生活，关于岗位替代和算法偏差的伦理问题出现。社会必须谨慎应对这些复杂性，平衡创新与责任，确保互联网仍然是赋权的工具，而不是分裂的根源。"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

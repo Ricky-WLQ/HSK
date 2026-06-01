@@ -1,0 +1,62 @@
+{
+ "id": "hsk3-writing-p203",
+ "level": "3",
+ "section": "writing",
+ "partKey": "writing-p2",
+ "title": "HSK3 Writing P2",
+ "titleZh": "书写 第二部分（看图写句子）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请根据图片和所给词语，写一个完整的句子。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "跑步",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-04cfe5091b8354d904179c2bf26b93bc.png",
+     "correctAnswer": "他每天早上在公园里跑步。",
+     "sample": "他每天早上在公园里跑步。"
+    },
+    {
+     "id": "q2",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "电脑",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-fbc8d106adf42b27da84b41f6f89f327.png",
+     "correctAnswer": "她正在用电脑工作。",
+     "sample": "她正在用电脑工作。"
+    },
+    {
+     "id": "q3",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "热",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-6070111ae8092f2e6a5ce166e773c21a.png",
+     "correctAnswer": "今天天气很热，我不想去外面。",
+     "sample": "今天天气很热，我不想去外面。"
+    },
+    {
+     "id": "q4",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "手机",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-795093c5a3db359de9810877eeed355e.png",
+     "correctAnswer": "他正在用手机跟朋友聊天。",
+     "sample": "他正在用手机跟朋友聊天。"
+    },
+    {
+     "id": "q5",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "苹果",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-79491548b38bba2ef4b2e289a4bc65f6.png",
+     "correctAnswer": "这个苹果很好吃。",
+     "sample": "这个苹果很好吃。"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

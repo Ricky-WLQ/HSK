@@ -1,0 +1,62 @@
+{
+ "id": "hsk4-writing-p111",
+ "level": "4",
+ "section": "writing",
+ "partKey": "writing-p1",
+ "title": "HSK4 Writing P1",
+ "titleZh": "写作 第一部分（看图写句子）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "根据以下每个项目的场景描述和给定词语，写出一个包含该词语的自然句子。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "护照",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-939ba768ef6474de82b2c6c08249f896.png",
+     "correctAnswer": "过海关的时候，请出示你的护照。",
+     "sample": "过海关的时候，请出示你的护照。"
+    },
+    {
+     "id": "q2",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "电梯",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-1d6ab6eaba683c6f70306cae16d679f2.png",
+     "correctAnswer": "我们坐电梯上十楼吧。",
+     "sample": "我们坐电梯上十楼吧。"
+    },
+    {
+     "id": "q3",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "眼镜",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-6b0dcb2236cae510c734af663d4aafd3.png",
+     "correctAnswer": "她戴上眼镜才能看清楚。",
+     "sample": "她戴上眼镜才能看清楚。"
+    },
+    {
+     "id": "q4",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "钥匙",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-ea8b3b0b130b6018a2e7cb3c40e2db5b.png",
+     "correctAnswer": "我忘记带钥匙了，进不了门。",
+     "sample": "我忘记带钥匙了，进不了门。"
+    },
+    {
+     "id": "q5",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "行人",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-05d5db4688cad6760734c9091c6dc035.png",
+     "correctAnswer": "行人过马路时要走斑马线。",
+     "sample": "行人过马路时要走斑马线。"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

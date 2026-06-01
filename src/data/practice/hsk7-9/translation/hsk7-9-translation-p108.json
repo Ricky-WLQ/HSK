@@ -1,0 +1,33 @@
+{
+ "id": "hsk7-9-translation-p108",
+ "level": "7-9",
+ "section": "translation",
+ "partKey": "translation-p1",
+ "title": "HSK7-9 Translation P1",
+ "titleZh": "翻译 第一部分（英译中）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请将以下英文段落翻译成地道的中文。注意：保持原文风格，用词准确，符合HSK7-9水平要求。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "translation-passage",
+     "prompt": "请将以下英文段落翻译成地道的中文。注意：保持原文风格，用词准确，符合HSK7-9水平要求。",
+     "sourceText": "The interplay between climate change and global economic stability has become a focal point of contemporary discourse. While some argue that technological innovation will mitigate adverse effects, others contend that the pace of change is outstripping adaptive capacities. The agricultural sector, for instance, faces unprecedented challenges due to shifting weather patterns, threatening food security in vulnerable regions. Moreover, extreme weather events impose substantial fiscal burdens on governments, necessitating reallocation of resources from long-term investments to emergency relief. This dichotomy underscores the urgency for integrated policy frameworks that balance mitigation and adaptation strategies. However, the complexity of these issues is compounded by geopolitical tensions and divergent national interests, often stalling multilateral cooperation. As such, the path forward demands not only scientific breakthroughs but also a renewed commitment to collaborative governance.",
+     "correctAnswer": "气候变化与全球经济稳定之间的相互作用已成为当代讨论的焦点。尽管有人认为技术创新将减轻不利影响，但另一些人则认为变化的速度正在超越适应能力。例如，农业部门因天气模式变化而面临前所未有的挑战，威胁到脆弱地区的粮食安全。此外，极端天气事件给政府带来了沉重的财政负担，迫使资源从长期投资转向紧急救援。这种两难局面凸显了制定平衡减缓与适应策略的综合政策框架的紧迫性。然而，地缘政治紧张和各国利益分歧又加剧了这些问题的复杂性，往往阻碍多边合作。因此，前进的道路不仅需要科学突破，还需要对合作治理做出新的承诺。",
+     "sample": "气候变化与全球经济稳定之间的相互作用已成为当代讨论的焦点。尽管有人认为技术创新将减轻不利影响，但另一些人则认为变化的速度正在超越适应能力。例如，农业部门因天气模式变化而面临前所未有的挑战，威胁到脆弱地区的粮食安全。此外，极端天气事件给政府带来了沉重的财政负担，迫使资源从长期投资转向紧急救援。这种两难局面凸显了制定平衡减缓与适应策略的综合政策框架的紧迫性。然而，地缘政治紧张和各国利益分歧又加剧了这些问题的复杂性，往往阻碍多边合作。因此，前进的道路不仅需要科学突破，还需要对合作治理做出新的承诺。"
+    },
+    {
+     "id": "q2",
+     "type": "translation-passage",
+     "prompt": "请将以下英文段落翻译成地道的中文。注意：保持原文风格，用词准确，符合HSK7-9水平要求。",
+     "sourceText": "The philosophy of language grapples with fundamental questions about meaning, reference, and communication. One enduring puzzle involves how words come to represent objects and ideas. Traditional theories, such as referentialism, posit that meaning arises from a direct correspondence between language and reality. Yet, this view faces challenges from contextualists who argue that meaning is heavily dependent on usage and social context. For instance, the same phrase can convey different meanings in different situations, as seen in irony or metaphor. Furthermore, the later Wittgenstein proposed that meaning is grounded in 'language games'—the rule-governed activities in which utterances are embedded. This perspective shifts focus from static definitions to dynamic practices, emphasizing the role of community and convention. Ultimately, these debates highlight the intricate relationship between language, thought, and the world, reminding us that meaning is not a fixed property but a fluid achievement of human interaction.",
+     "correctAnswer": "语言哲学致力于探究关于意义、指称和交流的基本问题。一个持久的谜题是词语如何代表物体和思想。传统理论如指称论认为，意义源于语言与现实之间的直接对应。然而，这一观点受到语境主义者的挑战，他们认为意义严重依赖于使用和社会语境。例如，同一短语在不同情境下可以传达不同含义，如反语或隐喻中所示。此外，后期维特根斯坦提出，意义植根于'语言游戏'——即话语嵌入其中的规则支配活动。这一视角从静态定义转向动态实践，强调共同体和惯例的作用。最终，这些争论凸显了语言、思想和世界之间的复杂关系，提醒我们意义不是固定的属性，而是人类互动的流动成就。",
+     "sample": "语言哲学致力于探究关于意义、指称和交流的基本问题。一个持久的谜题是词语如何代表物体和思想。传统理论如指称论认为，意义源于语言与现实之间的直接对应。然而，这一观点受到语境主义者的挑战，他们认为意义严重依赖于使用和社会语境。例如，同一短语在不同情境下可以传达不同含义，如反语或隐喻中所示。此外，后期维特根斯坦提出，意义植根于'语言游戏'——即话语嵌入其中的规则支配活动。这一视角从静态定义转向动态实践，强调共同体和惯例的作用。最终，这些争论凸显了语言、思想和世界之间的复杂关系，提醒我们意义不是固定的属性，而是人类互动的流动成就。"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

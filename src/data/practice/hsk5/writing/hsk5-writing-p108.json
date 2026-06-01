@@ -1,0 +1,31 @@
+{
+ "id": "hsk5-writing-p108",
+ "level": "5",
+ "section": "writing",
+ "partKey": "writing-p1",
+ "title": "HSK5 Writing P1",
+ "titleZh": "写作 第一部分（看图写作）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请根据下面的四幅图写一篇短文。注意：故事要连贯，语言准确，字数在120-150字之间。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "writing-essay",
+     "prompt": "请根据下面的四幅图写一篇短文。注意：故事要连贯，语言准确，字数在120-150字之间。",
+     "minChars": 100,
+     "correctAnswer": "小明在公园散步时，突然发现手机不见了。他非常着急，立刻回到之前去过的咖啡馆询问店员，但店员说没有看到。接着，他想起可能忘在了图书馆。赶到图书馆后，果然在桌上找到了手机。他松了一口气，向图书馆员道谢后离开了。这次经历提醒他以后要小心保管物品。",
+     "sample": "小明在公园散步时，突然发现手机不见了。他非常着急，立刻回到之前去过的咖啡馆询问店员，但店员说没有看到。接着，他想起可能忘在了图书馆。赶到图书馆后，果然在桌上找到了手机。他松了一口气，向图书馆员道谢后离开了。这次经历提醒他以后要小心保管物品。",
+     "images": [
+      "/api/practice-image?key=images/v1/scene-576a30a70ac853aec18135ca64b4114e.png",
+      "/api/practice-image?key=images/v1/scene-a2e8334d2932abb5ee9f94c1fb503597.png",
+      "/api/practice-image?key=images/v1/scene-af2c112c01e4f6d36f10035e5029f4da.png",
+      "/api/practice-image?key=images/v1/scene-baec4c418ba59883e08c4e641928369c.png"
+     ]
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

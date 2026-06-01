@@ -1,0 +1,62 @@
+{
+ "id": "hsk4-writing-p118",
+ "level": "4",
+ "section": "writing",
+ "partKey": "writing-p1",
+ "title": "HSK4 Writing P1",
+ "titleZh": "写作 第一部分（看图写句子）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "根据图片和词语，写出一个包含该词语的句子。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "冰箱",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-94f3fef4a5693a1e0c0ae73fa5bf51b9.png",
+     "correctAnswer": "她把冰箱里的蔬菜拿出来做饭。",
+     "sample": "她把冰箱里的蔬菜拿出来做饭。"
+    },
+    {
+     "id": "q2",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "地铁",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-69bce2a3e0c85a2ec304ef1168780278.png",
+     "correctAnswer": "早上八点，地铁里人很多。",
+     "sample": "早上八点，地铁里人很多。"
+    },
+    {
+     "id": "q3",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "比赛",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-1bb416ed09b845d8d61930704b63d59b.png",
+     "correctAnswer": "明天有一场重要的足球比赛。",
+     "sample": "明天有一场重要的足球比赛。"
+    },
+    {
+     "id": "q4",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "风景",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-de533e94e93f821b7b7969a2fbeb2914.png",
+     "correctAnswer": "这里的风景非常美丽。",
+     "sample": "这里的风景非常美丽。"
+    },
+    {
+     "id": "q5",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "礼物",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-446ccf867cb0fd78486e356d324a55d3.png",
+     "correctAnswer": "他收到了生日礼物，很高兴。",
+     "sample": "他收到了生日礼物，很高兴。"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

@@ -1,0 +1,62 @@
+{
+ "id": "hsk4-writing-p116",
+ "level": "4",
+ "section": "writing",
+ "partKey": "writing-p1",
+ "title": "HSK4 Writing P1",
+ "titleZh": "写作 第一部分（看图写句子）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "看图，用给定的词语写出一个符合图片内容的句子。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "蛋糕",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-1ee1ed9f1f62f450e01bb0064335ac2f.png",
+     "correctAnswer": "她正在吃一块美味的蛋糕。",
+     "sample": "她正在吃一块美味的蛋糕。"
+    },
+    {
+     "id": "q2",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "地铁",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-9816f2d245ab0be87a0017f42b44abe0.png",
+     "correctAnswer": "等地铁的人很多，大家都很着急。",
+     "sample": "等地铁的人很多，大家都很着急。"
+    },
+    {
+     "id": "q3",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "银行",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-62fbf3c69436673d5a74b35aec7dbc1c.png",
+     "correctAnswer": "他去银行存钱，排队等了很长时间。",
+     "sample": "他去银行存钱，排队等了很长时间。"
+    },
+    {
+     "id": "q4",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "护照",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-aee15dd626cd410098bf2d39a172b0ef.png",
+     "correctAnswer": "请出示您的护照，我需要检查一下。",
+     "sample": "请出示您的护照，我需要检查一下。"
+    },
+    {
+     "id": "q5",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "冰箱",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-a69c2842ed2864fd6f43d0fd7fe2aaa1.png",
+     "correctAnswer": "冰箱里有很多食物，你可以随便拿。",
+     "sample": "冰箱里有很多食物，你可以随便拿。"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

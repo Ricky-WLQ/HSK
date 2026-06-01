@@ -1,0 +1,67 @@
+{
+ "id": "hsk2-writing-p208",
+ "level": "2",
+ "section": "writing",
+ "partKey": "writing-p2",
+ "title": "HSK2 Writing P2",
+ "titleZh": "书写 第二部分（写汉字）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请根据拼音填写正确的汉字，使句子完整通顺。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "writing-fill-char",
+     "prompt": "我每天（zǎo）上去学校。",
+     "correctAnswer": "早",
+     "acceptableAnswers": [
+      "早"
+     ],
+     "pinyin": "wǒ měi tiān zǎo shàng qù xué xiào 。"
+    },
+    {
+     "id": "q2",
+     "type": "writing-fill-char",
+     "prompt": "这是他的（shū）吗？",
+     "correctAnswer": "书",
+     "acceptableAnswers": [
+      "书"
+     ],
+     "pinyin": "zhè shì tā de shū ma ？"
+    },
+    {
+     "id": "q3",
+     "type": "writing-fill-char",
+     "prompt": "他喜欢吃（píng）果。",
+     "correctAnswer": "苹",
+     "acceptableAnswers": [
+      "苹"
+     ],
+     "pinyin": "tā xǐ huān chī píng guǒ 。"
+    },
+    {
+     "id": "q4",
+     "type": "writing-fill-char",
+     "prompt": "你住在（nǎ）里？",
+     "correctAnswer": "哪",
+     "acceptableAnswers": [
+      "哪"
+     ],
+     "pinyin": "nǐ zhù zài nǎ lǐ ？"
+    },
+    {
+     "id": "q5",
+     "type": "writing-fill-char",
+     "prompt": "明天是（xīng）期六。",
+     "correctAnswer": "星",
+     "acceptableAnswers": [
+      "星"
+     ],
+     "pinyin": "míng tiān shì xīng qī liù 。"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

@@ -1,0 +1,25 @@
+{
+ "id": "hsk4-writing-p210",
+ "level": "4",
+ "section": "writing",
+ "partKey": "writing-p2",
+ "title": "HSK4 Writing P2",
+ "titleZh": "写作 第二部分（短文写作）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请写一篇关于你最喜欢的节日的短文。内容包括：你最喜欢的节日是什么，你通常怎么庆祝，为什么喜欢这个节日。字数不少于80字。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "writing-essay",
+     "prompt": "请写一篇关于你最喜欢的节日的短文。内容包括：你最喜欢的节日是什么，你通常怎么庆祝，为什么喜欢这个节日。字数不少于80字。",
+     "minChars": 80,
+     "correctAnswer": "我最喜欢的节日是春节。春节时，我会和家人一起吃年夜饭、看春晚、放烟花。我还收到红包，非常开心。春节是因为全家团圆，气氛热闹，所以我特别喜欢。",
+     "sample": "我最喜欢的节日是春节。春节时，我会和家人一起吃年夜饭、看春晚、放烟花。我还收到红包，非常开心。春节是因为全家团圆，气氛热闹，所以我特别喜欢。"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

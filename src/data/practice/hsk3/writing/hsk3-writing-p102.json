@@ -1,0 +1,67 @@
+{
+ "id": "hsk3-writing-p102",
+ "level": "3",
+ "section": "writing",
+ "partKey": "writing-p1",
+ "title": "HSK3 Writing P1",
+ "titleZh": "书写 第一部分（写汉字）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请根据拼音填写句中缺少的汉字。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "writing-fill-char",
+     "prompt": "我每天早上都去公园（pǎo）步。",
+     "correctAnswer": "跑",
+     "acceptableAnswers": [
+      "跑"
+     ],
+     "pinyin": "wǒ měi tiān zǎo shàng dōu qù gōng yuán pǎo bù 。"
+    },
+    {
+     "id": "q2",
+     "type": "writing-fill-char",
+     "prompt": "她喜欢在家里（chàng）歌。",
+     "correctAnswer": "唱",
+     "acceptableAnswers": [
+      "唱"
+     ],
+     "pinyin": "tā xǐ huān zài jiā lǐ chàng gē 。"
+    },
+    {
+     "id": "q3",
+     "type": "writing-fill-char",
+     "prompt": "他会（tiào）中国舞。",
+     "correctAnswer": "跳",
+     "acceptableAnswers": [
+      "跳"
+     ],
+     "pinyin": "tā huì tiào zhōng guó wǔ 。"
+    },
+    {
+     "id": "q4",
+     "type": "writing-fill-char",
+     "prompt": "夏天我们经常去（yóu）泳。",
+     "correctAnswer": "游",
+     "acceptableAnswers": [
+      "游"
+     ],
+     "pinyin": "xià tiān wǒ men jīng cháng qù yóu yǒng 。"
+    },
+    {
+     "id": "q5",
+     "type": "writing-fill-char",
+     "prompt": "寒假我们打算去（lǚ）行。",
+     "correctAnswer": "旅",
+     "acceptableAnswers": [
+      "旅"
+     ],
+     "pinyin": "hán jià wǒ men dǎ suàn qù lǚ xíng 。"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

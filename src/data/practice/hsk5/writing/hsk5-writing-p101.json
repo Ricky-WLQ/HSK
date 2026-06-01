@@ -1,0 +1,31 @@
+{
+ "id": "hsk5-writing-p101",
+ "level": "5",
+ "section": "writing",
+ "partKey": "writing-p1",
+ "title": "HSK5 Writing P1",
+ "titleZh": "写作 第一部分（看图写作）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请根据以下四幅图写一篇叙述文，要求故事完整，情节连贯，字数不少于100字。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "writing-essay",
+     "prompt": "请根据以下四幅图写一篇叙述文，要求故事完整，情节连贯，字数不少于100字。",
+     "minChars": 100,
+     "correctAnswer": "小明平时不爱学习，总是沉迷于手机游戏。一天，他的好朋友小亮拿着成绩单来找他，小亮的分数很高。小明看到后，感到非常惭愧。从那以后，小明决定努力学习。他每天熬夜复习，桌上堆满了咖啡杯和笔记。终于，在期末考试中，小明也取得了优异的成绩。他高兴地与小亮握手，感谢他的帮助和鼓励。通过努力，小明明白了勤奋的重要性。",
+     "sample": "小明平时不爱学习，总是沉迷于手机游戏。一天，他的好朋友小亮拿着成绩单来找他，小亮的分数很高。小明看到后，感到非常惭愧。从那以后，小明决定努力学习。他每天熬夜复习，桌上堆满了咖啡杯和笔记。终于，在期末考试中，小明也取得了优异的成绩。他高兴地与小亮握手，感谢他的帮助和鼓励。通过努力，小明明白了勤奋的重要性。",
+     "images": [
+      "/api/practice-image?key=images/v1/scene-aa3968593f7da0e0e630e1eceae5c16f.png",
+      "/api/practice-image?key=images/v1/scene-93ff03d23461592366ce11c0e04e78a2.png",
+      "/api/practice-image?key=images/v1/scene-f1d19d66e105575ef28453bdd6ab650a.png",
+      "/api/practice-image?key=images/v1/scene-ad7ac55591eb06b478fdc4e7711ead21.png"
+     ]
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

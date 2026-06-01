@@ -1,0 +1,62 @@
+{
+ "id": "hsk4-writing-p119",
+ "level": "4",
+ "section": "writing",
+ "partKey": "writing-p1",
+ "title": "HSK4 Writing P1",
+ "titleZh": "写作 第一部分（看图写句子）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请根据词语和场景描述，写出一个符合场景的句子。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "搬家",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-9010e0242a0d9960f1dd316e82012660.png",
+     "correctAnswer": "我们下个星期搬家，需要准备很多箱子。",
+     "sample": "我们下个星期搬家，需要准备很多箱子。"
+    },
+    {
+     "id": "q2",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "太阳",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-e0c96e3b52de4cb462018406fcc44bf2.png",
+     "correctAnswer": "今天的太阳很大，出门要涂防晒霜。",
+     "sample": "今天的太阳很大，出门要涂防晒霜。"
+    },
+    {
+     "id": "q3",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "眼镜",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-f2b425993a8828e387dd88498c47e15d.png",
+     "correctAnswer": "他戴上眼镜才能看清楚黑板上的字。",
+     "sample": "他戴上眼镜才能看清楚黑板上的字。"
+    },
+    {
+     "id": "q4",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "雨伞",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-f26258c29440b8c8c0c1c1cbc54fac0c.png",
+     "correctAnswer": "下雨了，别忘了带雨伞。",
+     "sample": "下雨了，别忘了带雨伞。"
+    },
+    {
+     "id": "q5",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "书包",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-72d1227b302353f77d57f2da0f8533f5.png",
+     "correctAnswer": "我的书包里装着课本和铅笔盒。",
+     "sample": "我的书包里装着课本和铅笔盒。"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

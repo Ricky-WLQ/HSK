@@ -1,0 +1,67 @@
+{
+ "id": "hsk3-writing-p115",
+ "level": "3",
+ "section": "writing",
+ "partKey": "writing-p1",
+ "title": "HSK3 Writing P1",
+ "titleZh": "书写 第一部分（写汉字）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请从以下句子中选出正确的汉字填入空白处。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "writing-fill-char",
+     "prompt": "请（bǎ）门关上。",
+     "correctAnswer": "把",
+     "acceptableAnswers": [
+      "把"
+     ],
+     "pinyin": "qǐng bǎ mén guān shàng 。"
+    },
+    {
+     "id": "q2",
+     "type": "writing-fill-char",
+     "prompt": "我（zuò）飞机去北京。",
+     "correctAnswer": "坐",
+     "acceptableAnswers": [
+      "坐"
+     ],
+     "pinyin": "wǒ zuò fēi jī qù běi jīng 。"
+    },
+    {
+     "id": "q3",
+     "type": "writing-fill-char",
+     "prompt": "他（jiè）了一本书。",
+     "correctAnswer": "借",
+     "acceptableAnswers": [
+      "借"
+     ],
+     "pinyin": "tā jiè le yī běn shū 。"
+    },
+    {
+     "id": "q4",
+     "type": "writing-fill-char",
+     "prompt": "我（hái）没有做完作业。",
+     "correctAnswer": "还",
+     "acceptableAnswers": [
+      "还"
+     ],
+     "pinyin": "wǒ hái méi yǒu zuò wán zuò yè 。"
+    },
+    {
+     "id": "q5",
+     "type": "writing-fill-char",
+     "prompt": "她（chàng）歌很好听。",
+     "correctAnswer": "唱",
+     "acceptableAnswers": [
+      "唱"
+     ],
+     "pinyin": "tā chàng gē hěn hǎo tīng 。"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

@@ -1,0 +1,67 @@
+{
+ "id": "hsk3-writing-p110",
+ "level": "3",
+ "section": "writing",
+ "partKey": "writing-p1",
+ "title": "HSK3 Writing P1",
+ "titleZh": "书写 第一部分（写汉字）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请根据拼音和句子，填入缺失的汉字。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "writing-fill-char",
+     "prompt": "明天我要去（tú）书馆看书。",
+     "correctAnswer": "图",
+     "acceptableAnswers": [
+      "图"
+     ],
+     "pinyin": "míng tiān wǒ yào qù tú shū guǎn kàn shū 。"
+    },
+    {
+     "id": "q2",
+     "type": "writing-fill-char",
+     "prompt": "你最喜欢什么（yán）色？",
+     "correctAnswer": "颜",
+     "acceptableAnswers": [
+      "颜"
+     ],
+     "pinyin": "nǐ zuì xǐ huān shén me yán sè ？"
+    },
+    {
+     "id": "q3",
+     "type": "writing-fill-char",
+     "prompt": "这个苹果很甜，你（cháng）尝。",
+     "correctAnswer": "尝",
+     "acceptableAnswers": [
+      "尝"
+     ],
+     "pinyin": "zhè ge píng guǒ hěn tián ， nǐ cháng cháng 。"
+    },
+    {
+     "id": "q4",
+     "type": "writing-fill-char",
+     "prompt": "他每天骑（zì）行车上学。",
+     "correctAnswer": "自",
+     "acceptableAnswers": [
+      "自"
+     ],
+     "pinyin": "tā měi tiān qí zì xíng chē shàng xué 。"
+    },
+    {
+     "id": "q5",
+     "type": "writing-fill-char",
+     "prompt": "请把（chuāng）户打开一下。",
+     "correctAnswer": "窗",
+     "acceptableAnswers": [
+      "窗"
+     ],
+     "pinyin": "qǐng bǎ chuāng hù dǎ kāi yī xià 。"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

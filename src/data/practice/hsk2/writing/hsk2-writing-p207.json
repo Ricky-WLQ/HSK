@@ -1,0 +1,67 @@
+{
+ "id": "hsk2-writing-p207",
+ "level": "2",
+ "section": "writing",
+ "partKey": "writing-p2",
+ "title": "HSK2 Writing P2",
+ "titleZh": "书写 第二部分（写汉字）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请填入正确的汉字",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "writing-fill-char",
+     "prompt": "你（jiào）什么名字？",
+     "correctAnswer": "叫",
+     "acceptableAnswers": [
+      "叫"
+     ],
+     "pinyin": "nǐ jiào shén me míng zì ？"
+    },
+    {
+     "id": "q2",
+     "type": "writing-fill-char",
+     "prompt": "我在学（xiào）里学习。",
+     "correctAnswer": "校",
+     "acceptableAnswers": [
+      "校"
+     ],
+     "pinyin": "wǒ zài xué xiào lǐ xué xí 。"
+    },
+    {
+     "id": "q3",
+     "type": "writing-fill-char",
+     "prompt": "他每天吃（píng）果。",
+     "correctAnswer": "苹",
+     "acceptableAnswers": [
+      "苹"
+     ],
+     "pinyin": "tā měi tiān chī píng guǒ 。"
+    },
+    {
+     "id": "q4",
+     "type": "writing-fill-char",
+     "prompt": "这本书是（xīn）的。",
+     "correctAnswer": "新",
+     "acceptableAnswers": [
+      "新"
+     ],
+     "pinyin": "zhè běn shū shì xīn de 。"
+    },
+    {
+     "id": "q5",
+     "type": "writing-fill-char",
+     "prompt": "她喜欢唱（gē）。",
+     "correctAnswer": "歌",
+     "acceptableAnswers": [
+      "歌"
+     ],
+     "pinyin": "tā xǐ huān chàng gē 。"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

@@ -1,0 +1,62 @@
+{
+ "id": "hsk4-writing-p114",
+ "level": "4",
+ "section": "writing",
+ "partKey": "writing-p1",
+ "title": "HSK4 Writing P1",
+ "titleZh": "写作 第一部分（看图写句子）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请根据场景描述，使用指定词语写出一个正确的句子。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "邮件",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-84e617201e9a6a20c30464d3d4f7e3b7.png",
+     "correctAnswer": "他每天都会查看电子邮件。",
+     "sample": "他每天都会查看电子邮件。"
+    },
+    {
+     "id": "q2",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "练",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-8bb5099d70c08f97077bd44bcba93442.png",
+     "correctAnswer": "他每天练习一个小时钢琴。",
+     "sample": "他每天练习一个小时钢琴。"
+    },
+    {
+     "id": "q3",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "报名",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-b9be62dc0c8aeee3fcd98538dc634033.png",
+     "correctAnswer": "我要报名参加这个比赛。",
+     "sample": "我要报名参加这个比赛。"
+    },
+    {
+     "id": "q4",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "钟",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-f2f16a25b354ccef3bc07c58b057877d.png",
+     "correctAnswer": "墙上的钟已经坏了。",
+     "sample": "墙上的钟已经坏了。"
+    },
+    {
+     "id": "q5",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "搬",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-797cdfa6139d43bf98188242aba19571.png",
+     "correctAnswer": "他正在把家具搬到新家。",
+     "sample": "他正在把家具搬到新家。"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

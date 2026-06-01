@@ -1,0 +1,62 @@
+{
+ "id": "hsk3-writing-p217",
+ "level": "3",
+ "section": "writing",
+ "partKey": "writing-p2",
+ "title": "HSK3 Writing P2",
+ "titleZh": "书写 第二部分（看图写句子）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "根据图片和词语写句子",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "电脑",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-8db7be273e399b76bebd3f9173a0370d.png",
+     "correctAnswer": "他在用电脑工作。",
+     "sample": "他在用电脑工作。"
+    },
+    {
+     "id": "q2",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "书包",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-623042e92bb10766b068e4bd459af2e5.png",
+     "correctAnswer": "她背着一个红色的书包。",
+     "sample": "她背着一个红色的书包。"
+    },
+    {
+     "id": "q3",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "香蕉",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-58c5a8b54d5edaad6b5f5c05c015c1c1.png",
+     "correctAnswer": "猴子在吃香蕉。",
+     "sample": "猴子在吃香蕉。"
+    },
+    {
+     "id": "q4",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "电话",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-726d086779a23a386388fced5c568e0c.png",
+     "correctAnswer": "妈妈在打电话。",
+     "sample": "妈妈在打电话。"
+    },
+    {
+     "id": "q5",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "自行车",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-32c3ce60180f247326d68d7d1dfb9893.png",
+     "correctAnswer": "他每天骑自行车上班。",
+     "sample": "他每天骑自行车上班。"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

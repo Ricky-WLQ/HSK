@@ -1,0 +1,31 @@
+{
+ "id": "hsk5-writing-p116",
+ "level": "5",
+ "section": "writing",
+ "partKey": "writing-p1",
+ "title": "HSK5 Writing P1",
+ "titleZh": "写作 第一部分（看图写作）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请根据以下四幅图写一篇短文，叙述一个完整的故事。注意故事要连贯，人物和场景一致。字数不少于100字。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "writing-essay",
+     "prompt": "请根据以下四幅图写一篇短文，叙述一个完整的故事。注意故事要连贯，人物和场景一致。字数不少于100字。",
+     "minChars": 100,
+     "correctAnswer": "小明是一名高中生，那天晚上他在教室里复习到很晚。临走时，他匆忙把课本放在桌上，却忘了带走。回到家后，他打开书包准备写作业，却怎么也找不到课本。仔细一想，才记起课本落在了教室。他急忙跑回学校，但大门已经上锁，教室的门也关着。他急得满头大汗，不知该怎么办。这时，一位值班老师走了过来，问清情况后，用钥匙打开了教室门。小明拿到课本，连声向老师道谢。这次经历让他明白，做事一定要细心，不能粗心大意。",
+     "sample": "小明是一名高中生，那天晚上他在教室里复习到很晚。临走时，他匆忙把课本放在桌上，却忘了带走。回到家后，他打开书包准备写作业，却怎么也找不到课本。仔细一想，才记起课本落在了教室。他急忙跑回学校，但大门已经上锁，教室的门也关着。他急得满头大汗，不知该怎么办。这时，一位值班老师走了过来，问清情况后，用钥匙打开了教室门。小明拿到课本，连声向老师道谢。这次经历让他明白，做事一定要细心，不能粗心大意。",
+     "images": [
+      "/api/practice-image?key=images/v1/scene-c1095cedb50ecca08fe8f7739874d6d9.png",
+      "/api/practice-image?key=images/v1/scene-0e1b5a6b9d1ce0491c931e1cb47bd089.png",
+      "/api/practice-image?key=images/v1/scene-61cdd13ca66bee93a009c78c7d4bb9a6.png",
+      "/api/practice-image?key=images/v1/scene-8b97bf81162acd98f1f69da7387cfbd6.png"
+     ]
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

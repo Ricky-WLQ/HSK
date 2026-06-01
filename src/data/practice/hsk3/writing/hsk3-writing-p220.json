@@ -1,0 +1,62 @@
+{
+ "id": "hsk3-writing-p220",
+ "level": "3",
+ "section": "writing",
+ "partKey": "writing-p2",
+ "title": "HSK3 Writing P2",
+ "titleZh": "书写 第二部分（看图写句子）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请根据下面的场景，用给定的词语写一个句子。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "书包",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-956db876f520853f4348bbe00ee2e977.png",
+     "correctAnswer": "我每天早上背着书包去上学。",
+     "sample": "我每天早上背着书包去上学。"
+    },
+    {
+     "id": "q2",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "邮局",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-0c47e8c11a82b4133f3d0fed9e2d7935.png",
+     "correctAnswer": "我去邮局寄了一封信。",
+     "sample": "我去邮局寄了一封信。"
+    },
+    {
+     "id": "q3",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "下雨",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-be69f2c744e4ac345bbcc1581a6da325.png",
+     "correctAnswer": "今天下雨了，所以我要带雨伞。",
+     "sample": "今天下雨了，所以我要带雨伞。"
+    },
+    {
+     "id": "q4",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "跑步",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-b5ed458fdaec72a67375c99ad3f9047d.png",
+     "correctAnswer": "他每天早晨在公园里跑步。",
+     "sample": "他每天早晨在公园里跑步。"
+    },
+    {
+     "id": "q5",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "电脑",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-a29c21568268c03c2f2a92d946b668b8.png",
+     "correctAnswer": "我用电脑写作业。",
+     "sample": "我用电脑写作业。"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

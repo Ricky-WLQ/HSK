@@ -1,0 +1,33 @@
+{
+ "id": "hsk7-9-translation-p117",
+ "level": "7-9",
+ "section": "translation",
+ "partKey": "translation-p1",
+ "title": "HSK7-9 Translation P1",
+ "titleZh": "翻译 第一部分（英译中）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请将下列英文段落翻译成中文，要求忠实原文、语言流畅自然，适合HSK7-9级水平。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "translation-passage",
+     "prompt": "请将下列英文段落翻译成中文，要求忠实原文、语言流畅自然，适合HSK7-9级水平。",
+     "sourceText": "In the context of globalization, cultural exchange has become increasingly frequent. However, the phenomenon of cultural homogenization has sparked widespread concern. Many fear that local traditions and unique identities might be eroded by dominant global cultures. While it is undeniable that certain aspects of globalization can lead to uniformity, it also provides opportunities for cultural diversity to thrive. For instance, digital media enable small communities to share their heritage with a global audience, fostering mutual understanding and appreciation. The key lies in balancing global integration with the preservation of local distinctiveness. Rather than viewing globalization as a threat, we should embrace it as a catalyst for intercultural dialogue and innovation.",
+     "correctAnswer": "在全球化背景下，文化交流日益频繁。然而，文化同质化现象引发了广泛关注。许多人担心本土传统和独特身份可能被主流全球文化侵蚀。不可否认，全球化的某些方面可能导致趋同，但它也为文化多样性提供了繁荣的机遇。例如，数字媒体使小社区能够向全球观众分享其文化遗产，促进相互理解和欣赏。关键在于平衡全球融合与本土特色的保存。我们不应将全球化视为威胁，而应将其视为跨文化对话与创新的催化剂。",
+     "sample": "在全球化背景下，文化交流日益频繁。然而，文化同质化现象引发了广泛关注。许多人担心本土传统和独特身份可能被主流全球文化侵蚀。不可否认，全球化的某些方面可能导致趋同，但它也为文化多样性提供了繁荣的机遇。例如，数字媒体使小社区能够向全球观众分享其文化遗产，促进相互理解和欣赏。关键在于平衡全球融合与本土特色的保存。我们不应将全球化视为威胁，而应将其视为跨文化对话与创新的催化剂。"
+    },
+    {
+     "id": "q2",
+     "type": "translation-passage",
+     "prompt": "请将下列英文段落翻译成中文，要求忠实原文、语言流畅自然，适合HSK7-9级水平。",
+     "sourceText": "The rapid advancement of artificial intelligence has transformed many industries, from healthcare to finance. Yet, this technological leap also raises ethical dilemmas. Autonomous decision-making systems, for instance, may inadvertently perpetuate biases present in their training data, leading to unfair outcomes. Moreover, the replacement of human labor by AI poses questions about employment and social equity. To address these challenges, experts emphasize the need for transparent algorithms and robust regulatory frameworks. They argue that AI development should prioritize human well-being and accountability. Only through careful governance can we harness the full potential of AI while minimizing its risks.",
+     "correctAnswer": "人工智能的快速发展已变革了从医疗到金融等多个行业。然而，这一技术飞跃也引发了伦理困境。例如，自主决策系统可能无意中延续其训练数据中存在的偏见，导致不公平结果。此外，人工智能替代人类劳动力引发了关于就业和社会公平的疑问。为应对这些挑战，专家强调需要透明的算法和健全的监管框架。他们认为，人工智能发展应优先考虑人类福祉和问责制。只有通过审慎治理，我们才能充分发挥人工智能的潜力，同时将其风险降至最低。",
+     "sample": "人工智能的快速发展已变革了从医疗到金融等多个行业。然而，这一技术飞跃也引发了伦理困境。例如，自主决策系统可能无意中延续其训练数据中存在的偏见，导致不公平结果。此外，人工智能替代人类劳动力引发了关于就业和社会公平的疑问。为应对这些挑战，专家强调需要透明的算法和健全的监管框架。他们认为，人工智能发展应优先考虑人类福祉和问责制。只有通过审慎治理，我们才能充分发挥人工智能的潜力，同时将其风险降至最低。"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

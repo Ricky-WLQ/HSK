@@ -1,0 +1,67 @@
+{
+ "id": "hsk3-writing-p106",
+ "level": "3",
+ "section": "writing",
+ "partKey": "writing-p1",
+ "title": "HSK3 Writing P1",
+ "titleZh": "书写 第一部分（写汉字）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请填入句中空缺的汉字。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "writing-fill-char",
+     "prompt": "我很喜欢吃（píng）果。",
+     "correctAnswer": "苹",
+     "acceptableAnswers": [
+      "苹"
+     ],
+     "pinyin": "wǒ hěn xǐ huān chī píng guǒ 。"
+    },
+    {
+     "id": "q2",
+     "type": "writing-fill-char",
+     "prompt": "昨天我和朋友一起去看（diàn）影。",
+     "correctAnswer": "电",
+     "acceptableAnswers": [
+      "电"
+     ],
+     "pinyin": "zuó tiān wǒ hé péng yǒu yì qǐ qù kàn diàn yǐng 。"
+    },
+    {
+     "id": "q3",
+     "type": "writing-fill-char",
+     "prompt": "请帮我打开（chuāng）户。",
+     "correctAnswer": "窗",
+     "acceptableAnswers": [
+      "窗"
+     ],
+     "pinyin": "qǐng bāng wǒ dǎ kāi chuāng hù 。"
+    },
+    {
+     "id": "q4",
+     "type": "writing-fill-char",
+     "prompt": "他每天早上（pǎo）步。",
+     "correctAnswer": "跑",
+     "acceptableAnswers": [
+      "跑"
+     ],
+     "pinyin": "tā měi tiān zǎo shàng pǎo bù 。"
+    },
+    {
+     "id": "q5",
+     "type": "writing-fill-char",
+     "prompt": "这本（shū）是我的。",
+     "correctAnswer": "书",
+     "acceptableAnswers": [
+      "书"
+     ],
+     "pinyin": "zhè běn shū shì wǒ de 。"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

@@ -1,0 +1,62 @@
+{
+ "id": "hsk3-writing-p219",
+ "level": "3",
+ "section": "writing",
+ "partKey": "writing-p2",
+ "title": "HSK3 Writing P2",
+ "titleZh": "书写 第二部分（看图写句子）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请根据以下词语和场景，写出一个合适的句子。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "手机",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-936a6e8f92a4a6d38da17b3ffaf94fd3.png",
+     "correctAnswer": "我用手机拍了一张花的照片。",
+     "sample": "我用手机拍了一张花的照片。"
+    },
+    {
+     "id": "q2",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "图书馆",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-edcf37097e70d263ac7bad66747a493f.png",
+     "correctAnswer": "他经常在图书馆看书。",
+     "sample": "他经常在图书馆看书。"
+    },
+    {
+     "id": "q3",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "医生",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-9b7aee0bb878e93d310afb9a18b3638d.png",
+     "correctAnswer": "医生给我量了体温。",
+     "sample": "医生给我量了体温。"
+    },
+    {
+     "id": "q4",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "花",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-88ff005b826ba76a3d423c87d3b14688.png",
+     "correctAnswer": "她每天给花浇水。",
+     "sample": "她每天给花浇水。"
+    },
+    {
+     "id": "q5",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "电脑",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-75b0d31e41d37d62a86458120d81cc84.png",
+     "correctAnswer": "我用电脑写作业。",
+     "sample": "我用电脑写作业。"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

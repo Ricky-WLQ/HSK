@@ -1,0 +1,31 @@
+{
+ "id": "hsk5-writing-p102",
+ "level": "5",
+ "section": "writing",
+ "partKey": "writing-p1",
+ "title": "HSK5 Writing P1",
+ "titleZh": "写作 第一部分（看图写作）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请根据下列四幅图，写一篇不少于100字的短文。注意故事情节完整，语言通顺，符合HSK5水平。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "writing-essay",
+     "prompt": "请根据下列四幅图，写一篇不少于100字的短文。注意故事情节完整，语言通顺，符合HSK5水平。",
+     "minChars": 100,
+     "correctAnswer": "小明是一个经常迟到的上班族。一天早上，他又睡过头了，醒来时发现已经八点半。他急忙穿上衣服，连早饭都没吃就跑出家门。跑到公交车站时，公交车刚刚开走，他只好无奈地等下一班，结果上班还是迟到了。晚上回到家，他十分后悔，决定改掉这个坏习惯。睡觉前，他认真地调好了闹钟，并告诉自己一定要按时起床。第二天早晨，闹钟一响，他立刻起床。从此以后，他再也没有迟到过。",
+     "sample": "小明是一个经常迟到的上班族。一天早上，他又睡过头了，醒来时发现已经八点半。他急忙穿上衣服，连早饭都没吃就跑出家门。跑到公交车站时，公交车刚刚开走，他只好无奈地等下一班，结果上班还是迟到了。晚上回到家，他十分后悔，决定改掉这个坏习惯。睡觉前，他认真地调好了闹钟，并告诉自己一定要按时起床。第二天早晨，闹钟一响，他立刻起床。从此以后，他再也没有迟到过。",
+     "images": [
+      "/api/practice-image?key=images/v1/scene-7443ae831f99a82a84902c94b9fcec25.png",
+      "/api/practice-image?key=images/v1/scene-185b8d6bc0d596954d81bc4d8a38ab48.png",
+      "/api/practice-image?key=images/v1/scene-bec8711f34c6061990ddc381eb6b9138.png",
+      "/api/practice-image?key=images/v1/scene-4bcce9e6c4abc94bf9c4e70e6a8ea8ce.png"
+     ]
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

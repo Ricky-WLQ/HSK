@@ -1,0 +1,31 @@
+{
+ "id": "hsk5-writing-p117",
+ "level": "5",
+ "section": "writing",
+ "partKey": "writing-p1",
+ "title": "HSK5 Writing P1",
+ "titleZh": "写作 第一部分（看图写作）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "根据下面的四幅图写一篇短文，描述图中发生的事情。注意：这四幅图共同讲述一个完整的故事，请用中文叙述。要求：字数不少于100字，语言通顺。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "writing-essay",
+     "prompt": "根据下面的四幅图写一篇短文，描述图中发生的事情。注意：这四幅图共同讲述一个完整的故事，请用中文叙述。要求：字数不少于100字，语言通顺。",
+     "minChars": 100,
+     "correctAnswer": "那天下午，我在公园里散步，忽然看到一只瘦弱的猫蜷缩在长椅下面。它的眼神很无助，我蹲下来轻轻摸了摸它的头，决定帮它。于是，我到附近的商店买了一些猫粮，回来喂它。它一边吃一边发出满意的声音，看起来非常开心。然后它一直跟在我身后，我走到哪里，它就到哪里。我犹豫了一下，最后还是心软了，打开家门让它进来。它立刻变得很温顺，到处闻了闻。从那以后，它就成了我家庭的一员，我们互相陪伴。",
+     "sample": "那天下午，我在公园里散步，忽然看到一只瘦弱的猫蜷缩在长椅下面。它的眼神很无助，我蹲下来轻轻摸了摸它的头，决定帮它。于是，我到附近的商店买了一些猫粮，回来喂它。它一边吃一边发出满意的声音，看起来非常开心。然后它一直跟在我身后，我走到哪里，它就到哪里。我犹豫了一下，最后还是心软了，打开家门让它进来。它立刻变得很温顺，到处闻了闻。从那以后，它就成了我家庭的一员，我们互相陪伴。",
+     "images": [
+      "/api/practice-image?key=images/v1/scene-146e99b41f6a7c33f238b5d76c181a69.png",
+      "/api/practice-image?key=images/v1/scene-19fb67c4dd4d48a6c665bba34afe78c3.png",
+      "/api/practice-image?key=images/v1/scene-077f877ad7cbf258aba29debfb279621.png",
+      "/api/practice-image?key=images/v1/scene-1c5c3711a041ed72027fd28b4adb89f1.png"
+     ]
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

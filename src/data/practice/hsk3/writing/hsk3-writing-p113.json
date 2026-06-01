@@ -1,0 +1,67 @@
+{
+ "id": "hsk3-writing-p113",
+ "level": "3",
+ "section": "writing",
+ "partKey": "writing-p1",
+ "title": "HSK3 Writing P1",
+ "titleZh": "书写 第一部分（写汉字）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请根据句意和拼音，填入缺失的汉字。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "writing-fill-char",
+     "prompt": "我今天去图书馆（jiè）书。",
+     "correctAnswer": "借",
+     "acceptableAnswers": [
+      "借"
+     ],
+     "pinyin": "wǒ jīn tiān qù tú shū guǎn jiè shū 。"
+    },
+    {
+     "id": "q2",
+     "type": "writing-fill-char",
+     "prompt": "她每天早上七点（qǐ）床。",
+     "correctAnswer": "起",
+     "acceptableAnswers": [
+      "起"
+     ],
+     "pinyin": "tā měi tiān zǎo shàng qī diǎn qǐ chuáng 。"
+    },
+    {
+     "id": "q3",
+     "type": "writing-fill-char",
+     "prompt": "明天我们有（kǎo）试。",
+     "correctAnswer": "考",
+     "acceptableAnswers": [
+      "考"
+     ],
+     "pinyin": "míng tiān wǒ men yǒu kǎo shì 。"
+    },
+    {
+     "id": "q4",
+     "type": "writing-fill-char",
+     "prompt": "他（gǎn）冒了，很不舒服。",
+     "correctAnswer": "感",
+     "acceptableAnswers": [
+      "感"
+     ],
+     "pinyin": "tā gǎn mào le ， hěn bù shū fú 。"
+    },
+    {
+     "id": "q5",
+     "type": "writing-fill-char",
+     "prompt": "我坐地（tiě）上班。",
+     "correctAnswer": "铁",
+     "acceptableAnswers": [
+      "铁"
+     ],
+     "pinyin": "wǒ zuò dì tiě shàng bān 。"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

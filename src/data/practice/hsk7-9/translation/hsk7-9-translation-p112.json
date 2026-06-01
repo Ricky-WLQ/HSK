@@ -1,0 +1,33 @@
+{
+ "id": "hsk7-9-translation-p112",
+ "level": "7-9",
+ "section": "translation",
+ "partKey": "translation-p1",
+ "title": "HSK7-9 Translation P1",
+ "titleZh": "翻译 第一部分（英译中）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "将以下英文段落翻译成中文，要求忠实流畅，符合HSK7-9级水平。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "translation-passage",
+     "prompt": "将以下英文段落翻译成中文，要求忠实流畅，符合HSK7-9级水平。",
+     "sourceText": "Social media has fundamentally altered the way we communicate and form relationships. While it enables us to connect with people across vast distances, critics argue that it diminishes the quality of our interactions. Face-to-face conversations are often replaced by text messages and emojis, which lack the nuances of tone, body language, and eye contact. This shift can lead to misunderstandings and a sense of isolation, as people may feel more connected online but less so in real life. Moreover, the curated nature of social media profiles often presents an idealized version of reality, fostering comparison and envy. Despite these drawbacks, social media can be a powerful tool for community building and social support when used mindfully. The key lies in balancing online interactions with genuine, in-person connections to maintain healthy relationships.",
+     "correctAnswer": "社交媒体从根本上改变了我们沟通和建立关系的方式。虽然它使我们能够与远方的人联系，但批评者认为它降低了互动的质量。面对面的交谈常常被短信和表情符号取代，后者缺乏语调、肢体语言和眼神交流的细微差别。这种转变可能导致误解和孤立感，因为人们可能在网上感到更紧密联系，但在现实生活中却并非如此。此外，社交媒体资料的精挑细选本质往往呈现理想化的现实，激发比较和嫉妒。尽管有这些缺点，社交媒体如果使用得当，可以成为社区建设和社会支持的强大工具。关键在于平衡在线互动与真实的面对面联系，以维持健康的关系。",
+     "sample": "社交媒体从根本上改变了我们沟通和建立关系的方式。虽然它使我们能够与远方的人联系，但批评者认为它降低了互动的质量。面对面的交谈常常被短信和表情符号取代，后者缺乏语调、肢体语言和眼神交流的细微差别。这种转变可能导致误解和孤立感，因为人们可能在网上感到更紧密联系，但在现实生活中却并非如此。此外，社交媒体资料的精挑细选本质往往呈现理想化的现实，激发比较和嫉妒。尽管有这些缺点，社交媒体如果使用得当，可以成为社区建设和社会支持的强大工具。关键在于平衡在线互动与真实的面对面联系，以维持健康的关系。"
+    },
+    {
+     "id": "q2",
+     "type": "translation-passage",
+     "prompt": "将以下英文段落翻译成中文，要求忠实流畅，符合HSK7-9级水平。",
+     "sourceText": "In an era dominated by information overload and fake news, critical thinking has become more crucial than ever. It involves not only questioning the validity of sources but also recognizing our own biases and assumptions. The digital age presents a paradox: while we have access to vast amounts of information, our ability to discern truth from falsehood is often compromised. Algorithms that personalize content can create echo chambers, reinforcing our existing beliefs and limiting exposure to diverse perspectives. To navigate this landscape, individuals must cultivate a habit of skepticism and verification. This means cross-referencing claims, seeking out primary sources, and being open to changing one's mind when evidence warrants. Educational systems, too, need to prioritize teaching these skills from an early age. Ultimately, critical thinking is not just an academic exercise but a necessary tool for informed citizenship and responsible decision-making.",
+     "correctAnswer": "在信息过载和假新闻充斥的时代，批判性思维比以往任何时候都更加重要。它不仅涉及质疑来源的可靠性，还包括认识我们自身的偏见和假设。数字时代呈现出一个悖论：虽然我们可以获取海量信息，但辨别真伪的能力却常常受损。个性化内容的算法可能制造回音室，强化我们已有的信念，限制接触多元视角。要应对这一局面，个人必须培养怀疑和验证的习惯。这意味着交叉核实说法，寻找原始来源，并在证据充分时愿意改变观点。教育体系也需要从小优先传授这些技能。归根结底，批判性思维不仅是学术训练，更是明智公民意识和负责任决策所必需的工具。",
+     "sample": "在信息过载和假新闻充斥的时代，批判性思维比以往任何时候都更加重要。它不仅涉及质疑来源的可靠性，还包括认识我们自身的偏见和假设。数字时代呈现出一个悖论：虽然我们可以获取海量信息，但辨别真伪的能力却常常受损。个性化内容的算法可能制造回音室，强化我们已有的信念，限制接触多元视角。要应对这一局面，个人必须培养怀疑和验证的习惯。这意味着交叉核实说法，寻找原始来源，并在证据充分时愿意改变观点。教育体系也需要从小优先传授这些技能。归根结底，批判性思维不仅是学术训练，更是明智公民意识和负责任决策所必需的工具。"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

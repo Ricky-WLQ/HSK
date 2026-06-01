@@ -1,0 +1,33 @@
+{
+ "id": "hsk7-9-translation-p111",
+ "level": "7-9",
+ "section": "translation",
+ "partKey": "translation-p1",
+ "title": "HSK7-9 Translation P1",
+ "titleZh": "翻译 第一部分（英译中）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "将以下英语段落翻译成中文，要求忠实流畅，用词符合HSK7-9水平。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "translation-passage",
+     "prompt": "将以下英语段落翻译成中文，要求忠实流畅，用词符合HSK7-9水平。",
+     "sourceText": "Climate change has emerged as one of the most pressing challenges of our time, with far-reaching consequences for global agriculture. Rising temperatures, shifting precipitation patterns, and more frequent extreme weather events are already disrupting crop yields and threatening food security in many regions. While some areas may experience longer growing seasons, the overall impact is overwhelmingly negative, particularly for developing countries that rely heavily on rain-fed agriculture. To mitigate these effects, scientists are developing climate-resilient crop varieties and advocating for sustainable farming practices. However, without concerted international action to reduce greenhouse gas emissions, the ability to adapt to these changes will be severely constrained. The urgency of this situation cannot be overstated: the window for meaningful intervention is narrowing rapidly.",
+     "correctAnswer": "气候变化已成为当今时代最紧迫的挑战之一，对全球农业产生深远影响。气温升高、降水模式改变以及极端天气事件日益频繁，已在许多地区扰乱作物收成，威胁粮食安全。虽然部分地区可能迎来更长的生长季，但总体影响极为负面，尤其对依赖雨养农业的发展中国家而言。为减缓这些影响，科学家正在培育抗气候变化的作物品种，并倡导可持续农耕方式。然而，若无减少温室气体排放的国际协同行动，适应这些变化的能力将受到严重制约。这一形势的紧迫性不容低估：有效干预的窗口正在迅速收窄。",
+     "sample": "气候变化已成为当今时代最紧迫的挑战之一，对全球农业产生深远影响。气温升高、降水模式改变以及极端天气事件日益频繁，已在许多地区扰乱作物收成，威胁粮食安全。虽然部分地区可能迎来更长的生长季，但总体影响极为负面，尤其对依赖雨养农业的发展中国家而言。为减缓这些影响，科学家正在培育抗气候变化的作物品种，并倡导可持续农耕方式。然而，若无减少温室气体排放的国际协同行动，适应这些变化的能力将受到严重制约。这一形势的紧迫性不容低估：有效干预的窗口正在迅速收窄。"
+    },
+    {
+     "id": "q2",
+     "type": "translation-passage",
+     "prompt": "将以下英语段落翻译成中文，要求忠实流畅，用词符合HSK7-9水平。",
+     "sourceText": "In an era of rapid urbanization, preserving cultural heritage has become a significant concern for many cities worldwide. Historic buildings, traditional neighborhoods, and ancient monuments are not merely tourist attractions; they embody the collective memory and identity of a community. However, the pressure of modern development often leads to the demolition or neglect of these invaluable assets. Urban planners now face the delicate task of balancing economic growth with heritage conservation. Innovative approaches, such as adaptive reuse of historic structures for contemporary purposes, have shown promise in maintaining cultural continuity while fostering urban renewal. Moreover, engaging local residents in preservation efforts ensures that heritage remains a living part of the city's fabric rather than a static relic. Ultimately, a city that respects its past is better equipped to build a sustainable and meaningful future.",
+     "correctAnswer": "在快速城市化的时代，保护文化遗产已成为全球许多城市的重大关切。历史建筑、传统街区以及古老遗迹不仅是旅游景点，更承载着社区的集体记忆与身份认同。然而，现代发展的压力往往导致这些宝贵资产被拆除或忽视。城市规划者如今面临着平衡经济增长与遗产保护的微妙任务。创新方法，如将历史建筑适应性再利用以服务于当代用途，已在维护文化连续性的同时促进城市更新方面展现出潜力。此外，让当地居民参与保护工作，可确保遗产成为城市肌理中富有生命力的一部分，而非静止的遗物。归根结底，尊重历史的城市更能建设可持续且有意义的未来。",
+     "sample": "在快速城市化的时代，保护文化遗产已成为全球许多城市的重大关切。历史建筑、传统街区以及古老遗迹不仅是旅游景点，更承载着社区的集体记忆与身份认同。然而，现代发展的压力往往导致这些宝贵资产被拆除或忽视。城市规划者如今面临着平衡经济增长与遗产保护的微妙任务。创新方法，如将历史建筑适应性再利用以服务于当代用途，已在维护文化连续性的同时促进城市更新方面展现出潜力。此外，让当地居民参与保护工作，可确保遗产成为城市肌理中富有生命力的一部分，而非静止的遗物。归根结底，尊重历史的城市更能建设可持续且有意义的未来。"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

@@ -1,0 +1,67 @@
+{
+ "id": "hsk3-writing-p109",
+ "level": "3",
+ "section": "writing",
+ "partKey": "writing-p1",
+ "title": "HSK3 Writing P1",
+ "titleZh": "书写 第一部分（写汉字）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请选择正确的汉字填入空白处。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "writing-fill-char",
+     "prompt": "明天我要去（tú）书馆看书。",
+     "correctAnswer": "图",
+     "acceptableAnswers": [
+      "图"
+     ],
+     "pinyin": "míng tiān wǒ yào qù tú shū guǎn kàn shū 。"
+    },
+    {
+     "id": "q2",
+     "type": "writing-fill-char",
+     "prompt": "他（měi）天早上都喝一杯牛奶。",
+     "correctAnswer": "每",
+     "acceptableAnswers": [
+      "每"
+     ],
+     "pinyin": "tā měi tiān zǎo shàng dōu hē yī bēi niú nǎi 。"
+    },
+    {
+     "id": "q3",
+     "type": "writing-fill-char",
+     "prompt": "中国菜很好吃，我最喜欢吃（jiǎo）子。",
+     "correctAnswer": "饺",
+     "acceptableAnswers": [
+      "饺"
+     ],
+     "pinyin": "zhōng guó cài hěn hǎo chī ， wǒ zuì xǐ huān chī jiǎo zi 。"
+    },
+    {
+     "id": "q4",
+     "type": "writing-fill-char",
+     "prompt": "请你把（chuāng）户打开一下。",
+     "correctAnswer": "窗",
+     "acceptableAnswers": [
+      "窗"
+     ],
+     "pinyin": "qǐng nǐ bǎ chuāng hù dǎ kāi yī xià 。"
+    },
+    {
+     "id": "q5",
+     "type": "writing-fill-char",
+     "prompt": "这个手机很（biàn）宜，只要一千元。",
+     "correctAnswer": "便",
+     "acceptableAnswers": [
+      "便"
+     ],
+     "pinyin": "zhè ge shǒu jī hěn pián yi ， zhǐ yào yī qiān yuán 。"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

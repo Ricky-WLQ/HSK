@@ -1,0 +1,62 @@
+{
+ "id": "hsk4-writing-p110",
+ "level": "4",
+ "section": "writing",
+ "partKey": "writing-p1",
+ "title": "HSK4 Writing P1",
+ "titleZh": "写作 第一部分（看图写句子）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "根据图片和给定的词语，写出一个正确的句子。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "窗户",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-a6b37278de96b2f6a018d04d478388a5.png",
+     "correctAnswer": "他打开窗户让新鲜空气进来。",
+     "sample": "他打开窗户让新鲜空气进来。"
+    },
+    {
+     "id": "q2",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "森林",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-1f150ac70f5ac7e2ee13e548568f14f9.png",
+     "correctAnswer": "孩子们在森林里散步。",
+     "sample": "孩子们在森林里散步。"
+    },
+    {
+     "id": "q3",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "冰箱",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-5abf47d24812bb247c79d73c25361442.png",
+     "correctAnswer": "她把蔬菜放进冰箱里。",
+     "sample": "她把蔬菜放进冰箱里。"
+    },
+    {
+     "id": "q4",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "太阳",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-a40380ae1a2bb2f82ee0c861aa93f099.png",
+     "correctAnswer": "太阳从山后面升起来了。",
+     "sample": "太阳从山后面升起来了。"
+    },
+    {
+     "id": "q5",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "地图",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-30595f1d892bd1f76285d80d1ef1209f.png",
+     "correctAnswer": "他正在看手机上的地图。",
+     "sample": "他正在看手机上的地图。"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

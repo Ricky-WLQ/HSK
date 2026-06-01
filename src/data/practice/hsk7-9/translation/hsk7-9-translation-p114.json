@@ -1,0 +1,33 @@
+{
+ "id": "hsk7-9-translation-p114",
+ "level": "7-9",
+ "section": "translation",
+ "partKey": "translation-p1",
+ "title": "HSK7-9 Translation P1",
+ "titleZh": "翻译 第一部分（英译中）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请将以下英文段落翻译成中文，注意保持原文风格和准确。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "translation-passage",
+     "prompt": "请将以下英文段落翻译成中文，注意保持原文风格和准确。",
+     "sourceText": "The rapid advancement of artificial intelligence is reshaping labor markets in unprecedented ways. While AI-driven automation threatens to displace routine jobs, it also creates new opportunities in fields like data science and machine learning. However, the transition is far from smooth; workers in traditional industries face the daunting task of reskilling, and educational systems must adapt swiftly to equip future generations with relevant competencies. Policymakers grapple with the challenge of balancing innovation with social safety nets, as income inequality could widen without proactive measures. Moreover, ethical considerations—such as algorithmic bias and privacy concerns—complicate the integration of AI into the workplace. As we stand on the brink of this technological revolution, a collaborative effort among governments, businesses, and educators is essential to harness AI's potential while mitigating its disruptive effects.",
+     "correctAnswer": "人工智能的快速发展正以前所未有的方式重塑劳动力市场。虽然人工智能驱动的自动化威胁要取代常规工作，但它也在数据科学和机器学习等领域创造了新的机会。然而，这种转型远非一帆风顺；传统行业的工人面临重新学习技能的艰巨任务，教育系统必须迅速调整，为未来几代人提供相关能力。政策制定者努力应对创新与社会保障网之间的平衡挑战，因为如果不采取积极措施，收入不平等可能会加剧。此外，伦理考量——如算法偏见和隐私问题——使人工智能融入工作场所的过程更加复杂。站在这场技术革命的门槛上，政府、企业和教育机构之间的协作对于利用人工智能的潜力同时减轻其破坏性影响至关重要。",
+     "sample": "人工智能的快速发展正以前所未有的方式重塑劳动力市场。虽然人工智能驱动的自动化威胁要取代常规工作，但它也在数据科学和机器学习等领域创造了新的机会。然而，这种转型远非一帆风顺；传统行业的工人面临重新学习技能的艰巨任务，教育系统必须迅速调整，为未来几代人提供相关能力。政策制定者努力应对创新与社会保障网之间的平衡挑战，因为如果不采取积极措施，收入不平等可能会加剧。此外，伦理考量——如算法偏见和隐私问题——使人工智能融入工作场所的过程更加复杂。站在这场技术革命的门槛上，政府、企业和教育机构之间的协作对于利用人工智能的潜力同时减轻其破坏性影响至关重要。"
+    },
+    {
+     "id": "q2",
+     "type": "translation-passage",
+     "prompt": "请将以下英文段落翻译成中文，注意保持原文风格和准确。",
+     "sourceText": "Climate change represents one of the most complex and urgent global challenges of our time. Its effects—from extreme weather events to rising sea levels—transcend national boundaries, demanding unprecedented levels of international cooperation. Yet, the path to collective action is fraught with obstacles: divergent economic interests, geopolitical tensions, and the historical responsibility of industrialized nations versus the development needs of emerging economies. The Paris Agreement provided a framework, but its implementation has been uneven, with some countries backtracking on commitments. Furthermore, the sheer scale of transformation required—from fossil fuels to renewable energy, from linear consumption to circular economies—poses immense technical and social challenges. Adapting to a warming planet will require not only technological innovation but also behavioral changes, policy reforms, and a fundamental shift in how we value nature and resources. Ultimately, the fight against climate change is a test of human solidarity and foresight.",
+     "correctAnswer": "气候变化代表了我们时代最复杂和最紧迫的全球挑战之一。其影响——从极端天气事件到海平面上升——超越了国界，要求前所未有的国际合作水平。然而，通往集体行动的道路充满障碍：不同的经济利益、地缘政治紧张局势，以及工业化国家的历史责任与新兴经济体的发展需求之间的矛盾。《巴黎协定》提供了一个框架，但其执行情况并不均衡，一些国家背弃了承诺。此外，所需转型的巨大规模——从化石燃料到可再生能源，从线性消费到循环经济——带来了巨大的技术和社会挑战。适应变暖的地球不仅需要技术创新，还需要行为改变、政策改革，以及我们如何评价自然和资源的根本性转变。归根结底，对抗气候变化是对人类团结和远见的考验。",
+     "sample": "气候变化代表了我们时代最复杂和最紧迫的全球挑战之一。其影响——从极端天气事件到海平面上升——超越了国界，要求前所未有的国际合作水平。然而，通往集体行动的道路充满障碍：不同的经济利益、地缘政治紧张局势，以及工业化国家的历史责任与新兴经济体的发展需求之间的矛盾。《巴黎协定》提供了一个框架，但其执行情况并不均衡，一些国家背弃了承诺。此外，所需转型的巨大规模——从化石燃料到可再生能源，从线性消费到循环经济——带来了巨大的技术和社会挑战。适应变暖的地球不仅需要技术创新，还需要行为改变、政策改革，以及我们如何评价自然和资源的根本性转变。归根结底，对抗气候变化是对人类团结和远见的考验。"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

@@ -1,0 +1,31 @@
+{
+ "id": "hsk5-writing-p119",
+ "level": "5",
+ "section": "writing",
+ "partKey": "writing-p1",
+ "title": "HSK5 Writing P1",
+ "titleZh": "写作 第一部分（看图写作）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请根据下面的四幅图写一篇短文，叙述一个完整的故事。注意故事连贯，人物和场景一致。字数要求：约150字。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "writing-essay",
+     "prompt": "请根据下面的四幅图写一篇短文，叙述一个完整的故事。注意故事连贯，人物和场景一致。字数要求：约150字。",
+     "minChars": 100,
+     "correctAnswer": "一天，小王正在厨房里做饭。她发现盐用完了，于是决定去邻居家借。她敲了敲门，邻居是一位和蔼的老奶奶。小王说明了来意，老奶奶热情地给了她一勺盐。小王道谢后回到厨房，把盐加进锅里，继续翻炒。不一会儿，一道美味的菜就做好了。小王开心地品尝着自己的劳动成果。",
+     "sample": "一天，小王正在厨房里做饭。她发现盐用完了，于是决定去邻居家借。她敲了敲门，邻居是一位和蔼的老奶奶。小王说明了来意，老奶奶热情地给了她一勺盐。小王道谢后回到厨房，把盐加进锅里，继续翻炒。不一会儿，一道美味的菜就做好了。小王开心地品尝着自己的劳动成果。",
+     "images": [
+      "/api/practice-image?key=images/v1/scene-fd859b80ed2aec6559d632ed204f3ed7.png",
+      "/api/practice-image?key=images/v1/scene-83ef89e7380d113daefb44de06e4c28d.png",
+      "/api/practice-image?key=images/v1/scene-1e9259a42f58e5cdb9568c3bf27075f9.png",
+      "/api/practice-image?key=images/v1/scene-677941dfff58a7b0c74f5e7e7a826772.png"
+     ]
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

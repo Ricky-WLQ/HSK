@@ -1,0 +1,67 @@
+{
+ "id": "hsk2-writing-p204",
+ "level": "2",
+ "section": "writing",
+ "partKey": "writing-p2",
+ "title": "HSK2 Writing P2",
+ "titleZh": "书写 第二部分（写汉字）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请根据拼音提示，在空白处填入正确的汉字。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "writing-fill-char",
+     "prompt": "他每天早上（pǎo）步。",
+     "correctAnswer": "跑",
+     "acceptableAnswers": [
+      "跑"
+     ],
+     "pinyin": "tā měi tiān zǎo shàng pǎo bù 。"
+    },
+    {
+     "id": "q2",
+     "type": "writing-fill-char",
+     "prompt": "这个电影很有（yì）思。",
+     "correctAnswer": "意",
+     "acceptableAnswers": [
+      "意"
+     ],
+     "pinyin": "zhè ge diàn yǐng hěn yǒu yì si 。"
+    },
+    {
+     "id": "q3",
+     "type": "writing-fill-char",
+     "prompt": "你（rèn）识那个人吗？",
+     "correctAnswer": "认",
+     "acceptableAnswers": [
+      "认"
+     ],
+     "pinyin": "nǐ rèn shí nà ge rén ma ？"
+    },
+    {
+     "id": "q4",
+     "type": "writing-fill-char",
+     "prompt": "我在（tú）书馆看书。",
+     "correctAnswer": "图",
+     "acceptableAnswers": [
+      "图"
+     ],
+     "pinyin": "wǒ zài tú shū guǎn kàn shū 。"
+    },
+    {
+     "id": "q5",
+     "type": "writing-fill-char",
+     "prompt": "请（děng）一下，我马上来。",
+     "correctAnswer": "等",
+     "acceptableAnswers": [
+      "等"
+     ],
+     "pinyin": "qǐng děng yí xià ， wǒ mǎ shàng lái 。"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

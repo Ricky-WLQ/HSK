@@ -1,0 +1,33 @@
+{
+ "id": "hsk7-9-translation-p118",
+ "level": "7-9",
+ "section": "translation",
+ "partKey": "translation-p1",
+ "title": "HSK7-9 Translation P1",
+ "titleZh": "翻译 第一部分（英译中）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "将以下英文段落翻译成中文，要求忠实流畅，符合汉语表达习惯。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "translation-passage",
+     "prompt": "将以下英文段落翻译成中文，要求忠实流畅，符合汉语表达习惯。",
+     "sourceText": "In today's globalized business environment, understanding cultural nuances is crucial for effective communication. For instance, in many Western cultures, direct eye contact is seen as a sign of confidence and honesty, while in some Asian cultures, it may be perceived as aggressive or disrespectful. Similarly, the concept of time varies significantly: punctuality is highly valued in countries like Germany and Japan, but in others, a more flexible approach is common. Successful international managers must learn to navigate these differences without imposing their own cultural values. This requires not only knowledge but also empathy and adaptability. Companies often provide cross-cultural training to help employees avoid misunderstandings and build stronger relationships with partners from diverse backgrounds. Ultimately, cultural intelligence has become a key competency in the modern workplace.",
+     "correctAnswer": "在当今全球化的商业环境中，理解文化细微差别对于有效沟通至关重要。例如，在许多西方文化中，直接的眼神接触被视为自信和诚实的标志，而在一些亚洲文化中，这可能会被认为具有攻击性或不尊重。同样，时间观念也存在显著差异：在德国和日本等国家，守时受到高度重视，但在其他一些地方，更灵活的时间观念很常见。成功的国际管理者必须学会在不强加自身文化价值观的情况下驾驭这些差异。这不仅需要知识，还需要同理心和适应能力。公司通常会提供跨文化培训，以帮助员工避免误解，并与来自不同背景的合作伙伴建立更牢固的关系。最终，文化智力已成为现代职场的一项关键能力。",
+     "sample": "在当今全球化的商业环境中，理解文化细微差别对于有效沟通至关重要。例如，在许多西方文化中，直接的眼神接触被视为自信和诚实的标志，而在一些亚洲文化中，这可能会被认为具有攻击性或不尊重。同样，时间观念也存在显著差异：在德国和日本等国家，守时受到高度重视，但在其他一些地方，更灵活的时间观念很常见。成功的国际管理者必须学会在不强加自身文化价值观的情况下驾驭这些差异。这不仅需要知识，还需要同理心和适应能力。公司通常会提供跨文化培训，以帮助员工避免误解，并与来自不同背景的合作伙伴建立更牢固的关系。最终，文化智力已成为现代职场的一项关键能力。"
+    },
+    {
+     "id": "q2",
+     "type": "translation-passage",
+     "prompt": "将以下英文段落翻译成中文，要求忠实流畅，符合汉语表达习惯。",
+     "sourceText": "The rise of social media has transformed how people interact, but it has also raised concerns about its impact on mental health. Studies indicate that excessive use of platforms like Instagram and Facebook can lead to feelings of inadequacy, anxiety, and depression, particularly among young adults. The constant comparison with curated online personas often results in unrealistic expectations and diminished self-esteem. Moreover, the addictive nature of these platforms, driven by algorithmic content delivery, can disrupt sleep patterns and reduce face-to-face social interactions. However, social media is not inherently harmful; it can also provide support networks and access to information. The key lies in mindful usage and digital literacy. Experts recommend setting time limits, curating feeds to include positive content, and engaging in offline activities to maintain a healthy balance. As digital natives grow up with these tools, society must address these challenges through education and open dialogue.",
+     "correctAnswer": "社交媒体的兴起改变了人们的互动方式，但也引发了对其心理健康影响的担忧。研究表明，过度使用Instagram和Facebook等平台会导致自卑、焦虑和抑郁，尤其是在年轻人中。不断与精心策划的网络形象进行比较，往往会产生不切实际的期望并降低自尊。此外，这些平台由算法内容推送驱动的成瘾性可能扰乱睡眠模式，减少面对面的社交互动。然而，社交媒体并非天生有害；它也可以提供支持网络和信息获取渠道。关键在于有意识地使用和数字素养。专家建议设定时间限制，筛选内容以包含积极信息，并参与线下活动以保持健康平衡。随着数字原生代伴随这些工具成长，社会必须通过教育和公开对话来应对这些挑战。",
+     "sample": "社交媒体的兴起改变了人们的互动方式，但也引发了对其心理健康影响的担忧。研究表明，过度使用Instagram和Facebook等平台会导致自卑、焦虑和抑郁，尤其是在年轻人中。不断与精心策划的网络形象进行比较，往往会产生不切实际的期望并降低自尊。此外，这些平台由算法内容推送驱动的成瘾性可能扰乱睡眠模式，减少面对面的社交互动。然而，社交媒体并非天生有害；它也可以提供支持网络和信息获取渠道。关键在于有意识地使用和数字素养。专家建议设定时间限制，筛选内容以包含积极信息，并参与线下活动以保持健康平衡。随着数字原生代伴随这些工具成长，社会必须通过教育和公开对话来应对这些挑战。"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

@@ -34,6 +34,16 @@ export default async function PracticeHub() {
                 <Link href={`/practice/${lv}/listening`} className="btn-solid btn-solid-outline text-center text-sm">
                   {t.practice.listening}
                 </Link>
+                {lv !== "1" && (
+                  <Link href={`/practice/${lv}/writing`} className="btn-solid btn-solid-outline text-center text-sm">
+                    {t.practice.writing}
+                  </Link>
+                )}
+                {lv === "7-9" && (
+                  <Link href={`/practice/${lv}/translation`} className="btn-solid btn-solid-outline text-center text-sm">
+                    {t.practice.translation}
+                  </Link>
+                )}
               </div>
             </div>
           ))}

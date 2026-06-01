@@ -1,0 +1,67 @@
+{
+ "id": "hsk3-writing-p114",
+ "level": "3",
+ "section": "writing",
+ "partKey": "writing-p1",
+ "title": "HSK3 Writing P1",
+ "titleZh": "书写 第一部分（写汉字）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请根据拼音填写汉字。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "writing-fill-char",
+     "prompt": "我明天要去图书馆（jiè）书。",
+     "correctAnswer": "借",
+     "acceptableAnswers": [
+      "借"
+     ],
+     "pinyin": "wǒ míng tiān yào qù tú shū guǎn jiè shū 。"
+    },
+    {
+     "id": "q2",
+     "type": "writing-fill-char",
+     "prompt": "他每天（qí）自行车上班。",
+     "correctAnswer": "骑",
+     "acceptableAnswers": [
+      "骑"
+     ],
+     "pinyin": "tā měi tiān qí zì xíng chē shàng bān 。"
+    },
+    {
+     "id": "q3",
+     "type": "writing-fill-char",
+     "prompt": "你可以帮我（xǐ）一下衣服吗？",
+     "correctAnswer": "洗",
+     "acceptableAnswers": [
+      "洗"
+     ],
+     "pinyin": "nǐ kě yǐ bāng wǒ xǐ yī xià yī fú ma ？"
+    },
+    {
+     "id": "q4",
+     "type": "writing-fill-char",
+     "prompt": "昨天晚上我十点就（shuì）了。",
+     "correctAnswer": "睡",
+     "acceptableAnswers": [
+      "睡"
+     ],
+     "pinyin": "zuó tiān wǎn shàng wǒ shí diǎn jiù shuì le 。"
+    },
+    {
+     "id": "q5",
+     "type": "writing-fill-char",
+     "prompt": "他正在（děng）公交车。",
+     "correctAnswer": "等",
+     "acceptableAnswers": [
+      "等"
+     ],
+     "pinyin": "tā zhèng zài děng gōng jiāo chē 。"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

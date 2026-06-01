@@ -1,0 +1,33 @@
+{
+ "id": "hsk7-9-translation-p106",
+ "level": "7-9",
+ "section": "translation",
+ "partKey": "translation-p1",
+ "title": "HSK7-9 Translation P1",
+ "titleZh": "翻译 第一部分（英译中）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请将以下英文段落翻译成中文，要求忠实于原文，语言流畅自然。注意保持原文的语体和风格。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "translation-passage",
+     "prompt": "请将以下英文段落翻译成中文，要求忠实于原文，语言流畅自然。注意保持原文的语体和风格。",
+     "sourceText": "The rapid advancement of artificial intelligence has sparked intense debate about its potential impact on employment. While some experts predict that AI will create new job opportunities in emerging fields, others warn of widespread displacement in traditional industries. A recent study suggests that workers in routine-intensive occupations are most vulnerable, but those engaged in creative and interpersonal roles may be less affected. Furthermore, the ethical implications of AI decision-making raise concerns about bias and accountability. Governments and businesses are urged to invest in retraining programs and social safety nets to mitigate negative consequences. The challenge lies in balancing innovation with inclusive growth, ensuring that technological progress benefits society as a whole rather than exacerbating inequalities.",
+     "correctAnswer": "人工智能的快速发展引发了关于其对就业潜在影响的激烈辩论。一些专家预测，人工智能将在新兴领域创造新的就业机会，而另一些专家则警告传统行业将面临大规模岗位流失。一项最新研究表明，从事常规密集型职业的工人受影响最大，但从事创造性和人际交往角色的人可能影响较小。此外，人工智能决策的伦理问题引发了对偏见和问责制的担忧。政府和商业机构被敦促投资于再培训计划和社会安全网，以减轻负面影响。挑战在于平衡创新与包容性增长，确保技术进步惠及整个社会，而不是加剧不平等。",
+     "sample": "人工智能的快速发展引发了关于其对就业潜在影响的激烈辩论。一些专家预测，人工智能将在新兴领域创造新的就业机会，而另一些专家则警告传统行业将面临大规模岗位流失。一项最新研究表明，从事常规密集型职业的工人受影响最大，但从事创造性和人际交往角色的人可能影响较小。此外，人工智能决策的伦理问题引发了对偏见和问责制的担忧。政府和商业机构被敦促投资于再培训计划和社会安全网，以减轻负面影响。挑战在于平衡创新与包容性增长，确保技术进步惠及整个社会，而不是加剧不平等。"
+    },
+    {
+     "id": "q2",
+     "type": "translation-passage",
+     "prompt": "请将以下英文段落翻译成中文，要求忠实于原文，语言流畅自然。注意保持原文的语体和风格。",
+     "sourceText": "The concept of sustainable development has gained traction as a guiding principle for economic policy. It emphasizes meeting present needs without compromising the ability of future generations to meet their own. This requires a holistic approach that integrates environmental protection, social equity, and economic viability. Critics argue that current efforts are insufficient, as many corporations prioritize short-term profits over long-term sustainability. International agreements like the Paris Accord aim to set binding targets, but implementation remains uneven. Individual actions, such as reducing waste and adopting renewable energy, also play a crucial role. Ultimately, achieving sustainability necessitates a fundamental shift in values and behaviors at all levels of society.",
+     "correctAnswer": "可持续发展的概念作为经济政策的指导原则已获得广泛认可。它强调满足当前需求的同时不损害后代满足自身需求的能力。这需要一种综合性的方法，将环境保护、社会公平和经济可行性结合起来。批评者认为，目前的努力还不够，因为许多企业优先考虑短期利润而非长期可持续性。《巴黎协定》等国际协议旨在设定具有约束力的目标，但执行情况仍不均衡。个人行动，如减少浪费和使用可再生能源，也发挥着至关重要的作用。最终，实现可持续发展需要社会各层面在价值观和行为上发生根本性转变。",
+     "sample": "可持续发展的概念作为经济政策的指导原则已获得广泛认可。它强调满足当前需求的同时不损害后代满足自身需求的能力。这需要一种综合性的方法，将环境保护、社会公平和经济可行性结合起来。批评者认为，目前的努力还不够，因为许多企业优先考虑短期利润而非长期可持续性。《巴黎协定》等国际协议旨在设定具有约束力的目标，但执行情况仍不均衡。个人行动，如减少浪费和使用可再生能源，也发挥着至关重要的作用。最终，实现可持续发展需要社会各层面在价值观和行为上发生根本性转变。"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

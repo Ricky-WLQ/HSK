@@ -1,0 +1,67 @@
+{
+ "id": "hsk2-writing-p218",
+ "level": "2",
+ "section": "writing",
+ "partKey": "writing-p2",
+ "title": "HSK2 Writing P2",
+ "titleZh": "书写 第二部分（写汉字）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "根据句子意思，填出空缺的汉字。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "writing-fill-char",
+     "prompt": "我今天很（máng）。",
+     "correctAnswer": "忙",
+     "acceptableAnswers": [
+      "忙"
+     ],
+     "pinyin": "wǒ jīn tiān hěn máng 。"
+    },
+    {
+     "id": "q2",
+     "type": "writing-fill-char",
+     "prompt": "你喜欢（chī）什么？",
+     "correctAnswer": "吃",
+     "acceptableAnswers": [
+      "吃"
+     ],
+     "pinyin": "nǐ xǐ huān chī shén me ？"
+    },
+    {
+     "id": "q3",
+     "type": "writing-fill-char",
+     "prompt": "他的家很（dà）。",
+     "correctAnswer": "大",
+     "acceptableAnswers": [
+      "大"
+     ],
+     "pinyin": "tā de jiā hěn dà 。"
+    },
+    {
+     "id": "q4",
+     "type": "writing-fill-char",
+     "prompt": "我们一起（qù）公园吧。",
+     "correctAnswer": "去",
+     "acceptableAnswers": [
+      "去"
+     ],
+     "pinyin": "wǒ men yì qǐ qù gōng yuán ba 。"
+    },
+    {
+     "id": "q5",
+     "type": "writing-fill-char",
+     "prompt": "她（zhù）在这个城市。",
+     "correctAnswer": "住",
+     "acceptableAnswers": [
+      "住"
+     ],
+     "pinyin": "tā zhù zài zhè ge chéng shì 。"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

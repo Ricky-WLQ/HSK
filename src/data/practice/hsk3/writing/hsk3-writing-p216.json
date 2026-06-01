@@ -1,0 +1,62 @@
+{
+ "id": "hsk3-writing-p216",
+ "level": "3",
+ "section": "writing",
+ "partKey": "writing-p2",
+ "title": "HSK3 Writing P2",
+ "titleZh": "书写 第二部分（看图写句子）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请根据下面的场景和词语，写出一个完整的句子。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "狗",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-bd7642c65cc9da4b8b90285b6df1d71a.png",
+     "correctAnswer": "孩子在公园和狗一起玩。",
+     "sample": "孩子在公园和狗一起玩。"
+    },
+    {
+     "id": "q2",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "书",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-10516441e04b409853b2eea4c252b21e.png",
+     "correctAnswer": "学生正在桌子上看书。",
+     "sample": "学生正在桌子上看书。"
+    },
+    {
+     "id": "q3",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "苹果",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-ac2926174d5fe2bfe35f823c2b042e19.png",
+     "correctAnswer": "妈妈在厨房吃苹果。",
+     "sample": "妈妈在厨房吃苹果。"
+    },
+    {
+     "id": "q4",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "公交车",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-aed37abd3652a5dd20cde5f9017196d4.png",
+     "correctAnswer": "他们在公交车站等公交车。",
+     "sample": "他们在公交车站等公交车。"
+    },
+    {
+     "id": "q5",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "医生",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-2df4bffaa5e37dcd64cdea4baa6a94f1.png",
+     "correctAnswer": "医生在医院给病人量体温。",
+     "sample": "医生在医院给病人量体温。"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

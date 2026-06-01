@@ -1,0 +1,62 @@
+{
+ "id": "hsk4-writing-p104",
+ "level": "4",
+ "section": "writing",
+ "partKey": "writing-p1",
+ "title": "HSK4 Writing P1",
+ "titleZh": "写作 第一部分（看图写句子）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请根据以下词语以及场景描述，用该词语写一个完整的句子。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "蛋糕",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-f963002fc89250c71a9eb3ebfc5f425d.png",
+     "correctAnswer": "生日那天，妈妈给我买了一个大蛋糕。",
+     "sample": "生日那天，妈妈给我买了一个大蛋糕。"
+    },
+    {
+     "id": "q2",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "地图",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-4f01e1c8d0c421a04d88ba3dc50d4c9f.png",
+     "correctAnswer": "我迷路了，所以拿出地图看方向。",
+     "sample": "我迷路了，所以拿出地图看方向。"
+    },
+    {
+     "id": "q3",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "钥匙",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-ea8b3b0b130b6018a2e7cb3c40e2db5b.png",
+     "correctAnswer": "他拿出钥匙，打开了房间的门。",
+     "sample": "他拿出钥匙，打开了房间的门。"
+    },
+    {
+     "id": "q4",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "镜子",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-a2af101ab6f0ef109507936235107c9b.png",
+     "correctAnswer": "她每天早晨都会对着镜子梳头发。",
+     "sample": "她每天早晨都会对着镜子梳头发。"
+    },
+    {
+     "id": "q5",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "冰箱",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-443d66841249defe1d6b30bfa5dc8682.png",
+     "correctAnswer": "天气很热，我从冰箱里拿了一瓶冰水。",
+     "sample": "天气很热，我从冰箱里拿了一瓶冰水。"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

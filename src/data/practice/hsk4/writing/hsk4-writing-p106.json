@@ -1,0 +1,62 @@
+{
+ "id": "hsk4-writing-p106",
+ "level": "4",
+ "section": "writing",
+ "partKey": "writing-p1",
+ "title": "HSK4 Writing P1",
+ "titleZh": "写作 第一部分（看图写句子）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请根据下面的场景和词语，各写一个正确的句子。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "邮票",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-eb4e4d823a44e66f029469d638f58899.png",
+     "correctAnswer": "他正在往信封上贴邮票。",
+     "sample": "他正在往信封上贴邮票。"
+    },
+    {
+     "id": "q2",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "词典",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-a6cbd01132683ef8de8a9756813f48b2.png",
+     "correctAnswer": "他查词典找生词的意思。",
+     "sample": "他查词典找生词的意思。"
+    },
+    {
+     "id": "q3",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "钱包",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-a67b6c7350962bc111f6aabc1c4f5561.png",
+     "correctAnswer": "她把钱放进钱包里。",
+     "sample": "她把钱放进钱包里。"
+    },
+    {
+     "id": "q4",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "眼镜",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-9feab51c377dfb969f45af4b66136778.png",
+     "correctAnswer": "他戴着眼镜看书。",
+     "sample": "他戴着眼镜看书。"
+    },
+    {
+     "id": "q5",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "行李箱",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-0f77fb6306187790f88be54d79f6f066.png",
+     "correctAnswer": "他拉着行李箱去登机。",
+     "sample": "他拉着行李箱去登机。"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

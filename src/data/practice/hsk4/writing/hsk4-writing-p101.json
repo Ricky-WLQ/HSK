@@ -1,0 +1,62 @@
+{
+ "id": "hsk4-writing-p101",
+ "level": "4",
+ "section": "writing",
+ "partKey": "writing-p1",
+ "title": "HSK4 Writing P1",
+ "titleZh": "写作 第一部分（看图写句子）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请根据图片和词语，用该词语写一个句子。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "搬",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-4f3984b4a055c8c84c363a15921bd83a.png",
+     "correctAnswer": "他正在把箱子搬进屋里。",
+     "sample": "他正在把箱子搬进屋里。"
+    },
+    {
+     "id": "q2",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "超市",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-262c7e78659442c2922e1c60a1b07f8f.png",
+     "correctAnswer": "我去超市买了很多东西。",
+     "sample": "我去超市买了很多东西。"
+    },
+    {
+     "id": "q3",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "厨师",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-53bcdbd31ce29a870cb59f16c111d641.png",
+     "correctAnswer": "厨师正在厨房里做饭。",
+     "sample": "厨师正在厨房里做饭。"
+    },
+    {
+     "id": "q4",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "锻炼",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-edaf114a9f8db03f806de89b20f281ad.png",
+     "correctAnswer": "他每天早上都去公园锻炼身体。",
+     "sample": "他每天早上都去公园锻炼身体。"
+    },
+    {
+     "id": "q5",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "邻居",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-c820030dd3736bedb19384b1055888c5.png",
+     "correctAnswer": "我和邻居经常一起聊天。",
+     "sample": "我和邻居经常一起聊天。"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

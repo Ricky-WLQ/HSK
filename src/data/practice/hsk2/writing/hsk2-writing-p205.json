@@ -1,0 +1,67 @@
+{
+ "id": "hsk2-writing-p205",
+ "level": "2",
+ "section": "writing",
+ "partKey": "writing-p2",
+ "title": "HSK2 Writing P2",
+ "titleZh": "书写 第二部分（写汉字）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请选出句子中缺少的汉字，并写出它的拼音。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "writing-fill-char",
+     "prompt": "我每天早上六点（qǐ）床。",
+     "correctAnswer": "起",
+     "acceptableAnswers": [
+      "起"
+     ],
+     "pinyin": "wǒ měi tiān zǎo shàng liù diǎn qǐ chuáng 。"
+    },
+    {
+     "id": "q2",
+     "type": "writing-fill-char",
+     "prompt": "他喜欢（chī）苹果。",
+     "correctAnswer": "吃",
+     "acceptableAnswers": [
+      "吃"
+     ],
+     "pinyin": "tā xǐ huān chī píng guǒ 。"
+    },
+    {
+     "id": "q3",
+     "type": "writing-fill-char",
+     "prompt": "她今天穿了一件红（qún）子。",
+     "correctAnswer": "裙",
+     "acceptableAnswers": [
+      "裙"
+     ],
+     "pinyin": "tā jīn tiān chuān le yī jiàn hóng qún zi 。"
+    },
+    {
+     "id": "q4",
+     "type": "writing-fill-char",
+     "prompt": "我们坐（fēi）机去北京。",
+     "correctAnswer": "飞",
+     "acceptableAnswers": [
+      "飞"
+     ],
+     "pinyin": "wǒ men zuò fēi jī qù běi jīng 。"
+    },
+    {
+     "id": "q5",
+     "type": "writing-fill-char",
+     "prompt": "他每天晚上十点（shuì）觉。",
+     "correctAnswer": "睡",
+     "acceptableAnswers": [
+      "睡"
+     ],
+     "pinyin": "tā měi tiān wǎn shàng shí diǎn shuì jiào 。"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

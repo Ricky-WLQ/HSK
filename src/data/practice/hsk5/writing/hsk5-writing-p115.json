@@ -1,0 +1,31 @@
+{
+ "id": "hsk5-writing-p115",
+ "level": "5",
+ "section": "writing",
+ "partKey": "writing-p1",
+ "title": "HSK5 Writing P1",
+ "titleZh": "写作 第一部分（看图写作）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "根据下列四幅图，写一篇不少于100字的叙述文，要完整描述故事情节。注意使用合适的词汇和语法。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "writing-essay",
+     "prompt": "根据下列四幅图，写一篇不少于100字的叙述文，要完整描述故事情节。注意使用合适的词汇和语法。",
+     "minChars": 100,
+     "correctAnswer": "小明准备出门上班，突然发现钥匙不见了。他非常着急，开始在房间里到处寻找。他记得昨天回家后把钥匙放在桌上，但早上却不见了。他先找了桌子，没有。然后他回忆可能掉在沙发缝里，翻了一遍也没有。他几乎要放弃了，这时他想起来昨天回家后脱外套时随手把钥匙放进了口袋。他赶紧去翻外套，果然找到了。他松了一口气，开心地出门了。",
+     "sample": "小明准备出门上班，突然发现钥匙不见了。他非常着急，开始在房间里到处寻找。他记得昨天回家后把钥匙放在桌上，但早上却不见了。他先找了桌子，没有。然后他回忆可能掉在沙发缝里，翻了一遍也没有。他几乎要放弃了，这时他想起来昨天回家后脱外套时随手把钥匙放进了口袋。他赶紧去翻外套，果然找到了。他松了一口气，开心地出门了。",
+     "images": [
+      "/api/practice-image?key=images/v1/scene-92a13fd3b747c69fc13eca555c5fe583.png",
+      "/api/practice-image?key=images/v1/scene-573fbb6f898e5fca9de406f64a2bc46a.png",
+      "/api/practice-image?key=images/v1/scene-29f34e656dbaed340b518a91f52a86f8.png",
+      "/api/practice-image?key=images/v1/scene-802fb24aebcf814e34447c8a58595f57.png"
+     ]
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

@@ -1,0 +1,31 @@
+{
+ "id": "hsk5-writing-p112",
+ "level": "5",
+ "section": "writing",
+ "partKey": "writing-p1",
+ "title": "HSK5 Writing P1",
+ "titleZh": "写作 第一部分（看图写作）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请根据下面的四幅图写一篇短文，叙述图中的故事。要求：内容完整，语句通顺，字数不少于100字。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "writing-essay",
+     "prompt": "请根据下面的四幅图写一篇短文，叙述图中的故事。要求：内容完整，语句通顺，字数不少于100字。",
+     "minChars": 100,
+     "correctAnswer": "小明早上起晚了，匆匆忙忙地收拾书包，结果把笔记本落在了桌子上。上课时，老师提问，他因为没带笔记回答不出来，急得满头大汗。同桌小红看到后，立刻把自己的笔记本递给他。下课后，两人在图书馆一起复习，互相讲解不懂的地方。最后，他们不仅解决了问题，还成了最好的朋友。",
+     "sample": "小明早上起晚了，匆匆忙忙地收拾书包，结果把笔记本落在了桌子上。上课时，老师提问，他因为没带笔记回答不出来，急得满头大汗。同桌小红看到后，立刻把自己的笔记本递给他。下课后，两人在图书馆一起复习，互相讲解不懂的地方。最后，他们不仅解决了问题，还成了最好的朋友。",
+     "images": [
+      "/api/practice-image?key=images/v1/scene-efeba27426ae7ee885d6498ab77c7b4a.png",
+      "/api/practice-image?key=images/v1/scene-8609c8f689f2751242845a2e98538531.png",
+      "/api/practice-image?key=images/v1/scene-ce23a9090842fa7a1d12da1111c2292f.png",
+      "/api/practice-image?key=images/v1/scene-19a2ef217a30f8bfc4c0a88fdbaa9d45.png"
+     ]
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

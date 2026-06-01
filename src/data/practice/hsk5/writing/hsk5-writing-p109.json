@@ -1,0 +1,31 @@
+{
+ "id": "hsk5-writing-p109",
+ "level": "5",
+ "section": "writing",
+ "partKey": "writing-p1",
+ "title": "HSK5 Writing P1",
+ "titleZh": "写作 第一部分（看图写作）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请根据以下四幅图画，写一篇不少于150字的叙述文。要求内容连贯，语言通顺，符合HSK5水平。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "writing-essay",
+     "prompt": "请根据以下四幅图画，写一篇不少于150字的叙述文。要求内容连贯，语言通顺，符合HSK5水平。",
+     "minChars": 100,
+     "correctAnswer": "一天，小明去书店买书。他付完钱后，不小心把钱包忘在了收银台上。一位女孩小红看到了钱包，她赶紧追出去，但小明已经走远了。小红打开钱包，发现里面有一张身份证，上面有地址。她按照地址找到了小明的家。小明很感激，为了表示感谢，他邀请小红一起去喝咖啡。就这样，他们成了好朋友。",
+     "sample": "一天，小明去书店买书。他付完钱后，不小心把钱包忘在了收银台上。一位女孩小红看到了钱包，她赶紧追出去，但小明已经走远了。小红打开钱包，发现里面有一张身份证，上面有地址。她按照地址找到了小明的家。小明很感激，为了表示感谢，他邀请小红一起去喝咖啡。就这样，他们成了好朋友。",
+     "images": [
+      "/api/practice-image?key=images/v1/scene-289794e5db6daad118add56312af1637.png",
+      "/api/practice-image?key=images/v1/scene-e06858f6df739ce9e2fab67e81e1ba4a.png",
+      "/api/practice-image?key=images/v1/scene-2ae03225ad7549e7826da706d5c44084.png",
+      "/api/practice-image?key=images/v1/scene-e6ea93413a83782fbebb9b9e5aeaaaa9.png"
+     ]
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

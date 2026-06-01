@@ -1,0 +1,62 @@
+{
+ "id": "hsk4-writing-p108",
+ "level": "4",
+ "section": "writing",
+ "partKey": "writing-p1",
+ "title": "HSK4 Writing P1",
+ "titleZh": "写作 第一部分（看图写句子）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请根据场景和给定词语写出一个句子。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "熊猫",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-0d1ebfcfb7bbcaa9777a96a192eb5693.png",
+     "correctAnswer": "这只熊猫正在吃竹子。",
+     "sample": "这只熊猫正在吃竹子。"
+    },
+    {
+     "id": "q2",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "香蕉",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-1cef557aa2dcad64e2dd1d5608c369f3.png",
+     "correctAnswer": "妈妈给我买了一根香蕉。",
+     "sample": "妈妈给我买了一根香蕉。"
+    },
+    {
+     "id": "q3",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "电脑",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-75b0d31e41d37d62a86458120d81cc84.png",
+     "correctAnswer": "他每天用电脑工作。",
+     "sample": "他每天用电脑工作。"
+    },
+    {
+     "id": "q4",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "自行车",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-fcdf510158ca2d16a5f66128e5b2df2d.png",
+     "correctAnswer": "我骑自行车去上学。",
+     "sample": "我骑自行车去上学。"
+    },
+    {
+     "id": "q5",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "帽子",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-8a3769d1f9a75239d05bc30047df77a4.png",
+     "correctAnswer": "她戴着一顶红色的帽子。",
+     "sample": "她戴着一顶红色的帽子。"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

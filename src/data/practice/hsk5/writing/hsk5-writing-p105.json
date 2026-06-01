@@ -1,0 +1,31 @@
+{
+ "id": "hsk5-writing-p105",
+ "level": "5",
+ "section": "writing",
+ "partKey": "writing-p1",
+ "title": "HSK5 Writing P1",
+ "titleZh": "写作 第一部分（看图写作）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请根据下列四幅图写一篇短文，叙述故事。要求：内容完整，语言通顺，不少于100字。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "writing-essay",
+     "prompt": "请根据下列四幅图写一篇短文，叙述故事。要求：内容完整，语言通顺，不少于100字。",
+     "minChars": 100,
+     "correctAnswer": "一个阳光明媚的下午，我在公园的长椅上专心看书。突然，一声微弱的猫叫从头顶传来。我抬头一看，一只小猫被困在高高的树枝上，眼神里充满了恐惧。它可能是在玩耍时不小心爬上去，却不敢下来了。我试着爬树，但树枝太高够不着。我环顾四周，发现一根长棍子。我小心翼翼地用棍子引导小猫，让它沿着树枝慢慢往下走。最终，小猫安全地跳进了我的怀里。它用头蹭蹭我，还舔了舔我的手，仿佛在表达感谢。我轻轻地抚摸它，心里感到无比温暖。",
+     "sample": "一个阳光明媚的下午，我在公园的长椅上专心看书。突然，一声微弱的猫叫从头顶传来。我抬头一看，一只小猫被困在高高的树枝上，眼神里充满了恐惧。它可能是在玩耍时不小心爬上去，却不敢下来了。我试着爬树，但树枝太高够不着。我环顾四周，发现一根长棍子。我小心翼翼地用棍子引导小猫，让它沿着树枝慢慢往下走。最终，小猫安全地跳进了我的怀里。它用头蹭蹭我，还舔了舔我的手，仿佛在表达感谢。我轻轻地抚摸它，心里感到无比温暖。",
+     "images": [
+      "/api/practice-image?key=images/v1/scene-cad9819d64965fbc924b1a2b296b440f.png",
+      "/api/practice-image?key=images/v1/scene-4cada8f83ca0d9959160460d3408b3bd.png",
+      "/api/practice-image?key=images/v1/scene-a9fd79fa185d7e6afa19aed33cfee44b.png",
+      "/api/practice-image?key=images/v1/scene-0f808c11ed873d82ebdc400a9ccd6ec6.png"
+     ]
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

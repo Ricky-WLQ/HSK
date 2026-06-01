@@ -1,0 +1,33 @@
+{
+ "id": "hsk7-9-translation-p101",
+ "level": "7-9",
+ "section": "translation",
+ "partKey": "translation-p1",
+ "title": "HSK7-9 Translation P1",
+ "titleZh": "翻译 第一部分（英译中）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "将以下英文段落翻译成中文，要求忠实原文、语言流畅，符合HSK7-9级水平。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "translation-passage",
+     "prompt": "将以下英文段落翻译成中文，要求忠实原文、语言流畅，符合HSK7-9级水平。",
+     "sourceText": "The celebration of traditional festivals has evolved over time, reflecting changes in societal values and lifestyles. While some argue that commercialization dilutes their original meaning, others believe that adapting to modern contexts ensures their survival. In many cultures, festivals serve as a vital link between generations, preserving customs and fostering a sense of community. However, the rise of digital communication and fast-paced living has led to a decline in face-to-face interactions during these occasions. This paradox highlights the tension between preserving authenticity and embracing change. Ultimately, the way we celebrate says much about our collective identity and priorities.",
+     "correctAnswer": "传统节日的庆祝方式随着时间的推移而演变，反映了社会价值观和生活方式的变迁。一些人认为商业化淡化了节日的原本意义，而另一些人则认为适应现代环境才能确保其存续。在许多文化中，节日是连接代际的重要纽带，既保存了习俗，又促进了社区感。然而，数字通信的兴起和快节奏的生活导致这些场合中的面对面交流减少。这一矛盾凸显了保留本真与拥抱变化之间的张力。归根结底，我们庆祝的方式在很大程度上体现了我们的集体认同和优先事项。",
+     "sample": "传统节日的庆祝方式随着时间的推移而演变，反映了社会价值观和生活方式的变迁。一些人认为商业化淡化了节日的原本意义，而另一些人则认为适应现代环境才能确保其存续。在许多文化中，节日是连接代际的重要纽带，既保存了习俗，又促进了社区感。然而，数字通信的兴起和快节奏的生活导致这些场合中的面对面交流减少。这一矛盾凸显了保留本真与拥抱变化之间的张力。归根结底，我们庆祝的方式在很大程度上体现了我们的集体认同和优先事项。"
+    },
+    {
+     "id": "q2",
+     "type": "translation-passage",
+     "prompt": "将以下英文段落翻译成中文，要求忠实原文、语言流畅，符合HSK7-9级水平。",
+     "sourceText": "Advancements in artificial intelligence have revolutionized numerous sectors, from healthcare to transportation. Yet, ethical concerns regarding privacy, bias, and job displacement continue to spark debate. Proponents argue that AI can enhance efficiency and solve complex problems, while critics warn against unintended consequences. The key lies in developing robust regulatory frameworks that balance innovation with societal well-being. As AI becomes more integrated into daily life, questions of accountability and transparency become paramount. It is crucial for policymakers, technologists, and the public to engage in dialogue to shape a future where technology serves humanity responsibly.",
+     "correctAnswer": "人工智能的进步彻底改变了从医疗到交通等众多领域。然而，有关隐私、偏见和失业的伦理问题仍在引发争论。支持者认为人工智能能提高效率、解决复杂问题，而批评者则警告其可能带来意外后果。关键在于建立强有力的监管框架，平衡创新与社会福祉。随着人工智能日益融入日常生活，问责制和透明度问题变得至关重要。政策制定者、技术专家和公众必须进行对话，以塑造一个技术负责任地为人类服务的未来。",
+     "sample": "人工智能的进步彻底改变了从医疗到交通等众多领域。然而，有关隐私、偏见和失业的伦理问题仍在引发争论。支持者认为人工智能能提高效率、解决复杂问题，而批评者则警告其可能带来意外后果。关键在于建立强有力的监管框架，平衡创新与社会福祉。随着人工智能日益融入日常生活，问责制和透明度问题变得至关重要。政策制定者、技术专家和公众必须进行对话，以塑造一个技术负责任地为人类服务的未来。"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

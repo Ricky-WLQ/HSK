@@ -1,0 +1,33 @@
+{
+ "id": "hsk7-9-translation-p109",
+ "level": "7-9",
+ "section": "translation",
+ "partKey": "translation-p1",
+ "title": "HSK7-9 Translation P1",
+ "titleZh": "翻译 第一部分（英译中）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "将下列英文段落翻译成中文，要求忠实于原文，语言流畅自然。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "translation-passage",
+     "prompt": "将下列英文段落翻译成中文，要求忠实于原文，语言流畅自然。",
+     "sourceText": "The concept of ecological footprint has gained widespread traction in environmental discourse as a metric for human demand on ecosystems. It quantifies the biologically productive land and water area required to produce the resources an individual, population, or activity consumes and to absorb the corresponding waste, given prevailing technology and resource management practices. Despite its simplicity in communicating the scale of human impact, the ecological footprint has faced criticism for oversimplifying complex environmental interactions and failing to account for technological innovation and trade dynamics. Nonetheless, it remains a valuable heuristic tool for raising awareness about sustainability constraints.",
+     "correctAnswer": "生态足迹的概念作为衡量人类对生态系统需求的指标，已在环境讨论中得到广泛认可。它量化了在现有技术和资源管理条件下，为生产个体、群体或活动所消耗的资源以及吸收相应废弃物所需的生物生产性土地和水域面积。尽管生态足迹在传达人类影响规模方面简单明了，但它因过度简化复杂的环境相互作用，且未能考虑技术创新和贸易动态而受到批评。尽管如此，它仍然是提高人们对可持续性限制认识的宝贵启发式工具。",
+     "sample": "生态足迹的概念作为衡量人类对生态系统需求的指标，已在环境讨论中得到广泛认可。它量化了在现有技术和资源管理条件下，为生产个体、群体或活动所消耗的资源以及吸收相应废弃物所需的生物生产性土地和水域面积。尽管生态足迹在传达人类影响规模方面简单明了，但它因过度简化复杂的环境相互作用，且未能考虑技术创新和贸易动态而受到批评。尽管如此，它仍然是提高人们对可持续性限制认识的宝贵启发式工具。"
+    },
+    {
+     "id": "q2",
+     "type": "translation-passage",
+     "prompt": "将下列英文段落翻译成中文，要求忠实于原文，语言流畅自然。",
+     "sourceText": "The resurgence of interest in classical languages, such as Latin and Ancient Greek, in contemporary education is not merely a nostalgic trend but a pedagogical response to the cognitive benefits these languages offer. Studies suggest that studying inflected languages enhances metalinguistic awareness, sharpens analytical thinking, and improves understanding of grammatical structures in modern languages. Moreover, the rich literary and philosophical traditions preserved in these languages provide a direct window into the foundational texts of Western civilization, fostering a deeper engagement with ideas that have shaped modern thought. However, critics argue that the time investment required yields diminishing returns in a world that prioritizes practical skills.",
+     "correctAnswer": "在当代教育中对拉丁语和古希腊语等古典语言的兴趣复兴，并非仅仅是一种怀旧潮流，而是对这些语言所提供的认知益处的教学回应。研究表明，学习屈折语言能够增强元语言意识，提高分析思维能力，并加深对现代语言语法结构的理解。此外，这些语言所保存的丰富文学和哲学传统，为进入西方文明的基础文本提供了直接窗口，促进了与塑造现代思想的各种理念的更深入接触。然而，批评者认为，所需的时间投入在一个重视实用技能的世界里收益递减。",
+     "sample": "在当代教育中对拉丁语和古希腊语等古典语言的兴趣复兴，并非仅仅是一种怀旧潮流，而是对这些语言所提供的认知益处的教学回应。研究表明，学习屈折语言能够增强元语言意识，提高分析思维能力，并加深对现代语言语法结构的理解。此外，这些语言所保存的丰富文学和哲学传统，为进入西方文明的基础文本提供了直接窗口，促进了与塑造现代思想的各种理念的更深入接触。然而，批评者认为，所需的时间投入在一个重视实用技能的世界里收益递减。"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

@@ -1,0 +1,67 @@
+{
+ "id": "hsk3-writing-p118",
+ "level": "3",
+ "section": "writing",
+ "partKey": "writing-p1",
+ "title": "HSK3 Writing P1",
+ "titleZh": "书写 第一部分（写汉字）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请根据拼音，在下列句子中填入缺少的汉字。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "writing-fill-char",
+     "prompt": "明天我们要参加数学（kǎo）试。",
+     "correctAnswer": "考",
+     "acceptableAnswers": [
+      "考"
+     ],
+     "pinyin": "míng tiān wǒ men yào cān jiā shù xué kǎo shì 。"
+    },
+    {
+     "id": "q2",
+     "type": "writing-fill-char",
+     "prompt": "这个（tú）书馆有很多中文书。",
+     "correctAnswer": "图",
+     "acceptableAnswers": [
+      "图"
+     ],
+     "pinyin": "zhè ge tú shū guǎn yǒu hěn duō zhōng wén shū 。"
+    },
+    {
+     "id": "q3",
+     "type": "writing-fill-char",
+     "prompt": "他每天坚持锻炼身体，很（jiàn）康。",
+     "correctAnswer": "健",
+     "acceptableAnswers": [
+      "健"
+     ],
+     "pinyin": "tā měi tiān jiān chí duàn liàn shēn tǐ ， hěn jiàn kāng 。"
+    },
+    {
+     "id": "q4",
+     "type": "writing-fill-char",
+     "prompt": "昨天我看了一部很有意思的（diàn）影。",
+     "correctAnswer": "电",
+     "acceptableAnswers": [
+      "电"
+     ],
+     "pinyin": "zuó tiān wǒ kàn le yī bù hěn yǒu yì si de diàn yǐng 。"
+    },
+    {
+     "id": "q5",
+     "type": "writing-fill-char",
+     "prompt": "我们要保护（huán）境，不能乱扔垃圾。",
+     "correctAnswer": "环",
+     "acceptableAnswers": [
+      "环"
+     ],
+     "pinyin": "wǒ men yào bǎo hù huán jìng ， bù néng luàn rēng lā jī 。"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

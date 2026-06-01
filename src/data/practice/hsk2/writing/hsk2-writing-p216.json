@@ -1,0 +1,67 @@
+{
+ "id": "hsk2-writing-p216",
+ "level": "2",
+ "section": "writing",
+ "partKey": "writing-p2",
+ "title": "HSK2 Writing P2",
+ "titleZh": "书写 第二部分（写汉字）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请根据拼音填写正确的汉字。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "writing-fill-char",
+     "prompt": "我每天（cóng）早上七点开始工作。",
+     "correctAnswer": "从",
+     "acceptableAnswers": [
+      "从"
+     ],
+     "pinyin": "wǒ měi tiān cóng zǎo shàng qī diǎn kāi shǐ gōng zuò 。"
+    },
+    {
+     "id": "q2",
+     "type": "writing-fill-char",
+     "prompt": "她喜欢在（tú）书馆看书。",
+     "correctAnswer": "图",
+     "acceptableAnswers": [
+      "图"
+     ],
+     "pinyin": "tā xǐ huān zài tú shū guǎn kàn shū 。"
+    },
+    {
+     "id": "q3",
+     "type": "writing-fill-char",
+     "prompt": "（zhuō）子上有一本书和一支笔。",
+     "correctAnswer": "桌",
+     "acceptableAnswers": [
+      "桌"
+     ],
+     "pinyin": "zhuō zi shàng yǒu yī běn shū hé yī zhī bǐ 。"
+    },
+    {
+     "id": "q4",
+     "type": "writing-fill-char",
+     "prompt": "他每天早上（pǎo）步半小时。",
+     "correctAnswer": "跑",
+     "acceptableAnswers": [
+      "跑"
+     ],
+     "pinyin": "tā měi tiān zǎo shàng pǎo bù bàn xiǎo shí 。"
+    },
+    {
+     "id": "q5",
+     "type": "writing-fill-char",
+     "prompt": "我们去（chāo）市买水果和蔬菜。",
+     "correctAnswer": "超",
+     "acceptableAnswers": [
+      "超"
+     ],
+     "pinyin": "wǒ men qù chāo shì mǎi shuǐ guǒ hé shū cài 。"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

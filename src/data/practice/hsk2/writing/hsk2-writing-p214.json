@@ -1,0 +1,67 @@
+{
+ "id": "hsk2-writing-p214",
+ "level": "2",
+ "section": "writing",
+ "partKey": "writing-p2",
+ "title": "HSK2 Writing P2",
+ "titleZh": "书写 第二部分（写汉字）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请根据拼音填写下列句子中缺少的汉字。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "writing-fill-char",
+     "prompt": "他住在学校附（jìn）。",
+     "correctAnswer": "近",
+     "acceptableAnswers": [
+      "近"
+     ],
+     "pinyin": "tā zhù zài xué xiào fù jìn 。"
+    },
+    {
+     "id": "q2",
+     "type": "writing-fill-char",
+     "prompt": "我中午（xiū）息一个小时。",
+     "correctAnswer": "休",
+     "acceptableAnswers": [
+      "休"
+     ],
+     "pinyin": "wǒ zhōng wǔ xiū xī yí gè xiǎo shí 。"
+    },
+    {
+     "id": "q3",
+     "type": "writing-fill-char",
+     "prompt": "请问，你（zhī）道图书馆在哪儿吗？",
+     "correctAnswer": "知",
+     "acceptableAnswers": [
+      "知"
+     ],
+     "pinyin": "qǐng wèn ， nǐ zhī dào tú shū guǎn zài nǎ ér ma ？"
+    },
+    {
+     "id": "q4",
+     "type": "writing-fill-char",
+     "prompt": "这本书我（yǐ）经看完了。",
+     "correctAnswer": "已",
+     "acceptableAnswers": [
+      "已"
+     ],
+     "pinyin": "zhè běn shū wǒ yǐ jīng kàn wán le 。"
+    },
+    {
+     "id": "q5",
+     "type": "writing-fill-char",
+     "prompt": "他（wèi）什么不去上课？",
+     "correctAnswer": "为",
+     "acceptableAnswers": [
+      "为"
+     ],
+     "pinyin": "tā wèi shén me bù qù shàng kè ？"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

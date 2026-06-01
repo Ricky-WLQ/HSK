@@ -1,0 +1,33 @@
+{
+ "id": "hsk7-9-translation-p105",
+ "level": "7-9",
+ "section": "translation",
+ "partKey": "translation-p1",
+ "title": "HSK7-9 Translation P1",
+ "titleZh": "翻译 第一部分（英译中）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "将下列英文段落翻译成中文，要求忠实原文、语言流畅，符合汉语表达习惯。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "translation-passage",
+     "prompt": "将下列英文段落翻译成中文，要求忠实原文、语言流畅，符合汉语表达习惯。",
+     "sourceText": "Biodiversity, the variety of life on Earth, is essential for ecosystem health and human well-being. It provides us with food, clean water, medicine, and climate regulation. However, human activities such as deforestation, pollution, and overexploitation have led to a rapid loss of species. Scientists warn that we are entering the sixth mass extinction, with extinction rates up to 1,000 times higher than natural background levels. Protecting biodiversity is not just about saving charismatic species like pandas or tigers; it is about maintaining the intricate web of life that sustains us all. International cooperation and local action are both necessary to reverse this trend. Without urgent measures, we risk undermining the very systems that support life on our planet.",
+     "correctAnswer": "生物多样性，即地球生命的多样性，对于生态系统健康和人类福祉至关重要。它为我们提供食物、清洁水源、药物以及气候调节。然而，人类活动如森林砍伐、污染和过度开发已导致物种迅速丧失。科学家警告称，我们正进入第六次大灭绝事件，灭绝速度比自然本底水平高出1000倍。保护生物多样性不仅仅是为了拯救熊猫或老虎等魅力物种，更是为了维持支撑所有生命的复杂生命网络。国际合作与地方行动对于扭转这一趋势都不可或缺。若不采取紧急措施，我们可能会破坏维系地球生命的根本系统。",
+     "sample": "生物多样性，即地球生命的多样性，对于生态系统健康和人类福祉至关重要。它为我们提供食物、清洁水源、药物以及气候调节。然而，人类活动如森林砍伐、污染和过度开发已导致物种迅速丧失。科学家警告称，我们正进入第六次大灭绝事件，灭绝速度比自然本底水平高出1000倍。保护生物多样性不仅仅是为了拯救熊猫或老虎等魅力物种，更是为了维持支撑所有生命的复杂生命网络。国际合作与地方行动对于扭转这一趋势都不可或缺。若不采取紧急措施，我们可能会破坏维系地球生命的根本系统。"
+    },
+    {
+     "id": "q2",
+     "type": "translation-passage",
+     "prompt": "将下列英文段落翻译成中文，要求忠实原文、语言流畅，符合汉语表达习惯。",
+     "sourceText": "The integration of technology in education has transformed classrooms worldwide. Digital tools like interactive whiteboards, online resources, and learning management systems enable personalized learning and real-time feedback. Students can access vast amounts of information and collaborate with peers across the globe. However, challenges remain: unequal access to devices and the internet exacerbates educational disparities, and excessive screen time raises concerns about health and attention spans. Moreover, effective integration requires teachers to adapt their pedagogies, which can be a daunting task without adequate training and support. While technology holds immense potential to enhance learning, its implementation must be thoughtful and inclusive to truly benefit all students.",
+     "correctAnswer": "技术融入教育已经改变了全世界的课堂。交互式白板、在线资源和学习管理系统等数字工具能够实现个性化学习和实时反馈。学生可以获取海量信息，并与全球同伴协作。然而，挑战依然存在：设备和互联网接入的不平等加剧了教育差距，而过长的屏幕时间也引发了对健康和注意力持续时间的担忧。此外，有效整合需要教师调整教学方法，如果没有充分的培训和支持，这可能是一项艰巨的任务。虽然技术具有提升学习的巨大潜力，但其实施必须周全且具有包容性，才能真正惠及所有学生。",
+     "sample": "技术融入教育已经改变了全世界的课堂。交互式白板、在线资源和学习管理系统等数字工具能够实现个性化学习和实时反馈。学生可以获取海量信息，并与全球同伴协作。然而，挑战依然存在：设备和互联网接入的不平等加剧了教育差距，而过长的屏幕时间也引发了对健康和注意力持续时间的担忧。此外，有效整合需要教师调整教学方法，如果没有充分的培训和支持，这可能是一项艰巨的任务。虽然技术具有提升学习的巨大潜力，但其实施必须周全且具有包容性，才能真正惠及所有学生。"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

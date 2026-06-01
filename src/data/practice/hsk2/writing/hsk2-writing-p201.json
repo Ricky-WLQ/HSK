@@ -1,0 +1,67 @@
+{
+ "id": "hsk2-writing-p201",
+ "level": "2",
+ "section": "writing",
+ "partKey": "writing-p2",
+ "title": "HSK2 Writing P2",
+ "titleZh": "书写 第二部分（写汉字）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请选出句中空缺的汉字。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "writing-fill-char",
+     "prompt": "我每天坐公共（qì）车去上班。",
+     "correctAnswer": "汽",
+     "acceptableAnswers": [
+      "汽"
+     ],
+     "pinyin": "wǒ měi tiān zuò gōng gòng qì chē qù shàng bān 。"
+    },
+    {
+     "id": "q2",
+     "type": "writing-fill-char",
+     "prompt": "这个苹果（hěn）好吃。",
+     "correctAnswer": "很",
+     "acceptableAnswers": [
+      "很"
+     ],
+     "pinyin": "zhè ge píng guǒ hěn hǎo chī 。"
+    },
+    {
+     "id": "q3",
+     "type": "writing-fill-char",
+     "prompt": "他（zhù）在北京。",
+     "correctAnswer": "住",
+     "acceptableAnswers": [
+      "住"
+     ],
+     "pinyin": "tā zhù zài běi jīng 。"
+    },
+    {
+     "id": "q4",
+     "type": "writing-fill-char",
+     "prompt": "请打开（chuāng）户。",
+     "correctAnswer": "窗",
+     "acceptableAnswers": [
+      "窗"
+     ],
+     "pinyin": "qǐng dǎ kāi chuāng hù 。"
+    },
+    {
+     "id": "q5",
+     "type": "writing-fill-char",
+     "prompt": "我喜欢喝（niú）奶。",
+     "correctAnswer": "牛",
+     "acceptableAnswers": [
+      "牛"
+     ],
+     "pinyin": "wǒ xǐ huān hē niú nǎi 。"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

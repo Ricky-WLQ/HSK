@@ -1,0 +1,67 @@
+{
+ "id": "hsk3-writing-p104",
+ "level": "3",
+ "section": "writing",
+ "partKey": "writing-p1",
+ "title": "HSK3 Writing P1",
+ "titleZh": "书写 第一部分（写汉字）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请根据拼音填写汉字：",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "writing-fill-char",
+     "prompt": "我每天吃早（fàn）。",
+     "correctAnswer": "饭",
+     "acceptableAnswers": [
+      "饭"
+     ],
+     "pinyin": "wǒ měi tiān chī zǎo fàn 。"
+    },
+    {
+     "id": "q2",
+     "type": "writing-fill-char",
+     "prompt": "今天的天气很（hǎo）。",
+     "correctAnswer": "好",
+     "acceptableAnswers": [
+      "好"
+     ],
+     "pinyin": "jīn tiān de tiān qì hěn hǎo 。"
+    },
+    {
+     "id": "q3",
+     "type": "writing-fill-char",
+     "prompt": "我（xiǎng）去买东西。",
+     "correctAnswer": "想",
+     "acceptableAnswers": [
+      "想"
+     ],
+     "pinyin": "wǒ xiǎng qù mǎi dōng xī 。"
+    },
+    {
+     "id": "q4",
+     "type": "writing-fill-char",
+     "prompt": "他住在（běi）京。",
+     "correctAnswer": "北",
+     "acceptableAnswers": [
+      "北"
+     ],
+     "pinyin": "tā zhù zài běi jīng 。"
+    },
+    {
+     "id": "q5",
+     "type": "writing-fill-char",
+     "prompt": "请（zuò）下。",
+     "correctAnswer": "坐",
+     "acceptableAnswers": [
+      "坐"
+     ],
+     "pinyin": "qǐng zuò xià 。"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

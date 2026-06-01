@@ -1,0 +1,67 @@
+{
+ "id": "hsk2-writing-p206",
+ "level": "2",
+ "section": "writing",
+ "partKey": "writing-p2",
+ "title": "HSK2 Writing P2",
+ "titleZh": "书写 第二部分（写汉字）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "下面的句子中缺少一个汉字，请根据拼音补全。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "writing-fill-char",
+     "prompt": "今天天气很（hǎo）。",
+     "correctAnswer": "好",
+     "acceptableAnswers": [
+      "好"
+     ],
+     "pinyin": "jīn tiān tiān qì hěn hǎo 。"
+    },
+    {
+     "id": "q2",
+     "type": "writing-fill-char",
+     "prompt": "我早上（hē）牛奶。",
+     "correctAnswer": "喝",
+     "acceptableAnswers": [
+      "喝"
+     ],
+     "pinyin": "wǒ zǎo shàng hē niú nǎi 。"
+    },
+    {
+     "id": "q3",
+     "type": "writing-fill-char",
+     "prompt": "他（zuò）公交车去学校。",
+     "correctAnswer": "坐",
+     "acceptableAnswers": [
+      "坐"
+     ],
+     "pinyin": "tā zuò gōng jiāo chē qù xué xiào 。"
+    },
+    {
+     "id": "q4",
+     "type": "writing-fill-char",
+     "prompt": "我们明天要（kǎo）试。",
+     "correctAnswer": "考",
+     "acceptableAnswers": [
+      "考"
+     ],
+     "pinyin": "wǒ men míng tiān yào kǎo shì 。"
+    },
+    {
+     "id": "q5",
+     "type": "writing-fill-char",
+     "prompt": "这个苹果很（dà）。",
+     "correctAnswer": "大",
+     "acceptableAnswers": [
+      "大"
+     ],
+     "pinyin": "zhè ge píng guǒ hěn dà 。"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

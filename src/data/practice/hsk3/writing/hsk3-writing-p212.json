@@ -1,0 +1,62 @@
+{
+ "id": "hsk3-writing-p212",
+ "level": "3",
+ "section": "writing",
+ "partKey": "writing-p2",
+ "title": "HSK3 Writing P2",
+ "titleZh": "书写 第二部分（看图写句子）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "根据图片和词语写出句子。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "跑步",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-7657308dad5333bc8152bed36bd768bd.png",
+     "correctAnswer": "他每天早上在公园里跑步。",
+     "sample": "他每天早上在公园里跑步。"
+    },
+    {
+     "id": "q2",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "打电话",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-a29be346961ced6dd38e6f7ab07c4153.png",
+     "correctAnswer": "妈妈正在给外婆打电话。",
+     "sample": "妈妈正在给外婆打电话。"
+    },
+    {
+     "id": "q3",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "做饭",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-5c80494696226e889ed8698148852bb6.png",
+     "correctAnswer": "爸爸在厨房里做饭。",
+     "sample": "爸爸在厨房里做饭。"
+    },
+    {
+     "id": "q4",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "看电视",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-7026061f3ca388c4f6857369f9c4d4d4.png",
+     "correctAnswer": "我们晚上一起看电视。",
+     "sample": "我们晚上一起看电视。"
+    },
+    {
+     "id": "q5",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "看书",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-179382b5f6c9f5b259222499d190011a.png",
+     "correctAnswer": "姐姐喜欢在晚上看书。",
+     "sample": "姐姐喜欢在晚上看书。"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

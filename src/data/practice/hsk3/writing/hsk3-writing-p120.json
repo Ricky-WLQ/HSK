@@ -1,0 +1,67 @@
+{
+ "id": "hsk3-writing-p120",
+ "level": "3",
+ "section": "writing",
+ "partKey": "writing-p1",
+ "title": "HSK3 Writing P1",
+ "titleZh": "书写 第一部分（写汉字）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请根据拼音和句子意思，在空白处填入正确的汉字。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "writing-fill-char",
+     "prompt": "明天我（xiǎng）去超市买东西。",
+     "correctAnswer": "想",
+     "acceptableAnswers": [
+      "想"
+     ],
+     "pinyin": "míng tiān wǒ xiǎng qù chāo shì mǎi dōng xī 。"
+    },
+    {
+     "id": "q2",
+     "type": "writing-fill-char",
+     "prompt": "你（kě）以在图书馆看书。",
+     "correctAnswer": "可",
+     "acceptableAnswers": [
+      "可"
+     ],
+     "pinyin": "nǐ kě yǐ zài tú shū guǎn kàn shū 。"
+    },
+    {
+     "id": "q3",
+     "type": "writing-fill-char",
+     "prompt": "请（bāng）我拿一下这个。",
+     "correctAnswer": "帮",
+     "acceptableAnswers": [
+      "帮"
+     ],
+     "pinyin": "qǐng bāng wǒ ná yī xià zhè ge 。"
+    },
+    {
+     "id": "q4",
+     "type": "writing-fill-char",
+     "prompt": "我们坐（fēi）机去上海。",
+     "correctAnswer": "飞",
+     "acceptableAnswers": [
+      "飞"
+     ],
+     "pinyin": "wǒ men zuò fēi jī qù shàng hǎi 。"
+    },
+    {
+     "id": "q5",
+     "type": "writing-fill-char",
+     "prompt": "他（xǐ）欢吃苹果吗？",
+     "correctAnswer": "喜",
+     "acceptableAnswers": [
+      "喜"
+     ],
+     "pinyin": "tā xǐ huān chī píng guǒ ma ？"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

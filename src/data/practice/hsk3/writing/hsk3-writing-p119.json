@@ -1,0 +1,67 @@
+{
+ "id": "hsk3-writing-p119",
+ "level": "3",
+ "section": "writing",
+ "partKey": "writing-p1",
+ "title": "HSK3 Writing P1",
+ "titleZh": "书写 第一部分（写汉字）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请根据句意和拼音，在空白处填入正确的汉字。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "writing-fill-char",
+     "prompt": "这个（dòng）物很可爱。",
+     "correctAnswer": "动",
+     "acceptableAnswers": [
+      "动"
+     ],
+     "pinyin": "zhè ge dòng wù hěn kě ài 。"
+    },
+    {
+     "id": "q2",
+     "type": "writing-fill-char",
+     "prompt": "我住在学校附（jìn）。",
+     "correctAnswer": "近",
+     "acceptableAnswers": [
+      "近"
+     ],
+     "pinyin": "wǒ zhù zài xué xiào fù jìn 。"
+    },
+    {
+     "id": "q3",
+     "type": "writing-fill-char",
+     "prompt": "他正在（xué）习英语。",
+     "correctAnswer": "学",
+     "acceptableAnswers": [
+      "学"
+     ],
+     "pinyin": "tā zhèng zài xué xí yīng yǔ 。"
+    },
+    {
+     "id": "q4",
+     "type": "writing-fill-char",
+     "prompt": "请把（wèn）题写在纸上。",
+     "correctAnswer": "问",
+     "acceptableAnswers": [
+      "问"
+     ],
+     "pinyin": "qǐng bǎ wèn tí xiě zài zhǐ shàng 。"
+    },
+    {
+     "id": "q5",
+     "type": "writing-fill-char",
+     "prompt": "我们去看（diàn）影吧。",
+     "correctAnswer": "电",
+     "acceptableAnswers": [
+      "电"
+     ],
+     "pinyin": "wǒ men qù kàn diàn yǐng ba 。"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

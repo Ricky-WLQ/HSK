@@ -1,0 +1,62 @@
+{
+ "id": "hsk4-writing-p103",
+ "level": "4",
+ "section": "writing",
+ "partKey": "writing-p1",
+ "title": "HSK4 Writing P1",
+ "titleZh": "写作 第一部分（看图写句子）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "看图，用给定的词语写一个句子。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "打扫",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-0fd4ad6c7120618e500f5ed1cc88667f.png",
+     "correctAnswer": "她正在用扫把打扫房间。",
+     "sample": "她正在用扫把打扫房间。"
+    },
+    {
+     "id": "q2",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "修理",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-638e673b47a285dadbde209e6e03c866.png",
+     "correctAnswer": "他在修理自行车的轮胎。",
+     "sample": "他在修理自行车的轮胎。"
+    },
+    {
+     "id": "q3",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "检查",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-79b53d85ed76b7025e8e9237f0fea323.png",
+     "correctAnswer": "医生在仔细检查病人的眼睛。",
+     "sample": "医生在仔细检查病人的眼睛。"
+    },
+    {
+     "id": "q4",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "准备",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-0b772d90f3fa1b14ea638a72844fd566.png",
+     "correctAnswer": "她正在准备明天旅行的行李。",
+     "sample": "她正在准备明天旅行的行李。"
+    },
+    {
+     "id": "q5",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "使用",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-26cf92b49b382974c11fe834ef5d8dca.png",
+     "correctAnswer": "他正在使用电脑学习。",
+     "sample": "他正在使用电脑学习。"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

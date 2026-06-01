@@ -1,0 +1,67 @@
+{
+ "id": "hsk2-writing-p211",
+ "level": "2",
+ "section": "writing",
+ "partKey": "writing-p2",
+ "title": "HSK2 Writing P2",
+ "titleZh": "书写 第二部分（写汉字）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "根据句子意思和拼音，写出空缺的汉字。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "writing-fill-char",
+     "prompt": "他（shì）我的朋友。",
+     "correctAnswer": "是",
+     "acceptableAnswers": [
+      "是"
+     ],
+     "pinyin": "tā shì wǒ de péng yǒu 。"
+    },
+    {
+     "id": "q2",
+     "type": "writing-fill-char",
+     "prompt": "我在家（kàn）电视。",
+     "correctAnswer": "看",
+     "acceptableAnswers": [
+      "看"
+     ],
+     "pinyin": "wǒ zài jiā kàn diàn shì 。"
+    },
+    {
+     "id": "q3",
+     "type": "writing-fill-char",
+     "prompt": "今天（hěn）热。",
+     "correctAnswer": "很",
+     "acceptableAnswers": [
+      "很"
+     ],
+     "pinyin": "jīn tiān hěn rè 。"
+    },
+    {
+     "id": "q4",
+     "type": "writing-fill-char",
+     "prompt": "我想（mǎi）一本书。",
+     "correctAnswer": "买",
+     "acceptableAnswers": [
+      "买"
+     ],
+     "pinyin": "wǒ xiǎng mǎi yī běn shū 。"
+    },
+    {
+     "id": "q5",
+     "type": "writing-fill-char",
+     "prompt": "你（qù）哪儿？",
+     "correctAnswer": "去",
+     "acceptableAnswers": [
+      "去"
+     ],
+     "pinyin": "nǐ qù nǎ ér ？"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

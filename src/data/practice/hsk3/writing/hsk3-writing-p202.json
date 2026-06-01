@@ -1,0 +1,62 @@
+{
+ "id": "hsk3-writing-p202",
+ "level": "3",
+ "section": "writing",
+ "partKey": "writing-p2",
+ "title": "HSK3 Writing P2",
+ "titleZh": "书写 第二部分（看图写句子）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请根据图片和给出的词语，写出一个完整的句子。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "跑步",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-7530482092ef0e97bd03b09ed3bfde3b.png",
+     "correctAnswer": "他每天早上跑步。",
+     "sample": "他每天早上跑步。"
+    },
+    {
+     "id": "q2",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "太阳",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-788e1c57f1cbb6dfaf1577c9fcedd38c.png",
+     "correctAnswer": "太阳从东方升起来。",
+     "sample": "太阳从东方升起来。"
+    },
+    {
+     "id": "q3",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "书包",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-fff4ec7f5d6e422a621ff58ee1da3805.png",
+     "correctAnswer": "我的书包很重，里面有很多书。",
+     "sample": "我的书包很重，里面有很多书。"
+    },
+    {
+     "id": "q4",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "画画",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-b642b3f4b8fb5668f8ccc306a574ffc1.png",
+     "correctAnswer": "妹妹在房间里画画。",
+     "sample": "妹妹在房间里画画。"
+    },
+    {
+     "id": "q5",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "手机",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-262160ce13ac0ee3e0d12a67e29baab3.png",
+     "correctAnswer": "爸爸用手机看新闻。",
+     "sample": "爸爸用手机看新闻。"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

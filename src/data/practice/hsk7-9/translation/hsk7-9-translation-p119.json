@@ -1,0 +1,33 @@
+{
+ "id": "hsk7-9-translation-p119",
+ "level": "7-9",
+ "section": "translation",
+ "partKey": "translation-p1",
+ "title": "HSK7-9 Translation P1",
+ "titleZh": "翻译 第一部分（英译中）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请将以下英文段落翻译成中文，要求忠实原文、语言流畅，符合HSK7-9级水平。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "translation-passage",
+     "prompt": "请将以下英文段落翻译成中文，要求忠实原文、语言流畅，符合HSK7-9级水平。",
+     "sourceText": "The rapid advancement of artificial intelligence is reshaping the global job market in unprecedented ways. While automation has historically affected primarily manual labor, AI now threatens cognitive tasks once considered secure. A recent study suggests that up to 30% of jobs in developed economies could be automated by 2030, displacing millions of workers. However, AI also creates new opportunities in fields like data analysis, machine learning engineering, and AI ethics. The challenge lies in ensuring that the workforce can adapt through reskilling and upskilling programs. Governments and businesses must collaborate to design education systems that equip people with the skills needed for an AI-driven economy. Without proactive measures, the gap between high-skilled and low-skilled workers will widen, exacerbating social inequality. The future of work depends on our ability to harness AI's potential while mitigating its disruptive effects.",
+     "correctAnswer": "人工智能的迅速进步正以前所未有的方式重塑全球就业市场。尽管历史上自动化主要影响体力劳动，但如今人工智能已开始威胁那些曾被视为安全的认知性任务。一项最新研究显示，到2030年，发达经济体中多达30%的工作岗位可能被自动化取代，导致数百万人失业。然而，人工智能也在数据分析、机器学习工程和人工智能伦理等领域创造了新的机遇。挑战在于如何通过再培训和技能提升项目帮助劳动力适应变化。政府和企业必须合作设计教育体系，使人们能够掌握人工智能驱动经济所需技能。若不采取积极措施，高技能与低技能劳动者之间的差距将扩大，加剧社会不平等。未来的工作取决于我们能否在发挥人工智能潜力的同时减轻其颠覆性影响。",
+     "sample": "人工智能的迅速进步正以前所未有的方式重塑全球就业市场。尽管历史上自动化主要影响体力劳动，但如今人工智能已开始威胁那些曾被视为安全的认知性任务。一项最新研究显示，到2030年，发达经济体中多达30%的工作岗位可能被自动化取代，导致数百万人失业。然而，人工智能也在数据分析、机器学习工程和人工智能伦理等领域创造了新的机遇。挑战在于如何通过再培训和技能提升项目帮助劳动力适应变化。政府和企业必须合作设计教育体系，使人们能够掌握人工智能驱动经济所需技能。若不采取积极措施，高技能与低技能劳动者之间的差距将扩大，加剧社会不平等。未来的工作取决于我们能否在发挥人工智能潜力的同时减轻其颠覆性影响。"
+    },
+    {
+     "id": "q2",
+     "type": "translation-passage",
+     "prompt": "请将以下英文段落翻译成中文，要求忠实原文、语言流畅，符合HSK7-9级水平。",
+     "sourceText": "Cultural heritage preservation is not merely an act of nostalgia but a vital investment in social resilience and identity. In an era of rapid globalization, many communities face the erosion of traditional practices, languages, and monuments. Yet, these elements form the bedrock of collective memory and belonging. For instance, the restoration of ancient architecture in cities like Kyoto or Fez attracts tourism while reinforcing local pride. However, preservation must be dynamic, integrating modern needs without compromising authenticity. UNESCO's World Heritage sites exemplify how international cooperation can safeguard irreplaceable treasures, but grassroots efforts are equally crucial. Local artisans passing down crafts, communities documenting oral histories, and schools teaching indigenous languages all contribute to a living heritage. As climate change threatens coastal heritage sites and urbanization consumes historic districts, the urgency grows. Balancing development with conservation requires ethical foresight and inclusive policies that honor the past while building the future.",
+     "correctAnswer": "文化遗产保护不仅仅是怀旧之情，更是对社会韧性和认同感的重要投资。在快速全球化的时代，许多社区面临传统习俗、语言和历史遗迹的侵蚀。然而，这些元素构成了集体记忆和归属感的基础。例如，京都或菲斯等城市对古老建筑的修复既吸引了旅游业，又增强了本地自豪感。但保护必须是动态的，要在不损害真实性的前提下融入现代需求。联合国教科文组织的世界遗产地展示了国际合作如何保护不可替代的珍宝，而基层努力同样至关重要。传承手艺的当地工匠、记录口述历史的社区以及教授土著语言的学校，共同构成了一种活态遗产。随着气候变化威胁沿海遗产地，城市化吞噬历史街区，紧迫性日益增加。平衡发展与保护需要伦理远见和包容性政策，在建设未来的同时尊重过去。",
+     "sample": "文化遗产保护不仅仅是怀旧之情，更是对社会韧性和认同感的重要投资。在快速全球化的时代，许多社区面临传统习俗、语言和历史遗迹的侵蚀。然而，这些元素构成了集体记忆和归属感的基础。例如，京都或菲斯等城市对古老建筑的修复既吸引了旅游业，又增强了本地自豪感。但保护必须是动态的，要在不损害真实性的前提下融入现代需求。联合国教科文组织的世界遗产地展示了国际合作如何保护不可替代的珍宝，而基层努力同样至关重要。传承手艺的当地工匠、记录口述历史的社区以及教授土著语言的学校，共同构成了一种活态遗产。随着气候变化威胁沿海遗产地，城市化吞噬历史街区，紧迫性日益增加。平衡发展与保护需要伦理远见和包容性政策，在建设未来的同时尊重过去。"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}

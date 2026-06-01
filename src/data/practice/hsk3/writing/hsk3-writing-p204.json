@@ -1,0 +1,62 @@
+{
+ "id": "hsk3-writing-p204",
+ "level": "3",
+ "section": "writing",
+ "partKey": "writing-p2",
+ "title": "HSK3 Writing P2",
+ "titleZh": "书写 第二部分（看图写句子）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请根据每个词语和场景描述，用该词语写一个完整的句子。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "电脑",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-039eba2747844998495cd3f91203530f.png",
+     "correctAnswer": "我每天用电脑写作业。",
+     "sample": "我每天用电脑写作业。"
+    },
+    {
+     "id": "q2",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "手机",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-8a94cc2cd93341c422de1041d3140d98.png",
+     "correctAnswer": "她正在用手机打电话。",
+     "sample": "她正在用手机打电话。"
+    },
+    {
+     "id": "q3",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "书包",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-d601040991206f1d7549f221d8c930f2.png",
+     "correctAnswer": "他把书放进书包里。",
+     "sample": "他把书放进书包里。"
+    },
+    {
+     "id": "q4",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "电视",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-04e9185b45b6194eefa379995625825e.png",
+     "correctAnswer": "我们一家人晚上看电视。",
+     "sample": "我们一家人晚上看电视。"
+    },
+    {
+     "id": "q5",
+     "type": "writing-sentence",
+     "prompt": "",
+     "givenWord": "椅子",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-8661af269c6e9123faeee8102f7eec39.png",
+     "correctAnswer": "他坐在椅子上看书。",
+     "sample": "他坐在椅子上看书。"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + SiliconFlow), HSK 3.0 new format"
+}
