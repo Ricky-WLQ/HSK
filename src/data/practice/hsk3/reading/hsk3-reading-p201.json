@@ -1,0 +1,89 @@
+{
+ "id": "hsk3-reading-p201",
+ "level": "3",
+ "section": "reading",
+ "partKey": "reading-p2",
+ "title": "HSK3 Reading P2",
+ "titleZh": "阅读 第二部分（词语填空）",
+ "groups": [
+  {
+   "instruction": "请从A-F中选择合适的词语填空，每个词语只能使用一次，其中有一个词语是多余的。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "考试",
+     "pinyin": "kǎo shì"
+    },
+    {
+     "label": "B",
+     "text": "已经",
+     "pinyin": "yǐ jīng"
+    },
+    {
+     "label": "C",
+     "text": "正在",
+     "pinyin": "zhèng zài"
+    },
+    {
+     "label": "D",
+     "text": "最近",
+     "pinyin": "zuì jìn"
+    },
+    {
+     "label": "E",
+     "text": "决定",
+     "pinyin": "jué dìng"
+    },
+    {
+     "label": "F",
+     "text": "应该",
+     "pinyin": "yīng gāi"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "他（ ）在教室里学习。",
+     "correctAnswer": "C",
+     "explanation": "表示动作正在进行，所以用“正在”。",
+     "id": "q1",
+     "type": "cloze-wordbank",
+     "pinyin": "tā （ ） zài jiào shì lǐ xué xí 。"
+    },
+    {
+     "prompt": "这个（ ）很难。",
+     "correctAnswer": "A",
+     "explanation": "“考试”是名词，指测验，放在这里合适。",
+     "id": "q2",
+     "type": "cloze-wordbank",
+     "pinyin": "zhè ge （ ） hěn nán 。"
+    },
+    {
+     "prompt": "我（ ）看完这本书了。",
+     "correctAnswer": "B",
+     "explanation": "表示动作已完成，用“已经”。",
+     "id": "q3",
+     "type": "cloze-wordbank",
+     "pinyin": "wǒ （ ） kàn wán zhè běn shū le 。"
+    },
+    {
+     "prompt": "你（ ）去图书馆吗？",
+     "correctAnswer": "F",
+     "explanation": "表示建议或义务，用“应该”。",
+     "id": "q4",
+     "type": "cloze-wordbank",
+     "pinyin": "nǐ （ ） qù tú shū guǎn ma ？"
+    },
+    {
+     "prompt": "你（ ）工作找得怎么样？",
+     "correctAnswer": "D",
+     "explanation": "询问最近的情况，用“最近”。",
+     "id": "q5",
+     "type": "cloze-wordbank",
+     "pinyin": "nǐ （ ） gōng zuò zhǎo dé zěn me yàng ？"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

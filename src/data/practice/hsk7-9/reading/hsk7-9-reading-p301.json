@@ -1,0 +1,68 @@
+{
+ "id": "hsk7-9-reading-p301",
+ "level": "7-9",
+ "section": "reading",
+ "partKey": "reading-p3",
+ "title": "HSK7-9 Reading P3",
+ "titleZh": "阅读 第三部分（简答题）",
+ "groups": [
+  {
+   "instruction": "阅读下面的短文，然后根据短文内容回答问题。每个问题答案不超过10个字。",
+   "passage": "丝绸之路是古代连接中国与中亚、欧洲的贸易路线，起源于汉代（公元前202年—公元220年）。张骞出使西域后，这条路线逐渐形成。它不仅促进了丝绸、茶叶、瓷器等商品交换，也传播了文化、宗教和技术。例如，佛教从印度经丝绸之路传入中国。唐代时，丝绸之路达到鼎盛，长安成为国际大都市。然而，随着海上贸易的发展，丝绸之路在宋代后逐渐衰落。近代以来，中国提出“一带一路”倡议，旨在复兴丝绸之路精神，促进沿线国家合作。",
+   "questions": [
+    {
+     "prompt": "丝绸之路起源于哪个朝代？",
+     "correctAnswer": "汉代",
+     "acceptableAnswers": [
+      "汉朝"
+     ],
+     "explanation": "原文中提到“丝绸之路……起源于汉代”。",
+     "id": "q1",
+     "type": "short-answer"
+    },
+    {
+     "prompt": "谁出使西域后丝绸之路逐渐形成？",
+     "correctAnswer": "张骞",
+     "acceptableAnswers": [
+      "张骞"
+     ],
+     "explanation": "原文中说“张骞出使西域后，这条路线逐渐形成”。",
+     "id": "q2",
+     "type": "short-answer"
+    },
+    {
+     "prompt": "哪些商品通过丝绸之路交换？",
+     "correctAnswer": "丝绸、茶叶、瓷器",
+     "acceptableAnswers": [
+      "丝绸茶叶瓷器"
+     ],
+     "explanation": "原文中提到“促进了丝绸、茶叶、瓷器等商品交换”。",
+     "id": "q3",
+     "type": "short-answer"
+    },
+    {
+     "prompt": "佛教从印度经什么路线传入中国？",
+     "correctAnswer": "丝绸之路",
+     "acceptableAnswers": [
+      "丝绸之路"
+     ],
+     "explanation": "原文中写“佛教从印度经丝绸之路传入中国”。",
+     "id": "q4",
+     "type": "short-answer"
+    },
+    {
+     "prompt": "丝绸之路在哪个朝代达到鼎盛？",
+     "correctAnswer": "唐代",
+     "acceptableAnswers": [
+      "唐朝"
+     ],
+     "explanation": "原文说“唐代时，丝绸之路达到鼎盛”。",
+     "id": "q5",
+     "type": "short-answer"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

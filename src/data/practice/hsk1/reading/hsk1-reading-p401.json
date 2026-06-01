@@ -1,0 +1,142 @@
+{
+ "id": "hsk1-reading-p401",
+ "level": "1",
+ "section": "reading",
+ "partKey": "reading-p4",
+ "title": "HSK1 Reading P4",
+ "titleZh": "阅读 第四部分（短句理解）",
+ "groups": [
+  {
+   "instruction": "请阅读下面的句子，然后回答问题。选择正确的答案。",
+   "questions": [
+    {
+     "prompt": "我弟弟八岁。★他多大了？",
+     "options": [
+      {
+       "label": "A",
+       "text": "八岁",
+       "pinyin": "bā suì"
+      },
+      {
+       "label": "B",
+       "text": "九岁",
+       "pinyin": "jiǔ suì"
+      },
+      {
+       "label": "C",
+       "text": "七岁",
+       "pinyin": "qī suì"
+      }
+     ],
+     "correctAnswer": "A",
+     "explanation": "句子说弟弟八岁，所以年龄是八岁。",
+     "id": "q1",
+     "type": "passage-mcq",
+     "pinyin": "wǒ dì di bā suì 。★ tā duō dà le ？"
+    },
+    {
+     "prompt": "妈妈在厨房喝水。★谁在喝水？",
+     "options": [
+      {
+       "label": "A",
+       "text": "爸爸",
+       "pinyin": "bà bà"
+      },
+      {
+       "label": "B",
+       "text": "妈妈",
+       "pinyin": "mā mā"
+      },
+      {
+       "label": "C",
+       "text": "弟弟",
+       "pinyin": "dì di"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "句子说妈妈在喝水，所以是妈妈。",
+     "id": "q2",
+     "type": "passage-mcq",
+     "pinyin": "mā mā zài chú fáng hē shuǐ 。★ shuí zài hē shuǐ ？"
+    },
+    {
+     "prompt": "今天星期二。★明天是星期几？",
+     "options": [
+      {
+       "label": "A",
+       "text": "星期一",
+       "pinyin": "xīng qī yī"
+      },
+      {
+       "label": "B",
+       "text": "星期二",
+       "pinyin": "xīng qī èr"
+      },
+      {
+       "label": "C",
+       "text": "星期三",
+       "pinyin": "xīng qī sān"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "今天是星期二，明天是星期三。",
+     "id": "q3",
+     "type": "passage-mcq",
+     "pinyin": "jīn tiān xīng qī èr 。★ míng tiān shì xīng qī jǐ ？"
+    },
+    {
+     "prompt": "我的书在桌子上。★书在哪里？",
+     "options": [
+      {
+       "label": "A",
+       "text": "椅子上",
+       "pinyin": "yǐ zi shàng"
+      },
+      {
+       "label": "B",
+       "text": "桌子上",
+       "pinyin": "zhuō zi shàng"
+      },
+      {
+       "label": "C",
+       "text": "床上",
+       "pinyin": "chuáng shàng"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "句子说书在桌子上。",
+     "id": "q4",
+     "type": "passage-mcq",
+     "pinyin": "wǒ de shū zài zhuō zi shàng 。★ shū zài nǎ lǐ ？"
+    },
+    {
+     "prompt": "我喜欢吃苹果。★我喜欢吃什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "香蕉",
+       "pinyin": "xiāng jiāo"
+      },
+      {
+       "label": "B",
+       "text": "苹果",
+       "pinyin": "píng guǒ"
+      },
+      {
+       "label": "C",
+       "text": "西瓜",
+       "pinyin": "xī guā"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "句子说喜欢吃苹果。",
+     "id": "q5",
+     "type": "passage-mcq",
+     "pinyin": "wǒ xǐ huān chī píng guǒ 。★ wǒ xǐ huān chī shén me ？"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

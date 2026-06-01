@@ -1,0 +1,118 @@
+{
+ "id": "hsk4-reading-p201",
+ "level": "4",
+ "section": "reading",
+ "partKey": "reading-p2",
+ "title": "HSK4 Reading P2",
+ "titleZh": "阅读 第二部分（短文理解）",
+ "groups": [
+  {
+   "instruction": "请阅读下面这段文字，然后根据内容选择正确答案。",
+   "passage": "你好！我下个月要去北京旅行。我打算坐飞机去，因为火车票很难买。我订了一个离故宫很近的酒店，这样很方便。我计划第一天去故宫，第二天去长城。我很期待这次旅行。你有什么建议吗？",
+   "questions": [
+    {
+     "prompt": "小明打算怎么去北京？",
+     "options": [
+      {
+       "label": "A",
+       "text": "坐火车"
+      },
+      {
+       "label": "B",
+       "text": "坐飞机"
+      },
+      {
+       "label": "C",
+       "text": "开车"
+      },
+      {
+       "label": "D",
+       "text": "走路"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "文中说“我打算坐飞机去”，所以小明是坐飞机去北京。",
+     "id": "q1",
+     "type": "passage-mcq"
+    },
+    {
+     "prompt": "小明订的酒店在哪里？",
+     "options": [
+      {
+       "label": "A",
+       "text": "离火车站很近"
+      },
+      {
+       "label": "B",
+       "text": "离故宫很近"
+      },
+      {
+       "label": "C",
+       "text": "离长城很近"
+      },
+      {
+       "label": "D",
+       "text": "离机场很远"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "文中说“我订了一个离故宫很近的酒店”，所以酒店离故宫近。",
+     "id": "q2",
+     "type": "passage-mcq"
+    },
+    {
+     "prompt": "小明第一天计划做什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "去长城"
+      },
+      {
+       "label": "B",
+       "text": "去故宫"
+      },
+      {
+       "label": "C",
+       "text": "去酒店"
+      },
+      {
+       "label": "D",
+       "text": "买火车票"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "文中说“我计划第一天去故宫”，所以小明第一天去故宫。",
+     "id": "q3",
+     "type": "passage-mcq"
+    },
+    {
+     "prompt": "小明对这次旅行有什么感觉？",
+     "options": [
+      {
+       "label": "A",
+       "text": "很担心"
+      },
+      {
+       "label": "B",
+       "text": "很紧张"
+      },
+      {
+       "label": "C",
+       "text": "很期待"
+      },
+      {
+       "label": "D",
+       "text": "很失望"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "文中说“我很期待这次旅行”，所以小明对旅行很期待。",
+     "id": "q4",
+     "type": "passage-mcq"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

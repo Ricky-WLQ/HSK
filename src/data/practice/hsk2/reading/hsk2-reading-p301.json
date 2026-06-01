@@ -1,0 +1,89 @@
+{
+ "id": "hsk2-reading-p301",
+ "level": "2",
+ "section": "reading",
+ "partKey": "reading-p3",
+ "title": "HSK2 Reading P3",
+ "titleZh": "阅读 第三部分（句子匹配）",
+ "groups": [
+  {
+   "instruction": "从下面选择正确的应答句子。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "好的，我马上来。",
+     "pinyin": "hǎo de ， wǒ mǎ shàng lái 。"
+    },
+    {
+     "label": "B",
+     "text": "一共十块五毛。",
+     "pinyin": "yī gòng shí kuài wǔ máo 。"
+    },
+    {
+     "label": "C",
+     "text": "是的，我喜欢喝茶。",
+     "pinyin": "shì de ， wǒ xǐ huān hē chá 。"
+    },
+    {
+     "label": "D",
+     "text": "他在图书馆看书。",
+     "pinyin": "tā zài tú shū guǎn kàn shū 。"
+    },
+    {
+     "label": "E",
+     "text": "今天天气很好。",
+     "pinyin": "jīn tiān tiān qì hěn hǎo 。"
+    },
+    {
+     "label": "F",
+     "text": "我不去，太远了。",
+     "pinyin": "wǒ bù qù ， tài yuǎn le 。"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "你什么时候来？",
+     "correctAnswer": "A",
+     "explanation": "A选项回答对方来的时间，表示马上就来。",
+     "id": "q1",
+     "type": "match",
+     "pinyin": "nǐ shén me shí hòu lái ？"
+    },
+    {
+     "prompt": "这个多少钱？",
+     "correctAnswer": "B",
+     "explanation": "B选项回答价格，一共十块五毛。",
+     "id": "q2",
+     "type": "match",
+     "pinyin": "zhè ge duō shǎo qián ？"
+    },
+    {
+     "prompt": "你喜欢喝茶吗？",
+     "correctAnswer": "C",
+     "explanation": "C选项肯定回答喜欢喝茶。",
+     "id": "q3",
+     "type": "match",
+     "pinyin": "nǐ xǐ huān hē chá ma ？"
+    },
+    {
+     "prompt": "他在哪里？",
+     "correctAnswer": "D",
+     "explanation": "D选项回答他在图书馆看书，说明地点。",
+     "id": "q4",
+     "type": "match",
+     "pinyin": "tā zài nǎ lǐ ？"
+    },
+    {
+     "prompt": "今天天气怎么样？",
+     "correctAnswer": "E",
+     "explanation": "E选项描述天气很好。",
+     "id": "q5",
+     "type": "match",
+     "pinyin": "jīn tiān tiān qì zěn me yàng ？"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

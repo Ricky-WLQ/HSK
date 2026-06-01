@@ -1,0 +1,142 @@
+{
+ "id": "hsk2-reading-p401",
+ "level": "2",
+ "section": "reading",
+ "partKey": "reading-p4",
+ "title": "HSK2 Reading P4",
+ "titleZh": "阅读 第四部分（短文理解）",
+ "groups": [
+  {
+   "instruction": "请阅读下面的短文，然后回答问题。",
+   "questions": [
+    {
+     "prompt": "她喜欢喝茶。★她喜欢喝什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "茶",
+       "pinyin": "chá"
+      },
+      {
+       "label": "B",
+       "text": "水",
+       "pinyin": "shuǐ"
+      },
+      {
+       "label": "C",
+       "text": "咖啡",
+       "pinyin": "kā fēi"
+      }
+     ],
+     "correctAnswer": "A",
+     "explanation": "短文说“她喜欢喝茶”。",
+     "id": "q1",
+     "type": "passage-mcq",
+     "pinyin": "tā xǐ huān hē chá 。★ tā xǐ huān hē shén me ？"
+    },
+    {
+     "prompt": "他每天去学校。★他每天去哪里？",
+     "options": [
+      {
+       "label": "A",
+       "text": "医院",
+       "pinyin": "yī yuàn"
+      },
+      {
+       "label": "B",
+       "text": "学校",
+       "pinyin": "xué xiào"
+      },
+      {
+       "label": "C",
+       "text": "商店",
+       "pinyin": "shāng diàn"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "短文说“他每天去学校”。",
+     "id": "q2",
+     "type": "passage-mcq",
+     "pinyin": "tā měi tiān qù xué xiào 。★ tā měi tiān qù nǎ lǐ ？"
+    },
+    {
+     "prompt": "她有一个妹妹。★她有一个什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "哥哥",
+       "pinyin": "gē gē"
+      },
+      {
+       "label": "B",
+       "text": "姐姐",
+       "pinyin": "jiě jiě"
+      },
+      {
+       "label": "C",
+       "text": "妹妹",
+       "pinyin": "mèi mèi"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "短文说“她有一个妹妹”。",
+     "id": "q3",
+     "type": "passage-mcq",
+     "pinyin": "tā yǒu yí gè mèi mèi 。★ tā yǒu yí gè shén me ？"
+    },
+    {
+     "prompt": "他今年十岁。★他多大了？",
+     "options": [
+      {
+       "label": "A",
+       "text": "十岁",
+       "pinyin": "shí suì"
+      },
+      {
+       "label": "B",
+       "text": "九岁",
+       "pinyin": "jiǔ suì"
+      },
+      {
+       "label": "C",
+       "text": "十一岁",
+       "pinyin": "shí yī suì"
+      }
+     ],
+     "correctAnswer": "A",
+     "explanation": "短文说“他今年十岁”。",
+     "id": "q4",
+     "type": "passage-mcq",
+     "pinyin": "tā jīn nián shí suì 。★ tā duō dà le ？"
+    },
+    {
+     "prompt": "她喜欢吃苹果。★她喜欢吃什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "苹果",
+       "pinyin": "píng guǒ"
+      },
+      {
+       "label": "B",
+       "text": "香蕉",
+       "pinyin": "xiāng jiāo"
+      },
+      {
+       "label": "C",
+       "text": "西瓜",
+       "pinyin": "xī guā"
+      }
+     ],
+     "correctAnswer": "A",
+     "explanation": "短文说“她喜欢吃苹果”。",
+     "id": "q5",
+     "type": "passage-mcq",
+     "pinyin": "tā xǐ huān chī píng guǒ 。★ tā xǐ huān chī shén me ？"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

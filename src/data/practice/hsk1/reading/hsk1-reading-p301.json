@@ -1,0 +1,89 @@
+{
+ "id": "hsk1-reading-p301",
+ "level": "1",
+ "section": "reading",
+ "partKey": "reading-p3",
+ "title": "HSK1 Reading P3",
+ "titleZh": "阅读 第三部分（选词填空）",
+ "groups": [
+  {
+   "instruction": "请从A-F中选择合适的词语填入句子（ ）中。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "我",
+     "pinyin": "wǒ"
+    },
+    {
+     "label": "B",
+     "text": "你",
+     "pinyin": "nǐ"
+    },
+    {
+     "label": "C",
+     "text": "好",
+     "pinyin": "hǎo"
+    },
+    {
+     "label": "D",
+     "text": "是",
+     "pinyin": "shì"
+    },
+    {
+     "label": "E",
+     "text": "不",
+     "pinyin": "bù"
+    },
+    {
+     "label": "F",
+     "text": "水",
+     "pinyin": "shuǐ"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "我（ ）学生。",
+     "correctAnswer": "D",
+     "explanation": "“是”表示判断，意思是“我是学生”。",
+     "id": "q1",
+     "type": "cloze-wordbank",
+     "pinyin": "wǒ （ ） xué shēng 。"
+    },
+    {
+     "prompt": "你（ ）吗？",
+     "correctAnswer": "C",
+     "explanation": "“你好吗？”是问候语，“好”表示状态。",
+     "id": "q2",
+     "type": "cloze-wordbank",
+     "pinyin": "nǐ （ ） ma ？"
+    },
+    {
+     "prompt": "他（ ）去。",
+     "correctAnswer": "E",
+     "explanation": "“不去”表示否定，“不”是否定副词。",
+     "id": "q3",
+     "type": "cloze-wordbank",
+     "pinyin": "tā （ ） qù 。"
+    },
+    {
+     "prompt": "（ ）喝水。",
+     "correctAnswer": "A",
+     "explanation": "“我喝水”表示主语“我”进行动作。",
+     "id": "q4",
+     "type": "cloze-wordbank",
+     "pinyin": "（ ） hē shuǐ 。"
+    },
+    {
+     "prompt": "（ ）是老师。",
+     "correctAnswer": "B",
+     "explanation": "“你是老师”中“你”是第二人称代词。",
+     "id": "q5",
+     "type": "cloze-wordbank",
+     "pinyin": "（ ） shì lǎo shī 。"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

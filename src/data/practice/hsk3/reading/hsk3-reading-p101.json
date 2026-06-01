@@ -1,0 +1,89 @@
+{
+ "id": "hsk3-reading-p101",
+ "level": "3",
+ "section": "reading",
+ "partKey": "reading-p1",
+ "title": "HSK3 Reading P1",
+ "titleZh": "阅读 第一部分（句子匹配）",
+ "groups": [
+  {
+   "instruction": "请为以下问题选择正确的搭配句。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "我每天坐公交车去上班。",
+     "pinyin": "wǒ měi tiān zuò gōng jiāo chē qù shàng bān 。"
+    },
+    {
+     "label": "B",
+     "text": "他最喜欢吃苹果和香蕉。",
+     "pinyin": "tā zuì xǐ huān chī píng guǒ hé xiāng jiāo 。"
+    },
+    {
+     "label": "C",
+     "text": "明天下午三点我们在学校见面。",
+     "pinyin": "míng tiān xià wǔ sān diǎn wǒ men zài xué xiào jiàn miàn 。"
+    },
+    {
+     "label": "D",
+     "text": "请把这本书放在桌子上。",
+     "pinyin": "qǐng bǎ zhè běn shū fàng zài zhuō zi shàng 。"
+    },
+    {
+     "label": "E",
+     "text": "她昨天买了一双新鞋子。",
+     "pinyin": "tā zuó tiān mǎi le yī shuāng xīn xié zi 。"
+    },
+    {
+     "label": "F",
+     "text": "这个电脑可以上网玩游戏。",
+     "pinyin": "zhè ge diàn nǎo kě yǐ shàng wǎng wán yóu xì 。"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "你每天怎么去上班？",
+     "correctAnswer": "A",
+     "explanation": "句子A说‘我每天坐公交车去上班’，与问题问‘每天怎么上班’的意思一致。",
+     "id": "q1",
+     "type": "match",
+     "pinyin": "nǐ měi tiān zěn me qù shàng bān ？"
+    },
+    {
+     "prompt": "他喜欢吃什么水果？",
+     "correctAnswer": "B",
+     "explanation": "句子B说‘他最喜欢吃苹果和香蕉’，苹果和香蕉都是水果，符合问题要求。",
+     "id": "q2",
+     "type": "match",
+     "pinyin": "tā xǐ huān chī shén me shuǐ guǒ ？"
+    },
+    {
+     "prompt": "我们什么时候在学校见面？",
+     "correctAnswer": "C",
+     "explanation": "句子C说‘明天下午三点我们在学校见面’，直接回答了见面的时间。",
+     "id": "q3",
+     "type": "match",
+     "pinyin": "wǒ men shén me shí hòu zài xué xiào jiàn miàn ？"
+    },
+    {
+     "prompt": "她的新鞋子是昨天买的吗？",
+     "correctAnswer": "E",
+     "explanation": "句子E说‘她昨天买了一双新鞋子’，说明鞋子是昨天买的，与问题一致。",
+     "id": "q4",
+     "type": "match",
+     "pinyin": "tā de xīn xié zi shì zuó tiān mǎi de ma ？"
+    },
+    {
+     "prompt": "书应该放在哪里？",
+     "correctAnswer": "D",
+     "explanation": "句子D说‘请把这本书放在桌子上’，告诉了我们书应该放的位置。",
+     "id": "q5",
+     "type": "match",
+     "pinyin": "shū yīng gāi fàng zài nǎ lǐ ？"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

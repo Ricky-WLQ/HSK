@@ -37,6 +37,8 @@ model User {
   sessions      Session[]
   accounts      Account[]
   vocabProgress VocabProgress[]
+  hskAttempts   HskAttempt[]
+  hskMistakes   HskMistake[]
 
   @@map("user")
 }
@@ -110,4 +112,49 @@ model VocabProgress {
 
   @@unique([userId, wordId])
   @@index([userId, level])
+}
+
+// ===== Phase 2: practice / exam engine =====
+
+// One attempt at a practice set / mock / diagnostic (per user, per content).
+model HskAttempt {
+  id             String    @id @default(cuid())
+  userId         String
+  user           User      @relation(fields: [userId], references: [id], onDelete: Cascade)
+  level          String // "1".."6","7-9"
+  section        String // "listening" | "reading" | "writing" | "translation" | "speaking"
+  contentId      String // practice set / exam id, e.g. "hsk3-reading-001"
+  kind           String    @default("practice") // "practice" | "mock" | "diagnostic"
+  status         String    @default("in_progress") // "in_progress" | "completed"
+  totalQuestions Int       @default(0)
+  correctCount   Int?
+  answers        String? // JSON { [questionId]: answer }
+  startedAt      DateTime  @default(now())
+  completedAt    DateTime?
+
+  @@index([userId, level, section])
+  @@index([userId, status])
+}
+
+// Wrong-answer mistake notebook + AI analysis.
+model HskMistake {
+  id              String   @id @default(cuid())
+  userId          String
+  user            User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  level           String
+  section         String
+  contentId       String
+  questionId      String
+  questionText    String
+  questionContext String?
+  options         String? // JSON array
+  userAnswer      String
+  correctAnswer   String
+  analysis        String? // JSON { summary, analysis, relatedVocab }
+  status          String   @default("new") // "new" | "reviewed" | "mastered"
+  createdAt       DateTime @default(now())
+  updatedAt       DateTime @updatedAt
+
+  @@unique([userId, level, section, contentId, questionId])
+  @@index([userId, level, section, status])
 }

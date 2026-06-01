@@ -1,0 +1,167 @@
+{
+ "generated": "2026-06-01T03:52:34.501910+00:00",
+ "sets": [
+  {
+   "id": "hsk1-reading-p201",
+   "level": "1",
+   "section": "reading",
+   "partKey": "reading-p2",
+   "title": "HSK1 Reading P2",
+   "titleZh": "阅读 第二部分（问答匹配）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk1-reading-p301",
+   "level": "1",
+   "section": "reading",
+   "partKey": "reading-p3",
+   "title": "HSK1 Reading P3",
+   "titleZh": "阅读 第三部分（选词填空）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk1-reading-p401",
+   "level": "1",
+   "section": "reading",
+   "partKey": "reading-p4",
+   "title": "HSK1 Reading P4",
+   "titleZh": "阅读 第四部分（短句理解）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk2-reading-p201",
+   "level": "2",
+   "section": "reading",
+   "partKey": "reading-p2",
+   "title": "HSK2 Reading P2",
+   "titleZh": "阅读 第二部分（选词填空）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk2-reading-p301",
+   "level": "2",
+   "section": "reading",
+   "partKey": "reading-p3",
+   "title": "HSK2 Reading P3",
+   "titleZh": "阅读 第三部分（句子匹配）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk2-reading-p401",
+   "level": "2",
+   "section": "reading",
+   "partKey": "reading-p4",
+   "title": "HSK2 Reading P4",
+   "titleZh": "阅读 第四部分（短文理解）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk3-reading-p101",
+   "level": "3",
+   "section": "reading",
+   "partKey": "reading-p1",
+   "title": "HSK3 Reading P1",
+   "titleZh": "阅读 第一部分（句子匹配）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk3-reading-p201",
+   "level": "3",
+   "section": "reading",
+   "partKey": "reading-p2",
+   "title": "HSK3 Reading P2",
+   "titleZh": "阅读 第二部分（词语填空）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk3-reading-p301",
+   "level": "3",
+   "section": "reading",
+   "partKey": "reading-p3",
+   "title": "HSK3 Reading P3",
+   "titleZh": "阅读 第三部分（短文理解）",
+   "questionCount": 4
+  },
+  {
+   "id": "hsk4-reading-p101",
+   "level": "4",
+   "section": "reading",
+   "partKey": "reading-p1",
+   "title": "HSK4 Reading P1",
+   "titleZh": "阅读 第一部分（选词填空）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk4-reading-p201",
+   "level": "4",
+   "section": "reading",
+   "partKey": "reading-p2",
+   "title": "HSK4 Reading P2",
+   "titleZh": "阅读 第二部分（短文理解）",
+   "questionCount": 4
+  },
+  {
+   "id": "hsk4-reading-p301",
+   "level": "4",
+   "section": "reading",
+   "partKey": "reading-p3",
+   "title": "HSK4 Reading P3",
+   "titleZh": "阅读 第二部分B（中篇理解）",
+   "questionCount": 4
+  },
+  {
+   "id": "hsk5-reading-p101",
+   "level": "5",
+   "section": "reading",
+   "partKey": "reading-p1",
+   "title": "HSK5 Reading P1",
+   "titleZh": "阅读 第三部分（长文理解）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk5-reading-p201",
+   "level": "5",
+   "section": "reading",
+   "partKey": "reading-p2",
+   "title": "HSK5 Reading P2",
+   "titleZh": "阅读 长文理解（二）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk6-reading-p101",
+   "level": "6",
+   "section": "reading",
+   "partKey": "reading-p1",
+   "title": "HSK6 Reading P1",
+   "titleZh": "阅读 第三部分（长篇阅读）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk6-reading-p201",
+   "level": "6",
+   "section": "reading",
+   "partKey": "reading-p2",
+   "title": "HSK6 Reading P2",
+   "titleZh": "阅读 长篇阅读（二）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk7-9-reading-p101",
+   "level": "7-9",
+   "section": "reading",
+   "partKey": "reading-p1",
+   "title": "HSK7-9 Reading P1",
+   "titleZh": "阅读 第一部分（长篇阅读理解）",
+   "questionCount": 6
+  },
+  {
+   "id": "hsk7-9-reading-p301",
+   "level": "7-9",
+   "section": "reading",
+   "partKey": "reading-p3",
+   "title": "HSK7-9 Reading P3",
+   "titleZh": "阅读 第三部分（简答题）",
+   "questionCount": 5
+  }
+ ]
+}

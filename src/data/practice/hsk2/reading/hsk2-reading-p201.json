@@ -1,0 +1,89 @@
+{
+ "id": "hsk2-reading-p201",
+ "level": "2",
+ "section": "reading",
+ "partKey": "reading-p2",
+ "title": "HSK2 Reading P2",
+ "titleZh": "阅读 第二部分（选词填空）",
+ "groups": [
+  {
+   "instruction": "从下面A-F的词语中选择合适的填入句子的空白处，每个词语只能用一次，有一个多余选项。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "高兴",
+     "pinyin": "gāo xìng"
+    },
+    {
+     "label": "B",
+     "text": "苹果",
+     "pinyin": "píng guǒ"
+    },
+    {
+     "label": "C",
+     "text": "商店",
+     "pinyin": "shāng diàn"
+    },
+    {
+     "label": "D",
+     "text": "喝",
+     "pinyin": "hē"
+    },
+    {
+     "label": "E",
+     "text": "漂亮",
+     "pinyin": "piào liàng"
+    },
+    {
+     "label": "F",
+     "text": "昨天",
+     "pinyin": "zuó tiān"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "我昨天去（ ）买了一个苹果。",
+     "correctAnswer": "C",
+     "explanation": "“商店”是卖东西的地方，句子说去买苹果，所以填“商店”。",
+     "id": "q1",
+     "type": "cloze-wordbank",
+     "pinyin": "wǒ zuó tiān qù （ ） mǎi le yí gè píng guǒ 。"
+    },
+    {
+     "prompt": "她今天很（ ）。",
+     "correctAnswer": "A",
+     "explanation": "“高兴”表示开心、快乐，形容心情好。",
+     "id": "q2",
+     "type": "cloze-wordbank",
+     "pinyin": "tā jīn tiān hěn （ ）。"
+    },
+    {
+     "prompt": "这个女孩真（ ）。",
+     "correctAnswer": "E",
+     "explanation": "“漂亮”形容人好看、美丽。",
+     "id": "q3",
+     "type": "cloze-wordbank",
+     "pinyin": "zhè ge nǚ hái zhēn （ ）。"
+    },
+    {
+     "prompt": "我喜欢（ ）水。",
+     "correctAnswer": "D",
+     "explanation": "“喝”是动词，表示饮用液体。",
+     "id": "q4",
+     "type": "cloze-wordbank",
+     "pinyin": "wǒ xǐ huān （ ） shuǐ 。"
+    },
+    {
+     "prompt": "他吃了两个（ ）。",
+     "correctAnswer": "B",
+     "explanation": "“苹果”是一种水果，可以吃。",
+     "id": "q5",
+     "type": "cloze-wordbank",
+     "pinyin": "tā chī le liǎng gè （ ）。"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

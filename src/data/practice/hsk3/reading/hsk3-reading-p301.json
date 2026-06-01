@@ -1,0 +1,118 @@
+{
+ "id": "hsk3-reading-p301",
+ "level": "3",
+ "section": "reading",
+ "partKey": "reading-p3",
+ "title": "HSK3 Reading P3",
+ "titleZh": "阅读 第三部分（短文理解）",
+ "groups": [
+  {
+   "instruction": "请阅读下面的短文，然后回答四个问题。每个问题有三个选项，请选择正确的答案。",
+   "passage": "周末，小明和爸爸一起去超市。他们先买了水果，小明想吃苹果，但爸爸说苹果太贵了，就买了香蕉。然后他们去书店买了两本书。回家后，小明很高兴，因为他最喜欢看书了。",
+   "questions": [
+    {
+     "prompt": "小明和爸爸去了什么地方？",
+     "options": [
+      {
+       "label": "A",
+       "text": "超市和书店",
+       "pinyin": "chāo shì hé shū diàn"
+      },
+      {
+       "label": "B",
+       "text": "超市和菜市场",
+       "pinyin": "chāo shì hé cài shì chǎng"
+      },
+      {
+       "label": "C",
+       "text": "水果店和书店",
+       "pinyin": "shuǐ guǒ diàn hé shū diàn"
+      }
+     ],
+     "correctAnswer": "A",
+     "explanation": "原文说'小明和爸爸一起去超市'和'然后他们去书店'，所以去了超市和书店。",
+     "id": "q1",
+     "type": "passage-mcq",
+     "pinyin": "xiǎo míng hé bà bà qù le shén me dì fāng ？"
+    },
+    {
+     "prompt": "他们买了什么水果？",
+     "options": [
+      {
+       "label": "A",
+       "text": "苹果",
+       "pinyin": "píng guǒ"
+      },
+      {
+       "label": "B",
+       "text": "香蕉",
+       "pinyin": "xiāng jiāo"
+      },
+      {
+       "label": "C",
+       "text": "苹果和香蕉",
+       "pinyin": "píng guǒ hé xiāng jiāo"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "原文说'爸爸说苹果太贵了，就买了香蕉'，所以只买了香蕉。",
+     "id": "q2",
+     "type": "passage-mcq",
+     "pinyin": "tā men mǎi le shén me shuǐ guǒ ？"
+    },
+    {
+     "prompt": "爸爸为什么没有买苹果？",
+     "options": [
+      {
+       "label": "A",
+       "text": "因为小明不喜欢苹果",
+       "pinyin": "yīn wèi xiǎo míng bù xǐ huān píng guǒ"
+      },
+      {
+       "label": "B",
+       "text": "因为苹果太贵了",
+       "pinyin": "yīn wèi píng guǒ tài guì le"
+      },
+      {
+       "label": "C",
+       "text": "因为超市没有苹果",
+       "pinyin": "yīn wèi chāo shì méi yǒu píng guǒ"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "原文明确说'爸爸说苹果太贵了'，所以因为贵没买。",
+     "id": "q3",
+     "type": "passage-mcq",
+     "pinyin": "bà bà wèi shén me méi yǒu mǎi píng guǒ ？"
+    },
+    {
+     "prompt": "小明为什么很高兴？",
+     "options": [
+      {
+       "label": "A",
+       "text": "因为买了水果",
+       "pinyin": "yīn wèi mǎi le shuǐ guǒ"
+      },
+      {
+       "label": "B",
+       "text": "因为他最喜欢看书",
+       "pinyin": "yīn wèi tā zuì xǐ huān kàn shū"
+      },
+      {
+       "label": "C",
+       "text": "因为爸爸给他买了玩具",
+       "pinyin": "yīn wèi bà bà gěi tā mǎi le wán jù"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "原文说'回家后，小明很高兴，因为他最喜欢看书了'，所以因为他喜欢书。",
+     "id": "q4",
+     "type": "passage-mcq",
+     "pinyin": "xiǎo míng wèi shén me hěn gāo xìng ？"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

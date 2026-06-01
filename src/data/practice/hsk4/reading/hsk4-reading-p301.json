@@ -1,0 +1,118 @@
+{
+ "id": "hsk4-reading-p301",
+ "level": "4",
+ "section": "reading",
+ "partKey": "reading-p3",
+ "title": "HSK4 Reading P3",
+ "titleZh": "阅读 第二部分B（中篇理解）",
+ "groups": [
+  {
+   "instruction": "请阅读下面的短文，然后回答问题。",
+   "passage": "我叫李明，今年二十岁，是北京大学的学生。我从小就对中国的历史和文化很感兴趣，所以决定学习中文。学习中文已经三年了。刚开始的时候，我觉得中文很难，尤其是发音和汉字。但是我没有放弃，每天坚持练习。我的中国朋友经常帮助我，我也经常看中文电影和听中文歌曲。最近我看了电影《我和我的祖国》，觉得很有意思。现在，我的中文水平提高了很多，已经可以和中国人自由交流了。我觉得学习一门语言最重要的是坚持和兴趣。如果有机会，我还想学习其他语言，比如日语和法语。",
+   "questions": [
+    {
+     "prompt": "李明学习中文多长时间了？",
+     "options": [
+      {
+       "label": "A",
+       "text": "一年"
+      },
+      {
+       "label": "B",
+       "text": "两年"
+      },
+      {
+       "label": "C",
+       "text": "三年"
+      },
+      {
+       "label": "D",
+       "text": "四年"
+      }
+     ],
+     "correctAnswer": "C",
+     "explanation": "文章提到“学习中文已经三年了”，所以正确答案是C。",
+     "id": "q1",
+     "type": "passage-mcq"
+    },
+    {
+     "prompt": "这篇文章主要讲什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "李明的大学生活"
+      },
+      {
+       "label": "B",
+       "text": "李明学习中文的经历"
+      },
+      {
+       "label": "C",
+       "text": "中国的电影和歌曲"
+      },
+      {
+       "label": "D",
+       "text": "学习语言的方法"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "全文围绕李明学习中文的过程和感受，所以主要讲的是学习中文的经历。选项D虽然提到方法，但不是重点。",
+     "id": "q2",
+     "type": "passage-mcq"
+    },
+    {
+     "prompt": "根据文章，我们可以知道什么？",
+     "options": [
+      {
+       "label": "A",
+       "text": "李明觉得中文很容易"
+      },
+      {
+       "label": "B",
+       "text": "李明不喜欢看中国电影"
+      },
+      {
+       "label": "C",
+       "text": "李明对中国文化没兴趣"
+      },
+      {
+       "label": "D",
+       "text": "李明学习中文很努力"
+      }
+     ],
+     "correctAnswer": "D",
+     "explanation": "文章说“每天坚持练习”，可见他很努力。A、B、C都与原文相反。",
+     "id": "q3",
+     "type": "passage-mcq"
+    },
+    {
+     "prompt": "李明还想学什么语言？",
+     "options": [
+      {
+       "label": "A",
+       "text": "英语和法语"
+      },
+      {
+       "label": "B",
+       "text": "日语和法语"
+      },
+      {
+       "label": "C",
+       "text": "日语和德语"
+      },
+      {
+       "label": "D",
+       "text": "法语和西班牙语"
+      }
+     ],
+     "correctAnswer": "B",
+     "explanation": "文章最后说“还想学习其他语言，比如日语和法语”，所以正确答案是B。",
+     "id": "q4",
+     "type": "passage-mcq"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

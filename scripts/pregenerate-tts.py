@@ -37,7 +37,7 @@ VOICE_KEY = "narrator"
 EDGE_VOICE = "zh-CN-XiaoxiaoNeural"  # must match src/lib/tts.ts narrator voice
 EDGE_RATE = "-10%"
 KEY_PREFIX = "tts/v1"
-CONCURRENCY = 8
+CONCURRENCY = 16
 GEN_TIMEOUT = 20
 MAX_RETRY = 6
 

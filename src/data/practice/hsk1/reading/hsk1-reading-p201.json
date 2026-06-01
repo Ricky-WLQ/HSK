@@ -1,0 +1,89 @@
+{
+ "id": "hsk1-reading-p201",
+ "level": "1",
+ "section": "reading",
+ "partKey": "reading-p2",
+ "title": "HSK1 Reading P2",
+ "titleZh": "阅读 第二部分（问答匹配）",
+ "groups": [
+  {
+   "instruction": "请从A-F中选择与每个问题或陈述相匹配的回应。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "我很好，谢谢。",
+     "pinyin": "wǒ hěn hǎo ， xiè xiè 。"
+    },
+    {
+     "label": "B",
+     "text": "我叫小李。",
+     "pinyin": "wǒ jiào xiǎo lǐ 。"
+    },
+    {
+     "label": "C",
+     "text": "不客气。",
+     "pinyin": "bú kè qì 。"
+    },
+    {
+     "label": "D",
+     "text": "今天很热。",
+     "pinyin": "jīn tiān hěn rè 。"
+    },
+    {
+     "label": "E",
+     "text": "我十岁。",
+     "pinyin": "wǒ shí suì 。"
+    },
+    {
+     "label": "F",
+     "text": "再见。",
+     "pinyin": "zài jiàn 。"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "你好吗？",
+     "correctAnswer": "A",
+     "explanation": "“你好吗？”是问候，通常回答“我很好，谢谢。”",
+     "id": "q1",
+     "type": "match",
+     "pinyin": "nǐ hǎo ma ？"
+    },
+    {
+     "prompt": "你叫什么？",
+     "correctAnswer": "B",
+     "explanation": "“你叫什么？”问名字，回答应介绍自己。",
+     "id": "q2",
+     "type": "match",
+     "pinyin": "nǐ jiào shén me ？"
+    },
+    {
+     "prompt": "谢谢你。",
+     "correctAnswer": "C",
+     "explanation": "“谢谢你。”是感谢，通常回答“不客气。”",
+     "id": "q3",
+     "type": "match",
+     "pinyin": "xiè xiè nǐ 。"
+    },
+    {
+     "prompt": "今天热吗？",
+     "correctAnswer": "D",
+     "explanation": "“今天热吗？”问天气，可回答“今天很热。”",
+     "id": "q4",
+     "type": "match",
+     "pinyin": "jīn tiān rè ma ？"
+    },
+    {
+     "prompt": "你几岁？",
+     "correctAnswer": "E",
+     "explanation": "“你几岁？”问年龄，回答“我十岁。”",
+     "id": "q5",
+     "type": "match",
+     "pinyin": "nǐ jǐ suì ？"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}

@@ -1,0 +1,74 @@
+{
+ "id": "hsk4-reading-p101",
+ "level": "4",
+ "section": "reading",
+ "partKey": "reading-p1",
+ "title": "HSK4 Reading P1",
+ "titleZh": "阅读 第一部分（选词填空）",
+ "groups": [
+  {
+   "instruction": "从A-E中选择合适的词语填空，每个词语只能用一次。",
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "复习"
+    },
+    {
+     "label": "B",
+     "text": "预习"
+    },
+    {
+     "label": "C",
+     "text": "考试"
+    },
+    {
+     "label": "D",
+     "text": "成绩"
+    },
+    {
+     "label": "E",
+     "text": "作业"
+    }
+   ],
+   "questions": [
+    {
+     "prompt": "明天有数学（ ），今晚我要好好准备。",
+     "correctAnswer": "C",
+     "explanation": "“考试”指对知识水平的测试，数学考试需要准备。",
+     "id": "q1",
+     "type": "cloze-wordbank"
+    },
+    {
+     "prompt": "老师布置了很多（ ），周末都做不完。",
+     "correctAnswer": "E",
+     "explanation": "“作业”是老师布置的课后练习任务，常用“布置作业”。",
+     "id": "q2",
+     "type": "cloze-wordbank"
+    },
+    {
+     "prompt": "每次上课前，我都先（ ）一下新内容。",
+     "correctAnswer": "B",
+     "explanation": "“预习”指课前自主学习新内容。",
+     "id": "q3",
+     "type": "cloze-wordbank"
+    },
+    {
+     "prompt": "他这次（ ）很好，考了全班第一。",
+     "correctAnswer": "D",
+     "explanation": "“成绩”指考试或学习的结果，这里说“成绩很好”。",
+     "id": "q4",
+     "type": "cloze-wordbank"
+    },
+    {
+     "prompt": "课后要经常（ ）学过的知识。",
+     "correctAnswer": "A",
+     "explanation": "“复习”指再次学习已学内容以加深记忆。",
+     "id": "q5",
+     "type": "cloze-wordbank"
+    }
+   ],
+   "id": "g1"
+  }
+ ],
+ "source": "AI-generated (DeepSeek), HSK 3.0 new format"
+}
