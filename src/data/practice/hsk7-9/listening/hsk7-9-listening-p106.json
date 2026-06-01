@@ -1,0 +1,64 @@
+{
+ "id": "hsk7-9-listening-p106",
+ "level": "7-9",
+ "section": "listening",
+ "partKey": "listening-p1",
+ "title": "HSK7-9 Listening P1",
+ "titleZh": "听力 第一部分（判断对错）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听一段录音，然后判断下列句子与录音内容是否一致，一致的打√，不一致的打×。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-statement-true-false",
+     "prompt": "中国风电和光伏发电装机容量已位居世界第一。",
+     "correctAnswer": "对",
+     "explanation": "录音中明确提到“中国风电和光伏发电装机容量已位居世界第一”，与此一致。"
+    },
+    {
+     "id": "q2",
+     "type": "listening-statement-true-false",
+     "prompt": "电网的消纳能力已足够支撑可再生能源的大规模发展。",
+     "correctAnswer": "错",
+     "explanation": "录音指出“电网的消纳能力与储能技术的不足仍是制约可再生能源大规模发展的瓶颈”，说明消纳能力不足。"
+    },
+    {
+     "id": "q3",
+     "type": "listening-statement-true-false",
+     "prompt": "专家认为智能电网建设已经完成。",
+     "correctAnswer": "错",
+     "explanation": "录音中说“未来需要加快智能电网建设”，表明智能电网建设尚未完成，仍需加快。"
+    },
+    {
+     "id": "q4",
+     "type": "listening-statement-true-false",
+     "prompt": "氢能因其清洁高效的特点，正逐渐成为能源转型的重要方向之一。",
+     "correctAnswer": "对",
+     "explanation": "录音最后一句提到“氢能作为二次能源，因其清洁高效的特点，正逐渐成为能源转型的重要方向之一”，说法一致。"
+    },
+    {
+     "id": "q5",
+     "type": "listening-statement-true-false",
+     "prompt": "中国已经实现了碳达峰、碳中和目标。",
+     "correctAnswer": "错",
+     "explanation": "录音说可再生能源发展“为实现碳达峰、碳中和目标奠定了坚实基础”，说明目标尚未实现，只是奠定基础。"
+    }
+   ],
+   "audio": {
+    "key": "listening/v1/eb6207fb1e88eb931f92a81cd150874186f9d8adb4409d4452d1c6b3660a91d7.mp3",
+    "lines": [
+     {
+      "speaker": "旁白",
+      "voice": "narrator",
+      "text": "近年来，中国在可再生能源领域取得了显著成就。根据最新统计，中国风电和光伏发电装机容量已位居世界第一，这为实现碳达峰、碳中和目标奠定了坚实基础。然而，电网的消纳能力与储能技术的不足仍是制约可再生能源大规模发展的瓶颈。专家指出，未来需要加快智能电网建设，并推动电力市场改革，以促进清洁能源的高效利用。此外，氢能作为二次能源，因其清洁高效的特点，正逐渐成为能源转型的重要方向之一。"
+     }
+    ],
+    "transcript": "近年来，中国在可再生能源领域取得了显著成就。根据最新统计，中国风电和光伏发电装机容量已位居世界第一，这为实现碳达峰、碳中和目标奠定了坚实基础。然而，电网的消纳能力与储能技术的不足仍是制约可再生能源大规模发展的瓶颈。专家指出，未来需要加快智能电网建设，并推动电力市场改革，以促进清洁能源的高效利用。此外，氢能作为二次能源，因其清洁高效的特点，正逐渐成为能源转型的重要方向之一。",
+    "transcriptPinyin": null
+   }
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

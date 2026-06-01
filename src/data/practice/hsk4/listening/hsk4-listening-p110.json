@@ -1,0 +1,690 @@
+{
+ "id": "hsk4-listening-p110",
+ "level": "4",
+ "section": "listening",
+ "partKey": "listening-p1",
+ "title": "HSK4 Listening P1",
+ "titleZh": "听力 第一部分（听对话选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听对话，然后根据对话选择正确的答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "女的今天是怎么来的？",
+     "correctAnswer": "B",
+     "explanation": "女的明确说坐公交车，因为堵车所以来晚了。",
+     "audio": {
+      "key": "listening/v1/7bfe24d0bfd106b305f9a017dbabdd6b0871f19058640b66bebf535124e7282a.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你今天怎么来晚了？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "路上堵车，我坐的公交车一个多小时才到。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "那下次可以试试坐地铁，可能快一些。"
+       }
+      ],
+      "transcript": "你今天怎么来晚了？ 路上堵车，我坐的公交车一个多小时才到。 那下次可以试试坐地铁，可能快一些。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "坐地铁"
+      },
+      {
+       "label": "B",
+       "text": "坐公交车"
+      },
+      {
+       "label": "C",
+       "text": "开车"
+      },
+      {
+       "label": "D",
+       "text": "走路"
+      }
+     ]
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "男的周末晚上打算做什么？",
+     "correctAnswer": "B",
+     "explanation": "男的说先借书，晚上看电影，并且提到是动作片。",
+     "audio": {
+      "key": "listening/v1/f1281a2bdb479c5ec69d2876b0fa0a95f4c13f8c3c1c1d48de61e8fa65bed193.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你周末有什么安排吗？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我打算去图书馆借几本书，然后晚上看一场电影。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "看电影？最近有什么好片子？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "有一部新的动作片，评分很高。"
+       }
+      ],
+      "transcript": "你周末有什么安排吗？ 我打算去图书馆借几本书，然后晚上看一场电影。 看电影？最近有什么好片子？ 有一部新的动作片，评分很高。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "借书"
+      },
+      {
+       "label": "B",
+       "text": "看动作片"
+      },
+      {
+       "label": "C",
+       "text": "去图书馆"
+      },
+      {
+       "label": "D",
+       "text": "在家休息"
+      }
+     ]
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "女的现在身体怎么样？",
+     "correctAnswer": "C",
+     "explanation": "女的说好多了，但还有点咳嗽。",
+     "audio": {
+      "key": "listening/v1/f69632c958642f6dbf163429a7b492a9eacc81e6cc44b4a62456647e8c63837b.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你最近的感冒好些了吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "好多了，就是还有点咳嗽。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "那多喝点热水，注意休息。"
+       }
+      ],
+      "transcript": "你最近的感冒好些了吗？ 好多了，就是还有点咳嗽。 那多喝点热水，注意休息。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "还在发烧"
+      },
+      {
+       "label": "B",
+       "text": "完全好了"
+      },
+      {
+       "label": "C",
+       "text": "还有些咳嗽"
+      },
+      {
+       "label": "D",
+       "text": "很严重"
+      }
+     ]
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "男的准备在公司活动上做什么？",
+     "correctAnswer": "B",
+     "explanation": "男的说自己唱一首歌，需要练习。",
+     "audio": {
+      "key": "listening/v1/c151f6efdad3d068169bf0d6d1e4a6529f80b3591602a5a0d40c8136db58f89b.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我们公司下周要举办一个活动，需要大家准备节目。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "那我唱一首歌吧，不过我得先练习一下。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "好啊，你唱歌很好听，大家一定会喜欢的。"
+       }
+      ],
+      "transcript": "我们公司下周要举办一个活动，需要大家准备节目。 那我唱一首歌吧，不过我得先练习一下。 好啊，你唱歌很好听，大家一定会喜欢的。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "讲笑话"
+      },
+      {
+       "label": "B",
+       "text": "唱歌"
+      },
+      {
+       "label": "C",
+       "text": "表演魔术"
+      },
+      {
+       "label": "D",
+       "text": "跳舞"
+      }
+     ]
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "女的昨天做了什么？",
+     "correctAnswer": "C",
+     "explanation": "女的说昨天去面试了，回答得还可以。",
+     "audio": {
+      "key": "listening/v1/d4da80f558a2a6d78304eaa7d7d033b93d2825e7b488f369c759b6c58f5c92ea.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你昨天去面试了吗？感觉怎么样？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "去了，面试官问了很多问题，我觉得自己回答得还可以。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "那就好，希望你能被录取。"
+       }
+      ],
+      "transcript": "你昨天去面试了吗？感觉怎么样？ 去了，面试官问了很多问题，我觉得自己回答得还可以。 那就好，希望你能被录取。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "去购物"
+      },
+      {
+       "label": "B",
+       "text": "去旅行"
+      },
+      {
+       "label": "C",
+       "text": "去面试"
+      },
+      {
+       "label": "D",
+       "text": "去上班"
+      }
+     ]
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "男的平时跑步跑多远？",
+     "correctAnswer": "D",
+     "explanation": "男的说自己平时只跑五公里，马拉松太长。",
+     "audio": {
+      "key": "listening/v1/49c893d3abecd4340e6fbc731c62f50c568aa9f337401a2109dc64d5c0afdbf4.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你那么喜欢运动，为什么不去参加马拉松？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "马拉松太长了，我平时只跑五公里。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "可以慢慢练习，从十公里开始。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你说得对，我试试看。"
+       }
+      ],
+      "transcript": "你那么喜欢运动，为什么不去参加马拉松？ 马拉松太长了，我平时只跑五公里。 可以慢慢练习，从十公里开始。 你说得对，我试试看。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "一公里"
+      },
+      {
+       "label": "B",
+       "text": "马拉松"
+      },
+      {
+       "label": "C",
+       "text": "十公里"
+      },
+      {
+       "label": "D",
+       "text": "五公里"
+      }
+     ]
+    },
+    {
+     "id": "q7",
+     "type": "listening-mcq",
+     "prompt": "他们晚上打算去哪里吃？",
+     "correctAnswer": "D",
+     "explanation": "女的说新开了一家日本料理店，男的说想吃寿司，所以是去日本料理店。",
+     "audio": {
+      "key": "listening/v1/4780fbc50f829553a7c5475896151bcb9c6337d1ee16085c7810ae91d9a57660.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "今天晚上想吃什么？我请客。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "听说新开了一家日本料理店，我们去尝尝吧。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "好啊，我正好也想吃寿司。"
+       }
+      ],
+      "transcript": "今天晚上想吃什么？我请客。 听说新开了一家日本料理店，我们去尝尝吧。 好啊，我正好也想吃寿司。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "中国餐馆"
+      },
+      {
+       "label": "B",
+       "text": "韩国烤肉店"
+      },
+      {
+       "label": "C",
+       "text": "法国餐厅"
+      },
+      {
+       "label": "D",
+       "text": "日本料理店"
+      }
+     ]
+    },
+    {
+     "id": "q8",
+     "type": "listening-mcq",
+     "prompt": "男的电脑什么时候能修好？",
+     "correctAnswer": "B",
+     "explanation": "店员说要等三天，所以三天后才能修好。",
+     "audio": {
+      "key": "listening/v1/4cf7973a8f9e6d54608299c2cb3520667ffe2d6c08f06dcd6d47ba30afdb3204.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你的电脑修好了吗？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "还没有，我昨天送去修，店员说要等三天。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "那你这几天怎么工作？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我先用公司的电脑。"
+       }
+      ],
+      "transcript": "你的电脑修好了吗？ 还没有，我昨天送去修，店员说要等三天。 那你这几天怎么工作？ 我先用公司的电脑。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "今天"
+      },
+      {
+       "label": "B",
+       "text": "三天后"
+      },
+      {
+       "label": "C",
+       "text": "昨天"
+      },
+      {
+       "label": "D",
+       "text": "一周后"
+      }
+     ]
+    },
+    {
+     "id": "q9",
+     "type": "listening-mcq",
+     "prompt": "女的哪一门考得不好？",
+     "correctAnswer": "C",
+     "explanation": "女的说英语只有78分，数学95分，所以英语不好。",
+     "audio": {
+      "key": "listening/v1/9a470dc03f2630e4abbd224002b751aa5a0dfda80f4552682f3dd622e1474a80.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你这次考试考得怎么样？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "数学考了95分，但是英语只有78分。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "英语还需要加油啊，下次多努力。"
+       }
+      ],
+      "transcript": "你这次考试考得怎么样？ 数学考了95分，但是英语只有78分。 英语还需要加油啊，下次多努力。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "数学"
+      },
+      {
+       "label": "B",
+       "text": "语文"
+      },
+      {
+       "label": "C",
+       "text": "英语"
+      },
+      {
+       "label": "D",
+       "text": "物理"
+      }
+     ]
+    },
+    {
+     "id": "q10",
+     "type": "listening-mcq",
+     "prompt": "女的明天打算做什么？",
+     "correctAnswer": "B",
+     "explanation": "因为下雨，女的改变计划，说今天在家看书，所以明天是看书。",
+     "audio": {
+      "key": "listening/v1/2d2ba786d038edc08755eceb9a3da27673548720b0cfcfbd6c2ba541bd76b3c9.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "明天天气怎么样？我想去爬山。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "天气预报说明天会下雨，爬山可能不太方便。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "那还是改天再去吧，今天先在家看书。"
+       }
+      ],
+      "transcript": "明天天气怎么样？我想去爬山。 天气预报说明天会下雨，爬山可能不太方便。 那还是改天再去吧，今天先在家看书。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "爬山"
+      },
+      {
+       "label": "B",
+       "text": "看书"
+      },
+      {
+       "label": "C",
+       "text": "逛街"
+      },
+      {
+       "label": "D",
+       "text": "看电影"
+      }
+     ]
+    },
+    {
+     "id": "q11",
+     "type": "listening-mcq",
+     "prompt": "女的弟弟现在上几年级？",
+     "correctAnswer": "D",
+     "explanation": "女的说弟弟上小学四年级。",
+     "audio": {
+      "key": "listening/v1/e5f5630c79fb5ba5d0ef7c5f00218feb68dcac4a8fec2139d4d81ddba7eeb1c6.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你弟弟现在多大了？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "他今年十岁，上小学四年级。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "时间过得真快，我记得他刚出生的时候。"
+       }
+      ],
+      "transcript": "你弟弟现在多大了？ 他今年十岁，上小学四年级。 时间过得真快，我记得他刚出生的时候。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "二年级"
+      },
+      {
+       "label": "B",
+       "text": "一年级"
+      },
+      {
+       "label": "C",
+       "text": "三年级"
+      },
+      {
+       "label": "D",
+       "text": "四年级"
+      }
+     ]
+    },
+    {
+     "id": "q12",
+     "type": "listening-mcq",
+     "prompt": "男的下班后首先做什么？",
+     "correctAnswer": "C",
+     "explanation": "男的说先锻炼一个小时，再回家做饭，所以首先去健身房。",
+     "audio": {
+      "key": "listening/v1/dd0698b27c7f2a32a7fab0e37fdce97c56c1cf3ac10a83c7c1139dc806a7cc63.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你平时下班后都做什么？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我一般先去健身房锻炼一个小时，然后回家做饭。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "那你很自律啊，我就坚持不下来。"
+       }
+      ],
+      "transcript": "你平时下班后都做什么？ 我一般先去健身房锻炼一个小时，然后回家做饭。 那你很自律啊，我就坚持不下来。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "看电影"
+      },
+      {
+       "label": "B",
+       "text": "睡觉"
+      },
+      {
+       "label": "C",
+       "text": "去健身房"
+      },
+      {
+       "label": "D",
+       "text": "回家做饭"
+      }
+     ]
+    },
+    {
+     "id": "q13",
+     "type": "listening-mcq",
+     "prompt": "女的为什么喜欢秋天？",
+     "correctAnswer": "D",
+     "explanation": "女的说喜欢秋天因为可以看红叶，同时天气也舒服，但主要提到看红叶。",
+     "audio": {
+      "key": "listening/v1/e61cba91f88178e3f2899b9f11faaa1318e0fe7aa900c0ab81f857a552a85624.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你最喜欢的季节是哪个？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我最喜欢秋天，因为天气不冷也不热，还可以看红叶。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我也喜欢秋天，感觉特别舒服。"
+       }
+      ],
+      "transcript": "你最喜欢的季节是哪个？ 我最喜欢秋天，因为天气不冷也不热，还可以看红叶。 我也喜欢秋天，感觉特别舒服。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "可以游泳"
+      },
+      {
+       "label": "B",
+       "text": "可以去滑雪"
+      },
+      {
+       "label": "C",
+       "text": "天气凉爽"
+      },
+      {
+       "label": "D",
+       "text": "可以看红叶"
+      }
+     ]
+    },
+    {
+     "id": "q14",
+     "type": "listening-mcq",
+     "prompt": "他们周六要去买什么？",
+     "correctAnswer": "A",
+     "explanation": "女的说要买牛奶和面包，男的说要买水果，所以牛奶、面包和水果都要买。",
+     "audio": {
+      "key": "listening/v1/57ef5db6c0dfc65e1c4e4d7c7138a58f0df7c68eba974f21f40831a3632c50a7.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "这个周末我们一起去超市吧，家里没有牛奶和面包了。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "好的，我还想买一些水果，比如苹果和香蕉。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "那我们周六上午去，人比较少。"
+       }
+      ],
+      "transcript": "这个周末我们一起去超市吧，家里没有牛奶和面包了。 好的，我还想买一些水果，比如苹果和香蕉。 那我们周六上午去，人比较少。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "牛奶、面包和水果"
+      },
+      {
+       "label": "B",
+       "text": "牛奶和面包"
+      },
+      {
+       "label": "C",
+       "text": "牛奶和水果"
+      },
+      {
+       "label": "D",
+       "text": "苹果和香蕉"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

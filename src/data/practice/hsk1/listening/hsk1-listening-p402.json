@@ -1,0 +1,202 @@
+{
+ "id": "hsk1-listening-p402",
+ "level": "1",
+ "section": "listening",
+ "partKey": "listening-p4",
+ "title": "HSK1 Listening P4",
+ "titleZh": "听力 第四部分（听问句选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听录音，然后选择正确答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "他叫什么？",
+     "correctAnswer": "B",
+     "explanation": "录音中说“我叫王明”，所以他的名字是王明。",
+     "audio": {
+      "key": "listening/v1/3bdf6f6cecca16150cc58dbbf1ca46370fff00009d57383eaacc8ddba7a607a9.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我叫王明，我是学生。"
+       }
+      ],
+      "transcript": "我叫王明，我是学生。",
+      "transcriptPinyin": "wǒ jiào wáng míng ， wǒ shì xué shēng 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "老师",
+       "pinyin": "lǎo shī"
+      },
+      {
+       "label": "B",
+       "text": "王明",
+       "pinyin": "wáng míng"
+      },
+      {
+       "label": "C",
+       "text": "学生",
+       "pinyin": "xué shēng"
+      }
+     ],
+     "pinyin": "tā jiào shén me ？"
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "现在几点？",
+     "correctAnswer": "C",
+     "explanation": "录音中说“现在八点”，所以时间是八点。",
+     "audio": {
+      "key": "listening/v1/64177776e54d70ca812075ccc6446f28844aae41fab6205330e2c7f05bd2162e.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "现在几点？现在八点。"
+       }
+      ],
+      "transcript": "现在几点？现在八点。",
+      "transcriptPinyin": "xiàn zài jǐ diǎn ？ xiàn zài bā diǎn 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "九点",
+       "pinyin": "jiǔ diǎn"
+      },
+      {
+       "label": "B",
+       "text": "七点",
+       "pinyin": "qī diǎn"
+      },
+      {
+       "label": "C",
+       "text": "八点",
+       "pinyin": "bā diǎn"
+      }
+     ],
+     "pinyin": "xiàn zài jǐ diǎn ？"
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "书在哪儿？",
+     "correctAnswer": "A",
+     "explanation": "录音中说“我的书在桌子上”，所以书在桌子上。",
+     "audio": {
+      "key": "listening/v1/3d8948b640849b33cea07c5a2c8a57a6aa13d19d544b46767e7d7cfc1375a3c3.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我的书在桌子上。"
+       }
+      ],
+      "transcript": "我的书在桌子上。",
+      "transcriptPinyin": "wǒ de shū zài zhuō zi shàng 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "桌子上",
+       "pinyin": "zhuō zi shàng"
+      },
+      {
+       "label": "B",
+       "text": "椅子上",
+       "pinyin": "yǐ zi shàng"
+      },
+      {
+       "label": "C",
+       "text": "床上",
+       "pinyin": "chuáng shàng"
+      }
+     ],
+     "pinyin": "shū zài nǎ ér ？"
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "他多大了？",
+     "correctAnswer": "C",
+     "explanation": "录音中说“我今年十岁”，所以他十岁。",
+     "audio": {
+      "key": "listening/v1/f9dc4d96160f6a8d371639e6b5ebc6cc717f14a346b6550325f6e4347a77d7a8.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我今年十岁。"
+       }
+      ],
+      "transcript": "我今年十岁。",
+      "transcriptPinyin": "wǒ jīn nián shí suì 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "九岁",
+       "pinyin": "jiǔ suì"
+      },
+      {
+       "label": "B",
+       "text": "十一岁",
+       "pinyin": "shí yī suì"
+      },
+      {
+       "label": "C",
+       "text": "十岁",
+       "pinyin": "shí suì"
+      }
+     ],
+     "pinyin": "tā duō dà le ？"
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "他喜欢吃什么？",
+     "correctAnswer": "C",
+     "explanation": "录音中说“我喜欢吃苹果”，所以他喜欢吃苹果。",
+     "audio": {
+      "key": "listening/v1/ed47589bcbc8f1a72562415e9dcc218def14d54e187c70f5848f9b32ac6bb01a.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我喜欢吃苹果。"
+       }
+      ],
+      "transcript": "我喜欢吃苹果。",
+      "transcriptPinyin": "wǒ xǐ huān chī píng guǒ 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "橘子",
+       "pinyin": "jú zi"
+      },
+      {
+       "label": "B",
+       "text": "香蕉",
+       "pinyin": "xiāng jiāo"
+      },
+      {
+       "label": "C",
+       "text": "苹果",
+       "pinyin": "píng guǒ"
+      }
+     ],
+     "pinyin": "tā xǐ huān chī shén me ？"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

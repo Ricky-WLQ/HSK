@@ -1,0 +1,537 @@
+{
+ "id": "hsk5-listening-p103",
+ "level": "5",
+ "section": "listening",
+ "partKey": "listening-p1",
+ "title": "HSK5 Listening P1",
+ "titleZh": "听力 第一部分（听对话选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听对话，然后选择正确答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "女的打算怎么去云南？",
+     "correctAnswer": "B",
+     "explanation": "女的觉得机票贵，男的提议坐火车便宜，女的说去查火车票，所以她打算坐火车去云南。",
+     "audio": {
+      "key": "listening/v1/698af5593122f07095d9f022176a6cdd0c73432af0cf91cd8c0d9d4173692cdf.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你暑假打算去哪儿旅行？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我想去云南，但机票太贵了。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你可以坐火车，虽然时间长，但便宜很多。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "好主意，那我去查查火车票。"
+       }
+      ],
+      "transcript": "你暑假打算去哪儿旅行？ 我想去云南，但机票太贵了。 你可以坐火车，虽然时间长，但便宜很多。 好主意，那我去查查火车票。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "坐船"
+      },
+      {
+       "label": "B",
+       "text": "坐火车"
+      },
+      {
+       "label": "C",
+       "text": "坐飞机"
+      },
+      {
+       "label": "D",
+       "text": "开车"
+      }
+     ]
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "关于男的面试，我们可以知道什么？",
+     "correctAnswer": "A",
+     "explanation": "男的说面试官对他的工作经验挺满意，所以可以知道面试官对他的经验满意。",
+     "audio": {
+      "key": "listening/v1/a09af695e85428066f0faa0e8ea177c2297463bd23fe851c33a337d63a5e092a.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你昨天面试怎么样？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "还不错，面试官对我的工作经验挺满意的。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "那他们什么时候通知结果？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "可能下周一吧。"
+       }
+      ],
+      "transcript": "你昨天面试怎么样？ 还不错，面试官对我的工作经验挺满意的。 那他们什么时候通知结果？ 可能下周一吧。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "面试官对他的经验满意"
+      },
+      {
+       "label": "B",
+       "text": "面试官不满意"
+      },
+      {
+       "label": "C",
+       "text": "面试失败了"
+      },
+      {
+       "label": "D",
+       "text": "下周一还要面试"
+      }
+     ]
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "女的为什么脸色不好？",
+     "correctAnswer": "B",
+     "explanation": "女的解释是最近加班太多，每天只睡五六个小时，所以脸色不好的原因是加班太多。",
+     "audio": {
+      "key": "listening/v1/d138d944942e551c241bbccf607463f099f1171213319bf557b6193889096798.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你最近脸色不太好，是不是没休息好？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "是啊，最近加班太多，每天只睡五六个小时。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "那你得注意身体，健康最重要。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "嗯，我打算这周末好好休息。"
+       }
+      ],
+      "transcript": "你最近脸色不太好，是不是没休息好？ 是啊，最近加班太多，每天只睡五六个小时。 那你得注意身体，健康最重要。 嗯，我打算这周末好好休息。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "生病了"
+      },
+      {
+       "label": "B",
+       "text": "加班太多"
+      },
+      {
+       "label": "C",
+       "text": "运动太少"
+      },
+      {
+       "label": "D",
+       "text": "心情不好"
+      }
+     ]
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "男的为了提高成绩做了什么？",
+     "correctAnswer": "C",
+     "explanation": "男的说每天多做练习题并请教老师，所以提高成绩的方法是多做练习题。",
+     "audio": {
+      "key": "listening/v1/aa8229fee73c95ffcbc95069f1454214272d2748b4c7e2f26cd50142f718a728.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "这次数学考试你考得怎么样？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "考了85分，比上次进步了。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "不错啊，你是怎么做到的？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我每天多做练习题，还请教了老师。"
+       }
+      ],
+      "transcript": "这次数学考试你考得怎么样？ 考了85分，比上次进步了。 不错啊，你是怎么做到的？ 我每天多做练习题，还请教了老师。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "每天多睡觉"
+      },
+      {
+       "label": "B",
+       "text": "少玩游戏"
+      },
+      {
+       "label": "C",
+       "text": "多做练习题"
+      },
+      {
+       "label": "D",
+       "text": "请了家教"
+      }
+     ]
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "女的最后决定做什么？",
+     "correctAnswer": "A",
+     "explanation": "女的说“那我试试蓝色的吧”，说明她决定试穿蓝色的，后面可能会买蓝色的。",
+     "audio": {
+      "key": "listening/v1/ba7332f7eba8a2411cee0302d8b01d802abbefbad92d986606f81e8a8cfae75a.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "这件衣服你穿上很合适，颜色也好看。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "是吗？但我喜欢那件蓝色的。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "蓝色也不错，但我觉得这件更适合你。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "那我试试蓝色的吧。"
+       }
+      ],
+      "transcript": "这件衣服你穿上很合适，颜色也好看。 是吗？但我喜欢那件蓝色的。 蓝色也不错，但我觉得这件更适合你。 那我试试蓝色的吧。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "买蓝色的"
+      },
+      {
+       "label": "B",
+       "text": "买红色的"
+      },
+      {
+       "label": "C",
+       "text": "什么都不买"
+      },
+      {
+       "label": "D",
+       "text": "两件都买"
+      }
+     ]
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "王先生现在要做什么？",
+     "correctAnswer": "B",
+     "explanation": "王先生说需要先打个电话，所以他现在要打电话。",
+     "audio": {
+      "key": "listening/v1/556f208ae8fadc57a6db9e01773553a5ed4a8b079efd77d7f8316d8fc9711206.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "王先生，您预约的是下午三点，现在可以开始了。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "好的，但我需要先打个电话。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "没问题，请尽快，后面还有客人。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "好的，我马上。"
+       }
+      ],
+      "transcript": "王先生，您预约的是下午三点，现在可以开始了。 好的，但我需要先打个电话。 没问题，请尽快，后面还有客人。 好的，我马上。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "见客人"
+      },
+      {
+       "label": "B",
+       "text": "打电话"
+      },
+      {
+       "label": "C",
+       "text": "开始治疗"
+      },
+      {
+       "label": "D",
+       "text": "离开"
+      }
+     ]
+    },
+    {
+     "id": "q7",
+     "type": "listening-mcq",
+     "prompt": "关于天气，我们可以知道什么？",
+     "correctAnswer": "C",
+     "explanation": "男的说天气预报经常不准，所以可以知道这一点。",
+     "audio": {
+      "key": "listening/v1/1b4afda7b9f0f1e519548621e0687cd33b1e16ebde6c6a23999ce93ea805494b.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "今天天气预报说下午有雨，你带伞了吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "带了，但我觉得雨不大，应该不用撑伞。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你还是带着吧，天气预报经常不准。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "好吧，谢谢提醒。"
+       }
+      ],
+      "transcript": "今天天气预报说下午有雨，你带伞了吗？ 带了，但我觉得雨不大，应该不用撑伞。 你还是带着吧，天气预报经常不准。 好吧，谢谢提醒。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "下午一定下雨"
+      },
+      {
+       "label": "B",
+       "text": "男的没带伞"
+      },
+      {
+       "label": "C",
+       "text": "天气预报经常不准"
+      },
+      {
+       "label": "D",
+       "text": "女的不带伞"
+      }
+     ]
+    },
+    {
+     "id": "q8",
+     "type": "listening-mcq",
+     "prompt": "男的周末喜欢做什么？",
+     "correctAnswer": "C",
+     "explanation": "男的说特别喜欢钓鱼，所以周末喜欢钓鱼。",
+     "audio": {
+      "key": "listening/v1/871dc05c840866e6e3b2622e17698fbb0899aa5140f833e04ce021a837390895.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你周末喜欢做什么？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我特别喜欢钓鱼，有时候一钓就是一整天。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "那很有意思，能静下心来。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "是啊，钓鱼能让我放松。"
+       }
+      ],
+      "transcript": "你周末喜欢做什么？ 我特别喜欢钓鱼，有时候一钓就是一整天。 那很有意思，能静下心来。 是啊，钓鱼能让我放松。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "看电影"
+      },
+      {
+       "label": "B",
+       "text": "爬山"
+      },
+      {
+       "label": "C",
+       "text": "钓鱼"
+      },
+      {
+       "label": "D",
+       "text": "看书"
+      }
+     ]
+    },
+    {
+     "id": "q9",
+     "type": "listening-mcq",
+     "prompt": "女的为什么不吃辣子鸡？",
+     "correctAnswer": "D",
+     "explanation": "女的说不能吃太辣，所以她不吃辣子鸡是因为不能吃辣。",
+     "audio": {
+      "key": "listening/v1/1d109b6b3638728a8c1950eba8432e3c770b4bd10d0845234361e0285a378526.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "这家四川菜馆味道不错，我们点个辣子鸡吧。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我不能吃太辣，有没有不辣的菜？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "那点个清炒西兰花，一点都不辣。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "好的，再要一个汤。"
+       }
+      ],
+      "transcript": "这家四川菜馆味道不错，我们点个辣子鸡吧。 我不能吃太辣，有没有不辣的菜？ 那点个清炒西兰花，一点都不辣。 好的，再要一个汤。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "太贵了"
+      },
+      {
+       "label": "B",
+       "text": "不喜欢鸡肉"
+      },
+      {
+       "label": "C",
+       "text": "已经吃饱了"
+      },
+      {
+       "label": "D",
+       "text": "不能吃太辣"
+      }
+     ]
+    },
+    {
+     "id": "q10",
+     "type": "listening-mcq",
+     "prompt": "女的遇到了什么问题？",
+     "correctAnswer": "B",
+     "explanation": "女的说钱包不见了，所以问题是钱包丢了。",
+     "audio": {
+      "key": "listening/v1/03c45b1784e8588b3fd4b9376b320da57fdc530064fa30c2796e1a7bf75a5998.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我的钱包不见了，可能是忘在出租车上了。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你记得车牌号吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "不记得，但里面有重要证件。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "那你赶紧联系出租车公司。"
+       }
+      ],
+      "transcript": "我的钱包不见了，可能是忘在出租车上了。 你记得车牌号吗？ 不记得，但里面有重要证件。 那你赶紧联系出租车公司。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "钥匙丢了"
+      },
+      {
+       "label": "B",
+       "text": "钱包丢了"
+      },
+      {
+       "label": "C",
+       "text": "身份证丢了"
+      },
+      {
+       "label": "D",
+       "text": "手机丢了"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

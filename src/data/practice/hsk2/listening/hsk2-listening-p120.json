@@ -1,0 +1,117 @@
+{
+ "id": "hsk2-listening-p120",
+ "level": "2",
+ "section": "listening",
+ "partKey": "listening-p1",
+ "title": "HSK2 Listening P1",
+ "titleZh": "听力 第一部分（看图判断）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听句子，然后看图片，判断句子和图片是否一致，一致的选“对”，不一致的选“错”。注意：句子只念一遍。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "对",
+     "explanation": "图中的人正在看书，与句子描述一致。",
+     "audio": {
+      "key": "listening/v1/7318ea0dc2137fa427d38433371a44eaf2da442fe62f92d73c3dcce8f7c51de3.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "他在看书。"
+       }
+      ],
+      "transcript": "他在看书。",
+      "transcriptPinyin": "tā zài kàn shū 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-aaf923faa1bb4935c61443c5db865bc1.png"
+    },
+    {
+     "id": "q2",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "错",
+     "explanation": "句子说穿了红色的衣服，但图片中衣服是蓝色的，所以不一致。",
+     "audio": {
+      "key": "listening/v1/81f771e0c454abe9dc3a070380eb26b2c04ca95829556bebb8ad5b5fe151e49d.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "她今天穿了一件红色的衣服。"
+       }
+      ],
+      "transcript": "她今天穿了一件红色的衣服。",
+      "transcriptPinyin": "tā jīn tiān chuān le yī jiàn hóng sè de yī fú 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-66c5018532e51e4f52d0ab2fc137c9bf.png"
+    },
+    {
+     "id": "q3",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "错",
+     "explanation": "桌子上是香蕉，不是苹果，与句子描述不同。",
+     "audio": {
+      "key": "listening/v1/3a23894d5ed4c0169e66fe85ef0931cd5f77d7eed67876b660e212670e57e65b.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "桌子上有一个苹果。"
+       }
+      ],
+      "transcript": "桌子上有一个苹果。",
+      "transcriptPinyin": "zhuō zi shàng yǒu yí gè píng guǒ 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-82ffdfd0283228347009d4ed76c73137.png"
+    },
+    {
+     "id": "q4",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "错",
+     "explanation": "图中的人在踢足球，不是打篮球，所以不一致。",
+     "audio": {
+      "key": "listening/v1/8ba057460cd64c202c12ba563f0d4df3bf3429ea82ec7fb7127846df6d9cf9b0.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "他们在打篮球。"
+       }
+      ],
+      "transcript": "他们在打篮球。",
+      "transcriptPinyin": "tā men zài dǎ lán qiú 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-d272aacf0282fc08b40bef21e3744f10.png"
+    },
+    {
+     "id": "q5",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "对",
+     "explanation": "图中妈妈正在厨房做饭，与句子描述一致。",
+     "audio": {
+      "key": "listening/v1/c528f91aff3ccb5fa56b2b0f4ffd3ebb93deca475d911fd91b169c3abc29e017.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "妈妈在做饭。"
+       }
+      ],
+      "transcript": "妈妈在做饭。",
+      "transcriptPinyin": "mā mā zài zuò fàn 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-5eeea6d1df010569ac50345a8b9c7c12.png"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

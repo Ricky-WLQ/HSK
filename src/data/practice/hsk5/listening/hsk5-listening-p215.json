@@ -1,0 +1,179 @@
+{
+ "id": "hsk5-listening-p215",
+ "level": "5",
+ "section": "listening",
+ "partKey": "listening-p2",
+ "title": "HSK5 Listening P2",
+ "titleZh": "听力 第二部分（听短文选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "你将听到一段关于李华在北京生活经历的独白。请根据独白内容回答6个问题。每个问题有四个选项，选择最合适的答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "李华为什么来到北京？",
+     "correctAnswer": "B",
+     "explanation": "独白开头提到“因为工作调动来到了北京”，所以原因是为了工作。",
+     "options": [
+      {
+       "label": "A",
+       "text": "旅游"
+      },
+      {
+       "label": "B",
+       "text": "工作"
+      },
+      {
+       "label": "C",
+       "text": "探亲"
+      },
+      {
+       "label": "D",
+       "text": "学习"
+      }
+     ]
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "李华最初遇到的最大挑战是什么？",
+     "correctAnswer": "A",
+     "explanation": "独白中明确说“最大的问题是，她一个人都不认识，感到很孤独”，所以孤独是最大挑战。",
+     "options": [
+      {
+       "label": "A",
+       "text": "感到孤独"
+      },
+      {
+       "label": "B",
+       "text": "工作太难"
+      },
+      {
+       "label": "C",
+       "text": "气候不适"
+      },
+      {
+       "label": "D",
+       "text": "语言不通"
+      }
+     ]
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "李华是怎样克服这个挑战的？",
+     "correctAnswer": "D",
+     "explanation": "独白说“她决定主动去认识新朋友”，并报名参加烹饪班，这帮助她交到了朋友。",
+     "options": [
+      {
+       "label": "A",
+       "text": "每天给朋友打电话"
+      },
+      {
+       "label": "B",
+       "text": "请家人来北京"
+      },
+      {
+       "label": "C",
+       "text": "换了一份工作"
+      },
+      {
+       "label": "D",
+       "text": "主动认识新朋友"
+      }
+     ]
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "李华在烹饪班学会了什么？",
+     "correctAnswer": "A",
+     "explanation": "独白中提到“报名参加了一个烹饪班，学习做北京菜”，并且具体学会了北京烤鸭和炸酱面。",
+     "options": [
+      {
+       "label": "A",
+       "text": "做北京菜"
+      },
+      {
+       "label": "B",
+       "text": "做甜点"
+      },
+      {
+       "label": "C",
+       "text": "做西餐"
+      },
+      {
+       "label": "D",
+       "text": "做南方菜"
+      }
+     ]
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "李华是怎样交到朋友的？",
+     "correctAnswer": "D",
+     "explanation": "独白明确说“在班上，她认识了一些本地人，慢慢地和他们成了好朋友”。",
+     "options": [
+      {
+       "label": "A",
+       "text": "在公园里聊天"
+      },
+      {
+       "label": "B",
+       "text": "通过同事介绍"
+      },
+      {
+       "label": "C",
+       "text": "通过参加网络活动"
+      },
+      {
+       "label": "D",
+       "text": "在烹饪班认识本地人"
+      }
+     ]
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "李华现在对在北京的生活感觉如何？",
+     "correctAnswer": "A",
+     "explanation": "独白结尾说“生活也变得越来越有趣”，并且她认为只要有勇气和耐心就能适应。",
+     "options": [
+      {
+       "label": "A",
+       "text": "变得有趣了"
+      },
+      {
+       "label": "B",
+       "text": "打算离开"
+      },
+      {
+       "label": "C",
+       "text": "仍然很困难"
+      },
+      {
+       "label": "D",
+       "text": "越来越无聊"
+      }
+     ]
+    }
+   ],
+   "audio": {
+    "key": "listening/v1/02ddc7ba05ad03cac774b644b27bf1bc88235d5d9c4ceafc06478134b1b4e3b8.mp3",
+    "lines": [
+     {
+      "speaker": "旁白",
+      "voice": "narrator",
+      "text": "去年，李华因为工作调动来到了北京。刚到这里的时候，她遇到了很多困难，比如语言不通、不适应北方的气候。最大的问题是，她一个人都不认识，感到很孤独。为了改变这种情况，她决定主动去认识新朋友。她报名参加了一个烹饪班，学习做北京菜。在班上，她认识了一些本地人，慢慢地和他们成了好朋友。她还学会了做北京烤鸭和炸酱面。现在，李华不仅工作顺利，生活也变得越来越有趣。她认为，只要有勇气和耐心，就能适应新的环境，交到真正的朋友。"
+     }
+    ],
+    "transcript": "去年，李华因为工作调动来到了北京。刚到这里的时候，她遇到了很多困难，比如语言不通、不适应北方的气候。最大的问题是，她一个人都不认识，感到很孤独。为了改变这种情况，她决定主动去认识新朋友。她报名参加了一个烹饪班，学习做北京菜。在班上，她认识了一些本地人，慢慢地和他们成了好朋友。她还学会了做北京烤鸭和炸酱面。现在，李华不仅工作顺利，生活也变得越来越有趣。她认为，只要有勇气和耐心，就能适应新的环境，交到真正的朋友。",
+    "transcriptPinyin": null
+   }
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

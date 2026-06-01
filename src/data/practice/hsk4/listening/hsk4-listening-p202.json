@@ -1,0 +1,179 @@
+{
+ "id": "hsk4-listening-p202",
+ "level": "4",
+ "section": "listening",
+ "partKey": "listening-p2",
+ "title": "HSK4 Listening P2",
+ "titleZh": "听力 第二部分（听短文选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听一段独白，然后回答6个问题。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "说话人什么时候参加了汉语角活动？",
+     "correctAnswer": "C",
+     "explanation": "原文说“上个周末”，所以是上个周末。",
+     "options": [
+      {
+       "label": "A",
+       "text": "这个周末"
+      },
+      {
+       "label": "B",
+       "text": "下个周末"
+      },
+      {
+       "label": "C",
+       "text": "上个周末"
+      },
+      {
+       "label": "D",
+       "text": "周五下午"
+      }
+     ]
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "活动在什么地方举行？",
+     "correctAnswer": "A",
+     "explanation": "原文明确说“在图书馆旁边的教室里”。",
+     "options": [
+      {
+       "label": "A",
+       "text": "图书馆旁边的教室里"
+      },
+      {
+       "label": "B",
+       "text": "图书馆里"
+      },
+      {
+       "label": "C",
+       "text": "食堂"
+      },
+      {
+       "label": "D",
+       "text": "学校操场"
+      }
+     ]
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "活动持续了多长时间？",
+     "correctAnswer": "A",
+     "explanation": "从下午两点到四点，共两小时。",
+     "options": [
+      {
+       "label": "A",
+       "text": "两小时"
+      },
+      {
+       "label": "B",
+       "text": "三小时"
+      },
+      {
+       "label": "C",
+       "text": "四小时"
+      },
+      {
+       "label": "D",
+       "text": "一小时"
+      }
+     ]
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "说话人对活动感觉怎么样？",
+     "correctAnswer": "B",
+     "explanation": "原文说“我觉得非常有趣”。",
+     "options": [
+      {
+       "label": "A",
+       "text": "无聊"
+      },
+      {
+       "label": "B",
+       "text": "非常有趣"
+      },
+      {
+       "label": "C",
+       "text": "没意思"
+      },
+      {
+       "label": "D",
+       "text": "一般"
+      }
+     ]
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "说话人这次活动交到了什么？",
+     "correctAnswer": "B",
+     "explanation": "原文说“也交到了几个新朋友”。",
+     "options": [
+      {
+       "label": "A",
+       "text": "一个游戏"
+      },
+      {
+       "label": "B",
+       "text": "几个新朋友"
+      },
+      {
+       "label": "C",
+       "text": "一本中文书"
+      },
+      {
+       "label": "D",
+       "text": "很多礼物"
+      }
+     ]
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "下次汉语角活动在什么时候？",
+     "correctAnswer": "D",
+     "explanation": "原文说“下次活动在周五下午”。",
+     "options": [
+      {
+       "label": "A",
+       "text": "周六上午"
+      },
+      {
+       "label": "B",
+       "text": "下周一"
+      },
+      {
+       "label": "C",
+       "text": "周日晚上"
+      },
+      {
+       "label": "D",
+       "text": "周五下午"
+      }
+     ]
+    }
+   ],
+   "audio": {
+    "key": "listening/v1/6064e2294a836ea91978c66fbd5b24e12f5e667c8d519b1444b1c9022cb63931.mp3",
+    "lines": [
+     {
+      "speaker": "旁白",
+      "voice": "narrator",
+      "text": "大家好，我上个周末去参加了学校组织的汉语角活动。活动在图书馆旁边的教室里，从下午两点到四点。我们和外国留学生一起练习中文，还做了游戏。我觉得非常有趣，也交到了几个新朋友。下次活动在周五下午，我还会参加。"
+     }
+    ],
+    "transcript": "大家好，我上个周末去参加了学校组织的汉语角活动。活动在图书馆旁边的教室里，从下午两点到四点。我们和外国留学生一起练习中文，还做了游戏。我觉得非常有趣，也交到了几个新朋友。下次活动在周五下午，我还会参加。",
+    "transcriptPinyin": null
+   }
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

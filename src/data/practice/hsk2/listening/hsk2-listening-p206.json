@@ -1,0 +1,289 @@
+{
+ "id": "hsk2-listening-p206",
+ "level": "2",
+ "section": "listening",
+ "partKey": "listening-p2",
+ "title": "HSK2 Listening P2",
+ "titleZh": "听力 第二部分（看图听对话）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听对话，然后从A到F六张图片中选择与对话内容相符的一张。每段对话对应一张图片。注意：有一张图片没有被使用。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "A",
+     "explanation": "对话中提到“看一本书”，所以对应一个人看书的图片。",
+     "audio": {
+      "key": "listening/v1/89f4f44431bd57a04d6d3f5d240b7f12b06b11fdf54f71596d99b22d424cd460.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你在看什么？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我在看一本书。这本书很有意思。"
+       }
+      ],
+      "transcript": "你在看什么？ 我在看一本书。这本书很有意思。",
+      "transcriptPinyin": "nǐ zài kàn shén me ？  wǒ zài kàn yī běn shū 。 zhè běn shū hěn yǒu yì si 。"
+     }
+    },
+    {
+     "id": "q2",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "B",
+     "explanation": "对话中提到“渴了”和“水”，对应一个人喝水的图片。",
+     "audio": {
+      "key": "listening/v1/b71b1931e17d3d25ff40dbc4b0acfd013c04b5b03c820ac1ed650aff8e2d18ce.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我渴了，有水吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "有，给你。"
+       }
+      ],
+      "transcript": "我渴了，有水吗？ 有，给你。",
+      "transcriptPinyin": "wǒ kě le ， yǒu shuǐ ma ？  yǒu ， gěi nǐ 。"
+     }
+    },
+    {
+     "id": "q3",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "C",
+     "explanation": "对话中提到“狗”，对应狗的图片。",
+     "audio": {
+      "key": "listening/v1/2fd3035cddc2997c1ac4e31d2d4463c1113ac6abdc742605acff0b592413e1d9.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你家里有宠物吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "有，我有一只狗。"
+       }
+      ],
+      "transcript": "你家里有宠物吗？ 有，我有一只狗。",
+      "transcriptPinyin": "nǐ jiā lǐ yǒu chǒng wù ma ？  yǒu ， wǒ yǒu yī zhī gǒu 。"
+     }
+    },
+    {
+     "id": "q4",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "D",
+     "explanation": "对话中提到“开车”，对应汽车的图片。",
+     "audio": {
+      "key": "listening/v1/22a93acaa75998e46efaf27a17799329b5391aa21484fab6a4ec520af3680be0.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你怎么去上班？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我开车。"
+       }
+      ],
+      "transcript": "你怎么去上班？ 我开车。",
+      "transcriptPinyin": "nǐ zěn me qù shàng bān ？  wǒ kāi chē 。"
+     }
+    },
+    {
+     "id": "q5",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "E",
+     "explanation": "对话中提到“树”，对应树的图片。",
+     "audio": {
+      "key": "listening/v1/689ac40f9cac8600ac49afcfbc0f116270f3c3176ace9d1d9d26fffa5458bd49.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我们出去走走吧。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "好啊，外面有很多树。"
+       }
+      ],
+      "transcript": "我们出去走走吧。 好啊，外面有很多树。",
+      "transcriptPinyin": "wǒ men chū qù zǒu zǒu ba 。  hǎo a ， wài miàn yǒu hěn duō shù 。"
+     }
+    },
+    {
+     "id": "q6",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "A",
+     "explanation": "对话中再次提到“书”，对应看书图片。",
+     "audio": {
+      "key": "listening/v1/d673b40cb0561794d9ca1ecb9ecc2b4eba038517e7e0b32a1c013017bc7744fc.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "这本书好看吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "很好看，我每天都看。"
+       }
+      ],
+      "transcript": "这本书好看吗？ 很好看，我每天都看。",
+      "transcriptPinyin": "zhè běn shū hǎo kàn ma ？  hěn hǎo kàn ， wǒ měi tiān dōu kàn 。"
+     }
+    },
+    {
+     "id": "q7",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "B",
+     "explanation": "对话中提到“水”，对应喝水图片。",
+     "audio": {
+      "key": "listening/v1/d9d2f08f7b574f09815718b6a6280412a859692c7171dc94d5d55bae1007df16.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你要喝什么？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "水，谢谢。"
+       }
+      ],
+      "transcript": "你要喝什么？ 水，谢谢。",
+      "transcriptPinyin": "nǐ yào hē shén me ？  shuǐ ， xiè xiè 。"
+     }
+    },
+    {
+     "id": "q8",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "C",
+     "explanation": "对话中提到“狗”，对应狗图片。",
+     "audio": {
+      "key": "listening/v1/88958bdca82118bbbe41b32cc65083338f6d64f89764d7e822925bcd744b3e58.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你看，那只狗在跑。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "它跑得很快。"
+       }
+      ],
+      "transcript": "你看，那只狗在跑。 它跑得很快。",
+      "transcriptPinyin": "nǐ kàn ， nà zhǐ gǒu zài pǎo 。  tā pǎo dé hěn kuài 。"
+     }
+    },
+    {
+     "id": "q9",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "D",
+     "explanation": "对话中提到“车”，对应汽车图片。",
+     "audio": {
+      "key": "listening/v1/12b72c683e416a6acff3365daa425f142b528a059a9ed5ee13d828d3246d3718.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你的车是什么颜色的？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "白色的。"
+       }
+      ],
+      "transcript": "你的车是什么颜色的？ 白色的。",
+      "transcriptPinyin": "nǐ de chē shì shén me yán sè de ？  bái sè de 。"
+     }
+    },
+    {
+     "id": "q10",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "E",
+     "explanation": "对话中提到“树”，对应树图片。",
+     "audio": {
+      "key": "listening/v1/599d5a5af9e443943eff5250f06c8cab36ae2005df3dc48e8a3abf1c52f20061.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "这棵树很高。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "是啊，它有一百年了。"
+       }
+      ],
+      "transcript": "这棵树很高。 是啊，它有一百年了。",
+      "transcriptPinyin": "zhè kē shù hěn gāo 。  shì a ， tā yǒu yì bǎi nián le 。"
+     }
+    }
+   ],
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-c23e82d1f5c89e6fb74ac17779f600a3.png"
+    },
+    {
+     "label": "B",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-2e2d7ceacc9e929cfba8b7c1c0183710.png"
+    },
+    {
+     "label": "C",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-aef3a378c9d7db8093ae942aec70e0b8.png"
+    },
+    {
+     "label": "D",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-45e03eab87ddc713fdbe56b4aed2949f.png"
+    },
+    {
+     "label": "E",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-d7ced6a09c7ee13396624b1988c04e6c.png"
+    },
+    {
+     "label": "F",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-fadca735a3526da6675d2ddf7c78a0a7.png"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

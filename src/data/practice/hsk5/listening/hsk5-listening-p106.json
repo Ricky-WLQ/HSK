@@ -1,0 +1,537 @@
+{
+ "id": "hsk5-listening-p106",
+ "level": "5",
+ "section": "listening",
+ "partKey": "listening-p1",
+ "title": "HSK5 Listening P1",
+ "titleZh": "听力 第一部分（听对话选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听对话，然后根据对话内容选择正确答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "男的为什么觉得习惯了？",
+     "correctAnswer": "D",
+     "explanation": "对话中男的说'你每次都这么说'，说明女的经常找借口不兑现承诺，所以男的对她总是不守信用感到习惯。",
+     "audio": {
+      "key": "listening/v1/3451678dc7c5d9f09d35ba3cb8f159f3852cbaa0441c4477c9b49a36eeaecfcc.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你昨天不是说要请我吃饭吗？怎么到现在还没动静？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "哎呀，真不好意思，我临时有点急事，改天行吗？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你每次都这么说，我都习惯了。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "这次真的不是故意的，下周一定补上！"
+       }
+      ],
+      "transcript": "你昨天不是说要请我吃饭吗？怎么到现在还没动静？ 哎呀，真不好意思，我临时有点急事，改天行吗？ 你每次都这么说，我都习惯了。 这次真的不是故意的，下周一定补上！",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "女的经常请客"
+      },
+      {
+       "label": "B",
+       "text": "男的喜欢开玩笑"
+      },
+      {
+       "label": "C",
+       "text": "男的常常被放鸽子"
+      },
+      {
+       "label": "D",
+       "text": "女的总是不守信用"
+      }
+     ]
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "男的目前学书法存在什么问题？",
+     "correctAnswer": "B",
+     "explanation": "男的最后说'最近工作太忙了'，说明他因为工作忙没时间练习，这是主要问题。",
+     "audio": {
+      "key": "listening/v1/4f34ca03669e7bf9cfecf8e348afc959a1fad5901f932287a36494bc12df10b8.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "听说你最近在学书法，进步怎么样？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "还行吧，就是练得不够多，老师说我结构掌握得不太好。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "那你得坚持啊，我表哥练了三年才像样。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "是啊，我也知道要下功夫，可最近工作太忙了。"
+       }
+      ],
+      "transcript": "听说你最近在学书法，进步怎么样？ 还行吧，就是练得不够多，老师说我结构掌握得不太好。 那你得坚持啊，我表哥练了三年才像样。 是啊，我也知道要下功夫，可最近工作太忙了。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "他找不到好的老师"
+      },
+      {
+       "label": "B",
+       "text": "他工作忙没时间练习"
+      },
+      {
+       "label": "C",
+       "text": "他学的时间太短"
+      },
+      {
+       "label": "D",
+       "text": "老师不满意他的进步"
+      }
+     ]
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "女的对这件衣服的看法是什么？",
+     "correctAnswer": "A",
+     "explanation": "女的说'反正便宜嘛，穿几次就扔了，不心疼'，表明她认为价格便宜，穿几次就值了，所以是物有所值的态度。",
+     "audio": {
+      "key": "listening/v1/4f597e5e2e0e8e542b960695a9c43c7b70ff39b0f63cecec33cc465487f40958.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你这件衣服在哪买的？颜色真好看。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "网上买的，但是质量一般，洗了一次就有点变形了。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "那你还穿？不怕别人笑话？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "反正便宜嘛，穿几次就扔了，不心疼。"
+       }
+      ],
+      "transcript": "你这件衣服在哪买的？颜色真好看。 网上买的，但是质量一般，洗了一次就有点变形了。 那你还穿？不怕别人笑话？ 反正便宜嘛，穿几次就扔了，不心疼。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "认为物有所值"
+      },
+      {
+       "label": "B",
+       "text": "打算退货"
+      },
+      {
+       "label": "C",
+       "text": "非常满意"
+      },
+      {
+       "label": "D",
+       "text": "觉得太贵"
+      }
+     ]
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "男的对表演节目是什么态度？",
+     "correctAnswer": "A",
+     "explanation": "男的说自己什么才艺都没有，还担心讲笑话冷场，说明他感到无奈，没有信心。",
+     "audio": {
+      "key": "listening/v1/eeb36a1652f50b412345c4df026823db4dc4863d6e10cc9902b03f56e76a4238.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "明天公司年会，你准备节目了吗？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "没有，我什么才艺都没有，到时候就负责鼓掌吧。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你也可以表演个笑话啊，大家都爱听。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "算了吧，我讲笑话没人笑的，到时候冷场更尴尬。"
+       }
+      ],
+      "transcript": "明天公司年会，你准备节目了吗？ 没有，我什么才艺都没有，到时候就负责鼓掌吧。 你也可以表演个笑话啊，大家都爱听。 算了吧，我讲笑话没人笑的，到时候冷场更尴尬。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "很无奈"
+      },
+      {
+       "label": "B",
+       "text": "很积极"
+      },
+      {
+       "label": "C",
+       "text": "很开心"
+      },
+      {
+       "label": "D",
+       "text": "很自信"
+      }
+     ]
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "女的行为最能说明什么？",
+     "correctAnswer": "A",
+     "explanation": "女的说因为项目期限快到所以不得不加班，说明她为了完成任务努力工作。",
+     "audio": {
+      "key": "listening/v1/820fbf0d072a67fad95ec98ab87612f21a6238afc3030e7bdc42791f2b34dd3c.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你最近怎么总是加班？身体吃得消吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "没办法，项目期限快到了，不加班完不成任务。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "那也得注意休息，健康最重要。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "嗯，等忙完这阵子我就好好休息。"
+       }
+      ],
+      "transcript": "你最近怎么总是加班？身体吃得消吗？ 没办法，项目期限快到了，不加班完不成任务。 那也得注意休息，健康最重要。 嗯，等忙完这阵子我就好好休息。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "她工作很努力"
+      },
+      {
+       "label": "B",
+       "text": "她不听劝告"
+      },
+      {
+       "label": "C",
+       "text": "她身体不好"
+      },
+      {
+       "label": "D",
+       "text": "她喜欢加班"
+      }
+     ]
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "男的认为小李有什么缺点？",
+     "correctAnswer": "C",
+     "explanation": "男的说小李'做事不太靠谱'，并举例证明，所以缺点是不靠谱。",
+     "audio": {
+      "key": "listening/v1/ff1a6aeb10852ff788b5598c26f6b6c7c329e21b4a65d47a597e06fdf1789b3a.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你觉得小李这个人怎么样？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "他人挺热情的，就是有时候做事不太靠谱。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "是吗？上次他答应帮我改方案，结果拖了三天才给我。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "看吧，我就说他不太可靠。"
+       }
+      ],
+      "transcript": "你觉得小李这个人怎么样？ 他人挺热情的，就是有时候做事不太靠谱。 是吗？上次他答应帮我改方案，结果拖了三天才给我。 看吧，我就说他不太可靠。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "不守时"
+      },
+      {
+       "label": "B",
+       "text": "不善于沟通"
+      },
+      {
+       "label": "C",
+       "text": "做事不靠谱"
+      },
+      {
+       "label": "D",
+       "text": "不够热情"
+      }
+     ]
+    },
+    {
+     "id": "q7",
+     "type": "listening-mcq",
+     "prompt": "关于那家餐厅，以下哪项是正确的？",
+     "correctAnswer": "B",
+     "explanation": "女的说'那家店生意特别好'，所以生意好是正确的。",
+     "audio": {
+      "key": "listening/v1/24428506d954766e971794915a8cd7a7f34c03e9ddc292167fa75e4a249020d8.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你推荐的那家餐厅我去过了，味道确实不错。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "是吧？我早就说过了，那家店生意特别好，需要提前预约。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "还好我提前订了位，不然得排队等很久。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "下次我们可以一起去，我请你。"
+       }
+      ],
+      "transcript": "你推荐的那家餐厅我去过了，味道确实不错。 是吧？我早就说过了，那家店生意特别好，需要提前预约。 还好我提前订了位，不然得排队等很久。 下次我们可以一起去，我请你。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "餐厅味道一般"
+      },
+      {
+       "label": "B",
+       "text": "餐厅生意很好"
+      },
+      {
+       "label": "C",
+       "text": "餐厅不需要预约"
+      },
+      {
+       "label": "D",
+       "text": "男的请女的吃饭"
+      }
+     ]
+    },
+    {
+     "id": "q8",
+     "type": "listening-mcq",
+     "prompt": "男的选择周末做什么？",
+     "correctAnswer": "D",
+     "explanation": "男的说'我想在家休息休息'，所以选择在家休息。",
+     "audio": {
+      "key": "listening/v1/dc8e9808269ea96189cc4d0810932967329005c859ad0610bededba988384239.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "周末你想去哪里玩？去爬山还是看电影？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "爬山太累了，我想在家休息休息。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "那你也太懒了，年轻人要多运动。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我平时上班已经够累了，周末就想放松一下。"
+       }
+      ],
+      "transcript": "周末你想去哪里玩？去爬山还是看电影？ 爬山太累了，我想在家休息休息。 那你也太懒了，年轻人要多运动。 我平时上班已经够累了，周末就想放松一下。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "去爬山"
+      },
+      {
+       "label": "B",
+       "text": "去运动"
+      },
+      {
+       "label": "C",
+       "text": "去看电影"
+      },
+      {
+       "label": "D",
+       "text": "在家休息"
+      }
+     ]
+    },
+    {
+     "id": "q9",
+     "type": "listening-mcq",
+     "prompt": "女的对弟弟学师范专业有什么看法？",
+     "correctAnswer": "A",
+     "explanation": "女的说'我有点担心'，并表示认为男生当老师没什么出息，所以是有些担心。",
+     "audio": {
+      "key": "listening/v1/f8b36518f18d4fbcdcc77c170471b058d268ad6fc41d718c582a27bbba101f53.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "听说你弟弟考上大学了，恭喜啊！"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "谢谢，不过他考的是师范专业，我有点担心。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "当老师不是挺好的吗？工作稳定，还有寒暑假。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "话是这么说，但我觉得男生当老师没什么出息。"
+       }
+      ],
+      "transcript": "听说你弟弟考上大学了，恭喜啊！ 谢谢，不过他考的是师范专业，我有点担心。 当老师不是挺好的吗？工作稳定，还有寒暑假。 话是这么说，但我觉得男生当老师没什么出息。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "有些担心"
+      },
+      {
+       "label": "B",
+       "text": "完全反对"
+      },
+      {
+       "label": "C",
+       "text": "非常支持"
+      },
+      {
+       "label": "D",
+       "text": "特别高兴"
+      }
+     ]
+    },
+    {
+     "id": "q10",
+     "type": "listening-mcq",
+     "prompt": "男为什么没参加聚会？",
+     "correctAnswer": "D",
+     "explanation": "男的说'临时接到通知要出差'，所以是因为临时出差没参加。",
+     "audio": {
+      "key": "listening/v1/e2f056e11af06b62131c284b548357d1a71b9ef1c992aca9d795e45de982e826.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你昨天怎么没来参加聚会？大家都等你了。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "真对不起，我临时接到通知要出差，来不及说一声。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你也真是的，至少发个信息啊。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我错了，下次一定注意。"
+       }
+      ],
+      "transcript": "你昨天怎么没来参加聚会？大家都等你了。 真对不起，我临时接到通知要出差，来不及说一声。 你也真是的，至少发个信息啊。 我错了，下次一定注意。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "他生病了"
+      },
+      {
+       "label": "B",
+       "text": "他忘记了"
+      },
+      {
+       "label": "C",
+       "text": "他不喜欢聚会"
+      },
+      {
+       "label": "D",
+       "text": "他临时出差"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

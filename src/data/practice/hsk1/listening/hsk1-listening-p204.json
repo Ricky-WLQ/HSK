@@ -1,0 +1,202 @@
+{
+ "id": "hsk1-listening-p204",
+ "level": "1",
+ "section": "listening",
+ "partKey": "listening-p2",
+ "title": "HSK1 Listening P2",
+ "titleZh": "听力 第二部分（听句子选答语）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听录音，然后选择正确的答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "他今天去哪儿？",
+     "correctAnswer": "C",
+     "explanation": "录音说“我今天去学校”，所以是去学校。",
+     "audio": {
+      "key": "listening/v1/15f525e7f4ab4d8a1d721ac2ae76fb5c9a5f6b2a6d8cf2e97ea7f6c458aa4564.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我今天去学校。"
+       }
+      ],
+      "transcript": "我今天去学校。",
+      "transcriptPinyin": "wǒ jīn tiān qù xué xiào 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "家",
+       "pinyin": "jiā"
+      },
+      {
+       "label": "B",
+       "text": "商店",
+       "pinyin": "shāng diàn"
+      },
+      {
+       "label": "C",
+       "text": "学校",
+       "pinyin": "xué xiào"
+      }
+     ],
+     "pinyin": "tā jīn tiān qù nǎ ér ？"
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "妈妈买了什么？",
+     "correctAnswer": "B",
+     "explanation": "录音说妈妈买了苹果。",
+     "audio": {
+      "key": "listening/v1/5cd0d771f49624d92979f8c8b5388dcece08c62dba695f026520e14bdd482d6d.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "妈妈买了很多苹果。"
+       }
+      ],
+      "transcript": "妈妈买了很多苹果。",
+      "transcriptPinyin": "mā mā mǎi le hěn duō píng guǒ 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "西瓜",
+       "pinyin": "xī guā"
+      },
+      {
+       "label": "B",
+       "text": "苹果",
+       "pinyin": "píng guǒ"
+      },
+      {
+       "label": "C",
+       "text": "香蕉",
+       "pinyin": "xiāng jiāo"
+      }
+     ],
+     "pinyin": "mā mā mǎi le shén me ？"
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "现在几点？",
+     "correctAnswer": "C",
+     "explanation": "录音说现在七点。",
+     "audio": {
+      "key": "listening/v1/dc87795f83f2676fc7819687eb5b7c417a3b8622fc178d2fe1da86658c184950.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "现在七点，我们八点上课。"
+       }
+      ],
+      "transcript": "现在七点，我们八点上课。",
+      "transcriptPinyin": "xiàn zài qī diǎn ， wǒ men bā diǎn shàng kè 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "八点",
+       "pinyin": "bā diǎn"
+      },
+      {
+       "label": "B",
+       "text": "九点",
+       "pinyin": "jiǔ diǎn"
+      },
+      {
+       "label": "C",
+       "text": "七点",
+       "pinyin": "qī diǎn"
+      }
+     ],
+     "pinyin": "xiàn zài jǐ diǎn ？"
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "他叫什么名字？",
+     "correctAnswer": "C",
+     "explanation": "录音说他叫小明。",
+     "audio": {
+      "key": "listening/v1/3d0616b556230f0861a4f6d7b2548623890ddee8c5925f44011df25ebae41767.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "他是我朋友，他叫小明。"
+       }
+      ],
+      "transcript": "他是我朋友，他叫小明。",
+      "transcriptPinyin": "tā shì wǒ péng yǒu ， tā jiào xiǎo míng 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "小刚",
+       "pinyin": "xiǎo gāng"
+      },
+      {
+       "label": "B",
+       "text": "小华",
+       "pinyin": "xiǎo huá"
+      },
+      {
+       "label": "C",
+       "text": "小明",
+       "pinyin": "xiǎo míng"
+      }
+     ],
+     "pinyin": "tā jiào shén me míng zì ？"
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "桌子上有什么？",
+     "correctAnswer": "C",
+     "explanation": "录音说桌子上有一本书。",
+     "audio": {
+      "key": "listening/v1/da5734af87518a8846f37a35493f665a740f2d386e48826852f67eb066aedead.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "桌子上有一本书。"
+       }
+      ],
+      "transcript": "桌子上有一本书。",
+      "transcriptPinyin": "zhuō zi shàng yǒu yī běn shū 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "水",
+       "pinyin": "shuǐ"
+      },
+      {
+       "label": "B",
+       "text": "笔",
+       "pinyin": "bǐ"
+      },
+      {
+       "label": "C",
+       "text": "书",
+       "pinyin": "shū"
+      }
+     ],
+     "pinyin": "zhuō zi shàng yǒu shén me ？"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

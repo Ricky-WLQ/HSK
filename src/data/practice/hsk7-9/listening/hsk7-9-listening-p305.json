@@ -1,0 +1,161 @@
+{
+ "id": "hsk7-9-listening-p305",
+ "level": "7-9",
+ "section": "listening",
+ "partKey": "listening-p3",
+ "title": "HSK7-9 Listening P3",
+ "titleZh": "听力 第三部分（听讲座选填答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听一段关于中国书法艺术发展历程的讲座，然后回答6个问题。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "根据讲座，最早的汉字形态是什么？",
+     "correctAnswer": "C",
+     "explanation": "讲座中提到最早的汉字形态是商朝的甲骨文，其他选项出现的时代均在其后。",
+     "options": [
+      {
+       "label": "A",
+       "text": "金文"
+      },
+      {
+       "label": "B",
+       "text": "隶书"
+      },
+      {
+       "label": "C",
+       "text": "甲骨文"
+      },
+      {
+       "label": "D",
+       "text": "小篆"
+      }
+     ]
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "哪个朝代推行了小篆来标准化汉字？",
+     "correctAnswer": "B",
+     "explanation": "讲座明确说秦始皇统一六国后推行小篆，对汉字进行标准化，因此是秦朝。",
+     "options": [
+      {
+       "label": "A",
+       "text": "唐代"
+      },
+      {
+       "label": "B",
+       "text": "秦朝"
+      },
+      {
+       "label": "C",
+       "text": "商朝"
+      },
+      {
+       "label": "D",
+       "text": "汉代"
+      }
+     ]
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "魏晋南北朝时期涌现出的著名书法家是谁？",
+     "correctAnswer": "A",
+     "explanation": "讲座提到魏晋南北朝时期涌现出王羲之这样的大书法家，其他均为唐代楷书名家。",
+     "options": [
+      {
+       "label": "A",
+       "text": "王羲之"
+      },
+      {
+       "label": "B",
+       "text": "柳公权"
+      },
+      {
+       "label": "C",
+       "text": "颜真卿"
+      },
+      {
+       "label": "D",
+       "text": "赵孟頫"
+      }
+     ]
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "《兰亭序》被誉为什么？",
+     "correctAnswer": "A",
+     "explanation": "讲座中明确说《兰亭序》被誉为天下第一行书。",
+     "options": [
+      {
+       "label": "A",
+       "text": "天下第一行书"
+      },
+      {
+       "label": "B",
+       "text": "天下第一楷书"
+      },
+      {
+       "label": "C",
+       "text": "天下第一草书"
+      },
+      {
+       "label": "D",
+       "text": "天下第一隶书"
+      }
+     ]
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "楷书的鼎盛时期是在哪个朝代？",
+     "correctAnswer": "C",
+     "explanation": "讲座指出唐代是楷书的鼎盛时期，颜真卿、柳公权等名家辈出。",
+     "options": [
+      {
+       "label": "A",
+       "text": "明代"
+      },
+      {
+       "label": "B",
+       "text": "宋代"
+      },
+      {
+       "label": "C",
+       "text": "唐代"
+      },
+      {
+       "label": "D",
+       "text": "汉代"
+      }
+     ]
+    },
+    {
+     "id": "q6",
+     "type": "listening-dictation",
+     "prompt": "秦始皇统一六国后推行了什么来标准化汉字？",
+     "correctAnswer": "小篆",
+     "explanation": "讲座中直接提到秦始皇推行小篆对汉字进行标准化，故答案为小篆。"
+    }
+   ],
+   "audio": {
+    "key": "listening/v1/87f9c629fa29fa421b7dd4724f52bdf4f581bb700c0a2c16ca7b361e6bd1a312.mp3",
+    "lines": [
+     {
+      "speaker": "旁白",
+      "voice": "narrator",
+      "text": "今天我们来聊聊中国书法艺术的发展历程。书法作为中国传统文化的重要组成部分，源远流长。最早的汉字形态可以追溯到甲骨文，那是商朝时期刻在龟甲和兽骨上的文字。随后，出现了金文，铸刻在青铜器上。到了秦朝，秦始皇统一六国后，推行了小篆，对汉字进行了标准化。隶书则在汉代逐渐成熟，它简化了小篆的笔画，使书写更加便捷。魏晋南北朝时期，书法艺术进入了一个高峰，涌现出王羲之这样的大书法家，他的《兰亭序》被誉为天下第一行书。唐代则是楷书的鼎盛时期，颜真卿、柳公权等名家辈出。宋元明清各代，书法风格不断演变。总之，书法不仅仅是一种书写技巧，更是一种表达情感和意境的艺术形式。"
+     }
+    ],
+    "transcript": "今天我们来聊聊中国书法艺术的发展历程。书法作为中国传统文化的重要组成部分，源远流长。最早的汉字形态可以追溯到甲骨文，那是商朝时期刻在龟甲和兽骨上的文字。随后，出现了金文，铸刻在青铜器上。到了秦朝，秦始皇统一六国后，推行了小篆，对汉字进行了标准化。隶书则在汉代逐渐成熟，它简化了小篆的笔画，使书写更加便捷。魏晋南北朝时期，书法艺术进入了一个高峰，涌现出王羲之这样的大书法家，他的《兰亭序》被誉为天下第一行书。唐代则是楷书的鼎盛时期，颜真卿、柳公权等名家辈出。宋元明清各代，书法风格不断演变。总之，书法不仅仅是一种书写技巧，更是一种表达情感和意境的艺术形式。",
+    "transcriptPinyin": null
+   }
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

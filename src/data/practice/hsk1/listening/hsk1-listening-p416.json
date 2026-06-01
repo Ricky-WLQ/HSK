@@ -1,0 +1,202 @@
+{
+ "id": "hsk1-listening-p416",
+ "level": "1",
+ "section": "listening",
+ "partKey": "listening-p4",
+ "title": "HSK1 Listening P4",
+ "titleZh": "听力 第四部分（听问句选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "下面你将听到5段短小的独白。每段独白后有一个问题，请从A、B、C三个选项中选出正确答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "他是谁？",
+     "correctAnswer": "B",
+     "explanation": "对话中说“我是学生”，所以他是一个学生。",
+     "audio": {
+      "key": "listening/v1/7d33e093e40675f00ab61b29d387fb2cdc415b786b81f87fb1ee853980c3c3fc.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "你好，我叫小明，我是学生。"
+       }
+      ],
+      "transcript": "你好，我叫小明，我是学生。",
+      "transcriptPinyin": "nǐ hǎo ， wǒ jiào xiǎo míng ， wǒ shì xué shēng 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "老师",
+       "pinyin": "lǎo shī"
+      },
+      {
+       "label": "B",
+       "text": "学生",
+       "pinyin": "xué shēng"
+      },
+      {
+       "label": "C",
+       "text": "医生",
+       "pinyin": "yī shēng"
+      }
+     ],
+     "pinyin": "tā shì shuí ？"
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "书在哪里？",
+     "correctAnswer": "B",
+     "explanation": "录音中说“书在桌子上”，所以书在桌子上。",
+     "audio": {
+      "key": "listening/v1/3d8948b640849b33cea07c5a2c8a57a6aa13d19d544b46767e7d7cfc1375a3c3.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我的书在桌子上。"
+       }
+      ],
+      "transcript": "我的书在桌子上。",
+      "transcriptPinyin": "wǒ de shū zài zhuō zi shàng 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "床上",
+       "pinyin": "chuáng shàng"
+      },
+      {
+       "label": "B",
+       "text": "桌子上",
+       "pinyin": "zhuō zi shàng"
+      },
+      {
+       "label": "C",
+       "text": "椅子上",
+       "pinyin": "yǐ zi shàng"
+      }
+     ],
+     "pinyin": "shū zài nǎ lǐ ？"
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "他有多少个苹果？",
+     "correctAnswer": "C",
+     "explanation": "录音中说“有两个苹果”，所以有两个。",
+     "audio": {
+      "key": "listening/v1/7811c628fa64af9b061b74e779e89efd09bc880c6aa5d7daa530eb49a489606e.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我有两个苹果。"
+       }
+      ],
+      "transcript": "我有两个苹果。",
+      "transcriptPinyin": "wǒ yǒu liǎng gè píng guǒ 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "一个",
+       "pinyin": "yí gè"
+      },
+      {
+       "label": "B",
+       "text": "三个",
+       "pinyin": "sān gè"
+      },
+      {
+       "label": "C",
+       "text": "两个",
+       "pinyin": "liǎng gè"
+      }
+     ],
+     "pinyin": "tā yǒu duō shǎo gè píng guǒ ？"
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "现在几点？",
+     "correctAnswer": "B",
+     "explanation": "录音中说“现在八点”，所以是八点。",
+     "audio": {
+      "key": "listening/v1/ec59fa9ef00e061042422e81d685f675d01f8a000388fdd7eb0f88c05fb982dc.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "现在八点。"
+       }
+      ],
+      "transcript": "现在八点。",
+      "transcriptPinyin": "xiàn zài bā diǎn 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "九点",
+       "pinyin": "jiǔ diǎn"
+      },
+      {
+       "label": "B",
+       "text": "八点",
+       "pinyin": "bā diǎn"
+      },
+      {
+       "label": "C",
+       "text": "七点",
+       "pinyin": "qī diǎn"
+      }
+     ],
+     "pinyin": "xiàn zài jǐ diǎn ？"
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "妈妈在做什么？",
+     "correctAnswer": "A",
+     "explanation": "录音中说“妈妈在做饭”，所以妈妈在做饭。",
+     "audio": {
+      "key": "listening/v1/c528f91aff3ccb5fa56b2b0f4ffd3ebb93deca475d911fd91b169c3abc29e017.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "妈妈在做饭。"
+       }
+      ],
+      "transcript": "妈妈在做饭。",
+      "transcriptPinyin": "mā mā zài zuò fàn 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "做饭",
+       "pinyin": "zuò fàn"
+      },
+      {
+       "label": "B",
+       "text": "睡觉",
+       "pinyin": "shuì jiào"
+      },
+      {
+       "label": "C",
+       "text": "看书",
+       "pinyin": "kàn shū"
+      }
+     ],
+     "pinyin": "mā mā zài zuò shén me ？"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

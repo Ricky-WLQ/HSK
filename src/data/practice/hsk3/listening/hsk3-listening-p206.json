@@ -1,0 +1,437 @@
+{
+ "id": "hsk3-listening-p206",
+ "level": "3",
+ "section": "listening",
+ "partKey": "listening-p2",
+ "title": "HSK3 Listening P2",
+ "titleZh": "听力 第二部分（听对话选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听对话，然后选择正确答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "男的想去哪里？",
+     "correctAnswer": "B",
+     "explanation": "对话中男的在问书店，女的告诉他书店的位置，所以男的去书店。",
+     "audio": {
+      "key": "listening/v1/ef29770504e228f34a1d1e1048d65e3213ff41071971d842b7f8a98500a71e65.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "请问，附近有书店吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "有，就在前面那条街上。"
+       }
+      ],
+      "transcript": "请问，附近有书店吗？ 有，就在前面那条街上。",
+      "transcriptPinyin": "qǐng wèn ， fù jìn yǒu shū diàn ma ？  yǒu ， jiù zài qián miàn nà tiáo jiē shàng 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "图书馆",
+       "pinyin": "tú shū guǎn"
+      },
+      {
+       "label": "B",
+       "text": "书店",
+       "pinyin": "shū diàn"
+      },
+      {
+       "label": "C",
+       "text": "学校",
+       "pinyin": "xué xiào"
+      }
+     ],
+     "pinyin": "nán de xiǎng qù nǎ lǐ ？"
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "现在几点？",
+     "correctAnswer": "A",
+     "explanation": "男的说已经三点半了。",
+     "audio": {
+      "key": "listening/v1/28a958d8a518727a49cc9429cd0cbd689c65a25c5e2cb52e210b5bcb0eae24a4.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "现在几点了？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "已经三点半了。"
+       }
+      ],
+      "transcript": "现在几点了？ 已经三点半了。",
+      "transcriptPinyin": "xiàn zài jǐ diǎn le ？  yǐ jīng sān diǎn bàn le 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "三点半",
+       "pinyin": "sān diǎn bàn"
+      },
+      {
+       "label": "B",
+       "text": "四点",
+       "pinyin": "sì diǎn"
+      },
+      {
+       "label": "C",
+       "text": "三点",
+       "pinyin": "sān diǎn"
+      }
+     ],
+     "pinyin": "xiàn zài jǐ diǎn ？"
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "今天天气怎么样？",
+     "correctAnswer": "C",
+     "explanation": "男的说今天下雨了。",
+     "audio": {
+      "key": "listening/v1/653cef6f7cf31a1e58f81bbf1a98ae7088cb086321b2047eb21fa3740c438694.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "今天下雨了，你带伞了吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "带了，你别担心。"
+       }
+      ],
+      "transcript": "今天下雨了，你带伞了吗？ 带了，你别担心。",
+      "transcriptPinyin": "jīn tiān xià yǔ le ， nǐ dài sǎn le ma ？  dài le ， nǐ bié dān xīn 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "晴天",
+       "pinyin": "qíng tiān"
+      },
+      {
+       "label": "B",
+       "text": "下雪",
+       "pinyin": "xià xuě"
+      },
+      {
+       "label": "C",
+       "text": "下雨",
+       "pinyin": "xià yǔ"
+      }
+     ],
+     "pinyin": "jīn tiān tiān qì zěn me yàng ？"
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "男的想吃什么？",
+     "correctAnswer": "C",
+     "explanation": "男的说他想吃面条。",
+     "audio": {
+      "key": "listening/v1/8e98b5648da33c045ca10a456bd4158680e817d04a955071ae483a1b0546b1db.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你想吃什么？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我想吃面条。"
+       }
+      ],
+      "transcript": "你想吃什么？ 我想吃面条。",
+      "transcriptPinyin": "nǐ xiǎng chī shén me ？  wǒ xiǎng chī miàn tiáo 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "米饭",
+       "pinyin": "mǐ fàn"
+      },
+      {
+       "label": "B",
+       "text": "饺子",
+       "pinyin": "jiǎo zi"
+      },
+      {
+       "label": "C",
+       "text": "面条",
+       "pinyin": "miàn tiáo"
+      }
+     ],
+     "pinyin": "nán de xiǎng chī shén me ？"
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "邮局在哪？",
+     "correctAnswer": "B",
+     "explanation": "女的说往前走然后左转。",
+     "audio": {
+      "key": "listening/v1/5e56830c0f167f16bfd2e3ebdda7af1eb70878c5388b731c44f7b311f0079b47.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "请问，邮局怎么走？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你往前走，然后左转就到了。"
+       }
+      ],
+      "transcript": "请问，邮局怎么走？ 你往前走，然后左转就到了。",
+      "transcriptPinyin": "qǐng wèn ， yóu jú zěn me zǒu ？  nǐ wǎng qián zǒu ， rán hòu zuǒ zhuǎn jiù dào le 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "后面右转",
+       "pinyin": "hòu miàn yòu zhuǎn"
+      },
+      {
+       "label": "B",
+       "text": "前面左转",
+       "pinyin": "qián miàn zuǒ zhuǎn"
+      },
+      {
+       "label": "C",
+       "text": "前面右转",
+       "pinyin": "qián miàn yòu zhuǎn"
+      }
+     ],
+     "pinyin": "yóu jú zài nǎ ？"
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "男的最喜欢哪种运动？",
+     "correctAnswer": "C",
+     "explanation": "男的说最喜欢打篮球。",
+     "audio": {
+      "key": "listening/v1/e4adba8196dcdc20c42492dcd2e800bc55342453d3ee53d5dcb55ef635c8bd2e.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你喜欢什么运动？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我最喜欢打篮球。"
+       }
+      ],
+      "transcript": "你喜欢什么运动？ 我最喜欢打篮球。",
+      "transcriptPinyin": "nǐ xǐ huān shén me yùn dòng ？  wǒ zuì xǐ huān dǎ lán qiú 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "游泳",
+       "pinyin": "yóu yǒng"
+      },
+      {
+       "label": "B",
+       "text": "足球",
+       "pinyin": "zú qiú"
+      },
+      {
+       "label": "C",
+       "text": "篮球",
+       "pinyin": "lán qiú"
+      }
+     ],
+     "pinyin": "nán de zuì xǐ huān nǎ zhǒng yùn dòng ？"
+    },
+    {
+     "id": "q7",
+     "type": "listening-mcq",
+     "prompt": "这双鞋多少钱？",
+     "correctAnswer": "C",
+     "explanation": "男的说一百五十块。",
+     "audio": {
+      "key": "listening/v1/746a9abbc90b665f9a201c47d0098703760f9443c1e23faf81722e69e6c87aa9.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "这双鞋多少钱？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "一百五十块。"
+       }
+      ],
+      "transcript": "这双鞋多少钱？ 一百五十块。",
+      "transcriptPinyin": "zhè shuāng xié duō shǎo qián ？  yì bǎi wǔ shí kuài 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "两百块",
+       "pinyin": "liǎng bǎi kuài"
+      },
+      {
+       "label": "B",
+       "text": "一百块",
+       "pinyin": "yì bǎi kuài"
+      },
+      {
+       "label": "C",
+       "text": "一百五十块",
+       "pinyin": "yì bǎi wǔ shí kuài"
+      }
+     ],
+     "pinyin": "zhè shuāng xié duō shǎo qián ？"
+    },
+    {
+     "id": "q8",
+     "type": "listening-mcq",
+     "prompt": "女的本周末打算做什么？",
+     "correctAnswer": "B",
+     "explanation": "女的说她打算去看电影。",
+     "audio": {
+      "key": "listening/v1/52b30dacdd7e4e822c9599c79fb153905c91171b78171eb4e11bbfd0bbf05779.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "周末你打算做什么？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我打算去看电影。"
+       }
+      ],
+      "transcript": "周末你打算做什么？ 我打算去看电影。",
+      "transcriptPinyin": "zhōu mò nǐ dǎ suàn zuò shén me ？  wǒ dǎ suàn qù kàn diàn yǐng 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "去旅行",
+       "pinyin": "qù lǚ xíng"
+      },
+      {
+       "label": "B",
+       "text": "去看电影",
+       "pinyin": "qù kàn diàn yǐng"
+      },
+      {
+       "label": "C",
+       "text": "去逛街",
+       "pinyin": "qù guàng jiē"
+      }
+     ],
+     "pinyin": "nǚ de běn zhōu mò dǎ suàn zuò shén me ？"
+    },
+    {
+     "id": "q9",
+     "type": "listening-mcq",
+     "prompt": "男的去图书馆的频率是？",
+     "correctAnswer": "A",
+     "explanation": "男的说一个星期去两次。",
+     "audio": {
+      "key": "listening/v1/d45af9aa5d4ee381d5f3bfdc3ac923842806e5189f77a2bb44a9e94de8a14e46.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你多久去一次图书馆？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我一个星期去两次。"
+       }
+      ],
+      "transcript": "你多久去一次图书馆？ 我一个星期去两次。",
+      "transcriptPinyin": "nǐ duō jiǔ qù yī cì tú shū guǎn ？  wǒ yí gè xīng qī qù liǎng cì 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "一个星期两次",
+       "pinyin": "yí gè xīng qī liǎng cì"
+      },
+      {
+       "label": "B",
+       "text": "一个月一次",
+       "pinyin": "yí gè yuè yī cì"
+      },
+      {
+       "label": "C",
+       "text": "一天一次",
+       "pinyin": "yī tiān yī cì"
+      }
+     ],
+     "pinyin": "nán de qù tú shū guǎn de pín lǜ shì ？"
+    },
+    {
+     "id": "q10",
+     "type": "listening-mcq",
+     "prompt": "女的为什么迟到？",
+     "correctAnswer": "C",
+     "explanation": "女的说因为路上堵车了。",
+     "audio": {
+      "key": "listening/v1/8cf4d6f334378f569bc0f1f5d85fedbbc0c253426f0fa9edb6dc080e946ebd15.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你今天怎么迟到了？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "因为路上堵车了。"
+       }
+      ],
+      "transcript": "你今天怎么迟到了？ 因为路上堵车了。",
+      "transcriptPinyin": "nǐ jīn tiān zěn me chí dào le ？  yīn wèi lù shàng dǔ chē le 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "因为起晚了",
+       "pinyin": "yīn wèi qǐ wǎn le"
+      },
+      {
+       "label": "B",
+       "text": "因为忘了时间",
+       "pinyin": "yīn wèi wàng le shí jiān"
+      },
+      {
+       "label": "C",
+       "text": "因为堵车",
+       "pinyin": "yīn wèi dǔ chē"
+      }
+     ],
+     "pinyin": "nǚ de wèi shén me chí dào ？"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

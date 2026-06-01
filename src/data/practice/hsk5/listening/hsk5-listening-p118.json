@@ -1,0 +1,537 @@
+{
+ "id": "hsk5-listening-p118",
+ "level": "5",
+ "section": "listening",
+ "partKey": "listening-p1",
+ "title": "HSK5 Listening P1",
+ "titleZh": "听力 第一部分（听对话选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听对话，然后根据对话内容选择正确答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "关于这次面试，下列哪项是正确的？",
+     "correctAnswer": "D",
+     "explanation": "对话中女性提到面试官问了团队合作问题，她回答得不太好，所以C正确。男性说女性其他方面优秀，但女性没有乐观，A错。面试官问了团队合作，B错。结果还没通知，D错。",
+     "audio": {
+      "key": "listening/v1/736b5e0b766c8f9589d7f605d3d78d04fb5f0dac64e83f8529ad65afaf06c2bc.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你昨天去面试了吗？感觉怎么样？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "去了。面试官对我的工作经验很感兴趣，但最后问了我一个关于团队合作的问题，我回答得不太好。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "那会不会有影响？不过你的其他方面都很优秀。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "希望吧，他们说过两天会通知结果。"
+       }
+      ],
+      "transcript": "你昨天去面试了吗？感觉怎么样？ 去了。面试官对我的工作经验很感兴趣，但最后问了我一个关于团队合作的问题，我回答得不太好。 那会不会有影响？不过你的其他方面都很优秀。 希望吧，他们说过两天会通知结果。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "女的对面试结果很乐观。"
+      },
+      {
+       "label": "B",
+       "text": "面试已经结束了，女的得到了工作。"
+      },
+      {
+       "label": "C",
+       "text": "面试官没有问团队合作的问题。"
+      },
+      {
+       "label": "D",
+       "text": "女的认为自己在团队合作方面回答得不好。"
+      }
+     ]
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "关于这本书，下列哪项是正确的？",
+     "correctAnswer": "B",
+     "explanation": "男性明确说书是学校老师推荐的，所以B正确。女性说不太感兴趣，A错。男性说关于中国经济改革，不是文学，C错。男性认为书写得不错、有启发，说明感兴趣，D错。",
+     "audio": {
+      "key": "listening/v1/51baefc19a3f36e44a40957975d33dc454ddb5a8782ebe317745d9b9be0463bf.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你最近在看什么书？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我在看一本关于中国经济改革的书，是学校老师推荐的。你对这个话题感兴趣吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "不太感兴趣，我更喜欢文学类的。不过我听说那本书写得不错。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "确实，里面有很多案例分析，很有启发。"
+       }
+      ],
+      "transcript": "你最近在看什么书？ 我在看一本关于中国经济改革的书，是学校老师推荐的。你对这个话题感兴趣吗？ 不太感兴趣，我更喜欢文学类的。不过我听说那本书写得不错。 确实，里面有很多案例分析，很有启发。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "这本书是关于文学的。"
+      },
+      {
+       "label": "B",
+       "text": "这本书是老师推荐给男性的。"
+      },
+      {
+       "label": "C",
+       "text": "女性很喜欢这本书。"
+      },
+      {
+       "label": "D",
+       "text": "男性对这本书不感兴趣。"
+      }
+     ]
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "关于明天的计划，下列哪项是正确的？",
+     "correctAnswer": "A",
+     "explanation": "女性提议去植物园，男性虽担心下雨但女性说可以带伞，并没有决定不去，所以C正确，A错误。植物园在郊区，B错。预报说可能下雨，不是一定晴天，D错。",
+     "audio": {
+      "key": "listening/v1/41a3acb968b9a9869ec8bb0bff7c10ee8c04134eeef6345b763e02d99628fea8.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "明天周末，你想去哪里玩？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我听说郊区新开了一个植物园，有各种珍稀植物，要不要去那里？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "听起来不错，不过天气预报说明天可能要下雨。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "那我们可以带伞，而且下雨天植物园人少，更舒服。"
+       }
+      ],
+      "transcript": "明天周末，你想去哪里玩？ 我听说郊区新开了一个植物园，有各种珍稀植物，要不要去那里？ 听起来不错，不过天气预报说明天可能要下雨。 那我们可以带伞，而且下雨天植物园人少，更舒服。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "女性提议去植物园。"
+      },
+      {
+       "label": "B",
+       "text": "他们决定不去植物园了。"
+      },
+      {
+       "label": "C",
+       "text": "植物园在市中心。"
+      },
+      {
+       "label": "D",
+       "text": "明天一定是晴天。"
+      }
+     ]
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "男性昨天为什么没去聚会？",
+     "correctAnswer": "D",
+     "explanation": "男性说因为项目出问题需要处理，所以没去，B正确。没有提到忘记或不想去，A、C错。他没去，D错。",
+     "audio": {
+      "key": "listening/v1/91f183c40cf0c90d9684221800e8a501a98890759c6a821d468f1df2bc4d9f78.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你昨天怎么没来参加聚会？大家都问起你了。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "哎，别提了。我本来要去的，结果临时接到老板电话，有个项目出了点问题，需要马上处理。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "原来是这样，那后来解决了吗？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "解决了，但一直忙到晚上十点，所以就没去。"
+       }
+      ],
+      "transcript": "你昨天怎么没来参加聚会？大家都问起你了。 哎，别提了。我本来要去的，结果临时接到老板电话，有个项目出了点问题，需要马上处理。 原来是这样，那后来解决了吗？ 解决了，但一直忙到晚上十点，所以就没去。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "他不想去，所以编了个理由。"
+      },
+      {
+       "label": "B",
+       "text": "他去了但迟到。"
+      },
+      {
+       "label": "C",
+       "text": "他忘了聚会的时间。"
+      },
+      {
+       "label": "D",
+       "text": "他要处理工作上的问题。"
+      }
+     ]
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "关于这家餐厅，女性主要表达了什么？",
+     "correctAnswer": "D",
+     "explanation": "女性说菜的味道一般且价格贵，D正确。她说味道一般不是好吃，A错。她认为价格贵，不是便宜，B错。她认为环境不错，C错。",
+     "audio": {
+      "key": "listening/v1/296757d32570938faa4b88d929030d543a792d9410b375f32870f7aa2de1112a.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你觉得这家新开的餐厅怎么样？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "环境不错，但菜的味道一般，而且价格有点贵。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "是吗？我朋友说他们的招牌菜很好吃，可能我们没点对。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "也许吧，下次可以试试别的。"
+       }
+      ],
+      "transcript": "你觉得这家新开的餐厅怎么样？ 环境不错，但菜的味道一般，而且价格有点贵。 是吗？我朋友说他们的招牌菜很好吃，可能我们没点对。 也许吧，下次可以试试别的。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "她认为环境不太好。"
+      },
+      {
+       "label": "B",
+       "text": "她认为菜很好吃。"
+      },
+      {
+       "label": "C",
+       "text": "她觉得味道一般但价格便宜。"
+      },
+      {
+       "label": "D",
+       "text": "她觉得价格比较贵。"
+      }
+     ]
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "男性现在上下班的方式是什么？",
+     "correctAnswer": "D",
+     "explanation": "男性说以前开车，最近改坐地铁，所以现在坐地铁，B正确。A是以前的方式，现在不是。C和D未提及。",
+     "audio": {
+      "key": "listening/v1/1afeb1f133e883dba0e4cd5f88c312d938f2fbf5f80076f49e61b9284528daea.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你平时怎么去上班？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "以前我开车，但最近地铁开通了，我就改坐地铁了，因为不堵车。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "那确实方便很多。地铁挤不挤？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "早高峰人挺多的，但比开车省心。"
+       }
+      ],
+      "transcript": "你平时怎么去上班？ 以前我开车，但最近地铁开通了，我就改坐地铁了，因为不堵车。 那确实方便很多。地铁挤不挤？ 早高峰人挺多的，但比开车省心。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "步行上班。"
+      },
+      {
+       "label": "B",
+       "text": "骑自行车上班。"
+      },
+      {
+       "label": "C",
+       "text": "开车上班。"
+      },
+      {
+       "label": "D",
+       "text": "坐地铁上班。"
+      }
+     ]
+    },
+    {
+     "id": "q7",
+     "type": "listening-mcq",
+     "prompt": "女性在英语学习中遇到了什么问题？",
+     "correctAnswer": "D",
+     "explanation": "女性说口语还是没什么进步，C正确。她说在背单词，词汇可能在增加，但没说词汇量少，B不准确。没提到听力和时间问题，A、D错。",
+     "audio": {
+      "key": "listening/v1/c1de8b42c67d66120a4f70b1b7ada157b3654a287ea533391dc40c2419cec258.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你的英语考试准备得怎么样了？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我每天都在背单词和做练习，但是口语还是没什么进步。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "口语要多说才行，你可以试着找语伴练习。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你说得对，我打算报名参加一个英语角。"
+       }
+      ],
+      "transcript": "你的英语考试准备得怎么样了？ 我每天都在背单词和做练习，但是口语还是没什么进步。 口语要多说才行，你可以试着找语伴练习。 你说得对，我打算报名参加一个英语角。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "没时间练习。"
+      },
+      {
+       "label": "B",
+       "text": "词汇量太少。"
+      },
+      {
+       "label": "C",
+       "text": "听力不好。"
+      },
+      {
+       "label": "D",
+       "text": "口语进步不大。"
+      }
+     ]
+    },
+    {
+     "id": "q8",
+     "type": "listening-mcq",
+     "prompt": "根据对话，男性的身体状况如何？",
+     "correctAnswer": "B",
+     "explanation": "医生说压力大要注意休息，所以C正确。医生说没什么大问题，不是重病，A错。压力大，B错。男性想请假但工作没做完，说明需要请假，D错。",
+     "audio": {
+      "key": "listening/v1/670d7e60d6aec332d6a57dbb19895bab5cd679b742205a6a8dab75d9b5705bb2.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你昨天去看医生了吗？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "去了，医生说我没什么大问题，就是最近压力太大，要注意休息。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "那你应该请几天假好好休息一下。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我也是这么想的，但手头的工作还没做完。"
+       }
+      ],
+      "transcript": "你昨天去看医生了吗？ 去了，医生说我没什么大问题，就是最近压力太大，要注意休息。 那你应该请几天假好好休息一下。 我也是这么想的，但手头的工作还没做完。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "他得了重病。"
+      },
+      {
+       "label": "B",
+       "text": "他需要多休息。"
+      },
+      {
+       "label": "C",
+       "text": "他不需要请假。"
+      },
+      {
+       "label": "D",
+       "text": "他身体健康，没有压力。"
+      }
+     ]
+    },
+    {
+     "id": "q9",
+     "type": "listening-mcq",
+     "prompt": "女性对网购的沙发有什么不满？",
+     "correctAnswer": "A",
+     "explanation": "女性说颜色和图片不同，尺寸小，所以B正确。未提质量、服务态度或送货速度，A、C、D错。",
+     "audio": {
+      "key": "listening/v1/fc7b69b4d75c280b396064a7718b3c675e93686288066bb258b997ab6d08ef62.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你网购的沙发到了吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "到了，但是颜色和图片上不太一样，而且尺寸好像有点小。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "那你可以联系卖家退换货。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "嗯，我已经申请了退货，后天快递员会来取。"
+       }
+      ],
+      "transcript": "你网购的沙发到了吗？ 到了，但是颜色和图片上不太一样，而且尺寸好像有点小。 那你可以联系卖家退换货。 嗯，我已经申请了退货，后天快递员会来取。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "沙发颜色和尺寸有问题。"
+      },
+      {
+       "label": "B",
+       "text": "沙发送货太慢。"
+      },
+      {
+       "label": "C",
+       "text": "卖家服务态度不好。"
+      },
+      {
+       "label": "D",
+       "text": "沙发质量太差。"
+      }
+     ]
+    },
+    {
+     "id": "q10",
+     "type": "listening-mcq",
+     "prompt": "关于男性的烹饪学习，下列哪项正确？",
+     "correctAnswer": "C",
+     "explanation": "男性明确说报了一个烹饪班，所以D正确。他说学了几个星期，不是一周，A错。他说会做一些简单菜，不只番茄炒蛋，B错。他说报班，不是自学，C错。",
+     "audio": {
+      "key": "listening/v1/f5723babcd4c96df6877186f8bedefebcd86774dbc0ab14ac4754007f23edff5.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "听说你最近在学习做菜？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "是啊，我报了一个烹饪班，学了几个星期了。现在会做一些简单的菜。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "那进步挺快的。你最喜欢做什么菜？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我最拿手的是番茄炒蛋，做得还不错。"
+       }
+      ],
+      "transcript": "听说你最近在学习做菜？ 是啊，我报了一个烹饪班，学了几个星期了。现在会做一些简单的菜。 那进步挺快的。你最喜欢做什么菜？ 我最拿手的是番茄炒蛋，做得还不错。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "他通过在线视频自学。"
+      },
+      {
+       "label": "B",
+       "text": "他只会做番茄炒蛋。"
+      },
+      {
+       "label": "C",
+       "text": "他报了一个烹饪班学习。"
+      },
+      {
+       "label": "D",
+       "text": "他刚学了一个星期。"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

@@ -1,0 +1,289 @@
+{
+ "id": "hsk3-listening-p103",
+ "level": "3",
+ "section": "listening",
+ "partKey": "listening-p1",
+ "title": "HSK3 Listening P1",
+ "titleZh": "听力 第一部分（看图听对话）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听对话，然后选择与对话内容相符的图片。每个对话对应一张图片，其中有一张图片是多余的。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "A",
+     "explanation": "对话中提到了“跑步”，与图画中的人物跑步动作相符。",
+     "audio": {
+      "key": "listening/v1/7e38f71941a51383b66d10bb2927c1bb533996755de8e1b99342dd6e368b0ad8.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你看，那个人跑得真快！"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "是啊，他每天都跑步锻炼身体。"
+       }
+      ],
+      "transcript": "你看，那个人跑得真快！ 是啊，他每天都跑步锻炼身体。",
+      "transcriptPinyin": "nǐ kàn ， nà ge rén pǎo dé zhēn kuài ！  shì a ， tā měi tiān dōu pǎo bù duàn liàn shēn tǐ 。"
+     }
+    },
+    {
+     "id": "q2",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "B",
+     "explanation": "对话中提到了“一杯茶”，与图画中的茶一致。",
+     "audio": {
+      "key": "listening/v1/df50e2e6ddb8fc4844908e47c66e04a580600b99426d78171b6f4acb21487839.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你想喝点什么？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "给我一杯茶吧，热的。"
+       }
+      ],
+      "transcript": "你想喝点什么？ 给我一杯茶吧，热的。",
+      "transcriptPinyin": "nǐ xiǎng hē diǎn shén me ？  gěi wǒ yī bēi chá ba ， rè de 。"
+     }
+    },
+    {
+     "id": "q3",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "C",
+     "explanation": "对话中提到了“钟”，与图画中的钟表对应。",
+     "audio": {
+      "key": "listening/v1/575eb424e76a574f719b54f4fd9443f610f6eb0c1e00aa1282f72bf69d1d0edc.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "现在几点了？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你看看那个钟，已经十点了。"
+       }
+      ],
+      "transcript": "现在几点了？ 你看看那个钟，已经十点了。",
+      "transcriptPinyin": "xiàn zài jǐ diǎn le ？  nǐ kàn kàn nà ge zhōng ， yǐ jīng shí diǎn le 。"
+     }
+    },
+    {
+     "id": "q4",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "D",
+     "explanation": "对话中提到了“看书”，与图画中的书相符。",
+     "audio": {
+      "key": "listening/v1/c3a9286406acd3a56fbe277027874fee8562e45fd3ac63a2b84d90e16cecc3b2.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你周末做什么？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我在家看了一本很有意思的书。"
+       }
+      ],
+      "transcript": "你周末做什么？ 我在家看了一本很有意思的书。",
+      "transcriptPinyin": "nǐ zhōu mò zuò shén me ？  wǒ zài jiā kàn le yī běn hěn yǒu yì si de shū 。"
+     }
+    },
+    {
+     "id": "q5",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "E",
+     "explanation": "对话中提到了“狗”，与图画中的狗对应。",
+     "audio": {
+      "key": "listening/v1/73d814504a62eb57e5f1e4e9a67b4bfbf3cb58cb87ce518b68f0d298440788b8.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "那只狗真可爱！"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "对，它是我的朋友养的。"
+       }
+      ],
+      "transcript": "那只狗真可爱！ 对，它是我的朋友养的。",
+      "transcriptPinyin": "nà zhǐ gǒu zhēn kě ài ！  duì ， tā shì wǒ de péng yǒu yǎng de 。"
+     }
+    },
+    {
+     "id": "q6",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "A",
+     "explanation": "对话中提到了“跑步”，与图画中的人物跑步动作相符。",
+     "audio": {
+      "key": "listening/v1/726731d78c92a70acdd5de54cf3f394339811a00c760fb1e3ea2ce4e9d5eb344.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "今天天气不错，我们去散步吧。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "好啊，我想去公园跑步。"
+       }
+      ],
+      "transcript": "今天天气不错，我们去散步吧。 好啊，我想去公园跑步。",
+      "transcriptPinyin": "jīn tiān tiān qì bù cuò ， wǒ men qù sàn bù ba 。  hǎo a ， wǒ xiǎng qù gōng yuán pǎo bù 。"
+     }
+    },
+    {
+     "id": "q7",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "B",
+     "explanation": "对话中提到了“茶”，与图画中的茶一致。",
+     "audio": {
+      "key": "listening/v1/0ab520d2758ea39806bf91d37f8ca615598c25c16a0d4bd8a220830bdecefc96.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你渴不渴？我给你倒杯茶。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "谢谢，我正好想喝杯茶。"
+       }
+      ],
+      "transcript": "你渴不渴？我给你倒杯茶。 谢谢，我正好想喝杯茶。",
+      "transcriptPinyin": "nǐ kě bù kě ？ wǒ gěi nǐ dào bēi chá 。  xiè xiè ， wǒ zhèng hǎo xiǎng hē bēi chá 。"
+     }
+    },
+    {
+     "id": "q8",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "C",
+     "explanation": "对话中提到了“钟”，与图画中的钟表对应。",
+     "audio": {
+      "key": "listening/v1/b41d76928058a5a57874e07bc5c1ae87a7d0c76fa4043d7fb495c487a1cb8de9.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你的手表慢了吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "不是，墙上的钟是准的。"
+       }
+      ],
+      "transcript": "你的手表慢了吗？ 不是，墙上的钟是准的。",
+      "transcriptPinyin": "nǐ de shǒu biǎo màn le ma ？  bú shì ， qiáng shàng de zhōng shì zhǔn de 。"
+     }
+    },
+    {
+     "id": "q9",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "D",
+     "explanation": "对话中提到了“书”，与图画中的书相符。",
+     "audio": {
+      "key": "listening/v1/b05ceafc5c6be0e4f2a5e06fdc93484c0a5cd4c5eb40e32759c58d63a332ef2c.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你昨天去图书馆了吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "去了，我借了三本书回来。"
+       }
+      ],
+      "transcript": "你昨天去图书馆了吗？ 去了，我借了三本书回来。",
+      "transcriptPinyin": "nǐ zuó tiān qù tú shū guǎn le ma ？  qù le ， wǒ jiè le sān běn shū huí lái 。"
+     }
+    },
+    {
+     "id": "q10",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "E",
+     "explanation": "对话中提到了“狗”，与图画中的狗对应。",
+     "audio": {
+      "key": "listening/v1/bf7e188f82b19829d6928be97f4c401971b45ba70f0d7382d82d47e9919fdd69.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你家有宠物吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "有一只狗，很聪明。"
+       }
+      ],
+      "transcript": "你家有宠物吗？ 有一只狗，很聪明。",
+      "transcriptPinyin": "nǐ jiā yǒu chǒng wù ma ？  yǒu yī zhī gǒu ， hěn cōng míng 。"
+     }
+    }
+   ],
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-f271be63de227c14ba69b2511d8d3609.png"
+    },
+    {
+     "label": "B",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-2d1af61a0203f1966cfe1cd7d10a36fe.png"
+    },
+    {
+     "label": "C",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-fbbf8f90d979d1d5157218423b815e32.png"
+    },
+    {
+     "label": "D",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-b67b166c975b84e37f3f378d16ffc17a.png"
+    },
+    {
+     "label": "E",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-1aaf32d4e1620e15a9111bc25aeb8f2d.png"
+    },
+    {
+     "label": "F",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-a0ba60aeea1f6a126a651838da4ceb74.png"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

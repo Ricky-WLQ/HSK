@@ -1,0 +1,289 @@
+{
+ "id": "hsk3-listening-p106",
+ "level": "3",
+ "section": "listening",
+ "partKey": "listening-p1",
+ "title": "HSK3 Listening P1",
+ "titleZh": "听力 第一部分（看图听对话）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听对话，然后从A-F六张图片中选择与对话内容相符的一张。注意：每张图片只能使用一次，有一张图片是多余的。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "A",
+     "explanation": "对话提到骑自行车，所以图片A（一个人骑自行车）是正确的。",
+     "audio": {
+      "key": "listening/v1/d3575c49edd7b1e75b080c104a1d0b155d40d11a037fe7e25e5ac4eff29198d0.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你今天怎么来的？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我骑自行车来的，很快。"
+       }
+      ],
+      "transcript": "你今天怎么来的？ 我骑自行车来的，很快。",
+      "transcriptPinyin": "nǐ jīn tiān zěn me lái de ？  wǒ qí zì xíng chē lái de ， hěn kuài 。"
+     }
+    },
+    {
+     "id": "q2",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "B",
+     "explanation": "对话中提到吃苹果，所以图片B（一个人吃苹果）是正确的。",
+     "audio": {
+      "key": "listening/v1/939deaea3dd05e8065c29ef688816e022fa39a679830c8e574bab6e88cdb9d76.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你吃水果吗？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "好，给我一个苹果吧。"
+       }
+      ],
+      "transcript": "你吃水果吗？ 好，给我一个苹果吧。",
+      "transcriptPinyin": "nǐ chī shuǐ guǒ ma ？  hǎo ， gěi wǒ yí gè píng guǒ ba 。"
+     }
+    },
+    {
+     "id": "q3",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "C",
+     "explanation": "对话中问时间，回答十二点，所以图片C（显示十二点的钟）是正确的。",
+     "audio": {
+      "key": "listening/v1/92a8592facf0e4983242fcb634cb67d4c5976d67737f43a5e4eeb6e37610d5a1.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "现在几点了？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "正好十二点。"
+       }
+      ],
+      "transcript": "现在几点了？ 正好十二点。",
+      "transcriptPinyin": "xiàn zài jǐ diǎn le ？  zhèng hǎo shí èr diǎn 。"
+     }
+    },
+    {
+     "id": "q4",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "D",
+     "explanation": "对话中提到喝咖啡，所以图片D（一杯咖啡）是正确的。",
+     "audio": {
+      "key": "listening/v1/b5b8d7b8bc567ea50127c0d1d1eed8aa724392599de96129273d432bceac8a58.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你想喝点什么？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我要一杯咖啡。"
+       }
+      ],
+      "transcript": "你想喝点什么？ 我要一杯咖啡。",
+      "transcriptPinyin": "nǐ xiǎng hē diǎn shén me ？  wǒ yào yī bēi kā fēi 。"
+     }
+    },
+    {
+     "id": "q5",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "E",
+     "explanation": "对话中提到狗在沙发上睡觉，所以图片E（沙发上睡觉的狗）是正确的。",
+     "audio": {
+      "key": "listening/v1/4e581ed29351be7477d03ce116332556a5becb48531b48bd3fd28bb2a9655d67.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你的狗在做什么？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "它在沙发上睡觉呢。"
+       }
+      ],
+      "transcript": "你的狗在做什么？ 它在沙发上睡觉呢。",
+      "transcriptPinyin": "nǐ de gǒu zài zuò shén me ？  tā zài shā fā shàng shuì jiào ne 。"
+     }
+    },
+    {
+     "id": "q6",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "A",
+     "explanation": "对话再次提到骑自行车，所以图片A（一个人骑自行车）是正确的。",
+     "audio": {
+      "key": "listening/v1/c21ed3bedf0877501151860119cb7f2207fdab1bf4edbfd9c18c3d1c5de54945.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你每天怎么去上班？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我骑自行车，既环保又健康。"
+       }
+      ],
+      "transcript": "你每天怎么去上班？ 我骑自行车，既环保又健康。",
+      "transcriptPinyin": "nǐ měi tiān zěn me qù shàng bān ？  wǒ qí zì xíng chē ， jì huán bǎo yòu jiàn kāng 。"
+     }
+    },
+    {
+     "id": "q7",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "B",
+     "explanation": "对话中提到吃了一个苹果，所以图片B（一个人吃苹果）是正确的。",
+     "audio": {
+      "key": "listening/v1/8119b2323b146aebcd1ebf04a550f2b10185fae06617f8296518ca2a64f375b1.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你午饭吃了什么？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "就吃了一个苹果。"
+       }
+      ],
+      "transcript": "你午饭吃了什么？ 就吃了一个苹果。",
+      "transcriptPinyin": "nǐ wǔ fàn chī le shén me ？  jiù chī le yí gè píng guǒ 。"
+     }
+    },
+    {
+     "id": "q8",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "C",
+     "explanation": "对话中提到十二点起床，所以图片C（显示十二点的钟）是正确的。",
+     "audio": {
+      "key": "listening/v1/1b7ee7e62ebdceed0b5ad97ac756feed4fa6fbb934ea908602f336cdbd0bf457.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你几点起床？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我每天十二点才起。"
+       }
+      ],
+      "transcript": "你几点起床？ 我每天十二点才起。",
+      "transcriptPinyin": "nǐ jǐ diǎn qǐ chuáng ？  wǒ měi tiān shí èr diǎn cái qǐ 。"
+     }
+    },
+    {
+     "id": "q9",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "D",
+     "explanation": "对话中提到喝咖啡，所以图片D（一杯咖啡）是正确的。",
+     "audio": {
+      "key": "listening/v1/32631b8e2f37cd631cf3ab617bb93d544a202622e68109746da3fed4ed03d83b.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你早上喝什么？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我习惯喝一杯咖啡。"
+       }
+      ],
+      "transcript": "你早上喝什么？ 我习惯喝一杯咖啡。",
+      "transcriptPinyin": "nǐ zǎo shàng hē shén me ？  wǒ xí guàn hē yī bēi kā fēi 。"
+     }
+    },
+    {
+     "id": "q10",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "E",
+     "explanation": "对话中提到狗在沙发上睡觉，所以图片E（沙发上睡觉的狗）是正确的。",
+     "audio": {
+      "key": "listening/v1/00ec712fb69b358ac6f65511d363aaffe2bee177d7e4d1c440fcbefcee1d99f5.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你家有宠物吗？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "有一只狗，它总在沙发上睡觉。"
+       }
+      ],
+      "transcript": "你家有宠物吗？ 有一只狗，它总在沙发上睡觉。",
+      "transcriptPinyin": "nǐ jiā yǒu chǒng wù ma ？  yǒu yī zhī gǒu ， tā zǒng zài shā fā shàng shuì jiào 。"
+     }
+    }
+   ],
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-75f4a84f1109e86dec8e6c5b32c55123.png"
+    },
+    {
+     "label": "B",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-d5571e4fe39d9e25c98f3a2cef76f816.png"
+    },
+    {
+     "label": "C",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-8deba33bd1875883d7f47ad751a7e875.png"
+    },
+    {
+     "label": "D",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-31e09774d6ae9cb84dc8f5a14bcecf4f.png"
+    },
+    {
+     "label": "E",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-0e839b79dcd45def77ef97cdb6d39264.png"
+    },
+    {
+     "label": "F",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-349da167bccf7c747ddca88a3490dc32.png"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

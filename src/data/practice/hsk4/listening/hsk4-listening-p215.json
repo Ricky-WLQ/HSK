@@ -1,0 +1,179 @@
+{
+ "id": "hsk4-listening-p215",
+ "level": "4",
+ "section": "listening",
+ "partKey": "listening-p2",
+ "title": "HSK4 Listening P2",
+ "titleZh": "听力 第二部分（听短文选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听一段关于健康生活的短文，然后根据短文内容回答6个问题。每个问题有四个选项，选择正确答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "王医生是什么职业？",
+     "correctAnswer": "B",
+     "explanation": "短文中王医生自称“我是王医生”，明确说明他是医生。",
+     "options": [
+      {
+       "label": "A",
+       "text": "厨师"
+      },
+      {
+       "label": "B",
+       "text": "医生"
+      },
+      {
+       "label": "C",
+       "text": "记者"
+      },
+      {
+       "label": "D",
+       "text": "老师"
+      }
+     ]
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "关于饮食，王医生建议什么？",
+     "correctAnswer": "C",
+     "explanation": "短文提到“建议多吃蔬菜和水果，少吃油炸食品和高糖分的食物”，所以多吃蔬菜和水果是正确的。",
+     "options": [
+      {
+       "label": "A",
+       "text": "多吃油炸食品"
+      },
+      {
+       "label": "B",
+       "text": "多吃高糖分的食物"
+      },
+      {
+       "label": "C",
+       "text": "多吃蔬菜和水果"
+      },
+      {
+       "label": "D",
+       "text": "少吃蔬菜和水果"
+      }
+     ]
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "王医生认为运动应该怎么做？",
+     "correctAnswer": "D",
+     "explanation": "短文中说“每周至少做三次有氧运动”，所以每周运动三次以上是符合的。",
+     "options": [
+      {
+       "label": "A",
+       "text": "只做散步"
+      },
+      {
+       "label": "B",
+       "text": "运动时间越长越好"
+      },
+      {
+       "label": "C",
+       "text": "每周运动一次"
+      },
+      {
+       "label": "D",
+       "text": "每周运动三次以上"
+      }
+     ]
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "好的睡眠习惯包括什么？",
+     "correctAnswer": "D",
+     "explanation": "短文中提到“最好每天睡七到八个小时，不要熬夜”，所以每天睡七到八小时是好的睡眠习惯。",
+     "options": [
+      {
+       "label": "A",
+       "text": "经常熬夜"
+      },
+      {
+       "label": "B",
+       "text": "睡前吃东西"
+      },
+      {
+       "label": "C",
+       "text": "每天睡五小时"
+      },
+      {
+       "label": "D",
+       "text": "每天睡七到八小时"
+      }
+     ]
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "以下哪项不是王医生提到的健康习惯？",
+     "correctAnswer": "C",
+     "explanation": "短文中提到饮食要多吃蔬菜水果，少吃油炸和高糖，没有提到多吃肉，所以多吃肉不是王医生提到的健康习惯。",
+     "options": [
+      {
+       "label": "A",
+       "text": "多运动"
+      },
+      {
+       "label": "B",
+       "text": "保持心情愉快"
+      },
+      {
+       "label": "C",
+       "text": "多吃肉"
+      },
+      {
+       "label": "D",
+       "text": "睡眠充足"
+      }
+     ]
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "王医生最后强调了什么？",
+     "correctAnswer": "D",
+     "explanation": "短文结尾说“健康的生活习惯需要长期坚持”，所以坚持是最重要的。",
+     "options": [
+      {
+       "label": "A",
+       "text": "睡眠可以少一点"
+      },
+      {
+       "label": "B",
+       "text": "心情不重要"
+      },
+      {
+       "label": "C",
+       "text": "运动比饮食更重要"
+      },
+      {
+       "label": "D",
+       "text": "健康习惯需要坚持"
+      }
+     ]
+    }
+   ],
+   "audio": {
+    "key": "listening/v1/1e3c35c4bb9727685d0ae5de8541c13e369bcae3a55164220e682608085f0a49.mp3",
+    "lines": [
+     {
+      "speaker": "旁白",
+      "voice": "narrator",
+      "text": "大家好，我是王医生。今天我们来聊一聊如何保持健康。首先，饮食方面，我建议大家多吃蔬菜和水果，少吃油炸食品和高糖分的食物。其次，运动也很重要，每周至少做三次有氧运动，比如跑步或者游泳，每次三十分钟以上。另外，睡眠质量直接影响健康，最好每天睡七到八个小时，不要熬夜。最后，保持心情愉快，学会放松自己。记住，健康的生活习惯需要长期坚持。"
+     }
+    ],
+    "transcript": "大家好，我是王医生。今天我们来聊一聊如何保持健康。首先，饮食方面，我建议大家多吃蔬菜和水果，少吃油炸食品和高糖分的食物。其次，运动也很重要，每周至少做三次有氧运动，比如跑步或者游泳，每次三十分钟以上。另外，睡眠质量直接影响健康，最好每天睡七到八个小时，不要熬夜。最后，保持心情愉快，学会放松自己。记住，健康的生活习惯需要长期坚持。",
+    "transcriptPinyin": null
+   }
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

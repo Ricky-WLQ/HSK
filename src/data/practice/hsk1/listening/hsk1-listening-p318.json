@@ -1,0 +1,194 @@
+{
+ "id": "hsk1-listening-p318",
+ "level": "1",
+ "section": "listening",
+ "partKey": "listening-p3",
+ "title": "HSK1 Listening P3",
+ "titleZh": "听力 第三部分（看图听对话）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "听对话，选择对应的图片。每段对话对应一张图片，有一张图片是多余的。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "B",
+     "explanation": "对话中提到了“苹果”和“吃”，所以对应苹果的图片。",
+     "audio": {
+      "key": "listening/v1/41abec59c497fca17b91e1040a11da307cf813a8ce15478f9b58a8e457ab6433.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "这是什么？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "这是苹果。你吃吗？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "好，我吃。"
+       }
+      ],
+      "transcript": "这是什么？ 这是苹果。你吃吗？ 好，我吃。",
+      "transcriptPinyin": "zhè shì shén me ？  zhè shì píng guǒ 。 nǐ chī ma ？  hǎo ， wǒ chī 。"
+     }
+    },
+    {
+     "id": "q2",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "D",
+     "explanation": "对话中提到了“看书”和“书”，所以对应书的图片。",
+     "audio": {
+      "key": "listening/v1/87cde448b3073ff3dd911268e2f8d915fff3b59c431480049cf5dc8e462b3270.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你在做什么？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我在看书。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "书好看吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "很好看。"
+       }
+      ],
+      "transcript": "你在做什么？ 我在看书。 书好看吗？ 很好看。",
+      "transcriptPinyin": "nǐ zài zuò shén me ？  wǒ zài kàn shū 。  shū hǎo kàn ma ？  hěn hǎo kàn 。"
+     }
+    },
+    {
+     "id": "q3",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "E",
+     "explanation": "对话中提到了“喝水”和“水”，所以对应水的图片。",
+     "audio": {
+      "key": "listening/v1/9808cde6f829a28a885c1a061d2342d70720366532dd03e56e8fac1782497eea.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你喝什么？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我喝水。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我也喝水。"
+       }
+      ],
+      "transcript": "你喝什么？ 我喝水。 我也喝水。",
+      "transcriptPinyin": "nǐ hē shén me ？  wǒ hē shuǐ 。  wǒ yě hē shuǐ 。"
+     }
+    },
+    {
+     "id": "q4",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "A",
+     "explanation": "对话中提到了“狗”和“叫”，所以对应狗的图片。",
+     "audio": {
+      "key": "listening/v1/c2655f7beb1cf501c23b2de7a7a0fa36325d706822143c3d30612512d91116af.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你听，狗在叫。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "是，那是一只狗。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "它很大。"
+       }
+      ],
+      "transcript": "你听，狗在叫。 是，那是一只狗。 它很大。",
+      "transcriptPinyin": "nǐ tīng ， gǒu zài jiào 。  shì ， nà shì yī zhī gǒu 。  tā hěn dà 。"
+     }
+    },
+    {
+     "id": "q5",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "F",
+     "explanation": "对话中提到了“猫”和“睡觉”，所以对应猫的图片。",
+     "audio": {
+      "key": "listening/v1/9b4f16b7d007c5de3c74ef1040f858e6883e0f68eb5114d5c6bfdd9a96e492bd.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "猫在睡觉。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "是，它很小。"
+       }
+      ],
+      "transcript": "猫在睡觉。 是，它很小。",
+      "transcriptPinyin": "māo zài shuì jiào 。  shì ， tā hěn xiǎo 。"
+     }
+    }
+   ],
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-8b2d46b8d1e9f3f8bbcca2081ae01df3.png"
+    },
+    {
+     "label": "B",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-09922cb7b85a80d56375d42350010985.png"
+    },
+    {
+     "label": "C",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-1808494e0851a787d3da51c03e512fb5.png"
+    },
+    {
+     "label": "D",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-b67b166c975b84e37f3f378d16ffc17a.png"
+    },
+    {
+     "label": "E",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-fcb959a4f31f2c66450f2ec45c89a1f6.png"
+    },
+    {
+     "label": "F",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-6c005d7e61c92ad1e8ecb5c455d10d09.png"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

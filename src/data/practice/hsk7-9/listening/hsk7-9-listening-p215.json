@@ -1,0 +1,143 @@
+{
+ "id": "hsk7-9-listening-p215",
+ "level": "7-9",
+ "section": "listening",
+ "partKey": "listening-p2",
+ "title": "HSK7-9 Listening P2",
+ "titleZh": "听力 第二部分（听短文选填答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听一段关于量子计算的科学介绍，然后回答问题。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "传统比特与量子比特的主要区别是什么？",
+     "correctAnswer": "A",
+     "explanation": "根据原文，由于叠加原理，一个量子比特可以同时处于0和1的状态。",
+     "options": [
+      {
+       "label": "A",
+       "text": "量子比特可以同时表示0和1"
+      },
+      {
+       "label": "B",
+       "text": "量子比特更稳定"
+      },
+      {
+       "label": "C",
+       "text": "量子比特更小"
+      },
+      {
+       "label": "D",
+       "text": "量子比特只能表示0或1"
+      }
+     ]
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "原文提到哪种现象使量子比特之间产生关联？",
+     "correctAnswer": "B",
+     "explanation": "原文指出两个量子比特能通过纠缠现象实现关联。",
+     "options": [
+      {
+       "label": "A",
+       "text": "干涉"
+      },
+      {
+       "label": "B",
+       "text": "纠缠"
+      },
+      {
+       "label": "C",
+       "text": "叠加"
+      },
+      {
+       "label": "D",
+       "text": "测量"
+      }
+     ]
+    },
+    {
+     "id": "q3",
+     "type": "listening-dictation",
+     "prompt": "量子比特之间通过什么现象关联？",
+     "correctAnswer": "纠缠",
+     "explanation": "原文明确提到“两个量子比特还能通过纠缠现象实现关联”。"
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "量子计算在哪个领域有潜在应用？",
+     "correctAnswer": "C",
+     "explanation": "原文提到药物研发是量子计算的一个潜在应用领域。",
+     "options": [
+      {
+       "label": "A",
+       "text": "电子游戏"
+      },
+      {
+       "label": "B",
+       "text": "天气预报"
+      },
+      {
+       "label": "C",
+       "text": "药物研发"
+      },
+      {
+       "label": "D",
+       "text": "社交网络"
+      }
+     ]
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "量子计算目前面临的主要挑战是什么？",
+     "correctAnswer": "B",
+     "explanation": "原文指出主要挑战是量子比特的不稳定性。",
+     "options": [
+      {
+       "label": "A",
+       "text": "编程困难"
+      },
+      {
+       "label": "B",
+       "text": "量子比特不稳定"
+      },
+      {
+       "label": "C",
+       "text": "功耗大"
+      },
+      {
+       "label": "D",
+       "text": "成本太高"
+      }
+     ]
+    },
+    {
+     "id": "q6",
+     "type": "listening-dictation",
+     "prompt": "量子计算机利用什么原理同时处理多种状态？",
+     "correctAnswer": "叠加",
+     "explanation": "原文提到由于叠加原理，量子比特可以同时处于0和1的状态。"
+    }
+   ],
+   "audio": {
+    "key": "listening/v1/2d2ddcc5d76abc8d2eb97a9fda6b284498c673123d64e6d0a1b8a845f30e8561.mp3",
+    "lines": [
+     {
+      "speaker": "旁白",
+      "voice": "narrator",
+      "text": "大家好，今天我们来聊聊量子计算。传统计算机使用比特，每个比特只能表示0或1。而量子计算机使用量子比特，由于叠加原理，一个量子比特可以同时处于0和1的状态。更奇妙的是，两个量子比特还能通过纠缠现象实现关联，改变其中一个会立即影响另一个。这种特性使得量子计算机在某些问题上拥有巨大潜力，比如药物研发，因为模拟分子结构非常复杂。然而，量子计算目前面临的主要挑战是量子比特的不稳定性，容易受环境干扰。尽管如此，科学家们仍在不断取得突破。未来，量子计算可能彻底改变我们的世界。"
+     }
+    ],
+    "transcript": "大家好，今天我们来聊聊量子计算。传统计算机使用比特，每个比特只能表示0或1。而量子计算机使用量子比特，由于叠加原理，一个量子比特可以同时处于0和1的状态。更奇妙的是，两个量子比特还能通过纠缠现象实现关联，改变其中一个会立即影响另一个。这种特性使得量子计算机在某些问题上拥有巨大潜力，比如药物研发，因为模拟分子结构非常复杂。然而，量子计算目前面临的主要挑战是量子比特的不稳定性，容易受环境干扰。尽管如此，科学家们仍在不断取得突破。未来，量子计算可能彻底改变我们的世界。",
+    "transcriptPinyin": null
+   }
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

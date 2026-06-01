@@ -1,0 +1,179 @@
+{
+ "id": "hsk4-listening-p205",
+ "level": "4",
+ "section": "listening",
+ "partKey": "listening-p2",
+ "title": "HSK4 Listening P2",
+ "titleZh": "听力 第二部分（听短文选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听一段独白，根据独白内容，从每题所给的四个选项中选出正确答案。独白将播放两遍。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "李明以前早上怎么样？",
+     "correctAnswer": "A",
+     "explanation": "独白第一句明确说“以前我每天早上都起得很晚”，所以正确答案是起得很晚。",
+     "options": [
+      {
+       "label": "A",
+       "text": "起得很晚"
+      },
+      {
+       "label": "B",
+       "text": "不吃饭"
+      },
+      {
+       "label": "C",
+       "text": "起得很早"
+      },
+      {
+       "label": "D",
+       "text": "不跑步"
+      }
+     ]
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "李明为什么开始早起？",
+     "correctAnswer": "A",
+     "explanation": "独白中提到“老师也建议我早睡早起”，因此开始早起的原因是老师的建议。",
+     "options": [
+      {
+       "label": "A",
+       "text": "老师建议"
+      },
+      {
+       "label": "B",
+       "text": "为了看书"
+      },
+      {
+       "label": "C",
+       "text": "父母要求"
+      },
+      {
+       "label": "D",
+       "text": "喜欢跑步"
+      }
+     ]
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "李明一开始早起容易吗？",
+     "correctAnswer": "D",
+     "explanation": "独白说“一开始很不习惯”，所以说明早起对他来说并不容易，不太习惯。",
+     "options": [
+      {
+       "label": "A",
+       "text": "很快适应"
+      },
+      {
+       "label": "B",
+       "text": "非常开心"
+      },
+      {
+       "label": "C",
+       "text": "很容易"
+      },
+      {
+       "label": "D",
+       "text": "不太习惯"
+      }
+     ]
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "李明现在每天早上六点起床后做什么？",
+     "correctAnswer": "A",
+     "explanation": "独白明确说“每天早上六点起床，先去操场跑步半小时，然后吃早饭、看书”，所以起床后先跑步。",
+     "options": [
+      {
+       "label": "A",
+       "text": "先跑步"
+      },
+      {
+       "label": "B",
+       "text": "先洗澡"
+      },
+      {
+       "label": "C",
+       "text": "先吃早饭"
+      },
+      {
+       "label": "D",
+       "text": "先看书"
+      }
+     ]
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "李明早起后有什么变化？",
+     "correctAnswer": "D",
+     "explanation": "独白提到“早上的时间好像变长了，我可以做很多事”，因此时间变多了是变化之一。",
+     "options": [
+      {
+       "label": "A",
+       "text": "学习效率降低"
+      },
+      {
+       "label": "B",
+       "text": "晚上睡得晚"
+      },
+      {
+       "label": "C",
+       "text": "身体变差了"
+      },
+      {
+       "label": "D",
+       "text": "时间变多了"
+      }
+     ]
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "李明对同学们有什么建议？",
+     "correctAnswer": "D",
+     "explanation": "独白最后一句说“所以我建议同学们也可以试试早起”，因此建议是尝试早起。",
+     "options": [
+      {
+       "label": "A",
+       "text": "多看书"
+      },
+      {
+       "label": "B",
+       "text": "早睡晚起"
+      },
+      {
+       "label": "C",
+       "text": "多跑步"
+      },
+      {
+       "label": "D",
+       "text": "尝试早起"
+      }
+     ]
+    }
+   ],
+   "audio": {
+    "key": "listening/v1/b86715a55ea145672b90db6099264e5caff6a2b35283d768c5d181d8b983878b.mp3",
+    "lines": [
+     {
+      "speaker": "旁白",
+      "voice": "narrator",
+      "text": "大家好，我叫李明。以前我每天早上都起得很晚，总是匆匆忙忙地赶去上课。后来我发现这样对身体不好，老师也建议我早睡早起。于是我开始尝试改变。我先从晚上早睡开始，每天十点半就上床休息。一开始很不习惯，但坚持了一周后，我觉得早上起来轻松多了。现在我已经坚持早起三个月了。每天早上六点起床，先去操场跑步半小时，然后吃早饭、看书。早上的时间好像变长了，我可以做很多事。我的学习效率也提高了。更重要的是，我的身体更健康了。所以我建议同学们也可以试试早起。"
+     }
+    ],
+    "transcript": "大家好，我叫李明。以前我每天早上都起得很晚，总是匆匆忙忙地赶去上课。后来我发现这样对身体不好，老师也建议我早睡早起。于是我开始尝试改变。我先从晚上早睡开始，每天十点半就上床休息。一开始很不习惯，但坚持了一周后，我觉得早上起来轻松多了。现在我已经坚持早起三个月了。每天早上六点起床，先去操场跑步半小时，然后吃早饭、看书。早上的时间好像变长了，我可以做很多事。我的学习效率也提高了。更重要的是，我的身体更健康了。所以我建议同学们也可以试试早起。",
+    "transcriptPinyin": null
+   }
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

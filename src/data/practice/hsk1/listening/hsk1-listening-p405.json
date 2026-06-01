@@ -1,0 +1,202 @@
+{
+ "id": "hsk1-listening-p405",
+ "level": "1",
+ "section": "listening",
+ "partKey": "listening-p4",
+ "title": "HSK1 Listening P4",
+ "titleZh": "听力 第四部分（听问句选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "下面你将听到5段简短的话。每段话后有一个问题，请从三个选项中选出正确答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "我妹妹几岁？",
+     "correctAnswer": "A",
+     "explanation": "录音里说“妹妹八岁”，所以妹妹八岁。",
+     "audio": {
+      "key": "listening/v1/2ca939399c6067aa8184981a313d1594a365bb4183f0e32d89911b07a8cad61a.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我今年十岁。我妹妹今年八岁。"
+       }
+      ],
+      "transcript": "我今年十岁。我妹妹今年八岁。",
+      "transcriptPinyin": "wǒ jīn nián shí suì 。 wǒ mèi mèi jīn nián bā suì 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "八岁",
+       "pinyin": "bā suì"
+      },
+      {
+       "label": "B",
+       "text": "十岁",
+       "pinyin": "shí suì"
+      },
+      {
+       "label": "C",
+       "text": "九岁",
+       "pinyin": "jiǔ suì"
+      }
+     ],
+     "pinyin": "wǒ mèi mèi jǐ suì ？"
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "现在几点？",
+     "correctAnswer": "B",
+     "explanation": "录音说“现在下午三点”，所以是下午三点。",
+     "audio": {
+      "key": "listening/v1/8a4c10da8b230eb1f3f4013f12f834b1ee325eff468de3665ba83f43ab31775a.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "现在下午三点。我朋友来我家。"
+       }
+      ],
+      "transcript": "现在下午三点。我朋友来我家。",
+      "transcriptPinyin": "xiàn zài xià wǔ sān diǎn 。 wǒ péng yǒu lái wǒ jiā 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "下午两点",
+       "pinyin": "xià wǔ liǎng diǎn"
+      },
+      {
+       "label": "B",
+       "text": "下午三点",
+       "pinyin": "xià wǔ sān diǎn"
+      },
+      {
+       "label": "C",
+       "text": "下午一点",
+       "pinyin": "xià wǔ yì diǎn"
+      }
+     ],
+     "pinyin": "xiàn zài jǐ diǎn ？"
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "我今天吃什么？",
+     "correctAnswer": "A",
+     "explanation": "录音说“今天吃苹果”，所以吃苹果。",
+     "audio": {
+      "key": "listening/v1/84016718feb1d09d0dfbf80fb397b1687ec230f91a12e4bf290fe549881b19d7.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我每天吃水果。今天吃苹果。"
+       }
+      ],
+      "transcript": "我每天吃水果。今天吃苹果。",
+      "transcriptPinyin": "wǒ měi tiān chī shuǐ guǒ 。 jīn tiān chī píng guǒ 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "苹果",
+       "pinyin": "píng guǒ"
+      },
+      {
+       "label": "B",
+       "text": "香蕉",
+       "pinyin": "xiāng jiāo"
+      },
+      {
+       "label": "C",
+       "text": "水",
+       "pinyin": "shuǐ"
+      }
+     ],
+     "pinyin": "wǒ jīn tiān chī shén me ？"
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "我家有几个人？",
+     "correctAnswer": "A",
+     "explanation": "录音说“爸爸、妈妈和我”，一共三个人。",
+     "audio": {
+      "key": "listening/v1/dddd579d3de4fe7b1c911b9f1188eaa342c8cfe41e19f3e90270d6b86d2828b0.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我家有爸爸、妈妈和我。我爱他们。"
+       }
+      ],
+      "transcript": "我家有爸爸、妈妈和我。我爱他们。",
+      "transcriptPinyin": "wǒ jiā yǒu bà bà 、 mā mā hé wǒ 。 wǒ ài tā men 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "三个人",
+       "pinyin": "sān gè rén"
+      },
+      {
+       "label": "B",
+       "text": "四个人",
+       "pinyin": "sì gè rén"
+      },
+      {
+       "label": "C",
+       "text": "两个人",
+       "pinyin": "liǎng gè rén"
+      }
+     ],
+     "pinyin": "wǒ jiā yǒu jǐ gè rén ？"
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "书在哪儿？",
+     "correctAnswer": "C",
+     "explanation": "录音说“书在桌子上”，所以在桌子上。",
+     "audio": {
+      "key": "listening/v1/a0ba38277b98770cd1dcaa92dd382635319046c61c5f24b55f0aeac0db987ed5.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我的书在桌子上。我的笔在书包里。"
+       }
+      ],
+      "transcript": "我的书在桌子上。我的笔在书包里。",
+      "transcriptPinyin": "wǒ de shū zài zhuō zi shàng 。 wǒ de bǐ zài shū bāo lǐ 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "书包里",
+       "pinyin": "shū bāo lǐ"
+      },
+      {
+       "label": "B",
+       "text": "椅子上",
+       "pinyin": "yǐ zi shàng"
+      },
+      {
+       "label": "C",
+       "text": "桌子上",
+       "pinyin": "zhuō zi shàng"
+      }
+     ],
+     "pinyin": "shū zài nǎ ér ？"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

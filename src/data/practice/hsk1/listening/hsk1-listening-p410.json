@@ -1,0 +1,202 @@
+{
+ "id": "hsk1-listening-p410",
+ "level": "1",
+ "section": "listening",
+ "partKey": "listening-p4",
+ "title": "HSK1 Listening P4",
+ "titleZh": "听力 第四部分（听问句选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "下面你将听到5个简短的小故事。每个故事后有一个问题，请从三个选项中选择正确答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "他叫什么名字？",
+     "correctAnswer": "A",
+     "explanation": "他说他叫小明。",
+     "audio": {
+      "key": "listening/v1/7d33e093e40675f00ab61b29d387fb2cdc415b786b81f87fb1ee853980c3c3fc.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "你好，我叫小明，我是学生。"
+       }
+      ],
+      "transcript": "你好，我叫小明，我是学生。",
+      "transcriptPinyin": "nǐ hǎo ， wǒ jiào xiǎo míng ， wǒ shì xué shēng 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "小明",
+       "pinyin": "xiǎo míng"
+      },
+      {
+       "label": "B",
+       "text": "小刚",
+       "pinyin": "xiǎo gāng"
+      },
+      {
+       "label": "C",
+       "text": "小红",
+       "pinyin": "xiǎo hóng"
+      }
+     ],
+     "pinyin": "tā jiào shén me míng zì ？"
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "他几岁？",
+     "correctAnswer": "A",
+     "explanation": "他说他今年八岁。",
+     "audio": {
+      "key": "listening/v1/fb5c8a5013e5d030e7a224328515f111f918090fd5295a021760ed2f20decca5.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我今年八岁。"
+       }
+      ],
+      "transcript": "我今年八岁。",
+      "transcriptPinyin": "wǒ jīn nián bā suì 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "八岁",
+       "pinyin": "bā suì"
+      },
+      {
+       "label": "B",
+       "text": "七岁",
+       "pinyin": "qī suì"
+      },
+      {
+       "label": "C",
+       "text": "九岁",
+       "pinyin": "jiǔ suì"
+      }
+     ],
+     "pinyin": "tā jǐ suì ？"
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "他有什么？",
+     "correctAnswer": "C",
+     "explanation": "他说他有一本书。",
+     "audio": {
+      "key": "listening/v1/0dce7146a103ea2d2f6b5c1ebfa5e0d9a2f581e2eb9c5b997f37b095b608547b.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我有一本书。"
+       }
+      ],
+      "transcript": "我有一本书。",
+      "transcriptPinyin": "wǒ yǒu yī běn shū 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "一支笔",
+       "pinyin": "yī zhī bǐ"
+      },
+      {
+       "label": "B",
+       "text": "一个苹果",
+       "pinyin": "yí gè píng guǒ"
+      },
+      {
+       "label": "C",
+       "text": "一本书",
+       "pinyin": "yī běn shū"
+      }
+     ],
+     "pinyin": "tā yǒu shén me ？"
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "猫在哪里？",
+     "correctAnswer": "B",
+     "explanation": "他说猫在椅子上。",
+     "audio": {
+      "key": "listening/v1/da986681fd623aa17b2d0a7e889f5b2a84d8f25abadd190adfc8a6749d88d3e5.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我的猫在椅子上。"
+       }
+      ],
+      "transcript": "我的猫在椅子上。",
+      "transcriptPinyin": "wǒ de māo zài yǐ zi shàng 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "桌子上",
+       "pinyin": "zhuō zi shàng"
+      },
+      {
+       "label": "B",
+       "text": "椅子上",
+       "pinyin": "yǐ zi shàng"
+      },
+      {
+       "label": "C",
+       "text": "床上",
+       "pinyin": "chuáng shàng"
+      }
+     ],
+     "pinyin": "māo zài nǎ lǐ ？"
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "他喜欢吃什么？",
+     "correctAnswer": "B",
+     "explanation": "他说他喜欢吃苹果。",
+     "audio": {
+      "key": "listening/v1/ed47589bcbc8f1a72562415e9dcc218def14d54e187c70f5848f9b32ac6bb01a.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我喜欢吃苹果。"
+       }
+      ],
+      "transcript": "我喜欢吃苹果。",
+      "transcriptPinyin": "wǒ xǐ huān chī píng guǒ 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "香蕉",
+       "pinyin": "xiāng jiāo"
+      },
+      {
+       "label": "B",
+       "text": "苹果",
+       "pinyin": "píng guǒ"
+      },
+      {
+       "label": "C",
+       "text": "橘子",
+       "pinyin": "jú zi"
+      }
+     ],
+     "pinyin": "tā xǐ huān chī shén me ？"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

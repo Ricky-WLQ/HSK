@@ -1,0 +1,289 @@
+{
+ "id": "hsk2-listening-p215",
+ "level": "2",
+ "section": "listening",
+ "partKey": "listening-p2",
+ "title": "HSK2 Listening P2",
+ "titleZh": "听力 第二部分（看图听对话）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "听对话，选出与对话内容相符的图片。每组对话对应一幅图片，每幅图片可能被重复使用。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "A",
+     "explanation": "对话提到‘吃饭’，与图片A中的人吃饭场景相符。",
+     "audio": {
+      "key": "listening/v1/367278cabd7da8fe0df5ab6e6b71d71931528ec1c96e48086475b582606ee9f0.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你吃饭了吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "吃了，你呢？"
+       }
+      ],
+      "transcript": "你吃饭了吗？ 吃了，你呢？",
+      "transcriptPinyin": "nǐ chī fàn le ma ？  chī le ， nǐ ne ？"
+     }
+    },
+    {
+     "id": "q2",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "B",
+     "explanation": "对话提到‘喝水’，与图片B中的人喝水场景相符。",
+     "audio": {
+      "key": "listening/v1/f34158ef84114c1f41467726c20ac99fd5c807a9cb787d462721ab708a1e641e.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你想喝水吗？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "好的，谢谢。"
+       }
+      ],
+      "transcript": "你想喝水吗？ 好的，谢谢。",
+      "transcriptPinyin": "nǐ xiǎng hē shuǐ ma ？  hǎo de ， xiè xiè 。"
+     }
+    },
+    {
+     "id": "q3",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "C",
+     "explanation": "对话提到‘看书’，与图片C中的人看书场景相符。",
+     "audio": {
+      "key": "listening/v1/dffaf0e07bbd6f2e8fbefd9ba6c9ebdd503bcfe963f7227ca0e7eddc711a0d35.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你在做什么？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我在看书。"
+       }
+      ],
+      "transcript": "你在做什么？ 我在看书。",
+      "transcriptPinyin": "nǐ zài zuò shén me ？  wǒ zài kàn shū 。"
+     }
+    },
+    {
+     "id": "q4",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "D",
+     "explanation": "对话提到‘写字’，与图片D中的人写字场景相符。",
+     "audio": {
+      "key": "listening/v1/104f08702e38ff700ef1c612ec5758587894a85742260d20a8f048359f685080.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "小朋友，你在写字吗？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "是的，我在写字。"
+       }
+      ],
+      "transcript": "小朋友，你在写字吗？ 是的，我在写字。",
+      "transcriptPinyin": "xiǎo péng yǒu ， nǐ zài xiě zì ma ？  shì de ， wǒ zài xiě zì 。"
+     }
+    },
+    {
+     "id": "q5",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "E",
+     "explanation": "对话提到‘睡觉’，与图片E中的人睡觉场景相符。",
+     "audio": {
+      "key": "listening/v1/741a00c8db2f6e24d2d455c48ffe4ed40ec7aefe50269ce452fd5cdbd66b2476.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你累了吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "很累，我想睡觉。"
+       }
+      ],
+      "transcript": "你累了吗？ 很累，我想睡觉。",
+      "transcriptPinyin": "nǐ lèi le ma ？  hěn lèi ， wǒ xiǎng shuì jiào 。"
+     }
+    },
+    {
+     "id": "q6",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "A",
+     "explanation": "对话提到‘吃米饭’，与图片A中的人吃饭场景相符。",
+     "audio": {
+      "key": "listening/v1/8be22d30903089f888fa30cedfd9f5b16284c66390df964ad1aeb99f329407cb.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你中午吃什么？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我吃米饭。"
+       }
+      ],
+      "transcript": "你中午吃什么？ 我吃米饭。",
+      "transcriptPinyin": "nǐ zhōng wǔ chī shén me ？  wǒ chī mǐ fàn 。"
+     }
+    },
+    {
+     "id": "q7",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "B",
+     "explanation": "对话提到‘水’和喝水动作，与图片B中的人喝水场景相符。",
+     "audio": {
+      "key": "listening/v1/b56a9134db35c0a0af89b2e084896018dce8c8445eb8edd77114a5a0c27e5060.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "请给我一杯水。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "好，给你。"
+       }
+      ],
+      "transcript": "请给我一杯水。 好，给你。",
+      "transcriptPinyin": "qǐng gěi wǒ yī bēi shuǐ 。  hǎo ， gěi nǐ 。"
+     }
+    },
+    {
+     "id": "q8",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "C",
+     "explanation": "对话提到‘看书’，与图片C中的人看书场景相符。",
+     "audio": {
+      "key": "listening/v1/19c654dd46203b89399b48140ccec886e7782c1068c7cdb3d2fe4b1538c1e816.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "这本书好看吗？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "很好看，我每天都在看。"
+       }
+      ],
+      "transcript": "这本书好看吗？ 很好看，我每天都在看。",
+      "transcriptPinyin": "zhè běn shū hǎo kàn ma ？  hěn hǎo kàn ， wǒ měi tiān dōu zài kàn 。"
+     }
+    },
+    {
+     "id": "q9",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "D",
+     "explanation": "对话提到‘写字’，与图片D中的人写字场景相符。",
+     "audio": {
+      "key": "listening/v1/9e4cbd789eeffc4029f047e4990831fbe2e8147ac2cd8e512b479e0097683501.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "老师，我写好了。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "很好，你写得很漂亮。"
+       }
+      ],
+      "transcript": "老师，我写好了。 很好，你写得很漂亮。",
+      "transcriptPinyin": "lǎo shī ， wǒ xiě hǎo le 。  hěn hǎo ， nǐ xiě dé hěn piào liàng 。"
+     }
+    },
+    {
+     "id": "q10",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "E",
+     "explanation": "对话提到‘睡觉’，与图片E中的人睡觉场景相符。",
+     "audio": {
+      "key": "listening/v1/97601bb8bb23186dbb2cc040b8dae746098738ceda2eca6cbff0b7623b395fbf.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "晚安，早点睡。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "晚安，我马上睡觉。"
+       }
+      ],
+      "transcript": "晚安，早点睡。 晚安，我马上睡觉。",
+      "transcriptPinyin": "wǎn ān ， zǎo diǎn shuì 。  wǎn ān ， wǒ mǎ shàng shuì jiào 。"
+     }
+    }
+   ],
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-b7bb7f3bcd80303d176e9150d372a535.png"
+    },
+    {
+     "label": "B",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-d51f5918143ef81851ab66a567f6f69e.png"
+    },
+    {
+     "label": "C",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-2265eee7587ef1420f3f0516bd5dc8cd.png"
+    },
+    {
+     "label": "D",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-4bf17382606395f0e151c413d39afeb9.png"
+    },
+    {
+     "label": "E",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-7dded089bb8209cbde0424cdc99df31e.png"
+    },
+    {
+     "label": "F",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-0d9c42d9be8b054422fab3e4b8f8d38b.png"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

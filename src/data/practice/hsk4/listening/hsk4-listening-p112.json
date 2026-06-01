@@ -1,0 +1,675 @@
+{
+ "id": "hsk4-listening-p112",
+ "level": "4",
+ "section": "listening",
+ "partKey": "listening-p1",
+ "title": "HSK4 Listening P1",
+ "titleZh": "听力 第一部分（听对话选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听对话，然后根据对话内容回答问题，从A、B、C、D四个选项中选出最佳答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "女的觉得那家川菜馆怎么样？",
+     "correctAnswer": "A",
+     "explanation": "女的提到味道很不错，所以味道很好。价格贵，不是便宜；没有提到服务或环境。",
+     "audio": {
+      "key": "listening/v1/15995308527d8a5bc4b78db12e7cf4d8feeae020a2925e505194d3bba62d3f05.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你最近去过那家新开的川菜馆吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "去过两次，味道很不错，但是价格有点儿贵。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "是吗？那我还是去试试吧。"
+       }
+      ],
+      "transcript": "你最近去过那家新开的川菜馆吗？ 去过两次，味道很不错，但是价格有点儿贵。 是吗？那我还是去试试吧。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "味道很好"
+      },
+      {
+       "label": "B",
+       "text": "服务不好"
+      },
+      {
+       "label": "C",
+       "text": "价格便宜"
+      },
+      {
+       "label": "D",
+       "text": "环境一般"
+      }
+     ]
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "男的暑假计划是什么？",
+     "correctAnswer": "A",
+     "explanation": "男的说打算去云南，所以他的计划是去云南旅行。打工是女的的计划。",
+     "audio": {
+      "key": "listening/v1/f1f72bfe6e086c289f7217238bc10c7ca12cbc4ec4cc1cc3f98d2fabaae2bad3.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "暑假你打算去哪儿玩？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我打算去云南，听说那里的风景特别美。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我也想去，但是我要打工挣学费。"
+       }
+      ],
+      "transcript": "暑假你打算去哪儿玩？ 我打算去云南，听说那里的风景特别美。 我也想去，但是我要打工挣学费。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "去云南旅行"
+      },
+      {
+       "label": "B",
+       "text": "去学校学习"
+      },
+      {
+       "label": "C",
+       "text": "在家休息"
+      },
+      {
+       "label": "D",
+       "text": "打工挣钱"
+      }
+     ]
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "女的怎么了？",
+     "correctAnswer": "B",
+     "explanation": "女的说吃坏肚子了，一直不舒服，所以是肚子不舒服。",
+     "audio": {
+      "key": "listening/v1/29d172d8b545ff785d7f3e14c010ab594de78fa4fc318b5e7ab481225c55e21f.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你脸色不太好，是不是生病了？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "可能是昨天吃坏肚子了，今天一直不舒服。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "那你多喝点热水，好好休息。"
+       }
+      ],
+      "transcript": "你脸色不太好，是不是生病了？ 可能是昨天吃坏肚子了，今天一直不舒服。 那你多喝点热水，好好休息。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "感冒了"
+      },
+      {
+       "label": "B",
+       "text": "肚子不舒服"
+      },
+      {
+       "label": "C",
+       "text": "头疼"
+      },
+      {
+       "label": "D",
+       "text": "发烧了"
+      }
+     ]
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "女的手机可能在哪里？",
+     "correctAnswer": "A",
+     "explanation": "女的说可能落在图书馆了。",
+     "audio": {
+      "key": "listening/v1/4d2f3a9f59d844173f8abfac32aced66c1d7910496b90a8a948be508e3cf329f.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我的手机找不到了，你看见了吗？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "没有啊，你最后一次用是在哪儿？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "可能落在图书馆了。"
+       }
+      ],
+      "transcript": "我的手机找不到了，你看见了吗？ 没有啊，你最后一次用是在哪儿？ 可能落在图书馆了。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "图书馆"
+      },
+      {
+       "label": "B",
+       "text": "教室"
+      },
+      {
+       "label": "C",
+       "text": "家里"
+      },
+      {
+       "label": "D",
+       "text": "商店"
+      }
+     ]
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "女的推荐了什么书？",
+     "correctAnswer": "C",
+     "explanation": "女的说在看关于历史的书，所以推荐历史书。",
+     "audio": {
+      "key": "listening/v1/e487b3e72c92c02783c3128e467d7ebb59d60fb341e569bc4394773e0bee842b.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "最近在看什么书？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我在看一本关于历史的书，很有意思，推荐你看。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "好啊，我喜欢历史。"
+       }
+      ],
+      "transcript": "最近在看什么书？ 我在看一本关于历史的书，很有意思，推荐你看。 好啊，我喜欢历史。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "小说"
+      },
+      {
+       "label": "B",
+       "text": "漫画书"
+      },
+      {
+       "label": "C",
+       "text": "历史书"
+      },
+      {
+       "label": "D",
+       "text": "科学书"
+      }
+     ]
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "男的明天要做什么？",
+     "correctAnswer": "B",
+     "explanation": "明天面试，所以是去面试。",
+     "audio": {
+      "key": "listening/v1/b1226e1eaabebad84a0fed95171dbca7ce1c2e6321b35947bca2fc769954e931.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "明天的面试你准备好了吗？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "准备得差不多了，但是有点儿紧张。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "别紧张，你能力很强，肯定没问题。"
+       }
+      ],
+      "transcript": "明天的面试你准备好了吗？ 准备得差不多了，但是有点儿紧张。 别紧张，你能力很强，肯定没问题。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "见朋友"
+      },
+      {
+       "label": "B",
+       "text": "去面试"
+      },
+      {
+       "label": "C",
+       "text": "参加考试"
+      },
+      {
+       "label": "D",
+       "text": "去旅行"
+      }
+     ]
+    },
+    {
+     "id": "q7",
+     "type": "listening-mcq",
+     "prompt": "今天天气怎么样？",
+     "correctAnswer": "B",
+     "explanation": "男的说天气好，不冷不热，所以很舒服。",
+     "audio": {
+      "key": "listening/v1/4fde63577b625a68955a227cec9541c3329ecb79dc831d39b26c40e1b492e1ce.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "今天天气真好啊，不冷也不热。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "是啊，很适合出去走走。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "那我们去公园散步吧。"
+       }
+      ],
+      "transcript": "今天天气真好啊，不冷也不热。 是啊，很适合出去走走。 那我们去公园散步吧。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "很热"
+      },
+      {
+       "label": "B",
+       "text": "很舒服"
+      },
+      {
+       "label": "C",
+       "text": "很冷"
+      },
+      {
+       "label": "D",
+       "text": "下雨"
+      }
+     ]
+    },
+    {
+     "id": "q8",
+     "type": "listening-mcq",
+     "prompt": "男的准备给妈妈买什么？",
+     "correctAnswer": "A",
+     "explanation": "男的说买一束花和一条围巾。",
+     "audio": {
+      "key": "listening/v1/97364f3f8c420f083e36758cb268162ff28b20af0381a8de81f3f60f3bcd6f99.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "明天是妈妈的生日，你想好买什么礼物了吗？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我打算买一束花，再买一条围巾。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "围巾不错，妈妈正好需要一条。"
+       }
+      ],
+      "transcript": "明天是妈妈的生日，你想好买什么礼物了吗？ 我打算买一束花，再买一条围巾。 围巾不错，妈妈正好需要一条。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "花和围巾"
+      },
+      {
+       "label": "B",
+       "text": "蛋糕和衣服"
+      },
+      {
+       "label": "C",
+       "text": "围巾和衣服"
+      },
+      {
+       "label": "D",
+       "text": "花和蛋糕"
+      }
+     ]
+    },
+    {
+     "id": "q9",
+     "type": "listening-mcq",
+     "prompt": "女的认为电影怎么样？",
+     "correctAnswer": "A",
+     "explanation": "女的说剧情很不错，但演员一般，所以剧情不错。",
+     "audio": {
+      "key": "listening/v1/596fe177d5e42fdbdb3d10bc98bbcf7b1ec717e8419e169521b6c0132af016a9.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "昨天看的那部电影你觉得怎么样？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "剧情很不错，但是演员表演一般。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我觉得那个女主角演得很好。"
+       }
+      ],
+      "transcript": "昨天看的那部电影你觉得怎么样？ 剧情很不错，但是演员表演一般。 我觉得那个女主角演得很好。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "剧情不错"
+      },
+      {
+       "label": "B",
+       "text": "画面很美"
+      },
+      {
+       "label": "C",
+       "text": "演员演得好"
+      },
+      {
+       "label": "D",
+       "text": "音乐好听"
+      }
+     ]
+    },
+    {
+     "id": "q10",
+     "type": "listening-mcq",
+     "prompt": "他们要去哪儿？",
+     "correctAnswer": "B",
+     "explanation": "女的说去学校旁边新开的面馆，所以去面馆。",
+     "audio": {
+      "key": "listening/v1/fa3ba25dd7f52b68a7e96c5ddc4d0d06848c17f7bd3826cd0c92553d60cfa003.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "听说学校旁边新开了一家面馆，我们去试试吧。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "好啊，我最喜欢吃面了。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "那我们现在就去吧。"
+       }
+      ],
+      "transcript": "听说学校旁边新开了一家面馆，我们去试试吧。 好啊，我最喜欢吃面了。 那我们现在就去吧。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "学校"
+      },
+      {
+       "label": "B",
+       "text": "面馆"
+      },
+      {
+       "label": "C",
+       "text": "图书馆"
+      },
+      {
+       "label": "D",
+       "text": "超市"
+      }
+     ]
+    },
+    {
+     "id": "q11",
+     "type": "listening-mcq",
+     "prompt": "女的周末计划是什么？",
+     "correctAnswer": "B",
+     "explanation": "女的说和朋友看画展。",
+     "audio": {
+      "key": "listening/v1/a00d4d765a8dd16c3d6d87d0848d8c966dd25eaf29a600a0845fdac7f3490221.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "这个周末你有什么安排？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我打算和朋友一起去看画展。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "画展？我对画不太懂，但是可以陪你去。"
+       }
+      ],
+      "transcript": "这个周末你有什么安排？ 我打算和朋友一起去看画展。 画展？我对画不太懂，但是可以陪你去。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "看电影"
+      },
+      {
+       "label": "B",
+       "text": "看画展"
+      },
+      {
+       "label": "C",
+       "text": "旅游"
+      },
+      {
+       "label": "D",
+       "text": "逛街"
+      }
+     ]
+    },
+    {
+     "id": "q12",
+     "type": "listening-mcq",
+     "prompt": "下周他们有什么事情？",
+     "correctAnswer": "A",
+     "explanation": "下周考试。",
+     "audio": {
+      "key": "listening/v1/e798ce3e4cc0322b74b4ffe2ff5b911bf01bdfc1ae8d66faa917844f808258e0.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你复习得怎么样了？下周就要考试了。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "已经复习了两遍，应该没问题。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "那就好，我们互相鼓励。"
+       }
+      ],
+      "transcript": "你复习得怎么样了？下周就要考试了。 已经复习了两遍，应该没问题。 那就好，我们互相鼓励。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "考试"
+      },
+      {
+       "label": "B",
+       "text": "聚会"
+      },
+      {
+       "label": "C",
+       "text": "比赛"
+      },
+      {
+       "label": "D",
+       "text": "旅行"
+      }
+     ]
+    },
+    {
+     "id": "q13",
+     "type": "listening-mcq",
+     "prompt": "女的手机怎么了？",
+     "correctAnswer": "C",
+     "explanation": "女的说手机摔坏了，所以是坏了。",
+     "audio": {
+      "key": "listening/v1/f0cb1c81e1acc1e01a4e7ee710a2b59991a00f0b792283b97b254b0b5db389d1.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你的手机怎么一直打不通？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我手机昨天摔坏了，还没来得及修。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "那赶紧去修吧，不然不方便联系。"
+       }
+      ],
+      "transcript": "你的手机怎么一直打不通？ 我手机昨天摔坏了，还没来得及修。 那赶紧去修吧，不然不方便联系。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "丢了"
+      },
+      {
+       "label": "B",
+       "text": "没电了"
+      },
+      {
+       "label": "C",
+       "text": "坏了"
+      },
+      {
+       "label": "D",
+       "text": "被偷了"
+      }
+     ]
+    },
+    {
+     "id": "q14",
+     "type": "listening-mcq",
+     "prompt": "男的每天做什么运动？",
+     "correctAnswer": "B",
+     "explanation": "男的说每天早上跑半小时，所以跑步。",
+     "audio": {
+      "key": "listening/v1/1d1ea7c940222db598c9c2571599a8b347eb6af4023ccc635dbc707d6155a78c.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你经常跑步吗？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "是的，我每天早上都跑半小时。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "真厉害，我也想坚持跑步，但总是起不来。"
+       }
+      ],
+      "transcript": "你经常跑步吗？ 是的，我每天早上都跑半小时。 真厉害，我也想坚持跑步，但总是起不来。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "骑车"
+      },
+      {
+       "label": "B",
+       "text": "跑步"
+      },
+      {
+       "label": "C",
+       "text": "打球"
+      },
+      {
+       "label": "D",
+       "text": "游泳"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

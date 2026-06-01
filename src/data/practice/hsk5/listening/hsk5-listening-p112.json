@@ -1,0 +1,487 @@
+{
+ "id": "hsk5-listening-p112",
+ "level": "5",
+ "section": "listening",
+ "partKey": "listening-p1",
+ "title": "HSK5 Listening P1",
+ "titleZh": "听力 第一部分（听对话选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "下面你将听到10段对话，每段对话后有一个问题，请从A、B、C、D四个选项中选出最佳答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "他们打算什么时候去旅行？",
+     "correctAnswer": "D",
+     "explanation": "对话中女的说周三比较空，男的也同意定周三，所以是下周三。",
+     "audio": {
+      "key": "listening/v1/c91512d73e2837b2293c9cc2434d93414e01d2a54b60b5e7daea00123dcbab63.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我们下周去旅行吧，你觉得哪天合适？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "周一周二我都有会议，周三比较空。周五也行，但周三更好。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "那就定周三吧，我查查天气。"
+       }
+      ],
+      "transcript": "我们下周去旅行吧，你觉得哪天合适？ 周一周二我都有会议，周三比较空。周五也行，但周三更好。 那就定周三吧，我查查天气。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "下周一"
+      },
+      {
+       "label": "B",
+       "text": "下周日"
+      },
+      {
+       "label": "C",
+       "text": "下周五"
+      },
+      {
+       "label": "D",
+       "text": "下周三"
+      }
+     ]
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "女的觉得这部电影怎么样？",
+     "correctAnswer": "D",
+     "explanation": "女的说情节老套，看了半小时就睡着，说明她觉得无聊。",
+     "audio": {
+      "key": "listening/v1/397de63fb1031d17b427ea24aac1a4912062264d98c53e4f9db24fd83c052a69.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "昨晚那部电影你觉得怎么样？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "情节太老套了，我看了半小时就睡着了。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "确实，我也觉得没什么意思。"
+       }
+      ],
+      "transcript": "昨晚那部电影你觉得怎么样？ 情节太老套了，我看了半小时就睡着了。 确实，我也觉得没什么意思。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "很精彩"
+      },
+      {
+       "label": "B",
+       "text": "情节复杂"
+      },
+      {
+       "label": "C",
+       "text": "太长了"
+      },
+      {
+       "label": "D",
+       "text": "很无聊"
+      }
+     ]
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "男的点的是什么？",
+     "correctAnswer": "D",
+     "explanation": "男的明确说“那就来条鱼吧”，所以点的是鱼。",
+     "audio": {
+      "key": "listening/v1/4262b96422193782c2ba63beb643316bef7bf89fddaa779a265d48c8b26c52dd.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你想吃什么？我推荐这里的鱼，特别新鲜。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "好，那就来条鱼吧，再来个蔬菜沙拉。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "好的，我记下了。"
+       }
+      ],
+      "transcript": "你想吃什么？我推荐这里的鱼，特别新鲜。 好，那就来条鱼吧，再来个蔬菜沙拉。 好的，我记下了。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "鸡肉"
+      },
+      {
+       "label": "B",
+       "text": "蔬菜"
+      },
+      {
+       "label": "C",
+       "text": "牛肉"
+      },
+      {
+       "label": "D",
+       "text": "鱼"
+      }
+     ]
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "男的对这门课的看法是什么？",
+     "correctAnswer": "C",
+     "explanation": "男的说考试不及格，老师讲得太深，说明他觉得太难。",
+     "audio": {
+      "key": "listening/v1/802fd94854ecff0a5236d12323b6f7d5fea215e190be784943eef572aa53e578.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "这门课你觉得难吗？我作业都快写不完了。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "别提了，我每次考试都不及格，老师讲得太深了。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "那我们要不要一起复习？"
+       }
+      ],
+      "transcript": "这门课你觉得难吗？我作业都快写不完了。 别提了，我每次考试都不及格，老师讲得太深了。 那我们要不要一起复习？",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "无聊"
+      },
+      {
+       "label": "B",
+       "text": "有用"
+      },
+      {
+       "label": "C",
+       "text": "太难"
+      },
+      {
+       "label": "D",
+       "text": "简单"
+      }
+     ]
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "女的认为面试结果什么时候出来？",
+     "correctAnswer": "C",
+     "explanation": "男的说后天通知，女的说再等两天，所以是后天。",
+     "audio": {
+      "key": "listening/v1/7cedce91c3129bebd2371a4b5a79836287165aeee9b277e463a1c6ecc9108437.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "面试结果你知道什么时候出来吗？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "他们说后天会通知，今天和明天还要面其他人。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "那我们就再等两天吧。"
+       }
+      ],
+      "transcript": "面试结果你知道什么时候出来吗？ 他们说后天会通知，今天和明天还要面其他人。 那我们就再等两天吧。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "明天"
+      },
+      {
+       "label": "B",
+       "text": "今天"
+      },
+      {
+       "label": "C",
+       "text": "后天"
+      },
+      {
+       "label": "D",
+       "text": "下周"
+      }
+     ]
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "生日派对在哪里举行？",
+     "correctAnswer": "C",
+     "explanation": "女的说就在家里办，所以地点是家里。",
+     "audio": {
+      "key": "listening/v1/ceb0d8cb433dc4e3413f6d1ab1ae4405037c4404200be47ab3891681c5b51847.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "小丽的生日派对在哪儿办？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "她家客厅挺大的，就在家里办，方便又省钱。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "好主意，那我们准备点吃的带过去。"
+       }
+      ],
+      "transcript": "小丽的生日派对在哪儿办？ 她家客厅挺大的，就在家里办，方便又省钱。 好主意，那我们准备点吃的带过去。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "酒店"
+      },
+      {
+       "label": "B",
+       "text": "餐厅"
+      },
+      {
+       "label": "C",
+       "text": "家里"
+      },
+      {
+       "label": "D",
+       "text": "公园"
+      }
+     ]
+    },
+    {
+     "id": "q7",
+     "type": "listening-mcq",
+     "prompt": "女的为什么推荐这本书？",
+     "correctAnswer": "D",
+     "explanation": "女的说故事特别吸引人，说明内容有趣。",
+     "audio": {
+      "key": "listening/v1/0fd9e30444edab5f79c46851f6c3f5db13d31d7108341864d07dbcfd4c568dba.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你推荐的那本书我读完了，确实不错。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "是吧？我觉得故事特别吸引人，读起来就不想停。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "对，情节设计得很巧妙。"
+       }
+      ],
+      "transcript": "你推荐的那本书我读完了，确实不错。 是吧？我觉得故事特别吸引人，读起来就不想停。 对，情节设计得很巧妙。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "语言简单"
+      },
+      {
+       "label": "B",
+       "text": "价格便宜"
+      },
+      {
+       "label": "C",
+       "text": "作者有名"
+      },
+      {
+       "label": "D",
+       "text": "内容有趣"
+      }
+     ]
+    },
+    {
+     "id": "q8",
+     "type": "listening-mcq",
+     "prompt": "明天天气怎么样？",
+     "correctAnswer": "A",
+     "explanation": "男的说预报有雪，女的说温度低，所以明天是下雪天气。",
+     "audio": {
+      "key": "listening/v1/d0d220e22c863a783ed8bb5977607312138633f7e87e1c19d8441daee4591782.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "明天预报说有雪，你看了吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "看了，而且温度会降到零下五度，得多穿点。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "那正好，我们可以去滑雪了。"
+       }
+      ],
+      "transcript": "明天预报说有雪，你看了吗？ 看了，而且温度会降到零下五度，得多穿点。 那正好，我们可以去滑雪了。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "下雪"
+      },
+      {
+       "label": "B",
+       "text": "晴天"
+      },
+      {
+       "label": "C",
+       "text": "多云"
+      },
+      {
+       "label": "D",
+       "text": "下雨"
+      }
+     ]
+    },
+    {
+     "id": "q9",
+     "type": "listening-mcq",
+     "prompt": "他们最想去看什么？",
+     "correctAnswer": "B",
+     "explanation": "男的说最想去看长城，还说了俗语，所以是长城。",
+     "audio": {
+      "key": "listening/v1/f40396fa7b47466e54986ce8b140b0249ff4a01226c26850a296319a524757dd.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "下星期去北京，你最想看什么？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "当然是长城，不到长城非好汉嘛！"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "好，那故宫和天坛也顺便去看看吧。"
+       }
+      ],
+      "transcript": "下星期去北京，你最想看什么？ 当然是长城，不到长城非好汉嘛！ 好，那故宫和天坛也顺便去看看吧。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "故宫"
+      },
+      {
+       "label": "B",
+       "text": "长城"
+      },
+      {
+       "label": "C",
+       "text": "天坛"
+      },
+      {
+       "label": "D",
+       "text": "颐和园"
+      }
+     ]
+    },
+    {
+     "id": "q10",
+     "type": "listening-mcq",
+     "prompt": "男的对这家餐厅的服务满意吗？",
+     "correctAnswer": "D",
+     "explanation": "男的说服务员态度一般，叫半天才来，说明不太满意。",
+     "audio": {
+      "key": "listening/v1/67ad3168950cc286d89c3582c8d6ff2fed0faab6d098301bebb854f69c7442a7.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "新开的那家餐厅你去过了吗？服务怎么样？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "去了，环境还行，但服务员态度一般，叫半天才来。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "那看来服务有待改进。"
+       }
+      ],
+      "transcript": "新开的那家餐厅你去过了吗？服务怎么样？ 去了，环境还行，但服务员态度一般，叫半天才来。 那看来服务有待改进。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "很不满意"
+      },
+      {
+       "label": "B",
+       "text": "非常满意"
+      },
+      {
+       "label": "C",
+       "text": "基本满意"
+      },
+      {
+       "label": "D",
+       "text": "不太满意"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

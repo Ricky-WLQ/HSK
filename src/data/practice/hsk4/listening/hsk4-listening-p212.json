@@ -1,0 +1,179 @@
+{
+ "id": "hsk4-listening-p212",
+ "level": "4",
+ "section": "listening",
+ "partKey": "listening-p2",
+ "title": "HSK4 Listening P2",
+ "titleZh": "听力 第二部分（听短文选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "你将听到一段独白，请根据独白内容回答后面的6个问题。每个问题有四个选项，请选择唯一正确的答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "说话人向谁学习做饺子？",
+     "correctAnswer": "A",
+     "explanation": "独白中明确提到'我请奶奶教我'，所以说话人是向奶奶学习做饺子的。",
+     "options": [
+      {
+       "label": "A",
+       "text": "奶奶"
+      },
+      {
+       "label": "B",
+       "text": "爸爸"
+      },
+      {
+       "label": "C",
+       "text": "朋友"
+      },
+      {
+       "label": "D",
+       "text": "妈妈"
+      }
+     ]
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "奶奶认为做饺子怎么样？",
+     "correctAnswer": "C",
+     "explanation": "独白中奶奶说'做饺子看起来简单，但要做好并不容易'，这与选项C的意思一致。",
+     "options": [
+      {
+       "label": "A",
+       "text": "非常难，很少有人能做好"
+      },
+      {
+       "label": "B",
+       "text": "很简单"
+      },
+      {
+       "label": "C",
+       "text": "看起来容易，做好难"
+      },
+      {
+       "label": "D",
+       "text": "很容易学会"
+      }
+     ]
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "做饺子时要注意什么？",
+     "correctAnswer": "C",
+     "explanation": "独白中奶奶说'饺子皮要擀得又薄又圆，但也不能太薄，否则煮的时候会破'，所以关键是不要太薄。",
+     "options": [
+      {
+       "label": "A",
+       "text": "饺子皮越薄越好"
+      },
+      {
+       "label": "B",
+       "text": "饺子皮要厚一点才好吃"
+      },
+      {
+       "label": "C",
+       "text": "饺子皮不要太薄，否则煮的时候会破"
+      },
+      {
+       "label": "D",
+       "text": "饺子皮要又薄又圆"
+      }
+     ]
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "说话人觉得包饺子最难的是什么？",
+     "correctAnswer": "A",
+     "explanation": "独白中说'最难的是包饺子，我试了好多次，饺子总是站不起来'，可见让饺子站起来是最难的。",
+     "options": [
+      {
+       "label": "A",
+       "text": "让饺子站起来"
+      },
+      {
+       "label": "B",
+       "text": "擀饺子皮"
+      },
+      {
+       "label": "C",
+       "text": "准备馅儿"
+      },
+      {
+       "label": "D",
+       "text": "控制火候"
+      }
+     ]
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "关于学习结果，下列说法正确的是哪一项？",
+     "correctAnswer": "D",
+     "explanation": "独白中提到'爸爸说味道很好，比外面卖的还好吃'，说明家人称赞了饺子，因此选项C正确。",
+     "options": [
+      {
+       "label": "A",
+       "text": "一个星期后，说话人还是不会包"
+      },
+      {
+       "label": "B",
+       "text": "说话人只学会了做饺子"
+      },
+      {
+       "label": "C",
+       "text": "爸爸认为饺子没有外面卖的好吃"
+      },
+      {
+       "label": "D",
+       "text": "说话人包的饺子得到了家人的称赞"
+      }
+     ]
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "说话人打算以后怎么做？",
+     "correctAnswer": "D",
+     "explanation": "独白最后说'决定以后每个周末都跟奶奶学一道新菜'，所以选项A正确。",
+     "options": [
+      {
+       "label": "A",
+       "text": "请奶奶到家里住"
+      },
+      {
+       "label": "B",
+       "text": "开一家饺子店"
+      },
+      {
+       "label": "C",
+       "text": "每个周末去外面吃饺子"
+      },
+      {
+       "label": "D",
+       "text": "每周跟奶奶学一道新菜"
+      }
+     ]
+    }
+   ],
+   "audio": {
+    "key": "listening/v1/4576e1d3261e6331f56f5ba2e8f77eb07548ad3381f77f3220ba81f9f1073bff.mp3",
+    "lines": [
+     {
+      "speaker": "旁白",
+      "voice": "narrator",
+      "text": "我一直很想学做中国菜，特别是饺子。上个月，我请奶奶教我。奶奶说，做饺子看起来简单，但要做好并不容易。首先，要准备饺子皮和馅儿。奶奶告诉我，饺子皮要擀得又薄又圆，但也不能太薄，否则煮的时候会破。最难的是包饺子，我试了好多次，饺子总是站不起来。奶奶笑着对我说，她的秘诀是多练习。经过一个星期的努力，我终于包出了漂亮的饺子。那天晚上，全家人都吃了我做的饺子，爸爸说味道很好，比外面卖的还好吃。我很开心，决定以后每个周末都跟奶奶学一道新菜。"
+     }
+    ],
+    "transcript": "我一直很想学做中国菜，特别是饺子。上个月，我请奶奶教我。奶奶说，做饺子看起来简单，但要做好并不容易。首先，要准备饺子皮和馅儿。奶奶告诉我，饺子皮要擀得又薄又圆，但也不能太薄，否则煮的时候会破。最难的是包饺子，我试了好多次，饺子总是站不起来。奶奶笑着对我说，她的秘诀是多练习。经过一个星期的努力，我终于包出了漂亮的饺子。那天晚上，全家人都吃了我做的饺子，爸爸说味道很好，比外面卖的还好吃。我很开心，决定以后每个周末都跟奶奶学一道新菜。",
+    "transcriptPinyin": null
+   }
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

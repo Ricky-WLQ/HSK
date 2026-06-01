@@ -1,0 +1,202 @@
+{
+ "id": "hsk1-listening-p208",
+ "level": "1",
+ "section": "listening",
+ "partKey": "listening-p2",
+ "title": "HSK1 Listening P2",
+ "titleZh": "听力 第二部分（听句子选答语）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请根据录音选择正确答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "这个人喜欢吃什么？",
+     "correctAnswer": "A",
+     "explanation": "录音中说“我很喜欢吃苹果”，所以这个人喜欢吃的是苹果。",
+     "audio": {
+      "key": "listening/v1/6d1a12c09345fcab7d7d1082880588cd8644709cc3de08f1d07967b7591005d5.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我很喜欢吃苹果。"
+       }
+      ],
+      "transcript": "我很喜欢吃苹果。",
+      "transcriptPinyin": "wǒ hěn xǐ huān chī píng guǒ 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "苹果",
+       "pinyin": "píng guǒ"
+      },
+      {
+       "label": "B",
+       "text": "香蕉",
+       "pinyin": "xiāng jiāo"
+      },
+      {
+       "label": "C",
+       "text": "橙子",
+       "pinyin": "chéng zi"
+      }
+     ],
+     "pinyin": "zhè ge rén xǐ huān chī shén me ？"
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "这个人怎么去学校？",
+     "correctAnswer": "B",
+     "explanation": "录音中说“我坐公共汽车去学校”，所以这个人坐公共汽车去学校。",
+     "audio": {
+      "key": "listening/v1/66c8ba7fb09d6ad2d67290c148072898066ba6738ddb1ee5a0b5706aeda53bec.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我坐公共汽车去学校。"
+       }
+      ],
+      "transcript": "我坐公共汽车去学校。",
+      "transcriptPinyin": "wǒ zuò gōng gòng qì chē qù xué xiào 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "坐车",
+       "pinyin": "zuò chē"
+      },
+      {
+       "label": "B",
+       "text": "坐公共汽车",
+       "pinyin": "zuò gōng gòng qì chē"
+      },
+      {
+       "label": "C",
+       "text": "骑自行车",
+       "pinyin": "qí zì xíng chē"
+      }
+     ],
+     "pinyin": "zhè ge rén zěn me qù xué xiào ？"
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "今天星期几？",
+     "correctAnswer": "A",
+     "explanation": "录音中说“今天是星期一”，所以今天是星期一。",
+     "audio": {
+      "key": "listening/v1/7877f6fca0002734e380b39e4e6df43836c224fa160b4f0286f34ff41fe9af03.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "今天是星期一。"
+       }
+      ],
+      "transcript": "今天是星期一。",
+      "transcriptPinyin": "jīn tiān shì xīng qī yī 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "星期一",
+       "pinyin": "xīng qī yī"
+      },
+      {
+       "label": "B",
+       "text": "星期二",
+       "pinyin": "xīng qī èr"
+      },
+      {
+       "label": "C",
+       "text": "星期三",
+       "pinyin": "xīng qī sān"
+      }
+     ],
+     "pinyin": "jīn tiān xīng qī jǐ ？"
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "这个人有几本书？",
+     "correctAnswer": "A",
+     "explanation": "录音中说“我有两本书”，所以这个人有两本书。",
+     "audio": {
+      "key": "listening/v1/ca2779341db34f7193278fd8e0b03072f0d12238027347a9ce6c1d87d350acbb.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我有两本书。"
+       }
+      ],
+      "transcript": "我有两本书。",
+      "transcriptPinyin": "wǒ yǒu liǎng běn shū 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "两本",
+       "pinyin": "liǎng běn"
+      },
+      {
+       "label": "B",
+       "text": "三本",
+       "pinyin": "sān běn"
+      },
+      {
+       "label": "C",
+       "text": "一本",
+       "pinyin": "yī běn"
+      }
+     ],
+     "pinyin": "zhè ge rén yǒu jǐ běn shū ？"
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "这个人从哪里来？",
+     "correctAnswer": "B",
+     "explanation": "录音中说“我是中国人”，所以这个人来自中国。",
+     "audio": {
+      "key": "listening/v1/a2f026758b35176f7edf1f758ad58b9157c13653c24c3d96c9a2466757f48f0b.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我是中国人。"
+       }
+      ],
+      "transcript": "我是中国人。",
+      "transcriptPinyin": "wǒ shì zhōng guó rén 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "日本",
+       "pinyin": "rì běn"
+      },
+      {
+       "label": "B",
+       "text": "中国",
+       "pinyin": "zhōng guó"
+      },
+      {
+       "label": "C",
+       "text": "美国",
+       "pinyin": "měi guó"
+      }
+     ],
+     "pinyin": "zhè ge rén cóng nǎ lǐ lái ？"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

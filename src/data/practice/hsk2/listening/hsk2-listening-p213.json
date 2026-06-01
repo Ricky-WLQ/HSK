@@ -1,0 +1,289 @@
+{
+ "id": "hsk2-listening-p213",
+ "level": "2",
+ "section": "listening",
+ "partKey": "listening-p2",
+ "title": "HSK2 Listening P2",
+ "titleZh": "听力 第二部分（看图听对话）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "听对话，选出与对话内容相符的图片。每组对话对应一张图片，图片可重复使用，有一张图片是多余的。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "A",
+     "explanation": "对话中提到‘看书’，与图片A（一个人看书）相符。",
+     "audio": {
+      "key": "listening/v1/dffaf0e07bbd6f2e8fbefd9ba6c9ebdd503bcfe963f7227ca0e7eddc711a0d35.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你在做什么？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我在看书。"
+       }
+      ],
+      "transcript": "你在做什么？ 我在看书。",
+      "transcriptPinyin": "nǐ zài zuò shén me ？  wǒ zài kàn shū 。"
+     }
+    },
+    {
+     "id": "q2",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "B",
+     "explanation": "对话中提到‘喝水’，与图片B（一个人喝水）相符。",
+     "audio": {
+      "key": "listening/v1/1a2320f79a384662d1cb2c1ef359711daea2ebcc32e30cba19f2d5f8e9aab694.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你渴吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我喝水。"
+       }
+      ],
+      "transcript": "你渴吗？ 我喝水。",
+      "transcriptPinyin": "nǐ kě ma ？  wǒ hē shuǐ 。"
+     }
+    },
+    {
+     "id": "q3",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "C",
+     "explanation": "对话中提到‘吃苹果’，与图片C（一个人吃苹果）相符。",
+     "audio": {
+      "key": "listening/v1/6e3efa668336900188cc818399a2cf7b05d61f7d65eb3a867cce0d106088fbfa.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你吃水果吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我吃苹果。"
+       }
+      ],
+      "transcript": "你吃水果吗？ 我吃苹果。",
+      "transcriptPinyin": "nǐ chī shuǐ guǒ ma ？  wǒ chī píng guǒ 。"
+     }
+    },
+    {
+     "id": "q4",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "D",
+     "explanation": "对话中提到‘睡觉’，与图片D（一个人睡觉）相符。",
+     "audio": {
+      "key": "listening/v1/c112cf57008ce895173153326f0b68be1be307aa9d0313e44c54eda789a97647.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你累吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我睡觉。"
+       }
+      ],
+      "transcript": "你累吗？ 我睡觉。",
+      "transcriptPinyin": "nǐ lèi ma ？  wǒ shuì jiào 。"
+     }
+    },
+    {
+     "id": "q5",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "E",
+     "explanation": "对话中提到‘跑步’，与图片E（一个人跑步）相符。",
+     "audio": {
+      "key": "listening/v1/843bcff119f28ae3263cfeea109a01320c4047883726b101a4993b37636a6aa0.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你运动吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我跑步。"
+       }
+      ],
+      "transcript": "你运动吗？ 我跑步。",
+      "transcriptPinyin": "nǐ yùn dòng ma ？  wǒ pǎo bù 。"
+     }
+    },
+    {
+     "id": "q6",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "A",
+     "explanation": "对话中提到‘看书’，与图片A（一个人看书）相符。",
+     "audio": {
+      "key": "listening/v1/31e0022e13a8fd607ec740c561ca0a51760e19b2a12e5162620f915ce1df2cc9.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "她在干什么？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "她在看书。"
+       }
+      ],
+      "transcript": "她在干什么？ 她在看书。",
+      "transcriptPinyin": "tā zài gàn shén me ？  tā zài kàn shū 。"
+     }
+    },
+    {
+     "id": "q7",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "B",
+     "explanation": "对话中提到‘喝水’，与图片B（一个人喝水）相符。",
+     "audio": {
+      "key": "listening/v1/258a2b42849b2875801b6d45b79e5aaca91f65bb056b84eab203edcaa279645f.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你要喝什么？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "喝水。"
+       }
+      ],
+      "transcript": "你要喝什么？ 喝水。",
+      "transcriptPinyin": "nǐ yào hē shén me ？  hē shuǐ 。"
+     }
+    },
+    {
+     "id": "q8",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "C",
+     "explanation": "对话中提到‘吃苹果’，与图片C（一个人吃苹果）相符。",
+     "audio": {
+      "key": "listening/v1/719ea65f5a3976b0330584da50aebe7b4620dbe5e907bf64523cbee122f870ac.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "这个苹果好吃吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "好吃，我吃。"
+       }
+      ],
+      "transcript": "这个苹果好吃吗？ 好吃，我吃。",
+      "transcriptPinyin": "zhè ge píng guǒ hǎo chī ma ？  hǎo chī ， wǒ chī 。"
+     }
+    },
+    {
+     "id": "q9",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "D",
+     "explanation": "对话中提到‘睡觉’，与图片D（一个人睡觉）相符。",
+     "audio": {
+      "key": "listening/v1/14d39b850f2b1f6d1a38d284ca70cc355f6b63e66bc2fb3562c5632ece6b36cd.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你晚上做什么？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我睡觉。"
+       }
+      ],
+      "transcript": "你晚上做什么？ 我睡觉。",
+      "transcriptPinyin": "nǐ wǎn shàng zuò shén me ？  wǒ shuì jiào 。"
+     }
+    },
+    {
+     "id": "q10",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "E",
+     "explanation": "对话中提到‘跑步’，与图片E（一个人跑步）相符。",
+     "audio": {
+      "key": "listening/v1/2e170b975c5ba9205a086704968c13ad03a996ce836fff4ee4306a438883fe02.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你每天跑步吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "对，我跑步。"
+       }
+      ],
+      "transcript": "你每天跑步吗？ 对，我跑步。",
+      "transcriptPinyin": "nǐ měi tiān pǎo bù ma ？  duì ， wǒ pǎo bù 。"
+     }
+    }
+   ],
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-34e9a39a069fec56b3cc8ad5c87b883d.png"
+    },
+    {
+     "label": "B",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-f3c67f75c65f89286abf1d6fdfafccbe.png"
+    },
+    {
+     "label": "C",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-d5571e4fe39d9e25c98f3a2cef76f816.png"
+    },
+    {
+     "label": "D",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-cd55b1d3675562678292581f2757602c.png"
+    },
+    {
+     "label": "E",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-01d1341f71784b5bbbaaa9237432c8bf.png"
+    },
+    {
+     "label": "F",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-86d592684cd6debc62e31f6474ffaf7e.png"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

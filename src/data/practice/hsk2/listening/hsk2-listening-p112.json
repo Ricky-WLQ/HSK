@@ -1,0 +1,117 @@
+{
+ "id": "hsk2-listening-p112",
+ "level": "2",
+ "section": "listening",
+ "partKey": "listening-p1",
+ "title": "HSK2 Listening P1",
+ "titleZh": "听力 第一部分（看图判断）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听下面的句子，然后看图片。判断图片是否与句子内容一致。一致的选'对'，不一致的选'错'。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "对",
+     "explanation": "图片中的人在看书，与陈述一致。",
+     "audio": {
+      "key": "listening/v1/7318ea0dc2137fa427d38433371a44eaf2da442fe62f92d73c3dcce8f7c51de3.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "他在看书。"
+       }
+      ],
+      "transcript": "他在看书。",
+      "transcriptPinyin": "tā zài kàn shū 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-f557745cbb26457cc4d7be0bca2d9d5f.png"
+    },
+    {
+     "id": "q2",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "错",
+     "explanation": "陈述说她喜欢喝咖啡，但图片中的人在喝茶，所以不正确。",
+     "audio": {
+      "key": "listening/v1/07e6e303c0c72bb76e2f7835cecdc21586afffc6786f4f61a248e014a7199ab6.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "她喜欢喝咖啡。"
+       }
+      ],
+      "transcript": "她喜欢喝咖啡。",
+      "transcriptPinyin": "tā xǐ huān hē kā fēi 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-b2071d4f1e58c2e2fbebfb2b14974823.png"
+    },
+    {
+     "id": "q3",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "对",
+     "explanation": "图片中猫在椅子上，与陈述一致。",
+     "audio": {
+      "key": "listening/v1/ffb29c818f770aac93691ed60c0aa62c854d5a898d2628f6b79caf9ed34dbf58.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "猫在椅子上。"
+       }
+      ],
+      "transcript": "猫在椅子上。",
+      "transcriptPinyin": "māo zài yǐ zi shàng 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-7965b5565735f266de6d2e7e605e7331.png"
+    },
+    {
+     "id": "q4",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "错",
+     "explanation": "陈述说他很高兴，但图片中的男人很伤心，所以不对。",
+     "audio": {
+      "key": "listening/v1/99a96c8ea6c4f9916ec525fd75676869951759b68d75049efaac8a21bb973e39.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "他今天很高兴。"
+       }
+      ],
+      "transcript": "他今天很高兴。",
+      "transcriptPinyin": "tā jīn tiān hěn gāo xìng 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-c665ddccc9d8ef9c7de0c1bd15984f5d.png"
+    },
+    {
+     "id": "q5",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "对",
+     "explanation": "图片中的人在踢足球，与陈述一致。",
+     "audio": {
+      "key": "listening/v1/0e43b084e074d2c8cab3efe2677fe223af51f9a4e1bce264a1d79b3ebc79aaf6.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "他们在踢足球。"
+       }
+      ],
+      "transcript": "他们在踢足球。",
+      "transcriptPinyin": "tā men zài tī zú qiú 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-a5c30f1c9e5fe81a74fb6b8ff69353d3.png"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

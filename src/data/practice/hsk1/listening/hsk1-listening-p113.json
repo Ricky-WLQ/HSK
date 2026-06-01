@@ -1,0 +1,117 @@
+{
+ "id": "hsk1-listening-p113",
+ "level": "1",
+ "section": "listening",
+ "partKey": "listening-p1",
+ "title": "HSK1 Listening P1",
+ "titleZh": "听力 第一部分（看图判断）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听录音中的句子，并判断下面的图画与句子内容是否相符。相符请选“对”，不相符请选“错”。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "错",
+     "explanation": "句子说这是一只猫，但图片中是一只狗，所以不相符。",
+     "audio": {
+      "key": "listening/v1/bb911751d0f353491ac7db2cf61b23da7a0c13cd5afd64b4491af8be24ec05ab.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "这是一只猫。"
+       }
+      ],
+      "transcript": "这是一只猫。",
+      "transcriptPinyin": "zhè shì yī zhī māo 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-6919be0eb5bbb049a91a08eb711f05e3.png"
+    },
+    {
+     "id": "q2",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "对",
+     "explanation": "句子说他在喝水，图片中的人正在喝水，所以相符。",
+     "audio": {
+      "key": "listening/v1/24ba2bf373b1c2eaa615922f12af93d6af83e94525a3e3d6ae48d6487037aa94.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "他在喝水。"
+       }
+      ],
+      "transcript": "他在喝水。",
+      "transcriptPinyin": "tā zài hē shuǐ 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-6ea83e30f5e190e8575507d5c8d069ce.png"
+    },
+    {
+     "id": "q3",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "错",
+     "explanation": "句子说桌子上有一本书，但图片中桌子上只有一支笔，没有书。",
+     "audio": {
+      "key": "listening/v1/da5734af87518a8846f37a35493f665a740f2d386e48826852f67eb066aedead.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "桌子上有一本书。"
+       }
+      ],
+      "transcript": "桌子上有一本书。",
+      "transcriptPinyin": "zhuō zi shàng yǒu yī běn shū 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-3c33a2314b293fb8c5b2d869d94cb7ef.png"
+    },
+    {
+     "id": "q4",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "对",
+     "explanation": "句子说妈妈在做饭，图片中的女人正在做饭，所以相符。",
+     "audio": {
+      "key": "listening/v1/c528f91aff3ccb5fa56b2b0f4ffd3ebb93deca475d911fd91b169c3abc29e017.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "妈妈在做饭。"
+       }
+      ],
+      "transcript": "妈妈在做饭。",
+      "transcriptPinyin": "mā mā zài zuò fàn 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-0818d7bdc16a3359b8cd14062ed96836.png"
+    },
+    {
+     "id": "q5",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "错",
+     "explanation": "句子说今天天气很好，但图片中是下雨天，天气不好，所以不相符。",
+     "audio": {
+      "key": "listening/v1/199a9cbcfe613ce6c05a9ff4f0984b93c8b5bd87becc022c43cdf0fafde2e743.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "今天天气很好。"
+       }
+      ],
+      "transcript": "今天天气很好。",
+      "transcriptPinyin": "jīn tiān tiān qì hěn hǎo 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-b27add0dad647a6b8e23a6c783dcfe19.png"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

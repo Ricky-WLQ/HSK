@@ -1,0 +1,179 @@
+{
+ "id": "hsk5-listening-p219",
+ "level": "5",
+ "section": "listening",
+ "partKey": "listening-p2",
+ "title": "HSK5 Listening P2",
+ "titleZh": "听力 第二部分（听短文选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听一段独白，然后根据独白内容回答6个问题。每个问题有四个选项，选择正确的答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "说话人为什么搬到上海？",
+     "correctAnswer": "C",
+     "explanation": "说话人明确提到‘因为工作调动搬到了上海’，所以工作调动是搬家的原因。",
+     "options": [
+      {
+       "label": "A",
+       "text": "因为要上大学"
+      },
+      {
+       "label": "B",
+       "text": "因为喜欢上海的气候"
+      },
+      {
+       "label": "C",
+       "text": "因为工作调动"
+      },
+      {
+       "label": "D",
+       "text": "因为想学习上海话"
+      }
+     ]
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "说话人刚到上海时最不适应什么？",
+     "correctAnswer": "A",
+     "explanation": "说话人说‘刚开始，我对这个大城市很不适应，尤其是这里的交通和气候’，所以最不适应的是交通和气候。",
+     "options": [
+      {
+       "label": "A",
+       "text": "交通和气候"
+      },
+      {
+       "label": "B",
+       "text": "租房价格"
+      },
+      {
+       "label": "C",
+       "text": "工作压力"
+      },
+      {
+       "label": "D",
+       "text": "语言交流"
+      }
+     ]
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "说话人每天坐地铁要花多长时间？",
+     "correctAnswer": "C",
+     "explanation": "说话人说‘每天坐地铁要花一个多小时’，所以是一个多小时。",
+     "options": [
+      {
+       "label": "A",
+       "text": "两个小时"
+      },
+      {
+       "label": "B",
+       "text": "一个小时"
+      },
+      {
+       "label": "C",
+       "text": "一个多小时"
+      },
+      {
+       "label": "D",
+       "text": "半个小时"
+      }
+     ]
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "说话人如何利用坐地铁的时间？",
+     "correctAnswer": "A",
+     "explanation": "说话人说‘学会了利用这段时间看书和学习’，所以是看书和学习。",
+     "options": [
+      {
+       "label": "A",
+       "text": "看书和学习"
+      },
+      {
+       "label": "B",
+       "text": "睡觉"
+      },
+      {
+       "label": "C",
+       "text": "和朋友聊天"
+      },
+      {
+       "label": "D",
+       "text": "玩手机"
+      }
+     ]
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "说话人觉得适应新地方最重要的是什么？",
+     "correctAnswer": "A",
+     "explanation": "说话人在最后说‘我觉得，到一个新地方，最重要的是保持积极的心态’，所以是保持积极的心态。",
+     "options": [
+      {
+       "label": "A",
+       "text": "保持积极的心态"
+      },
+      {
+       "label": "B",
+       "text": "改变自己的习惯"
+      },
+      {
+       "label": "C",
+       "text": "尽快熟悉环境"
+      },
+      {
+       "label": "D",
+       "text": "多交朋友"
+      }
+     ]
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "关于上海的饮食，说话人提到了什么？",
+     "correctAnswer": "C",
+     "explanation": "说话人说‘上海菜偏甜’，而自己老家在四川喜欢吃辣，所以上海菜偏甜是正确描述。",
+     "options": [
+      {
+       "label": "A",
+       "text": "上海菜种类少"
+      },
+      {
+       "label": "B",
+       "text": "上海菜很辣"
+      },
+      {
+       "label": "C",
+       "text": "上海菜偏甜"
+      },
+      {
+       "label": "D",
+       "text": "上海菜太贵"
+      }
+     ]
+    }
+   ],
+   "audio": {
+    "key": "listening/v1/f2c60a946a5cd634a38ba853c672fb389c7415525f8100fd087eb88c41ba8830.mp3",
+    "lines": [
+     {
+      "speaker": "旁白",
+      "voice": "narrator",
+      "text": "两年前，我因为工作调动搬到了上海。刚开始，我对这个大城市很不适应，尤其是这里的交通和气候。我住的地方离公司很远，每天坐地铁要花一个多小时。不过，慢慢地，我学会了利用这段时间看书和学习。上海的天气变化很大，夏天很热，冬天又很冷，我花了一年才习惯。现在，我不仅适应了这里的生活，还交到了很多朋友。除了交通和气候，上海的饮食也让我觉得新鲜。我老家在四川，喜欢吃辣，而上海菜偏甜。刚开始我觉得不太习惯，但后来发现其实上海菜也很美味，尤其是小笼包和生煎。现在，我经常带朋友去品尝各种上海小吃。通过适应这里的生活，我变得更加独立和成熟。"
+     }
+    ],
+    "transcript": "两年前，我因为工作调动搬到了上海。刚开始，我对这个大城市很不适应，尤其是这里的交通和气候。我住的地方离公司很远，每天坐地铁要花一个多小时。不过，慢慢地，我学会了利用这段时间看书和学习。上海的天气变化很大，夏天很热，冬天又很冷，我花了一年才习惯。现在，我不仅适应了这里的生活，还交到了很多朋友。除了交通和气候，上海的饮食也让我觉得新鲜。我老家在四川，喜欢吃辣，而上海菜偏甜。刚开始我觉得不太习惯，但后来发现其实上海菜也很美味，尤其是小笼包和生煎。现在，我经常带朋友去品尝各种上海小吃。通过适应这里的生活，我变得更加独立和成熟。",
+    "transcriptPinyin": null
+   }
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

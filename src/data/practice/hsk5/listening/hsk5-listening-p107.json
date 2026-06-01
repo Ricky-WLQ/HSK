@@ -1,0 +1,532 @@
+{
+ "id": "hsk5-listening-p107",
+ "level": "5",
+ "section": "listening",
+ "partKey": "listening-p1",
+ "title": "HSK5 Listening P1",
+ "titleZh": "听力 第一部分（听对话选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听下面的对话，然后根据对话内容选择正确答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "关于这个旅游景点，女的认为什么时候去最好？",
+     "correctAnswer": "A",
+     "explanation": "对话中女的说‘秋天去最好’，因此正确答案是秋天。",
+     "audio": {
+      "key": "listening/v1/9af8bed9b5936c396f90032550f5b42b92d067a4efb06772adba78cb8b6080fc.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你上次推荐的旅游景点我去过了，风景确实不错，就是人太多了。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "是吗？我上次去的时候人还不多，可能现在是旺季吧。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "嗯，不过整体来说还是值得一去的。你觉得什么时候去比较合适？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我觉得秋天去最好，天气凉爽，景色也最美。"
+       }
+      ],
+      "transcript": "你上次推荐的旅游景点我去过了，风景确实不错，就是人太多了。 是吗？我上次去的时候人还不多，可能现在是旺季吧。 嗯，不过整体来说还是值得一去的。你觉得什么时候去比较合适？ 我觉得秋天去最好，天气凉爽，景色也最美。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "秋天"
+      },
+      {
+       "label": "B",
+       "text": "春天"
+      },
+      {
+       "label": "C",
+       "text": "夏天"
+      },
+      {
+       "label": "D",
+       "text": "冬天"
+      }
+     ]
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "男的目前工作状态如何？",
+     "correctAnswer": "A",
+     "explanation": "男的说‘不太顺利’，说明他目前工作不顺利，因此选择‘不太顺利’。",
+     "audio": {
+      "key": "listening/v1/e038a160a665d42e8921c455eb756a5fb9f46058a1f5304c0fbbc7a4941c628a.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你最近工作怎么样？还顺利吗？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "不太顺利，项目进展很慢，客户那边一直在变要求。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "那确实挺烦人的。有没有跟领导反映过？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "反映了，领导说让我们尽量满足客户，没办法。"
+       }
+      ],
+      "transcript": "你最近工作怎么样？还顺利吗？ 不太顺利，项目进展很慢，客户那边一直在变要求。 那确实挺烦人的。有没有跟领导反映过？ 反映了，领导说让我们尽量满足客户，没办法。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "不太顺利"
+      },
+      {
+       "label": "B",
+       "text": "已经辞职了"
+      },
+      {
+       "label": "C",
+       "text": "非常顺利"
+      },
+      {
+       "label": "D",
+       "text": "比较顺利"
+      }
+     ]
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "女的关于文化节做了什么？",
+     "correctAnswer": "C",
+     "explanation": "女的说‘我还报名当了志愿者’，所以她已经报名当了志愿者。",
+     "audio": {
+      "key": "listening/v1/2229d095af7293630a6898c143503a15c6ed36f04af2d4edee13bbe97e678f87.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你听说了吗？学校要举办一个国际文化交流节。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "听说了，我还报名当了志愿者。你呢？要不要一起来？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我还在犹豫，不知道有没有时间。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "别犹豫了，这种活动很难得，可以学到很多东西。"
+       }
+      ],
+      "transcript": "你听说了吗？学校要举办一个国际文化交流节。 听说了，我还报名当了志愿者。你呢？要不要一起来？ 我还在犹豫，不知道有没有时间。 别犹豫了，这种活动很难得，可以学到很多东西。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "她决定不参加"
+      },
+      {
+       "label": "B",
+       "text": "她组织了这个活动"
+      },
+      {
+       "label": "C",
+       "text": "她报名当了志愿者"
+      },
+      {
+       "label": "D",
+       "text": "她正在犹豫"
+      }
+     ]
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "男的认为他咳嗽的主要原因是什么？",
+     "correctAnswer": "C",
+     "explanation": "男的说‘可能是空气不好，最近雾霾比较严重’，所以他认为是空气不好导致的咳嗽。",
+     "audio": {
+      "key": "listening/v1/ed1eade13740cb7ef8e0f3afa68edb32908cda7a12c562598ae5c3b967f57046.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你最近怎么老是咳嗽？是不是感冒了？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "不是感冒，可能是空气不好，最近雾霾比较严重。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "那你出门记得戴口罩，多喝点水。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "嗯，我已经买了空气净化器放家里了。"
+       }
+      ],
+      "transcript": "你最近怎么老是咳嗽？是不是感冒了？ 不是感冒，可能是空气不好，最近雾霾比较严重。 那你出门记得戴口罩，多喝点水。 嗯，我已经买了空气净化器放家里了。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "没有戴口罩"
+      },
+      {
+       "label": "B",
+       "text": "感冒了"
+      },
+      {
+       "label": "C",
+       "text": "空气不好"
+      },
+      {
+       "label": "D",
+       "text": "喝水太少"
+      }
+     ]
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "女的认为这部电影怎么样？",
+     "correctAnswer": "C",
+     "explanation": "女的说‘剧情很一般，但是特效做得特别好’，所以认为特效好但剧情一般。",
+     "audio": {
+      "key": "listening/v1/f086ecc2f7f347e9587686a150de40414dd1123bd070f2200fb9186431f95aea.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "这部新上映的电影你看了吗？口碑好像不错。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "看了，我觉得剧情很一般，但是特效做得特别好。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "是吗？那我更想去看看特效了。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "嗯，如果你喜欢视觉冲击的话，应该不会失望。"
+       }
+      ],
+      "transcript": "这部新上映的电影你看了吗？口碑好像不错。 看了，我觉得剧情很一般，但是特效做得特别好。 是吗？那我更想去看看特效了。 嗯，如果你喜欢视觉冲击的话，应该不会失望。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "剧情很好但特效一般"
+      },
+      {
+       "label": "B",
+       "text": "剧情和特效都很好"
+      },
+      {
+       "label": "C",
+       "text": "特效很好但剧情一般"
+      },
+      {
+       "label": "D",
+       "text": "剧情和特效都不好"
+      }
+     ]
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "男的为什么选择坐地铁？",
+     "correctAnswer": "C",
+     "explanation": "男的说‘怕堵车，地铁更准时’，所以他选择地铁是因为准时。",
+     "audio": {
+      "key": "listening/v1/4e845782dd0ae9fa86c26d8f883d2f440911bf883ccae82b898b7a16b3917425.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你打算怎么去机场？坐出租车还是地铁？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "坐地铁吧，这个点怕堵车，地铁更准时。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "也对，而且地铁便宜多了。我跟你一起坐地铁吧。"
+       }
+      ],
+      "transcript": "你打算怎么去机场？坐出租车还是地铁？ 坐地铁吧，这个点怕堵车，地铁更准时。 也对，而且地铁便宜多了。我跟你一起坐地铁吧。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "因为地铁更快"
+      },
+      {
+       "label": "B",
+       "text": "因为地铁更便宜"
+      },
+      {
+       "label": "C",
+       "text": "因为地铁更准时"
+      },
+      {
+       "label": "D",
+       "text": "因为地铁更舒服"
+      }
+     ]
+    },
+    {
+     "id": "q7",
+     "type": "listening-mcq",
+     "prompt": "女的目前的学习成果是什么？",
+     "correctAnswer": "C",
+     "explanation": "女的说‘目前只会做番茄炒蛋和青菜’，说明她只学会了两道简单菜。",
+     "audio": {
+      "key": "listening/v1/f560dda7cd7025b2bc3989244739a64e484fb0214ce812b1ef3742ca923d824d.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你最近在学什么新东西吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我在学做菜，报了一个网上课程。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "效果怎么样？你现在会做几道菜了？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "刚开始学，目前只会做番茄炒蛋和青菜。"
+       }
+      ],
+      "transcript": "你最近在学什么新东西吗？ 我在学做菜，报了一个网上课程。 效果怎么样？你现在会做几道菜了？ 刚开始学，目前只会做番茄炒蛋和青菜。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "她还没有开始学"
+      },
+      {
+       "label": "B",
+       "text": "她已经学会了很多菜"
+      },
+      {
+       "label": "C",
+       "text": "她只学会了两道简单的菜"
+      },
+      {
+       "label": "D",
+       "text": "她觉得学做菜很难"
+      }
+     ]
+    },
+    {
+     "id": "q8",
+     "type": "listening-mcq",
+     "prompt": "关于智能手机，两个人的共同看法是什么？",
+     "correctAnswer": "C",
+     "explanation": "女的说‘过度依赖手机也不好’，男的说‘我同意’，所以两人都认为过度依赖手机不好。",
+     "audio": {
+      "key": "listening/v1/ae3dab944ff8e9ce01e276c749c89320f5cfd2ca514f42fc820d3dc48e54b23f.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你觉得智能手机对我们的生活影响大吗？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "当然大，现在大家几乎离不开手机了。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "是啊，但我觉得过度依赖手机也不好，应该多跟人面对面交流。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我同意，有时候放下手机，才能发现生活中的美好。"
+       }
+      ],
+      "transcript": "你觉得智能手机对我们的生活影响大吗？ 当然大，现在大家几乎离不开手机了。 是啊，但我觉得过度依赖手机也不好，应该多跟人面对面交流。 我同意，有时候放下手机，才能发现生活中的美好。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "智能手机没有缺点"
+      },
+      {
+       "label": "B",
+       "text": "手机让人更孤独"
+      },
+      {
+       "label": "C",
+       "text": "过度依赖手机不好"
+      },
+      {
+       "label": "D",
+       "text": "应该完全不用手机"
+      }
+     ]
+    },
+    {
+     "id": "q9",
+     "type": "listening-mcq",
+     "prompt": "女的为什么不去爬山？",
+     "correctAnswer": "B",
+     "explanation": "女的说‘明天有个重要的会议，去不了’，所以原因是明天有会议。",
+     "audio": {
+      "key": "listening/v1/310dcb0685edeb46f0da6537ab2c1c6457e01b34b8ea0b91ecf13cf7147c4059.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "明天公司组织去爬山，你去不去？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我很想去，但是明天有个重要的会议，去不了。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "那太可惜了，听说山顶的风景特别好。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "下次吧，有机会再说。"
+       }
+      ],
+      "transcript": "明天公司组织去爬山，你去不去？ 我很想去，但是明天有个重要的会议，去不了。 那太可惜了，听说山顶的风景特别好。 下次吧，有机会再说。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "她身体不舒服"
+      },
+      {
+       "label": "B",
+       "text": "她明天有重要会议"
+      },
+      {
+       "label": "C",
+       "text": "她不喜欢爬山"
+      },
+      {
+       "label": "D",
+       "text": "她怕天气不好"
+      }
+     ]
+    },
+    {
+     "id": "q10",
+     "type": "listening-mcq",
+     "prompt": "男的周末通常做什么？",
+     "correctAnswer": "A",
+     "explanation": "男的说‘我喜欢去打篮球或者在家看看书’，所以他周末通常做这两件事之一。",
+     "audio": {
+      "key": "listening/v1/9b177960a9d03c35739a311435a317c044adab06d7f7a17a8c6e09a614722c79.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你平时周末都喜欢做什么？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我喜欢去打篮球或者在家看看书。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "看书挺好的，你最近在看什么书？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "一本关于历史的小说，挺有意思的。"
+       }
+      ],
+      "transcript": "你平时周末都喜欢做什么？ 我喜欢去打篮球或者在家看看书。 看书挺好的，你最近在看什么书？ 一本关于历史的小说，挺有意思的。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "打篮球或看书"
+      },
+      {
+       "label": "B",
+       "text": "和朋友聚会"
+      },
+      {
+       "label": "C",
+       "text": "只在家看书"
+      },
+      {
+       "label": "D",
+       "text": "只打篮球"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

@@ -1,0 +1,202 @@
+{
+ "id": "hsk1-listening-p411",
+ "level": "1",
+ "section": "listening",
+ "partKey": "listening-p4",
+ "title": "HSK1 Listening P4",
+ "titleZh": "听力 第四部分（听问句选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "听录音，回答问题。每个录音后有一个问题，选择正确的答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "妹妹几岁？",
+     "correctAnswer": "A",
+     "explanation": "独白中说妹妹八岁。",
+     "audio": {
+      "key": "listening/v1/5505212f476baac70e811c7a3dc6f7a6d6d5d86a4e66533e6d50ff73ffdcb834.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我今年十岁。我妹妹八岁。"
+       }
+      ],
+      "transcript": "我今年十岁。我妹妹八岁。",
+      "transcriptPinyin": "wǒ jīn nián shí suì 。 wǒ mèi mèi bā suì 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "八岁",
+       "pinyin": "bā suì"
+      },
+      {
+       "label": "B",
+       "text": "十岁",
+       "pinyin": "shí suì"
+      },
+      {
+       "label": "C",
+       "text": "九岁",
+       "pinyin": "jiǔ suì"
+      }
+     ],
+     "pinyin": "mèi mèi jǐ suì ？"
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "今天天气怎么样？",
+     "correctAnswer": "B",
+     "explanation": "独白中说今天很冷。",
+     "audio": {
+      "key": "listening/v1/3944dc561f132c09958a5e19532b93251ef428844cbd75feb08fd2db05679e79.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "今天很冷，要穿大衣。"
+       }
+      ],
+      "transcript": "今天很冷，要穿大衣。",
+      "transcriptPinyin": "jīn tiān hěn lěng ， yào chuān dà yī 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "很热",
+       "pinyin": "hěn rè"
+      },
+      {
+       "label": "B",
+       "text": "很冷",
+       "pinyin": "hěn lěng"
+      },
+      {
+       "label": "C",
+       "text": "很舒服",
+       "pinyin": "hěn shū fú"
+      }
+     ],
+     "pinyin": "jīn tiān tiān qì zěn me yàng ？"
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "笔在哪里？",
+     "correctAnswer": "B",
+     "explanation": "独白中说笔在书包里。",
+     "audio": {
+      "key": "listening/v1/ecd188ccc4b3695036f386a76baf458fd1875ecb803613f7c4b28bf380d61a94.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "书在桌子上，笔在书包里。"
+       }
+      ],
+      "transcript": "书在桌子上，笔在书包里。",
+      "transcriptPinyin": "shū zài zhuō zi shàng ， bǐ zài shū bāo lǐ 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "椅子上",
+       "pinyin": "yǐ zi shàng"
+      },
+      {
+       "label": "B",
+       "text": "书包里",
+       "pinyin": "shū bāo lǐ"
+      },
+      {
+       "label": "C",
+       "text": "桌子上",
+       "pinyin": "zhuō zi shàng"
+      }
+     ],
+     "pinyin": "bǐ zài nǎ lǐ ？"
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "他吃什么？",
+     "correctAnswer": "A",
+     "explanation": "独白中说他吃面条。",
+     "audio": {
+      "key": "listening/v1/8bf75d4df31c4269ecd1c88e7ad85f32b777bb7b8abf0b59301637cf868915f8.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我吃米饭，他吃面条。"
+       }
+      ],
+      "transcript": "我吃米饭，他吃面条。",
+      "transcriptPinyin": "wǒ chī mǐ fàn ， tā chī miàn tiáo 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "面条",
+       "pinyin": "miàn tiáo"
+      },
+      {
+       "label": "B",
+       "text": "米饭",
+       "pinyin": "mǐ fàn"
+      },
+      {
+       "label": "C",
+       "text": "面包",
+       "pinyin": "miàn bāo"
+      }
+     ],
+     "pinyin": "tā chī shén me ？"
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "他几点去学校？",
+     "correctAnswer": "C",
+     "explanation": "独白中说八点去学校。",
+     "audio": {
+      "key": "listening/v1/09d340f5cb5b4fcfd86950ebfa343f29870467df0c38023140340ab1fa424380.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我早上七点起床，八点去学校。"
+       }
+      ],
+      "transcript": "我早上七点起床，八点去学校。",
+      "transcriptPinyin": "wǒ zǎo shàng qī diǎn qǐ chuáng ， bā diǎn qù xué xiào 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "七点",
+       "pinyin": "qī diǎn"
+      },
+      {
+       "label": "B",
+       "text": "九点",
+       "pinyin": "jiǔ diǎn"
+      },
+      {
+       "label": "C",
+       "text": "八点",
+       "pinyin": "bā diǎn"
+      }
+     ],
+     "pinyin": "tā jǐ diǎn qù xué xiào ？"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

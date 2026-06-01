@@ -1,0 +1,289 @@
+{
+ "id": "hsk2-listening-p208",
+ "level": "2",
+ "section": "listening",
+ "partKey": "listening-p2",
+ "title": "HSK2 Listening P2",
+ "titleZh": "听力 第二部分（看图听对话）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "听对话，选择与对话内容相符的图片。每段对话听两遍。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "A",
+     "explanation": "对话中提到了“一本书”，所以对应书本的图片。",
+     "audio": {
+      "key": "listening/v1/14076f92e152936b61adbfefab9b71ab07c3d13375650f9ca15fe2a89ba05d84.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你看，那是什么？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "那是一本书。"
+       }
+      ],
+      "transcript": "你看，那是什么？ 那是一本书。",
+      "transcriptPinyin": "nǐ kàn ， nà shì shén me ？  nà shì yī běn shū 。"
+     }
+    },
+    {
+     "id": "q2",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "B",
+     "explanation": "对话中提到了“猫”，所以对应猫的图片。",
+     "audio": {
+      "key": "listening/v1/808ce9fa21abf0948a7f09ab22e04e69efeb20d3697dc34327dde4df16911739.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你喜欢什么动物？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我喜欢猫。"
+       }
+      ],
+      "transcript": "你喜欢什么动物？ 我喜欢猫。",
+      "transcriptPinyin": "nǐ xǐ huān shén me dòng wù ？  wǒ xǐ huān māo 。"
+     }
+    },
+    {
+     "id": "q3",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "C",
+     "explanation": "对话中提到了“吃面条”，所以对应面条的图片。",
+     "audio": {
+      "key": "listening/v1/4aafa6230d87673b59a17e41fa884085ad04ce9a145b896c045fb39087526f30.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你中午吃什么？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我吃面条。"
+       }
+      ],
+      "transcript": "你中午吃什么？ 我吃面条。",
+      "transcriptPinyin": "nǐ zhōng wǔ chī shén me ？  wǒ chī miàn tiáo 。"
+     }
+    },
+    {
+     "id": "q4",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "D",
+     "explanation": "对话中提到了“跑步”，所以对应跑步的图片。",
+     "audio": {
+      "key": "listening/v1/6dcc8c5534edb678da72376efe033344ffff799c967cbefcbdbc48bbfe10893e.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "他每天早上做什么？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "他跑步。"
+       }
+      ],
+      "transcript": "他每天早上做什么？ 他跑步。",
+      "transcriptPinyin": "tā měi tiān zǎo shàng zuò shén me ？  tā pǎo bù 。"
+     }
+    },
+    {
+     "id": "q5",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "E",
+     "explanation": "对话中提到了“用电脑”，所以对应电脑的图片。",
+     "audio": {
+      "key": "listening/v1/05c9483c99d5f430d6968481484ff42d647ece6a0ef42a5c6fe9cd110b1e2800.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你在用电脑吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "是，我在写邮件。"
+       }
+      ],
+      "transcript": "你在用电脑吗？ 是，我在写邮件。",
+      "transcriptPinyin": "nǐ zài yòng diàn nǎo ma ？  shì ， wǒ zài xiě yóu jiàn 。"
+     }
+    },
+    {
+     "id": "q6",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "A",
+     "explanation": "对话中提到了“书”，所以对应书本的图片。",
+     "audio": {
+      "key": "listening/v1/2cb4eb4816f257801bd5bcd2fe1ab41389d2d0c101a5f271d209eaa69918d032.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你妹妹喜欢看书吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "她很喜欢，她有很多书。"
+       }
+      ],
+      "transcript": "你妹妹喜欢看书吗？ 她很喜欢，她有很多书。",
+      "transcriptPinyin": "nǐ mèi mèi xǐ huān kàn shū ma ？  tā hěn xǐ huān ， tā yǒu hěn duō shū 。"
+     }
+    },
+    {
+     "id": "q7",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "B",
+     "explanation": "对话中提到了“猫”，所以对应猫的图片。",
+     "audio": {
+      "key": "listening/v1/35292503ee51a8d1a71b925641ad89a9ad29b26798af336ab6337ddb3344f69f.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "那只猫很可爱，是谁的？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "是我的猫。"
+       }
+      ],
+      "transcript": "那只猫很可爱，是谁的？ 是我的猫。",
+      "transcriptPinyin": "nà zhǐ māo hěn kě ài ， shì shéi de ？  shì wǒ de māo 。"
+     }
+    },
+    {
+     "id": "q8",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "C",
+     "explanation": "对话中提到了“吃面条”，所以对应面条的图片。",
+     "audio": {
+      "key": "listening/v1/c621bac23b611cb47d43183d843c3b2dec9b120ef8f7554fd3a17138f5aef298.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你想吃什么？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我想吃面条。"
+       }
+      ],
+      "transcript": "你想吃什么？ 我想吃面条。",
+      "transcriptPinyin": "nǐ xiǎng chī shén me ？  wǒ xiǎng chī miàn tiáo 。"
+     }
+    },
+    {
+     "id": "q9",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "D",
+     "explanation": "对话中提到了“跑步”，所以对应跑步的图片。",
+     "audio": {
+      "key": "listening/v1/f91f219cd1a68117df56b8b17e1c62cb70a28474bf2d12ef0a32e6ed4aeafe75.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你每天跑步吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "是的，我每天跑三公里。"
+       }
+      ],
+      "transcript": "你每天跑步吗？ 是的，我每天跑三公里。",
+      "transcriptPinyin": "nǐ měi tiān pǎo bù ma ？  shì de ， wǒ měi tiān pǎo sān gōng lǐ 。"
+     }
+    },
+    {
+     "id": "q10",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "E",
+     "explanation": "对话中提到了“用电脑”，所以对应电脑的图片。",
+     "audio": {
+      "key": "listening/v1/0553d130da7915ab72191a645f9a8eeb47c852e39d1e4965153efea440694363.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你在工作吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "不，我在用电脑玩。"
+       }
+      ],
+      "transcript": "你在工作吗？ 不，我在用电脑玩。",
+      "transcriptPinyin": "nǐ zài gōng zuò ma ？  bù ， wǒ zài yòng diàn nǎo wán 。"
+     }
+    }
+   ],
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-879f23430e3344b785bad73756781ed0.png"
+    },
+    {
+     "label": "B",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-0bf61b42bdb5538f6f12e9a5f280b4e2.png"
+    },
+    {
+     "label": "C",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-a6ae295043c710545c9e260d3bd49cc1.png"
+    },
+    {
+     "label": "D",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-8540671d1b27c7526be222e47837c6da.png"
+    },
+    {
+     "label": "E",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-b577f253dfcfab13826ee7dac0b3095a.png"
+    },
+    {
+     "label": "F",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-69e4979bbe21588ea6d8e90ee556f7a0.png"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

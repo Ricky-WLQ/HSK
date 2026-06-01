@@ -1,0 +1,477 @@
+{
+ "id": "hsk2-listening-p318",
+ "level": "2",
+ "section": "listening",
+ "partKey": "listening-p3",
+ "title": "HSK2 Listening P3",
+ "titleZh": "听力 第三部分（听对话选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请根据对话选择正确答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "女想买什么？",
+     "correctAnswer": "C",
+     "explanation": "女的说了‘苹果吧，香蕉太贵了’，所以女想买苹果。",
+     "audio": {
+      "key": "listening/v1/7cb28cd5034d0af188530bafe69c20dc264f00d031beae0c6addf5c42e4dfca3.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你想吃苹果还是香蕉？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "苹果吧，香蕉太贵了。"
+       }
+      ],
+      "transcript": "你想吃苹果还是香蕉？ 苹果吧，香蕉太贵了。",
+      "transcriptPinyin": "nǐ xiǎng chī píng guǒ hái shì xiāng jiāo ？  píng guǒ ba ， xiāng jiāo tài guì le 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "葡萄",
+       "pinyin": "pú táo"
+      },
+      {
+       "label": "B",
+       "text": "香蕉",
+       "pinyin": "xiāng jiāo"
+      },
+      {
+       "label": "C",
+       "text": "苹果",
+       "pinyin": "píng guǒ"
+      }
+     ],
+     "pinyin": "nǚ xiǎng mǎi shén me ？"
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "现在几点了？",
+     "correctAnswer": "C",
+     "explanation": "女的说‘八点十五分’，所以现在是八点十五分。",
+     "audio": {
+      "key": "listening/v1/5d672f383232f099922e957be37f99c5183f2cd34c634ce1920769559d964b81.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "现在几点了？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "八点十五分。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "啊，我晚了！"
+       }
+      ],
+      "transcript": "现在几点了？ 八点十五分。 啊，我晚了！",
+      "transcriptPinyin": "xiàn zài jǐ diǎn le ？  bā diǎn shí wǔ fēn 。  a ， wǒ wǎn le ！"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "七点",
+       "pinyin": "qī diǎn"
+      },
+      {
+       "label": "B",
+       "text": "九点半",
+       "pinyin": "jiǔ diǎn bàn"
+      },
+      {
+       "label": "C",
+       "text": "八点十五分",
+       "pinyin": "bā diǎn shí wǔ fēn"
+      }
+     ],
+     "pinyin": "xiàn zài jǐ diǎn le ？"
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "今天天气怎么样？",
+     "correctAnswer": "A",
+     "explanation": "女的说‘今天外面很冷’，所以天气冷。",
+     "audio": {
+      "key": "listening/v1/171cd202be37afaf89d427a5f6c712a6dcec2cf874341ff6d4e77d8072e5c5fd.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "今天外面很冷。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "是啊，我想喝热茶。"
+       }
+      ],
+      "transcript": "今天外面很冷。 是啊，我想喝热茶。",
+      "transcriptPinyin": "jīn tiān wài miàn hěn lěng 。  shì a ， wǒ xiǎng hē rè chá 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "冷",
+       "pinyin": "lěng"
+      },
+      {
+       "label": "B",
+       "text": "暖和",
+       "pinyin": "nuǎn huo"
+      },
+      {
+       "label": "C",
+       "text": "热",
+       "pinyin": "rè"
+      }
+     ],
+     "pinyin": "jīn tiān tiān qì zěn me yàng ？"
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "女去哪儿？",
+     "correctAnswer": "C",
+     "explanation": "女的说‘我去图书馆借书’，所以女去图书馆。",
+     "audio": {
+      "key": "listening/v1/9f03d5893d75180e9d9db47a9fa126e61100ecb535d7cdf1d1baa5bcc4527ead.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你去哪儿？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我去图书馆借书。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我也想去。"
+       }
+      ],
+      "transcript": "你去哪儿？ 我去图书馆借书。 我也想去。",
+      "transcriptPinyin": "nǐ qù nǎ ér ？  wǒ qù tú shū guǎn jiè shū 。  wǒ yě xiǎng qù 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "学校",
+       "pinyin": "xué xiào"
+      },
+      {
+       "label": "B",
+       "text": "商店",
+       "pinyin": "shāng diàn"
+      },
+      {
+       "label": "C",
+       "text": "图书馆",
+       "pinyin": "tú shū guǎn"
+      }
+     ],
+     "pinyin": "nǚ qù nǎ ér ？"
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "男想吃什么？",
+     "correctAnswer": "C",
+     "explanation": "男的说‘我吃米饭’，所以男想吃米饭。",
+     "audio": {
+      "key": "listening/v1/f9fc14cac1d75824e15c503dbb6b54af1f012ee0533abd098bca55aa70f2b4ae.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你想吃面条还是米饭？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我吃米饭。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "那我吃面条。"
+       }
+      ],
+      "transcript": "你想吃面条还是米饭？ 我吃米饭。 那我吃面条。",
+      "transcriptPinyin": "nǐ xiǎng chī miàn tiáo hái shì mǐ fàn ？  wǒ chī mǐ fàn 。  nà wǒ chī miàn tiáo 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "面包",
+       "pinyin": "miàn bāo"
+      },
+      {
+       "label": "B",
+       "text": "面条",
+       "pinyin": "miàn tiáo"
+      },
+      {
+       "label": "C",
+       "text": "米饭",
+       "pinyin": "mǐ fàn"
+      }
+     ],
+     "pinyin": "nán xiǎng chī shén me ？"
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "女妹妹多大？",
+     "correctAnswer": "C",
+     "explanation": "女的说‘她二十岁’，所以妹妹二十岁。",
+     "audio": {
+      "key": "listening/v1/8e689308bc4eff745047424d9891ab046206810c1e1f738b3763c6faa5a47d25.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你妹妹多大？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "她二十岁。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "她很年轻。"
+       }
+      ],
+      "transcript": "你妹妹多大？ 她二十岁。 她很年轻。",
+      "transcriptPinyin": "nǐ mèi mèi duō dà ？  tā èr shí suì 。  tā hěn nián qīng 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "二十二岁",
+       "pinyin": "èr shí èr suì"
+      },
+      {
+       "label": "B",
+       "text": "十八岁",
+       "pinyin": "shí bā suì"
+      },
+      {
+       "label": "C",
+       "text": "二十岁",
+       "pinyin": "èr shí suì"
+      }
+     ],
+     "pinyin": "nǚ mèi mèi duō dà ？"
+    },
+    {
+     "id": "q7",
+     "type": "listening-mcq",
+     "prompt": "男的新衬衫是什么颜色？",
+     "correctAnswer": "C",
+     "explanation": "男的说‘蓝色的’，所以衬衫是蓝色的。",
+     "audio": {
+      "key": "listening/v1/31b1cdc1be31f5c7d720d8cca76359f9e122e280a1fe2f2e62c6a3b341c23c34.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你的新衬衫是什么颜色的？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "蓝色的。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我也喜欢蓝色。"
+       }
+      ],
+      "transcript": "你的新衬衫是什么颜色的？ 蓝色的。 我也喜欢蓝色。",
+      "transcriptPinyin": "nǐ de xīn chèn shān shì shén me yán sè de ？  lán sè de 。  wǒ yě xǐ huān lán sè 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "白色",
+       "pinyin": "bái sè"
+      },
+      {
+       "label": "B",
+       "text": "红色",
+       "pinyin": "hóng sè"
+      },
+      {
+       "label": "C",
+       "text": "蓝色",
+       "pinyin": "lán sè"
+      }
+     ],
+     "pinyin": "nán de xīn chèn shān shì shén me yán sè ？"
+    },
+    {
+     "id": "q8",
+     "type": "listening-mcq",
+     "prompt": "女怎么去上班？",
+     "correctAnswer": "A",
+     "explanation": "女的说‘我坐公交车’，所以女坐公交车上班。",
+     "audio": {
+      "key": "listening/v1/068a358743f4c45d943b3f57b9d9dfb0d48070f505c921b13b96e0058555b47a.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你怎么去上班？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我坐公交车。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我坐地铁。"
+       }
+      ],
+      "transcript": "你怎么去上班？ 我坐公交车。 我坐地铁。",
+      "transcriptPinyin": "nǐ zěn me qù shàng bān ？  wǒ zuò gōng jiāo chē 。  wǒ zuò dì tiě 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "坐公交车",
+       "pinyin": "zuò gōng jiāo chē"
+      },
+      {
+       "label": "B",
+       "text": "坐地铁",
+       "pinyin": "zuò dì tiě"
+      },
+      {
+       "label": "C",
+       "text": "走路",
+       "pinyin": "zǒu lù"
+      }
+     ],
+     "pinyin": "nǚ zěn me qù shàng bān ？"
+    },
+    {
+     "id": "q9",
+     "type": "listening-mcq",
+     "prompt": "男这个周末做什么？",
+     "correctAnswer": "C",
+     "explanation": "男的说‘我和朋友去公园玩儿’，所以男去公园。",
+     "audio": {
+      "key": "listening/v1/48b886c50e5afec7aa54366d5bb3281ab6762dcbc6a4b549715cf2e0083645a4.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "这个周末你做什么？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我和朋友去公园玩儿。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "听起来很有意思。"
+       }
+      ],
+      "transcript": "这个周末你做什么？ 我和朋友去公园玩儿。 听起来很有意思。",
+      "transcriptPinyin": "zhè ge zhōu mò nǐ zuò shén me ？  wǒ hé péng yǒu qù gōng yuán wán ér 。  tīng qǐ lái hěn yǒu yì si 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "去商店",
+       "pinyin": "qù shāng diàn"
+      },
+      {
+       "label": "B",
+       "text": "去学校",
+       "pinyin": "qù xué xiào"
+      },
+      {
+       "label": "C",
+       "text": "去公园",
+       "pinyin": "qù gōng yuán"
+      }
+     ],
+     "pinyin": "nán zhè ge zhōu mò zuò shén me ？"
+    },
+    {
+     "id": "q10",
+     "type": "listening-mcq",
+     "prompt": "笔多少钱？",
+     "correctAnswer": "A",
+     "explanation": "女的说‘五块’，所以笔是五元。",
+     "audio": {
+      "key": "listening/v1/973d8e2a4ae5d59cff624e3065670bc45250952cb162deb4231a70a77ee37292.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "这支笔多少钱？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "五块。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "很便宜。"
+       }
+      ],
+      "transcript": "这支笔多少钱？ 五块。 很便宜。",
+      "transcriptPinyin": "zhè zhī bǐ duō shǎo qián ？  wǔ kuài 。  hěn pián yi 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "五元",
+       "pinyin": "wǔ yuán"
+      },
+      {
+       "label": "B",
+       "text": "八元",
+       "pinyin": "bā yuán"
+      },
+      {
+       "label": "C",
+       "text": "三元",
+       "pinyin": "sān yuán"
+      }
+     ],
+     "pinyin": "bǐ duō shǎo qián ？"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

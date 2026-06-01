@@ -1,0 +1,143 @@
+{
+ "id": "hsk7-9-listening-p214",
+ "level": "7-9",
+ "section": "listening",
+ "partKey": "listening-p2",
+ "title": "HSK7-9 Listening P2",
+ "titleZh": "听力 第二部分（听短文选填答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听一段关于量子计算的科技报道，然后回答以下问题。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "量子比特与传统比特的主要区别是什么？",
+     "correctAnswer": "A",
+     "explanation": "文中明确提到量子比特可以同时处于0和1的叠加态，这是与传统比特的根本区别。",
+     "options": [
+      {
+       "label": "A",
+       "text": "量子比特可以同时处于0和1的叠加态"
+      },
+      {
+       "label": "B",
+       "text": "量子比特的运算速度更慢"
+      },
+      {
+       "label": "C",
+       "text": "量子比特需要常温环境"
+      },
+      {
+       "label": "D",
+       "text": "量子比特只能表示0或1"
+      }
+     ]
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "根据报道，量子计算在哪些领域有潜在应用？",
+     "correctAnswer": "B",
+     "explanation": "报道中列举了密码学、药物研发和材料科学作为量子计算的潜在应用领域。",
+     "options": [
+      {
+       "label": "A",
+       "text": "金融分析和电子商务"
+      },
+      {
+       "label": "B",
+       "text": "密码学、药物研发和材料科学"
+      },
+      {
+       "label": "C",
+       "text": "气象预测和交通管理"
+      },
+      {
+       "label": "D",
+       "text": "人工智能和游戏开发"
+      }
+     ]
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "目前量子计算面临的主要挑战是什么？",
+     "correctAnswer": "A",
+     "explanation": "报道指出量子纠错和规模化扩展是当前面临的主要技术挑战。",
+     "options": [
+      {
+       "label": "A",
+       "text": "量子纠错和规模化扩展"
+      },
+      {
+       "label": "B",
+       "text": "法律和伦理问题"
+      },
+      {
+       "label": "C",
+       "text": "成本过高，难以普及"
+      },
+      {
+       "label": "D",
+       "text": "缺乏相关人才"
+      }
+     ]
+    },
+    {
+     "id": "q4",
+     "type": "listening-dictation",
+     "prompt": "量子计算机运行需要什么样的环境？",
+     "correctAnswer": "极低温",
+     "explanation": "文中提到量子计算机需要在极低温环境下运行，以保持量子态的稳定。"
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "报道认为量子计算可能在未来取代什么？",
+     "correctAnswer": "B",
+     "explanation": "报道明确指出量子计算在处理某些特定问题时拥有远超经典计算机的能力，并非完全取代。",
+     "options": [
+      {
+       "label": "A",
+       "text": "人类智力活动"
+      },
+      {
+       "label": "B",
+       "text": "仅在特定问题上超越经典计算机"
+      },
+      {
+       "label": "C",
+       "text": "传统电子计算机"
+      },
+      {
+       "label": "D",
+       "text": "所有类型计算机"
+      }
+     ]
+    },
+    {
+     "id": "q6",
+     "type": "listening-dictation",
+     "prompt": "文中提到的量子比特的英文缩写是什么？",
+     "correctAnswer": "qubit",
+     "explanation": "文中直接给出了量子比特的英文缩写qubit。"
+    }
+   ],
+   "audio": {
+    "key": "listening/v1/5386ced7e7372a616cfed051aa3d7526582e9acd5e2345ca0559117b1ca05910.mp3",
+    "lines": [
+     {
+      "speaker": "旁白",
+      "voice": "narrator",
+      "text": "量子计算是一种利用量子力学原理进行信息处理的新型计算模式。与传统计算机使用比特（0或1）不同，量子计算机使用量子比特，即qubit。量子比特可以同时处于0和1的叠加态，这让量子计算机在处理某些特定问题时拥有远超经典计算机的计算能力。例如，在密码学、药物研发和材料科学等领域，量子计算有望实现革命性突破。然而，量子计算机对环境极其敏感，需要在极低温环境下运行，以保持量子态的稳定。此外，量子纠错和规模化扩展也是当前面临的主要技术挑战。尽管困难重重，科学家们依然对未来充满信心，认为量子计算将在未来十年内逐步走向实用化。"
+     }
+    ],
+    "transcript": "量子计算是一种利用量子力学原理进行信息处理的新型计算模式。与传统计算机使用比特（0或1）不同，量子计算机使用量子比特，即qubit。量子比特可以同时处于0和1的叠加态，这让量子计算机在处理某些特定问题时拥有远超经典计算机的计算能力。例如，在密码学、药物研发和材料科学等领域，量子计算有望实现革命性突破。然而，量子计算机对环境极其敏感，需要在极低温环境下运行，以保持量子态的稳定。此外，量子纠错和规模化扩展也是当前面临的主要技术挑战。尽管困难重重，科学家们依然对未来充满信心，认为量子计算将在未来十年内逐步走向实用化。",
+    "transcriptPinyin": null
+   }
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

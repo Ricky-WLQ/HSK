@@ -1,0 +1,202 @@
+{
+ "id": "hsk1-listening-p215",
+ "level": "1",
+ "section": "listening",
+ "partKey": "listening-p2",
+ "title": "HSK1 Listening P2",
+ "titleZh": "听力 第二部分（听句子选答语）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "听录音，然后根据问题选择正确的答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "他叫什么名字？",
+     "correctAnswer": "C",
+     "explanation": "录音中说“我叫王明”，所以他的名字是王明。",
+     "audio": {
+      "key": "listening/v1/84a85e429a462e79bb9c38531e1597af6f0185c41ab1f97ecd395cb7011e3d3a.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "你好，我叫王明。"
+       }
+      ],
+      "transcript": "你好，我叫王明。",
+      "transcriptPinyin": "nǐ hǎo ， wǒ jiào wáng míng 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "张明",
+       "pinyin": "zhāng míng"
+      },
+      {
+       "label": "B",
+       "text": "李明",
+       "pinyin": "lǐ míng"
+      },
+      {
+       "label": "C",
+       "text": "王明",
+       "pinyin": "wáng míng"
+      }
+     ],
+     "pinyin": "tā jiào shén me míng zì ？"
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "今天天气怎么样？",
+     "correctAnswer": "B",
+     "explanation": "录音中说“今天天气很好”，所以天气很好。",
+     "audio": {
+      "key": "listening/v1/ea6a8e4f3940c60bbd314ade34cf78e6e14c3d18dab3bf25cd739f306a1d77b6.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "今天天气很好，我们去公园吧。"
+       }
+      ],
+      "transcript": "今天天气很好，我们去公园吧。",
+      "transcriptPinyin": "jīn tiān tiān qì hěn hǎo ， wǒ men qù gōng yuán ba 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "很冷",
+       "pinyin": "hěn lěng"
+      },
+      {
+       "label": "B",
+       "text": "很好",
+       "pinyin": "hěn hǎo"
+      },
+      {
+       "label": "C",
+       "text": "不好",
+       "pinyin": "bù hǎo"
+      }
+     ],
+     "pinyin": "jīn tiān tiān qì zěn me yàng ？"
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "书是什么颜色？",
+     "correctAnswer": "A",
+     "explanation": "录音中说书是红色的。",
+     "audio": {
+      "key": "listening/v1/bf990323eccb4c2461c0032dba3d0bc6dbe163afa2c576d0430c790b3ddacc9b.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我有一本书，是红色的。"
+       }
+      ],
+      "transcript": "我有一本书，是红色的。",
+      "transcriptPinyin": "wǒ yǒu yī běn shū ， shì hóng sè de 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "红色",
+       "pinyin": "hóng sè"
+      },
+      {
+       "label": "B",
+       "text": "绿色",
+       "pinyin": "lǜ sè"
+      },
+      {
+       "label": "C",
+       "text": "蓝色",
+       "pinyin": "lán sè"
+      }
+     ],
+     "pinyin": "shū shì shén me yán sè ？"
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "他家有几个人？",
+     "correctAnswer": "C",
+     "explanation": "录音中说家里有三个人。",
+     "audio": {
+      "key": "listening/v1/8230f67bf706eac493e92e3070e72f8de649eeaf6ff708685cfd592df55e7539.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我家有三个人，爸爸、妈妈和我。"
+       }
+      ],
+      "transcript": "我家有三个人，爸爸、妈妈和我。",
+      "transcriptPinyin": "wǒ jiā yǒu sān gè rén ， bà bà 、 mā mā hé wǒ 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "四个",
+       "pinyin": "sì gè"
+      },
+      {
+       "label": "B",
+       "text": "两个",
+       "pinyin": "liǎng gè"
+      },
+      {
+       "label": "C",
+       "text": "三个",
+       "pinyin": "sān gè"
+      }
+     ],
+     "pinyin": "tā jiā yǒu jǐ gè rén ？"
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "他喜欢吃什么？",
+     "correctAnswer": "A",
+     "explanation": "录音中说喜欢吃苹果。",
+     "audio": {
+      "key": "listening/v1/b971f8692ae2a0f3a06e857e65b6209faafae8dfbe0fe9b15c46ba6116a6a329.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我喜欢吃苹果，不喜欢吃香蕉。"
+       }
+      ],
+      "transcript": "我喜欢吃苹果，不喜欢吃香蕉。",
+      "transcriptPinyin": "wǒ xǐ huān chī píng guǒ ， bù xǐ huān chī xiāng jiāo 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "苹果",
+       "pinyin": "píng guǒ"
+      },
+      {
+       "label": "B",
+       "text": "香蕉",
+       "pinyin": "xiāng jiāo"
+      },
+      {
+       "label": "C",
+       "text": "橘子",
+       "pinyin": "jú zi"
+      }
+     ],
+     "pinyin": "tā xǐ huān chī shén me ？"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

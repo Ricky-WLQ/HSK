@@ -1,0 +1,117 @@
+{
+ "id": "hsk1-listening-p103",
+ "level": "1",
+ "section": "listening",
+ "partKey": "listening-p1",
+ "title": "HSK1 Listening P1",
+ "titleZh": "听力 第一部分（看图判断）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "下面你将听到五个句子，每个句子对应一张图片。请判断图片是否与句子内容一致。一致的选“对”，不一致的选“错”。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "对",
+     "explanation": "图片中猫在桌子上，与句子描述一致，所以判断为对。",
+     "audio": {
+      "key": "listening/v1/07a084230348fc3a4fa757443b2deb2f1cb25363d92a326091117d34d50eaa14.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "猫在桌子上。"
+       }
+      ],
+      "transcript": "猫在桌子上。",
+      "transcriptPinyin": "māo zài zhuō zi shàng 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-b734a495ead630666e01ef03c8ee0525.png"
+    },
+    {
+     "id": "q2",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "错",
+     "explanation": "句子说妈妈在看书，但图片中妈妈在喝水，行为不同，所以判断为错。",
+     "audio": {
+      "key": "listening/v1/eadba6d52c934ddf5b5b4b615de902ba27943d12792c057df7bb4d2b5cfb03e6.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "妈妈在看书。"
+       }
+      ],
+      "transcript": "妈妈在看书。",
+      "transcriptPinyin": "mā mā zài kàn shū 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-9823379c5e240e65f11c238112d0a638.png"
+    },
+    {
+     "id": "q3",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "对",
+     "explanation": "图片中的人在吃苹果，与句子描述一致，所以判断为对。",
+     "audio": {
+      "key": "listening/v1/040bb96fae2c1e99930ff89d62b816b967148863009026365c83e98ed935b701.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我吃苹果。"
+       }
+      ],
+      "transcript": "我吃苹果。",
+      "transcriptPinyin": "wǒ chī píng guǒ 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-d995ac48ee0afa469637c1d4e832bcd7.png"
+    },
+    {
+     "id": "q4",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "错",
+     "explanation": "句子说学生去学校，但图片中学生在家看电视，地点和活动都不对，所以判断为错。",
+     "audio": {
+      "key": "listening/v1/19e44db3fc13d48d2beb5c9b2694deadf8fe60c468b070d2753eaa64d4af9468.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "学生去学校。"
+       }
+      ],
+      "transcript": "学生去学校。",
+      "transcriptPinyin": "xué shēng qù xué xiào 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-500c6824129e4788ff088233ef8c20f6.png"
+    },
+    {
+     "id": "q5",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "对",
+     "explanation": "图片中的水冒着热气，表示是热水，与句子描述一致，所以判断为对。",
+     "audio": {
+      "key": "listening/v1/7faba7cd94224f1160cc2e06c5ae04f8fe7f587cc2f5cb44645a415daaa5b70a.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "水很热。"
+       }
+      ],
+      "transcript": "水很热。",
+      "transcriptPinyin": "shuǐ hěn rè 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-d4913487296bed438b6932bb1f0c17cb.png"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

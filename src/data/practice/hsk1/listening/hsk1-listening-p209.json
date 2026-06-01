@@ -1,0 +1,202 @@
+{
+ "id": "hsk1-listening-p209",
+ "level": "1",
+ "section": "listening",
+ "partKey": "listening-p2",
+ "title": "HSK1 Listening P2",
+ "titleZh": "听力 第二部分（听句子选答语）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听录音，选择正确的答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "说话的人叫什么名字？",
+     "correctAnswer": "B",
+     "explanation": "录音中说话的人说“我叫李华”，所以他的名字是李华。",
+     "audio": {
+      "key": "listening/v1/891af74c15079e0cafb1e96ce40978d6003d13a1502e615d7b5ce32be5d7f85d.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "你好，我叫李华。"
+       }
+      ],
+      "transcript": "你好，我叫李华。",
+      "transcriptPinyin": "nǐ hǎo ， wǒ jiào lǐ huá 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "张明",
+       "pinyin": "zhāng míng"
+      },
+      {
+       "label": "B",
+       "text": "李华",
+       "pinyin": "lǐ huá"
+      },
+      {
+       "label": "C",
+       "text": "王丽",
+       "pinyin": "wáng lì"
+      }
+     ],
+     "pinyin": "shuō huà de rén jiào shén me míng zì ？"
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "说话的人今年几岁？",
+     "correctAnswer": "C",
+     "explanation": "录音中说“我今年六岁了”，所以是六岁。",
+     "audio": {
+      "key": "listening/v1/db4fbe2b32324ef4acbb55bfb4d0b72917bdb5d153b55ca3aaad42a2101e0d67.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "今天是我生日，我今年六岁了。"
+       }
+      ],
+      "transcript": "今天是我生日，我今年六岁了。",
+      "transcriptPinyin": "jīn tiān shì wǒ shēng rì ， wǒ jīn nián liù suì le 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "五岁",
+       "pinyin": "wǔ suì"
+      },
+      {
+       "label": "B",
+       "text": "七岁",
+       "pinyin": "qī suì"
+      },
+      {
+       "label": "C",
+       "text": "六岁",
+       "pinyin": "liù suì"
+      }
+     ],
+     "pinyin": "shuō huà de rén jīn nián jǐ suì ？"
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "妈妈买了什么？",
+     "correctAnswer": "B",
+     "explanation": "录音中说“买了一个苹果”，所以买的是苹果。",
+     "audio": {
+      "key": "listening/v1/71ffdfc83fa90775fa32c0b950b31c3777460365829eed83602db956d2420260.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "妈妈在商店里买了一个苹果。"
+       }
+      ],
+      "transcript": "妈妈在商店里买了一个苹果。",
+      "transcriptPinyin": "mā mā zài shāng diàn lǐ mǎi le yí gè píng guǒ 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "香蕉",
+       "pinyin": "xiāng jiāo"
+      },
+      {
+       "label": "B",
+       "text": "苹果",
+       "pinyin": "píng guǒ"
+      },
+      {
+       "label": "C",
+       "text": "面包",
+       "pinyin": "miàn bāo"
+      }
+     ],
+     "pinyin": "mā mā mǎi le shén me ？"
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "现在是几点？",
+     "correctAnswer": "C",
+     "explanation": "录音中说“现在八点十五分”，所以是八点十五分。",
+     "audio": {
+      "key": "listening/v1/d8806350456689a2d2ddd69ad937e7d879f7a1427bf90bd348bf3bac5bca8baf.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "现在几点？现在八点十五分。"
+       }
+      ],
+      "transcript": "现在几点？现在八点十五分。",
+      "transcriptPinyin": "xiàn zài jǐ diǎn ？ xiàn zài bā diǎn shí wǔ fēn 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "九点",
+       "pinyin": "jiǔ diǎn"
+      },
+      {
+       "label": "B",
+       "text": "八点",
+       "pinyin": "bā diǎn"
+      },
+      {
+       "label": "C",
+       "text": "八点十五分",
+       "pinyin": "bā diǎn shí wǔ fēn"
+      }
+     ],
+     "pinyin": "xiàn zài shì jǐ diǎn ？"
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "杯子是什么颜色？",
+     "correctAnswer": "B",
+     "explanation": "录音中说“杯子是白色的”，所以是白色。",
+     "audio": {
+      "key": "listening/v1/13d4245ce30da4c80f0edd21b00f97f0b80d2512e62eff65f83e83fdef63e263.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "这个杯子是白色的。"
+       }
+      ],
+      "transcript": "这个杯子是白色的。",
+      "transcriptPinyin": "zhè ge bēi zi shì bái sè de 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "黑色",
+       "pinyin": "hēi sè"
+      },
+      {
+       "label": "B",
+       "text": "白色",
+       "pinyin": "bái sè"
+      },
+      {
+       "label": "C",
+       "text": "红色",
+       "pinyin": "hóng sè"
+      }
+     ],
+     "pinyin": "bēi zi shì shén me yán sè ？"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

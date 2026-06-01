@@ -1,0 +1,502 @@
+{
+ "id": "hsk3-listening-p213",
+ "level": "3",
+ "section": "listening",
+ "partKey": "listening-p2",
+ "title": "HSK3 Listening P2",
+ "titleZh": "听力 第二部分（听对话选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "下面你将听到10段简短对话，每段对话后有一个问题。请从三个选项中选择正确答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "女的周末要做什么？",
+     "correctAnswer": "A",
+     "explanation": "女的说想去但先写作业，男的建议写完再去，所以她要先写作业再看电影。",
+     "audio": {
+      "key": "listening/v1/ad921f1ac91b5c420caa9cc0dea3c324036439090109a2b93d90fb88566a57c8.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你周末去不去看电影？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我想去，但是我要先写完作业。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "那我们一起写作业吧，写完再去。"
+       }
+      ],
+      "transcript": "你周末去不去看电影？ 我想去，但是我要先写完作业。 那我们一起写作业吧，写完再去。",
+      "transcriptPinyin": "nǐ zhōu mò qù bù qù kàn diàn yǐng ？  wǒ xiǎng qù ， dàn shì wǒ yào xiān xiě wán zuò yè 。  nà wǒ men yì qǐ xiě zuò yè ba ， xiě wán zài qù 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "先写作业再看电影",
+       "pinyin": "xiān xiě zuò yè zài kàn diàn yǐng"
+      },
+      {
+       "label": "B",
+       "text": "看电影",
+       "pinyin": "kàn diàn yǐng"
+      },
+      {
+       "label": "C",
+       "text": "写作业",
+       "pinyin": "xiě zuò yè"
+      }
+     ],
+     "pinyin": "nǚ de zhōu mò yào zuò shén me ？"
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "男的最想喝什么？",
+     "correctAnswer": "C",
+     "explanation": "男的说想喝可乐，所以可乐是他最想喝的。",
+     "audio": {
+      "key": "listening/v1/a25a7049b7665a687ccf6b48e131b271858157898fcf61adc2d2215ff9730aae.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你喝水吗？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "不喝，我想喝可乐。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "可乐不好，还是喝水健康。"
+       }
+      ],
+      "transcript": "你喝水吗？ 不喝，我想喝可乐。 可乐不好，还是喝水健康。",
+      "transcriptPinyin": "nǐ hē shuǐ ma ？  bù hē ， wǒ xiǎng hē kě lè 。  kě lè bù hǎo ， hái shì hē shuǐ jiàn kāng 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "果汁",
+       "pinyin": "guǒ zhī"
+      },
+      {
+       "label": "B",
+       "text": "水",
+       "pinyin": "shuǐ"
+      },
+      {
+       "label": "C",
+       "text": "可乐",
+       "pinyin": "kě lè"
+      }
+     ],
+     "pinyin": "nán de zuì xiǎng hē shén me ？"
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "银行在哪儿？",
+     "correctAnswer": "C",
+     "explanation": "女的说银行在超市旁边，所以正确位置是超市旁边。",
+     "audio": {
+      "key": "listening/v1/87e960457ad6024f34dd96d7a33fe789b96f051d4ba2f1967339b6b15d5330d2.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "请问，附近有银行吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "有，往前走三百米，在超市旁边。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "好的，谢谢。"
+       }
+      ],
+      "transcript": "请问，附近有银行吗？ 有，往前走三百米，在超市旁边。 好的，谢谢。",
+      "transcriptPinyin": "qǐng wèn ， fù jìn yǒu yín háng ma ？  yǒu ， wǎng qián zǒu sān bǎi mǐ ， zài chāo shì páng biān 。  hǎo de ， xiè xiè 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "超市里面",
+       "pinyin": "chāo shì lǐ miàn"
+      },
+      {
+       "label": "B",
+       "text": "超市对面",
+       "pinyin": "chāo shì duì miàn"
+      },
+      {
+       "label": "C",
+       "text": "超市旁边",
+       "pinyin": "chāo shì páng biān"
+      }
+     ],
+     "pinyin": "yín háng zài nǎ ér ？"
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "男的觉得这件衣服怎么样？",
+     "correctAnswer": "B",
+     "explanation": "男的说颜色好看但是太小了，所以大小不合适。",
+     "audio": {
+      "key": "listening/v1/aba8fedb5278f53a95e0e467ff51b959c7c2f854ca596552827270d2b90bb5cc.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "这件衣服怎么样？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "颜色很好看，但是太小了。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "那换大一号的试试？"
+       }
+      ],
+      "transcript": "这件衣服怎么样？ 颜色很好看，但是太小了。 那换大一号的试试？",
+      "transcriptPinyin": "zhè jiàn yī fú zěn me yàng ？  yán sè hěn hǎo kàn ， dàn shì tài xiǎo le 。  nà huàn dà yī hào de shì shì ？"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "又好看又合身",
+       "pinyin": "yòu hǎo kàn yòu hé shēn"
+      },
+      {
+       "label": "B",
+       "text": "大小不合适",
+       "pinyin": "dà xiǎo bù hé shì"
+      },
+      {
+       "label": "C",
+       "text": "颜色不好看",
+       "pinyin": "yán sè bù hǎo kàn"
+      }
+     ],
+     "pinyin": "nán de jué de zhè jiàn yī fú zěn me yàng ？"
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "女的昨天为什么没来上课？",
+     "correctAnswer": "B",
+     "explanation": "女的说感冒了，去医院看病，所以是因为生病没来上课。",
+     "audio": {
+      "key": "listening/v1/0a72ebc7a4528fad30c97a60c6220657c036057fef42e5ef3797dc8eeb4b5431.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你昨天怎么没来上课？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我感冒了，去医院看病了。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "现在好点儿了吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "好多了，谢谢关心。"
+       }
+      ],
+      "transcript": "你昨天怎么没来上课？ 我感冒了，去医院看病了。 现在好点儿了吗？ 好多了，谢谢关心。",
+      "transcriptPinyin": "nǐ zuó tiān zěn me méi lái shàng kè ？  wǒ gǎn mào le ， qù yī yuàn kàn bìng le 。  xiàn zài hǎo diǎn ér le ma ？  hǎo duō le ， xiè xiè guān xīn 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "她不想来",
+       "pinyin": "tā bù xiǎng lái"
+      },
+      {
+       "label": "B",
+       "text": "她生病了",
+       "pinyin": "tā shēng bìng le"
+      },
+      {
+       "label": "C",
+       "text": "她去医院看朋友",
+       "pinyin": "tā qù yī yuàn kàn péng yǒu"
+      }
+     ],
+     "pinyin": "nǚ de zuó tiān wèi shén me méi lái shàng kè ？"
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "男的的儿子几岁了？",
+     "correctAnswer": "A",
+     "explanation": "男的说儿子今年五岁，所以答案是五岁。",
+     "audio": {
+      "key": "listening/v1/dd432962195af62eeae713c96fa1e8815cbceffc6c3aec7bd7f16b2cb9b6f28b.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你儿子多大了？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "今年五岁，上幼儿园了。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "真快啊，我女儿也四岁了。"
+       }
+      ],
+      "transcript": "你儿子多大了？ 今年五岁，上幼儿园了。 真快啊，我女儿也四岁了。",
+      "transcriptPinyin": "nǐ ér zi duō dà le ？  jīn nián wǔ suì ， shàng yòu ér yuán le 。  zhēn kuài a ， wǒ nǚ ér yě sì suì le 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "五岁",
+       "pinyin": "wǔ suì"
+      },
+      {
+       "label": "B",
+       "text": "六岁",
+       "pinyin": "liù suì"
+      },
+      {
+       "label": "C",
+       "text": "四岁",
+       "pinyin": "sì suì"
+      }
+     ],
+     "pinyin": "nán de de ér zi jǐ suì le ？"
+    },
+    {
+     "id": "q7",
+     "type": "listening-mcq",
+     "prompt": "他们打算几点出发？",
+     "correctAnswer": "B",
+     "explanation": "女的说八点半出发，所以出发时间是八点半。",
+     "audio": {
+      "key": "listening/v1/7a2036bfb0caf72370ee41d8c0354c851f28793e683f9be2d0fd3e8ed6943f15.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我们几点出发？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "八点半吧，我们先吃早饭。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "好，那我现在去准备。"
+       }
+      ],
+      "transcript": "我们几点出发？ 八点半吧，我们先吃早饭。 好，那我现在去准备。",
+      "transcriptPinyin": "wǒ men jǐ diǎn chū fā ？  bā diǎn bàn ba ， wǒ men xiān chī zǎo fàn 。  hǎo ， nà wǒ xiàn zài qù zhǔn bèi 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "九点",
+       "pinyin": "jiǔ diǎn"
+      },
+      {
+       "label": "B",
+       "text": "八点半",
+       "pinyin": "bā diǎn bàn"
+      },
+      {
+       "label": "C",
+       "text": "八点",
+       "pinyin": "bā diǎn"
+      }
+     ],
+     "pinyin": "tā men dǎ suàn jǐ diǎn chū fā ？"
+    },
+    {
+     "id": "q8",
+     "type": "listening-mcq",
+     "prompt": "男的会什么运动？",
+     "correctAnswer": "A",
+     "explanation": "男的说喜欢打篮球和游泳，所以他会这两种运动。",
+     "audio": {
+      "key": "listening/v1/31b7d322f199af3f2b8f0783c62402823de9753f27da20c545bebc711de1a358.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你喜欢什么运动？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我喜欢打篮球和游泳。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我也喜欢游泳，周末一起去吧？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "好啊，我教你游泳。"
+       }
+      ],
+      "transcript": "你喜欢什么运动？ 我喜欢打篮球和游泳。 我也喜欢游泳，周末一起去吧？ 好啊，我教你游泳。",
+      "transcriptPinyin": "nǐ xǐ huān shén me yùn dòng ？  wǒ xǐ huān dǎ lán qiú hé yóu yǒng 。  wǒ yě xǐ huān yóu yǒng ， zhōu mò yì qǐ qù ba ？  hǎo a ， wǒ jiào nǐ yóu yǒng 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "会打篮球和游泳",
+       "pinyin": "huì dǎ lán qiú hé yóu yǒng"
+      },
+      {
+       "label": "B",
+       "text": "只会游泳",
+       "pinyin": "zhǐ huì yóu yǒng"
+      },
+      {
+       "label": "C",
+       "text": "只会打篮球",
+       "pinyin": "zhǐ huì dǎ lán qiú"
+      }
+     ],
+     "pinyin": "nán de huì shén me yùn dòng ？"
+    },
+    {
+     "id": "q9",
+     "type": "listening-mcq",
+     "prompt": "女的给了男的一支什么？",
+     "correctAnswer": "C",
+     "explanation": "女的说有铅笔，让男的去用，所以给的是铅笔。",
+     "audio": {
+      "key": "listening/v1/b58dcdabc70679cf5cdebd99bb773397a4e548cc5178d70075e62efed382861d.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你有铅笔吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "有，但是只有一支了，你拿去用吧。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "那你用什么？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我可以用圆珠笔。"
+       }
+      ],
+      "transcript": "你有铅笔吗？ 有，但是只有一支了，你拿去用吧。 那你用什么？ 我可以用圆珠笔。",
+      "transcriptPinyin": "nǐ yǒu qiān bǐ ma ？  yǒu ， dàn shì zhǐ yǒu yī zhī le ， nǐ ná qù yòng ba 。  nà nǐ yòng shén me ？  wǒ kě yǐ yòng yuán zhū bǐ 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "钢笔",
+       "pinyin": "gāng bǐ"
+      },
+      {
+       "label": "B",
+       "text": "圆珠笔",
+       "pinyin": "yuán zhū bǐ"
+      },
+      {
+       "label": "C",
+       "text": "铅笔",
+       "pinyin": "qiān bǐ"
+      }
+     ],
+     "pinyin": "nǚ de gěi le nán de yī zhī shén me ？"
+    },
+    {
+     "id": "q10",
+     "type": "listening-mcq",
+     "prompt": "明天天气怎么样？",
+     "correctAnswer": "B",
+     "explanation": "男的说天气预报说明天有雨，所以明天会下雨。",
+     "audio": {
+      "key": "listening/v1/65ad4c152b6014cd4cde8f7d964d3918c9243062bb64c137a889d215f9a87a60.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "明天天气怎么样？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "天气预报说明天有雨，记得带伞。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "好的，谢谢提醒。"
+       }
+      ],
+      "transcript": "明天天气怎么样？ 天气预报说明天有雨，记得带伞。 好的，谢谢提醒。",
+      "transcriptPinyin": "míng tiān tiān qì zěn me yàng ？  tiān qì yù bào shuō míng tiān yǒu yǔ ， jì de dài sǎn 。  hǎo de ， xiè xiè tí xǐng 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "多云",
+       "pinyin": "duō yún"
+      },
+      {
+       "label": "B",
+       "text": "有雨",
+       "pinyin": "yǒu yǔ"
+      },
+      {
+       "label": "C",
+       "text": "晴天",
+       "pinyin": "qíng tiān"
+      }
+     ],
+     "pinyin": "míng tiān tiān qì zěn me yàng ？"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

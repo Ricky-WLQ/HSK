@@ -1,0 +1,143 @@
+{
+ "id": "hsk7-9-listening-p210",
+ "level": "7-9",
+ "section": "listening",
+ "partKey": "listening-p2",
+ "title": "HSK7-9 Listening P2",
+ "titleZh": "听力 第二部分（听短文选填答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听一段关于人工智能在医疗领域应用的独白，然后回答6个问题。大多数问题为四选一选择题，1-2个为简短填空题。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "人工智能在医疗领域的主要优势是什么？",
+     "correctAnswer": "D",
+     "explanation": "独白中提到“深度学习算法能够快速识别CT扫描中的微小病灶”，这是AI的主要优势之一，而其他选项均与原文不符或过于绝对。",
+     "options": [
+      {
+       "label": "A",
+       "text": "完全替代医生"
+      },
+      {
+       "label": "B",
+       "text": "消除算法偏见"
+      },
+      {
+       "label": "C",
+       "text": "解决所有数据隐私问题"
+      },
+      {
+       "label": "D",
+       "text": "快速识别微小病灶"
+      }
+     ]
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "为什么医生仍然需要参与诊断过程？",
+     "correctAnswer": "A",
+     "explanation": "原文指出“人工智能目前仍局限于模式识别，缺乏对患者综合情况的判断力”，因此医生需要参与。其他选项并非原文提及的原因。",
+     "options": [
+      {
+       "label": "A",
+       "text": "因为AI缺乏对患者综合情况的判断力"
+      },
+      {
+       "label": "B",
+       "text": "因为AI会泄露患者隐私"
+      },
+      {
+       "label": "C",
+       "text": "因为AI无法识别任何病灶"
+      },
+      {
+       "label": "D",
+       "text": "因为AI的诊断速度太慢"
+      }
+     ]
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "独白中“辅助决策”的“辅助”是什么意思？",
+     "correctAnswer": "A",
+     "explanation": "结合上下文，AI提供参考意见，医生做最终决策，可见“辅助”表示次要的、帮助性的角色。",
+     "options": [
+      {
+       "label": "A",
+       "text": "次要"
+      },
+      {
+       "label": "B",
+       "text": "无关"
+      },
+      {
+       "label": "C",
+       "text": "完全替代"
+      },
+      {
+       "label": "D",
+       "text": "主要"
+      }
+     ]
+    },
+    {
+     "id": "q4",
+     "type": "listening-dictation",
+     "prompt": "人工智能在分析哪种医疗数据时表现突出？",
+     "correctAnswer": "医学影像",
+     "explanation": "原文明确提到“尤其是在医学影像分析和辅助诊断方面”，因此填空答案为“医学影像”。"
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "这段话主要讨论什么？",
+     "correctAnswer": "A",
+     "explanation": "全文既讲了AI在医疗中的优势（影像分析），也讲了局限性（缺乏综合判断、数据隐私等），因此主旨是应用与局限。",
+     "options": [
+      {
+       "label": "A",
+       "text": "人工智能在医疗领域的应用与局限"
+      },
+      {
+       "label": "B",
+       "text": "人工智能如何取代医生"
+      },
+      {
+       "label": "C",
+       "text": "人工智能的算法偏见问题"
+      },
+      {
+       "label": "D",
+       "text": "人工智能的未来发展方向"
+      }
+     ]
+    },
+    {
+     "id": "q6",
+     "type": "listening-dictation",
+     "prompt": "人工智能系统面临的挑战之一是什么？",
+     "correctAnswer": "数据隐私",
+     "explanation": "原文提到“数据隐私和算法偏见也是亟待解决的挑战”，因此填空答案为“数据隐私”。"
+    }
+   ],
+   "audio": {
+    "key": "listening/v1/6c3a8f866b4ac4d3df302cd035ab5ed0f094308c2dd4a4f9a296ccc45d77bb44.mp3",
+    "lines": [
+     {
+      "speaker": "旁白",
+      "voice": "narrator",
+      "text": "近年来，人工智能在医疗领域取得了突破性进展，尤其是在医学影像分析和辅助诊断方面。深度学习算法能够快速识别CT扫描中的微小病灶，其准确率甚至超过了资深放射科医生。然而，这并不意味着医生会被完全替代。人工智能目前仍局限于模式识别，缺乏对患者综合情况的判断力。此外，数据隐私和算法偏见也是亟待解决的挑战。因此，最理想的模式是人机协作，即AI提供参考意见，由医生做出最终决策。"
+     }
+    ],
+    "transcript": "近年来，人工智能在医疗领域取得了突破性进展，尤其是在医学影像分析和辅助诊断方面。深度学习算法能够快速识别CT扫描中的微小病灶，其准确率甚至超过了资深放射科医生。然而，这并不意味着医生会被完全替代。人工智能目前仍局限于模式识别，缺乏对患者综合情况的判断力。此外，数据隐私和算法偏见也是亟待解决的挑战。因此，最理想的模式是人机协作，即AI提供参考意见，由医生做出最终决策。",
+    "transcriptPinyin": null
+   }
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

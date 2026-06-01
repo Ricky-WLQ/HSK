@@ -1,0 +1,143 @@
+{
+ "id": "hsk7-9-listening-p217",
+ "level": "7-9",
+ "section": "listening",
+ "partKey": "listening-p2",
+ "title": "HSK7-9 Listening P2",
+ "titleZh": "听力 第二部分（听短文选填答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听旁白，回答下列问题。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "根据这段话，传统计算机依赖什么？",
+     "correctAnswer": "B",
+     "explanation": "文中明确提到'传统的计算机依赖于二进制位'，因此正确答案是二进制位。",
+     "options": [
+      {
+       "label": "A",
+       "text": "量子比特"
+      },
+      {
+       "label": "B",
+       "text": "二进制位"
+      },
+      {
+       "label": "C",
+       "text": "量子退相干"
+      },
+      {
+       "label": "D",
+       "text": "深度神经网络"
+      }
+     ]
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "量子计算机的主要优势是什么？",
+     "correctAnswer": "B",
+     "explanation": "文中说量子计算机'在特定问题上实现指数级的加速'，所以主要优势是指数级加速。",
+     "options": [
+      {
+       "label": "A",
+       "text": "成本低"
+      },
+      {
+       "label": "B",
+       "text": "指数级加速"
+      },
+      {
+       "label": "C",
+       "text": "稳定性高"
+      },
+      {
+       "label": "D",
+       "text": "易于制造"
+      }
+     ]
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "量子计算机目前面临的主要挑战是什么？",
+     "correctAnswer": "C",
+     "explanation": "文中提到'量子计算机的硬件目前仍面临极大的稳定性挑战，比如量子退相干现象'，因此主要挑战是量子退相干。",
+     "options": [
+      {
+       "label": "A",
+       "text": "价格昂贵"
+      },
+      {
+       "label": "B",
+       "text": "体积过大"
+      },
+      {
+       "label": "C",
+       "text": "量子退相干"
+      },
+      {
+       "label": "D",
+       "text": "算法复杂度"
+      }
+     ]
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "人工智能如何帮助量子计算机？",
+     "correctAnswer": "A",
+     "explanation": "文中说人工智能算法'正被用来优化量子电路的参数，减少错误率'，所以答案是优化电路参数。",
+     "options": [
+      {
+       "label": "A",
+       "text": "优化电路参数"
+      },
+      {
+       "label": "B",
+       "text": "消除退相干"
+      },
+      {
+       "label": "C",
+       "text": "增加量子比特数量"
+      },
+      {
+       "label": "D",
+       "text": "降低硬件成本"
+      }
+     ]
+    },
+    {
+     "id": "q5",
+     "type": "listening-dictation",
+     "prompt": "这种双向赋能被称为“______”。",
+     "correctAnswer": "量子人工智能",
+     "explanation": "文中明确提到'这种双向赋能被称为“量子人工智能”'，所以填空处应为量子人工智能。"
+    },
+    {
+     "id": "q6",
+     "type": "listening-dictation",
+     "prompt": "科学家预测量子人工智能将在未来五到十年在______领域取得突破。",
+     "correctAnswer": "药物研发",
+     "explanation": "文中预测'在药物研发、材料科学和密码破译等领域取得突破性进展'，因此其中一个领域是药物研发。"
+    }
+   ],
+   "audio": {
+    "key": "listening/v1/9a42ab0c017dc37cb178368bda3bc24700e6e8128d1c10022df6fba5238ea60c.mp3",
+    "lines": [
+     {
+      "speaker": "旁白",
+      "voice": "narrator",
+      "text": "近年来，量子计算与人工智能的融合成为科技领域最受瞩目的前沿方向之一。传统的计算机依赖于二进制位，而量子计算机则利用量子比特，能够同时处理多个状态，从而在特定问题上实现指数级的加速。然而，量子计算机的硬件目前仍面临极大的稳定性挑战，比如量子退相干现象会导致信息丢失。与此同时，人工智能算法，特别是深度神经网络，正被用来优化量子电路的参数，减少错误率。这种双向赋能被称为“量子人工智能”。科学家们预测，在未来的五到十年内，量子人工智能有望在药物研发、材料科学和密码破译等领域取得突破性进展。"
+     }
+    ],
+    "transcript": "近年来，量子计算与人工智能的融合成为科技领域最受瞩目的前沿方向之一。传统的计算机依赖于二进制位，而量子计算机则利用量子比特，能够同时处理多个状态，从而在特定问题上实现指数级的加速。然而，量子计算机的硬件目前仍面临极大的稳定性挑战，比如量子退相干现象会导致信息丢失。与此同时，人工智能算法，特别是深度神经网络，正被用来优化量子电路的参数，减少错误率。这种双向赋能被称为“量子人工智能”。科学家们预测，在未来的五到十年内，量子人工智能有望在药物研发、材料科学和密码破译等领域取得突破性进展。",
+    "transcriptPinyin": null
+   }
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

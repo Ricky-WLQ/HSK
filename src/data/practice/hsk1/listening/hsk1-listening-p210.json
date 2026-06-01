@@ -1,0 +1,202 @@
+{
+ "id": "hsk1-listening-p210",
+ "level": "1",
+ "section": "listening",
+ "partKey": "listening-p2",
+ "title": "HSK1 Listening P2",
+ "titleZh": "听力 第二部分（听句子选答语）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听录音，然后选出正确的答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "他在哪里学习？",
+     "correctAnswer": "C",
+     "explanation": "录音里说“我在学校学习”，所以他在学校学习。",
+     "audio": {
+      "key": "listening/v1/798b1f36586b297e88311aa6142889325e761c72ec012b22393ed9f0de65ccaf.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我是学生，我在学校学习中文。"
+       }
+      ],
+      "transcript": "我是学生，我在学校学习中文。",
+      "transcriptPinyin": "wǒ shì xué shēng ， wǒ zài xué xiào xué xí zhōng wén 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "医院",
+       "pinyin": "yī yuàn"
+      },
+      {
+       "label": "B",
+       "text": "商店",
+       "pinyin": "shāng diàn"
+      },
+      {
+       "label": "C",
+       "text": "学校",
+       "pinyin": "xué xiào"
+      }
+     ],
+     "pinyin": "tā zài nǎ lǐ xué xí ？"
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "今天天气怎么样？",
+     "correctAnswer": "A",
+     "explanation": "录音里说“今天天气很好”，所以天气很好。",
+     "audio": {
+      "key": "listening/v1/1462d92f592e325c6f0167e16051495cbdda050f31ab4cbc805680b8f502cddf.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "今天天气很好，有太阳。"
+       }
+      ],
+      "transcript": "今天天气很好，有太阳。",
+      "transcriptPinyin": "jīn tiān tiān qì hěn hǎo ， yǒu tài yáng 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "很好",
+       "pinyin": "hěn hǎo"
+      },
+      {
+       "label": "B",
+       "text": "下雨",
+       "pinyin": "xià yǔ"
+      },
+      {
+       "label": "C",
+       "text": "很冷",
+       "pinyin": "hěn lěng"
+      }
+     ],
+     "pinyin": "jīn tiān tiān qì zěn me yàng ？"
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "他爸爸做什么工作？",
+     "correctAnswer": "C",
+     "explanation": "录音里说“我爸爸是医生”，所以他爸爸是医生。",
+     "audio": {
+      "key": "listening/v1/531ff2233159cba7c149194e5cf05629433f77c8bbb065cef29b352cecf6f009.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我爸爸是医生，他工作很忙。"
+       }
+      ],
+      "transcript": "我爸爸是医生，他工作很忙。",
+      "transcriptPinyin": "wǒ bà bà shì yī shēng ， tā gōng zuò hěn máng 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "老师",
+       "pinyin": "lǎo shī"
+      },
+      {
+       "label": "B",
+       "text": "学生",
+       "pinyin": "xué shēng"
+      },
+      {
+       "label": "C",
+       "text": "医生",
+       "pinyin": "yī shēng"
+      }
+     ],
+     "pinyin": "tā bà bà zuò shén me gōng zuò ？"
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "水在哪里？",
+     "correctAnswer": "B",
+     "explanation": "录音里说“水在桌子上”，所以水在桌子上。",
+     "audio": {
+      "key": "listening/v1/251ceb07aa290f7e0ab800b9d0a97a43e5f590b705cb477dba6a59be30da769c.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我想喝水，水在桌子上。"
+       }
+      ],
+      "transcript": "我想喝水，水在桌子上。",
+      "transcriptPinyin": "wǒ xiǎng hē shuǐ ， shuǐ zài zhuō zi shàng 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "椅子上",
+       "pinyin": "yǐ zi shàng"
+      },
+      {
+       "label": "B",
+       "text": "桌子上",
+       "pinyin": "zhuō zi shàng"
+      },
+      {
+       "label": "C",
+       "text": "床下",
+       "pinyin": "chuáng xià"
+      }
+     ],
+     "pinyin": "shuǐ zài nǎ lǐ ？"
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "猫是什么颜色？",
+     "correctAnswer": "B",
+     "explanation": "录音里说“我的猫是白色的”，所以猫是白色的。",
+     "audio": {
+      "key": "listening/v1/05053e0929c0824516041860d4f0e619bb59bba9f7bc555a72646f32f43320a3.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我的猫是白色的，它很可爱。"
+       }
+      ],
+      "transcript": "我的猫是白色的，它很可爱。",
+      "transcriptPinyin": "wǒ de māo shì bái sè de ， tā hěn kě ài 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "红色",
+       "pinyin": "hóng sè"
+      },
+      {
+       "label": "B",
+       "text": "白色",
+       "pinyin": "bái sè"
+      },
+      {
+       "label": "C",
+       "text": "黑色",
+       "pinyin": "hēi sè"
+      }
+     ],
+     "pinyin": "māo shì shén me yán sè ？"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

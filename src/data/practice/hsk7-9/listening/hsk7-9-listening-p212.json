@@ -1,0 +1,161 @@
+{
+ "id": "hsk7-9-listening-p212",
+ "level": "7-9",
+ "section": "listening",
+ "partKey": "listening-p2",
+ "title": "HSK7-9 Listening P2",
+ "titleZh": "听力 第二部分（听短文选填答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "你将听到一段关于量子计算的科技报道。请根据录音内容回答后面的问题。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "量子计算机与传统计算机的主要区别在于什么？",
+     "correctAnswer": "C",
+     "explanation": "文中明确指出量子计算机使用量子比特而非传统比特，这是主要区别。",
+     "options": [
+      {
+       "label": "A",
+       "text": "速度更慢"
+      },
+      {
+       "label": "B",
+       "text": "体积更大"
+      },
+      {
+       "label": "C",
+       "text": "使用量子比特"
+      },
+      {
+       "label": "D",
+       "text": "使用比特"
+      }
+     ]
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "量子比特的叠加态允许其同时处于什么状态？",
+     "correctAnswer": "D",
+     "explanation": "文中提到量子比特能够同时处于0和1的叠加态。",
+     "options": [
+      {
+       "label": "A",
+       "text": "不确定"
+      },
+      {
+       "label": "B",
+       "text": "只有0"
+      },
+      {
+       "label": "C",
+       "text": "只有1"
+      },
+      {
+       "label": "D",
+       "text": "0和1同时"
+      }
+     ]
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "以下哪个不是量子计算可能带来革命性突破的领域？",
+     "correctAnswer": "B",
+     "explanation": "文中列举了密码破解、药物研发和人工智能领域，未提及气候变化预测。",
+     "options": [
+      {
+       "label": "A",
+       "text": "密码破解"
+      },
+      {
+       "label": "B",
+       "text": "气候变化预测"
+      },
+      {
+       "label": "C",
+       "text": "人工智能"
+      },
+      {
+       "label": "D",
+       "text": "药物研发"
+      }
+     ]
+    },
+    {
+     "id": "q4",
+     "type": "listening-dictation",
+     "prompt": "量子比特失去量子特性的现象被称为什么？",
+     "correctAnswer": "量子退相干",
+     "explanation": "文中提到量子比特容易受到环境干扰而失去量子特性，这被称为量子退相干。"
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "科学家们正在通过什么技术来克服量子退相干？",
+     "correctAnswer": "C",
+     "explanation": "文中提到科学家们正在努力通过错误纠正和拓扑量子计算等技术来克服这一难题。",
+     "options": [
+      {
+       "label": "A",
+       "text": "使用更小的芯片"
+      },
+      {
+       "label": "B",
+       "text": "降低温度"
+      },
+      {
+       "label": "C",
+       "text": "错误纠正和拓扑量子计算"
+      },
+      {
+       "label": "D",
+       "text": "增加比特数量"
+      }
+     ]
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "以下关于量子计算的描述，哪一项正确？",
+     "correctAnswer": "C",
+     "explanation": "文中最后说尽管离大规模商用还有一段距离，但前景光明，因此C正确。",
+     "options": [
+      {
+       "label": "A",
+       "text": "已经大规模商用"
+      },
+      {
+       "label": "B",
+       "text": "比传统计算机在所有方面都快"
+      },
+      {
+       "label": "C",
+       "text": "前景光明但仍有挑战"
+      },
+      {
+       "label": "D",
+       "text": "不需要错误纠正"
+      }
+     ]
+    }
+   ],
+   "audio": {
+    "key": "listening/v1/6374c596518f3b369a218b77200e6f6f9d8d09b6c7a16db5bfcb053a46493be2.mp3",
+    "lines": [
+     {
+      "speaker": "旁白",
+      "voice": "narrator",
+      "text": "量子计算是近年来备受瞩目的前沿科技之一。与传统计算机使用比特不同，量子计算机使用量子比特，能够同时处于0和1的叠加态，从而在处理某些特定问题时展现出惊人的计算速度。例如，在密码破解、药物研发和人工智能领域，量子计算有望带来革命性突破。然而，量子比特非常脆弱，容易受到环境干扰而失去量子特性，这被称为量子退相干。目前，科学家们正在努力通过错误纠正和拓扑量子计算等技术来克服这一难题。尽管离大规模商用还有一段距离，但量子计算的前景无疑是光明的。"
+     }
+    ],
+    "transcript": "量子计算是近年来备受瞩目的前沿科技之一。与传统计算机使用比特不同，量子计算机使用量子比特，能够同时处于0和1的叠加态，从而在处理某些特定问题时展现出惊人的计算速度。例如，在密码破解、药物研发和人工智能领域，量子计算有望带来革命性突破。然而，量子比特非常脆弱，容易受到环境干扰而失去量子特性，这被称为量子退相干。目前，科学家们正在努力通过错误纠正和拓扑量子计算等技术来克服这一难题。尽管离大规模商用还有一段距离，但量子计算的前景无疑是光明的。",
+    "transcriptPinyin": null
+   }
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

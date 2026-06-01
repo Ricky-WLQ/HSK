@@ -1,0 +1,64 @@
+{
+ "id": "hsk7-9-listening-p119",
+ "level": "7-9",
+ "section": "listening",
+ "partKey": "listening-p1",
+ "title": "HSK7-9 Listening P1",
+ "titleZh": "听力 第一部分（判断对错）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听一段关于中国航天成就的新闻报道，然后判断下列句子是否正确。正确的选“对”，错误的选“错”。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-statement-true-false",
+     "prompt": "嫦娥五号是中国首次地外天体采样返回任务。",
+     "correctAnswer": "对",
+     "explanation": "录音明确指出，嫦娥五号是中国首次地外天体采样返回任务，与命题一致。"
+    },
+    {
+     "id": "q2",
+     "type": "listening-statement-true-false",
+     "prompt": "天问一号探测器在月球乌托邦平原着陆。",
+     "correctAnswer": "错",
+     "explanation": "录音说天问一号着陆在火星乌托邦平原，不是月球。"
+    },
+    {
+     "id": "q3",
+     "type": "listening-statement-true-false",
+     "prompt": "中国是第二个实现火星着陆和巡视的国家。",
+     "correctAnswer": "对",
+     "explanation": "录音提到中国成为世界第二个实现火星着陆和巡视的国家，与命题相符。"
+    },
+    {
+     "id": "q4",
+     "type": "listening-statement-true-false",
+     "prompt": "中国空间站天和核心舱于2021年4月29日成功入轨，并在2023年全面建成。",
+     "correctAnswer": "错",
+     "explanation": "录音说明中国空间站于2022年全面建成，而非2023年。"
+    },
+    {
+     "id": "q5",
+     "type": "listening-statement-true-false",
+     "prompt": "中国航天技术的跨越式发展为人类探索宇宙作出了重要贡献。",
+     "correctAnswer": "对",
+     "explanation": "录音原文最后一句指出这些成就为人类探索宇宙作出了重要贡献。"
+    }
+   ],
+   "audio": {
+    "key": "listening/v1/f5683dbeaf7d56d44447284a31e07d9350ac34a27d761cdf7e47b9320c1691ae.mp3",
+    "lines": [
+     {
+      "speaker": "旁白",
+      "voice": "narrator",
+      "text": "2020年11月24日，中国成功发射嫦娥五号探测器，并于12月17日携带月球样品返回地球，标志着中国首次地外天体采样返回任务圆满完成。紧接着，2021年5月15日，天问一号探测器成功着陆火星乌托邦平原，祝融号火星车随后开展巡视探测，使中国成为世界第二个实现火星着陆和巡视的国家。此外，中国空间站天和核心舱于2021年4月29日成功入轨，后续通过多次发射完成组装，2022年全面建成。这些成就充分展现了中国航天技术的跨越式发展，为人类探索宇宙作出了重要贡献。"
+     }
+    ],
+    "transcript": "2020年11月24日，中国成功发射嫦娥五号探测器，并于12月17日携带月球样品返回地球，标志着中国首次地外天体采样返回任务圆满完成。紧接着，2021年5月15日，天问一号探测器成功着陆火星乌托邦平原，祝融号火星车随后开展巡视探测，使中国成为世界第二个实现火星着陆和巡视的国家。此外，中国空间站天和核心舱于2021年4月29日成功入轨，后续通过多次发射完成组装，2022年全面建成。这些成就充分展现了中国航天技术的跨越式发展，为人类探索宇宙作出了重要贡献。",
+    "transcriptPinyin": null
+   }
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

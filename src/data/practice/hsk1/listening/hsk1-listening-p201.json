@@ -1,0 +1,202 @@
+{
+ "id": "hsk1-listening-p201",
+ "level": "1",
+ "section": "listening",
+ "partKey": "listening-p2",
+ "title": "HSK1 Listening P2",
+ "titleZh": "听力 第二部分（听句子选答语）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听录音，然后选择正确答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "天气怎么样？",
+     "correctAnswer": "C",
+     "explanation": "说话人说天气很好，所以天气是好的。",
+     "audio": {
+      "key": "listening/v1/199a9cbcfe613ce6c05a9ff4f0984b93c8b5bd87becc022c43cdf0fafde2e743.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "今天天气很好。"
+       }
+      ],
+      "transcript": "今天天气很好。",
+      "transcriptPinyin": "jīn tiān tiān qì hěn hǎo 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "不好",
+       "pinyin": "bù hǎo"
+      },
+      {
+       "label": "B",
+       "text": "下雨",
+       "pinyin": "xià yǔ"
+      },
+      {
+       "label": "C",
+       "text": "很好",
+       "pinyin": "hěn hǎo"
+      }
+     ],
+     "pinyin": "tiān qì zěn me yàng ？"
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "他有什么？",
+     "correctAnswer": "A",
+     "explanation": "他说他有一本书。",
+     "audio": {
+      "key": "listening/v1/0dce7146a103ea2d2f6b5c1ebfa5e0d9a2f581e2eb9c5b997f37b095b608547b.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我有一本书。"
+       }
+      ],
+      "transcript": "我有一本书。",
+      "transcriptPinyin": "wǒ yǒu yī běn shū 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "一本书",
+       "pinyin": "yī běn shū"
+      },
+      {
+       "label": "B",
+       "text": "一支笔",
+       "pinyin": "yī zhī bǐ"
+      },
+      {
+       "label": "C",
+       "text": "一张纸",
+       "pinyin": "yī zhāng zhǐ"
+      }
+     ],
+     "pinyin": "tā yǒu shén me ？"
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "妈妈在哪儿？",
+     "correctAnswer": "A",
+     "explanation": "他说妈妈在厨房。",
+     "audio": {
+      "key": "listening/v1/b7d127eeb817926d2c286c7473aacd2a455cfa25d806df09bde88d3e13fe0404.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "妈妈在厨房。"
+       }
+      ],
+      "transcript": "妈妈在厨房。",
+      "transcriptPinyin": "mā mā zài chú fáng 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "在厨房",
+       "pinyin": "zài chú fáng"
+      },
+      {
+       "label": "B",
+       "text": "在商店",
+       "pinyin": "zài shāng diàn"
+      },
+      {
+       "label": "C",
+       "text": "在房间",
+       "pinyin": "zài fáng jiān"
+      }
+     ],
+     "pinyin": "mā mā zài nǎ ér ？"
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "他在做什么？",
+     "correctAnswer": "C",
+     "explanation": "他说他喝水。",
+     "audio": {
+      "key": "listening/v1/a18970bce5e3fc7fdad5583208954c5d166bbf98e609f06a2de3b8bf457c97cd.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "他喝水。"
+       }
+      ],
+      "transcript": "他喝水。",
+      "transcriptPinyin": "tā hē shuǐ 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "看书",
+       "pinyin": "kàn shū"
+      },
+      {
+       "label": "B",
+       "text": "吃饭",
+       "pinyin": "chī fàn"
+      },
+      {
+       "label": "C",
+       "text": "喝水",
+       "pinyin": "hē shuǐ"
+      }
+     ],
+     "pinyin": "tā zài zuò shén me ？"
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "他叫什么名字？",
+     "correctAnswer": "A",
+     "explanation": "他介绍自己叫小明。",
+     "audio": {
+      "key": "listening/v1/5fd4f82550734d927fc5d72d69a2946e1eaab82cbed5cab77680c482221dd1d2.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "你好，我叫小明。"
+       }
+      ],
+      "transcript": "你好，我叫小明。",
+      "transcriptPinyin": "nǐ hǎo ， wǒ jiào xiǎo míng 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "小明",
+       "pinyin": "xiǎo míng"
+      },
+      {
+       "label": "B",
+       "text": "小华",
+       "pinyin": "xiǎo huá"
+      },
+      {
+       "label": "C",
+       "text": "小红",
+       "pinyin": "xiǎo hóng"
+      }
+     ],
+     "pinyin": "tā jiào shén me míng zì ？"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

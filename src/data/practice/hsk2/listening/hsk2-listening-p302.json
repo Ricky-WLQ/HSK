@@ -1,0 +1,462 @@
+{
+ "id": "hsk2-listening-p302",
+ "level": "2",
+ "section": "listening",
+ "partKey": "listening-p3",
+ "title": "HSK2 Listening P3",
+ "titleZh": "听力 第三部分（听对话选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "下面你将听到10段对话，每段对话后有一个问题。请从A、B、C三个选项中选择最佳答案。每段对话只读一遍。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "图书馆在哪里？",
+     "correctAnswer": "C",
+     "explanation": "对话中女人说“在第二个路口左转”，所以图书馆在第二个路口左转的位置。",
+     "audio": {
+      "key": "listening/v1/349e30c5d040ce1364425e9f2bea3a30df9df9dfdfe5ae9b90dca6520b7333db.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你好，请问图书馆怎么走？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "一直往前走，在第二个路口左转就到了。"
+       }
+      ],
+      "transcript": "你好，请问图书馆怎么走？ 一直往前走，在第二个路口左转就到了。",
+      "transcriptPinyin": "nǐ hǎo ， qǐng wèn tú shū guǎn zěn me zǒu ？  yì zhí wǎng qián zǒu ， zài dì èr gè lù kǒu zuǒ zhuǎn jiù dào le 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "前面第二个路口右转",
+       "pinyin": "qián miàn dì èr gè lù kǒu yòu zhuǎn"
+      },
+      {
+       "label": "B",
+       "text": "前面第一个路口左转",
+       "pinyin": "qián miàn dì yí gè lù kǒu zuǒ zhuǎn"
+      },
+      {
+       "label": "C",
+       "text": "前面第二个路口左转",
+       "pinyin": "qián miàn dì èr gè lù kǒu zuǒ zhuǎn"
+      }
+     ],
+     "pinyin": "tú shū guǎn zài nǎ lǐ ？"
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "苹果多少钱一斤？",
+     "correctAnswer": "A",
+     "explanation": "对话中男人说“五块钱一斤”，所以苹果的价格是五块钱一斤。",
+     "audio": {
+      "key": "listening/v1/ef86826f77ceaf23a5d3de7684bdd1123a3f44909ce77cd51dbf86cfa7272361.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "这个苹果多少钱一斤？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "五块钱一斤。你要买多少？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我买三斤。"
+       }
+      ],
+      "transcript": "这个苹果多少钱一斤？ 五块钱一斤。你要买多少？ 我买三斤。",
+      "transcriptPinyin": "zhè ge píng guǒ duō shǎo qián yī jīn ？  wǔ kuài qián yī jīn 。 nǐ yào mǎi duō shǎo ？  wǒ mǎi sān jīn 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "五块钱",
+       "pinyin": "wǔ kuài qián"
+      },
+      {
+       "label": "B",
+       "text": "三块钱",
+       "pinyin": "sān kuài qián"
+      },
+      {
+       "label": "C",
+       "text": "八块钱",
+       "pinyin": "bā kuài qián"
+      }
+     ],
+     "pinyin": "píng guǒ duō shǎo qián yī jīn ？"
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "现在几点？",
+     "correctAnswer": "B",
+     "explanation": "女人明确说“现在八点半”，所以当前时间是八点半。",
+     "audio": {
+      "key": "listening/v1/7b329a92d58575be5f734f41af04aa854743552e4652c2a8ab45151f259c8eae.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "现在几点了？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "现在八点半。我们九点上课，还来得及。"
+       }
+      ],
+      "transcript": "现在几点了？ 现在八点半。我们九点上课，还来得及。",
+      "transcriptPinyin": "xiàn zài jǐ diǎn le ？  xiàn zài bā diǎn bàn 。 wǒ men jiǔ diǎn shàng kè ， hái lái de jí 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "九点",
+       "pinyin": "jiǔ diǎn"
+      },
+      {
+       "label": "B",
+       "text": "八点半",
+       "pinyin": "bā diǎn bàn"
+      },
+      {
+       "label": "C",
+       "text": "八点",
+       "pinyin": "bā diǎn"
+      }
+     ],
+     "pinyin": "xiàn zài jǐ diǎn ？"
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "今天天气怎么样？",
+     "correctAnswer": "B",
+     "explanation": "女人说“今天真冷”，男人也同意，所以天气很冷。",
+     "audio": {
+      "key": "listening/v1/cb8e669a373cdae16e69f9094ab18d5097137f34208ce2be9d78d8052740db57.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "今天真冷啊！"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "是啊，天气预报说今天只有五度。多穿点衣服。"
+       }
+      ],
+      "transcript": "今天真冷啊！ 是啊，天气预报说今天只有五度。多穿点衣服。",
+      "transcriptPinyin": "jīn tiān zhēn lěng a ！  shì a ， tiān qì yù bào shuō jīn tiān zhǐ yǒu wǔ dù 。 duō chuān diǎn yī fú 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "很热",
+       "pinyin": "hěn rè"
+      },
+      {
+       "label": "B",
+       "text": "很冷",
+       "pinyin": "hěn lěng"
+      },
+      {
+       "label": "C",
+       "text": "很暖和",
+       "pinyin": "hěn nuǎn huo"
+      }
+     ],
+     "pinyin": "jīn tiān tiān qì zěn me yàng ？"
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "女的周末喜欢做什么？",
+     "correctAnswer": "B",
+     "explanation": "女人说她喜欢在家看书，所以她的爱好是看书。",
+     "audio": {
+      "key": "listening/v1/f892d674e2c20fc3d2dbabe74677e36372925edf7ed1f0546f8b45e35f0abcc9.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你周末喜欢做什么？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我喜欢在家看书。你呢？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我喜欢跑步。"
+       }
+      ],
+      "transcript": "你周末喜欢做什么？ 我喜欢在家看书。你呢？ 我喜欢跑步。",
+      "transcriptPinyin": "nǐ zhōu mò xǐ huān zuò shén me ？  wǒ xǐ huān zài jiā kàn shū 。 nǐ ne ？  wǒ xǐ huān pǎo bù 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "跑步",
+       "pinyin": "pǎo bù"
+      },
+      {
+       "label": "B",
+       "text": "看书",
+       "pinyin": "kàn shū"
+      },
+      {
+       "label": "C",
+       "text": "在家睡觉",
+       "pinyin": "zài jiā shuì jiào"
+      }
+     ],
+     "pinyin": "nǚ de zhōu mò xǐ huān zuò shén me ？"
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "男人想吃什么？",
+     "correctAnswer": "B",
+     "explanation": "男人回答“我想吃面条”，所以他想吃面条。",
+     "audio": {
+      "key": "listening/v1/16e103b99107c90686dc53b9688c36d8f3c12590e495af2c596e3945832fc99e.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你想吃什么？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我想吃面条。你呢？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我想吃米饭。"
+       }
+      ],
+      "transcript": "你想吃什么？ 我想吃面条。你呢？ 我想吃米饭。",
+      "transcriptPinyin": "nǐ xiǎng chī shén me ？  wǒ xiǎng chī miàn tiáo 。 nǐ ne ？  wǒ xiǎng chī mǐ fàn 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "米饭",
+       "pinyin": "mǐ fàn"
+      },
+      {
+       "label": "B",
+       "text": "面条",
+       "pinyin": "miàn tiáo"
+      },
+      {
+       "label": "C",
+       "text": "饺子",
+       "pinyin": "jiǎo zi"
+      }
+     ],
+     "pinyin": "nán rén xiǎng chī shén me ？"
+    },
+    {
+     "id": "q7",
+     "type": "listening-mcq",
+     "prompt": "女的家里有几个人？",
+     "correctAnswer": "C",
+     "explanation": "女人说“我家有四口人”，所以家里有四个人。",
+     "audio": {
+      "key": "listening/v1/7796ccfc7111b2964417ce1589726eefa82b01620b59e1a1680ba58bb0556837.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你家有几口人？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我家有四口人，爸爸、妈妈、我和妹妹。"
+       }
+      ],
+      "transcript": "你家有几口人？ 我家有四口人，爸爸、妈妈、我和妹妹。",
+      "transcriptPinyin": "nǐ jiā yǒu jǐ kǒu rén ？  wǒ jiā yǒu sì kǒu rén ， bà bà 、 mā mā 、 wǒ hé mèi mèi 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "五口人",
+       "pinyin": "wǔ kǒu rén"
+      },
+      {
+       "label": "B",
+       "text": "三口人",
+       "pinyin": "sān kǒu rén"
+      },
+      {
+       "label": "C",
+       "text": "四口人",
+       "pinyin": "sì kǒu rén"
+      }
+     ],
+     "pinyin": "nǚ de jiā lǐ yǒu jǐ gè rén ？"
+    },
+    {
+     "id": "q8",
+     "type": "listening-mcq",
+     "prompt": "男人喜欢什么颜色？",
+     "correctAnswer": "B",
+     "explanation": "男人说“我喜欢蓝色”，所以他喜欢的颜色是蓝色。",
+     "audio": {
+      "key": "listening/v1/562d6cf45892fd14257eeed09273c0d3e5aa38f0a5f1de591f32c51d36ab4a63.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你喜欢什么颜色？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我喜欢蓝色，因为蓝色很漂亮。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我喜欢红色。"
+       }
+      ],
+      "transcript": "你喜欢什么颜色？ 我喜欢蓝色，因为蓝色很漂亮。 我喜欢红色。",
+      "transcriptPinyin": "nǐ xǐ huān shén me yán sè ？  wǒ xǐ huān lán sè ， yīn wèi lán sè hěn piào liàng 。  wǒ xǐ huān hóng sè 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "红色",
+       "pinyin": "hóng sè"
+      },
+      {
+       "label": "B",
+       "text": "蓝色",
+       "pinyin": "lán sè"
+      },
+      {
+       "label": "C",
+       "text": "绿色",
+       "pinyin": "lǜ sè"
+      }
+     ],
+     "pinyin": "nán rén xǐ huān shén me yán sè ？"
+    },
+    {
+     "id": "q9",
+     "type": "listening-mcq",
+     "prompt": "手机在哪里？",
+     "correctAnswer": "B",
+     "explanation": "男人说“在桌子上呢”，所以手机在桌子上。",
+     "audio": {
+      "key": "listening/v1/a353c2a43f8c8c590f83b32a7f3391bff749dd69d53b8e6a179ff600d599b684.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我的手机找不到了，你看见了吗？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "看见了吗？在桌子上呢。"
+       }
+      ],
+      "transcript": "我的手机找不到了，你看见了吗？ 看见了吗？在桌子上呢。",
+      "transcriptPinyin": "wǒ de shǒu jī zhǎo bú dào le ， nǐ kàn jiàn le ma ？  kàn jiàn le ma ？ zài zhuō zi shàng ne 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "在床下",
+       "pinyin": "zài chuáng xià"
+      },
+      {
+       "label": "B",
+       "text": "在桌子上",
+       "pinyin": "zài zhuō zi shàng"
+      },
+      {
+       "label": "C",
+       "text": "在椅子上",
+       "pinyin": "zài yǐ zi shàng"
+      }
+     ],
+     "pinyin": "shǒu jī zài nǎ lǐ ？"
+    },
+    {
+     "id": "q10",
+     "type": "listening-mcq",
+     "prompt": "女人身体怎么样？",
+     "correctAnswer": "C",
+     "explanation": "女人说“我很好”，所以她的身体很好。",
+     "audio": {
+      "key": "listening/v1/6a862c07fee4d37c4a38d4b42289c02e5723433f000225555590548105cb8d19.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你身体怎么样？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我很好，谢谢。你也要注意身体。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "好的，我会的。"
+       }
+      ],
+      "transcript": "你身体怎么样？ 我很好，谢谢。你也要注意身体。 好的，我会的。",
+      "transcriptPinyin": "nǐ shēn tǐ zěn me yàng ？  wǒ hěn hǎo ， xiè xiè 。 nǐ yě yào zhù yì shēn tǐ 。  hǎo de ， wǒ huì de 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "生病了",
+       "pinyin": "shēng bìng le"
+      },
+      {
+       "label": "B",
+       "text": "不好",
+       "pinyin": "bù hǎo"
+      },
+      {
+       "label": "C",
+       "text": "很好",
+       "pinyin": "hěn hǎo"
+      }
+     ],
+     "pinyin": "nǚ rén shēn tǐ zěn me yàng ？"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

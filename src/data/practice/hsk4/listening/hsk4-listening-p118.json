@@ -1,0 +1,685 @@
+{
+ "id": "hsk4-listening-p118",
+ "level": "4",
+ "section": "listening",
+ "partKey": "listening-p1",
+ "title": "HSK4 Listening P1",
+ "titleZh": "听力 第一部分（听对话选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "下面你将听到14段对话，每段对话后有一个问题。请从A、B、C、D四个选项中选择最合适的答案。注意：每题只选一个答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "女的最可能去哪些地方？",
+     "correctAnswer": "A",
+     "explanation": "对话中女的说先去图书馆借书，再去超市买东西，因此她最可能去的是图书馆和超市。",
+     "audio": {
+      "key": "listening/v1/796429d701bc205b478e235e6b589bf0c29d3e9c94e154ae2afbd9ce0077a3f4.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你周末有什么计划吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我打算去图书馆借几本书，然后去超市买些吃的。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "需要我开车送你去吗？"
+       }
+      ],
+      "transcript": "你周末有什么计划吗？ 我打算去图书馆借几本书，然后去超市买些吃的。 需要我开车送你去吗？",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "图书馆和超市"
+      },
+      {
+       "label": "B",
+       "text": "超市和公园"
+      },
+      {
+       "label": "C",
+       "text": "图书馆和电影院"
+      },
+      {
+       "label": "D",
+       "text": "图书馆和餐厅"
+      }
+     ]
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "关于男的，下列哪项正确？",
+     "correctAnswer": "A",
+     "explanation": "男的说自己学了两年多汉语，所以A正确。他说最近工作忙练习少了，所以B和D错误；女的说他说得好，所以C错误。",
+     "audio": {
+      "key": "listening/v1/bded2ee250ae084f79cee0dd74b732c6068d4187eb75b5013b9d132efbb85e7b.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你的汉语说得真好，学了多久了？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "谢谢！我学了两年多了，不过最近工作忙，练习得少了。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "那也很不错了，继续加油！"
+       }
+      ],
+      "transcript": "你的汉语说得真好，学了多久了？ 谢谢！我学了两年多了，不过最近工作忙，练习得少了。 那也很不错了，继续加油！",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "他学了两年汉语"
+      },
+      {
+       "label": "B",
+       "text": "他工作很轻松"
+      },
+      {
+       "label": "C",
+       "text": "他最近有很多时间练习"
+      },
+      {
+       "label": "D",
+       "text": "他的汉语说得不好"
+      }
+     ]
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "他们最可能是什么关系？",
+     "correctAnswer": "B",
+     "explanation": "对话中讨论的是会议、报告和销售数据，这是典型的同事或上下级关系，因此最可能是同事。",
+     "audio": {
+      "key": "listening/v1/e7e4a46fc4d52d1b99f8b7e984afb390f95abcd4873d0677112d9ff5e7434836.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "明天下午三点开会，别忘了。这次的报告很重要。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "知道了。那需要准备什么材料吗？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "把上个月的销售数据准备好就行。"
+       }
+      ],
+      "transcript": "明天下午三点开会，别忘了。这次的报告很重要。 知道了。那需要准备什么材料吗？ 把上个月的销售数据准备好就行。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "老师和学生"
+      },
+      {
+       "label": "B",
+       "text": "同事"
+      },
+      {
+       "label": "C",
+       "text": "夫妻"
+      },
+      {
+       "label": "D",
+       "text": "医生和病人"
+      }
+     ]
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "男的昨天为什么没上课？",
+     "correctAnswer": "C",
+     "explanation": "男的说自己感冒头疼，在家休息，所以是因为生病没上课。",
+     "audio": {
+      "key": "listening/v1/f94f0c005d69ab81f42d3fe1e6e36eb7068fe93ba394dfb441eec558fbc9e9ad.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你昨天怎么没来上课？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我感冒了，头很疼，所以在家休息了一天。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "现在好些了吗？注意多喝水。"
+       }
+      ],
+      "transcript": "你昨天怎么没来上课？ 我感冒了，头很疼，所以在家休息了一天。 现在好些了吗？注意多喝水。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "他不想上课"
+      },
+      {
+       "label": "B",
+       "text": "他出差了"
+      },
+      {
+       "label": "C",
+       "text": "他生病了"
+      },
+      {
+       "label": "D",
+       "text": "他忘了时间"
+      }
+     ]
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "关于这家餐厅，下列哪项正确？",
+     "correctAnswer": "A",
+     "explanation": "女的说今天有优惠活动打八折，所以C正确。男的说菜味道不错，所以A错误；说价格贵，所以B错误；有优惠所以D错误。",
+     "audio": {
+      "key": "listening/v1/5fb2b22cbf91a116108cd4cfe6c04c49bd4a5d2b35f62c0fafd8460f27fb43de.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "这家餐厅的菜味道不错，但是价格有点贵。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "是啊，不过今天有优惠活动，打八折，我们可以试试。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "那太好了，我们点两个菜吧。"
+       }
+      ],
+      "transcript": "这家餐厅的菜味道不错，但是价格有点贵。 是啊，不过今天有优惠活动，打八折，我们可以试试。 那太好了，我们点两个菜吧。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "今天有打折"
+      },
+      {
+       "label": "B",
+       "text": "没有优惠活动"
+      },
+      {
+       "label": "C",
+       "text": "价格很便宜"
+      },
+      {
+       "label": "D",
+       "text": "菜很难吃"
+      }
+     ]
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "女的最可能要去哪里？",
+     "correctAnswer": "A",
+     "explanation": "女问的是去火车站坐哪路车，所以她的目的地是火车站。",
+     "audio": {
+      "key": "listening/v1/ab34f59c3087868616315be6d0572fc4beedbf90e1a31e9862d0e21eab1d7680.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "请问，去火车站坐几路公交车？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你可以坐23路，到终点站下车就到了。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "好的，谢谢！大概需要多长时间？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "不堵车的话，二十多分钟。"
+       }
+      ],
+      "transcript": "请问，去火车站坐几路公交车？ 你可以坐23路，到终点站下车就到了。 好的，谢谢！大概需要多长时间？ 不堵车的话，二十多分钟。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "火车站"
+      },
+      {
+       "label": "B",
+       "text": "汽车站"
+      },
+      {
+       "label": "C",
+       "text": "机场"
+      },
+      {
+       "label": "D",
+       "text": "地铁站"
+      }
+     ]
+    },
+    {
+     "id": "q7",
+     "type": "listening-mcq",
+     "prompt": "男的现在为什么不能打篮球？",
+     "correctAnswer": "D",
+     "explanation": "男的说膝盖疼，医生让休息，所以现在不能打篮球是因为膝盖受伤。",
+     "audio": {
+      "key": "listening/v1/80fd09d2639b3a07dc0f4f1d1006e1c7c325e9d644141fbc12fbf19992204a71.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你平时喜欢什么运动？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我比较喜欢跑步，每周跑两三次。你呢？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我喜欢打篮球，但是最近膝盖疼，医生让我休息。"
+       }
+      ],
+      "transcript": "你平时喜欢什么运动？ 我比较喜欢跑步，每周跑两三次。你呢？ 我喜欢打篮球，但是最近膝盖疼，医生让我休息。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "他没有时间"
+      },
+      {
+       "label": "B",
+       "text": "他讨厌篮球"
+      },
+      {
+       "label": "C",
+       "text": "他找不到球场"
+      },
+      {
+       "label": "D",
+       "text": "他膝盖受伤了"
+      }
+     ]
+    },
+    {
+     "id": "q8",
+     "type": "listening-mcq",
+     "prompt": "男的手机有什么问题？",
+     "correctAnswer": "D",
+     "explanation": "男的说电池不太耐用，一天充两次，所以问题在于电池不耐用。",
+     "audio": {
+      "key": "listening/v1/7bfd13c8204e4b98b91afc05b7e691ddd87f81217a2cdd6cd592b6c703f308a0.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你的手机是新的吗？看起来不错。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "是的，上个月刚买的。但是电池不太耐用，一天要充两次电。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "那有点麻烦，你可以试试省电模式。"
+       }
+      ],
+      "transcript": "你的手机是新的吗？看起来不错。 是的，上个月刚买的。但是电池不太耐用，一天要充两次电。 那有点麻烦，你可以试试省电模式。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "拍照不清楚"
+      },
+      {
+       "label": "B",
+       "text": "屏幕坏了"
+      },
+      {
+       "label": "C",
+       "text": "声音太小"
+      },
+      {
+       "label": "D",
+       "text": "电池不耐用"
+      }
+     ]
+    },
+    {
+     "id": "q9",
+     "type": "listening-mcq",
+     "prompt": "女的暑假最可能做什么？",
+     "correctAnswer": "A",
+     "explanation": "女的说计划去云南旅游，所以最可能去云南。",
+     "audio": {
+      "key": "listening/v1/cd09d76ad39e44b84ab0b4516e273177102149d1771ab06104d72b1d6417159d.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你暑假打算去哪儿旅游？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我计划去云南，听说那边风景很美。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "云南确实不错，不过夏天可能比较热。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "没关系，我已经查好攻略了，会注意的。"
+       }
+      ],
+      "transcript": "你暑假打算去哪儿旅游？ 我计划去云南，听说那边风景很美。 云南确实不错，不过夏天可能比较热。 没关系，我已经查好攻略了，会注意的。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "去云南旅游"
+      },
+      {
+       "label": "B",
+       "text": "参加夏令营"
+      },
+      {
+       "label": "C",
+       "text": "在家休息"
+      },
+      {
+       "label": "D",
+       "text": "去海边游泳"
+      }
+     ]
+    },
+    {
+     "id": "q10",
+     "type": "listening-mcq",
+     "prompt": "他们可能在哪里？",
+     "correctAnswer": "B",
+     "explanation": "对话中讨论的是做题和公式，最可能是在图书馆或学习场所，选项中只有图书馆合适。",
+     "audio": {
+      "key": "listening/v1/08f1bc0e3426e00b8a3610aec5de0eb2be4c8e5b8930574e7ef3fba1369dcc44.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "这道题我不会做，你能教我吗？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我看看……其实不难，你只要记住这个公式就可以了。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "哦，我明白了，谢谢你！"
+       }
+      ],
+      "transcript": "这道题我不会做，你能教我吗？ 我看看……其实不难，你只要记住这个公式就可以了。 哦，我明白了，谢谢你！",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "超市"
+      },
+      {
+       "label": "B",
+       "text": "图书馆"
+      },
+      {
+       "label": "C",
+       "text": "公园"
+      },
+      {
+       "label": "D",
+       "text": "电影院"
+      }
+     ]
+    },
+    {
+     "id": "q11",
+     "type": "listening-mcq",
+     "prompt": "男的最可能是什么身份？",
+     "correctAnswer": "A",
+     "explanation": "男的对女的说“王经理”，女的要求他出差，所以男的很可能是公司员工。",
+     "audio": {
+      "key": "listening/v1/b53fc76ac9a25232ab307d3da17cf29185227fdaba671b07aa4c99d6da95ce99.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "王经理，这次出差需要几天？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "大概三天，周一出发，周三回来。记得带上笔记本电脑。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "好的，我马上准备。"
+       }
+      ],
+      "transcript": "王经理，这次出差需要几天？ 大概三天，周一出发，周三回来。记得带上笔记本电脑。 好的，我马上准备。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "员工"
+      },
+      {
+       "label": "B",
+       "text": "老师"
+      },
+      {
+       "label": "C",
+       "text": "医生"
+      },
+      {
+       "label": "D",
+       "text": "学生"
+      }
+     ]
+    },
+    {
+     "id": "q12",
+     "type": "listening-mcq",
+     "prompt": "最后男的做了什么？",
+     "correctAnswer": "A",
+     "explanation": "男的说“这本新的借给你”，所以他把新书给了女的。",
+     "audio": {
+      "key": "listening/v1/947fff160b09bc4141026fc15c735bb768a97fc66f13b8e62b7b62b1e8076bc1.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你昨天给我的那本书很好看，我已经看完了。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "这么快！那这本新的借给你，是我刚买的。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "太好了，谢谢！"
+       }
+      ],
+      "transcript": "你昨天给我的那本书很好看，我已经看完了。 这么快！那这本新的借给你，是我刚买的。 太好了，谢谢！",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "给了女的一本新书"
+      },
+      {
+       "label": "B",
+       "text": "建议女的去图书馆"
+      },
+      {
+       "label": "C",
+       "text": "去书店买书"
+      },
+      {
+       "label": "D",
+       "text": "要回了旧书"
+      }
+     ]
+    },
+    {
+     "id": "q13",
+     "type": "listening-mcq",
+     "prompt": "关于天气，下列哪项正确？",
+     "correctAnswer": "A",
+     "explanation": "男的说外面下雨了，所以天气正在下雨。",
+     "audio": {
+      "key": "listening/v1/0c27a1b74971b0408633abd7a41086588fa58a2a38a105456e123cb97aa8bf0f.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "外面下雨了，你带伞了吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "没有，我以为今天不会下雨呢。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我的伞比较大，我们一起用吧。"
+       }
+      ],
+      "transcript": "外面下雨了，你带伞了吗？ 没有，我以为今天不会下雨呢。 我的伞比较大，我们一起用吧。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "正在下雨"
+      },
+      {
+       "label": "B",
+       "text": "正在下雪"
+      },
+      {
+       "label": "C",
+       "text": "刮大风"
+      },
+      {
+       "label": "D",
+       "text": "天气晴朗"
+      }
+     ]
+    },
+    {
+     "id": "q14",
+     "type": "listening-mcq",
+     "prompt": "男的是因为什么熬夜？",
+     "correctAnswer": "B",
+     "explanation": "男的说工作太多，只能晚上加班，所以熬夜是因为工作太多。",
+     "audio": {
+      "key": "listening/v1/432c66f2d80f7cc893dc864c1ee4cd293f24e5b00f1a9f2f50c7055ece6116a0.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你每天晚上都熬夜吗？这样对身体不好。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "没办法，工作太多，只能晚上加班。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你应该早点休息，健康最重要。"
+       }
+      ],
+      "transcript": "你每天晚上都熬夜吗？这样对身体不好。 没办法，工作太多，只能晚上加班。 你应该早点休息，健康最重要。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "失眠"
+      },
+      {
+       "label": "B",
+       "text": "工作太多"
+      },
+      {
+       "label": "C",
+       "text": "玩游戏"
+      },
+      {
+       "label": "D",
+       "text": "看电视"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

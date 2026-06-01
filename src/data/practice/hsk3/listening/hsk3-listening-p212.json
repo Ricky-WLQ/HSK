@@ -1,0 +1,437 @@
+{
+ "id": "hsk3-listening-p212",
+ "level": "3",
+ "section": "listening",
+ "partKey": "listening-p2",
+ "title": "HSK3 Listening P2",
+ "titleZh": "听力 第二部分（听对话选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听对话，然后根据对话内容选择正确答案。对话只读一遍。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "图书馆在哪儿？",
+     "correctAnswer": "C",
+     "explanation": "女士说往前走，第一个路口右转，然后直走，所以选项B正确。",
+     "audio": {
+      "key": "listening/v1/4f046b84f46226329f9e481b2cb1d65a117a36c5dd0c22abbaf2818aa3e40426.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你好，请问图书馆怎么走？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "往前走，第一个路口右转，然后一直走就到了。"
+       }
+      ],
+      "transcript": "你好，请问图书馆怎么走？ 往前走，第一个路口右转，然后一直走就到了。",
+      "transcriptPinyin": "nǐ hǎo ， qǐng wèn tú shū guǎn zěn me zǒu ？  wǎng qián zǒu ， dì yí gè lù kǒu yòu zhuǎn ， rán hòu yì zhí zǒu jiù dào le 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "一直走不用拐弯",
+       "pinyin": "yì zhí zǒu bù yòng guǎi wān"
+      },
+      {
+       "label": "B",
+       "text": "第一个路口左转",
+       "pinyin": "dì yí gè lù kǒu zuǒ zhuǎn"
+      },
+      {
+       "label": "C",
+       "text": "第一个路口右转再直走",
+       "pinyin": "dì yí gè lù kǒu yòu zhuǎn zài zhí zǒu"
+      }
+     ],
+     "pinyin": "tú shū guǎn zài nǎ ér ？"
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "他们要去做什么？",
+     "correctAnswer": "C",
+     "explanation": "对话中明确提到去游泳，所以答案是游泳。",
+     "audio": {
+      "key": "listening/v1/8e404d8fffc4b742445e27ade076f050e12206c435992a8d62f1334d1b99a325.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "今天天气真热，我们去游泳吧！"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "好啊，我正好想运动一下。"
+       }
+      ],
+      "transcript": "今天天气真热，我们去游泳吧！ 好啊，我正好想运动一下。",
+      "transcriptPinyin": "jīn tiān tiān qì zhēn rè ， wǒ men qù yóu yǒng ba ！  hǎo a ， wǒ zhèng hǎo xiǎng yùn dòng yī xià 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "打篮球",
+       "pinyin": "dǎ lán qiú"
+      },
+      {
+       "label": "B",
+       "text": "跑步",
+       "pinyin": "pǎo bù"
+      },
+      {
+       "label": "C",
+       "text": "游泳",
+       "pinyin": "yóu yǒng"
+      }
+     ],
+     "pinyin": "tā men yào qù zuò shén me ？"
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "男的可能为什么没来上课？",
+     "correctAnswer": "C",
+     "explanation": "男士说自己感冒了，去医院看病，所以是因为生病没来上课。",
+     "audio": {
+      "key": "listening/v1/821fcd444accba3d5babae9270be4c08974768a2ea8b1cfe69a3205fec716655.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你昨天怎么没来上课？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我感冒了，去医院看了病。"
+       }
+      ],
+      "transcript": "你昨天怎么没来上课？ 我感冒了，去医院看了病。",
+      "transcriptPinyin": "nǐ zuó tiān zěn me méi lái shàng kè ？  wǒ gǎn mào le ， qù yī yuàn kàn le bìng 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "他要去医院",
+       "pinyin": "tā yào qù yī yuàn"
+      },
+      {
+       "label": "B",
+       "text": "他不想上课",
+       "pinyin": "tā bù xiǎng shàng kè"
+      },
+      {
+       "label": "C",
+       "text": "他生病了",
+       "pinyin": "tā shēng bìng le"
+      }
+     ],
+     "pinyin": "nán de kě néng wèi shén me méi lái shàng kè ？"
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "他们打算什么时候看电影？",
+     "correctAnswer": "B",
+     "explanation": "女士说周末上午学钢琴，下午没事，所以是下午去看电影。",
+     "audio": {
+      "key": "listening/v1/03441e4e65d01adb864948a3c063e7dfe98eb44b731281bcdf8ac85a0c9f1015.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你周末有空吗？我们一起去看电影吧。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "周末上午我要学钢琴，下午没事，可以去看。"
+       }
+      ],
+      "transcript": "你周末有空吗？我们一起去看电影吧。 周末上午我要学钢琴，下午没事，可以去看。",
+      "transcriptPinyin": "nǐ zhōu mò yǒu kòng ma ？ wǒ men yì qǐ qù kàn diàn yǐng ba 。  zhōu mò shàng wǔ wǒ yào xué gāng qín ， xià wǔ méi shì ， kě yǐ qù kàn 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "周末晚上",
+       "pinyin": "zhōu mò wǎn shàng"
+      },
+      {
+       "label": "B",
+       "text": "周末下午",
+       "pinyin": "zhōu mò xià wǔ"
+      },
+      {
+       "label": "C",
+       "text": "周末上午",
+       "pinyin": "zhōu mò shàng wǔ"
+      }
+     ],
+     "pinyin": "tā men dǎ suàn shén me shí hòu kàn diàn yǐng ？"
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "现在买这双鞋需要多少钱？",
+     "correctAnswer": "B",
+     "explanation": "男士说打完折后一百四十四，所以现价是一百四十四元。",
+     "audio": {
+      "key": "listening/v1/cdd6e7e0f2e677d2f44a5983323336b69fe760b0cff3c5bc8d6325066ecbb8dd.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "这双鞋多少钱？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "原价一百八十，现在打八折，只要一百四十四。"
+       }
+      ],
+      "transcript": "这双鞋多少钱？ 原价一百八十，现在打八折，只要一百四十四。",
+      "transcriptPinyin": "zhè shuāng xié duō shǎo qián ？  yuán jià yì bǎi bā shí ， xiàn zài dǎ bā zhé ， zhǐ yào yì bǎi sì shí sì 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "八十",
+       "pinyin": "bā shí"
+      },
+      {
+       "label": "B",
+       "text": "一百四十四",
+       "pinyin": "yì bǎi sì shí sì"
+      },
+      {
+       "label": "C",
+       "text": "一百八",
+       "pinyin": "yì bǎi bā"
+      }
+     ],
+     "pinyin": "xiàn zài mǎi zhè shuāng xié xū yào duō shǎo qián ？"
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "女士怎么去上班？",
+     "correctAnswer": "A",
+     "explanation": "女士明确说坐地铁上班，所以答案是坐地铁。",
+     "audio": {
+      "key": "listening/v1/e1c0d85028c75af76ceb051133be0aef8973d72c3d79c8b7ce20807ef398194d.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你每天怎么去上班？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我坐地铁，比开车快多了。"
+       }
+      ],
+      "transcript": "你每天怎么去上班？ 我坐地铁，比开车快多了。",
+      "transcriptPinyin": "nǐ měi tiān zěn me qù shàng bān ？  wǒ zuò dì tiě ， bǐ kāi chē kuài duō le 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "坐地铁",
+       "pinyin": "zuò dì tiě"
+      },
+      {
+       "label": "B",
+       "text": "开车",
+       "pinyin": "kāi chē"
+      },
+      {
+       "label": "C",
+       "text": "走路",
+       "pinyin": "zǒu lù"
+      }
+     ],
+     "pinyin": "nǚ shì zěn me qù shàng bān ？"
+    },
+    {
+     "id": "q7",
+     "type": "listening-mcq",
+     "prompt": "晚上他们打算吃什么？",
+     "correctAnswer": "B",
+     "explanation": "男士提议吃饺子，所以晚餐是饺子。",
+     "audio": {
+      "key": "listening/v1/2ebe4be39a60e0d0e0da99abe756a7605feb9d6d8888c06eaa078720c085e544.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你晚上想吃什么？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我们吃饺子吧，好久没吃了。"
+       }
+      ],
+      "transcript": "你晚上想吃什么？ 我们吃饺子吧，好久没吃了。",
+      "transcriptPinyin": "nǐ wǎn shàng xiǎng chī shén me ？  wǒ men chī jiǎo zi ba ， hǎo jiǔ méi chī le 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "米饭",
+       "pinyin": "mǐ fàn"
+      },
+      {
+       "label": "B",
+       "text": "饺子",
+       "pinyin": "jiǎo zi"
+      },
+      {
+       "label": "C",
+       "text": "面条",
+       "pinyin": "miàn tiáo"
+      }
+     ],
+     "pinyin": "wǎn shàng tā men dǎ suàn chī shén me ？"
+    },
+    {
+     "id": "q8",
+     "type": "listening-mcq",
+     "prompt": "这儿可以做什么？",
+     "correctAnswer": "C",
+     "explanation": "女士说这里不允许拍照，所以不能拍照。",
+     "audio": {
+      "key": "listening/v1/7675e07e33359276062e27369d07f1f50c88572eab3a13b7dee892e6b3a53c28.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "请问，这儿可以拍照吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "对不起，这里不允许拍照。"
+       }
+      ],
+      "transcript": "请问，这儿可以拍照吗？ 对不起，这里不允许拍照。",
+      "transcriptPinyin": "qǐng wèn ， zhè ér kě yǐ pāi zhào ma ？  duì bù qǐ ， zhè lǐ bù yǔn xǔ pāi zhào 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "可以说话",
+       "pinyin": "kě yǐ shuō huà"
+      },
+      {
+       "label": "B",
+       "text": "可以拍照",
+       "pinyin": "kě yǐ pāi zhào"
+      },
+      {
+       "label": "C",
+       "text": "不可以拍照",
+       "pinyin": "bù kě yǐ pāi zhào"
+      }
+     ],
+     "pinyin": "zhè ér kě yǐ zuò shén me ？"
+    },
+    {
+     "id": "q9",
+     "type": "listening-mcq",
+     "prompt": "男士觉得自己的汉语怎么样？",
+     "correctAnswer": "B",
+     "explanation": "男士说还要多练习，表示自己说得不够好。",
+     "audio": {
+      "key": "listening/v1/f1e3abfd7ef415ce5c9607580c8759803da6922aef06bdcc62f71010119dfdd0.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你汉语说得真不错！"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "哪里哪里，我还要多练习。"
+       }
+      ],
+      "transcript": "你汉语说得真不错！ 哪里哪里，我还要多练习。",
+      "transcriptPinyin": "nǐ hàn yǔ shuō dé zhēn bù cuò ！  nǎ lǐ nǎ lǐ ， wǒ hái yào duō liàn xí 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "说得和中国人一样",
+       "pinyin": "shuō dé hé zhōng guó rén yī yàng"
+      },
+      {
+       "label": "B",
+       "text": "说得不好，还需要练习",
+       "pinyin": "shuō dé bù hǎo ， hái xū yào liàn xí"
+      },
+      {
+       "label": "C",
+       "text": "说得很好",
+       "pinyin": "shuō dé hěn hǎo"
+      }
+     ],
+     "pinyin": "nán shì jué de zì jǐ de hàn yǔ zěn me yàng ？"
+    },
+    {
+     "id": "q10",
+     "type": "listening-mcq",
+     "prompt": "书包在什么地方？",
+     "correctAnswer": "C",
+     "explanation": "女士说书包在沙发上面，所以答案是沙发上。",
+     "audio": {
+      "key": "listening/v1/8d010cb548a6ddcc30e497b4e817eb9314a05300a6d8a989fb9c3e5ae0e1c3c2.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "妈妈，我的书包在哪儿？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "在沙发上面，我帮你放好了。"
+       }
+      ],
+      "transcript": "妈妈，我的书包在哪儿？ 在沙发上面，我帮你放好了。",
+      "transcriptPinyin": "mā mā ， wǒ de shū bāo zài nǎ ér ？  zài shā fā shàng miàn ， wǒ bāng nǐ fàng hǎo le 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "桌子上面",
+       "pinyin": "zhuō zi shàng miàn"
+      },
+      {
+       "label": "B",
+       "text": "床下面",
+       "pinyin": "chuáng xià miàn"
+      },
+      {
+       "label": "C",
+       "text": "沙发上",
+       "pinyin": "shā fā shàng"
+      }
+     ],
+     "pinyin": "shū bāo zài shén me dì fāng ？"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

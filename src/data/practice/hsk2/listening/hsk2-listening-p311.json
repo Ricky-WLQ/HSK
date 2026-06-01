@@ -1,0 +1,437 @@
+{
+ "id": "hsk2-listening-p311",
+ "level": "2",
+ "section": "listening",
+ "partKey": "listening-p3",
+ "title": "HSK2 Listening P3",
+ "titleZh": "听力 第三部分（听对话选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "下面你将听到10个对话，每个对话后有一个问题。请根据对话内容选择正确的答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "男人想知道什么？",
+     "correctAnswer": "A",
+     "explanation": "男人问现在几点了，女人回答下午三点半，所以男人想知道时间。",
+     "audio": {
+      "key": "listening/v1/dc9d57e677493e99dbedaed8f517ebd8acf0752ad1ad00a25fffc7166ae61745.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你好，请问现在几点了？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "现在下午三点半。"
+       }
+      ],
+      "transcript": "你好，请问现在几点了？ 现在下午三点半。",
+      "transcriptPinyin": "nǐ hǎo ， qǐng wèn xiàn zài jǐ diǎn le ？  xiàn zài xià wǔ sān diǎn bàn 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "现在几点了",
+       "pinyin": "xiàn zài jǐ diǎn le"
+      },
+      {
+       "label": "B",
+       "text": "女人叫什么名字",
+       "pinyin": "nǚ rén jiào shén me míng zì"
+      },
+      {
+       "label": "C",
+       "text": "下午去哪里",
+       "pinyin": "xià wǔ qù nǎ lǐ"
+      }
+     ],
+     "pinyin": "nán rén xiǎng zhī dào shén me ？"
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "女人想知道什么？",
+     "correctAnswer": "B",
+     "explanation": "女人问手机多少钱，男人回答一千五百块，所以女人想知道手机的价格。",
+     "audio": {
+      "key": "listening/v1/3b0c6a64e30871a3c9ecc7f0a89243488386d086a4f59249c31ba356ddeeded7.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你的手机多少钱？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "一千五百块。"
+       }
+      ],
+      "transcript": "你的手机多少钱？ 一千五百块。",
+      "transcriptPinyin": "nǐ de shǒu jī duō shǎo qián ？  yī qiān wǔ bǎi kuài 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "手机好不好用",
+       "pinyin": "shǒu jī hǎo bù hǎo yòng"
+      },
+      {
+       "label": "B",
+       "text": "手机多少钱",
+       "pinyin": "shǒu jī duō shǎo qián"
+      },
+      {
+       "label": "C",
+       "text": "手机在哪儿",
+       "pinyin": "shǒu jī zài nǎ ér"
+      }
+     ],
+     "pinyin": "nǚ rén xiǎng zhī dào shén me ？"
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "男人要去哪里？",
+     "correctAnswer": "A",
+     "explanation": "男人问图书馆在哪儿，女人告诉他在学校东边，所以男人要去图书馆。",
+     "audio": {
+      "key": "listening/v1/f7c4ad724bf2e81611592535ceae27bb7726bce175b1aff92901c16a07d2a852.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "请问图书馆在哪儿？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "在学校的东边，往前走一百米就到了。"
+       }
+      ],
+      "transcript": "请问图书馆在哪儿？ 在学校的东边，往前走一百米就到了。",
+      "transcriptPinyin": "qǐng wèn tú shū guǎn zài nǎ ér ？  zài xué xiào de dōng biān ， wǎng qián zǒu yì bǎi mǐ jiù dào le 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "图书馆",
+       "pinyin": "tú shū guǎn"
+      },
+      {
+       "label": "B",
+       "text": "教室",
+       "pinyin": "jiào shì"
+      },
+      {
+       "label": "C",
+       "text": "学校东边",
+       "pinyin": "xué xiào dōng biān"
+      }
+     ],
+     "pinyin": "nán rén yào qù nǎ lǐ ？"
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "男人喜欢吃什么？",
+     "correctAnswer": "B",
+     "explanation": "男人说喜欢吃苹果和香蕉，所以男人喜欢苹果和香蕉。",
+     "audio": {
+      "key": "listening/v1/f0639ccf1fae5d8e89b65802b6689b0f4eef22ec2ece5591e3fd7d5a7e538b6a.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你喜欢吃什么水果？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我喜欢吃苹果和香蕉。"
+       }
+      ],
+      "transcript": "你喜欢吃什么水果？ 我喜欢吃苹果和香蕉。",
+      "transcriptPinyin": "nǐ xǐ huān chī shén me shuǐ guǒ ？  wǒ xǐ huān chī píng guǒ hé xiāng jiāo 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "苹果和梨",
+       "pinyin": "píng guǒ hé lí"
+      },
+      {
+       "label": "B",
+       "text": "苹果和香蕉",
+       "pinyin": "píng guǒ hé xiāng jiāo"
+      },
+      {
+       "label": "C",
+       "text": "香蕉和橘子",
+       "pinyin": "xiāng jiāo hé jú zi"
+      }
+     ],
+     "pinyin": "nán rén xǐ huān chī shén me ？"
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "女人家里有几个人？",
+     "correctAnswer": "B",
+     "explanation": "女人说家里有三口人：爸爸、妈妈和她自己，所以有三人。",
+     "audio": {
+      "key": "listening/v1/baa1da4b9b293b9edb1ded2c1fcd561054876c2b0c5e5b9b016f36a9e597c48b.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你们家有几口人？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我们家有三口人，爸爸、妈妈和我。"
+       }
+      ],
+      "transcript": "你们家有几口人？ 我们家有三口人，爸爸、妈妈和我。",
+      "transcriptPinyin": "nǐ men jiā yǒu jǐ kǒu rén ？  wǒ men jiā yǒu sān kǒu rén ， bà bà 、 mā mā hé wǒ 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "四个",
+       "pinyin": "sì gè"
+      },
+      {
+       "label": "B",
+       "text": "三个",
+       "pinyin": "sān gè"
+      },
+      {
+       "label": "C",
+       "text": "两个",
+       "pinyin": "liǎng gè"
+      }
+     ],
+     "pinyin": "nǚ rén jiā lǐ yǒu jǐ gè rén ？"
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "今天天气怎么样？",
+     "correctAnswer": "C",
+     "explanation": "男人说今天不冷，很暖和，所以天气暖和。",
+     "audio": {
+      "key": "listening/v1/601437aad35fae5a049fcb42e26dc99cc0b8ed25d2c4d49a85dffc7228d72025.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "今天冷不冷？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "今天不冷，很暖和。"
+       }
+      ],
+      "transcript": "今天冷不冷？ 今天不冷，很暖和。",
+      "transcriptPinyin": "jīn tiān lěng bù lěng ？  jīn tiān bù lěng ， hěn nuǎn huo 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "下雨了",
+       "pinyin": "xià yǔ le"
+      },
+      {
+       "label": "B",
+       "text": "很冷",
+       "pinyin": "hěn lěng"
+      },
+      {
+       "label": "C",
+       "text": "很暖和",
+       "pinyin": "hěn nuǎn huo"
+      }
+     ],
+     "pinyin": "jīn tiān tiān qì zěn me yàng ？"
+    },
+    {
+     "id": "q7",
+     "type": "listening-mcq",
+     "prompt": "女人周末要做什么？",
+     "correctAnswer": "C",
+     "explanation": "女人说周末去公园玩，所以她要去公园。",
+     "audio": {
+      "key": "listening/v1/5f1098e8118d934b1e0556f7ee05c10028d5bd0e11e451caff0f89f6764a0899.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你周末做什么？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我周末去公园玩。"
+       }
+      ],
+      "transcript": "你周末做什么？ 我周末去公园玩。",
+      "transcriptPinyin": "nǐ zhōu mò zuò shén me ？  wǒ zhōu mò qù gōng yuán wán 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "在家睡觉",
+       "pinyin": "zài jiā shuì jiào"
+      },
+      {
+       "label": "B",
+       "text": "去学校",
+       "pinyin": "qù xué xiào"
+      },
+      {
+       "label": "C",
+       "text": "去公园",
+       "pinyin": "qù gōng yuán"
+      }
+     ],
+     "pinyin": "nǚ rén zhōu mò yào zuò shén me ？"
+    },
+    {
+     "id": "q8",
+     "type": "listening-mcq",
+     "prompt": "男人喜欢什么颜色？",
+     "correctAnswer": "C",
+     "explanation": "男人明确说喜欢蓝色。",
+     "audio": {
+      "key": "listening/v1/7b6053a7a7ae5481dd59c81a76641df71bd48f8261300bb51b3cd8f985d619c2.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你喜欢什么颜色？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我喜欢蓝色。"
+       }
+      ],
+      "transcript": "你喜欢什么颜色？ 我喜欢蓝色。",
+      "transcriptPinyin": "nǐ xǐ huān shén me yán sè ？  wǒ xǐ huān lán sè 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "红色",
+       "pinyin": "hóng sè"
+      },
+      {
+       "label": "B",
+       "text": "绿色",
+       "pinyin": "lǜ sè"
+      },
+      {
+       "label": "C",
+       "text": "蓝色",
+       "pinyin": "lán sè"
+      }
+     ],
+     "pinyin": "nán rén xǐ huān shén me yán sè ？"
+    },
+    {
+     "id": "q9",
+     "type": "listening-mcq",
+     "prompt": "学校离这儿怎么样？",
+     "correctAnswer": "A",
+     "explanation": "女人说不远，走五分钟就到，所以学校离这儿不远。",
+     "audio": {
+      "key": "listening/v1/c55bd1d0316c247633b8df8151df37ba0bc085a0897b4ff9b59e4d81df3dc775.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "学校离这儿远不远？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "不远，走五分钟就到了。"
+       }
+      ],
+      "transcript": "学校离这儿远不远？ 不远，走五分钟就到了。",
+      "transcriptPinyin": "xué xiào lí zhè ér yuǎn bù yuǎn ？  bù yuǎn ， zǒu wǔ fēn zhōng jiù dào le 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "不远",
+       "pinyin": "bù yuǎn"
+      },
+      {
+       "label": "B",
+       "text": "不知道",
+       "pinyin": "bù zhī dào"
+      },
+      {
+       "label": "C",
+       "text": "很远",
+       "pinyin": "hěn yuǎn"
+      }
+     ],
+     "pinyin": "xué xiào lí zhè ér zěn me yàng ？"
+    },
+    {
+     "id": "q10",
+     "type": "listening-mcq",
+     "prompt": "男人多大了？",
+     "correctAnswer": "B",
+     "explanation": "男人回答今年二十岁。",
+     "audio": {
+      "key": "listening/v1/cfacfefd462b0dd556fead795f6526308fda574bc7b09637ef4b09fc35f98562.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你今年多大？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我今年二十岁。"
+       }
+      ],
+      "transcript": "你今年多大？ 我今年二十岁。",
+      "transcriptPinyin": "nǐ jīn nián duō dà ？  wǒ jīn nián èr shí suì 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "二十二岁",
+       "pinyin": "èr shí èr suì"
+      },
+      {
+       "label": "B",
+       "text": "二十岁",
+       "pinyin": "èr shí suì"
+      },
+      {
+       "label": "C",
+       "text": "十八岁",
+       "pinyin": "shí bā suì"
+      }
+     ],
+     "pinyin": "nán rén duō dà le ？"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

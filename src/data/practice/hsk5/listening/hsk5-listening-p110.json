@@ -1,0 +1,537 @@
+{
+ "id": "hsk5-listening-p110",
+ "level": "5",
+ "section": "listening",
+ "partKey": "listening-p1",
+ "title": "HSK5 Listening P1",
+ "titleZh": "听力 第一部分（听对话选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听以下男女对话，然后根据对话内容选择正确答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "关于做饭，女的觉得什么最难？",
+     "correctAnswer": "C",
+     "explanation": "对话中女性明确表示掌握火候是最难的，有时不是太生就是太糊。",
+     "audio": {
+      "key": "listening/v1/b9e2de03350c0253335cc28c0ba292db2e0c00c1af2a81a90451bca23747cffc.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "小李，听说你最近在学做饭？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "是啊，我报了个网上烹饪课，感觉挺有意思的。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "那你觉得最难的是什么？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "掌握火候吧，有时候不是太生就是太糊。"
+       }
+      ],
+      "transcript": "小李，听说你最近在学做饭？ 是啊，我报了个网上烹饪课，感觉挺有意思的。 那你觉得最难的是什么？ 掌握火候吧，有时候不是太生就是太糊。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "调味道"
+      },
+      {
+       "label": "B",
+       "text": "切菜"
+      },
+      {
+       "label": "C",
+       "text": "掌握火候"
+      },
+      {
+       "label": "D",
+       "text": "选择食材"
+      }
+     ]
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "关于这次考试，男老师认为什么可能会影响成绩？",
+     "correctAnswer": "A",
+     "explanation": "男老师指出阅读理解部分有不少生词，这对平时积累不多的学生成绩会有影响。",
+     "audio": {
+      "key": "listening/v1/fcd22d8da829969680742d463e5fd47826175dc63d671a6106bd86066d616645.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "王老师，您觉得这次考试难度怎么样？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "整体来说还算正常，但是阅读理解部分有不少生词。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "那学生们的成绩会受影响吗？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "肯定会，不过平时积累多的学生应该没问题。"
+       }
+      ],
+      "transcript": "王老师，您觉得这次考试难度怎么样？ 整体来说还算正常，但是阅读理解部分有不少生词。 那学生们的成绩会受影响吗？ 肯定会，不过平时积累多的学生应该没问题。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "阅读理解生词多"
+      },
+      {
+       "label": "B",
+       "text": "听力部分难"
+      },
+      {
+       "label": "C",
+       "text": "写作部分长"
+      },
+      {
+       "label": "D",
+       "text": "时间不够用"
+      }
+     ]
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "他们最后决定看什么电影？",
+     "correctAnswer": "B",
+     "explanation": "女性提到科幻片评价不好，男性提议看新出的喜剧，女性同意，所以决定看喜剧。",
+     "audio": {
+      "key": "listening/v1/f2cabdf8e7cc888fedddcfc7918fde82c7aa845e039bdfa3852fdc0c82e42ec6.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "小张，周末一起去看电影吧？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "好啊，不过我听说最近那部科幻片评价不太好。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "没关系，我们可以看别的，比如那部新出的喜剧。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "喜剧也不错，那就定周六下午吧。"
+       }
+      ],
+      "transcript": "小张，周末一起去看电影吧？ 好啊，不过我听说最近那部科幻片评价不太好。 没关系，我们可以看别的，比如那部新出的喜剧。 喜剧也不错，那就定周六下午吧。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "动作片"
+      },
+      {
+       "label": "B",
+       "text": "喜剧"
+      },
+      {
+       "label": "C",
+       "text": "爱情片"
+      },
+      {
+       "label": "D",
+       "text": "科幻片"
+      }
+     ]
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "对于养狗这件事，爸爸提出了什么条件？",
+     "correctAnswer": "B",
+     "explanation": "爸爸说如果女儿能坚持一个月，就考虑养狗，所以条件是先尝试一个月。",
+     "audio": {
+      "key": "listening/v1/f4948205799559b799fda11dc0e338ba24d0db87e0919925c04ba573f6c00cc8.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "爸爸，我想养一只小狗。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "养狗需要很多时间和精力，你确定你能照顾好它吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我保证每天带它散步，还会自己清理它的粪便。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "好吧，如果你能坚持一个月，我们就考虑。"
+       }
+      ],
+      "transcript": "爸爸，我想养一只小狗。 养狗需要很多时间和精力，你确定你能照顾好它吗？ 我保证每天带它散步，还会自己清理它的粪便。 好吧，如果你能坚持一个月，我们就考虑。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "让妈妈也同意"
+      },
+      {
+       "label": "B",
+       "text": "先养一个月试试"
+      },
+      {
+       "label": "C",
+       "text": "买一只小狗"
+      },
+      {
+       "label": "D",
+       "text": "每天散步一小时"
+      }
+     ]
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "女的怎么评价她的新工作？",
+     "correctAnswer": "C",
+     "explanation": "女性说工资比之前高，但加班也多，所以是工资高但辛苦。",
+     "audio": {
+      "key": "listening/v1/6c2a48fdb7c664a4bfa5ef2a895364bd93418d4c194d96c26fbf986508f80a93.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "听说你换工作了？新公司怎么样？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "还不错，工资比之前高了不少，不过加班也多了。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "那你觉得值得吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "目前来看还行，毕竟年轻时候多攒点钱也没坏处。"
+       }
+      ],
+      "transcript": "听说你换工作了？新公司怎么样？ 还不错，工资比之前高了不少，不过加班也多了。 那你觉得值得吗？ 目前来看还行，毕竟年轻时候多攒点钱也没坏处。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "工资和以前一样"
+      },
+      {
+       "label": "B",
+       "text": "工作很无聊"
+      },
+      {
+       "label": "C",
+       "text": "工资高但辛苦"
+      },
+      {
+       "label": "D",
+       "text": "工资低但轻松"
+      }
+     ]
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "男士的订单出了什么问题？",
+     "correctAnswer": "A",
+     "explanation": "服务员查看后说沙拉忘做了，所以是沙拉没做。",
+     "audio": {
+      "key": "listening/v1/ba751398d23e062fa2b6c34337bafb03505a6158f789091ce09c13aa72aa3536.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "先生，您点的咖啡和蛋糕，请慢用。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "谢谢，不过我好像还点了一份沙拉？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "您稍等，我去查一下订单。啊，对不起，沙拉忘做了，我马上去催。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "没关系，麻烦你了。"
+       }
+      ],
+      "transcript": "先生，您点的咖啡和蛋糕，请慢用。 谢谢，不过我好像还点了一份沙拉？ 您稍等，我去查一下订单。啊，对不起，沙拉忘做了，我马上去催。 没关系，麻烦你了。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "沙拉没做"
+      },
+      {
+       "label": "B",
+       "text": "咖啡送错了"
+      },
+      {
+       "label": "C",
+       "text": "账单算错了"
+      },
+      {
+       "label": "D",
+       "text": "蛋糕没了"
+      }
+     ]
+    },
+    {
+     "id": "q7",
+     "type": "listening-mcq",
+     "prompt": "小刘昨天没去聚会的原因是什么？",
+     "correctAnswer": "B",
+     "explanation": "女性说儿子突然发烧，带他去医院，所以原因是儿子发烧。",
+     "audio": {
+      "key": "listening/v1/0c66594d03cd7b7cab0b0e935d78bae7954083023c702a044d06340388774c76.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "小刘，你昨天怎么没来参加聚会？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "别提了，我儿子突然发烧，只好带他去医院。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "现在好点了吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "已经退烧了，就是还有点咳嗽。"
+       }
+      ],
+      "transcript": "小刘，你昨天怎么没来参加聚会？ 别提了，我儿子突然发烧，只好带他去医院。 现在好点了吗？ 已经退烧了，就是还有点咳嗽。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "她自己生病了"
+      },
+      {
+       "label": "B",
+       "text": "她儿子发烧了"
+      },
+      {
+       "label": "C",
+       "text": "她临时加班"
+      },
+      {
+       "label": "D",
+       "text": "她要做家务"
+      }
+     ]
+    },
+    {
+     "id": "q8",
+     "type": "listening-mcq",
+     "prompt": "男的为什么戴口罩？",
+     "correctAnswer": "C",
+     "explanation": "男性说自己花粉过敏，戴口罩能缓解症状。",
+     "audio": {
+      "key": "listening/v1/251dc69a14d514cd52c65a0b1bb24827379565473f4805ba11acb948766a253e.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你最近怎么总是带着口罩？感冒了？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "不是，最近花粉过敏，鼻子不舒服。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "那你怎么不去看医生？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "看了，开了药，但医生说戴口罩能缓解症状。"
+       }
+      ],
+      "transcript": "你最近怎么总是带着口罩？感冒了？ 不是，最近花粉过敏，鼻子不舒服。 那你怎么不去看医生？ 看了，开了药，但医生说戴口罩能缓解症状。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "因为空气不好"
+      },
+      {
+       "label": "B",
+       "text": "因为怕传染别人"
+      },
+      {
+       "label": "C",
+       "text": "因为花粉过敏"
+      },
+      {
+       "label": "D",
+       "text": "因为感冒"
+      }
+     ]
+    },
+    {
+     "id": "q9",
+     "type": "listening-mcq",
+     "prompt": "关于地铁站，女士告诉男士什么？",
+     "correctAnswer": "C",
+     "explanation": "女士说前面路口右转，走五分钟，所以地铁站在路口右转。",
+     "audio": {
+      "key": "listening/v1/847b45622c5b8977b48ca2a84b7cb056891712375123439be2b277ba120b3d9b.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "您知道最近的地铁站在哪儿吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "前面路口右转，走大概五分钟就到了。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "好的，谢谢。另外附近有银行吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "地铁站旁边就有一家建设银行。"
+       }
+      ],
+      "transcript": "您知道最近的地铁站在哪儿吗？ 前面路口右转，走大概五分钟就到了。 好的，谢谢。另外附近有银行吗？ 地铁站旁边就有一家建设银行。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "在路口左转"
+      },
+      {
+       "label": "B",
+       "text": "附近没有银行"
+      },
+      {
+       "label": "C",
+       "text": "在路口右转"
+      },
+      {
+       "label": "D",
+       "text": "要走十分钟"
+      }
+     ]
+    },
+    {
+     "id": "q10",
+     "type": "listening-mcq",
+     "prompt": "男的为什么担心时间问题？",
+     "correctAnswer": "C",
+     "explanation": "男性提到下个月中旬有几天要出差，担心与发布会时间冲突，但发布会是月初，所以最终不冲突。",
+     "audio": {
+      "key": "listening/v1/383c3530ae926b820c5349f913bf46d90d1dec392e2f069ab6e78ba5e0cd93db.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我们公司下个月要举办一个产品发布会，你愿意来帮忙吗？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "当然可以，不过我下个月中旬有几天要出差。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "发布会是月初，应该不冲突。你负责现场布置吧？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "没问题，我可以分担一些工作。"
+       }
+      ],
+      "transcript": "我们公司下个月要举办一个产品发布会，你愿意来帮忙吗？ 当然可以，不过我下个月中旬有几天要出差。 发布会是月初，应该不冲突。你负责现场布置吧？ 没问题，我可以分担一些工作。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "他月初要出差"
+      },
+      {
+       "label": "B",
+       "text": "他月底很忙"
+      },
+      {
+       "label": "C",
+       "text": "他中旬要出差"
+      },
+      {
+       "label": "D",
+       "text": "他周末没空"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

@@ -1,0 +1,202 @@
+{
+ "id": "hsk1-listening-p417",
+ "level": "1",
+ "section": "listening",
+ "partKey": "listening-p4",
+ "title": "HSK1 Listening P4",
+ "titleZh": "听力 第四部分（听问句选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听下面的五段录音，每段录音后有一个问题，从A、B、C三个选项中选择正确答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "今天星期几？",
+     "correctAnswer": "C",
+     "explanation": "旁白说今天星期天，所以应该选择星期天。",
+     "audio": {
+      "key": "listening/v1/b861b4cbc082fcaf7901595569cf14b78cda02c6ef0eb75cdcc7b38e18e6f2de.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "今天星期天，我不去学校。"
+       }
+      ],
+      "transcript": "今天星期天，我不去学校。",
+      "transcriptPinyin": "jīn tiān xīng qī tiān ， wǒ bù qù xué xiào 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "星期六",
+       "pinyin": "xīng qī liù"
+      },
+      {
+       "label": "B",
+       "text": "星期一",
+       "pinyin": "xīng qī yī"
+      },
+      {
+       "label": "C",
+       "text": "星期天",
+       "pinyin": "xīng qī tiān"
+      }
+     ],
+     "pinyin": "jīn tiān xīng qī jǐ ？"
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "我妈妈做什么工作？",
+     "correctAnswer": "A",
+     "explanation": "旁白说妈妈是老师，所以妈妈的工作是老师。",
+     "audio": {
+      "key": "listening/v1/8a4545471a15fc36be543b1e5106c134af8cfa83b62ad2cd859a77b5cadc4016.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我爸爸是医生，妈妈是老师。"
+       }
+      ],
+      "transcript": "我爸爸是医生，妈妈是老师。",
+      "transcriptPinyin": "wǒ bà bà shì yī shēng ， mā mā shì lǎo shī 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "老师",
+       "pinyin": "lǎo shī"
+      },
+      {
+       "label": "B",
+       "text": "医生",
+       "pinyin": "yī shēng"
+      },
+      {
+       "label": "C",
+       "text": "学生",
+       "pinyin": "xué shēng"
+      }
+     ],
+     "pinyin": "wǒ mā mā zuò shén me gōng zuò ？"
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "桌子上有什么？",
+     "correctAnswer": "C",
+     "explanation": "旁白说桌子上有一本书和一支笔，所以两者都有。",
+     "audio": {
+      "key": "listening/v1/76fbc8c0a7e84ddabec3ec5add4978db6dfece6727890d7ff5c8a66c79d23b28.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "桌子上有一本书和一支笔。"
+       }
+      ],
+      "transcript": "桌子上有一本书和一支笔。",
+      "transcriptPinyin": "zhuō zi shàng yǒu yī běn shū hé yī zhī bǐ 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "一本书",
+       "pinyin": "yī běn shū"
+      },
+      {
+       "label": "B",
+       "text": "一支笔",
+       "pinyin": "yī zhī bǐ"
+      },
+      {
+       "label": "C",
+       "text": "一本书和一支笔",
+       "pinyin": "yī běn shū hé yī zhī bǐ"
+      }
+     ],
+     "pinyin": "zhuō zi shàng yǒu shén me ？"
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "我们几点上课？",
+     "correctAnswer": "A",
+     "explanation": "旁白说我们两点上课，所以上课时间是下午两点。",
+     "audio": {
+      "key": "listening/v1/3fe074e20abf88a7e21e61557715169889c3a61f691c5beda17a62d2a0435ee9.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "现在下午三点，我们两点上课。"
+       }
+      ],
+      "transcript": "现在下午三点，我们两点上课。",
+      "transcriptPinyin": "xiàn zài xià wǔ sān diǎn ， wǒ men liǎng diǎn shàng kè 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "下午两点",
+       "pinyin": "xià wǔ liǎng diǎn"
+      },
+      {
+       "label": "B",
+       "text": "下午三点",
+       "pinyin": "xià wǔ sān diǎn"
+      },
+      {
+       "label": "C",
+       "text": "下午一点",
+       "pinyin": "xià wǔ yì diǎn"
+      }
+     ],
+     "pinyin": "wǒ men jǐ diǎn shàng kè ？"
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "我喜欢什么颜色的苹果？",
+     "correctAnswer": "A",
+     "explanation": "旁白说喜欢红色的苹果，所以喜欢的颜色是红色。",
+     "audio": {
+      "key": "listening/v1/b7d60896f5beac5e0135add79c46d16962801bc4f575457a29375fdbeeeeec2c.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我喜欢红色的苹果，不喜欢绿色的。"
+       }
+      ],
+      "transcript": "我喜欢红色的苹果，不喜欢绿色的。",
+      "transcriptPinyin": "wǒ xǐ huān hóng sè de píng guǒ ， bù xǐ huān lǜ sè de 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "红色",
+       "pinyin": "hóng sè"
+      },
+      {
+       "label": "B",
+       "text": "绿色",
+       "pinyin": "lǜ sè"
+      },
+      {
+       "label": "C",
+       "text": "黄色",
+       "pinyin": "huáng sè"
+      }
+     ],
+     "pinyin": "wǒ xǐ huān shén me yán sè de píng guǒ ？"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

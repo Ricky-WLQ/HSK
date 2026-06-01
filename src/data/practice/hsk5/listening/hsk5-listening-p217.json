@@ -1,0 +1,179 @@
+{
+ "id": "hsk5-listening-p217",
+ "level": "5",
+ "section": "listening",
+ "partKey": "listening-p2",
+ "title": "HSK5 Listening P2",
+ "titleZh": "听力 第二部分（听短文选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听一段独白，然后根据独白内容回答6个问题。每个问题有四个选项，请选择唯一正确的答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "张伟原来的工作是什么？",
+     "correctAnswer": "A",
+     "explanation": "独白中明确提到张伟在一家大型科技公司工作了十年，职位是项目经理。",
+     "options": [
+      {
+       "label": "A",
+       "text": "项目经理"
+      },
+      {
+       "label": "B",
+       "text": "营销人员"
+      },
+      {
+       "label": "C",
+       "text": "咖啡店老板"
+      },
+      {
+       "label": "D",
+       "text": "工程师"
+      }
+     ]
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "张伟为什么决定辞职？",
+     "correctAnswer": "B",
+     "explanation": "独白中说'虽然薪水不错，工作也很稳定，但我觉得每天重复一样的事情，没有挑战性'，因此辞职的原因是缺乏挑战。",
+     "options": [
+      {
+       "label": "A",
+       "text": "薪水太低"
+      },
+      {
+       "label": "B",
+       "text": "觉得工作没有挑战性"
+      },
+      {
+       "label": "C",
+       "text": "和同事关系不好"
+      },
+      {
+       "label": "D",
+       "text": "工作不稳定"
+      }
+     ]
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "张伟创业初期遇到了什么困难？",
+     "correctAnswer": "A",
+     "explanation": "独白中指出'开店初期确实很困难，客人很少'，这是初期的主要困难。",
+     "options": [
+      {
+       "label": "A",
+       "text": "客人很少"
+      },
+      {
+       "label": "B",
+       "text": "员工辞职"
+      },
+      {
+       "label": "C",
+       "text": "产品质量差"
+      },
+      {
+       "label": "D",
+       "text": "资金不足"
+      }
+     ]
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "张伟的家人对他辞职开咖啡店的态度是什么？",
+     "correctAnswer": "D",
+     "explanation": "独白中提到'家人朋友都劝我别冲动，说创业风险太大'，说明家人持反对态度，但张伟最终自己决定。",
+     "options": [
+      {
+       "label": "A",
+       "text": "强烈反对"
+      },
+      {
+       "label": "B",
+       "text": "无所谓"
+      },
+      {
+       "label": "C",
+       "text": "非常支持"
+      },
+      {
+       "label": "D",
+       "text": "反对但尊重他的决定"
+      }
+     ]
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "现在张伟的咖啡店怎么样了？",
+     "correctAnswer": "D",
+     "explanation": "独白最后说'现在我的咖啡店已经有了一批固定的顾客'，这是目前的情况。",
+     "options": [
+      {
+       "label": "A",
+       "text": "已经倒闭了"
+      },
+      {
+       "label": "B",
+       "text": "正在准备开分店"
+      },
+      {
+       "label": "C",
+       "text": "生意非常好"
+      },
+      {
+       "label": "D",
+       "text": "有了一批固定顾客"
+      }
+     ]
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "从这段独白中我们可以知道什么？",
+     "correctAnswer": "D",
+     "explanation": "独白描述了张伟面对困难不放弃，最终生意好转，体现了坚持和努力的重要性。",
+     "options": [
+      {
+       "label": "A",
+       "text": "开咖啡店一定能赚钱"
+      },
+      {
+       "label": "B",
+       "text": "张伟后悔辞职了"
+      },
+      {
+       "label": "C",
+       "text": "创业比上班更容易"
+      },
+      {
+       "label": "D",
+       "text": "坚持和努力可能带来成功"
+      }
+     ]
+    }
+   ],
+   "audio": {
+    "key": "listening/v1/79467182823ed4458d9b8f516333b85d821638dea83867aff5d9ae8350dd6e9d.mp3",
+    "lines": [
+     {
+      "speaker": "旁白",
+      "voice": "narrator",
+      "text": "大家好，我是张伟。我在一家大型科技公司工作了十年，职位是项目经理。虽然薪水不错，工作也很稳定，但我觉得每天重复一样的事情，没有挑战性。去年，我决定辞职，自己开一家咖啡店。家人朋友都劝我别冲动，说创业风险太大。但我已经下定决心，拿出了所有积蓄，还贷了一些款。开店初期确实很困难，客人很少，我几乎每天都工作十几个小时。但我不放弃，慢慢学习营销和管理，还推出了特色饮品。半年后，生意开始好转，现在我的咖啡店已经有了一批固定的顾客。虽然比以前累，但我感到非常满足，因为这是我自己的事业。"
+     }
+    ],
+    "transcript": "大家好，我是张伟。我在一家大型科技公司工作了十年，职位是项目经理。虽然薪水不错，工作也很稳定，但我觉得每天重复一样的事情，没有挑战性。去年，我决定辞职，自己开一家咖啡店。家人朋友都劝我别冲动，说创业风险太大。但我已经下定决心，拿出了所有积蓄，还贷了一些款。开店初期确实很困难，客人很少，我几乎每天都工作十几个小时。但我不放弃，慢慢学习营销和管理，还推出了特色饮品。半年后，生意开始好转，现在我的咖啡店已经有了一批固定的顾客。虽然比以前累，但我感到非常满足，因为这是我自己的事业。",
+    "transcriptPinyin": null
+   }
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

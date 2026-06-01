@@ -1,0 +1,161 @@
+{
+ "id": "hsk7-9-listening-p209",
+ "level": "7-9",
+ "section": "listening",
+ "partKey": "listening-p2",
+ "title": "HSK7-9 Listening P2",
+ "titleZh": "听力 第二部分（听短文选填答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听一段关于深度学习在人工智能中应用的独白，然后回答问题。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "这段独白主要讨论什么？",
+     "correctAnswer": "C",
+     "explanation": "独白开头就点明深度学习在人工智能中的地位，后面围绕其核心、要素和注意事项展开，因此主要讨论深度学习的定义与发展。",
+     "options": [
+      {
+       "label": "A",
+       "text": "卷积神经网络的应用"
+      },
+      {
+       "label": "B",
+       "text": "数据标注的重要性"
+      },
+      {
+       "label": "C",
+       "text": "深度学习的定义与发展"
+      },
+      {
+       "label": "D",
+       "text": "人工智能的伦理问题"
+      }
+     ]
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "独白中提到哪种神经网络专门用于图像识别？",
+     "correctAnswer": "D",
+     "explanation": "独白中明确说明'卷积神经网络专门用于处理图像数据'。",
+     "options": [
+      {
+       "label": "A",
+       "text": "循环神经网络"
+      },
+      {
+       "label": "B",
+       "text": "注意力机制网络"
+      },
+      {
+       "label": "C",
+       "text": "生成对抗网络"
+      },
+      {
+       "label": "D",
+       "text": "卷积神经网络"
+      }
+     ]
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "根据独白，训练深度学习模型需要什么？",
+     "correctAnswer": "A",
+     "explanation": "独白中提到'训练过程需要强大的计算资源和海量标注数据'，与B选项一致。",
+     "options": [
+      {
+       "label": "A",
+       "text": "强大计算和大量标注数据"
+      },
+      {
+       "label": "B",
+       "text": "无监督学习环境"
+      },
+      {
+       "label": "C",
+       "text": "少量数据和简单算法"
+      },
+      {
+       "label": "D",
+       "text": "人工特征工程"
+      }
+     ]
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "独白中如何解释'过拟合'？",
+     "correctAnswer": "D",
+     "explanation": "独白描述过拟合是'模型在训练数据上表现优秀，但在新数据上泛化能力差'，关键在于泛化能力差。",
+     "options": [
+      {
+       "label": "A",
+       "text": "模型过于复杂"
+      },
+      {
+       "label": "B",
+       "text": "模型在训练和新数据上表现都好"
+      },
+      {
+       "label": "C",
+       "text": "模型在训练数据上表现优秀"
+      },
+      {
+       "label": "D",
+       "text": "模型在新数据上泛化能力差"
+      }
+     ]
+    },
+    {
+     "id": "q5",
+     "type": "listening-dictation",
+     "prompt": "独白提到深度学习成功的三大要素，请写出其中任何一个：",
+     "correctAnswer": "数据",
+     "explanation": "独白明确列出'数据、算法和算力'三大要素，任选其一即可。"
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "独白中把算力比作什么？",
+     "correctAnswer": "D",
+     "explanation": "独白说'算力则是加速器'。",
+     "options": [
+      {
+       "label": "A",
+       "text": "刹车"
+      },
+      {
+       "label": "B",
+       "text": "引擎"
+      },
+      {
+       "label": "C",
+       "text": "燃料"
+      },
+      {
+       "label": "D",
+       "text": "加速器"
+      }
+     ]
+    }
+   ],
+   "audio": {
+    "key": "listening/v1/39499979f409cddaffbcca7271184340e00f5f199c7d8b7b284974a1d6247178.mp3",
+    "lines": [
+     {
+      "speaker": "旁白",
+      "voice": "narrator",
+      "text": "近年来，深度学习作为人工智能的一个重要分支，在图像识别、自然语言处理等领域取得了突破性进展。它的核心是构建多层神经网络，通过大量数据训练来提取特征。比如，卷积神经网络专门用于处理图像数据，能自动学习边缘、纹理等特征。训练过程需要强大的计算资源和海量标注数据，同时要避免过拟合——即模型在训练数据上表现优秀，但在新数据上泛化能力差。深度学习的成功离不开三大要素：数据、算法和算力。数据是燃料，算法是引擎，算力则是加速器。随着算力的提升，模型规模越来越大，但也要注意平衡性能与效率。"
+     }
+    ],
+    "transcript": "近年来，深度学习作为人工智能的一个重要分支，在图像识别、自然语言处理等领域取得了突破性进展。它的核心是构建多层神经网络，通过大量数据训练来提取特征。比如，卷积神经网络专门用于处理图像数据，能自动学习边缘、纹理等特征。训练过程需要强大的计算资源和海量标注数据，同时要避免过拟合——即模型在训练数据上表现优秀，但在新数据上泛化能力差。深度学习的成功离不开三大要素：数据、算法和算力。数据是燃料，算法是引擎，算力则是加速器。随着算力的提升，模型规模越来越大，但也要注意平衡性能与效率。",
+    "transcriptPinyin": null
+   }
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

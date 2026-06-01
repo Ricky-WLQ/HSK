@@ -1,0 +1,169 @@
+{
+ "id": "hsk1-listening-p319",
+ "level": "1",
+ "section": "listening",
+ "partKey": "listening-p3",
+ "title": "HSK1 Listening P3",
+ "titleZh": "听力 第三部分（看图听对话）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听对话，然后从A-F六张图片中选择与对话内容相符的一张。每段对话对应一张图片，有一张图片是多余的。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "D",
+     "explanation": "对话中提到了吃苹果，所以与苹果的图片相符。",
+     "audio": {
+      "key": "listening/v1/3fd6509e494b789e346de0e3353f79f5352917be75a907cd0616eddf64128da7.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你吃什么？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我吃苹果。"
+       }
+      ],
+      "transcript": "你吃什么？ 我吃苹果。",
+      "transcriptPinyin": "nǐ chī shén me ？  wǒ chī píng guǒ 。"
+     }
+    },
+    {
+     "id": "q2",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "B",
+     "explanation": "对话中提到了她在看书，所以与女孩看书的图片相符。",
+     "audio": {
+      "key": "listening/v1/ac4587553543e906ae08dd683e51215e20b49ef550959270d02df9df361b5f60.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "她在做什么？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "她在看书。"
+       }
+      ],
+      "transcript": "她在做什么？ 她在看书。",
+      "transcriptPinyin": "tā zài zuò shén me ？  tā zài kàn shū 。"
+     }
+    },
+    {
+     "id": "q3",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "C",
+     "explanation": "对话中提到了猫，所以与猫的图片相符。",
+     "audio": {
+      "key": "listening/v1/9b1f4c5b80735ecd2c8fb95bf3aa04b5cc97e7f2a8488800054d1cb8382e3e72.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "这是什么？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "这是一只猫。它是我的猫。"
+       }
+      ],
+      "transcript": "这是什么？ 这是一只猫。它是我的猫。",
+      "transcriptPinyin": "zhè shì shén me ？  zhè shì yī zhī māo 。 tā shì wǒ de māo 。"
+     }
+    },
+    {
+     "id": "q4",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "E",
+     "explanation": "对话中提到了骑自行车去学校，所以与自行车的图片相符。",
+     "audio": {
+      "key": "listening/v1/ecbc380a554443e4c290cd5179579c5242ccfb77aad38ab20ce692f07bb6f857.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你怎么去学校？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我骑自行车去。"
+       }
+      ],
+      "transcript": "你怎么去学校？ 我骑自行车去。",
+      "transcriptPinyin": "nǐ zěn me qù xué xiào ？  wǒ qí zì xíng chē qù 。"
+     }
+    },
+    {
+     "id": "q5",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "A",
+     "explanation": "对话中提到了喝水，所以与男人喝水的图片相符。",
+     "audio": {
+      "key": "listening/v1/f5df7d5a50359c28bf213ca3049fc15ff0ade3318d0d50c50a4db4fc8fe4888f.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你喝什么？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我喝水。"
+       }
+      ],
+      "transcript": "你喝什么？ 我喝水。",
+      "transcriptPinyin": "nǐ hē shén me ？  wǒ hē shuǐ 。"
+     }
+    }
+   ],
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-fa3548af43d457f2987a1efb365d4a85.png"
+    },
+    {
+     "label": "B",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-415d816814db6a9cb2510dee018c2989.png"
+    },
+    {
+     "label": "C",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-3f4981430c30019562a18b880d3246f2.png"
+    },
+    {
+     "label": "D",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-d21d4f8356a1fb36afd505bd5801a88d.png"
+    },
+    {
+     "label": "E",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-e78639de309b8a6040ff3b2b780c0023.png"
+    },
+    {
+     "label": "F",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-d0240c651cd4a029a91190aea432264f.png"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

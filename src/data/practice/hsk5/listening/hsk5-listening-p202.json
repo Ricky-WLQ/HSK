@@ -1,0 +1,179 @@
+{
+ "id": "hsk5-listening-p202",
+ "level": "5",
+ "section": "listening",
+ "partKey": "listening-p2",
+ "title": "HSK5 Listening P2",
+ "titleZh": "听力 第二部分（听短文选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听下面一段话，然后回答问题。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "根据这段话，作者什么时候开始学习书法？",
+     "correctAnswer": "D",
+     "explanation": "根据原文，作者提到上大学后报名参加了书法班，所以开始学习书法是在上大学后。",
+     "options": [
+      {
+       "label": "A",
+       "text": "工作后"
+      },
+      {
+       "label": "B",
+       "text": "小时候"
+      },
+      {
+       "label": "C",
+       "text": "退休后"
+      },
+      {
+       "label": "D",
+       "text": "上大学后"
+      }
+     ]
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "作者觉得刚开始学书法时最大的困难是什么？",
+     "correctAnswer": "A",
+     "explanation": "作者在文中说开始的时候觉得很难，因为毛笔很软，不像钢笔那样容易控制，所以最大的困难是毛笔太软。",
+     "options": [
+      {
+       "label": "A",
+       "text": "毛笔太软"
+      },
+      {
+       "label": "B",
+       "text": "找不到老师"
+      },
+      {
+       "label": "C",
+       "text": "学费太贵"
+      },
+      {
+       "label": "D",
+       "text": "没有时间"
+      }
+     ]
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "作者为什么觉得老师很好？",
+     "correctAnswer": "C",
+     "explanation": "作者提到老师很有耐心，一直鼓励我们，所以觉得老师很好是因为有耐心。",
+     "options": [
+      {
+       "label": "A",
+       "text": "老师很严格"
+      },
+      {
+       "label": "B",
+       "text": "老师很年轻"
+      },
+      {
+       "label": "C",
+       "text": "老师很有耐心"
+      },
+      {
+       "label": "D",
+       "text": "老师教得很快"
+      }
+     ]
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "作者参加比赛的结果是什么？",
+     "correctAnswer": "A",
+     "explanation": "作者明确说虽然没有获得名次，但是过程学到了很多，所以结果是没有获得名次。",
+     "options": [
+      {
+       "label": "A",
+       "text": "没有获得名次"
+      },
+      {
+       "label": "B",
+       "text": "获得了第一名"
+      },
+      {
+       "label": "C",
+       "text": "获得了第二名"
+      },
+      {
+       "label": "D",
+       "text": "没有参加比赛"
+      }
+     ]
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "作者现在为什么觉得书法很重要？",
+     "correctAnswer": "C",
+     "explanation": "作者说每当我感到压力大的时候，就会拿出毛笔写几个字，心情就会平静下来，所以书法可以平静心情。",
+     "options": [
+      {
+       "label": "A",
+       "text": "可以锻炼身体"
+      },
+      {
+       "label": "B",
+       "text": "可以交朋友"
+      },
+      {
+       "label": "C",
+       "text": "可以平静心情"
+      },
+      {
+       "label": "D",
+       "text": "可以赚钱"
+      }
+     ]
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "作者认为书法是一种什么？",
+     "correctAnswer": "B",
+     "explanation": "作者最后说书法不仅是一种艺术，也是一种修身养性的好方法，所以他认为书法是一种艺术和修身养性的方法。",
+     "options": [
+      {
+       "label": "A",
+       "text": "一种娱乐活动"
+      },
+      {
+       "label": "B",
+       "text": "一种艺术和修身养性的方法"
+      },
+      {
+       "label": "C",
+       "text": "一种运动"
+      },
+      {
+       "label": "D",
+       "text": "一种工作"
+      }
+     ]
+    }
+   ],
+   "audio": {
+    "key": "listening/v1/2ab4ad0c39b1638e3821962154f41a1d3055988c5e435ed988674da08741c73c.mp3",
+    "lines": [
+     {
+      "speaker": "旁白",
+      "voice": "narrator",
+      "text": "我从小就对中国文化很感兴趣，尤其是书法。上大学后，我决定报名参加一个书法班。老师先教我们正确的握笔姿势，然后让我们练习基本笔画。开始的时候，我觉得很难，因为毛笔很软，不像钢笔那样容易控制。但是老师很有耐心，一直鼓励我们。经过几个月的练习，我终于能够写出比较工整的汉字了。后来，我参加了学校的书法比赛，虽然没有获得名次，但是这个过程让我学到了很多。现在，书法已经成为我生活中不可缺少的一部分。每当我感到压力大的时候，就会拿出毛笔写几个字，心情就会平静下来。我认为，书法不仅是一种艺术，也是一种修身养性的好方法。"
+     }
+    ],
+    "transcript": "我从小就对中国文化很感兴趣，尤其是书法。上大学后，我决定报名参加一个书法班。老师先教我们正确的握笔姿势，然后让我们练习基本笔画。开始的时候，我觉得很难，因为毛笔很软，不像钢笔那样容易控制。但是老师很有耐心，一直鼓励我们。经过几个月的练习，我终于能够写出比较工整的汉字了。后来，我参加了学校的书法比赛，虽然没有获得名次，但是这个过程让我学到了很多。现在，书法已经成为我生活中不可缺少的一部分。每当我感到压力大的时候，就会拿出毛笔写几个字，心情就会平静下来。我认为，书法不仅是一种艺术，也是一种修身养性的好方法。",
+    "transcriptPinyin": null
+   }
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

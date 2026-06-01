@@ -1,0 +1,387 @@
+{
+ "id": "hsk3-listening-p316",
+ "level": "3",
+ "section": "listening",
+ "partKey": "listening-p3",
+ "title": "HSK3 Listening P3",
+ "titleZh": "听力 第三部分（听短文选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "听录音，然后回答问题。注意：每段独白后有一个问题，请从A、B、C三个选项中选出正确答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "他几点去上班？",
+     "correctAnswer": "A",
+     "explanation": "旁白说他早上八点去上班。",
+     "audio": {
+      "key": "listening/v1/472c280a2222cb1f289788b42118f1349321947374b85c6af95cfa8cd789eada.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我每天早上七点起床，然后吃早饭。我八点去上班。"
+       }
+      ],
+      "transcript": "我每天早上七点起床，然后吃早饭。我八点去上班。",
+      "transcriptPinyin": "wǒ měi tiān zǎo shàng qī diǎn qǐ chuáng ， rán hòu chī zǎo fàn 。 wǒ bā diǎn qù shàng bān 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "8点",
+       "pinyin": "8 diǎn"
+      },
+      {
+       "label": "B",
+       "text": "9点",
+       "pinyin": "9 diǎn"
+      },
+      {
+       "label": "C",
+       "text": "7点",
+       "pinyin": "7 diǎn"
+      }
+     ],
+     "pinyin": "tā jǐ diǎn qù shàng bān ？"
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "她星期六要做什么？",
+     "correctAnswer": "A",
+     "explanation": "旁白说星期六和朋友去公园。",
+     "audio": {
+      "key": "listening/v1/2aa248af48d2e2db78bd03bd6dae67cac8388056d6b939921da76d1f74ea375b.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "这个周末，我打算星期六和我的朋友去公园玩。"
+       }
+      ],
+      "transcript": "这个周末，我打算星期六和我的朋友去公园玩。",
+      "transcriptPinyin": "zhè ge zhōu mò ， wǒ dǎ suàn xīng qī liù hé wǒ de péng yǒu qù gōng yuán wán 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "去公园",
+       "pinyin": "qù gōng yuán"
+      },
+      {
+       "label": "B",
+       "text": "在家休息",
+       "pinyin": "zài jiā xiū xī"
+      },
+      {
+       "label": "C",
+       "text": "去商场",
+       "pinyin": "qù shāng chǎng"
+      }
+     ],
+     "pinyin": "tā xīng qī liù yào zuò shén me ？"
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "他每天吃什么水果？",
+     "correctAnswer": "C",
+     "explanation": "旁白说他每天吃一个苹果。",
+     "audio": {
+      "key": "listening/v1/1eaa53f61081abea74b76be6944a0c9bfe967cac88dcf1ad34a03bc77f21aa2d.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我很喜欢吃水果，特别是苹果和香蕉。我每天吃一个苹果。"
+       }
+      ],
+      "transcript": "我很喜欢吃水果，特别是苹果和香蕉。我每天吃一个苹果。",
+      "transcriptPinyin": "wǒ hěn xǐ huān chī shuǐ guǒ ， tè bié shì píng guǒ hé xiāng jiāo 。 wǒ měi tiān chī yí gè píng guǒ 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "香蕉",
+       "pinyin": "xiāng jiāo"
+      },
+      {
+       "label": "B",
+       "text": "桔子",
+       "pinyin": "jú zi"
+      },
+      {
+       "label": "C",
+       "text": "苹果",
+       "pinyin": "píng guǒ"
+      }
+     ],
+     "pinyin": "tā měi tiān chī shén me shuǐ guǒ ？"
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "她觉得哪节课很难？",
+     "correctAnswer": "A",
+     "explanation": "旁白说她觉得数学很难。",
+     "audio": {
+      "key": "listening/v1/63d8d81ccd9868bb4ecb8deb59597b39de521ede2961056a8c49e8cc61e23032.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "今天我有三节课：汉语、数学和英语。我觉得数学很难。"
+       }
+      ],
+      "transcript": "今天我有三节课：汉语、数学和英语。我觉得数学很难。",
+      "transcriptPinyin": "jīn tiān wǒ yǒu sān jié kè ： hàn yǔ 、 shù xué hé yīng yǔ 。 wǒ jué de shù xué hěn nán 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "数学",
+       "pinyin": "shù xué"
+      },
+      {
+       "label": "B",
+       "text": "英语",
+       "pinyin": "yīng yǔ"
+      },
+      {
+       "label": "C",
+       "text": "汉语",
+       "pinyin": "hàn yǔ"
+      }
+     ],
+     "pinyin": "tā jué de nǎ jié kè hěn nán ？"
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "明天天气怎么样？",
+     "correctAnswer": "C",
+     "explanation": "旁白说明天会下雨。",
+     "audio": {
+      "key": "listening/v1/3e9b2d1dca4a8886d91046063a04b03f67c0323bf037c4149578bfeb5ba044bb.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "今天天气很好，是晴天。但是天气预报说明天会下雨。"
+       }
+      ],
+      "transcript": "今天天气很好，是晴天。但是天气预报说明天会下雨。",
+      "transcriptPinyin": "jīn tiān tiān qì hěn hǎo ， shì qíng tiān 。 dàn shì tiān qì yù bào shuō míng tiān huì xià yǔ 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "晴天",
+       "pinyin": "qíng tiān"
+      },
+      {
+       "label": "B",
+       "text": "下雪",
+       "pinyin": "xià xuě"
+      },
+      {
+       "label": "C",
+       "text": "下雨",
+       "pinyin": "xià yǔ"
+      }
+     ],
+     "pinyin": "míng tiān tiān qì zěn me yàng ？"
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "妹妹多大了？",
+     "correctAnswer": "C",
+     "explanation": "旁白说妹妹十岁。",
+     "audio": {
+      "key": "listening/v1/c0970317c175b2a714c29b178dea57087904e918ba222d58e819e5124d193ab9.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我家有四口人：爸爸、妈妈、我和妹妹。妹妹今年十岁了。"
+       }
+      ],
+      "transcript": "我家有四口人：爸爸、妈妈、我和妹妹。妹妹今年十岁了。",
+      "transcriptPinyin": "wǒ jiā yǒu sì kǒu rén ： bà bà 、 mā mā 、 wǒ hé mèi mèi 。 mèi mèi jīn nián shí suì le 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "八岁",
+       "pinyin": "bā suì"
+      },
+      {
+       "label": "B",
+       "text": "十二岁",
+       "pinyin": "shí èr suì"
+      },
+      {
+       "label": "C",
+       "text": "十岁",
+       "pinyin": "shí suì"
+      }
+     ],
+     "pinyin": "mèi mèi duō dà le ？"
+    },
+    {
+     "id": "q7",
+     "type": "listening-mcq",
+     "prompt": "她最喜欢做什么饭？",
+     "correctAnswer": "A",
+     "explanation": "旁白说她最喜欢做面条。",
+     "audio": {
+      "key": "listening/v1/0990bdf0ce002f1143ce194404098d450743c43b486eb776245e635b4cc302f8.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我正在学做饭。我现在会做面条和米饭。我最喜欢做面条。"
+       }
+      ],
+      "transcript": "我正在学做饭。我现在会做面条和米饭。我最喜欢做面条。",
+      "transcriptPinyin": "wǒ zhèng zài xué zuò fàn 。 wǒ xiàn zài huì zuò miàn tiáo hé mǐ fàn 。 wǒ zuì xǐ huān zuò miàn tiáo 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "面条",
+       "pinyin": "miàn tiáo"
+      },
+      {
+       "label": "B",
+       "text": "饺子",
+       "pinyin": "jiǎo zi"
+      },
+      {
+       "label": "C",
+       "text": "米饭",
+       "pinyin": "mǐ fàn"
+      }
+     ],
+     "pinyin": "tā zuì xǐ huān zuò shén me fàn ？"
+    },
+    {
+     "id": "q8",
+     "type": "listening-mcq",
+     "prompt": "他从图书馆借了什么？",
+     "correctAnswer": "A",
+     "explanation": "旁白说他借了一本中文小说。",
+     "audio": {
+      "key": "listening/v1/7269c0c850ddf2651dfc1bfa2f9e0500f4481d3e7f37c3c088ee96a1d2127514.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "昨天我去图书馆借了一本书。那是一本中文小说。"
+       }
+      ],
+      "transcript": "昨天我去图书馆借了一本书。那是一本中文小说。",
+      "transcriptPinyin": "zuó tiān wǒ qù tú shū guǎn jiè le yī běn shū 。 nà shì yī běn zhōng wén xiǎo shuō 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "一本中文小说",
+       "pinyin": "yī běn zhōng wén xiǎo shuō"
+      },
+      {
+       "label": "B",
+       "text": "一本英文书",
+       "pinyin": "yī běn yīng wén shū"
+      },
+      {
+       "label": "C",
+       "text": "一本词典",
+       "pinyin": "yī běn cí diǎn"
+      }
+     ],
+     "pinyin": "tā cóng tú shū guǎn jiè le shén me ？"
+    },
+    {
+     "id": "q9",
+     "type": "listening-mcq",
+     "prompt": "他上个月去了哪里？",
+     "correctAnswer": "A",
+     "explanation": "旁白说他上个月去了北京。",
+     "audio": {
+      "key": "listening/v1/097be928b3cd11e0f634dd5bb3d691fd4dd699c6c4d8ef94564c8cee17b80293.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "上个月我去北京旅游了。我去了长城，觉得非常漂亮。"
+       }
+      ],
+      "transcript": "上个月我去北京旅游了。我去了长城，觉得非常漂亮。",
+      "transcriptPinyin": "shàng gè yuè wǒ qù běi jīng lǚ yóu le 。 wǒ qù le cháng chéng ， jué de fēi cháng piào liàng 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "北京",
+       "pinyin": "běi jīng"
+      },
+      {
+       "label": "B",
+       "text": "广州",
+       "pinyin": "guǎng zhōu"
+      },
+      {
+       "label": "C",
+       "text": "上海",
+       "pinyin": "shàng hǎi"
+      }
+     ],
+     "pinyin": "tā shàng gè yuè qù le nǎ lǐ ？"
+    },
+    {
+     "id": "q10",
+     "type": "listening-mcq",
+     "prompt": "她今天怎么去上班？",
+     "correctAnswer": "C",
+     "explanation": "旁白说她今天走路去上班。",
+     "audio": {
+      "key": "listening/v1/cc2d107442ff24a29b74cceb1aed4c6e8a222479bbad2b5bf2467164fa6da6b4.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我平时坐公共汽车上班。但是今天公共汽车来晚了，所以我走路去上班。"
+       }
+      ],
+      "transcript": "我平时坐公共汽车上班。但是今天公共汽车来晚了，所以我走路去上班。",
+      "transcriptPinyin": "wǒ píng shí zuò gōng gòng qì chē shàng bān 。 dàn shì jīn tiān gōng gòng qì chē lái wǎn le ， suǒ yǐ wǒ zǒu lù qù shàng bān 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "坐公共汽车",
+       "pinyin": "zuò gōng gòng qì chē"
+      },
+      {
+       "label": "B",
+       "text": "开车",
+       "pinyin": "kāi chē"
+      },
+      {
+       "label": "C",
+       "text": "走路",
+       "pinyin": "zǒu lù"
+      }
+     ],
+     "pinyin": "tā jīn tiān zěn me qù shàng bān ？"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

@@ -1,0 +1,202 @@
+{
+ "id": "hsk1-listening-p414",
+ "level": "1",
+ "section": "listening",
+ "partKey": "listening-p4",
+ "title": "HSK1 Listening P4",
+ "titleZh": "听力 第四部分（听问句选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "听录音，然后回答问题。每段录音只播放一次。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "他叫什么名字？",
+     "correctAnswer": "C",
+     "explanation": "录音中说“我叫王明”，因此他的名字是王明。",
+     "audio": {
+      "key": "listening/v1/76786d2d8f99864452537da270ecad376aad55e104b17cc0251706083c720228.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "你好，我叫王明，我今年十岁。"
+       }
+      ],
+      "transcript": "你好，我叫王明，我今年十岁。",
+      "transcriptPinyin": "nǐ hǎo ， wǒ jiào wáng míng ， wǒ jīn nián shí suì 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "李华",
+       "pinyin": "lǐ huá"
+      },
+      {
+       "label": "B",
+       "text": "张伟",
+       "pinyin": "zhāng wěi"
+      },
+      {
+       "label": "C",
+       "text": "王明",
+       "pinyin": "wáng míng"
+      }
+     ],
+     "pinyin": "tā jiào shén me míng zì ？"
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "他去了哪里？",
+     "correctAnswer": "A",
+     "explanation": "录音中说“我去公园玩”，所以他去了公园。",
+     "audio": {
+      "key": "listening/v1/2087bba3f6a8bf0810a29993ffe06053326c6ffa80e4cc3aede3667dcac50d53.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "今天天气很好，我去公园玩。"
+       }
+      ],
+      "transcript": "今天天气很好，我去公园玩。",
+      "transcriptPinyin": "jīn tiān tiān qì hěn hǎo ， wǒ qù gōng yuán wán 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "公园",
+       "pinyin": "gōng yuán"
+      },
+      {
+       "label": "B",
+       "text": "学校",
+       "pinyin": "xué xiào"
+      },
+      {
+       "label": "C",
+       "text": "家",
+       "pinyin": "jiā"
+      }
+     ],
+     "pinyin": "tā qù le nǎ lǐ ？"
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "这本书是谁给的？",
+     "correctAnswer": "A",
+     "explanation": "录音中说“那是我的朋友给我的”，所以书是朋友给的。",
+     "audio": {
+      "key": "listening/v1/b36b0fc3c160ac61df6971c75fa832e1f1257c87f6b27d0d1ced94fdd2722980.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我有一本书，那是我的朋友给我的。"
+       }
+      ],
+      "transcript": "我有一本书，那是我的朋友给我的。",
+      "transcriptPinyin": "wǒ yǒu yī běn shū ， nà shì wǒ de péng yǒu gěi wǒ de 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "朋友",
+       "pinyin": "péng yǒu"
+      },
+      {
+       "label": "B",
+       "text": "老师",
+       "pinyin": "lǎo shī"
+      },
+      {
+       "label": "C",
+       "text": "妈妈",
+       "pinyin": "mā mā"
+      }
+     ],
+     "pinyin": "zhè běn shū shì shuí gěi de ？"
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "现在几点？",
+     "correctAnswer": "B",
+     "explanation": "录音中说“现在八点了”，所以现在是八点。",
+     "audio": {
+      "key": "listening/v1/08a85d401da342b8e9f32522551945e528f0d67cf49396dadb004e3565432551.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "现在八点了，我要去上课。"
+       }
+      ],
+      "transcript": "现在八点了，我要去上课。",
+      "transcriptPinyin": "xiàn zài bā diǎn le ， wǒ yào qù shàng kè 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "七点",
+       "pinyin": "qī diǎn"
+      },
+      {
+       "label": "B",
+       "text": "八点",
+       "pinyin": "bā diǎn"
+      },
+      {
+       "label": "C",
+       "text": "九点",
+       "pinyin": "jiǔ diǎn"
+      }
+     ],
+     "pinyin": "xiàn zài jǐ diǎn ？"
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "她喜欢吃什么？",
+     "correctAnswer": "A",
+     "explanation": "录音中说“她喜欢吃苹果”，所以她喜欢吃苹果。",
+     "audio": {
+      "key": "listening/v1/881aad764940bed953624a0f0219a709c625923276045225f223617430c1a305.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "她喜欢吃苹果，不喜欢吃香蕉。"
+       }
+      ],
+      "transcript": "她喜欢吃苹果，不喜欢吃香蕉。",
+      "transcriptPinyin": "tā xǐ huān chī píng guǒ ， bù xǐ huān chī xiāng jiāo 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "苹果",
+       "pinyin": "píng guǒ"
+      },
+      {
+       "label": "B",
+       "text": "香蕉",
+       "pinyin": "xiāng jiāo"
+      },
+      {
+       "label": "C",
+       "text": "橘子",
+       "pinyin": "jú zi"
+      }
+     ],
+     "pinyin": "tā xǐ huān chī shén me ？"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

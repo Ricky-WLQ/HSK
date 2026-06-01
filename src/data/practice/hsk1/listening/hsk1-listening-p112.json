@@ -1,0 +1,117 @@
+{
+ "id": "hsk1-listening-p112",
+ "level": "1",
+ "section": "listening",
+ "partKey": "listening-p1",
+ "title": "HSK1 Listening P1",
+ "titleZh": "听力 第一部分（看图判断）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "听句子，看图片，判断对错。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "对",
+     "explanation": "图片中的小猫正在睡觉，与句子描述一致。",
+     "audio": {
+      "key": "listening/v1/d43dd3774b278181be93890f9eaa9bed1a0537cde91891240c49294ff3b114c2.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "小猫在睡觉。"
+       }
+      ],
+      "transcript": "小猫在睡觉。",
+      "transcriptPinyin": "xiǎo māo zài shuì jiào 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-55624325b23c4146c707eec9f99799fd.png"
+    },
+    {
+     "id": "q2",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "错",
+     "explanation": "句子说他喝水，但图片中他喝的是橙汁，动作一致但液体不同，所以错误。",
+     "audio": {
+      "key": "listening/v1/a18970bce5e3fc7fdad5583208954c5d166bbf98e609f06a2de3b8bf457c97cd.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "他喝水。"
+       }
+      ],
+      "transcript": "他喝水。",
+      "transcriptPinyin": "tā hē shuǐ 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-f0b7364dbb7838e8a49759f6a3b3f7d7.png"
+    },
+    {
+     "id": "q3",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "对",
+     "explanation": "图片中的桌子上有一个苹果，与句子描述一致。",
+     "audio": {
+      "key": "listening/v1/3a23894d5ed4c0169e66fe85ef0931cd5f77d7eed67876b660e212670e57e65b.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "桌子上有一个苹果。"
+       }
+      ],
+      "transcript": "桌子上有一个苹果。",
+      "transcriptPinyin": "zhuō zi shàng yǒu yí gè píng guǒ 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-ad8e2d782f625aa10374f565b2461429.png"
+    },
+    {
+     "id": "q4",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "错",
+     "explanation": "句子说她在写字，但图片中她在看书，动作不同，所以错误。",
+     "audio": {
+      "key": "listening/v1/a7f1bb33743eb7a93e249dcd31ff684afc2855e0a35287280b8fe25fdbdf6c11.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "她在写字。"
+       }
+      ],
+      "transcript": "她在写字。",
+      "transcriptPinyin": "tā zài xiě zì 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-daa9218f270ef206265d1205183e8657.png"
+    },
+    {
+     "id": "q5",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "对",
+     "explanation": "图片中的狗很大，与句子描述一致。",
+     "audio": {
+      "key": "listening/v1/c33a074393ce5cb7df059acad115d53884a0770adce9651ed5af508e3ab35fab.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "狗很大。"
+       }
+      ],
+      "transcript": "狗很大。",
+      "transcriptPinyin": "gǒu hěn dà 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-bc38ae61178647ec523e1a5e61ab5651.png"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

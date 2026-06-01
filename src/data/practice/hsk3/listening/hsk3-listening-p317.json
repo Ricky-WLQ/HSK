@@ -1,0 +1,387 @@
+{
+ "id": "hsk3-listening-p317",
+ "level": "3",
+ "section": "listening",
+ "partKey": "listening-p3",
+ "title": "HSK3 Listening P3",
+ "titleZh": "听力 第三部分（听短文选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "下面是10个HSK3听力题。每个题先听一段旁白，然后根据录音内容选择正确答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "他们什么时候在公园门口见面？",
+     "correctAnswer": "B",
+     "explanation": "录音中明确说“下午两点在公园门口见面”，所以应选择下午两点。",
+     "audio": {
+      "key": "listening/v1/b02e530dc4258ae863206c2dfef7cb57afd446deda4fdb61aded092570c4ae54.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "今天天气很好，不冷也不热。我想去公园散步。我的朋友小李也想去，所以我们约好下午两点在公园门口见面。"
+       }
+      ],
+      "transcript": "今天天气很好，不冷也不热。我想去公园散步。我的朋友小李也想去，所以我们约好下午两点在公园门口见面。",
+      "transcriptPinyin": "jīn tiān tiān qì hěn hǎo ， bù lěng yě bù rè 。 wǒ xiǎng qù gōng yuán sàn bù 。 wǒ de péng yǒu xiǎo lǐ yě xiǎng qù ， suǒ yǐ wǒ men yuē hǎo xià wǔ liǎng diǎn zài gōng yuán mén kǒu jiàn miàn 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "上午",
+       "pinyin": "shàng wǔ"
+      },
+      {
+       "label": "B",
+       "text": "下午两点",
+       "pinyin": "xià wǔ liǎng diǎn"
+      },
+      {
+       "label": "C",
+       "text": "晚上",
+       "pinyin": "wǎn shàng"
+      }
+     ],
+     "pinyin": "tā men shén me shí hòu zài gōng yuán mén kǒu jiàn miàn ？"
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "妈妈让“我”去超市买什么？",
+     "correctAnswer": "B",
+     "explanation": "录音中说“买一瓶酱油，还要买两斤鸡蛋”，选项B完全对应。",
+     "audio": {
+      "key": "listening/v1/98b0fde03fd7526076b4e6d1a2da778d7ea987c44dcf9e57dd4a4e39eab0febf.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "妈妈让我去超市买一瓶酱油，还要买两斤鸡蛋。超市离我家不远，走路十分钟就到了。"
+       }
+      ],
+      "transcript": "妈妈让我去超市买一瓶酱油，还要买两斤鸡蛋。超市离我家不远，走路十分钟就到了。",
+      "transcriptPinyin": "mā mā ràng wǒ qù chāo shì mǎi yī píng jiàng yóu ， hái yào mǎi liǎng jīn jī dàn 。 chāo shì lí wǒ jiā bù yuǎn ， zǒu lù shí fēn zhōng jiù dào le 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "两斤酱油和一瓶鸡蛋",
+       "pinyin": "liǎng jīn jiàng yóu hé yī píng jī dàn"
+      },
+      {
+       "label": "B",
+       "text": "一瓶酱油和两斤鸡蛋",
+       "pinyin": "yī píng jiàng yóu hé liǎng jīn jī dàn"
+      },
+      {
+       "label": "C",
+       "text": "酱油和鸡蛋",
+       "pinyin": "jiàng yóu hé jī dàn"
+      }
+     ],
+     "pinyin": "mā mā ràng “ wǒ ” qù chāo shì mǎi shén me ？"
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "明天是星期几？",
+     "correctAnswer": "B",
+     "explanation": "录音第一句说“明天是星期六”，因此正确答案是星期六。",
+     "audio": {
+      "key": "listening/v1/ab0fd0f87cd2d1528aadecfcf8fa265fd4fb30c5a1a4af4187b62e25938dab45.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "明天是星期六，我不用上班。我打算先睡个懒觉，然后下午去图书馆借书。晚上和朋友一起吃饭。"
+       }
+      ],
+      "transcript": "明天是星期六，我不用上班。我打算先睡个懒觉，然后下午去图书馆借书。晚上和朋友一起吃饭。",
+      "transcriptPinyin": "míng tiān shì xīng qī liù ， wǒ bù yòng shàng bān 。 wǒ dǎ suàn xiān shuì gè lǎn jiào ， rán hòu xià wǔ qù tú shū guǎn jiè shū 。 wǎn shàng hé péng yǒu yì qǐ chī fàn 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "星期五",
+       "pinyin": "xīng qī wǔ"
+      },
+      {
+       "label": "B",
+       "text": "星期六",
+       "pinyin": "xīng qī liù"
+      },
+      {
+       "label": "C",
+       "text": "星期日",
+       "pinyin": "xīng qī rì"
+      }
+     ],
+     "pinyin": "míng tiān shì xīng qī jǐ ？"
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "我的手机怎么了？",
+     "correctAnswer": "B",
+     "explanation": "录音明确说“手机坏了”，所以正确答案是坏了。",
+     "audio": {
+      "key": "listening/v1/d196ca015ede663b138edc6d04b77916b26e2f332e365783403db41d5050d1ea.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我的手机坏了，不能打电话也不能发短信。我去了手机店，店员说修好需要三天。"
+       }
+      ],
+      "transcript": "我的手机坏了，不能打电话也不能发短信。我去了手机店，店员说修好需要三天。",
+      "transcriptPinyin": "wǒ de shǒu jī huài le ， bù néng dǎ diàn huà yě bù néng fā duǎn xìn 。 wǒ qù le shǒu jī diàn ， diàn yuán shuō xiū hǎo xū yào sān tiān 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "没电了",
+       "pinyin": "méi diàn le"
+      },
+      {
+       "label": "B",
+       "text": "坏了",
+       "pinyin": "huài le"
+      },
+      {
+       "label": "C",
+       "text": "丢了",
+       "pinyin": "diū le"
+      }
+     ],
+     "pinyin": "wǒ de shǒu jī zěn me le ？"
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "今天早上“我”怎么去公司的？",
+     "correctAnswer": "C",
+     "explanation": "录音说“今天早上我起晚了，所以打车去公司”，因此是打车。",
+     "audio": {
+      "key": "listening/v1/5b7ba47b4ecdc484fcfa7e384f0b8b9cafe8fbcd43cc7c2fbbe606a66e42022b.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我从家坐地铁到公司需要四十分钟。今天早上我起晚了，所以打车去公司，只用了一刻钟。"
+       }
+      ],
+      "transcript": "我从家坐地铁到公司需要四十分钟。今天早上我起晚了，所以打车去公司，只用了一刻钟。",
+      "transcriptPinyin": "wǒ cóng jiā zuò dì tiě dào gōng sī xū yào sì shí fēn zhōng 。 jīn tiān zǎo shàng wǒ qǐ wǎn le ， suǒ yǐ dǎ chē qù gōng sī ， zhǐ yòng le yī kè zhōng 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "坐地铁",
+       "pinyin": "zuò dì tiě"
+      },
+      {
+       "label": "B",
+       "text": "骑自行车",
+       "pinyin": "qí zì xíng chē"
+      },
+      {
+       "label": "C",
+       "text": "打车",
+       "pinyin": "dǎ chē"
+      }
+     ],
+     "pinyin": "jīn tiān zǎo shàng “ wǒ ” zěn me qù gōng sī de ？"
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "上次考试“我”考了多少分？",
+     "correctAnswer": "C",
+     "explanation": "这次考了90分，比上次多10分，所以上次是80分。",
+     "audio": {
+      "key": "listening/v1/b426af59d0feaa34bb9712dfdf0f58ec99efd5d59ace598944b7b0120991aba6.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "这次考试我考了九十分，比上次多了十分。妈妈很高兴，说周末带我去吃火锅。"
+       }
+      ],
+      "transcript": "这次考试我考了九十分，比上次多了十分。妈妈很高兴，说周末带我去吃火锅。",
+      "transcriptPinyin": "zhè cì kǎo shì wǒ kǎo le jiǔ shí fēn ， bǐ shàng cì duō le shí fēn 。 mā mā hěn gāo xìng ， shuō zhōu mò dài wǒ qù chī huǒ guō 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "九十分",
+       "pinyin": "jiǔ shí fēn"
+      },
+      {
+       "label": "B",
+       "text": "七十分",
+       "pinyin": "qī shí fēn"
+      },
+      {
+       "label": "C",
+       "text": "八十分",
+       "pinyin": "bā shí fēn"
+      }
+     ],
+     "pinyin": "shàng cì kǎo shì “ wǒ ” kǎo le duō shǎo fēn ？"
+    },
+    {
+     "id": "q7",
+     "type": "listening-mcq",
+     "prompt": "“我”买苹果花了多少钱？",
+     "correctAnswer": "A",
+     "explanation": "苹果三块钱一斤，买了五斤，所以是15元。",
+     "audio": {
+      "key": "listening/v1/d630ce55852defb5c77de80061583dccd6740a738d4f4ce39ffb4ee767526287.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "水果店里的苹果很便宜，三块钱一斤。我买了五斤，还买了一个西瓜。西瓜八块钱一个。"
+       }
+      ],
+      "transcript": "水果店里的苹果很便宜，三块钱一斤。我买了五斤，还买了一个西瓜。西瓜八块钱一个。",
+      "transcriptPinyin": "shuǐ guǒ diàn lǐ de píng guǒ hěn pián yi ， sān kuài qián yī jīn 。 wǒ mǎi le wǔ jīn ， hái mǎi le yí gè xī guā 。 xī guā bā kuài qián yí gè 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "十五块钱",
+       "pinyin": "shí wǔ kuài qián"
+      },
+      {
+       "label": "B",
+       "text": "八块钱",
+       "pinyin": "bā kuài qián"
+      },
+      {
+       "label": "C",
+       "text": "三块钱",
+       "pinyin": "sān kuài qián"
+      }
+     ],
+     "pinyin": "“ wǒ ” mǎi píng guǒ huā le duō shǎo qián ？"
+    },
+    {
+     "id": "q8",
+     "type": "listening-mcq",
+     "prompt": "“我”报了哪两个项目？",
+     "correctAnswer": "A",
+     "explanation": "录音中说“报了四百米和八百米”，所以选项A正确。",
+     "audio": {
+      "key": "listening/v1/421ee60edc4169725eef914c50fe8d9a6f005f851b13c690f6cefa157e01e95b.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我们学校下个月要开运动会，每个班都要参加。我喜欢跑步，所以报了四百米和八百米。"
+       }
+      ],
+      "transcript": "我们学校下个月要开运动会，每个班都要参加。我喜欢跑步，所以报了四百米和八百米。",
+      "transcriptPinyin": "wǒ men xué xiào xià gè yuè yào kāi yùn dòng huì ， měi gè bān dōu yào cān jiā 。 wǒ xǐ huān pǎo bù ， suǒ yǐ bào le sì bǎi mǐ hé bā bǎi mǐ 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "四百米和八百米",
+       "pinyin": "sì bǎi mǐ hé bā bǎi mǐ"
+      },
+      {
+       "label": "B",
+       "text": "四百米和一千米",
+       "pinyin": "sì bǎi mǐ hé yī qiān mǐ"
+      },
+      {
+       "label": "C",
+       "text": "一百米和二百米",
+       "pinyin": "yì bǎi mǐ hé èr bǎi mǐ"
+      }
+     ],
+     "pinyin": "“ wǒ ” bào le nǎ liǎng gè xiàng mù ？"
+    },
+    {
+     "id": "q9",
+     "type": "listening-mcq",
+     "prompt": "他们买了什么吃的？",
+     "correctAnswer": "B",
+     "explanation": "录音中说“买了两杯可乐和一桶爆米花”，选项A完全匹配。",
+     "audio": {
+      "key": "listening/v1/c04ca5569a6a9beefed3189c31fa3ec91ea41f309119a1e8389b264638864879.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "晚上七点，电影院门口人很多。我和女朋友打算看八点那场电影。我们先去买了两杯可乐和一桶爆米花。"
+       }
+      ],
+      "transcript": "晚上七点，电影院门口人很多。我和女朋友打算看八点那场电影。我们先去买了两杯可乐和一桶爆米花。",
+      "transcriptPinyin": "wǎn shàng qī diǎn ， diàn yǐng yuàn mén kǒu rén hěn duō 。 wǒ hé nǚ péng yǒu dǎ suàn kàn bā diǎn nà chǎng diàn yǐng 。 wǒ men xiān qù mǎi le liǎng bēi kě lè hé yī tǒng bào mǐ huā 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "两杯奶茶和一块蛋糕",
+       "pinyin": "liǎng bēi nǎi chá hé yī kuài dàn gāo"
+      },
+      {
+       "label": "B",
+       "text": "两杯可乐和一桶爆米花",
+       "pinyin": "liǎng bēi kě lè hé yī tǒng bào mǐ huā"
+      },
+      {
+       "label": "C",
+       "text": "两杯果汁和一袋薯片",
+       "pinyin": "liǎng bēi guǒ zhī hé yī dài shǔ piàn"
+      }
+     ],
+     "pinyin": "tā men mǎi le shén me chī de ？"
+    },
+    {
+     "id": "q10",
+     "type": "listening-mcq",
+     "prompt": "“我”放假想去哪里旅行？",
+     "correctAnswer": "A",
+     "explanation": "录音第一句说“我打算去北京旅行”，所以是北京。",
+     "audio": {
+      "key": "listening/v1/7fa30d48324d346bfd541c5926491f097f511fe7745976abd4594ef406752a7d.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "放假的时候，我打算去北京旅行。我想去看长城和故宫。朋友说北京的烤鸭很好吃，我也想去尝尝。"
+       }
+      ],
+      "transcript": "放假的时候，我打算去北京旅行。我想去看长城和故宫。朋友说北京的烤鸭很好吃，我也想去尝尝。",
+      "transcriptPinyin": "fàng jià de shí hòu ， wǒ dǎ suàn qù běi jīng lǚ xíng 。 wǒ xiǎng qù kàn cháng chéng hé gù gōng 。 péng yǒu shuō běi jīng de kǎo yā hěn hǎo chī ， wǒ yě xiǎng qù cháng cháng 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "北京",
+       "pinyin": "běi jīng"
+      },
+      {
+       "label": "B",
+       "text": "广州",
+       "pinyin": "guǎng zhōu"
+      },
+      {
+       "label": "C",
+       "text": "上海",
+       "pinyin": "shàng hǎi"
+      }
+     ],
+     "pinyin": "“ wǒ ” fàng jià xiǎng qù nǎ lǐ lǚ xíng ？"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

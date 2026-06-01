@@ -1,0 +1,437 @@
+{
+ "id": "hsk2-listening-p309",
+ "level": "2",
+ "section": "listening",
+ "partKey": "listening-p3",
+ "title": "HSK2 Listening P3",
+ "titleZh": "听力 第三部分（听对话选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听对话，然后根据对话内容选择正确答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "女的想做什么？",
+     "correctAnswer": "B",
+     "explanation": "女的说不冷也不热，我们出去走走吧，所以她想出去走走。",
+     "audio": {
+      "key": "listening/v1/4178239f38f8c1e1076fec89f6614d46800c4dbad279ac8dd9bb396ee8b87f9f.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你好，今天天气真好啊。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "是啊，不冷也不热，我们出去走走吧。"
+       }
+      ],
+      "transcript": "你好，今天天气真好啊。 是啊，不冷也不热，我们出去走走吧。",
+      "transcriptPinyin": "nǐ hǎo ， jīn tiān tiān qì zhēn hǎo a 。  shì a ， bù lěng yě bù rè ， wǒ men chū qù zǒu zǒu ba 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "去学习",
+       "pinyin": "qù xué xí"
+      },
+      {
+       "label": "B",
+       "text": "出去走走",
+       "pinyin": "chū qù zǒu zǒu"
+      },
+      {
+       "label": "C",
+       "text": "在家休息",
+       "pinyin": "zài jiā xiū xī"
+      }
+     ],
+     "pinyin": "nǚ de xiǎng zuò shén me ？"
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "女的早上吃了什么？",
+     "correctAnswer": "B",
+     "explanation": "女的说吃了一个面包，喝了一杯牛奶，所以是面包和牛奶。",
+     "audio": {
+      "key": "listening/v1/3b98af457e5e1b4818aaf7bedf71e13c3bdd371bf2b33b39ffe8728f8aac6b03.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你早上吃什么了？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我吃了一个面包，喝了一杯牛奶。"
+       }
+      ],
+      "transcript": "你早上吃什么了？ 我吃了一个面包，喝了一杯牛奶。",
+      "transcriptPinyin": "nǐ zǎo shàng chī shén me le ？  wǒ chī le yí gè miàn bāo ， hē le yī bēi niú nǎi 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "面条和水",
+       "pinyin": "miàn tiáo hé shuǐ"
+      },
+      {
+       "label": "B",
+       "text": "面包和牛奶",
+       "pinyin": "miàn bāo hé niú nǎi"
+      },
+      {
+       "label": "C",
+       "text": "米饭和鸡蛋",
+       "pinyin": "mǐ fàn hé jī dàn"
+      }
+     ],
+     "pinyin": "nǚ de zǎo shàng chī le shén me ？"
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "女的生日是几月几号？",
+     "correctAnswer": "C",
+     "explanation": "女的说生日是五月五号。",
+     "audio": {
+      "key": "listening/v1/3393d7edb4a4bd1cbfebfd6c6a27ab3679cc18a020424c2a24f2d547f3f973e2.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你的生日是什么时候？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我的生日是五月五号。"
+       }
+      ],
+      "transcript": "你的生日是什么时候？ 我的生日是五月五号。",
+      "transcriptPinyin": "nǐ de shēng rì shì shén me shí hòu ？  wǒ de shēng rì shì wǔ yuè wǔ hào 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "七月七号",
+       "pinyin": "qī yuè qī hào"
+      },
+      {
+       "label": "B",
+       "text": "三月三号",
+       "pinyin": "sān yuè sān hào"
+      },
+      {
+       "label": "C",
+       "text": "五月五号",
+       "pinyin": "wǔ yuè wǔ hào"
+      }
+     ],
+     "pinyin": "nǚ de shēng rì shì jǐ yuè jǐ hào ？"
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "女的想喝什么？",
+     "correctAnswer": "C",
+     "explanation": "女的说我要茶，所以她想喝茶。",
+     "audio": {
+      "key": "listening/v1/7a981a402fd919669b4b3b6b5c51e9e9277a664fa4fb12e3f66ee31d273eb214.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你要喝茶还是咖啡？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我要茶，谢谢。"
+       }
+      ],
+      "transcript": "你要喝茶还是咖啡？ 我要茶，谢谢。",
+      "transcriptPinyin": "nǐ yào hē chá hái shì kā fēi ？  wǒ yào chá ， xiè xiè 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "咖啡",
+       "pinyin": "kā fēi"
+      },
+      {
+       "label": "B",
+       "text": "水",
+       "pinyin": "shuǐ"
+      },
+      {
+       "label": "C",
+       "text": "茶",
+       "pinyin": "chá"
+      }
+     ],
+     "pinyin": "nǚ de xiǎng hē shén me ？"
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "女的家有几口人？",
+     "correctAnswer": "A",
+     "explanation": "女的说有爸爸、妈妈、我和弟弟，一共四口人。",
+     "audio": {
+      "key": "listening/v1/90430a4d5d7f8cd7518228ba1f3528bd789372784f5297e3cb6d1ec7c1aee7fa.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你家有几口人？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我家有爸爸、妈妈、我和弟弟，一共四口人。"
+       }
+      ],
+      "transcript": "你家有几口人？ 我家有爸爸、妈妈、我和弟弟，一共四口人。",
+      "transcriptPinyin": "nǐ jiā yǒu jǐ kǒu rén ？  wǒ jiā yǒu bà bà 、 mā mā 、 wǒ hé dì di ， yī gòng sì kǒu rén 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "四口人",
+       "pinyin": "sì kǒu rén"
+      },
+      {
+       "label": "B",
+       "text": "三口人",
+       "pinyin": "sān kǒu rén"
+      },
+      {
+       "label": "C",
+       "text": "五口人",
+       "pinyin": "wǔ kǒu rén"
+      }
+     ],
+     "pinyin": "nǚ de jiā yǒu jǐ kǒu rén ？"
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "书在哪儿？",
+     "correctAnswer": "C",
+     "explanation": "女的说书在桌子上。",
+     "audio": {
+      "key": "listening/v1/aaaa939c81a9e73fbf9da59cf3e95d28838ece15c3218dfc2858dfd807bb952a.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你的书在哪儿？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我的书在桌子上。"
+       }
+      ],
+      "transcript": "你的书在哪儿？ 我的书在桌子上。",
+      "transcriptPinyin": "nǐ de shū zài nǎ ér ？  wǒ de shū zài zhuō zi shàng 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "在椅子上",
+       "pinyin": "zài yǐ zi shàng"
+      },
+      {
+       "label": "B",
+       "text": "在书包里",
+       "pinyin": "zài shū bāo lǐ"
+      },
+      {
+       "label": "C",
+       "text": "在桌子上",
+       "pinyin": "zài zhuō zi shàng"
+      }
+     ],
+     "pinyin": "shū zài nǎ ér ？"
+    },
+    {
+     "id": "q7",
+     "type": "listening-mcq",
+     "prompt": "现在几点？",
+     "correctAnswer": "A",
+     "explanation": "女的说现在八点半。",
+     "audio": {
+      "key": "listening/v1/9135b826cf604537e131571ed28f0d57939e98d4ba9af311f1c9a53662d36bc6.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "现在几点了？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "现在八点半。"
+       }
+      ],
+      "transcript": "现在几点了？ 现在八点半。",
+      "transcriptPinyin": "xiàn zài jǐ diǎn le ？  xiàn zài bā diǎn bàn 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "八点半",
+       "pinyin": "bā diǎn bàn"
+      },
+      {
+       "label": "B",
+       "text": "九点半",
+       "pinyin": "jiǔ diǎn bàn"
+      },
+      {
+       "label": "C",
+       "text": "七点半",
+       "pinyin": "qī diǎn bàn"
+      }
+     ],
+     "pinyin": "xiàn zài jǐ diǎn ？"
+    },
+    {
+     "id": "q8",
+     "type": "listening-mcq",
+     "prompt": "女的明天有空吗？",
+     "correctAnswer": "A",
+     "explanation": "女的说要上课，没有空，所以明天没有空。",
+     "audio": {
+      "key": "listening/v1/fde7ac859164063cadc18cd5e7d2ca393d7f131f72b48393bad9d2e42c6e5546.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你明天有空吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "明天我要上课，没有空。"
+       }
+      ],
+      "transcript": "你明天有空吗？ 明天我要上课，没有空。",
+      "transcriptPinyin": "nǐ míng tiān yǒu kòng ma ？  míng tiān wǒ yào shàng kè ， méi yǒu kòng 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "没有空",
+       "pinyin": "méi yǒu kòng"
+      },
+      {
+       "label": "B",
+       "text": "有空",
+       "pinyin": "yǒu kòng"
+      },
+      {
+       "label": "C",
+       "text": "不知道",
+       "pinyin": "bù zhī dào"
+      }
+     ],
+     "pinyin": "nǚ de míng tiān yǒu kòng ma ？"
+    },
+    {
+     "id": "q9",
+     "type": "listening-mcq",
+     "prompt": "女的喜欢什么运动？",
+     "correctAnswer": "B",
+     "explanation": "女的说喜欢跑步和游泳。",
+     "audio": {
+      "key": "listening/v1/8b2c9312f1bd293bee4588aa6b2717d8308675a3c710186ab02e3fe288da8346.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你喜欢什么运动？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我喜欢跑步和游泳。"
+       }
+      ],
+      "transcript": "你喜欢什么运动？ 我喜欢跑步和游泳。",
+      "transcriptPinyin": "nǐ xǐ huān shén me yùn dòng ？  wǒ xǐ huān pǎo bù hé yóu yǒng 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "打篮球和踢足球",
+       "pinyin": "dǎ lán qiú hé tī zú qiú"
+      },
+      {
+       "label": "B",
+       "text": "跑步和游泳",
+       "pinyin": "pǎo bù hé yóu yǒng"
+      },
+      {
+       "label": "C",
+       "text": "打乒乓球",
+       "pinyin": "dǎ pīng pāng qiú"
+      }
+     ],
+     "pinyin": "nǚ de xǐ huān shén me yùn dòng ？"
+    },
+    {
+     "id": "q10",
+     "type": "listening-mcq",
+     "prompt": "苹果多少钱一斤？",
+     "correctAnswer": "B",
+     "explanation": "女的说苹果三块钱一斤。",
+     "audio": {
+      "key": "listening/v1/b29733322fa50bb754219fb495eefcc29025ffdd7bb3dcc5635744d6d58718d0.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "这个苹果多少钱？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "三块钱一斤。"
+       }
+      ],
+      "transcript": "这个苹果多少钱？ 三块钱一斤。",
+      "transcriptPinyin": "zhè ge píng guǒ duō shǎo qián ？  sān kuài qián yī jīn 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "四块钱",
+       "pinyin": "sì kuài qián"
+      },
+      {
+       "label": "B",
+       "text": "三块钱",
+       "pinyin": "sān kuài qián"
+      },
+      {
+       "label": "C",
+       "text": "两块钱",
+       "pinyin": "liǎng kuài qián"
+      }
+     ],
+     "pinyin": "píng guǒ duō shǎo qián yī jīn ？"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

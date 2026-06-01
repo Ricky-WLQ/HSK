@@ -1,0 +1,289 @@
+{
+ "id": "hsk3-listening-p112",
+ "level": "3",
+ "section": "listening",
+ "partKey": "listening-p1",
+ "title": "HSK3 Listening P1",
+ "titleZh": "听力 第一部分（看图听对话）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "听对话，选择与对话内容相符的图片。共有6张图片（A-F），10段对话，每段对话只对应一张图片，每张图片最多被使用一次，其中一张图片是干扰项。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "A",
+     "explanation": "对话中提到了看书，所以对应图片A（一个人在看书）。",
+     "audio": {
+      "key": "listening/v1/dec0b5ecd814ac2060bb2552f5b44aab55360cef8553c18a5ea6ff019961c54d.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你周末做什么了？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我看了书。"
+       }
+      ],
+      "transcript": "你周末做什么了？ 我看了书。",
+      "transcriptPinyin": "nǐ zhōu mò zuò shén me le ？  wǒ kàn le shū 。"
+     }
+    },
+    {
+     "id": "q2",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "A",
+     "explanation": "对话中多次提到看书，所以对应图片A。",
+     "audio": {
+      "key": "listening/v1/cdb7b0c54a0767d484591864878c701c3dad3aa10016e3dc8bd9d9507f410903.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你喜欢看书吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "喜欢，我常常看书。"
+       }
+      ],
+      "transcript": "你喜欢看书吗？ 喜欢，我常常看书。",
+      "transcriptPinyin": "nǐ xǐ huān kàn shū ma ？  xǐ huān ， wǒ cháng cháng kàn shū 。"
+     }
+    },
+    {
+     "id": "q3",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "B",
+     "explanation": "对话中提到猫，所以对应图片B（一只猫坐在椅子上）。",
+     "audio": {
+      "key": "listening/v1/951cc379217dd0eb2930268b9d10050158f046aba512515563666e96c8ed3798.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你养宠物吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我有一只猫，它现在在椅子上。"
+       }
+      ],
+      "transcript": "你养宠物吗？ 我有一只猫，它现在在椅子上。",
+      "transcriptPinyin": "nǐ yǎng chǒng wù ma ？  wǒ yǒu yī zhī māo ， tā xiàn zài zài yǐ zi shàng 。"
+     }
+    },
+    {
+     "id": "q4",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "B",
+     "explanation": "对话中提到猫，所以对应图片B。",
+     "audio": {
+      "key": "listening/v1/1f06f0195a5f70696e989229e63fcd57c42401a3c1f5034038d5704b2dfdd43e.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你家的猫可爱吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "很可爱，它喜欢坐在椅子上。"
+       }
+      ],
+      "transcript": "你家的猫可爱吗？ 很可爱，它喜欢坐在椅子上。",
+      "transcriptPinyin": "nǐ jiā de māo kě ài ma ？  hěn kě ài ， tā xǐ huān zuò zài yǐ zi shàng 。"
+     }
+    },
+    {
+     "id": "q5",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "C",
+     "explanation": "对话中提到骑自行车，所以对应图片C（一辆自行车）。",
+     "audio": {
+      "key": "listening/v1/8232e86c49cb40cecc582863672f0e156a44bf718567937fcf3d9f9705b18d34.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你怎么去上班？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我骑自行车去。"
+       }
+      ],
+      "transcript": "你怎么去上班？ 我骑自行车去。",
+      "transcriptPinyin": "nǐ zěn me qù shàng bān ？  wǒ qí zì xíng chē qù 。"
+     }
+    },
+    {
+     "id": "q6",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "C",
+     "explanation": "对话中提到自行车，所以对应图片C。",
+     "audio": {
+      "key": "listening/v1/0974d46ccc01db3f82eee1ec5199ce41234258ca2410dea3350920a278167b09.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你有自行车吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "有，我的自行车是蓝色的。"
+       }
+      ],
+      "transcript": "你有自行车吗？ 有，我的自行车是蓝色的。",
+      "transcriptPinyin": "nǐ yǒu zì xíng chē ma ？  yǒu ， wǒ de zì xíng chē shì lán sè de 。"
+     }
+    },
+    {
+     "id": "q7",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "D",
+     "explanation": "对话中想喝茶，所以对应图片D（一杯茶）。",
+     "audio": {
+      "key": "listening/v1/83a5a1b207902b57932b9f48715427fa16ef514237112b14d531feeffbafda9c.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你想喝什么？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我想喝一杯茶。"
+       }
+      ],
+      "transcript": "你想喝什么？ 我想喝一杯茶。",
+      "transcriptPinyin": "nǐ xiǎng hē shén me ？  wǒ xiǎng hē yī bēi chá 。"
+     }
+    },
+    {
+     "id": "q8",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "D",
+     "explanation": "对话中提到桌子上有一杯茶，所以对应图片D。",
+     "audio": {
+      "key": "listening/v1/37ca0f1b88663101d7458aaa2cdba7c4765f994ef9773a963653fad607f5d767.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "桌子上有什么？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "有一杯茶。"
+       }
+      ],
+      "transcript": "桌子上有什么？ 有一杯茶。",
+      "transcriptPinyin": "zhuō zi shàng yǒu shén me ？  yǒu yī bēi chá 。"
+     }
+    },
+    {
+     "id": "q9",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "E",
+     "explanation": "对话中问时间，回答三点钟，对应图片E（显示三点的钟）。",
+     "audio": {
+      "key": "listening/v1/d7805ed2879d2738c2b03f99c99ad59e4ebf30f5098f46ccd1ff0cce83c433bd.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "现在几点了？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "三点钟。"
+       }
+      ],
+      "transcript": "现在几点了？ 三点钟。",
+      "transcriptPinyin": "xiàn zài jǐ diǎn le ？  sān diǎn zhōng 。"
+     }
+    },
+    {
+     "id": "q10",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "E",
+     "explanation": "对话中提到钟显示三点，对应图片E。",
+     "audio": {
+      "key": "listening/v1/4bff37fc30c81fbe0830791ca2787e8662b77ead1b5918571e16c16b98bcc230.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你的钟几点了？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我的钟是三点。"
+       }
+      ],
+      "transcript": "你的钟几点了？ 我的钟是三点。",
+      "transcriptPinyin": "nǐ de zhōng jǐ diǎn le ？  wǒ de zhōng shì sān diǎn 。"
+     }
+    }
+   ],
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-34e9a39a069fec56b3cc8ad5c87b883d.png"
+    },
+    {
+     "label": "B",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-5f60557407afb2c03b9e543242922592.png"
+    },
+    {
+     "label": "C",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-9bf360e01e23a28235faa2c2a074a1c1.png"
+    },
+    {
+     "label": "D",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-e83a48723612b74159e4af5db44d6311.png"
+    },
+    {
+     "label": "E",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-67f339b3a6348f4ddf3d39b65cb20817.png"
+    },
+    {
+     "label": "F",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-73424ed705677051a9a41dcc6c4844f9.png"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

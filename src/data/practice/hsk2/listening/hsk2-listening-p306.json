@@ -1,0 +1,472 @@
+{
+ "id": "hsk2-listening-p306",
+ "level": "2",
+ "section": "listening",
+ "partKey": "listening-p3",
+ "title": "HSK2 Listening P3",
+ "titleZh": "听力 第三部分（听对话选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听对话，然后从A、B、C三个选项中选择正确答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "男人要付多少钱？",
+     "correctAnswer": "A",
+     "explanation": "苹果五块一斤，买两斤，需要付十块钱。",
+     "audio": {
+      "key": "listening/v1/2eb1c4a71f291d093f7666589a777c53ff2f5a194bbc16f69f770974457e2859.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "苹果多少钱一斤？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "五块一斤。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我买两斤。"
+       }
+      ],
+      "transcript": "苹果多少钱一斤？ 五块一斤。 我买两斤。",
+      "transcriptPinyin": "píng guǒ duō shǎo qián yī jīn ？  wǔ kuài yī jīn 。  wǒ mǎi liǎng jīn 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "十块",
+       "pinyin": "shí kuài"
+      },
+      {
+       "label": "B",
+       "text": "十五块",
+       "pinyin": "shí wǔ kuài"
+      },
+      {
+       "label": "C",
+       "text": "五块",
+       "pinyin": "wǔ kuài"
+      }
+     ],
+     "pinyin": "nán rén yào fù duō shǎo qián ？"
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "现在几点？",
+     "correctAnswer": "A",
+     "explanation": "男人说八点一刻，一刻就是十五分钟，所以是八点十五分。",
+     "audio": {
+      "key": "listening/v1/7ec34f680aa23642e620fdf1133f58809500deeaa678d09563e4afe4e52fea73.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "请问现在几点？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "八点一刻。"
+       }
+      ],
+      "transcript": "请问现在几点？ 八点一刻。",
+      "transcriptPinyin": "qǐng wèn xiàn zài jǐ diǎn ？  bā diǎn yī kè 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "八点十五",
+       "pinyin": "bā diǎn shí wǔ"
+      },
+      {
+       "label": "B",
+       "text": "八点",
+       "pinyin": "bā diǎn"
+      },
+      {
+       "label": "C",
+       "text": "八点三十",
+       "pinyin": "bā diǎn sān shí"
+      }
+     ],
+     "pinyin": "xiàn zài jǐ diǎn ？"
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "他们明天几点见面？",
+     "correctAnswer": "A",
+     "explanation": "女人说下午三点有空，男人说三点见，所以他们下午三点见面。",
+     "audio": {
+      "key": "listening/v1/e4a7ea14d72484f47f3b02660f2ef4f7c62bdd3be1fd813a55d900364eee9e95.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "明天下午你有时间吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "明天下午三点我有空。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "好，我们三点见。"
+       }
+      ],
+      "transcript": "明天下午你有时间吗？ 明天下午三点我有空。 好，我们三点见。",
+      "transcriptPinyin": "míng tiān xià wǔ nǐ yǒu shí jiān ma ？  míng tiān xià wǔ sān diǎn wǒ yǒu kòng 。  hǎo ， wǒ men sān diǎn jiàn 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "下午三点",
+       "pinyin": "xià wǔ sān diǎn"
+      },
+      {
+       "label": "B",
+       "text": "下午两点",
+       "pinyin": "xià wǔ liǎng diǎn"
+      },
+      {
+       "label": "C",
+       "text": "下午一点",
+       "pinyin": "xià wǔ yì diǎn"
+      }
+     ],
+     "pinyin": "tā men míng tiān jǐ diǎn jiàn miàn ？"
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "今天天气怎么样？",
+     "correctAnswer": "A",
+     "explanation": "男人说今天很冷，零下五度，所以天气很冷。",
+     "audio": {
+      "key": "listening/v1/35a6636366fc7922afe39461f91b62db9c91df11b905cb582463f06f37c0f74c.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "今天天气怎么样？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "今天很冷，零下五度。"
+       }
+      ],
+      "transcript": "今天天气怎么样？ 今天很冷，零下五度。",
+      "transcriptPinyin": "jīn tiān tiān qì zěn me yàng ？  jīn tiān hěn lěng ， líng xià wǔ dù 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "很冷",
+       "pinyin": "hěn lěng"
+      },
+      {
+       "label": "B",
+       "text": "很暖和",
+       "pinyin": "hěn nuǎn huo"
+      },
+      {
+       "label": "C",
+       "text": "很热",
+       "pinyin": "hěn rè"
+      }
+     ],
+     "pinyin": "jīn tiān tiān qì zěn me yàng ？"
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "女人想吃什么？",
+     "correctAnswer": "C",
+     "explanation": "女人说想吃饺子，所以她想吃饺子。",
+     "audio": {
+      "key": "listening/v1/2a20143529f7e59ca956c59715eb590b28e1be5f38d64e64911c059269dfb63d.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你想吃什么？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我想吃饺子。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "好，我们去吃饺子。"
+       }
+      ],
+      "transcript": "你想吃什么？ 我想吃饺子。 好，我们去吃饺子。",
+      "transcriptPinyin": "nǐ xiǎng chī shén me ？  wǒ xiǎng chī jiǎo zi 。  hǎo ， wǒ men qù chī jiǎo zi 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "面条",
+       "pinyin": "miàn tiáo"
+      },
+      {
+       "label": "B",
+       "text": "米饭",
+       "pinyin": "mǐ fàn"
+      },
+      {
+       "label": "C",
+       "text": "饺子",
+       "pinyin": "jiǎo zi"
+      }
+     ],
+     "pinyin": "nǚ rén xiǎng chī shén me ？"
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "银行在哪儿？",
+     "correctAnswer": "A",
+     "explanation": "男人说银行在医院旁边，所以银行在医院旁边。",
+     "audio": {
+      "key": "listening/v1/4f6bb32842007bec58acc81f6bf1c1f0361111438e60dd1e336f8aefd9aa00bf.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "请问银行在哪儿？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "在医院旁边。"
+       }
+      ],
+      "transcript": "请问银行在哪儿？ 在医院旁边。",
+      "transcriptPinyin": "qǐng wèn yín háng zài nǎ ér ？  zài yī yuàn páng biān 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "医院旁边",
+       "pinyin": "yī yuàn páng biān"
+      },
+      {
+       "label": "B",
+       "text": "学校旁边",
+       "pinyin": "xué xiào páng biān"
+      },
+      {
+       "label": "C",
+       "text": "商店旁边",
+       "pinyin": "shāng diàn páng biān"
+      }
+     ],
+     "pinyin": "yín háng zài nǎ ér ？"
+    },
+    {
+     "id": "q7",
+     "type": "listening-mcq",
+     "prompt": "女人喜欢什么颜色？",
+     "correctAnswer": "C",
+     "explanation": "女人说喜欢红色，所以她喜欢红色。",
+     "audio": {
+      "key": "listening/v1/a081baa491c47f1fbdebb8746b8c91d7b8cc07114d170a346726f9a2115dc6d5.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你喜欢什么颜色？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我喜欢红色。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我也喜欢红色。"
+       }
+      ],
+      "transcript": "你喜欢什么颜色？ 我喜欢红色。 我也喜欢红色。",
+      "transcriptPinyin": "nǐ xǐ huān shén me yán sè ？  wǒ xǐ huān hóng sè 。  wǒ yě xǐ huān hóng sè 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "蓝色",
+       "pinyin": "lán sè"
+      },
+      {
+       "label": "B",
+       "text": "绿色",
+       "pinyin": "lǜ sè"
+      },
+      {
+       "label": "C",
+       "text": "红色",
+       "pinyin": "hóng sè"
+      }
+     ],
+     "pinyin": "nǚ rén xǐ huān shén me yán sè ？"
+    },
+    {
+     "id": "q8",
+     "type": "listening-mcq",
+     "prompt": "男人家里有几个人？",
+     "correctAnswer": "B",
+     "explanation": "男人说四口人，包括爸爸、妈妈、姐姐和他自己，所以是四个人。",
+     "audio": {
+      "key": "listening/v1/c9046294c7d7819533b4e8ce0f56b27c3930a3afacce9d42b75df4fc22e971c5.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你家有几口人？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "四口：爸爸、妈妈、姐姐和我。"
+       }
+      ],
+      "transcript": "你家有几口人？ 四口：爸爸、妈妈、姐姐和我。",
+      "transcriptPinyin": "nǐ jiā yǒu jǐ kǒu rén ？  sì kǒu ： bà bà 、 mā mā 、 jiě jiě hé wǒ 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "三个",
+       "pinyin": "sān gè"
+      },
+      {
+       "label": "B",
+       "text": "四个",
+       "pinyin": "sì gè"
+      },
+      {
+       "label": "C",
+       "text": "五个",
+       "pinyin": "wǔ gè"
+      }
+     ],
+     "pinyin": "nán rén jiā lǐ yǒu jǐ gè rén ？"
+    },
+    {
+     "id": "q9",
+     "type": "listening-mcq",
+     "prompt": "女人周末想做什么？",
+     "correctAnswer": "C",
+     "explanation": "女人说想去看电影，所以她周末想看电影。",
+     "audio": {
+      "key": "listening/v1/7feeee4c55d077ab09b91a431c6886a4c2017d304de18073d95aac7e9d73b808.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "周末你想做什么？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我想去看电影。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "好，我们一起去看。"
+       }
+      ],
+      "transcript": "周末你想做什么？ 我想去看电影。 好，我们一起去看。",
+      "transcriptPinyin": "zhōu mò nǐ xiǎng zuò shén me ？  wǒ xiǎng qù kàn diàn yǐng 。  hǎo ， wǒ men yì qǐ qù kàn 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "唱歌",
+       "pinyin": "chàng gē"
+      },
+      {
+       "label": "B",
+       "text": "看书",
+       "pinyin": "kàn shū"
+      },
+      {
+       "label": "C",
+       "text": "看电影",
+       "pinyin": "kàn diàn yǐng"
+      }
+     ],
+     "pinyin": "nǚ rén zhōu mò xiǎng zuò shén me ？"
+    },
+    {
+     "id": "q10",
+     "type": "listening-mcq",
+     "prompt": "便宜的衣服多少钱？",
+     "correctAnswer": "B",
+     "explanation": "男人说旁边有八十块的衣服，所以便宜的衣服是八十块。",
+     "audio": {
+      "key": "listening/v1/e27de8414702a898bb56d3f575d35d4cd5039c7f482f84f9f3ecab5fdceb0d7b.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "这件衣服多少钱？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "一百块。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "太贵了，有没有便宜的？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "那边有八十块的。"
+       }
+      ],
+      "transcript": "这件衣服多少钱？ 一百块。 太贵了，有没有便宜的？ 那边有八十块的。",
+      "transcriptPinyin": "zhè jiàn yī fú duō shǎo qián ？  yì bǎi kuài 。  tài guì le ， yǒu méi yǒu pián yi de ？  nà biān yǒu bā shí kuài de 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "一百块",
+       "pinyin": "yì bǎi kuài"
+      },
+      {
+       "label": "B",
+       "text": "八十块",
+       "pinyin": "bā shí kuài"
+      },
+      {
+       "label": "C",
+       "text": "六十块",
+       "pinyin": "liù shí kuài"
+      }
+     ],
+     "pinyin": "pián yi de yī fú duō shǎo qián ？"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

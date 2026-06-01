@@ -1,0 +1,294 @@
+{
+ "id": "hsk3-listening-p104",
+ "level": "3",
+ "section": "listening",
+ "partKey": "listening-p1",
+ "title": "HSK3 Listening P1",
+ "titleZh": "听力 第一部分（看图听对话）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "听对话，选择与对话内容一致的图片。每题只有一个正确答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "A",
+     "explanation": "对话中提到了看书，与图片A中男人看书一致。",
+     "audio": {
+      "key": "listening/v1/2186af69703442c7bb35fd0995680fa77360eda16101c1f6d2754a9617109c2a.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你在看什么书？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我在看一本关于中国历史的小说。"
+       }
+      ],
+      "transcript": "你在看什么书？ 我在看一本关于中国历史的小说。",
+      "transcriptPinyin": "nǐ zài kàn shén me shū ？  wǒ zài kàn yī běn guān yú zhōng guó lì shǐ de xiǎo shuō 。"
+     }
+    },
+    {
+     "id": "q2",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "B",
+     "explanation": "对话中说到做饭，与图片B中女人做饭一致。",
+     "audio": {
+      "key": "listening/v1/43020e5447194b61ee6414b243514da9e047b494293b6733fab567926f6c4847.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你今天想吃什么？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我想吃你做的拿手菜。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "好，我去做饭。"
+       }
+      ],
+      "transcript": "你今天想吃什么？ 我想吃你做的拿手菜。 好，我去做饭。",
+      "transcriptPinyin": "nǐ jīn tiān xiǎng chī shén me ？  wǒ xiǎng chī nǐ zuò de ná shǒu cài 。  hǎo ， wǒ qù zuò fàn 。"
+     }
+    },
+    {
+     "id": "q3",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "C",
+     "explanation": "对话中提议踢足球，与图片C中男孩踢足球一致。",
+     "audio": {
+      "key": "listening/v1/9a987a1638a25408ff50e41dd6512e5dede706f02c845053f231dee6f9d49a4f.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我们下午去踢足球吧！"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "好啊，我很久没踢了。"
+       }
+      ],
+      "transcript": "我们下午去踢足球吧！ 好啊，我很久没踢了。",
+      "transcriptPinyin": "wǒ men xià wǔ qù tī zú qiú ba ！  hǎo a ， wǒ hěn jiǔ méi tī le 。"
+     }
+    },
+    {
+     "id": "q4",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "D",
+     "explanation": "对话中说到画画，与图片D中女孩画画一致。",
+     "audio": {
+      "key": "listening/v1/9d017a0a94578f28ae56091b8ca802142c4402db4cf5029e87631ef7e1ba5be3.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你画的是什么？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我在画一只小狗。"
+       }
+      ],
+      "transcript": "你画的是什么？ 我在画一只小狗。",
+      "transcriptPinyin": "nǐ huà de shì shén me ？  wǒ zài huà yī zhī xiǎo gǒu 。"
+     }
+    },
+    {
+     "id": "q5",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "E",
+     "explanation": "对话中表达想睡觉，与图片E中男人睡觉一致。",
+     "audio": {
+      "key": "listening/v1/bbbe1089cdcf6f016dce5763b812dde4d7f336f9832480e19c3555b11284dce3.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你看起来好累。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "是的，我昨晚没睡好，现在很想睡觉。"
+       }
+      ],
+      "transcript": "你看起来好累。 是的，我昨晚没睡好，现在很想睡觉。",
+      "transcriptPinyin": "nǐ kàn qǐ lái hǎo lèi 。  shì de ， wǒ zuó wǎn méi shuì hǎo ， xiàn zài hěn xiǎng shuì jiào 。"
+     }
+    },
+    {
+     "id": "q6",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "A",
+     "explanation": "对话中讨论看书，与图片A中男人看书一致。",
+     "audio": {
+      "key": "listening/v1/d2e630cb7ec20ebd09adc3b5059cc1205f2742e464f74f46ad8f6fde055980b5.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你经常看什么书？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我喜欢看故事书。"
+       }
+      ],
+      "transcript": "你经常看什么书？ 我喜欢看故事书。",
+      "transcriptPinyin": "nǐ jīng cháng kàn shén me shū ？  wǒ xǐ huān kàn gù shì shū 。"
+     }
+    },
+    {
+     "id": "q7",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "B",
+     "explanation": "对话中提及做菜，与图片B中女人做饭一致。",
+     "audio": {
+      "key": "listening/v1/a7502e9ca6436385500ef79e3a3d7d7ef5cf50b1b7218ef132017506de46ac0b.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你会做什么菜？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我会做西红柿炒鸡蛋。"
+       }
+      ],
+      "transcript": "你会做什么菜？ 我会做西红柿炒鸡蛋。",
+      "transcriptPinyin": "nǐ huì zuò shén me cài ？  wǒ huì zuò xī hóng shì chǎo jī dàn 。"
+     }
+    },
+    {
+     "id": "q8",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "C",
+     "explanation": "对话中谈论踢足球，与图片C中男孩踢足球一致。",
+     "audio": {
+      "key": "listening/v1/0501670b1a350953d745816db79f7c094c4aad7ab9e931474d62b24391f2f157.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你踢足球踢得好吗？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "还行，我每天都练习。"
+       }
+      ],
+      "transcript": "你踢足球踢得好吗？ 还行，我每天都练习。",
+      "transcriptPinyin": "nǐ tī zú qiú tī dé hǎo ma ？  hái xíng ， wǒ měi tiān dōu liàn xí 。"
+     }
+    },
+    {
+     "id": "q9",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "D",
+     "explanation": "对话中提到画画，与图片D中女孩画画一致。",
+     "audio": {
+      "key": "listening/v1/85051762521ed5c29ca35632411c281000a73b61070aca654949180daea48564.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你在画什么？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我在画我们家的房子。"
+       }
+      ],
+      "transcript": "你在画什么？ 我在画我们家的房子。",
+      "transcriptPinyin": "nǐ zài huà shén me ？  wǒ zài huà wǒ men jiā de fáng zi 。"
+     }
+    },
+    {
+     "id": "q10",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "E",
+     "explanation": "对话中讨论睡觉时间，与图片E中男人睡觉一致。",
+     "audio": {
+      "key": "listening/v1/4ad66d27620ee9f814c7325672cb0ecf2e3fe606a862b33be27f347654f5413c.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你每天几点睡觉？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我一般十点睡觉。"
+       }
+      ],
+      "transcript": "你每天几点睡觉？ 我一般十点睡觉。",
+      "transcriptPinyin": "nǐ měi tiān jǐ diǎn shuì jiào ？  wǒ yì bān shí diǎn shuì jiào 。"
+     }
+    }
+   ],
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-3643ab6e1ba70b48406523da9d5d8ed3.png"
+    },
+    {
+     "label": "B",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-b35fe95f9df53741bf8c2549dab3c6f9.png"
+    },
+    {
+     "label": "C",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-e002ac0a0983c96f12b147879f6f9a14.png"
+    },
+    {
+     "label": "D",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-dd89d2977c8e764c9b46650ec66566d1.png"
+    },
+    {
+     "label": "E",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-f6d217c40a3e32532f4318b588e7c59a.png"
+    },
+    {
+     "label": "F",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-0ef4a194bb13a6e6fe8ab8ae0937894e.png"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

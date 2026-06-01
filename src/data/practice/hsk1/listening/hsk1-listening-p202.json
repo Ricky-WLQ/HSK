@@ -1,0 +1,202 @@
+{
+ "id": "hsk1-listening-p202",
+ "level": "1",
+ "section": "listening",
+ "partKey": "listening-p2",
+ "title": "HSK1 Listening P2",
+ "titleZh": "听力 第二部分（听句子选答语）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "你将听到5段简短独白，每段独白后有一个问题。请从三个选项中选择正确答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "他在问什么？",
+     "correctAnswer": "A",
+     "explanation": "问题询问对方在问什么，录音中明确说“你叫什么名字”，意思就是问名字，因此正确的选项是关于名字的。",
+     "audio": {
+      "key": "listening/v1/dee75706636fd59d23579253b1aee11905313b90cd1057594844aa060b3f8b2c.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "你好，你叫什么名字？"
+       }
+      ],
+      "transcript": "你好，你叫什么名字？",
+      "transcriptPinyin": "nǐ hǎo ， nǐ jiào shén me míng zì ？"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "你的名字",
+       "pinyin": "nǐ de míng zì"
+      },
+      {
+       "label": "B",
+       "text": "你的工作",
+       "pinyin": "nǐ de gōng zuò"
+      },
+      {
+       "label": "C",
+       "text": "你的年龄",
+       "pinyin": "nǐ de nián líng"
+      }
+     ],
+     "pinyin": "tā zài wèn shén me ？"
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "明天是什么日子？",
+     "correctAnswer": "A",
+     "explanation": "问题问明天是星期几，录音中说“明天是星期六”，所以表示星期六的选项是正确的。",
+     "audio": {
+      "key": "listening/v1/8652111c3e7e2b5cba066bd41e4c6558591dccbf90c63c98c7e020ff18dd61d8.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "今天星期五，明天是星期六。"
+       }
+      ],
+      "transcript": "今天星期五，明天是星期六。",
+      "transcriptPinyin": "jīn tiān xīng qī wǔ ， míng tiān shì xīng qī liù 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "星期六",
+       "pinyin": "xīng qī liù"
+      },
+      {
+       "label": "B",
+       "text": "星期天",
+       "pinyin": "xīng qī tiān"
+      },
+      {
+       "label": "C",
+       "text": "星期五",
+       "pinyin": "xīng qī wǔ"
+      }
+     ],
+     "pinyin": "míng tiān shì shén me rì zi ？"
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "他有多少支笔？",
+     "correctAnswer": "C",
+     "explanation": "问题问他有几支笔，录音中说“两支笔”，因此表示两支的选项是正确的。",
+     "audio": {
+      "key": "listening/v1/8d7af3edee1128866f9ee77250f7731bd82126b09a9bc3de00229886e89eb1bc.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我有一本书和两支笔。"
+       }
+      ],
+      "transcript": "我有一本书和两支笔。",
+      "transcriptPinyin": "wǒ yǒu yī běn shū hé liǎng zhī bǐ 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "一支",
+       "pinyin": "yī zhī"
+      },
+      {
+       "label": "B",
+       "text": "三支",
+       "pinyin": "sān zhī"
+      },
+      {
+       "label": "C",
+       "text": "两支",
+       "pinyin": "liǎng zhī"
+      }
+     ],
+     "pinyin": "tā yǒu duō shǎo zhī bǐ ？"
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "她多大了？",
+     "correctAnswer": "C",
+     "explanation": "问题问她多大，录音中说“二十岁”，因此表示二十岁的选项是正确的。",
+     "audio": {
+      "key": "listening/v1/966272533cee710d3802ddc5cdc274e0b1a41f010341683dcdc4cf9b716a9884.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "她今年二十岁。"
+       }
+      ],
+      "transcript": "她今年二十岁。",
+      "transcriptPinyin": "tā jīn nián èr shí suì 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "十二岁",
+       "pinyin": "shí èr suì"
+      },
+      {
+       "label": "B",
+       "text": "十岁",
+       "pinyin": "shí suì"
+      },
+      {
+       "label": "C",
+       "text": "二十岁",
+       "pinyin": "èr shí suì"
+      }
+     ],
+     "pinyin": "tā duō dà le ？"
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "妈妈在做什么？",
+     "correctAnswer": "A",
+     "explanation": "问题问妈妈在做什么，录音中说“妈妈在做饭”，因此表示做饭的选项是正确的。",
+     "audio": {
+      "key": "listening/v1/3f572f53dbb4c4b97b95295d2b7f058bee805351da62c5fdb3ed529eb134ff92.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "妈妈在做饭，爸爸在看报。"
+       }
+      ],
+      "transcript": "妈妈在做饭，爸爸在看报。",
+      "transcriptPinyin": "mā mā zài zuò fàn ， bà bà zài kàn bào 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "做饭",
+       "pinyin": "zuò fàn"
+      },
+      {
+       "label": "B",
+       "text": "吃饭",
+       "pinyin": "chī fàn"
+      },
+      {
+       "label": "C",
+       "text": "看报",
+       "pinyin": "kàn bào"
+      }
+     ],
+     "pinyin": "mā mā zài zuò shén me ？"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

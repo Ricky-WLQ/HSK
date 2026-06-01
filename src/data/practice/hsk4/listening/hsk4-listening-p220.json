@@ -1,0 +1,179 @@
+{
+ "id": "hsk4-listening-p220",
+ "level": "4",
+ "section": "listening",
+ "partKey": "listening-p2",
+ "title": "HSK4 Listening P2",
+ "titleZh": "听力 第二部分（听短文选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听下面的短文，然后回答6个问题。每道题有四个选项，请选择正确的答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "小王是哪国人？",
+     "correctAnswer": "C",
+     "explanation": "小王在自我介绍时明确说自己是美国人。",
+     "options": [
+      {
+       "label": "A",
+       "text": "中国人"
+      },
+      {
+       "label": "B",
+       "text": "法国人"
+      },
+      {
+       "label": "C",
+       "text": "美国人"
+      },
+      {
+       "label": "D",
+       "text": "英国人"
+      }
+     ]
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "小王来中国学习汉语多长时间了？",
+     "correctAnswer": "D",
+     "explanation": "文中提到‘来中国学习汉语已经两年了’。",
+     "options": [
+      {
+       "label": "A",
+       "text": "一年"
+      },
+      {
+       "label": "B",
+       "text": "四年"
+      },
+      {
+       "label": "C",
+       "text": "三年"
+      },
+      {
+       "label": "D",
+       "text": "两年"
+      }
+     ]
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "刚来的时候，小王的汉语水平怎么样？",
+     "correctAnswer": "C",
+     "explanation": "小王说刚来时‘汉语水平很低’，所以不好。",
+     "options": [
+      {
+       "label": "A",
+       "text": "很好"
+      },
+      {
+       "label": "B",
+       "text": "一般"
+      },
+      {
+       "label": "C",
+       "text": "不好"
+      },
+      {
+       "label": "D",
+       "text": "非常流利"
+      }
+     ]
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "小王主要通过什么方式提高汉语？",
+     "correctAnswer": "A",
+     "explanation": "文中说‘每天和中国人聊天’是提高汉语的主要方式之一。",
+     "options": [
+      {
+       "label": "A",
+       "text": "每天和中国人聊天"
+      },
+      {
+       "label": "B",
+       "text": "只跟老师学习"
+      },
+      {
+       "label": "C",
+       "text": "经常去旅行"
+      },
+      {
+       "label": "D",
+       "text": "只看中文电影"
+      }
+     ]
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "小王和小李是什么关系？",
+     "correctAnswer": "C",
+     "explanation": "小王称小李为‘我最好的朋友’。",
+     "options": [
+      {
+       "label": "A",
+       "text": "老师"
+      },
+      {
+       "label": "B",
+       "text": "同学"
+      },
+      {
+       "label": "C",
+       "text": "朋友"
+      },
+      {
+       "label": "D",
+       "text": "同事"
+      }
+     ]
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "上个周末他们做了什么？",
+     "correctAnswer": "A",
+     "explanation": "文中明确说‘上个周末，我们一起去爬长城’。",
+     "options": [
+      {
+       "label": "A",
+       "text": "爬长城"
+      },
+      {
+       "label": "B",
+       "text": "买东西"
+      },
+      {
+       "label": "C",
+       "text": "看电影"
+      },
+      {
+       "label": "D",
+       "text": "聊天"
+      }
+     ]
+    }
+   ],
+   "audio": {
+    "key": "listening/v1/8d031c3dc579857189efff2192b5327e833ca7c3387fecea8fae13110a1b935e.mp3",
+    "lines": [
+     {
+      "speaker": "旁白",
+      "voice": "narrator",
+      "text": "我叫小王，我是美国人，来中国学习汉语已经两年了。刚来的时候，我的汉语水平很低，常常听不懂别人说什么。后来我每天和中国人聊天，看中文电影，慢慢地进步了很多。现在我可以用汉语买东西、问路，还能和朋友一起讨论问题。我最好的朋友小李是个中国人，他教我很多关于中国文化的知识。上个周末，我们一起去爬长城，虽然很累，但是很开心。通过这次经历，我觉得学习语言最好的方法是多练习、多交流。"
+     }
+    ],
+    "transcript": "我叫小王，我是美国人，来中国学习汉语已经两年了。刚来的时候，我的汉语水平很低，常常听不懂别人说什么。后来我每天和中国人聊天，看中文电影，慢慢地进步了很多。现在我可以用汉语买东西、问路，还能和朋友一起讨论问题。我最好的朋友小李是个中国人，他教我很多关于中国文化的知识。上个周末，我们一起去爬长城，虽然很累，但是很开心。通过这次经历，我觉得学习语言最好的方法是多练习、多交流。",
+    "transcriptPinyin": null
+   }
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

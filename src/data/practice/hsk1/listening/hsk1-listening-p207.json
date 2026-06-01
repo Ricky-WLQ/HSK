@@ -1,0 +1,202 @@
+{
+ "id": "hsk1-listening-p207",
+ "level": "1",
+ "section": "listening",
+ "partKey": "listening-p2",
+ "title": "HSK1 Listening P2",
+ "titleZh": "听力 第二部分（听句子选答语）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "听录音，选出正确的答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "今天星期几？",
+     "correctAnswer": "A",
+     "explanation": "录音说今天是星期一，所以正确答案是星期一。",
+     "audio": {
+      "key": "listening/v1/846fffe42cf818cd0c21e6162ff2af3b826091362db745a6ec4d8ca93575cef4.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "今天星期一。"
+       }
+      ],
+      "transcript": "今天星期一。",
+      "transcriptPinyin": "jīn tiān xīng qī yī 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "星期一",
+       "pinyin": "xīng qī yī"
+      },
+      {
+       "label": "B",
+       "text": "星期三",
+       "pinyin": "xīng qī sān"
+      },
+      {
+       "label": "C",
+       "text": "星期二",
+       "pinyin": "xīng qī èr"
+      }
+     ],
+     "pinyin": "jīn tiān xīng qī jǐ ？"
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "他今年多大？",
+     "correctAnswer": "C",
+     "explanation": "录音说他今年八岁，所以正确答案是八岁。",
+     "audio": {
+      "key": "listening/v1/55b5679629eeab6952248308de3dd1650eb4ecf2f0ddd216b5b613ad1de8e919.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "他今年八岁。"
+       }
+      ],
+      "transcript": "他今年八岁。",
+      "transcriptPinyin": "tā jīn nián bā suì 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "九岁",
+       "pinyin": "jiǔ suì"
+      },
+      {
+       "label": "B",
+       "text": "七岁",
+       "pinyin": "qī suì"
+      },
+      {
+       "label": "C",
+       "text": "八岁",
+       "pinyin": "bā suì"
+      }
+     ],
+     "pinyin": "tā jīn nián duō dà ？"
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "猫是什么颜色？",
+     "correctAnswer": "C",
+     "explanation": "录音说猫是白色的，所以正确答案是白色。",
+     "audio": {
+      "key": "listening/v1/789b78620de10e752be7ef0446fee88d9db90d8b5be885cb680a6110183ec186.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我的猫是白色的。"
+       }
+      ],
+      "transcript": "我的猫是白色的。",
+      "transcriptPinyin": "wǒ de māo shì bái sè de 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "黑色",
+       "pinyin": "hēi sè"
+      },
+      {
+       "label": "B",
+       "text": "红色",
+       "pinyin": "hóng sè"
+      },
+      {
+       "label": "C",
+       "text": "白色",
+       "pinyin": "bái sè"
+      }
+     ],
+     "pinyin": "māo shì shén me yán sè ？"
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "妈妈在哪里？",
+     "correctAnswer": "B",
+     "explanation": "录音说妈妈在厨房做饭，所以正确答案是厨房。",
+     "audio": {
+      "key": "listening/v1/c9029017462475bad4819b6723a15992ffbee5a24b90a4a62d3aee1a272a4a38.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "妈妈在厨房做饭。"
+       }
+      ],
+      "transcript": "妈妈在厨房做饭。",
+      "transcriptPinyin": "mā mā zài chú fáng zuò fàn 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "卧室",
+       "pinyin": "wò shì"
+      },
+      {
+       "label": "B",
+       "text": "厨房",
+       "pinyin": "chú fáng"
+      },
+      {
+       "label": "C",
+       "text": "客厅",
+       "pinyin": "kè tīng"
+      }
+     ],
+     "pinyin": "mā mā zài nǎ lǐ ？"
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "我有几个苹果？",
+     "correctAnswer": "C",
+     "explanation": "录音说有三个苹果，所以正确答案是三个。",
+     "audio": {
+      "key": "listening/v1/3efe099f10bb3bb9bee38a44e953ca434b2db2e39ce1e5f8b83600e8f5e0490c.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我有三个苹果。"
+       }
+      ],
+      "transcript": "我有三个苹果。",
+      "transcriptPinyin": "wǒ yǒu sān gè píng guǒ 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "两个",
+       "pinyin": "liǎng gè"
+      },
+      {
+       "label": "B",
+       "text": "四个",
+       "pinyin": "sì gè"
+      },
+      {
+       "label": "C",
+       "text": "三个",
+       "pinyin": "sān gè"
+      }
+     ],
+     "pinyin": "wǒ yǒu jǐ gè píng guǒ ？"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

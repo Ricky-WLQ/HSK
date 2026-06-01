@@ -1,0 +1,605 @@
+{
+ "id": "hsk4-listening-p102",
+ "level": "4",
+ "section": "listening",
+ "partKey": "listening-p1",
+ "title": "HSK4 Listening P1",
+ "titleZh": "听力 第一部分（听对话选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "听对话，然后根据对话内容选择正确答案。每个对话后有一个问题，请从A、B、C、D四个选项中选出最佳答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "那本书现在在哪里？",
+     "correctAnswer": "C",
+     "explanation": "对话中女的说那本书被别人借走了，所以书不在图书馆，而是被其他人借走了。",
+     "audio": {
+      "key": "listening/v1/48d258f7875f765890dd0df8ca15193e7618137ecbc42518b2c0cae3e880e295.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你昨天去图书馆了吗？我想借的那本书有没有？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "去了，但是那本书被别人借走了。不过我看到有一本新的，内容差不多。"
+       }
+      ],
+      "transcript": "你昨天去图书馆了吗？我想借的那本书有没有？ 去了，但是那本书被别人借走了。不过我看到有一本新的，内容差不多。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "是一本新书"
+      },
+      {
+       "label": "B",
+       "text": "在图书馆里"
+      },
+      {
+       "label": "C",
+       "text": "被别人借走了"
+      },
+      {
+       "label": "D",
+       "text": "被女的买走了"
+      }
+     ]
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "关于男的考试，下面哪个是对的？",
+     "correctAnswer": "A",
+     "explanation": "男的说比上次好一些，说明有进步，但没及格，所以还需要复习。",
+     "audio": {
+      "key": "listening/v1/343afd8a42ec49662cc4bd3b5202aeca4475a2418509f6c7c78090edace870f6.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你这次考试考得怎么样？有没有进步？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "比上次好一些，但是还是没及格。我觉得我需要多花时间复习。"
+       }
+      ],
+      "transcript": "你这次考试考得怎么样？有没有进步？ 比上次好一些，但是还是没及格。我觉得我需要多花时间复习。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "他比上次有进步"
+      },
+      {
+       "label": "B",
+       "text": "他考及格了"
+      },
+      {
+       "label": "C",
+       "text": "他考得比上次差"
+      },
+      {
+       "label": "D",
+       "text": "他不需要再复习了"
+      }
+     ]
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "女的建议带什么？",
+     "correctAnswer": "A",
+     "explanation": "女的说山顶很冷，得带件外套，所以建议带外套。",
+     "audio": {
+      "key": "listening/v1/89af6f3d0c2d65f6a50068507b9a881da3a67e31845c21f6719b5cd9761162d6.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "周末我们去爬山吧？最近天气很好。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "好啊，不过我听说山顶很冷，得带件外套。"
+       }
+      ],
+      "transcript": "周末我们去爬山吧？最近天气很好。 好啊，不过我听说山顶很冷，得带件外套。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "外套"
+      },
+      {
+       "label": "B",
+       "text": "雨伞"
+      },
+      {
+       "label": "C",
+       "text": "食物"
+      },
+      {
+       "label": "D",
+       "text": "水"
+      }
+     ]
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "男的为什么换手机？",
+     "correctAnswer": "A",
+     "explanation": "男的说喜欢试试新的，而且这次的功能更多、拍照更好，所以是因为喜欢新功能。",
+     "audio": {
+      "key": "listening/v1/6ce083642a70147d62edc26220f58b30699a1395aaad9b13d1453a900ff05e04.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你的手机怎么又换了？这个月已经是第三次了吧？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "没办法，我总喜欢试试新的。这次这个功能更多，拍照也更好。"
+       }
+      ],
+      "transcript": "你的手机怎么又换了？这个月已经是第三次了吧？ 没办法，我总喜欢试试新的。这次这个功能更多，拍照也更好。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "因为他喜欢新功能"
+      },
+      {
+       "label": "B",
+       "text": "因为旧手机坏了"
+      },
+      {
+       "label": "C",
+       "text": "因为朋友送了他一个"
+      },
+      {
+       "label": "D",
+       "text": "因为手机丢了"
+      }
+     ]
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "女的觉得这家餐厅怎么样？",
+     "correctAnswer": "D",
+     "explanation": "女的说鱼很新鲜，但价格贵了一点，所以鱼新鲜但价格贵。",
+     "audio": {
+      "key": "listening/v1/754cc53edbea125578866fdb653775844d9cc7b0556a546dba175f16189c54a0.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "这家餐厅的菜味道怎么样？我还没来过。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我觉得不错，特别是他们的鱼，很新鲜。不过价格稍微贵了一点。"
+       }
+      ],
+      "transcript": "这家餐厅的菜味道怎么样？我还没来过。 我觉得不错，特别是他们的鱼，很新鲜。不过价格稍微贵了一点。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "菜不好吃但便宜"
+      },
+      {
+       "label": "B",
+       "text": "所有菜都很便宜"
+      },
+      {
+       "label": "C",
+       "text": "服务态度很差"
+      },
+      {
+       "label": "D",
+       "text": "鱼很新鲜但价格贵"
+      }
+     ]
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "男的担心什么？",
+     "correctAnswer": "A",
+     "explanation": "男的说六点出发，问女的起得来吗，说明担心女的起不来。",
+     "audio": {
+      "key": "listening/v1/75b5f28bfd6b4b9972c76f3412b35f7aec3b5651f5dee07726c74d618c9378fc.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你明天早上能送我去机场吗？我的飞机是八点的。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "没问题，但是六点就要出发，你起得来吗？"
+       }
+      ],
+      "transcript": "你明天早上能送我去机场吗？我的飞机是八点的。 没问题，但是六点就要出发，你起得来吗？",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "女的不想起床"
+      },
+      {
+       "label": "B",
+       "text": "自己会迟到"
+      },
+      {
+       "label": "C",
+       "text": "飞机晚点"
+      },
+      {
+       "label": "D",
+       "text": "路太远"
+      }
+     ]
+    },
+    {
+     "id": "q7",
+     "type": "listening-mcq",
+     "prompt": "女的为什么还没决定去旅游？",
+     "correctAnswer": "C",
+     "explanation": "女的说很想去海边，但时间不太合适，所以是因为时间问题没决定。",
+     "audio": {
+      "key": "listening/v1/3ca3f49fdcfa902ecac431cb00e8e65b0f38cb89171d1b307dc716fa9f14f46e.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我们公司下个月要组织一次旅游，你报名了吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "还没有，我在考虑去不去。听说地点是海边，我很想去，但是时间不太合适。"
+       }
+      ],
+      "transcript": "我们公司下个月要组织一次旅游，你报名了吗？ 还没有，我在考虑去不去。听说地点是海边，我很想去，但是时间不太合适。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "她没钱"
+      },
+      {
+       "label": "B",
+       "text": "她不想跟同事一起"
+      },
+      {
+       "label": "C",
+       "text": "她没时间"
+      },
+      {
+       "label": "D",
+       "text": "她不喜欢海边"
+      }
+     ]
+    },
+    {
+     "id": "q8",
+     "type": "listening-mcq",
+     "prompt": "男的最擅长做什么菜？",
+     "correctAnswer": "C",
+     "explanation": "男的说最拿手的是西红柿炒鸡蛋。",
+     "audio": {
+      "key": "listening/v1/080b694fb586f351422c4af9838d18279aafb00f3438e8eefa6c1d000e709c9a.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你最近在学什么？好像很忙的样子。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我在学做菜，跟着网上视频学。已经会做几个菜了，不过最拿手的是西红柿炒鸡蛋。"
+       }
+      ],
+      "transcript": "你最近在学什么？好像很忙的样子。 我在学做菜，跟着网上视频学。已经会做几个菜了，不过最拿手的是西红柿炒鸡蛋。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "鱼香肉丝"
+      },
+      {
+       "label": "B",
+       "text": "麻婆豆腐"
+      },
+      {
+       "label": "C",
+       "text": "西红柿炒鸡蛋"
+      },
+      {
+       "label": "D",
+       "text": "宫保鸡丁"
+      }
+     ]
+    },
+    {
+     "id": "q9",
+     "type": "listening-mcq",
+     "prompt": "女的为什么没上课？",
+     "correctAnswer": "A",
+     "explanation": "女的说感冒了头疼，所以在家休息，因为生病了。",
+     "audio": {
+      "key": "listening/v1/80203c39f7b933c2074190c406ae4c3e8134d2afbcada02826843a4a467d4750.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你昨天怎么没来上课？老师讲了很多重要的内容。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我感冒了，头很疼，所以在家休息了一天。你能把笔记借给我看看吗？"
+       }
+      ],
+      "transcript": "你昨天怎么没来上课？老师讲了很多重要的内容。 我感冒了，头很疼，所以在家休息了一天。你能把笔记借给我看看吗？",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "她生病了"
+      },
+      {
+       "label": "B",
+       "text": "她忘记了"
+      },
+      {
+       "label": "C",
+       "text": "她不喜欢老师"
+      },
+      {
+       "label": "D",
+       "text": "她有别的安排"
+      }
+     ]
+    },
+    {
+     "id": "q10",
+     "type": "listening-mcq",
+     "prompt": "男的对衣服有什么看法？",
+     "correctAnswer": "B",
+     "explanation": "男的说有点紧，意思就是衣服太小了。",
+     "audio": {
+      "key": "listening/v1/74c7ec7a863c720bfd75b97fe17b4bcbb1f09f8e7a3f9d03dabb5afc2a58e4fc.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "这件衣服你穿起来很合适，颜色也好看。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "是吗？我觉得有点紧，可能我最近胖了。"
+       }
+      ],
+      "transcript": "这件衣服你穿起来很合适，颜色也好看。 是吗？我觉得有点紧，可能我最近胖了。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "他觉得衣服很漂亮"
+      },
+      {
+       "label": "B",
+       "text": "他觉得衣服有点小"
+      },
+      {
+       "label": "C",
+       "text": "他觉得颜色不好看"
+      },
+      {
+       "label": "D",
+       "text": "他觉得衣服太大了"
+      }
+     ]
+    },
+    {
+     "id": "q11",
+     "type": "listening-mcq",
+     "prompt": "女的这周末要做什么？",
+     "correctAnswer": "A",
+     "explanation": "女的说这周末要去参加朋友的婚礼。",
+     "audio": {
+      "key": "listening/v1/944dcd7b0fbbcfb3c1ac814bd041d22c4391e8343ddbd2d9967ef45056aa9862.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "这个周末你有什么打算？要不要一起去看电影？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "这周末不行，我要去参加一个朋友的婚礼。下周吧，下周我有空。"
+       }
+      ],
+      "transcript": "这个周末你有什么打算？要不要一起去看电影？ 这周末不行，我要去参加一个朋友的婚礼。下周吧，下周我有空。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "参加婚礼"
+      },
+      {
+       "label": "B",
+       "text": "出差"
+      },
+      {
+       "label": "C",
+       "text": "看电影"
+      },
+      {
+       "label": "D",
+       "text": "在家休息"
+      }
+     ]
+    },
+    {
+     "id": "q12",
+     "type": "listening-mcq",
+     "prompt": "男的现在怎么上班？",
+     "correctAnswer": "B",
+     "explanation": "男的说现在改坐地铁了，所以目前是坐地铁上班。",
+     "audio": {
+      "key": "listening/v1/2d2a6d47aebc2b0ba1a40b964d475293b0758d748080f02d8412a76ee2a9f724.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你每天怎么去上班？开车还是坐地铁？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "以前开车，但是现在油价太贵了，所以我改坐地铁了。虽然挤一点，但是省钱。"
+       }
+      ],
+      "transcript": "你每天怎么去上班？开车还是坐地铁？ 以前开车，但是现在油价太贵了，所以我改坐地铁了。虽然挤一点，但是省钱。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "走路"
+      },
+      {
+       "label": "B",
+       "text": "坐地铁"
+      },
+      {
+       "label": "C",
+       "text": "开车"
+      },
+      {
+       "label": "D",
+       "text": "骑自行车"
+      }
+     ]
+    },
+    {
+     "id": "q13",
+     "type": "listening-mcq",
+     "prompt": "女的现在最喜欢的运动是什么？",
+     "correctAnswer": "B",
+     "explanation": "女的说现在改游泳了，所以现在最喜欢的运动是游泳。",
+     "audio": {
+      "key": "listening/v1/3c29db72cc33e49a1a851a7cea95a5d24a8cfc81941ea1aa35823095e2692818.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你最喜欢什么运动？我经常打篮球。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我以前喜欢跑步，但是后来膝盖受伤了，现在改游泳了，游泳对膝盖比较好。"
+       }
+      ],
+      "transcript": "你最喜欢什么运动？我经常打篮球。 我以前喜欢跑步，但是后来膝盖受伤了，现在改游泳了，游泳对膝盖比较好。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "篮球"
+      },
+      {
+       "label": "B",
+       "text": "游泳"
+      },
+      {
+       "label": "C",
+       "text": "跑步"
+      },
+      {
+       "label": "D",
+       "text": "网球"
+      }
+     ]
+    },
+    {
+     "id": "q14",
+     "type": "listening-mcq",
+     "prompt": "男的这次旅行打算去多久？",
+     "correctAnswer": "D",
+     "explanation": "男的说假期只有五天，所以只能去五天。",
+     "audio": {
+      "key": "listening/v1/144e1ee1b959748a54971888c8c61be6408860ff511a8fbd4a00771a2188c28e.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你这次旅行打算去几天？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "本来计划去一个星期，但是假期只有五天，所以只能缩短行程了。"
+       }
+      ],
+      "transcript": "你这次旅行打算去几天？ 本来计划去一个星期，但是假期只有五天，所以只能缩短行程了。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "七天"
+      },
+      {
+       "label": "B",
+       "text": "三天"
+      },
+      {
+       "label": "C",
+       "text": "十天"
+      },
+      {
+       "label": "D",
+       "text": "五天"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

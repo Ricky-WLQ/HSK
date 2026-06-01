@@ -1,0 +1,387 @@
+{
+ "id": "hsk3-listening-p307",
+ "level": "3",
+ "section": "listening",
+ "partKey": "listening-p3",
+ "title": "HSK3 Listening P3",
+ "titleZh": "听力 第三部分（听短文选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听一段录音，然后根据录音内容选择正确的答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "根据录音，小王为什么不愿意出去？",
+     "correctAnswer": "B",
+     "explanation": "录音中提到风很冷，所以小王不愿意出去，选项A正确；选项B太阳大但冷，不是原因；选项C是喜欢在家看书，但直接原因是冷。",
+     "audio": {
+      "key": "listening/v1/38d657e1f83bdfdcf15b1d9c4b36cbf2e5d5857a1c8461ec858ec6ac4963c412.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "今天天气很好，太阳很大，但是风也很冷。小王说他不愿意出去，因为他觉得外面太冷了，他喜欢在家里看书。"
+       }
+      ],
+      "transcript": "今天天气很好，太阳很大，但是风也很冷。小王说他不愿意出去，因为他觉得外面太冷了，他喜欢在家里看书。",
+      "transcriptPinyin": "jīn tiān tiān qì hěn hǎo ， tài yáng hěn dà ， dàn shì fēng yě hěn lěng 。 xiǎo wáng shuō tā bù yuàn yì chū qù ， yīn wèi tā jué de wài miàn tài lěng le ， tā xǐ huān zài jiā lǐ kàn shū 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "因为外面太阳很大",
+       "pinyin": "yīn wèi wài miàn tài yáng hěn dà"
+      },
+      {
+       "label": "B",
+       "text": "因为外面风很大，很冷",
+       "pinyin": "yīn wèi wài miàn fēng hěn dà ， hěn lěng"
+      },
+      {
+       "label": "C",
+       "text": "因为他喜欢在家里看书",
+       "pinyin": "yīn wèi tā xǐ huān zài jiā lǐ kàn shū"
+      }
+     ],
+     "pinyin": "gēn jù lù yīn ， xiǎo wáng wèi shén me bù yuàn yì chū qù ？"
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "这个人打算怎么做？",
+     "correctAnswer": "A",
+     "explanation": "录音中说打算问爸爸妈妈喜欢什么颜色，所以选项B正确。",
+     "audio": {
+      "key": "listening/v1/4cb5889da6c1a69ce37dc012db06e97d8a5b563698224f15af469133f47dcbdd.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "明天是妈妈的生日，我想给妈妈买一件衣服。但是我不知道妈妈喜欢什么颜色，所以我打算问一下爸爸。"
+       }
+      ],
+      "transcript": "明天是妈妈的生日，我想给妈妈买一件衣服。但是我不知道妈妈喜欢什么颜色，所以我打算问一下爸爸。",
+      "transcriptPinyin": "míng tiān shì mā mā de shēng rì ， wǒ xiǎng gěi mā mā mǎi yī jiàn yī fú 。 dàn shì wǒ bù zhī dào mā mā xǐ huān shén me yán sè ， suǒ yǐ wǒ dǎ suàn wèn yī xià bà bà 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "问爸爸妈妈喜欢什么颜色",
+       "pinyin": "wèn bà bà mā mā xǐ huān shén me yán sè"
+      },
+      {
+       "label": "B",
+       "text": "直接买一件衣服",
+       "pinyin": "zhí jiē mǎi yī jiàn yī fú"
+      },
+      {
+       "label": "C",
+       "text": "等妈妈自己说喜欢什么",
+       "pinyin": "děng mā mā zì jǐ shuō xǐ huān shén me"
+      }
+     ],
+     "pinyin": "zhè ge rén dǎ suàn zěn me zuò ？"
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "医生给小张的建议是什么？",
+     "correctAnswer": "C",
+     "explanation": "录音中医生建议少吃糖，每天刷牙两次，所以选项B正确。",
+     "audio": {
+      "key": "listening/v1/330f60bf6b24e09ae1de7f9e90e3d640071bc510cd5e1dcb93524a0820481b1e.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "小张今天去医院了，因为他牙疼。医生说他应该少吃糖，每天刷牙两次。小张说以后会注意的。"
+       }
+      ],
+      "transcript": "小张今天去医院了，因为他牙疼。医生说他应该少吃糖，每天刷牙两次。小张说以后会注意的。",
+      "transcriptPinyin": "xiǎo zhāng jīn tiān qù yī yuàn le ， yīn wèi tā yá téng 。 yī shēng shuō tā yīng gāi shǎo chī táng ， měi tiān shuā yá liǎng cì 。 xiǎo zhāng shuō yǐ hòu huì zhù yì de 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "不去医院，注意休息",
+       "pinyin": "bù qù yī yuàn ， zhù yì xiū xī"
+      },
+      {
+       "label": "B",
+       "text": "多吃糖，多刷牙",
+       "pinyin": "duō chī táng ， duō shuā yá"
+      },
+      {
+       "label": "C",
+       "text": "少吃糖，每天刷牙两次",
+       "pinyin": "shǎo chī táng ， měi tiān shuā yá liǎng cì"
+      }
+     ],
+     "pinyin": "yī shēng gěi xiǎo zhāng de jiàn yì shì shén me ？"
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "李华每天怎么去学校？",
+     "correctAnswer": "B",
+     "explanation": "录音中明确说李华坐公共汽车去学校，所以选项B正确。",
+     "audio": {
+      "key": "listening/v1/9917b1631f4ef85040ef770a4002ea43a58ce467bdd35ac694438d99edd3fd8f.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "李华的家离学校很远，他每天早上坐公共汽车去学校。路上要花一个小时。所以他每天六点就起床了。"
+       }
+      ],
+      "transcript": "李华的家离学校很远，他每天早上坐公共汽车去学校。路上要花一个小时。所以他每天六点就起床了。",
+      "transcriptPinyin": "lǐ huá de jiā lí xué xiào hěn yuǎn ， tā měi tiān zǎo shàng zuò gōng gòng qì chē qù xué xiào 。 lù shàng yào huā yí gè xiǎo shí 。 suǒ yǐ tā měi tiān liù diǎn jiù qǐ chuáng le 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "骑自行车去学校",
+       "pinyin": "qí zì xíng chē qù xué xiào"
+      },
+      {
+       "label": "B",
+       "text": "坐公共汽车去学校",
+       "pinyin": "zuò gōng gòng qì chē qù xué xiào"
+      },
+      {
+       "label": "C",
+       "text": "走路去学校",
+       "pinyin": "zǒu lù qù xué xiào"
+      }
+     ],
+     "pinyin": "lǐ huá měi tiān zěn me qù xué xiào ？"
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "这个人昨天在书店做了什么？",
+     "correctAnswer": "B",
+     "explanation": "录音中说买了下来，是一本故事书，所以选项B正确。",
+     "audio": {
+      "key": "listening/v1/df9b68d66fc7f3086211aa3730ebbba541f89ae09c796c2c616e9b403bf9f0d3.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "昨天我去书店买书，看到了一本很有意思的故事书。我买了下来，打算今天晚上开始看。"
+       }
+      ],
+      "transcript": "昨天我去书店买书，看到了一本很有意思的故事书。我买了下来，打算今天晚上开始看。",
+      "transcriptPinyin": "zuó tiān wǒ qù shū diàn mǎi shū ， kàn dào le yī běn hěn yǒu yì si de gù shì shū 。 wǒ mǎi le xià lái ， dǎ suàn jīn tiān wǎn shàng kāi shǐ kàn 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "买了一本学习用的书",
+       "pinyin": "mǎi le yī běn xué xí yòng de shū"
+      },
+      {
+       "label": "B",
+       "text": "买了一本故事书",
+       "pinyin": "mǎi le yī běn gù shì shū"
+      },
+      {
+       "label": "C",
+       "text": "只是看了看书，没买",
+       "pinyin": "zhǐ shì kàn le kàn shū ， méi mǎi"
+      }
+     ],
+     "pinyin": "zhè ge rén zuó tiān zài shū diàn zuò le shén me ？"
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "他们明天早上什么时候见面？",
+     "correctAnswer": "A",
+     "explanation": "录音中明确说时间是七点半，所以选项B正确。",
+     "audio": {
+      "key": "listening/v1/a464235b2acd900ba8ca06d421f962fd5926e55e100bf62700e78f456ad9e86c.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "明天早上我要和我的朋友一起跑步。我们约好了在公园门口见面。时间是七点半。"
+       }
+      ],
+      "transcript": "明天早上我要和我的朋友一起跑步。我们约好了在公园门口见面。时间是七点半。",
+      "transcriptPinyin": "míng tiān zǎo shàng wǒ yào hé wǒ de péng yǒu yì qǐ pǎo bù 。 wǒ men yuē hǎo le zài gōng yuán mén kǒu jiàn miàn 。 shí jiān shì qī diǎn bàn 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "早上七点半",
+       "pinyin": "zǎo shàng qī diǎn bàn"
+      },
+      {
+       "label": "B",
+       "text": "早上八点半",
+       "pinyin": "zǎo shàng bā diǎn bàn"
+      },
+      {
+       "label": "C",
+       "text": "早上六点半",
+       "pinyin": "zǎo shàng liù diǎn bàn"
+      }
+     ],
+     "pinyin": "tā men míng tiān zǎo shàng shén me shí hòu jiàn miàn ？"
+    },
+    {
+     "id": "q7",
+     "type": "listening-mcq",
+     "prompt": "下雨了，这个人怎么去吃饭？",
+     "correctAnswer": "B",
+     "explanation": "录音中说小刘让她一起打伞去，所以选项B正确。",
+     "audio": {
+      "key": "listening/v1/74d3cd053adead46a895a3bc7c1b89403e04a319735dc59acb676a1748aa9eaf.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "下雨了，我没有带伞。我的朋友小刘有伞，她让我和她一起打伞去吃饭。我们去了学校旁边的饭馆。"
+       }
+      ],
+      "transcript": "下雨了，我没有带伞。我的朋友小刘有伞，她让我和她一起打伞去吃饭。我们去了学校旁边的饭馆。",
+      "transcriptPinyin": "xià yǔ le ， wǒ méi yǒu dài sǎn 。 wǒ de péng yǒu xiǎo liú yǒu sǎn ， tā ràng wǒ hé tā yì qǐ dǎ sǎn qù chī fàn 。 wǒ men qù le xué xiào páng biān de fàn guǎn 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "自己跑着去",
+       "pinyin": "zì jǐ pǎo zhe qù"
+      },
+      {
+       "label": "B",
+       "text": "和小刘一起打伞去",
+       "pinyin": "hé xiǎo liú yì qǐ dǎ sǎn qù"
+      },
+      {
+       "label": "C",
+       "text": "等雨停了再去",
+       "pinyin": "děng yǔ tíng le zài qù"
+      }
+     ],
+     "pinyin": "xià yǔ le ， zhè ge rén zěn me qù chī fàn ？"
+    },
+    {
+     "id": "q8",
+     "type": "listening-mcq",
+     "prompt": "王老师上课时常常做什么？",
+     "correctAnswer": "A",
+     "explanation": "录音中说王老师常常讲中国故事，所以选项B正确。",
+     "audio": {
+      "key": "listening/v1/5ff5903006406d58bc2989039f2f1a504f41045e47d6d64d4ea14bd26fc57734.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "王老师教我们中文，她上课很有意思。她常常给我们讲中国故事，我们都很喜欢她。"
+       }
+      ],
+      "transcript": "王老师教我们中文，她上课很有意思。她常常给我们讲中国故事，我们都很喜欢她。",
+      "transcriptPinyin": "wáng lǎo shī jiào wǒ men zhōng wén ， tā shàng kè hěn yǒu yì si 。 tā cháng cháng gěi wǒ men jiǎng zhōng guó gù shì ， wǒ men dōu hěn xǐ huān tā 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "给学生们讲中国故事",
+       "pinyin": "gěi xué shēng men jiǎng zhōng guó gù shì"
+      },
+      {
+       "label": "B",
+       "text": "让学生们自己看书",
+       "pinyin": "ràng xué shēng men zì jǐ kàn shū"
+      },
+      {
+       "label": "C",
+       "text": "带学生们出去玩",
+       "pinyin": "dài xué shēng men chū qù wán"
+      }
+     ],
+     "pinyin": "wáng lǎo shī shàng kè shí cháng cháng zuò shén me ？"
+    },
+    {
+     "id": "q9",
+     "type": "listening-mcq",
+     "prompt": "哥哥什么时候回家看妈妈？",
+     "correctAnswer": "B",
+     "explanation": "录音中说每个周末都会回家看妈妈，所以选项A正确。",
+     "audio": {
+      "key": "listening/v1/f440092204442e89b189bc3ffd4275caa2dc9ff3d27c3ff0604667eedd5982d5.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我哥哥在银行工作，他每天工作很忙。但是他每个周末都会回家看妈妈，妈妈很高兴。"
+       }
+      ],
+      "transcript": "我哥哥在银行工作，他每天工作很忙。但是他每个周末都会回家看妈妈，妈妈很高兴。",
+      "transcriptPinyin": "wǒ gē gē zài yín háng gōng zuò ， tā měi tiān gōng zuò hěn máng 。 dàn shì tā měi gè zhōu mò dū huì huí jiā kàn mā mā ， mā mā hěn gāo xìng 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "每天下班后",
+       "pinyin": "měi tiān xià bān hòu"
+      },
+      {
+       "label": "B",
+       "text": "每个周末",
+       "pinyin": "měi gè zhōu mò"
+      },
+      {
+       "label": "C",
+       "text": "每个月一次",
+       "pinyin": "měi gè yuè yī cì"
+      }
+     ],
+     "pinyin": "gē gē shén me shí hòu huí jiā kàn mā mā ？"
+    },
+    {
+     "id": "q10",
+     "type": "listening-mcq",
+     "prompt": "这个人打算怎么学做中国菜？",
+     "correctAnswer": "B",
+     "explanation": "录音中说我请妈妈教我，所以选项B正确。",
+     "audio": {
+      "key": "listening/v1/ca88c15fb53166402ca3b4bd29584b7ec8989e8ef86e3366e17df9018ee9335f.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我想学做中国菜。我妈妈做菜很好吃，所以我请她教我。我们决定这个星期六下午一起做菜。"
+       }
+      ],
+      "transcript": "我想学做中国菜。我妈妈做菜很好吃，所以我请她教我。我们决定这个星期六下午一起做菜。",
+      "transcriptPinyin": "wǒ xiǎng xué zuò zhōng guó cài 。 wǒ mā mā zuò cài hěn hǎo chī ， suǒ yǐ wǒ qǐng tā jiào wǒ 。 wǒ men jué dìng zhè ge xīng qī liù xià wǔ yì qǐ zuò cài 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "在网上看视频学",
+       "pinyin": "zài wǎng shàng kàn shì pín xué"
+      },
+      {
+       "label": "B",
+       "text": "请妈妈教她",
+       "pinyin": "qǐng mā mā jiào tā"
+      },
+      {
+       "label": "C",
+       "text": "去饭馆学",
+       "pinyin": "qù fàn guǎn xué"
+      }
+     ],
+     "pinyin": "zhè ge rén dǎ suàn zěn me xué zuò zhōng guó cài ？"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

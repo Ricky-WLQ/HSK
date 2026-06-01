@@ -1,0 +1,289 @@
+{
+ "id": "hsk3-listening-p119",
+ "level": "3",
+ "section": "listening",
+ "partKey": "listening-p1",
+ "title": "HSK3 Listening P1",
+ "titleZh": "听力 第一部分（看图听对话）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听对话，选择与对话内容相符的图片。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "A",
+     "explanation": "对话中提到‘看书’和‘图书馆’，所以图片A一个人在看书的场景正确。",
+     "audio": {
+      "key": "listening/v1/c63cf768e92602fe8212dc382cbb12c19fd6aae90d50a1cc50fd1f0ffbbc13c6.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你在做什么？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我在看书，图书馆里很安静。"
+       }
+      ],
+      "transcript": "你在做什么？ 我在看书，图书馆里很安静。",
+      "transcriptPinyin": "nǐ zài zuò shén me ？  wǒ zài kàn shū ， tú shū guǎn lǐ hěn ān jìng 。"
+     }
+    },
+    {
+     "id": "q2",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "B",
+     "explanation": "对话中提到‘做饭’，所以图片B一个人在厨房做饭的场景正确。",
+     "audio": {
+      "key": "listening/v1/aeacbfe551c469bc8f82e47c7c6661739944ae351affe77e428429d8423210ab.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "妈妈，晚饭好了吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "再等一会儿，我正在做饭呢。"
+       }
+      ],
+      "transcript": "妈妈，晚饭好了吗？ 再等一会儿，我正在做饭呢。",
+      "transcriptPinyin": "mā mā ， wǎn fàn hǎo le ma ？  zài děng yī huì er ， wǒ zhèng zài zuò fàn ne 。"
+     }
+    },
+    {
+     "id": "q3",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "C",
+     "explanation": "对话中提到‘骑自行车’，所以图片C一个人在骑车的场景正确。",
+     "audio": {
+      "key": "listening/v1/2187857611c1b5a51aeb9015a16507090f08096eab7b243686dd6bd624258fc6.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "今天天气真好，我们出去骑自行车吧！"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "好啊，我好久没骑车了。"
+       }
+      ],
+      "transcript": "今天天气真好，我们出去骑自行车吧！ 好啊，我好久没骑车了。",
+      "transcriptPinyin": "jīn tiān tiān qì zhēn hǎo ， wǒ men chū qù qí zì xíng chē ba ！  hǎo a ， wǒ hǎo jiǔ méi qí chē le 。"
+     }
+    },
+    {
+     "id": "q4",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "D",
+     "explanation": "对话中提到‘看电视’，所以图片D一个人在沙发上看电视的场景正确。",
+     "audio": {
+      "key": "listening/v1/f7f87e8296f45479f6c526304498d71f32d9447b2d5842395371e25afc08ebcf.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你在看电视吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "是的，这个节目很有趣。"
+       }
+      ],
+      "transcript": "你在看电视吗？ 是的，这个节目很有趣。",
+      "transcriptPinyin": "nǐ zài kàn diàn shì ma ？  shì de ， zhè ge jié mù hěn yǒu qù 。"
+     }
+    },
+    {
+     "id": "q5",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "E",
+     "explanation": "对话中提到‘写信’，所以图片E一个人在写信的场景正确。",
+     "audio": {
+      "key": "listening/v1/8d67b7040ecb2a928295dba3defe0f204c693862369e6072a4c15d28553d3f20.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你在写什么？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我在给朋友写信。"
+       }
+      ],
+      "transcript": "你在写什么？ 我在给朋友写信。",
+      "transcriptPinyin": "nǐ zài xiě shén me ？  wǒ zài gěi péng yǒu xiě xìn 。"
+     }
+    },
+    {
+     "id": "q6",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "A",
+     "explanation": "对话中提到‘图书馆看书’，所以图片A一个人看书的场景正确。",
+     "audio": {
+      "key": "listening/v1/df0fe335e53d2389c0b0b601b85ad8d3101cb25ef0e2a544c7cee21793d51912.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "周末你想做什么？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我想去图书馆看书。"
+       }
+      ],
+      "transcript": "周末你想做什么？ 我想去图书馆看书。",
+      "transcriptPinyin": "zhōu mò nǐ xiǎng zuò shén me ？  wǒ xiǎng qù tú shū guǎn kàn shū 。"
+     }
+    },
+    {
+     "id": "q7",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "B",
+     "explanation": "对话中提到‘炒菜’，所以图片B一个人在厨房做饭的场景正确。",
+     "audio": {
+      "key": "listening/v1/6ff6e4e3e6dec6db1048fc16c67addb797b5732abffd2b7f039159d4ec1c979b.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我饿了，什么时候吃饭？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "等我把菜炒好，再等十分钟。"
+       }
+      ],
+      "transcript": "我饿了，什么时候吃饭？ 等我把菜炒好，再等十分钟。",
+      "transcriptPinyin": "wǒ è le ， shén me shí hòu chī fàn ？  děng wǒ bǎ cài chǎo hǎo ， zài děng shí fēn zhōng 。"
+     }
+    },
+    {
+     "id": "q8",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "C",
+     "explanation": "对话中提到‘骑自行车’，所以图片C一个人在骑车的场景正确。",
+     "audio": {
+      "key": "listening/v1/9f90abef89a0e9ac7f2c57b1ba68bdf727fd6f39939847ef740ef2ce2be3ed67.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你每天怎么去上班？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我骑自行车去，既环保又锻炼身体。"
+       }
+      ],
+      "transcript": "你每天怎么去上班？ 我骑自行车去，既环保又锻炼身体。",
+      "transcriptPinyin": "nǐ měi tiān zěn me qù shàng bān ？  wǒ qí zì xíng chē qù ， jì huán bǎo yòu duàn liàn shēn tǐ 。"
+     }
+    },
+    {
+     "id": "q9",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "D",
+     "explanation": "对话中提到‘看电视’，所以图片D一个人在沙发上看电视的场景正确。",
+     "audio": {
+      "key": "listening/v1/3d52f163f117058d6884a1d20cf5ebde21ae62c084e14c70b2f970e2a49985de.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你昨天晚上做了什么？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我在家看电视，看到很晚。"
+       }
+      ],
+      "transcript": "你昨天晚上做了什么？ 我在家看电视，看到很晚。",
+      "transcriptPinyin": "nǐ zuó tiān wǎn shàng zuò le shén me ？  wǒ zài jiā kàn diàn shì ， kàn dào hěn wǎn 。"
+     }
+    },
+    {
+     "id": "q10",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "E",
+     "explanation": "对话中提到‘写信’，所以图片E一个人在写信的场景正确。",
+     "audio": {
+      "key": "listening/v1/28e15255372fbe86302322bf05b679b2e80c9016ad1cc6e17ca5ef062fc0ce5b.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你在忙什么？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我在写信，写完了就出去。"
+       }
+      ],
+      "transcript": "你在忙什么？ 我在写信，写完了就出去。",
+      "transcriptPinyin": "nǐ zài máng shén me ？  wǒ zài xiě xìn ， xiě wán le jiù chū qù 。"
+     }
+    }
+   ],
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-f0f2a5a0dcd4c50e1a940a58adbd40c1.png"
+    },
+    {
+     "label": "B",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-a63af7e91474ea39e451a490c6a810d4.png"
+    },
+    {
+     "label": "C",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-abbbc692b463274ad55b80e8dcfac08f.png"
+    },
+    {
+     "label": "D",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-41fcb05bb5ff77803f1cbbf73a40fec6.png"
+    },
+    {
+     "label": "E",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-da5460ad129de91dd8d2fa67e0726b3e.png"
+    },
+    {
+     "label": "F",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-bab5e44e7d01018461eb01ba1fc9faa2.png"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

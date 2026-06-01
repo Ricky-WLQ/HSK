@@ -1,0 +1,605 @@
+{
+ "id": "hsk4-listening-p114",
+ "level": "4",
+ "section": "listening",
+ "partKey": "listening-p1",
+ "title": "HSK4 Listening P1",
+ "titleZh": "听力 第一部分（听对话选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听对话，然后根据对话内容选择正确答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "女的昨天为什么没来聚会？",
+     "correctAnswer": "D",
+     "explanation": "对话中女的明确说‘临时有点急事’，所以是因为临时有事才没来聚会。",
+     "audio": {
+      "key": "listening/v1/6df149261eb752f73007a08f5d0feb8a2b32d418c7b99f653904828c7ec58572.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你昨天怎么没来参加聚会？大家都挺想你的。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "实在不好意思，我临时有点急事，下次一定补上。"
+       }
+      ],
+      "transcript": "你昨天怎么没来参加聚会？大家都挺想你的。 实在不好意思，我临时有点急事，下次一定补上。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "她不喜欢聚会"
+      },
+      {
+       "label": "B",
+       "text": "她生病了"
+      },
+      {
+       "label": "C",
+       "text": "她忘了时间"
+      },
+      {
+       "label": "D",
+       "text": "她临时有事"
+      }
+     ]
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "关于这家餐厅，下面哪项是正确的？",
+     "correctAnswer": "D",
+     "explanation": "男的说菜味道不错但价格贵，女的表示同意，所以味道好但价格贵是正确的。",
+     "audio": {
+      "key": "listening/v1/18bf5bb3d0031a65c12961438d32f2af0a1a1b14b5fc6799802b9d02261c3900.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "这家餐厅的菜味道真不错，就是价格有点贵。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "是啊，不过偶尔来一次还是可以接受的。"
+       }
+      ],
+      "transcript": "这家餐厅的菜味道真不错，就是价格有点贵。 是啊，不过偶尔来一次还是可以接受的。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "环境很差"
+      },
+      {
+       "label": "B",
+       "text": "菜不好吃"
+      },
+      {
+       "label": "C",
+       "text": "价格便宜"
+      },
+      {
+       "label": "D",
+       "text": "味道好但价格贵"
+      }
+     ]
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "男的最近怎么样？",
+     "correctAnswer": "B",
+     "explanation": "男的说‘天天加班，周末都搭进去了’，说明工作很忙。",
+     "audio": {
+      "key": "listening/v1/f36ab5ff9a5b0b39ea047e812b446ea48249df5e2658c14f3d805d1721ac5be7.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你最近工作忙不忙？好久没见你出来玩了。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "别提了，天天加班，周末都搭进去了。"
+       }
+      ],
+      "transcript": "你最近工作忙不忙？好久没见你出来玩了。 别提了，天天加班，周末都搭进去了。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "经常出去玩"
+      },
+      {
+       "label": "B",
+       "text": "工作很忙"
+      },
+      {
+       "label": "C",
+       "text": "很清闲"
+      },
+      {
+       "label": "D",
+       "text": "周末休息"
+      }
+     ]
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "女的学汉语多长时间了？",
+     "correctAnswer": "D",
+     "explanation": "女的明确说‘学了一年多了’，所以是一年多。",
+     "audio": {
+      "key": "listening/v1/4d5fabd5c0dbbab6e56e5f50e2f30a85494c84aa3257083247fcd42495119845.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你的汉语说得越来越好了，学了多久了？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "谢谢，我学了一年多了，不过还是有很多地方需要提高。"
+       }
+      ],
+      "transcript": "你的汉语说得越来越好了，学了多久了？ 谢谢，我学了一年多了，不过还是有很多地方需要提高。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "刚刚开始"
+      },
+      {
+       "label": "B",
+       "text": "两年多"
+      },
+      {
+       "label": "C",
+       "text": "不到一年"
+      },
+      {
+       "label": "D",
+       "text": "一年多"
+      }
+     ]
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "明天天气如何？",
+     "correctAnswer": "D",
+     "explanation": "男的说‘明天有雨’，所以明天是下雨天。",
+     "audio": {
+      "key": "listening/v1/225de29a46cc904613b1f25589d6736cabec9a276d5eb4f49c1a34dfd913b1c9.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "明天天气怎么样？我想去爬山。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "天气预报说明天有雨，建议你改天再去。"
+       }
+      ],
+      "transcript": "明天天气怎么样？我想去爬山。 天气预报说明天有雨，建议你改天再去。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "晴天"
+      },
+      {
+       "label": "B",
+       "text": "下雪"
+      },
+      {
+       "label": "C",
+       "text": "阴天"
+      },
+      {
+       "label": "D",
+       "text": "下雨"
+      }
+     ]
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "女的下午要做什么？",
+     "correctAnswer": "C",
+     "explanation": "女的说‘下午要去机场接一个朋友’，所以是去机场接朋友。",
+     "audio": {
+      "key": "listening/v1/f4dde256e6f0a72ea36e4188d5c4b794937abb0ce697843478fff21142611be2.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你下午有空吗？我们一起去书店吧。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "不好意思，我下午要去机场接一个朋友。"
+       }
+      ],
+      "transcript": "你下午有空吗？我们一起去书店吧。 不好意思，我下午要去机场接一个朋友。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "去书店"
+      },
+      {
+       "label": "B",
+       "text": "在家休息"
+      },
+      {
+       "label": "C",
+       "text": "去机场接朋友"
+      },
+      {
+       "label": "D",
+       "text": "和朋友吃饭"
+      }
+     ]
+    },
+    {
+     "id": "q7",
+     "type": "listening-mcq",
+     "prompt": "关于这个手机，男的是什么看法？",
+     "correctAnswer": "A",
+     "explanation": "男的说‘功能很强大，就是电池不太耐用’，所以功能强大但电池不耐用。",
+     "audio": {
+      "key": "listening/v1/8b6b6d6598877260c7f6f0fe7673f5d68a1f2e2781127c545fe74a1be3ae4d3e.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "这个手机是新款吗？看起来不错。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "是的，刚上市，功能很强大，就是电池不太耐用。"
+       }
+      ],
+      "transcript": "这个手机是新款吗？看起来不错。 是的，刚上市，功能很强大，就是电池不太耐用。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "功能强大但电池不耐用"
+      },
+      {
+       "label": "B",
+       "text": "价格太贵"
+      },
+      {
+       "label": "C",
+       "text": "电池很耐用"
+      },
+      {
+       "label": "D",
+       "text": "外观不好看"
+      }
+     ]
+    },
+    {
+     "id": "q8",
+     "type": "listening-mcq",
+     "prompt": "女的喜欢哪些运动？",
+     "correctAnswer": "A",
+     "explanation": "女的说‘每周都去游泳，有时候也打羽毛球’，所以喜欢游泳和羽毛球。",
+     "audio": {
+      "key": "listening/v1/e65166afdbf5f5e8ae74b9ec43fe90228712801b0993d1294b20d38d46fed976.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你平时喜欢运动吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "喜欢，我每周都去游泳，有时候也打羽毛球。"
+       }
+      ],
+      "transcript": "你平时喜欢运动吗？ 喜欢，我每周都去游泳，有时候也打羽毛球。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "游泳和羽毛球"
+      },
+      {
+       "label": "B",
+       "text": "只有游泳"
+      },
+      {
+       "label": "C",
+       "text": "篮球和羽毛球"
+      },
+      {
+       "label": "D",
+       "text": "跑步和游泳"
+      }
+     ]
+    },
+    {
+     "id": "q9",
+     "type": "listening-mcq",
+     "prompt": "男的看过这本书了吗？",
+     "correctAnswer": "A",
+     "explanation": "男的说‘还没看’，所以还没看过。",
+     "audio": {
+      "key": "listening/v1/91ff8da7acad533ab4c52154e7bdb583ce6ab0ec6a4913a150e023ae2e23ae0d.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "这本书你看了吗？我觉得很有意思。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "还没看，最近太忙了，等有空再说吧。"
+       }
+      ],
+      "transcript": "这本书你看了吗？我觉得很有意思。 还没看，最近太忙了，等有空再说吧。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "还没看"
+      },
+      {
+       "label": "B",
+       "text": "看了一半"
+      },
+      {
+       "label": "C",
+       "text": "不太喜欢"
+      },
+      {
+       "label": "D",
+       "text": "看完了"
+      }
+     ]
+    },
+    {
+     "id": "q10",
+     "type": "listening-mcq",
+     "prompt": "女的什么时候回国？",
+     "correctAnswer": "A",
+     "explanation": "女的说‘可能下个月吧’，所以是下个月。",
+     "audio": {
+      "key": "listening/v1/700e83ecd856fe9f03c0ee5aa79408945c31286ac612321fe9c9793d2551797c.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你打算什么时候回国？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "可能下个月吧，工作还没完成，得再待一段时间。"
+       }
+      ],
+      "transcript": "你打算什么时候回国？ 可能下个月吧，工作还没完成，得再待一段时间。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "下个月"
+      },
+      {
+       "label": "B",
+       "text": "这个月"
+      },
+      {
+       "label": "C",
+       "text": "已经回去了"
+      },
+      {
+       "label": "D",
+       "text": "不确定"
+      }
+     ]
+    },
+    {
+     "id": "q11",
+     "type": "listening-mcq",
+     "prompt": "男的周末想做什么？",
+     "correctAnswer": "A",
+     "explanation": "男的说‘我正想找人一起去看新上映的那部喜剧片’，所以他想去看喜剧片。",
+     "audio": {
+      "key": "listening/v1/0fdb353466bce68e14eb5ab6c3631ca54e6bf70a024a13e157d87a8f5b60e96e.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你周末有安排吗？一起去看电影怎么样？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "好啊，我正想找人一起去看新上映的那部喜剧片。"
+       }
+      ],
+      "transcript": "你周末有安排吗？一起去看电影怎么样？ 好啊，我正想找人一起去看新上映的那部喜剧片。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "去看喜剧片"
+      },
+      {
+       "label": "B",
+       "text": "去吃饭"
+      },
+      {
+       "label": "C",
+       "text": "在家睡觉"
+      },
+      {
+       "label": "D",
+       "text": "去逛街"
+      }
+     ]
+    },
+    {
+     "id": "q12",
+     "type": "listening-mcq",
+     "prompt": "女的认为这个城市有什么问题？",
+     "correctAnswer": "D",
+     "explanation": "女的说‘就是房价太高了’，所以问题是房价太高。",
+     "audio": {
+      "key": "listening/v1/3077fc4dc739e923d80407f1d5bcddb1cf567294069e65e2e7038e6c20db06a3.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你觉得这个城市怎么样？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "挺不错的，交通方便，环境也干净，就是房价太高了。"
+       }
+      ],
+      "transcript": "你觉得这个城市怎么样？ 挺不错的，交通方便，环境也干净，就是房价太高了。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "交通不方便"
+      },
+      {
+       "label": "B",
+       "text": "环境不好"
+      },
+      {
+       "label": "C",
+       "text": "人太多"
+      },
+      {
+       "label": "D",
+       "text": "房价太高"
+      }
+     ]
+    },
+    {
+     "id": "q13",
+     "type": "listening-mcq",
+     "prompt": "男的昨天为什么迟到？",
+     "correctAnswer": "D",
+     "explanation": "男的说‘路上堵车’，所以是因为堵车迟到。",
+     "audio": {
+      "key": "listening/v1/683e72da17e8170c6e8fa87090525fb0263830d8c38fefa93975f7a5dce30b6a.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你昨天怎么迟到了？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "路上堵车，平时半小时的路，开了一个多小时。"
+       }
+      ],
+      "transcript": "你昨天怎么迟到了？ 路上堵车，平时半小时的路，开了一个多小时。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "车坏了"
+      },
+      {
+       "label": "B",
+       "text": "走错路了"
+      },
+      {
+       "label": "C",
+       "text": "起床晚了"
+      },
+      {
+       "label": "D",
+       "text": "路上堵车"
+      }
+     ]
+    },
+    {
+     "id": "q14",
+     "type": "listening-mcq",
+     "prompt": "女的为什么学习汉语？",
+     "correctAnswer": "C",
+     "explanation": "女的说‘特别喜欢中国文化’，所以因为喜欢中国文化。",
+     "audio": {
+      "key": "listening/v1/ceb2c2f6a69c4abd3a98791d97f75774e59d70a4291bbde204603daa060a4c9b.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你学习汉语的目的是什么？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我特别喜欢中国文化，尤其是书法和京剧，所以想学好汉语。"
+       }
+      ],
+      "transcript": "你学习汉语的目的是什么？ 我特别喜欢中国文化，尤其是书法和京剧，所以想学好汉语。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "为了考试"
+      },
+      {
+       "label": "B",
+       "text": "为了工作"
+      },
+      {
+       "label": "C",
+       "text": "喜欢中国文化"
+      },
+      {
+       "label": "D",
+       "text": "为了旅游"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

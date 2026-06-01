@@ -1,0 +1,154 @@
+{
+ "id": "hsk6-listening-p216",
+ "level": "6",
+ "section": "listening",
+ "partKey": "listening-p2",
+ "title": "HSK6 Listening P2",
+ "titleZh": "听力 第二部分（听长文选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听一段短文，然后回答5个问题。每段对话或独白读两遍。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "根据短文，过度依赖人工智能会导致什么后果？",
+     "correctAnswer": "A",
+     "explanation": "短文中明确提到，过度依赖人工智能可能会导致人类创造性思维的衰退，因此选项B正确。其他选项在文中没有依据或与原文相反。",
+     "options": [
+      {
+       "label": "A",
+       "text": "人类创造性思维衰退"
+      },
+      {
+       "label": "B",
+       "text": "人工智能更加智能"
+      },
+      {
+       "label": "C",
+       "text": "年轻人更喜欢思考"
+      },
+      {
+       "label": "D",
+       "text": "工作效率大幅下降"
+      }
+     ]
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "研究人员通过什么方法得出上述结论？",
+     "correctAnswer": "C",
+     "explanation": "短文提到研究人员通过实验发现，当人们习惯使用智能助手时，大脑会减少主动思考。实验通常包含观察行为，文中没有提及问卷调查、对照实验或历史数据分析。",
+     "options": [
+      {
+       "label": "A",
+       "text": "设计对照实验"
+      },
+      {
+       "label": "B",
+       "text": "进行大规模问卷调查"
+      },
+      {
+       "label": "C",
+       "text": "观察人们的日常行为"
+      },
+      {
+       "label": "D",
+       "text": "分析历史数据"
+      }
+     ]
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "文章中提到的哪种人群更容易出现思维退化？",
+     "correctAnswer": "C",
+     "explanation": "短文指出这种现象在年轻人中尤为明显，他们更倾向于直接获取答案，因此选项D正确。",
+     "options": [
+      {
+       "label": "A",
+       "text": "中年人"
+      },
+      {
+       "label": "B",
+       "text": "儿童"
+      },
+      {
+       "label": "C",
+       "text": "年轻人"
+      },
+      {
+       "label": "D",
+       "text": "老年人"
+      }
+     ]
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "专家对使用人工智能提出了什么建议？",
+     "correctAnswer": "B",
+     "explanation": "专家建议人们应当有意识地保持独立思考的能力，而不是完全放弃或限制使用，因此选项C正确。",
+     "options": [
+      {
+       "label": "A",
+       "text": "完全放弃使用人工智能"
+      },
+      {
+       "label": "B",
+       "text": "保持独立思考的能力"
+      },
+      {
+       "label": "C",
+       "text": "尽量少用智能助手"
+      },
+      {
+       "label": "D",
+       "text": "只用于工作场合"
+      }
+     ]
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "短文中提到人工智能的主要优势是什么？",
+     "correctAnswer": "B",
+     "explanation": "短文明确提到人工智能能提高效率，这是文中提到的优势，其他选项未提及。",
+     "options": [
+      {
+       "label": "A",
+       "text": "降低错误率"
+      },
+      {
+       "label": "B",
+       "text": "提高效率"
+      },
+      {
+       "label": "C",
+       "text": "增强创造力"
+      },
+      {
+       "label": "D",
+       "text": "节省成本"
+      }
+     ]
+    }
+   ],
+   "audio": {
+    "key": "listening/v1/0f9197cac9d075cfa537fe1e0f0a9f02b1fa1efbbc909312b703be35d14aaf83.mp3",
+    "lines": [
+     {
+      "speaker": "旁白",
+      "voice": "narrator",
+      "text": "随着科技的发展，人工智能已经渗透到生活的方方面面。然而，一项最新的研究表明，过度依赖人工智能可能会导致人类创造性思维的衰退。研究人员通过实验发现，当人们习惯使用智能助手来完成日常任务时，他们的大脑会逐渐减少主动思考的频次。这种现象在年轻人中尤为明显，他们更倾向于直接获取答案，而不是通过分析和推理得出结论。专家指出，虽然人工智能能提高效率，但人们应当有意识地保持独立思考的能力，以避免思维退化。"
+     }
+    ],
+    "transcript": "随着科技的发展，人工智能已经渗透到生活的方方面面。然而，一项最新的研究表明，过度依赖人工智能可能会导致人类创造性思维的衰退。研究人员通过实验发现，当人们习惯使用智能助手来完成日常任务时，他们的大脑会逐渐减少主动思考的频次。这种现象在年轻人中尤为明显，他们更倾向于直接获取答案，而不是通过分析和推理得出结论。专家指出，虽然人工智能能提高效率，但人们应当有意识地保持独立思考的能力，以避免思维退化。",
+    "transcriptPinyin": null
+   }
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

@@ -1,0 +1,64 @@
+{
+ "id": "hsk7-9-listening-p112",
+ "level": "7-9",
+ "section": "listening",
+ "partKey": "listening-p1",
+ "title": "HSK7-9 Listening P1",
+ "titleZh": "听力 第一部分（判断对错）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听一段关于中国航天发展的新闻报道，然后判断下面5个句子的正误。正确的选“对”，错误的选“错”。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-statement-true-false",
+     "prompt": "嫦娥五号首次实现了中国探测器在月球表面的软着陆。",
+     "correctAnswer": "错",
+     "explanation": "文中说嫦娥五号实现了月球样本返回，但并未提及这是首次软着陆。事实上，嫦娥三号、四号早已实现软着陆。因此该陈述错误。"
+    },
+    {
+     "id": "q2",
+     "type": "listening-statement-true-false",
+     "prompt": "中国成为第三个掌握月球样本返回技术的国家。",
+     "correctAnswer": "对",
+     "explanation": "根据原文，“嫦娥五号探测器成功实现了月球样本返回，标志着中国成为全球第三个掌握这项技术的国家”，与陈述一致。"
+    },
+    {
+     "id": "q3",
+     "type": "listening-statement-true-false",
+     "prompt": "天问一号火星探测器传回了首批高分辨率图像。",
+     "correctAnswer": "对",
+     "explanation": "原文明确提到“天问一号火星探测器也顺利着陆火星，并传回了首批高分辨率图像”，所以该陈述正确。"
+    },
+    {
+     "id": "q4",
+     "type": "listening-statement-true-false",
+     "prompt": "中国空间站计划于2024年完成全部在轨组装。",
+     "correctAnswer": "错",
+     "explanation": "原文说“预计2024年前后完成在轨组装”，但“前、后”表示大致时间，并非确切指定2024年完成全部组装，而且“全部”一词过于绝对，因此该陈述不准确。"
+    },
+    {
+     "id": "q5",
+     "type": "listening-statement-true-false",
+     "prompt": "中国商业航天领域发展迅速，有多家民营火箭公司成功发射了小型运载火箭。",
+     "correctAnswer": "对",
+     "explanation": "原文最后一句“多家民营火箭公司成功发射了多枚小型运载火箭”与陈述意思一致。"
+    }
+   ],
+   "audio": {
+    "key": "listening/v1/e7d23a7fe0c8b0905f977b67381b789cf768f37d6e69be410adda74714f933a5.mp3",
+    "lines": [
+     {
+      "speaker": "旁白",
+      "voice": "narrator",
+      "text": "近年来，中国航天事业取得了举世瞩目的成就。嫦娥五号探测器成功实现了月球样本返回，标志着中国成为全球第三个掌握这项技术的国家。与此同时，天问一号火星探测器也顺利着陆火星，并传回了首批高分辨率图像。中国空间站的建设计划正在稳步推进，预计2024年前后完成在轨组装。值得一提的是，中国在商业航天领域也展现出强劲势头，多家民营火箭公司成功发射了多枚小型运载火箭。"
+     }
+    ],
+    "transcript": "近年来，中国航天事业取得了举世瞩目的成就。嫦娥五号探测器成功实现了月球样本返回，标志着中国成为全球第三个掌握这项技术的国家。与此同时，天问一号火星探测器也顺利着陆火星，并传回了首批高分辨率图像。中国空间站的建设计划正在稳步推进，预计2024年前后完成在轨组装。值得一提的是，中国在商业航天领域也展现出强劲势头，多家民营火箭公司成功发射了多枚小型运载火箭。",
+    "transcriptPinyin": null
+   }
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

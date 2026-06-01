@@ -1,0 +1,179 @@
+{
+ "id": "hsk4-listening-p206",
+ "level": "4",
+ "section": "listening",
+ "partKey": "listening-p2",
+ "title": "HSK4 Listening P2",
+ "titleZh": "听力 第二部分（听短文选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听一段短文，回答第1到第6题。短文读两遍。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "这段话主要介绍了什么？",
+     "correctAnswer": "A",
+     "explanation": "这段话从不同方面描述了茶在中国人生活中的地位，如早上、工作时、朋友聚会时都喝茶，并提到茶文化历史悠久，因此主要介绍的是茶在中国人生活中的重要性。",
+     "options": [
+      {
+       "label": "A",
+       "text": "茶在中国人生活中的重要性"
+      },
+      {
+       "label": "B",
+       "text": "茶的种类"
+      },
+      {
+       "label": "C",
+       "text": "喝茶的好处"
+      },
+      {
+       "label": "D",
+       "text": "茶的历史"
+      }
+     ]
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "中国人什么时候会喝茶？",
+     "correctAnswer": "D",
+     "explanation": "原文提到很多人早上起来泡茶、工作时喝茶、朋友聚会时一起喝茶，所以三个时间点都包括在内。",
+     "options": [
+      {
+       "label": "A",
+       "text": "工作时候"
+      },
+      {
+       "label": "B",
+       "text": "朋友聚会时"
+      },
+      {
+       "label": "C",
+       "text": "早上"
+      },
+      {
+       "label": "D",
+       "text": "以上都是"
+      }
+     ]
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "中国的茶文化怎么样？",
+     "correctAnswer": "C",
+     "explanation": "原文最后一句明确说“中国的茶文化历史悠久”，因此历史悠久的说法正确。",
+     "options": [
+      {
+       "label": "A",
+       "text": "非常新"
+      },
+      {
+       "label": "B",
+       "text": "只有老人喜欢"
+      },
+      {
+       "label": "C",
+       "text": "历史悠久"
+      },
+      {
+       "label": "D",
+       "text": "不太流行"
+      }
+     ]
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "根据这段话，下面哪种说法正确？",
+     "correctAnswer": "B",
+     "explanation": "原文说“喝茶不仅是解渴，也是一种享受”，所以D选项正确，其他选项均与原文相反。",
+     "options": [
+      {
+       "label": "A",
+       "text": "中国人不喝绿茶"
+      },
+      {
+       "label": "B",
+       "text": "喝茶是一种享受"
+      },
+      {
+       "label": "C",
+       "text": "喝茶只能解渴"
+      },
+      {
+       "label": "D",
+       "text": "茶对身体没有好处"
+      }
+     ]
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "这段话提到了几种茶？",
+     "correctAnswer": "B",
+     "explanation": "原文明确提到“绿茶、红茶、乌龙茶”共三种茶。",
+     "options": [
+      {
+       "label": "A",
+       "text": "两种"
+      },
+      {
+       "label": "B",
+       "text": "三种"
+      },
+      {
+       "label": "C",
+       "text": "四种"
+      },
+      {
+       "label": "D",
+       "text": "一种"
+      }
+     ]
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "朋友聚会时经常做什么？",
+     "correctAnswer": "B",
+     "explanation": "原文说“朋友聚会时，常常一起喝茶聊天”，所以喝茶聊天是聚会时的活动。",
+     "options": [
+      {
+       "label": "A",
+       "text": "吃饭"
+      },
+      {
+       "label": "B",
+       "text": "喝茶聊天"
+      },
+      {
+       "label": "C",
+       "text": "聊天"
+      },
+      {
+       "label": "D",
+       "text": "喝酒"
+      }
+     ]
+    }
+   ],
+   "audio": {
+    "key": "listening/v1/cc34e80b565b21be7098cef0b5224a0e466255ab9793fecb59bdf0413649176f.mp3",
+    "lines": [
+     {
+      "speaker": "旁白",
+      "voice": "narrator",
+      "text": "中国是茶的故乡，喝茶是中国人生活中很重要的部分。很多人早上起来先泡一杯茶，工作时也会喝茶。茶的种类很多，比如绿茶、红茶、乌龙茶等。不同的茶味道不同，对身体也有不同的好处。喝茶不仅是解渴，也是一种享受。朋友聚会时，常常一起喝茶聊天。中国的茶文化历史悠久，值得学习。"
+     }
+    ],
+    "transcript": "中国是茶的故乡，喝茶是中国人生活中很重要的部分。很多人早上起来先泡一杯茶，工作时也会喝茶。茶的种类很多，比如绿茶、红茶、乌龙茶等。不同的茶味道不同，对身体也有不同的好处。喝茶不仅是解渴，也是一种享受。朋友聚会时，常常一起喝茶聊天。中国的茶文化历史悠久，值得学习。",
+    "transcriptPinyin": null
+   }
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

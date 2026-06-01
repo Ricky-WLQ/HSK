@@ -1,0 +1,313 @@
+{
+ "id": "hsk6-listening-p110",
+ "level": "6",
+ "section": "listening",
+ "partKey": "listening-p1",
+ "title": "HSK6 Listening P1",
+ "titleZh": "听力 第一部分（听新闻选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听以下8段新闻录音，每段录音后有一个问题，从A、B、C、D中选择最符合录音内容的选项。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "根据录音，关于中国第三季度经济增长，下列哪项说法正确？",
+     "correctAnswer": "A",
+     "explanation": "录音明确提到GDP增长率从预估的6.2%上调至6.4%，因此比预估高出0.2个百分点。其他选项与录音内容相反。",
+     "audio": {
+      "key": "listening/v1/68045324c87531cbe03808d95e2455911d91905b3ba3f4a9e70caa0d39a53828.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "国家统计局最新数据显示，今年第三季度国内生产总值同比增长6.4%，较此前预估的6.2%有所上调。经济学家认为，这主要得益于消费市场的强劲复苏和出口增长超预期。"
+       }
+      ],
+      "transcript": "国家统计局最新数据显示，今年第三季度国内生产总值同比增长6.4%，较此前预估的6.2%有所上调。经济学家认为，这主要得益于消费市场的强劲复苏和出口增长超预期。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "GDP增长率比预估高出0.2个百分点。"
+      },
+      {
+       "label": "B",
+       "text": "消费市场复苏对增长没有贡献。"
+      },
+      {
+       "label": "C",
+       "text": "GDP增长率低于预期。"
+      },
+      {
+       "label": "D",
+       "text": "出口增长低于预期。"
+      }
+     ]
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "根据录音，关于这款人工智能诊断系统，下列哪项说法正确？",
+     "correctAnswer": "A",
+     "explanation": "录音提到系统能快速分析医学影像，准确率高，有助于提高早期癌症筛查效率。A、B、C均与原文不符。",
+     "audio": {
+      "key": "listening/v1/23b02c1afe33143986635923001264d20b324bf76fc671e3c421092016715132.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "一家中国科技公司近日发布了一款新型人工智能诊断系统，该系统能在几秒钟内分析医学影像，准确率高达98%。医院方面表示，这将极大提高早期癌症筛查的效率。"
+       }
+      ],
+      "transcript": "一家中国科技公司近日发布了一款新型人工智能诊断系统，该系统能在几秒钟内分析医学影像，准确率高达98%。医院方面表示，这将极大提高早期癌症筛查的效率。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "能辅助早期癌症筛查。"
+      },
+      {
+       "label": "B",
+       "text": "该系统需要较长时间分析影像。"
+      },
+      {
+       "label": "C",
+       "text": "准确率低于90%。"
+      },
+      {
+       "label": "D",
+       "text": "主要用于治疗癌症。"
+      }
+     ]
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "根据录音，政府将采取什么措施？",
+     "correctAnswer": "C",
+     "explanation": "录音明确说明禁止生产一次性塑料吸管和餐具，即禁止生产部分一次性塑料制品。其他选项超出范围或相反。",
+     "audio": {
+      "key": "listening/v1/68496dfc24d26c591d36ab37711e9692812da1c269d68474c68500ca6b0a1a99.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "为应对日益严重的塑料污染问题，政府宣布从明年起禁止生产一次性塑料吸管和餐具。此举预计每年可减少数十万吨塑料垃圾。"
+       }
+      ],
+      "transcript": "为应对日益严重的塑料污染问题，政府宣布从明年起禁止生产一次性塑料吸管和餐具。此举预计每年可减少数十万吨塑料垃圾。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "提高塑料回收率。"
+      },
+      {
+       "label": "B",
+       "text": "鼓励使用塑料吸管。"
+      },
+      {
+       "label": "C",
+       "text": "禁止生产一次性塑料制品。"
+      },
+      {
+       "label": "D",
+       "text": "禁止使用所有塑料产品。"
+      }
+     ]
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "根据录音，政府为解决农村空心化问题采取了什么措施？",
+     "correctAnswer": "A",
+     "explanation": "录音提到政府出台政策鼓励青年返乡创业，并提供贷款和税收优惠。A、C、D均未提及或与原文不符。",
+     "audio": {
+      "key": "listening/v1/76dea7d037e9d2a03f7a2b4d1f86ffe6ec3abce649016b9994904085bf681daf.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "随着城市化进程加快，大量农村劳动力涌入城市，导致一些农村地区出现空心化现象。为此，政府出台政策鼓励青年返乡创业，并提供贷款和税收优惠。"
+       }
+      ],
+      "transcript": "随着城市化进程加快，大量农村劳动力涌入城市，导致一些农村地区出现空心化现象。为此，政府出台政策鼓励青年返乡创业，并提供贷款和税收优惠。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "鼓励青年回乡创业。"
+      },
+      {
+       "label": "B",
+       "text": "减少农村税收。"
+      },
+      {
+       "label": "C",
+       "text": "增加城市就业岗位。"
+      },
+      {
+       "label": "D",
+       "text": "限制农村人口进城。"
+      }
+     ]
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "根据录音，关于传统节日，下列哪项说法正确？",
+     "correctAnswer": "D",
+     "explanation": "录音说明传统节日重新流行是文化传承与创新结合的结果。A、B、D均与原文矛盾。",
+     "audio": {
+      "key": "listening/v1/90c3a5695e52fede76e80ff84934de8d49a7175666be82284b088405e366ee1f.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "近年来，端午节等传统节日逐渐受到年轻人喜爱，赛龙舟、包粽子等习俗重新流行起来。专家指出，这是因为文化传承与创新相结合的结果。"
+       }
+      ],
+      "transcript": "近年来，端午节等传统节日逐渐受到年轻人喜爱，赛龙舟、包粽子等习俗重新流行起来。专家指出，这是因为文化传承与创新相结合的结果。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "传统节日只受老年人喜爱。"
+      },
+      {
+       "label": "B",
+       "text": "传统习俗完全被遗忘。"
+      },
+      {
+       "label": "C",
+       "text": "年轻人对传统节日失去兴趣。"
+      },
+      {
+       "label": "D",
+       "text": "传统节日重新流行归功于传承与创新。"
+      }
+     ]
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "根据录音，关于抑郁症，下列哪项说法正确？",
+     "correctAnswer": "B",
+     "explanation": "录音提到患者数量上升，年轻人突出，专家呼吁加强心理健康教育并降低偏见。A、B、D均与原文相反。",
+     "audio": {
+      "key": "listening/v1/daa07fb68ac56e4113d7f57665703e5fcc7fd51331f7752d2ddc1b24a9feb41b.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "世界卫生组织最新报告显示，全球抑郁症患者数量持续上升，年轻人群体尤为突出。专家呼吁加强心理健康教育，降低社会对精神疾病的偏见。"
+       }
+      ],
+      "transcript": "世界卫生组织最新报告显示，全球抑郁症患者数量持续上升，年轻人群体尤为突出。专家呼吁加强心理健康教育，降低社会对精神疾病的偏见。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "社会对精神疾病没有偏见。"
+      },
+      {
+       "label": "B",
+       "text": "专家建议加强心理健康教育。"
+      },
+      {
+       "label": "C",
+       "text": "患者数量在减少。"
+      },
+      {
+       "label": "D",
+       "text": "老年人是主要群体。"
+      }
+     ]
+    },
+    {
+     "id": "q7",
+     "type": "listening-mcq",
+     "prompt": "根据录音，关于在线学习，下列哪项说法正确？",
+     "correctAnswer": "B",
+     "explanation": "录音指出超过六成学生认为效果不如线下，原因是缺乏互动和自律性差。A、C、D均与原文不符。",
+     "audio": {
+      "key": "listening/v1/c619ea3958ac964b58cf96f08745b4030f5d5093f8450b616043930f6ae56d97.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "一项调查表明，超过六成学生认为在线学习效果不如线下课堂，主要原因是缺乏互动和自律性差。教育部门表示将改进线上教学平台的功能。"
+       }
+      ],
+      "transcript": "一项调查表明，超过六成学生认为在线学习效果不如线下课堂，主要原因是缺乏互动和自律性差。教育部门表示将改进线上教学平台的功能。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "教育部门决定取消线上教学。"
+      },
+      {
+       "label": "B",
+       "text": "在线学习缺乏互动是主要问题之一。"
+      },
+      {
+       "label": "C",
+       "text": "学生自律性普遍很高。"
+      },
+      {
+       "label": "D",
+       "text": "大部分学生认为在线学习效果更好。"
+      }
+     ]
+    },
+    {
+     "id": "q8",
+     "type": "listening-mcq",
+     "prompt": "根据录音，关于新协议，下列哪项说法正确？",
+     "correctAnswer": "A",
+     "explanation": "录音明确提到协议要求2030年前减排45%，主要经济体承诺增加清洁能源投资。A、B、D均与原文矛盾。",
+     "audio": {
+      "key": "listening/v1/03e56a361a70436ec9cfe826024cbb8c816118fc913ccb44a1da738df89e15e9.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "联合国气候变化大会近日通过了一项新协议，要求各国在2030年前将温室气体排放量减少45%。多个主要经济体承诺将加大对清洁能源的投资。"
+       }
+      ],
+      "transcript": "联合国气候变化大会近日通过了一项新协议，要求各国在2030年前将温室气体排放量减少45%。多个主要经济体承诺将加大对清洁能源的投资。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "协议要求减少温室气体排放。"
+      },
+      {
+       "label": "B",
+       "text": "协议要求在2040年前减排45%。"
+      },
+      {
+       "label": "C",
+       "text": "所有国家均反对该协议。"
+      },
+      {
+       "label": "D",
+       "text": "主要经济体减少清洁能源投资。"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

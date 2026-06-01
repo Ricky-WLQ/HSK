@@ -1,0 +1,202 @@
+{
+ "id": "hsk1-listening-p403",
+ "level": "1",
+ "section": "listening",
+ "partKey": "listening-p4",
+ "title": "HSK1 Listening P4",
+ "titleZh": "听力 第四部分（听问句选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "下面你将听到5段简短的独白。每段独白后有一个问题，请从A、B、C三个选项中选择正确答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "他是哪国人？",
+     "correctAnswer": "C",
+     "explanation": "独白中说自己是中国人，所以正确选项是“中国”。",
+     "audio": {
+      "key": "listening/v1/e8afbab54153989009498665a5891ed66c2e12f1f9e234848d1a324cfed47992.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我叫小明，我是中国人。"
+       }
+      ],
+      "transcript": "我叫小明，我是中国人。",
+      "transcriptPinyin": "wǒ jiào xiǎo míng ， wǒ shì zhōng guó rén 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "美国",
+       "pinyin": "měi guó"
+      },
+      {
+       "label": "B",
+       "text": "日本",
+       "pinyin": "rì běn"
+      },
+      {
+       "label": "C",
+       "text": "中国",
+       "pinyin": "zhōng guó"
+      }
+     ],
+     "pinyin": "tā shì nǎ guó rén ？"
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "现在几点？",
+     "correctAnswer": "A",
+     "explanation": "独白中说现在是八点，所以正确选项是“八点”。",
+     "audio": {
+      "key": "listening/v1/ec59fa9ef00e061042422e81d685f675d01f8a000388fdd7eb0f88c05fb982dc.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "现在八点。"
+       }
+      ],
+      "transcript": "现在八点。",
+      "transcriptPinyin": "xiàn zài bā diǎn 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "八点",
+       "pinyin": "bā diǎn"
+      },
+      {
+       "label": "B",
+       "text": "七点",
+       "pinyin": "qī diǎn"
+      },
+      {
+       "label": "C",
+       "text": "九点",
+       "pinyin": "jiǔ diǎn"
+      }
+     ],
+     "pinyin": "xiàn zài jǐ diǎn ？"
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "他家有几口人？",
+     "correctAnswer": "B",
+     "explanation": "独白中说家里有三口人，所以正确选项是“三口”。",
+     "audio": {
+      "key": "listening/v1/b6fd74f8236165b50ddf6c5e0ac0da62e54b8325436cc37b4c87aa402578be1b.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我家有三口人，爸爸、妈妈和我。"
+       }
+      ],
+      "transcript": "我家有三口人，爸爸、妈妈和我。",
+      "transcriptPinyin": "wǒ jiā yǒu sān kǒu rén ， bà bà 、 mā mā hé wǒ 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "两口",
+       "pinyin": "liǎng kǒu"
+      },
+      {
+       "label": "B",
+       "text": "三口",
+       "pinyin": "sān kǒu"
+      },
+      {
+       "label": "C",
+       "text": "四口",
+       "pinyin": "sì kǒu"
+      }
+     ],
+     "pinyin": "tā jiā yǒu jǐ kǒu rén ？"
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "他几岁？",
+     "correctAnswer": "C",
+     "explanation": "独白中说今年十岁，所以正确选项是“十岁”。",
+     "audio": {
+      "key": "listening/v1/f9dc4d96160f6a8d371639e6b5ebc6cc717f14a346b6550325f6e4347a77d7a8.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我今年十岁。"
+       }
+      ],
+      "transcript": "我今年十岁。",
+      "transcriptPinyin": "wǒ jīn nián shí suì 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "十一岁",
+       "pinyin": "shí yī suì"
+      },
+      {
+       "label": "B",
+       "text": "九岁",
+       "pinyin": "jiǔ suì"
+      },
+      {
+       "label": "C",
+       "text": "十岁",
+       "pinyin": "shí suì"
+      }
+     ],
+     "pinyin": "tā jǐ suì ？"
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "书在哪儿？",
+     "correctAnswer": "A",
+     "explanation": "独白中说书在桌子上，所以正确选项是“桌子上面”。",
+     "audio": {
+      "key": "listening/v1/26aade501bccc2b45d4f2a83f37f1fd0b9c63773958ecd8ee78123ba48ff2fc0.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "书在桌子上。"
+       }
+      ],
+      "transcript": "书在桌子上。",
+      "transcriptPinyin": "shū zài zhuō zi shàng 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "桌子上面",
+       "pinyin": "zhuō zi shàng miàn"
+      },
+      {
+       "label": "B",
+       "text": "桌子旁边",
+       "pinyin": "zhuō zi páng biān"
+      },
+      {
+       "label": "C",
+       "text": "桌子下面",
+       "pinyin": "zhuō zi xià miàn"
+      }
+     ],
+     "pinyin": "shū zài nǎ ér ？"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

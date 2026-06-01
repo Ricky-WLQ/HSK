@@ -1,0 +1,117 @@
+{
+ "id": "hsk2-listening-p107",
+ "level": "2",
+ "section": "listening",
+ "partKey": "listening-p1",
+ "title": "HSK2 Listening P1",
+ "titleZh": "听力 第一部分（看图判断）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "听句子，看图片，判断对错。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "对",
+     "explanation": "图片中女性在厨房做饭，与句子描述一致。",
+     "audio": {
+      "key": "listening/v1/26695e7415ac0b4fdb995be81906e2b352a787a9ca714305482307b78a31e9f7.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "妈妈在厨房里做饭。"
+       }
+      ],
+      "transcript": "妈妈在厨房里做饭。",
+      "transcriptPinyin": "mā mā zài chú fáng lǐ zuò fàn 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-bedf202be4025506508296996018b556.png"
+    },
+    {
+     "id": "q2",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "错",
+     "explanation": "图片显示的是骑自行车，但句子说的是坐公交车。",
+     "audio": {
+      "key": "listening/v1/c0a59bedd725671ebfcf8802b626e3d00e4c1dbd9f45ce23616d6510b176f97f.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "他每天坐公交车去上学。"
+       }
+      ],
+      "transcript": "他每天坐公交车去上学。",
+      "transcriptPinyin": "tā měi tiān zuò gōng jiāo chē qù shàng xué 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-5ef2cb61299b3681fe13dec2b96b9e51.png"
+    },
+    {
+     "id": "q3",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "对",
+     "explanation": "图片中正在下雨，与句子描述一致。",
+     "audio": {
+      "key": "listening/v1/ce9f00c008663d09083abd859ed2313fa657874086ade95de055aa611b7c27c7.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "外面正在下雨。"
+       }
+      ],
+      "transcript": "外面正在下雨。",
+      "transcriptPinyin": "wài miàn zhèng zài xià yǔ 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-3861899face3ac875b5a373063aa860d.png"
+    },
+    {
+     "id": "q4",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "错",
+     "explanation": "图片中桌子上只有杯子没有书，但句子说有一本书。",
+     "audio": {
+      "key": "listening/v1/da5734af87518a8846f37a35493f665a740f2d386e48826852f67eb066aedead.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "桌子上有一本书。"
+       }
+      ],
+      "transcript": "桌子上有一本书。",
+      "transcriptPinyin": "zhuō zi shàng yǒu yī běn shū 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-d018297eee2ffdf3f4cb21e4e9811cf2.png"
+    },
+    {
+     "id": "q5",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "对",
+     "explanation": "图片中猫在沙发上睡觉，与句子描述一致。",
+     "audio": {
+      "key": "listening/v1/9bd8b0740a3f50435b09469e8192a3df25fb659e7081a0268caf913c00d9d342.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "猫在沙发上面睡觉。"
+       }
+      ],
+      "transcript": "猫在沙发上面睡觉。",
+      "transcriptPinyin": "māo zài shā fā shàng miàn shuì jiào 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-3d5153ea634b58f4fd0c9d51039d8289.png"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

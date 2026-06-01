@@ -1,0 +1,154 @@
+{
+ "id": "hsk6-listening-p219",
+ "level": "6",
+ "section": "listening",
+ "partKey": "listening-p2",
+ "title": "HSK6 Listening P2",
+ "titleZh": "听力 第二部分（听长文选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "你将听到一段关于丝绸之路的说明性独白。请根据听到的内容回答5个问题，每个问题有4个选项，选择唯一正确的答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "丝绸之路最早起源于哪个朝代？",
+     "correctAnswer": "A",
+     "explanation": "文中明确提到丝绸之路起源于西汉时期，因此最早是西汉。",
+     "options": [
+      {
+       "label": "A",
+       "text": "西汉"
+      },
+      {
+       "label": "B",
+       "text": "明朝"
+      },
+      {
+       "label": "C",
+       "text": "宋代"
+      },
+      {
+       "label": "D",
+       "text": "唐代"
+      }
+     ]
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "丝绸之路主要促进了什么？",
+     "correctAnswer": "C",
+     "explanation": "文中指出丝绸之路不仅促进了商品交换，更推动了东西方文化交流，因此主要促进的是商品交换和文化交流。",
+     "options": [
+      {
+       "label": "A",
+       "text": "政治联盟"
+      },
+      {
+       "label": "B",
+       "text": "军事扩张"
+      },
+      {
+       "label": "C",
+       "text": "商品交换和文化交流"
+      },
+      {
+       "label": "D",
+       "text": "宗教传播"
+      }
+     ]
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "从西方传入中国的物品不包括？",
+     "correctAnswer": "C",
+     "explanation": "文中说中国的丝绸、瓷器、茶叶传到西方，而西方的玻璃、香料、音乐传入中国，因此瓷器是从中国传出的，不是从西方传入的。",
+     "options": [
+      {
+       "label": "A",
+       "text": "香料"
+      },
+      {
+       "label": "B",
+       "text": "音乐"
+      },
+      {
+       "label": "C",
+       "text": "瓷器"
+      },
+      {
+       "label": "D",
+       "text": "玻璃"
+      }
+     ]
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "丝绸之路最繁荣的时期是？",
+     "correctAnswer": "C",
+     "explanation": "文中明确说丝绸之路的繁荣时期在唐代，因此最繁荣的是唐代。",
+     "options": [
+      {
+       "label": "A",
+       "text": "西汉"
+      },
+      {
+       "label": "B",
+       "text": "宋代"
+      },
+      {
+       "label": "C",
+       "text": "唐代"
+      },
+      {
+       "label": "D",
+       "text": "元代"
+      }
+     ]
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "“一带一路”倡议体现了什么？",
+     "correctAnswer": "B",
+     "explanation": "文中指出“一带一路”倡议正是对丝绸之路精神的传承与发展，因此体现了丝绸之路精神的传承。",
+     "options": [
+      {
+       "label": "A",
+       "text": "军事合作"
+      },
+      {
+       "label": "B",
+       "text": "丝绸之路精神的传承"
+      },
+      {
+       "label": "C",
+       "text": "经济封锁"
+      },
+      {
+       "label": "D",
+       "text": "文化孤立"
+      }
+     ]
+    }
+   ],
+   "audio": {
+    "key": "listening/v1/89dfe5dd970b70b40096d667bd6e30a281b69766c45e5813cc0671f54dfcb4d1.mp3",
+    "lines": [
+     {
+      "speaker": "旁白",
+      "voice": "narrator",
+      "text": "丝绸之路是古代连接中国与中亚、欧洲的贸易路线，起源于西汉时期。它不仅促进了商品交换，更推动了东西方文化交流。通过丝绸之路，中国的丝绸、瓷器、茶叶传到西方，而西方的玻璃、香料、音乐也传入中国。丝绸之路的繁荣时期在唐代，当时长安成为国际大都市。如今，丝绸之路的历史意义被重新重视，中国提出的“一带一路”倡议正是对其精神的传承与发展。"
+     }
+    ],
+    "transcript": "丝绸之路是古代连接中国与中亚、欧洲的贸易路线，起源于西汉时期。它不仅促进了商品交换，更推动了东西方文化交流。通过丝绸之路，中国的丝绸、瓷器、茶叶传到西方，而西方的玻璃、香料、音乐也传入中国。丝绸之路的繁荣时期在唐代，当时长安成为国际大都市。如今，丝绸之路的历史意义被重新重视，中国提出的“一带一路”倡议正是对其精神的传承与发展。",
+    "transcriptPinyin": null
+   }
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

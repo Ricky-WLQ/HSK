@@ -1,0 +1,442 @@
+{
+ "id": "hsk2-listening-p305",
+ "level": "2",
+ "section": "listening",
+ "partKey": "listening-p3",
+ "title": "HSK2 Listening P3",
+ "titleZh": "听力 第三部分（听对话选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听对话，然后选择正确的答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "图书馆在哪儿？",
+     "correctAnswer": "A",
+     "explanation": "女的说图书馆在学校的东边，所以图书馆在东边。",
+     "audio": {
+      "key": "listening/v1/51855830298883471783713c742f65a8b50c12ae2a3e6c505048e9cc3aced9c1.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你好，请问图书馆在哪儿？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "图书馆在学校的东边，你一直走就到了。"
+       }
+      ],
+      "transcript": "你好，请问图书馆在哪儿？ 图书馆在学校的东边，你一直走就到了。",
+      "transcriptPinyin": "nǐ hǎo ， qǐng wèn tú shū guǎn zài nǎ ér ？  tú shū guǎn zài xué xiào de dōng biān ， nǐ yì zhí zǒu jiù dào le 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "学校的东边",
+       "pinyin": "xué xiào de dōng biān"
+      },
+      {
+       "label": "B",
+       "text": "学校的南边",
+       "pinyin": "xué xiào de nán biān"
+      },
+      {
+       "label": "C",
+       "text": "学校的西边",
+       "pinyin": "xué xiào de xī biān"
+      }
+     ],
+     "pinyin": "tú shū guǎn zài nǎ ér ？"
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "苹果多少钱一斤？",
+     "correctAnswer": "C",
+     "explanation": "女的说苹果五块钱一斤，所以答案是五块。",
+     "audio": {
+      "key": "listening/v1/973e3be305119936a3273924e80be1f41be4706b8ddd349ddb825ef41e13a014.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你想买什么水果？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我想买苹果，一斤多少钱？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "五块钱一斤。"
+       }
+      ],
+      "transcript": "你想买什么水果？ 我想买苹果，一斤多少钱？ 五块钱一斤。",
+      "transcriptPinyin": "nǐ xiǎng mǎi shén me shuǐ guǒ ？  wǒ xiǎng mǎi píng guǒ ， yī jīn duō shǎo qián ？  wǔ kuài qián yī jīn 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "四块",
+       "pinyin": "sì kuài"
+      },
+      {
+       "label": "B",
+       "text": "六块",
+       "pinyin": "liù kuài"
+      },
+      {
+       "label": "C",
+       "text": "五块",
+       "pinyin": "wǔ kuài"
+      }
+     ],
+     "pinyin": "píng guǒ duō shǎo qián yī jīn ？"
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "现在几点了？",
+     "correctAnswer": "B",
+     "explanation": "女的说现在八点半，所以时间是八点半。",
+     "audio": {
+      "key": "listening/v1/46cc426c2aea6ec76eaecd1fb4fbabe3ae9c07c27dd2f98dbd7f014599260955.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "现在几点？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "现在八点半。"
+       }
+      ],
+      "transcript": "现在几点？ 现在八点半。",
+      "transcriptPinyin": "xiàn zài jǐ diǎn ？  xiàn zài bā diǎn bàn 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "八点",
+       "pinyin": "bā diǎn"
+      },
+      {
+       "label": "B",
+       "text": "八点半",
+       "pinyin": "bā diǎn bàn"
+      },
+      {
+       "label": "C",
+       "text": "九点",
+       "pinyin": "jiǔ diǎn"
+      }
+     ],
+     "pinyin": "xiàn zài jǐ diǎn le ？"
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "今天天气怎么样？",
+     "correctAnswer": "C",
+     "explanation": "男的说今天很冷，还下雪了，所以天气很冷有雪。",
+     "audio": {
+      "key": "listening/v1/715d5d760b9efe5ea64e0ad15ad8313986325d66b0e73eff2f9f33232f255783.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "今天天气怎么样？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "今天很冷，还下雪了。"
+       }
+      ],
+      "transcript": "今天天气怎么样？ 今天很冷，还下雪了。",
+      "transcriptPinyin": "jīn tiān tiān qì zěn me yàng ？  jīn tiān hěn lěng ， hái xià xuě le 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "很热",
+       "pinyin": "hěn rè"
+      },
+      {
+       "label": "B",
+       "text": "下雨",
+       "pinyin": "xià yǔ"
+      },
+      {
+       "label": "C",
+       "text": "很冷，下雪",
+       "pinyin": "hěn lěng ， xià xuě"
+      }
+     ],
+     "pinyin": "jīn tiān tiān qì zěn me yàng ？"
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "女的喜欢什么运动？",
+     "correctAnswer": "B",
+     "explanation": "女的说她喜欢跑步，所以答案是跑步。",
+     "audio": {
+      "key": "listening/v1/c510bf753ae1e895e86479dc40ffb5de482edf595da7c2a081e80db197e1dca0.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你喜欢什么运动？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我喜欢跑步，每天跑半小时。"
+       }
+      ],
+      "transcript": "你喜欢什么运动？ 我喜欢跑步，每天跑半小时。",
+      "transcriptPinyin": "nǐ xǐ huān shén me yùn dòng ？  wǒ xǐ huān pǎo bù ， měi tiān pǎo bàn xiǎo shí 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "打球",
+       "pinyin": "dǎ qiú"
+      },
+      {
+       "label": "B",
+       "text": "跑步",
+       "pinyin": "pǎo bù"
+      },
+      {
+       "label": "C",
+       "text": "游泳",
+       "pinyin": "yóu yǒng"
+      }
+     ],
+     "pinyin": "nǚ de xǐ huān shén me yùn dòng ？"
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "男的家有几口人？",
+     "correctAnswer": "C",
+     "explanation": "男的说家里有四口人，所以答案是四口。",
+     "audio": {
+      "key": "listening/v1/83c9734de55aaf0e2eb765405059c275fb3bc59c9ef9a15d0253a4e8dcc4d1c4.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你家有几口人？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我家有四口人，爸爸、妈妈、我和妹妹。"
+       }
+      ],
+      "transcript": "你家有几口人？ 我家有四口人，爸爸、妈妈、我和妹妹。",
+      "transcriptPinyin": "nǐ jiā yǒu jǐ kǒu rén ？  wǒ jiā yǒu sì kǒu rén ， bà bà 、 mā mā 、 wǒ hé mèi mèi 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "五口",
+       "pinyin": "wǔ kǒu"
+      },
+      {
+       "label": "B",
+       "text": "三口",
+       "pinyin": "sān kǒu"
+      },
+      {
+       "label": "C",
+       "text": "四口",
+       "pinyin": "sì kǒu"
+      }
+     ],
+     "pinyin": "nán de jiā yǒu jǐ kǒu rén ？"
+    },
+    {
+     "id": "q7",
+     "type": "listening-mcq",
+     "prompt": "女的在哪儿工作？",
+     "correctAnswer": "B",
+     "explanation": "女的说她在医院工作，所以工作地点是医院。",
+     "audio": {
+      "key": "listening/v1/800717a415eedf9e17d32fa79de78fbbbc6ca85a873f1b8181ca0a19f9bdccb4.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你在哪儿工作？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我在医院工作，是医生。"
+       }
+      ],
+      "transcript": "你在哪儿工作？ 我在医院工作，是医生。",
+      "transcriptPinyin": "nǐ zài nǎ ér gōng zuò ？  wǒ zài yī yuàn gōng zuò ， shì yī shēng 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "公司",
+       "pinyin": "gōng sī"
+      },
+      {
+       "label": "B",
+       "text": "医院",
+       "pinyin": "yī yuàn"
+      },
+      {
+       "label": "C",
+       "text": "学校",
+       "pinyin": "xué xiào"
+      }
+     ],
+     "pinyin": "nǚ de zài nǎ ér gōng zuò ？"
+    },
+    {
+     "id": "q8",
+     "type": "listening-mcq",
+     "prompt": "明天男的做什么？",
+     "correctAnswer": "A",
+     "explanation": "男的说他明天去看朋友，所以答案是去看朋友。",
+     "audio": {
+      "key": "listening/v1/4000a5b5dfb25d3c602180a1f813e6539af1010928470244bc58c2c256a964f9.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "明天你做什么？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "明天我去看朋友，他生病了。"
+       }
+      ],
+      "transcript": "明天你做什么？ 明天我去看朋友，他生病了。",
+      "transcriptPinyin": "míng tiān nǐ zuò shén me ？  míng tiān wǒ qù kàn péng yǒu ， tā shēng bìng le 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "去看朋友",
+       "pinyin": "qù kàn péng yǒu"
+      },
+      {
+       "label": "B",
+       "text": "去学校",
+       "pinyin": "qù xué xiào"
+      },
+      {
+       "label": "C",
+       "text": "去上班",
+       "pinyin": "qù shàng bān"
+      }
+     ],
+     "pinyin": "míng tiān nán de zuò shén me ？"
+    },
+    {
+     "id": "q9",
+     "type": "listening-mcq",
+     "prompt": "女的说她会说汉语吗？",
+     "correctAnswer": "A",
+     "explanation": "女的说她会一点儿，所以答案是会一点儿。",
+     "audio": {
+      "key": "listening/v1/ee7b1a11f2093578c217948baaff6ce23f9b713fe6eeeab1f29177fecd04d581.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你会说汉语吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "会一点儿，不多。"
+       }
+      ],
+      "transcript": "你会说汉语吗？ 会一点儿，不多。",
+      "transcriptPinyin": "nǐ huì shuō hàn yǔ ma ？  huì yì diǎn ér ， bù duō 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "会一点儿",
+       "pinyin": "huì yì diǎn ér"
+      },
+      {
+       "label": "B",
+       "text": "不会",
+       "pinyin": "bú huì"
+      },
+      {
+       "label": "C",
+       "text": "会很多",
+       "pinyin": "huì hěn duō"
+      }
+     ],
+     "pinyin": "nǚ de shuō tā huì shuō hàn yǔ ma ？"
+    },
+    {
+     "id": "q10",
+     "type": "listening-mcq",
+     "prompt": "男的想吃什么？",
+     "correctAnswer": "C",
+     "explanation": "男的说他想吃米饭和鱼，所以答案是米饭和鱼。",
+     "audio": {
+      "key": "listening/v1/a0ec40339c478e3ed0bf586414fcfeae6e6e2d1a726f77bb5020f06513cd285d.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你想吃什么？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我想吃米饭和鱼。"
+       }
+      ],
+      "transcript": "你想吃什么？ 我想吃米饭和鱼。",
+      "transcriptPinyin": "nǐ xiǎng chī shén me ？  wǒ xiǎng chī mǐ fàn hé yú 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "米饭和肉",
+       "pinyin": "mǐ fàn hé ròu"
+      },
+      {
+       "label": "B",
+       "text": "面条和鱼",
+       "pinyin": "miàn tiáo hé yú"
+      },
+      {
+       "label": "C",
+       "text": "米饭和鱼",
+       "pinyin": "mǐ fàn hé yú"
+      }
+     ],
+     "pinyin": "nán de xiǎng chī shén me ？"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

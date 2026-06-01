@@ -1,0 +1,143 @@
+{
+ "id": "hsk7-9-listening-p211",
+ "level": "7-9",
+ "section": "listening",
+ "partKey": "listening-p2",
+ "title": "HSK7-9 Listening P2",
+ "titleZh": "听力 第二部分（听短文选填答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听一段关于量子计算的介绍，然后回答以下问题。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "量子计算机与传统计算机的主要区别是什么？",
+     "correctAnswer": "C",
+     "explanation": "文中提到量子计算机利用量子比特的叠加态，与传统计算机的二进制不同。",
+     "options": [
+      {
+       "label": "A",
+       "text": "使用二进制"
+      },
+      {
+       "label": "B",
+       "text": "速度更慢"
+      },
+      {
+       "label": "C",
+       "text": "使用叠加态"
+      },
+      {
+       "label": "D",
+       "text": "更稳定"
+      }
+     ]
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "量子比特容易受到什么影响？",
+     "correctAnswer": "D",
+     "explanation": "文中明确指出“量子比特非常脆弱，容易受到环境干扰”。",
+     "options": [
+      {
+       "label": "A",
+       "text": "温度"
+      },
+      {
+       "label": "B",
+       "text": "磁场"
+      },
+      {
+       "label": "C",
+       "text": "电压"
+      },
+      {
+       "label": "D",
+       "text": "环境干扰"
+      }
+     ]
+    },
+    {
+     "id": "q3",
+     "type": "listening-dictation",
+     "prompt": "科学家通过什么方法来克服量子比特的脆弱性？",
+     "correctAnswer": "量子纠错",
+     "explanation": "文中提到“通过量子纠错和拓扑量子计算来克服”，此处可填“量子纠错”。"
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "量子计算在哪些领域有应用前景？",
+     "correctAnswer": "D",
+     "explanation": "文中列举了“密码学、药物研发和材料科学”。",
+     "options": [
+      {
+       "label": "A",
+       "text": "军事、金融、教育"
+      },
+      {
+       "label": "B",
+       "text": "游戏、娱乐、社交"
+      },
+      {
+       "label": "C",
+       "text": "天气预报、交通管理"
+      },
+      {
+       "label": "D",
+       "text": "密码学、药物研发、材料科学"
+      }
+     ]
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "目前量子计算机的发展状态是？",
+     "correctAnswer": "B",
+     "explanation": "文中说“距离真正实用化的量子计算机还有相当长的路要走”。",
+     "options": [
+      {
+       "label": "A",
+       "text": "已经被淘汰"
+      },
+      {
+       "label": "B",
+       "text": "距离实用化还有很长的路"
+      },
+      {
+       "label": "C",
+       "text": "已经普及"
+      },
+      {
+       "label": "D",
+       "text": "即将商业化"
+      }
+     ]
+    },
+    {
+     "id": "q6",
+     "type": "listening-dictation",
+     "prompt": "量子计算机利用的是什么原理？",
+     "correctAnswer": "叠加态",
+     "explanation": "文中提到“可以同时处于0和1的叠加态”。"
+    }
+   ],
+   "audio": {
+    "key": "listening/v1/90ebe7d70e49da98cf051629a9e8409ca7cb3e253ba9b03ebf2f9588fa86a082.mp3",
+    "lines": [
+     {
+      "speaker": "旁白",
+      "voice": "narrator",
+      "text": "各位听众，今天我们来聊聊量子计算。与传统计算机使用0和1的二进制不同，量子计算机利用量子比特，可以同时处于0和1的叠加态。这使得量子计算机在处理某些特定问题时，速度远超传统计算机。然而，量子比特非常脆弱，容易受到环境干扰，导致计算错误。目前，科学家们正在研究如何通过量子纠错和拓扑量子计算来克服这一难题。量子计算在密码学、药物研发和材料科学等领域有着广阔的应用前景。不过，距离真正实用化的量子计算机还有相当长的路要走。"
+     }
+    ],
+    "transcript": "各位听众，今天我们来聊聊量子计算。与传统计算机使用0和1的二进制不同，量子计算机利用量子比特，可以同时处于0和1的叠加态。这使得量子计算机在处理某些特定问题时，速度远超传统计算机。然而，量子比特非常脆弱，容易受到环境干扰，导致计算错误。目前，科学家们正在研究如何通过量子纠错和拓扑量子计算来克服这一难题。量子计算在密码学、药物研发和材料科学等领域有着广阔的应用前景。不过，距离真正实用化的量子计算机还有相当长的路要走。",
+    "transcriptPinyin": null
+   }
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

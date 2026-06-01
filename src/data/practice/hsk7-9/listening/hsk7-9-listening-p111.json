@@ -1,0 +1,64 @@
+{
+ "id": "hsk7-9-listening-p111",
+ "level": "7-9",
+ "section": "listening",
+ "partKey": "listening-p1",
+ "title": "HSK7-9 Listening P1",
+ "titleZh": "听力 第一部分（判断对错）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "听下面一段独白，判断后面的句子是否正确。正确的选“对”，错误的选“错”。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-statement-true-false",
+     "prompt": "中国的新能源汽车出口量在2023年增长幅度超过了一半。",
+     "correctAnswer": "对",
+     "explanation": "原文提到2023年出口量同比增长超过70%，70%大于50%，因此增长幅度超过一半，判断正确。"
+    },
+    {
+     "id": "q2",
+     "type": "listening-statement-true-false",
+     "prompt": "中国新能源汽车产业的快速发展主要依赖于政府的政策支持。",
+     "correctAnswer": "错",
+     "explanation": "原文指出成就得益于技术创新和政策支持两方面，并非主要依赖政策支持，因此判断错误。"
+    },
+    {
+     "id": "q3",
+     "type": "listening-statement-true-false",
+     "prompt": "所有中国新能源汽车企业都发展得很好。",
+     "correctAnswer": "错",
+     "explanation": "原文提到一些中小型企业面临着生存压力，并非所有企业都发展得很好，因此判断错误。"
+    },
+    {
+     "id": "q4",
+     "type": "listening-statement-true-false",
+     "prompt": "政府为鼓励新能源汽车消费，减免了车辆购置税。",
+     "correctAnswer": "对",
+     "explanation": "原文明确提到政府出台了购置税减免等支持政策，因此判断正确。"
+    },
+    {
+     "id": "q5",
+     "type": "listening-statement-true-false",
+     "prompt": "未来新能源汽车行业将只注重技术创新。",
+     "correctAnswer": "错",
+     "explanation": "原文说未来行业将更加注重技术创新和品牌建设，是两者并重，并非只注重技术创新，因此判断错误。"
+    }
+   ],
+   "audio": {
+    "key": "listening/v1/ac64a7d4e969aaf1dbd94e0290466304c0a606b7722c643ce6b03c885dd87cc7.mp3",
+    "lines": [
+     {
+      "speaker": "旁白",
+      "voice": "narrator",
+      "text": "近年来，中国新能源汽车产业发展迅猛，不仅在国内市场占有率持续攀升，还大量出口到海外。据统计，2023年中国新能源汽车出口量同比增长超过70%，成为全球最大的新能源汽车出口国。这一成就得益于中国在电池技术、智能驾驶等领域的持续创新。同时，政府也出台了一系列支持政策，包括购置税减免、充电基础设施建设等。然而，随着市场竞争加剧，一些中小型企业面临着生存压力。专家指出，未来新能源汽车行业将更加注重技术创新和品牌建设。"
+     }
+    ],
+    "transcript": "近年来，中国新能源汽车产业发展迅猛，不仅在国内市场占有率持续攀升，还大量出口到海外。据统计，2023年中国新能源汽车出口量同比增长超过70%，成为全球最大的新能源汽车出口国。这一成就得益于中国在电池技术、智能驾驶等领域的持续创新。同时，政府也出台了一系列支持政策，包括购置税减免、充电基础设施建设等。然而，随着市场竞争加剧，一些中小型企业面临着生存压力。专家指出，未来新能源汽车行业将更加注重技术创新和品牌建设。",
+    "transcriptPinyin": null
+   }
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

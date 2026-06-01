@@ -1,0 +1,202 @@
+{
+ "id": "hsk1-listening-p217",
+ "level": "1",
+ "section": "listening",
+ "partKey": "listening-p2",
+ "title": "HSK1 Listening P2",
+ "titleZh": "听力 第二部分（听句子选答语）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听每段录音，然后根据录音内容选择正确的答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "他们要去哪里？",
+     "correctAnswer": "A",
+     "explanation": "录音中说'我们去公园玩吧'，所以要去公园。",
+     "audio": {
+      "key": "listening/v1/5b86910ae93982ecd9a7a75dc4c7254d6cffddde0e6fb83855e50bf53c115f5d.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "今天天气很好，我们去公园玩吧。"
+       }
+      ],
+      "transcript": "今天天气很好，我们去公园玩吧。",
+      "transcriptPinyin": "jīn tiān tiān qì hěn hǎo ， wǒ men qù gōng yuán wán ba 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "公园",
+       "pinyin": "gōng yuán"
+      },
+      {
+       "label": "B",
+       "text": "家",
+       "pinyin": "jiā"
+      },
+      {
+       "label": "C",
+       "text": "学校",
+       "pinyin": "xué xiào"
+      }
+     ],
+     "pinyin": "tā men yào qù nǎ lǐ ？"
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "他喜欢吃什么？",
+     "correctAnswer": "B",
+     "explanation": "录音中说'我喜欢吃苹果'，所以喜欢苹果。",
+     "audio": {
+      "key": "listening/v1/b971f8692ae2a0f3a06e857e65b6209faafae8dfbe0fe9b15c46ba6116a6a329.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我喜欢吃苹果，不喜欢吃香蕉。"
+       }
+      ],
+      "transcript": "我喜欢吃苹果，不喜欢吃香蕉。",
+      "transcriptPinyin": "wǒ xǐ huān chī píng guǒ ， bù xǐ huān chī xiāng jiāo 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "香蕉",
+       "pinyin": "xiāng jiāo"
+      },
+      {
+       "label": "B",
+       "text": "苹果",
+       "pinyin": "píng guǒ"
+      },
+      {
+       "label": "C",
+       "text": "橘子",
+       "pinyin": "jú zi"
+      }
+     ],
+     "pinyin": "tā xǐ huān chī shén me ？"
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "猫的名字是什么？",
+     "correctAnswer": "C",
+     "explanation": "录音中说'它的名字叫小白'，所以猫的名字是小白。",
+     "audio": {
+      "key": "listening/v1/a724a54f0d244ddbdbfcace88670c0350b9a32918d0dfed7f06e4b486ece739e.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我的猫是白色的，它的名字叫小白。"
+       }
+      ],
+      "transcript": "我的猫是白色的，它的名字叫小白。",
+      "transcriptPinyin": "wǒ de māo shì bái sè de ， tā de míng zì jiào xiǎo bái 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "小黑",
+       "pinyin": "xiǎo hēi"
+      },
+      {
+       "label": "B",
+       "text": "小花",
+       "pinyin": "xiǎo huā"
+      },
+      {
+       "label": "C",
+       "text": "小白",
+       "pinyin": "xiǎo bái"
+      }
+     ],
+     "pinyin": "māo de míng zì shì shén me ？"
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "爸爸在哪里？",
+     "correctAnswer": "B",
+     "explanation": "录音中说'爸爸在客厅看书'，所以爸爸在客厅。",
+     "audio": {
+      "key": "listening/v1/abbb842ad2cabd573382d01737f66695f2d7dd28faeda17c4186898286795afa.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "妈妈在厨房做饭，爸爸在客厅看书。"
+       }
+      ],
+      "transcript": "妈妈在厨房做饭，爸爸在客厅看书。",
+      "transcriptPinyin": "mā mā zài chú fáng zuò fàn ， bà bà zài kè tīng kàn shū 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "卧室",
+       "pinyin": "wò shì"
+      },
+      {
+       "label": "B",
+       "text": "客厅",
+       "pinyin": "kè tīng"
+      },
+      {
+       "label": "C",
+       "text": "厨房",
+       "pinyin": "chú fáng"
+      }
+     ],
+     "pinyin": "bà bà zài nǎ lǐ ？"
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "现在几点？",
+     "correctAnswer": "C",
+     "explanation": "录音中说'现在八点了'，所以现在是八点。",
+     "audio": {
+      "key": "listening/v1/b5a461d5b2c0248856612a235f102a45d79efa59459af947e7634904ca21c05c.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "现在八点了，我们九点上课。"
+       }
+      ],
+      "transcript": "现在八点了，我们九点上课。",
+      "transcriptPinyin": "xiàn zài bā diǎn le ， wǒ men jiǔ diǎn shàng kè 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "九点",
+       "pinyin": "jiǔ diǎn"
+      },
+      {
+       "label": "B",
+       "text": "七点",
+       "pinyin": "qī diǎn"
+      },
+      {
+       "label": "C",
+       "text": "八点",
+       "pinyin": "bā diǎn"
+      }
+     ],
+     "pinyin": "xiàn zài jǐ diǎn ？"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

@@ -1,0 +1,202 @@
+{
+ "id": "hsk1-listening-p205",
+ "level": "1",
+ "section": "listening",
+ "partKey": "listening-p2",
+ "title": "HSK1 Listening P2",
+ "titleZh": "听力 第二部分（听句子选答语）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听录音，然后选择正确的答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "说话的人叫什么名字？",
+     "correctAnswer": "A",
+     "explanation": "录音中说话的人说“我叫小明”，所以他的名字是小明。",
+     "audio": {
+      "key": "listening/v1/1800c1b5d20b5c521df2439a8b054fa29a06920a310c96ae3dfc23bb3f400e0b.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "你好，我叫小明。你叫什么名字？"
+       }
+      ],
+      "transcript": "你好，我叫小明。你叫什么名字？",
+      "transcriptPinyin": "nǐ hǎo ， wǒ jiào xiǎo míng 。 nǐ jiào shén me míng zì ？"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "小明",
+       "pinyin": "xiǎo míng"
+      },
+      {
+       "label": "B",
+       "text": "小李",
+       "pinyin": "xiǎo lǐ"
+      },
+      {
+       "label": "C",
+       "text": "小红",
+       "pinyin": "xiǎo hóng"
+      }
+     ],
+     "pinyin": "shuō huà de rén jiào shén me míng zì ？"
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "他几岁？",
+     "correctAnswer": "C",
+     "explanation": "录音中说“我今年十岁”，所以年龄是十岁。",
+     "audio": {
+      "key": "listening/v1/f9dc4d96160f6a8d371639e6b5ebc6cc717f14a346b6550325f6e4347a77d7a8.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我今年十岁。"
+       }
+      ],
+      "transcript": "我今年十岁。",
+      "transcriptPinyin": "wǒ jīn nián shí suì 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "九岁",
+       "pinyin": "jiǔ suì"
+      },
+      {
+       "label": "B",
+       "text": "八岁",
+       "pinyin": "bā suì"
+      },
+      {
+       "label": "C",
+       "text": "十岁",
+       "pinyin": "shí suì"
+      }
+     ],
+     "pinyin": "tā jǐ suì ？"
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "他去哪里？",
+     "correctAnswer": "C",
+     "explanation": "录音中说“我去学校”，所以去的地方是学校。",
+     "audio": {
+      "key": "listening/v1/2933c62e869ec9fa5af39a8b542e3506fb3d0bc6917be17c55bf0f69fe7f3cb1.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我去学校。"
+       }
+      ],
+      "transcript": "我去学校。",
+      "transcriptPinyin": "wǒ qù xué xiào 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "商店",
+       "pinyin": "shāng diàn"
+      },
+      {
+       "label": "B",
+       "text": "家",
+       "pinyin": "jiā"
+      },
+      {
+       "label": "C",
+       "text": "学校",
+       "pinyin": "xué xiào"
+      }
+     ],
+     "pinyin": "tā qù nǎ lǐ ？"
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "他有什么？",
+     "correctAnswer": "A",
+     "explanation": "录音中说“我有一个苹果”，所以他有苹果。",
+     "audio": {
+      "key": "listening/v1/7695ba3da207c35e6da222a6543d170dcaa30de53e22321c53d75b7f17e75eeb.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我有一个苹果。"
+       }
+      ],
+      "transcript": "我有一个苹果。",
+      "transcriptPinyin": "wǒ yǒu yí gè píng guǒ 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "一个苹果",
+       "pinyin": "yí gè píng guǒ"
+      },
+      {
+       "label": "B",
+       "text": "一本书",
+       "pinyin": "yī běn shū"
+      },
+      {
+       "label": "C",
+       "text": "一只猫",
+       "pinyin": "yī zhī māo"
+      }
+     ],
+     "pinyin": "tā yǒu shén me ？"
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "今天天气怎么样？",
+     "correctAnswer": "A",
+     "explanation": "录音中说“今天天气很好”，所以天气很好。",
+     "audio": {
+      "key": "listening/v1/199a9cbcfe613ce6c05a9ff4f0984b93c8b5bd87becc022c43cdf0fafde2e743.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "今天天气很好。"
+       }
+      ],
+      "transcript": "今天天气很好。",
+      "transcriptPinyin": "jīn tiān tiān qì hěn hǎo 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "很好",
+       "pinyin": "hěn hǎo"
+      },
+      {
+       "label": "B",
+       "text": "不好",
+       "pinyin": "bù hǎo"
+      },
+      {
+       "label": "C",
+       "text": "很冷",
+       "pinyin": "hěn lěng"
+      }
+     ],
+     "pinyin": "jīn tiān tiān qì zěn me yàng ？"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

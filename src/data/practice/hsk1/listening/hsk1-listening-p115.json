@@ -1,0 +1,117 @@
+{
+ "id": "hsk1-listening-p115",
+ "level": "1",
+ "section": "listening",
+ "partKey": "listening-p1",
+ "title": "HSK1 Listening P1",
+ "titleZh": "听力 第一部分（看图判断）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "听句子，看图片，判断对错。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "对",
+     "explanation": "句子说桌子上有一本书，图片中桌子上有一本书，两者一致。",
+     "audio": {
+      "key": "listening/v1/da5734af87518a8846f37a35493f665a740f2d386e48826852f67eb066aedead.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "桌子上有一本书。"
+       }
+      ],
+      "transcript": "桌子上有一本书。",
+      "transcriptPinyin": "zhuō zi shàng yǒu yī běn shū 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-9e4b1805dc4785de729654fc47488f60.png"
+    },
+    {
+     "id": "q2",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "错",
+     "explanation": "句子说他在喝水，但图片中他在吃苹果，动作不同。",
+     "audio": {
+      "key": "listening/v1/24ba2bf373b1c2eaa615922f12af93d6af83e94525a3e3d6ae48d6487037aa94.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "他在喝水。"
+       }
+      ],
+      "transcript": "他在喝水。",
+      "transcriptPinyin": "tā zài hē shuǐ 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-839132229dd786b5be1a32da2ec5a75a.png"
+    },
+    {
+     "id": "q3",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "对",
+     "explanation": "句子说猫在椅子上，图片中猫在椅子上，匹配。",
+     "audio": {
+      "key": "listening/v1/ffb29c818f770aac93691ed60c0aa62c854d5a898d2628f6b79caf9ed34dbf58.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "猫在椅子上。"
+       }
+      ],
+      "transcript": "猫在椅子上。",
+      "transcriptPinyin": "māo zài yǐ zi shàng 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-8466601070130defdbca8b7ee1275cd2.png"
+    },
+    {
+     "id": "q4",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "错",
+     "explanation": "句子说妈妈在打电话，但图片中她在看书，动作不一致。",
+     "audio": {
+      "key": "listening/v1/e41f92d695035462470575bc185727415d01bd010903e2c594f8d0b39c833742.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "妈妈在打电话。"
+       }
+      ],
+      "transcript": "妈妈在打电话。",
+      "transcriptPinyin": "mā mā zài dǎ diàn huà 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-3ca4c9db6d96e425a61f20617c0c3e89.png"
+    },
+    {
+     "id": "q5",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "对",
+     "explanation": "句子说今天天气很好，图片中阳光明媚，天气好，一致。",
+     "audio": {
+      "key": "listening/v1/199a9cbcfe613ce6c05a9ff4f0984b93c8b5bd87becc022c43cdf0fafde2e743.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "今天天气很好。"
+       }
+      ],
+      "transcript": "今天天气很好。",
+      "transcriptPinyin": "jīn tiān tiān qì hěn hǎo 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-c254cd4077d8f075a5b15d029c69b734.png"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

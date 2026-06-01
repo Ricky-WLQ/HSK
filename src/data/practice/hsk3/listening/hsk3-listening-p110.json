@@ -1,0 +1,289 @@
+{
+ "id": "hsk3-listening-p110",
+ "level": "3",
+ "section": "listening",
+ "partKey": "listening-p1",
+ "title": "HSK3 Listening P1",
+ "titleZh": "听力 第一部分（看图听对话）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听对话，然后从A-F的图片中选择与对话内容相符的一张。每段对话只对应一张图片，有一张图片不会被用到。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "A",
+     "explanation": "对话提到“看书”，对应图片A中的人正在读书。",
+     "audio": {
+      "key": "listening/v1/dca3fb907d255f2fc9204449d6e4bc57b4f18c71337dd37800b3ef752bcd8c62.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你在看什么书？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我看一本小说，很有意思。"
+       }
+      ],
+      "transcript": "你在看什么书？ 我看一本小说，很有意思。",
+      "transcriptPinyin": "nǐ zài kàn shén me shū ？  wǒ kàn yī běn xiǎo shuō ， hěn yǒu yì si 。"
+     }
+    },
+    {
+     "id": "q2",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "A",
+     "explanation": "对话讨论读书的习惯，对应图片A。",
+     "audio": {
+      "key": "listening/v1/09b960e5d78fe9471484d6b1f92535841e83ea0b8afbd8e8cfbf0485b8f15a6f.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "他每天都在看书。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "是啊，他喜欢读书。"
+       }
+      ],
+      "transcript": "他每天都在看书。 是啊，他喜欢读书。",
+      "transcriptPinyin": "tā měi tiān dōu zài kàn shū 。  shì a ， tā xǐ huān dú shū 。"
+     }
+    },
+    {
+     "id": "q3",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "B",
+     "explanation": "对话中的“做饭”和“做面条”都指向厨房烹饪，对应图片B。",
+     "audio": {
+      "key": "listening/v1/44e975770dd0e8e08c52bcbb1e04d0ebdb84b15a409617932ed0aa7a00c09c62.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "妈妈在做什么？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "她在做饭，今天做面条。"
+       }
+      ],
+      "transcript": "妈妈在做什么？ 她在做饭，今天做面条。",
+      "transcriptPinyin": "mā mā zài zuò shén me ？  tā zài zuò fàn ， jīn tiān zuò miàn tiáo 。"
+     }
+    },
+    {
+     "id": "q4",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "B",
+     "explanation": "对话提到“厨房”和“炒菜”，对应图片B的烹饪场景。",
+     "audio": {
+      "key": "listening/v1/5dff5b795bc52896002b1a08aef98a363d0a98102c5c126eeeccb8543185df80.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "厨房里很热闹。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "对，爸爸在炒菜呢。"
+       }
+      ],
+      "transcript": "厨房里很热闹。 对，爸爸在炒菜呢。",
+      "transcriptPinyin": "chú fáng lǐ hěn rè nào 。  duì ， bà bà zài chǎo cài ne 。"
+     }
+    },
+    {
+     "id": "q5",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "C",
+     "explanation": "对话直接描述“孩子玩球”，对应图片C。",
+     "audio": {
+      "key": "listening/v1/bd14a7e46436c3d927f58be32254390463b503d18037cc84cb046383f6d6edba.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你看那两个孩子在玩球。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "他们玩得很开心。"
+       }
+      ],
+      "transcript": "你看那两个孩子在玩球。 他们玩得很开心。",
+      "transcriptPinyin": "nǐ kàn nà liǎng gè hái zi zài wán qiú 。  tā men wán dé hěn kāi xīn 。"
+     }
+    },
+    {
+     "id": "q6",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "C",
+     "explanation": "对话提到“踢足球”，两个孩子玩球，对应图片C。",
+     "audio": {
+      "key": "listening/v1/8cced2a46b904bc1ba57e682e92df104cb13a4871e0bf4ffd04e012ae843c31f.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "今天下午我和弟弟一起踢足球了。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你们一定很累吧。"
+       }
+      ],
+      "transcript": "今天下午我和弟弟一起踢足球了。 你们一定很累吧。",
+      "transcriptPinyin": "jīn tiān xià wǔ wǒ hé dì di yì qǐ tī zú qiú le 。  nǐ men yí dìng hěn lèi ba 。"
+     }
+    },
+    {
+     "id": "q7",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "D",
+     "explanation": "对话明确说“猫在沙发上睡觉”，对应图片D。",
+     "audio": {
+      "key": "listening/v1/6cfd5df1de15caef429ee844c8fe66fc6aea26e6e0e7f86b9fa313525c01aa63.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "那只猫在沙发上睡觉。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "它睡得很香。"
+       }
+      ],
+      "transcript": "那只猫在沙发上睡觉。 它睡得很香。",
+      "transcriptPinyin": "nà zhǐ māo zài shā fā shàng shuì jiào 。  tā shuì dé hěn xiāng 。"
+     }
+    },
+    {
+     "id": "q8",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "D",
+     "explanation": "对话提到猫在沙发上躺着并睡着了，对应图片D。",
+     "audio": {
+      "key": "listening/v1/28d90e83efd18d548155794599cee83987bd77d92bdf9f4ecd436a3d586953db.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你看，猫在沙发上躺着呢。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "它好像睡着了。"
+       }
+      ],
+      "transcript": "你看，猫在沙发上躺着呢。 它好像睡着了。",
+      "transcriptPinyin": "nǐ kàn ， māo zài shā fā shàng tǎng zhe ne 。  tā hǎo xiàng shuì zháo le 。"
+     }
+    },
+    {
+     "id": "q9",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "E",
+     "explanation": "对话讨论骑自行车上班，对应图片E中的人骑自行车。",
+     "audio": {
+      "key": "listening/v1/a0dedcc30bb999630d97de3e309c0e7403168a9066ccbafcfb52073d3c8eb353.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "他每天骑自行车上班。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "这样既锻炼身体又环保。"
+       }
+      ],
+      "transcript": "他每天骑自行车上班。 这样既锻炼身体又环保。",
+      "transcriptPinyin": "tā měi tiān qí zì xíng chē shàng bān 。  zhè yàng jì duàn liàn shēn tǐ yòu huán bǎo 。"
+     }
+    },
+    {
+     "id": "q10",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "E",
+     "explanation": "对话直接描述骑自行车的人，对应图片E。",
+     "audio": {
+      "key": "listening/v1/c01f10e4b398ef1edf5025ca346f2e7f625cebbf0ae83637a7b7a29ba0266332.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你看那个人在骑自行车。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "他骑得很快。"
+       }
+      ],
+      "transcript": "你看那个人在骑自行车。 他骑得很快。",
+      "transcriptPinyin": "nǐ kàn nà ge rén zài qí zì xíng chē 。  tā qí dé hěn kuài 。"
+     }
+    }
+   ],
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-3210134f8a48116c1921de1d35f0f344.png"
+    },
+    {
+     "label": "B",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-2ae387ea353503fb2411189ebd0e5f90.png"
+    },
+    {
+     "label": "C",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-59c1cc30c654fc4d9d187e73d21ffcd6.png"
+    },
+    {
+     "label": "D",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-f4096c31c90af77e3a9a1845d5200818.png"
+    },
+    {
+     "label": "E",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-ccdf38c2636adb005379be5aab5f8a61.png"
+    },
+    {
+     "label": "F",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-13eca73beb0420493d5d9bea0d420953.png"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

@@ -18,7 +18,13 @@ export type HskSection = (typeof HSK_SECTIONS)[number];
 //  cloze-paragraph  — a passage with blanks; each blank has its own 4 options
 //  ordering         — reorder scrambled paragraphs (answer = a paragraph letter per position)
 //  short-answer     — free-write ≤10 chars (HSK7–9); AI-graded
-//  image-match      — pick the matching image (HSK1–2; deferred to the image slice)
+//  image-match      — pick the matching image (HSK1–2 reading P1)
+// Listening item types (see scripts/generate-listening.py):
+//  listening-picture-true-false  — hear a statement, judge if ONE shown picture matches (correctAnswer "对"/"错")
+//  listening-picture-match       — hear a dialogue, match it to a picture in the shared A–F image bank
+//  listening-mcq                 — hear audio (+ spoken question); pick from 3–4 text options
+//  listening-statement-true-false— hear a passage, judge a PRINTED statement (correctAnswer "对"/"错"); HSK7–9
+//  listening-dictation           — hear audio, free-write a short answer; AI-graded; HSK7–9
 export type HskQuestionType =
   | "match"
   | "cloze-wordbank"
@@ -27,12 +33,33 @@ export type HskQuestionType =
   | "cloze-paragraph"
   | "ordering"
   | "short-answer"
-  | "image-match";
+  | "image-match"
+  | "listening-picture-true-false"
+  | "listening-picture-match"
+  | "listening-mcq"
+  | "listening-statement-true-false"
+  | "listening-dictation";
 
 export interface HskOption {
   label: string; // "A".."G"
   text: string; // option / paragraph / response text (Chinese)
   pinyin?: string;
+  imageUrl?: string; // picture-match bank: this option is an image, not (or in addition to) text
+}
+
+// One spoken turn. voice maps to src/lib/tts.ts VOICES (narrator/male/female).
+export interface HskAudioLine {
+  speaker?: string; // "男" / "女" / narrator label (display only)
+  voice?: "narrator" | "male" | "female";
+  text: string;
+}
+
+// A pre-generated, pre-concatenated audio clip (built at generation time, stored in R2).
+export interface HskAudio {
+  key: string; // R2 key of the concatenated mp3 (served via /api/listening-audio)
+  lines: HskAudioLine[]; // the turns that compose the clip (also the review transcript)
+  transcript?: string; // flat transcript for review/explanation (hidden during play)
+  transcriptPinyin?: string; // HSK1–3 review pinyin
 }
 
 export interface HskQuestion {
@@ -40,11 +67,12 @@ export interface HskQuestion {
   type: HskQuestionType;
   prompt: string; // the stem: ★question / sentence-with-blank / statement-to-match / position label
   pinyin?: string; // pinyin of the prompt (HSK1–3)
-  options?: HskOption[]; // per-question options (passage-mcq, cloze-paragraph, cloze-insert)
-  correctAnswer: string; // option letter(s) for MCQ/match/cloze; reference text for short-answer
-  acceptableAnswers?: string[]; // short-answer accepted variants
+  options?: HskOption[]; // per-question options (passage-mcq, cloze-paragraph, cloze-insert, listening-mcq)
+  correctAnswer: string; // option letter(s) for MCQ/match/cloze; "对"/"错" for true-false; reference text for short-answer/dictation
+  acceptableAnswers?: string[]; // short-answer / dictation accepted variants
   explanation?: string; // Chinese explanation of the answer
-  imageUrl?: string;
+  imageUrl?: string; // single shown picture (listening-picture-true-false / image-match prompt picture)
+  audio?: HskAudio; // item-level audio (independent listening items, HSK1–3)
 }
 
 export interface HskGroup {
@@ -52,8 +80,9 @@ export interface HskGroup {
   instruction: string; // part directions (Chinese)
   passage?: string; // shared passage text (passage-mcq / cloze-insert / cloze-paragraph)
   passagePinyin?: string;
-  sharedBank?: HskOption[]; // shared A–F bank (match / cloze-wordbank / cloze-insert / ordering)
+  sharedBank?: HskOption[]; // shared A–F bank (match / cloze-wordbank / cloze-insert / ordering / picture-match images)
   questions: HskQuestion[];
+  audio?: HskAudio; // passage-level audio shared by a cluster of questions (HSK4+ listening)
 }
 
 export interface HskPracticeSet {
@@ -133,7 +162,7 @@ export function countQuestions(set: HskPracticeSet): number {
   return set.groups.reduce((n, g) => n + g.questions.length, 0);
 }
 
-/** Auto-gradable types are graded by exact letter match; short-answer is AI-graded. */
+/** Auto-gradable types are graded by exact match; free-write types are AI-graded. */
 export function isAutoGradable(type: HskQuestionType): boolean {
-  return type !== "short-answer";
+  return type !== "short-answer" && type !== "listening-dictation";
 }

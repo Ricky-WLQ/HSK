@@ -1,0 +1,289 @@
+{
+ "id": "hsk2-listening-p211",
+ "level": "2",
+ "section": "listening",
+ "partKey": "listening-p2",
+ "title": "HSK2 Listening P2",
+ "titleZh": "听力 第二部分（看图听对话）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听录音，选择与对话内容相符的图片。每题只有一个正确答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "A",
+     "explanation": "对话中提到了“一只猫”，与猫的图片相符。",
+     "audio": {
+      "key": "listening/v1/8b479de3f2b7286e649269259b2d219c654f0f5da80cc846acb719abd07e3111.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你看，那个东西很小。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "是啊，它是一只猫。"
+       }
+      ],
+      "transcript": "你看，那个东西很小。 是啊，它是一只猫。",
+      "transcriptPinyin": "nǐ kàn ， nà ge dōng xī hěn xiǎo 。  shì a ， tā shì yī zhī māo 。"
+     }
+    },
+    {
+     "id": "q2",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "A",
+     "explanation": "对话中两个人都在谈论猫，与猫的图片相符。",
+     "audio": {
+      "key": "listening/v1/47c0ae2234a063c1743b7e5b66d8c08147b9851fcad5ab9edfdbefbe61210611.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你喜欢猫吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "是的，我喜欢猫。"
+       }
+      ],
+      "transcript": "你喜欢猫吗？ 是的，我喜欢猫。",
+      "transcriptPinyin": "nǐ xǐ huān māo ma ？  shì de ， wǒ xǐ huān māo 。"
+     }
+    },
+    {
+     "id": "q3",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "B",
+     "explanation": "对话中提到了“看书”，与看书的图片相符。",
+     "audio": {
+      "key": "listening/v1/efb2f5ff1d37028c0c45d7c47057964cb40f08dd86ee076b829ef422dfc313c2.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你在图书馆做什么？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我在看书。"
+       }
+      ],
+      "transcript": "你在图书馆做什么？ 我在看书。",
+      "transcriptPinyin": "nǐ zài tú shū guǎn zuò shén me ？  wǒ zài kàn shū 。"
+     }
+    },
+    {
+     "id": "q4",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "B",
+     "explanation": "对话中提到了“书”和“看”，与看书的图片相符。",
+     "audio": {
+      "key": "listening/v1/f86be71e8a33ae38c9795c843f6d9b01aade56c77a9e690784356f1b862c403a.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "这本书很好看吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我正在看，很有意思。"
+       }
+      ],
+      "transcript": "这本书很好看吗？ 我正在看，很有意思。",
+      "transcriptPinyin": "zhè běn shū hěn hǎo kàn ma ？  wǒ zhèng zài kàn ， hěn yǒu yì si 。"
+     }
+    },
+    {
+     "id": "q5",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "C",
+     "explanation": "对话中提到了“喝水”，与喝水的图片相符。",
+     "audio": {
+      "key": "listening/v1/2ae506a8ab71d658b527f08c336c387531b9df6b7b888162618400cd1eaed8de.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "天气太热了。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我们喝点水吧。"
+       }
+      ],
+      "transcript": "天气太热了。 我们喝点水吧。",
+      "transcriptPinyin": "tiān qì tài rè le 。  wǒ men hē diǎn shuǐ ba 。"
+     }
+    },
+    {
+     "id": "q6",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "C",
+     "explanation": "对话中提到了“水”和“渴”，与喝水的图片相符。",
+     "audio": {
+      "key": "listening/v1/853e76131322309dadcb4c431fc6b1e4a1f5bfcdbddc037d922399a44bb46add.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你杯子里面有什么？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "是水，我渴了。"
+       }
+      ],
+      "transcript": "你杯子里面有什么？ 是水，我渴了。",
+      "transcriptPinyin": "nǐ bēi zi lǐ miàn yǒu shén me ？  shì shuǐ ， wǒ kě le 。"
+     }
+    },
+    {
+     "id": "q7",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "D",
+     "explanation": "对话中提到了“跑步”，与跑步的图片相符。",
+     "audio": {
+      "key": "listening/v1/5571851ad0154074e499098a490f44a37ba1a9c6cacc7ae7796ac6cb6095c483.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "他每天做什么？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "他每天跑步。"
+       }
+      ],
+      "transcript": "他每天做什么？ 他每天跑步。",
+      "transcriptPinyin": "tā měi tiān zuò shén me ？  tā měi tiān pǎo bù 。"
+     }
+    },
+    {
+     "id": "q8",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "D",
+     "explanation": "对话中提到了“跑步”，与跑步的图片相符。",
+     "audio": {
+      "key": "listening/v1/39d8012791bfa8627fc0c36312fc0f46d53f2f52ebeb0e3ecac86e366ee31776.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你周末做什么？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我去公园跑步。"
+       }
+      ],
+      "transcript": "你周末做什么？ 我去公园跑步。",
+      "transcriptPinyin": "nǐ zhōu mò zuò shén me ？  wǒ qù gōng yuán pǎo bù 。"
+     }
+    },
+    {
+     "id": "q9",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "E",
+     "explanation": "对话中提到了“睡”和“晚安”，与睡觉的图片相符。",
+     "audio": {
+      "key": "listening/v1/9afcbf6d0b700b34b6a018b36755e512dde53a09026974c9197031fee783a92e.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "晚上别太晚睡。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我已经睡了，晚安。"
+       }
+      ],
+      "transcript": "晚上别太晚睡。 我已经睡了，晚安。",
+      "transcriptPinyin": "wǎn shàng bié tài wǎn shuì 。  wǒ yǐ jīng shuì le ， wǎn ān 。"
+     }
+    },
+    {
+     "id": "q10",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "E",
+     "explanation": "对话中提到了“睡觉”，与睡觉的图片相符。",
+     "audio": {
+      "key": "listening/v1/bfbe8909470a616326c149bb80769a2420e1b8da8b4393baf83bff6413a32d3b.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "宝宝在做什么？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "宝宝在睡觉。"
+       }
+      ],
+      "transcript": "宝宝在做什么？ 宝宝在睡觉。",
+      "transcriptPinyin": "bǎo bǎo zài zuò shén me ？  bǎo bǎo zài shuì jiào 。"
+     }
+    }
+   ],
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-6549ae84c5fa69200dad9efe72fb008d.png"
+    },
+    {
+     "label": "B",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-c490ffd2e68000996cea4667c784a73c.png"
+    },
+    {
+     "label": "C",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-d51f5918143ef81851ab66a567f6f69e.png"
+    },
+    {
+     "label": "D",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-d4a71f27ea8937c6e176916b58048a76.png"
+    },
+    {
+     "label": "E",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-faffac5dcaab00e4f40c58ee278f55c5.png"
+    },
+    {
+     "label": "F",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-7478aaad83903004fe1e5ea0ffffc63f.png"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

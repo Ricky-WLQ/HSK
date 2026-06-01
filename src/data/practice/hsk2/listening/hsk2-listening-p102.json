@@ -1,0 +1,117 @@
+{
+ "id": "hsk2-listening-p102",
+ "level": "2",
+ "section": "listening",
+ "partKey": "listening-p1",
+ "title": "HSK2 Listening P1",
+ "titleZh": "听力 第一部分（看图判断）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听一句汉语陈述，然后看对应的图片。判断图片内容是否与陈述一致，选“对”或“错”。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "对",
+     "explanation": "陈述说‘他在看书’，图片中男子正在看书，内容一致。",
+     "audio": {
+      "key": "listening/v1/7318ea0dc2137fa427d38433371a44eaf2da442fe62f92d73c3dcce8f7c51de3.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "他在看书。"
+       }
+      ],
+      "transcript": "他在看书。",
+      "transcriptPinyin": "tā zài kàn shū 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-40b8bf13d441864b535f6145b7e5662d.png"
+    },
+    {
+     "id": "q2",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "错",
+     "explanation": "陈述说猫在桌子下面，但图片中猫在桌子上面，位置不符。",
+     "audio": {
+      "key": "listening/v1/52ea0c678e0cc1749b8fe0566e58c402c428ac5e11e0d3fc00d39796fcf0fc97.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "猫在桌子下面。"
+       }
+      ],
+      "transcript": "猫在桌子下面。",
+      "transcriptPinyin": "māo zài zhuō zi xià miàn 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-ad8008c69b618eea6d4de69ed945cfde.png"
+    },
+    {
+     "id": "q3",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "对",
+     "explanation": "陈述说‘她喝牛奶’，图片中女子正在喝牛奶，内容一致。",
+     "audio": {
+      "key": "listening/v1/afb0ff692a0f378b1dd379371edbaa15f20d919efd4cc5063c9d55329b4e229b.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "她喝牛奶。"
+       }
+      ],
+      "transcript": "她喝牛奶。",
+      "transcriptPinyin": "tā hē niú nǎi 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-a61deb6377e969a5251647fc6ef99775.png"
+    },
+    {
+     "id": "q4",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "错",
+     "explanation": "陈述说爸爸开车去公司，但图片中爸爸在骑自行车，不是开车。",
+     "audio": {
+      "key": "listening/v1/4583d7f17296df4977687e1ea0f341ee5cdd17bfb9ba917d6dbfd95b44a536df.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "爸爸开车去公司。"
+       }
+      ],
+      "transcript": "爸爸开车去公司。",
+      "transcriptPinyin": "bà bà kāi chē qù gōng sī 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-8ed7d6f014a1044bdeeee34e9fb03127.png"
+    },
+    {
+     "id": "q5",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "对",
+     "explanation": "陈述说‘小狗在睡觉’，图片中小狗正在睡觉，内容一致。",
+     "audio": {
+      "key": "listening/v1/906949486f15784ba4d423cf5470df4921e6842ea57157cab76378e47e73f7be.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "小狗在睡觉。"
+       }
+      ],
+      "transcript": "小狗在睡觉。",
+      "transcriptPinyin": "xiǎo gǒu zài shuì jiào 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-da3bf55766c1958edbf3782460bb9f91.png"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

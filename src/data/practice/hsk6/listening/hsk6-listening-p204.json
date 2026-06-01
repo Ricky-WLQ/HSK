@@ -1,0 +1,154 @@
+{
+ "id": "hsk6-listening-p204",
+ "level": "6",
+ "section": "listening",
+ "partKey": "listening-p2",
+ "title": "HSK6 Listening P2",
+ "titleZh": "听力 第二部分（听长文选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听下面一段关于中国古代书院的独白，然后回答5个问题。每个问题有四个选项，请选择唯一正确的答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "书院在哪个朝代最为兴盛？",
+     "correctAnswer": "D",
+     "explanation": "根据原文中‘到了宋代发展到了鼎盛时期’的表述，可知书院在宋代最为兴盛。",
+     "options": [
+      {
+       "label": "A",
+       "text": "明朝"
+      },
+      {
+       "label": "B",
+       "text": "清朝"
+      },
+      {
+       "label": "C",
+       "text": "唐朝"
+      },
+      {
+       "label": "D",
+       "text": "宋朝"
+      }
+     ]
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "根据这段文字，书院的主要功能不包括以下哪一项？",
+     "correctAnswer": "A",
+     "explanation": "原文明确提到书院‘不仅是教学场所，还承担了藏书和祭祀的功能’，并未提及军事训练。",
+     "options": [
+      {
+       "label": "A",
+       "text": "军事训练"
+      },
+      {
+       "label": "B",
+       "text": "藏书"
+      },
+      {
+       "label": "C",
+       "text": "教学"
+      },
+      {
+       "label": "D",
+       "text": "祭祀"
+      }
+     ]
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "书院的教育理念强调什么？",
+     "correctAnswer": "C",
+     "explanation": "原文指出书院的教育理念是‘强调自主学习、学术探讨和道德修养’，因此符合选项描述。",
+     "options": [
+      {
+       "label": "A",
+       "text": "权威服从"
+      },
+      {
+       "label": "B",
+       "text": "死记硬背"
+      },
+      {
+       "label": "C",
+       "text": "自主学习与学术探讨"
+      },
+      {
+       "label": "D",
+       "text": "应试技巧"
+      }
+     ]
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "书院最终衰落的主要原因是？",
+     "correctAnswer": "B",
+     "explanation": "根据原文‘随着新式学堂的兴起和科举制度的废除，传统的书院逐渐被取代’，可知新式学堂的兴起是主要原因。",
+     "options": [
+      {
+       "label": "A",
+       "text": "政府的压制"
+      },
+      {
+       "label": "B",
+       "text": "新式学堂的兴起"
+      },
+      {
+       "label": "C",
+       "text": "战争的破坏"
+      },
+      {
+       "label": "D",
+       "text": "经费不足"
+      }
+     ]
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "作者认为书院对现代有什么启示？",
+     "correctAnswer": "D",
+     "explanation": "文章最后提到‘书院的精神——即对知识的追求和人格的培养——至今仍值得我们借鉴’，因此正确的启示是重视这两方面。",
+     "options": [
+      {
+       "label": "A",
+       "text": "加强宗教教育"
+      },
+      {
+       "label": "B",
+       "text": "应该恢复书院制度"
+      },
+      {
+       "label": "C",
+       "text": "强调科举考试"
+      },
+      {
+       "label": "D",
+       "text": "重视知识追求和人格培养"
+      }
+     ]
+    }
+   ],
+   "audio": {
+    "key": "listening/v1/a6c677dfff9e9be6d93e845b804b5d14f547c093f1c8a003b3101c9463ddb0b3.mp3",
+    "lines": [
+     {
+      "speaker": "旁白",
+      "voice": "narrator",
+      "text": "听众朋友们，大家好。今天我们来聊聊中国古代的书院。书院起源于唐代，最初是私人藏书和讲学的地方，到了宋代发展到了鼎盛时期，出现了如白鹿洞书院、岳麓书院等著名学府。书院不仅是教学场所，还承担了藏书和祭祀的功能，其教育理念强调自主学习、学术探讨和道德修养，对中国古代文化的传承起到了重要作用。然而到了清末，随着新式学堂的兴起和科举制度的废除，传统的书院逐渐被取代。尽管如此，书院的精神——即对知识的追求和人格的培养——至今仍值得我们借鉴。"
+     }
+    ],
+    "transcript": "听众朋友们，大家好。今天我们来聊聊中国古代的书院。书院起源于唐代，最初是私人藏书和讲学的地方，到了宋代发展到了鼎盛时期，出现了如白鹿洞书院、岳麓书院等著名学府。书院不仅是教学场所，还承担了藏书和祭祀的功能，其教育理念强调自主学习、学术探讨和道德修养，对中国古代文化的传承起到了重要作用。然而到了清末，随着新式学堂的兴起和科举制度的废除，传统的书院逐渐被取代。尽管如此，书院的精神——即对知识的追求和人格的培养——至今仍值得我们借鉴。",
+    "transcriptPinyin": null
+   }
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

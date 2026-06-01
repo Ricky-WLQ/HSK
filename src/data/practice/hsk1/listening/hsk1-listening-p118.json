@@ -1,0 +1,117 @@
+{
+ "id": "hsk1-listening-p118",
+ "level": "1",
+ "section": "listening",
+ "partKey": "listening-p1",
+ "title": "HSK1 Listening P1",
+ "titleZh": "听力 第一部分（看图判断）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "听录音，判断图片与录音内容是否一致。一致的选“对”，不一致的选“错”。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "对",
+     "explanation": "旁白说“我在看书”，图片中的人正在看书，所以一致。",
+     "audio": {
+      "key": "listening/v1/6c81fe69ad6c96206333b4d306f39079d716ca3420d4d1012aa52c643edbd9a0.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我在看书。"
+       }
+      ],
+      "transcript": "我在看书。",
+      "transcriptPinyin": "wǒ zài kàn shū 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-16a04e9e796d63d88679bec528abc508.png"
+    },
+    {
+     "id": "q2",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "错",
+     "explanation": "旁白说猫在桌子上，但图片中猫在椅子上，所以不一致。",
+     "audio": {
+      "key": "listening/v1/07a084230348fc3a4fa757443b2deb2f1cb25363d92a326091117d34d50eaa14.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "猫在桌子上。"
+       }
+      ],
+      "transcript": "猫在桌子上。",
+      "transcriptPinyin": "māo zài zhuō zi shàng 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-5f60557407afb2c03b9e543242922592.png"
+    },
+    {
+     "id": "q3",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "对",
+     "explanation": "旁白说“他喝水”，图片中的人正在喝水，所以一致。",
+     "audio": {
+      "key": "listening/v1/a18970bce5e3fc7fdad5583208954c5d166bbf98e609f06a2de3b8bf457c97cd.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "他喝水。"
+       }
+      ],
+      "transcript": "他喝水。",
+      "transcriptPinyin": "tā hē shuǐ 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-7da4dc88c4cd36784effc1b9d3e9dc15.png"
+    },
+    {
+     "id": "q4",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "错",
+     "explanation": "旁白说狗很大，但图片中的狗很小，所以不一致。",
+     "audio": {
+      "key": "listening/v1/c33a074393ce5cb7df059acad115d53884a0770adce9651ed5af508e3ab35fab.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "狗很大。"
+       }
+      ],
+      "transcript": "狗很大。",
+      "transcriptPinyin": "gǒu hěn dà 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-80807a1ec26ee5aba9379144e389d757.png"
+    },
+    {
+     "id": "q5",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "错",
+     "explanation": "旁白说“我喜欢苹果”，图片中有苹果，所以一致。",
+     "audio": {
+      "key": "listening/v1/1d1ca9226dd6166c94ac64692c37d35cb5f47be3cb5cdcb7e71724bfb5caef5d.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我喜欢苹果。"
+       }
+      ],
+      "transcript": "我喜欢苹果。",
+      "transcriptPinyin": "wǒ xǐ huān píng guǒ 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-760a15281ec79329341f30ac7f543ca5.png"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

@@ -1,0 +1,487 @@
+{
+ "id": "hsk3-listening-p218",
+ "level": "3",
+ "section": "listening",
+ "partKey": "listening-p2",
+ "title": "HSK3 Listening P2",
+ "titleZh": "听力 第二部分（听对话选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "下面你将听到10段对话，每段对话后有一个问题。请根据对话内容，从A、B、C三个选项中选择正确答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "他们明天要做什么？",
+     "correctAnswer": "C",
+     "explanation": "对话中女士说要去公园和朋友跑步，男士也说一起去，所以答案是去公园跑步。",
+     "audio": {
+      "key": "listening/v1/c9793e486a1b182e33d49845df22d54012bd5236bb7b68f90acaf9709b1b412c.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你明天去公园吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "去，我要和我的朋友一起跑步。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "那我也去，我们一起跑吧。"
+       }
+      ],
+      "transcript": "你明天去公园吗？ 去，我要和我的朋友一起跑步。 那我也去，我们一起跑吧。",
+      "transcriptPinyin": "nǐ míng tiān qù gōng yuán ma ？  qù ， wǒ yào hé wǒ de péng yǒu yì qǐ pǎo bù 。  nà wǒ yě qù ， wǒ men yì qǐ pǎo ba 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "去公园吃饭",
+       "pinyin": "qù gōng yuán chī fàn"
+      },
+      {
+       "label": "B",
+       "text": "去公园游泳",
+       "pinyin": "qù gōng yuán yóu yǒng"
+      },
+      {
+       "label": "C",
+       "text": "去公园跑步",
+       "pinyin": "qù gōng yuán pǎo bù"
+      }
+     ],
+     "pinyin": "tā men míng tiān yào zuò shén me ？"
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "男士学汉语多久了？",
+     "correctAnswer": "C",
+     "explanation": "男士明确说自己学了三年了，所以是三年。",
+     "audio": {
+      "key": "listening/v1/58527caf4485158e2d64664de65130da3715617dff7bae318a1251ba9331e2dd.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你的汉语说得真好，学了多长时间了？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "谢谢，我学了三年了。不过我觉得还不太够。"
+       }
+      ],
+      "transcript": "你的汉语说得真好，学了多长时间了？ 谢谢，我学了三年了。不过我觉得还不太够。",
+      "transcriptPinyin": "nǐ de hàn yǔ shuō dé zhēn hǎo ， xué le duō zhǎng shí jiān le ？  xiè xiè ， wǒ xué le sān nián le 。 bù guò wǒ jué de hái bù tài gòu 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "一年",
+       "pinyin": "yī nián"
+      },
+      {
+       "label": "B",
+       "text": "两年",
+       "pinyin": "liǎng nián"
+      },
+      {
+       "label": "C",
+       "text": "三年",
+       "pinyin": "sān nián"
+      }
+     ],
+     "pinyin": "nán shì xué hàn yǔ duō jiǔ le ？"
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "女士昨天为什么没来上课？",
+     "correctAnswer": "B",
+     "explanation": "女士说自己感冒头疼在家休息，所以是因为生病没来上课。",
+     "audio": {
+      "key": "listening/v1/0ae6a547359e0c20c756d8c3fe496829f69a945937be706cc2c1c2d0268adc9c.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你昨天怎么没来上课？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我感冒了，头很疼，所以在家休息了一天。"
+       }
+      ],
+      "transcript": "你昨天怎么没来上课？ 我感冒了，头很疼，所以在家休息了一天。",
+      "transcriptPinyin": "nǐ zuó tiān zěn me méi lái shàng kè ？  wǒ gǎn mào le ， tóu hěn téng ， suǒ yǐ zài jiā xiū xī le yī tiān 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "她不想上课",
+       "pinyin": "tā bù xiǎng shàng kè"
+      },
+      {
+       "label": "B",
+       "text": "她生病了",
+       "pinyin": "tā shēng bìng le"
+      },
+      {
+       "label": "C",
+       "text": "她去了医院",
+       "pinyin": "tā qù le yī yuàn"
+      }
+     ],
+     "pinyin": "nǚ shì zuó tiān wèi shén me méi lái shàng kè ？"
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "男士觉得这家餐厅怎么样？",
+     "correctAnswer": "A",
+     "explanation": "男士说很好吃，而且价格不贵，所以是好吃又便宜。",
+     "audio": {
+      "key": "listening/v1/be977fd388a0bee71d0e4713486ce4bec667e7e0d02cdc756de468f92019eb67.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "这家餐厅的菜怎么样？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "很好吃，而且价格也不贵。我经常来这里。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "那下次我们也一起来吧。"
+       }
+      ],
+      "transcript": "这家餐厅的菜怎么样？ 很好吃，而且价格也不贵。我经常来这里。 那下次我们也一起来吧。",
+      "transcriptPinyin": "zhè jiā cān tīng de cài zěn me yàng ？  hěn hǎo chī ， ér qiě jià gé yě bù guì 。 wǒ jīng cháng lái zhè lǐ 。  nà xià cì wǒ men yě yì qǐ lái ba 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "菜好吃又便宜",
+       "pinyin": "cài hǎo chī yòu pián yi"
+      },
+      {
+       "label": "B",
+       "text": "菜不好吃",
+       "pinyin": "cài bù hǎo chī"
+      },
+      {
+       "label": "C",
+       "text": "价格很贵",
+       "pinyin": "jià gé hěn guì"
+      }
+     ],
+     "pinyin": "nán shì jué de zhè jiā cān tīng zěn me yàng ？"
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "女士周末打算做什么？",
+     "correctAnswer": "B",
+     "explanation": "女士说先去书店买书，然后去看电影，所以是先去书店再去电影院。",
+     "audio": {
+      "key": "listening/v1/18ae353dedc7be88555e0ff37fbbfc149923fa23fab8f2617a760d9f231ae60f.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你周末有什么打算？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我想去书店买本书，然后去看电影。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "听起来不错，我正好也想买本书，一起去吧。"
+       }
+      ],
+      "transcript": "你周末有什么打算？ 我想去书店买本书，然后去看电影。 听起来不错，我正好也想买本书，一起去吧。",
+      "transcriptPinyin": "nǐ zhōu mò yǒu shén me dǎ suàn ？  wǒ xiǎng qù shū diàn mǎi běn shū ， rán hòu qù kàn diàn yǐng 。  tīng qǐ lái bù cuò ， wǒ zhèng hǎo yě xiǎng mǎi běn shū ， yì qǐ qù ba 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "只去书店",
+       "pinyin": "zhǐ qù shū diàn"
+      },
+      {
+       "label": "B",
+       "text": "先去书店再去电影院",
+       "pinyin": "xiān qù shū diàn zài qù diàn yǐng yuàn"
+      },
+      {
+       "label": "C",
+       "text": "只去看电影",
+       "pinyin": "zhǐ qù kàn diàn yǐng"
+      }
+     ],
+     "pinyin": "nǚ shì zhōu mò dǎ suàn zuò shén me ？"
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "男士的手机怎么了？",
+     "correctAnswer": "B",
+     "explanation": "男士说手机掉水里不能用了，所以是坏了。",
+     "audio": {
+      "key": "listening/v1/e277f4ad0e0a20fce0c6e337a44db4426f201fc71491b41683c2964f68fd116f.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你的手机怎么了？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "刚才不小心掉到水里了，现在不能用了。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "那太糟糕了，你得买一个新手机了。"
+       }
+      ],
+      "transcript": "你的手机怎么了？ 刚才不小心掉到水里了，现在不能用了。 那太糟糕了，你得买一个新手机了。",
+      "transcriptPinyin": "nǐ de shǒu jī zěn me le ？  gāng cái bù xiǎo xīn diào dào shuǐ lǐ le ， xiàn zài bù néng yòng le 。  nà tài zāo gāo le ， nǐ dé mǎi yí gè xīn shǒu jī le 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "被偷了",
+       "pinyin": "bèi tōu le"
+      },
+      {
+       "label": "B",
+       "text": "坏了",
+       "pinyin": "huài le"
+      },
+      {
+       "label": "C",
+       "text": "丢了",
+       "pinyin": "diū le"
+      }
+     ],
+     "pinyin": "nán shì de shǒu jī zěn me le ？"
+    },
+    {
+     "id": "q7",
+     "type": "listening-mcq",
+     "prompt": "女士怎么回老家？",
+     "correctAnswer": "C",
+     "explanation": "女士说坐火车，因为机票太贵，所以是坐火车。",
+     "audio": {
+      "key": "listening/v1/6e1cf8cb819a20c32e672ca26662a811e4df3cad297f58749dcb8d54334b6b3e.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你什么时候回老家？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "下个月，学校放假我就回去。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "那你要坐火车还是飞机？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "火车，因为机票太贵了。"
+       }
+      ],
+      "transcript": "你什么时候回老家？ 下个月，学校放假我就回去。 那你要坐火车还是飞机？ 火车，因为机票太贵了。",
+      "transcriptPinyin": "nǐ shén me shí hòu huí lǎo jiā ？  xià gè yuè ， xué xiào fàng jià wǒ jiù huí qù 。  nà nǐ yào zuò huǒ chē hái shì fēi jī ？  huǒ chē ， yīn wèi jī piào tài guì le 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "自己开车",
+       "pinyin": "zì jǐ kāi chē"
+      },
+      {
+       "label": "B",
+       "text": "坐飞机",
+       "pinyin": "zuò fēi jī"
+      },
+      {
+       "label": "C",
+       "text": "坐火车",
+       "pinyin": "zuò huǒ chē"
+      }
+     ],
+     "pinyin": "nǚ shì zěn me huí lǎo jiā ？"
+    },
+    {
+     "id": "q8",
+     "type": "listening-mcq",
+     "prompt": "男士最喜欢的运动是什么？",
+     "correctAnswer": "A",
+     "explanation": "男士明确说最喜欢打篮球，所以是打篮球。",
+     "audio": {
+      "key": "listening/v1/eeaeeef0142df826ebc4c8a781d4c99e75482df62ef111e91c0c882a8732a990.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你最喜欢的运动是什么？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我最喜欢打篮球，每个周末都和朋友一起打。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "真不错，我也想学打篮球。"
+       }
+      ],
+      "transcript": "你最喜欢的运动是什么？ 我最喜欢打篮球，每个周末都和朋友一起打。 真不错，我也想学打篮球。",
+      "transcriptPinyin": "nǐ zuì xǐ huān de yùn dòng shì shén me ？  wǒ zuì xǐ huān dǎ lán qiú ， měi gè zhōu mò dōu hé péng yǒu yì qǐ dǎ 。  zhēn bù cuò ， wǒ yě xiǎng xué dǎ lán qiú 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "打篮球",
+       "pinyin": "dǎ lán qiú"
+      },
+      {
+       "label": "B",
+       "text": "踢足球",
+       "pinyin": "tī zú qiú"
+      },
+      {
+       "label": "C",
+       "text": "游泳",
+       "pinyin": "yóu yǒng"
+      }
+     ],
+     "pinyin": "nán shì zuì xǐ huān de yùn dòng shì shén me ？"
+    },
+    {
+     "id": "q9",
+     "type": "listening-mcq",
+     "prompt": "女士为什么开心？",
+     "correctAnswer": "A",
+     "explanation": "女士说考试通过了所以高兴，因此答案是考试通过了。",
+     "audio": {
+      "key": "listening/v1/3c2d737d80a64d458994c26ee5b20bf2d22bebd9e951bec177672f931d850e5a.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你今天怎么这么开心？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "因为我的考试通过了，我特别高兴。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "恭喜你！你真的很努力。"
+       }
+      ],
+      "transcript": "你今天怎么这么开心？ 因为我的考试通过了，我特别高兴。 恭喜你！你真的很努力。",
+      "transcriptPinyin": "nǐ jīn tiān zěn me zhè me kāi xīn ？  yīn wèi wǒ de kǎo shì tōng guò le ， wǒ tè bié gāo xìng 。  gōng xǐ nǐ ！ nǐ zhēn de hěn nǔ lì 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "她考试通过了",
+       "pinyin": "tā kǎo shì tōng guò le"
+      },
+      {
+       "label": "B",
+       "text": "她找到了工作",
+       "pinyin": "tā zhǎo dào le gōng zuò"
+      },
+      {
+       "label": "C",
+       "text": "她生日到了",
+       "pinyin": "tā shēng rì dào le"
+      }
+     ],
+     "pinyin": "nǚ shì wèi shén me kāi xīn ？"
+    },
+    {
+     "id": "q10",
+     "type": "listening-mcq",
+     "prompt": "男士更喜欢什么方式去公司？",
+     "correctAnswer": "B",
+     "explanation": "男士说早上地铁人多，所以他更喜欢骑自行车，因此答案是骑自行车。",
+     "audio": {
+      "key": "listening/v1/9b2e7dc4dbff274d337ca8270e3377dd49791956aabd0991a4a4b50050e4c03d.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你平时怎么去公司？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我一般坐地铁，有时候也骑自行车。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "地铁人多吗？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "早上人很多，所以我更喜欢骑自行车。"
+       }
+      ],
+      "transcript": "你平时怎么去公司？ 我一般坐地铁，有时候也骑自行车。 地铁人多吗？ 早上人很多，所以我更喜欢骑自行车。",
+      "transcriptPinyin": "nǐ píng shí zěn me qù gōng sī ？  wǒ yì bān zuò dì tiě ， yǒu shí hòu yě qí zì xíng chē 。  dì tiě rén duō ma ？  zǎo shàng rén hěn duō ， suǒ yǐ wǒ gèng xǐ huān qí zì xíng chē 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "开车",
+       "pinyin": "kāi chē"
+      },
+      {
+       "label": "B",
+       "text": "骑自行车",
+       "pinyin": "qí zì xíng chē"
+      },
+      {
+       "label": "C",
+       "text": "坐地铁",
+       "pinyin": "zuò dì tiě"
+      }
+     ],
+     "pinyin": "nán shì gèng xǐ huān shén me fāng shì qù gōng sī ？"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

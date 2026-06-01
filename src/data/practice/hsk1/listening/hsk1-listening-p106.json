@@ -1,0 +1,117 @@
+{
+ "id": "hsk1-listening-p106",
+ "level": "1",
+ "section": "listening",
+ "partKey": "listening-p1",
+ "title": "HSK1 Listening P1",
+ "titleZh": "听力 第一部分（看图判断）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听录音，看图片，判断图片与录音内容是否一致。一致选“对”，不一致选“错”。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "对",
+     "explanation": "录音说猫在桌子上，图片中猫确实在桌子上，所以一致。",
+     "audio": {
+      "key": "listening/v1/07a084230348fc3a4fa757443b2deb2f1cb25363d92a326091117d34d50eaa14.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "猫在桌子上。"
+       }
+      ],
+      "transcript": "猫在桌子上。",
+      "transcriptPinyin": "māo zài zhuō zi shàng 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-03ebe3cdde1f11d15efa746b34ae6fd5.png"
+    },
+    {
+     "id": "q2",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "对",
+     "explanation": "录音说我喝水，图片中一个人在喝水，所以一致。",
+     "audio": {
+      "key": "listening/v1/70d29ddf0742937f143b7a5c505148f89b98120bc475eb1b993ad3259886907d.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我喝水。"
+       }
+      ],
+      "transcript": "我喝水。",
+      "transcriptPinyin": "wǒ hē shuǐ 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-91cc57cddc9da5acf9e7949106a9b7a3.png"
+    },
+    {
+     "id": "q3",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "错",
+     "explanation": "录音说书在椅子上，但图片中书在椅子下面，所以不一致。",
+     "audio": {
+      "key": "listening/v1/2849f9b43bed0dd0d6a0a4d8d98acf8264de9f2589c8b2f1b3351a4b74be48bc.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "书在椅子上。"
+       }
+      ],
+      "transcript": "书在椅子上。",
+      "transcriptPinyin": "shū zài yǐ zi shàng 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-bb364dffce5765f06d6faf8653bd83b2.png"
+    },
+    {
+     "id": "q4",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "错",
+     "explanation": "录音说他跑步，但图片中的人在走路，所以不一致。",
+     "audio": {
+      "key": "listening/v1/9a34b86cd81a29b9cbcf6144d87a7cbaf606688d1cd2a218c27f30c8c3fe8e85.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "他跑步。"
+       }
+      ],
+      "transcript": "他跑步。",
+      "transcriptPinyin": "tā pǎo bù 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-d1d6cd737c44b74e0526adb1a82dc060.png"
+    },
+    {
+     "id": "q5",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "错",
+     "explanation": "录音说苹果是红色的，但图片中的苹果是绿色的，所以不一致。",
+     "audio": {
+      "key": "listening/v1/5aa34e4c9e01eea7a372488812eb40f24d63d8e61a8e784046b867a0d2e8d700.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "苹果是红色的。"
+       }
+      ],
+      "transcript": "苹果是红色的。",
+      "transcriptPinyin": "píng guǒ shì hóng sè de 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-c962e2899a0dcb736ecbaba16dce89a3.png"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

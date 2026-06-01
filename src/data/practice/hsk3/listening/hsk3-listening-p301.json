@@ -1,0 +1,387 @@
+{
+ "id": "hsk3-listening-p301",
+ "level": "3",
+ "section": "listening",
+ "partKey": "listening-p3",
+ "title": "HSK3 Listening P3",
+ "titleZh": "听力 第三部分（听短文选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听录音，根据录音选择正确答案。每个题目是一段独白，然后有一个问题，请从A、B、C三个选项中选出最合适的答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "他今天打算做什么？",
+     "correctAnswer": "B",
+     "explanation": "他说朋友约他去看电影，他决定去看电影。",
+     "audio": {
+      "key": "listening/v1/ef14b83166cd5712fce2c7f5f0927f6dda7df68418336acfad6244f790cc355d.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "今天天气很好，我想去公园散步，但是朋友约我去看电影，所以我决定去看电影。"
+       }
+      ],
+      "transcript": "今天天气很好，我想去公园散步，但是朋友约我去看电影，所以我决定去看电影。",
+      "transcriptPinyin": "jīn tiān tiān qì hěn hǎo ， wǒ xiǎng qù gōng yuán sàn bù ， dàn shì péng yǒu yuē wǒ qù kàn diàn yǐng ， suǒ yǐ wǒ jué dìng qù kàn diàn yǐng 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "去公园散步",
+       "pinyin": "qù gōng yuán sàn bù"
+      },
+      {
+       "label": "B",
+       "text": "去看电影",
+       "pinyin": "qù kàn diàn yǐng"
+      },
+      {
+       "label": "C",
+       "text": "在家休息",
+       "pinyin": "zài jiā xiū xī"
+      }
+     ],
+     "pinyin": "tā jīn tiān dǎ suàn zuò shén me ？"
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "他为什么给妈妈打电话？",
+     "correctAnswer": "A",
+     "explanation": "因为车还没来，他告诉妈妈会晚点到家。",
+     "audio": {
+      "key": "listening/v1/f846fcb697fd8b96f948421b1abc35050ee275f7bfb57bc7b800da58be7f5ee1.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我在学校门口等车，但是车还没来，我给妈妈打电话说可能晚点到家。"
+       }
+      ],
+      "transcript": "我在学校门口等车，但是车还没来，我给妈妈打电话说可能晚点到家。",
+      "transcriptPinyin": "wǒ zài xué xiào mén kǒu děng chē ， dàn shì chē hái méi lái ， wǒ gěi mā mā dǎ diàn huà shuō kě néng wǎn diǎn dào jiā 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "车还没来",
+       "pinyin": "chē hái méi lái"
+      },
+      {
+       "label": "B",
+       "text": "到家了",
+       "pinyin": "dào jiā le"
+      },
+      {
+       "label": "C",
+       "text": "车来了",
+       "pinyin": "chē lái le"
+      }
+     ],
+     "pinyin": "tā wèi shén me gěi mā mā dǎ diàn huà ？"
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "他为什么没买衣服？",
+     "correctAnswer": "B",
+     "explanation": "他说衣服太贵了，买不起。",
+     "audio": {
+      "key": "listening/v1/b9d3bc74c240d362512be7a5ba6f87f9d31c7d06ebd92463bfffd8802d22c815.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "这件衣服很漂亮，但是太贵了，我买不起，所以我只看了看就走了。"
+       }
+      ],
+      "transcript": "这件衣服很漂亮，但是太贵了，我买不起，所以我只看了看就走了。",
+      "transcriptPinyin": "zhè jiàn yī fú hěn piào liàng ， dàn shì tài guì le ， wǒ mǎi bù qǐ ， suǒ yǐ wǒ zhǐ kàn le kàn jiù zǒu le 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "没时间",
+       "pinyin": "méi shí jiān"
+      },
+      {
+       "label": "B",
+       "text": "太贵了",
+       "pinyin": "tài guì le"
+      },
+      {
+       "label": "C",
+       "text": "不喜欢",
+       "pinyin": "bù xǐ huān"
+      }
+     ],
+     "pinyin": "tā wèi shén me méi mǎi yī fú ？"
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "他今天吃什么菜？",
+     "correctAnswer": "C",
+     "explanation": "因为嗓子不舒服，他只能吃清淡的菜。",
+     "audio": {
+      "key": "listening/v1/2ac643ce9cd03bd61e613bc9fec25ad4ed53ab28f86fff5e56e212cd4e5e1ce2.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我喜欢吃辣的菜，但是今天嗓子不舒服，所以只能吃清淡的。"
+       }
+      ],
+      "transcript": "我喜欢吃辣的菜，但是今天嗓子不舒服，所以只能吃清淡的。",
+      "transcriptPinyin": "wǒ xǐ huān chī là de cài ， dàn shì jīn tiān sǎng zi bù shū fú ， suǒ yǐ zhǐ néng chī qīng dàn de 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "甜的菜",
+       "pinyin": "tián de cài"
+      },
+      {
+       "label": "B",
+       "text": "辣的菜",
+       "pinyin": "là de cài"
+      },
+      {
+       "label": "C",
+       "text": "清淡的菜",
+       "pinyin": "qīng dàn de cài"
+      }
+     ],
+     "pinyin": "tā jīn tiān chī shén me cài ？"
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "医生建议他做什么？",
+     "correctAnswer": "B",
+     "explanation": "医生让他多喝水多休息。",
+     "audio": {
+      "key": "listening/v1/aaa939593675692ec62ca2fe68f18958a61f8268b998f5b7d0f84cbee4aadc36.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我感冒了，头疼得厉害，医生让我多喝水多休息。"
+       }
+      ],
+      "transcript": "我感冒了，头疼得厉害，医生让我多喝水多休息。",
+      "transcriptPinyin": "wǒ gǎn mào le ， tóu téng dé lì hài ， yī shēng ràng wǒ duō hē shuǐ duō xiū xī 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "多运动",
+       "pinyin": "duō yùn dòng"
+      },
+      {
+       "label": "B",
+       "text": "多喝水",
+       "pinyin": "duō hē shuǐ"
+      },
+      {
+       "label": "C",
+       "text": "少睡觉",
+       "pinyin": "shǎo shuì jiào"
+      }
+     ],
+     "pinyin": "yī shēng jiàn yì tā zuò shén me ？"
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "他每天怎么去上班？",
+     "correctAnswer": "B",
+     "explanation": "他每天坐地铁上班，因为地铁更快。",
+     "audio": {
+      "key": "listening/v1/a8847eb8af37d0dd89ba5cd8ff4b7fad6144f867f53d5eeef0f2ba703e8fe3b4.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "从我家到公司坐地铁要半个小时，坐公交车要一个小时，所以我每天坐地铁上班。"
+       }
+      ],
+      "transcript": "从我家到公司坐地铁要半个小时，坐公交车要一个小时，所以我每天坐地铁上班。",
+      "transcriptPinyin": "cóng wǒ jiā dào gōng sī zuò dì tiě yào bàn gè xiǎo shí ， zuò gōng jiāo chē yào yí gè xiǎo shí ， suǒ yǐ wǒ měi tiān zuò dì tiě shàng bān 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "走路",
+       "pinyin": "zǒu lù"
+      },
+      {
+       "label": "B",
+       "text": "坐地铁",
+       "pinyin": "zuò dì tiě"
+      },
+      {
+       "label": "C",
+       "text": "坐公交车",
+       "pinyin": "zuò gōng jiāo chē"
+      }
+     ],
+     "pinyin": "tā měi tiān zěn me qù shàng bān ？"
+    },
+    {
+     "id": "q7",
+     "type": "listening-mcq",
+     "prompt": "他周末经常做什么？",
+     "correctAnswer": "C",
+     "explanation": "他经常去公园写生，也就是画画。",
+     "audio": {
+      "key": "listening/v1/016d9c5ab5a69cc024e6e5355ecd8c0f7525035f2206d9a700dc1e368d91b931.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我喜欢画画，周末经常去公园写生，有时候也去美术馆看画展。"
+       }
+      ],
+      "transcript": "我喜欢画画，周末经常去公园写生，有时候也去美术馆看画展。",
+      "transcriptPinyin": "wǒ xǐ huān huà huà ， zhōu mò jīng cháng qù gōng yuán xiě shēng ， yǒu shí hòu yě qù měi shù guǎn kàn huà zhǎn 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "去游泳",
+       "pinyin": "qù yóu yǒng"
+      },
+      {
+       "label": "B",
+       "text": "在家睡觉",
+       "pinyin": "zài jiā shuì jiào"
+      },
+      {
+       "label": "C",
+       "text": "去公园画画",
+       "pinyin": "qù gōng yuán huà huà"
+      }
+     ],
+     "pinyin": "tā zhōu mò jīng cháng zuò shén me ？"
+    },
+    {
+     "id": "q8",
+     "type": "listening-mcq",
+     "prompt": "妈妈对他说了什么？",
+     "correctAnswer": "A",
+     "explanation": "妈妈说他太累了，要注意休息。",
+     "audio": {
+      "key": "listening/v1/73b8a11cbeba7dfc87660e2f35176aede807484721ea045c36d97cb7c78edf2e.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "考试快到了，我每天复习三个小时，妈妈说我太累了，要注意休息。"
+       }
+      ],
+      "transcript": "考试快到了，我每天复习三个小时，妈妈说我太累了，要注意休息。",
+      "transcriptPinyin": "kǎo shì kuài dào le ， wǒ měi tiān fù xí sān gè xiǎo shí ， mā mā shuō wǒ tài lèi le ， yào zhù yì xiū xī 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "注意休息",
+       "pinyin": "zhù yì xiū xī"
+      },
+      {
+       "label": "B",
+       "text": "多复习",
+       "pinyin": "duō fù xí"
+      },
+      {
+       "label": "C",
+       "text": "不要考试",
+       "pinyin": "bú yào kǎo shì"
+      }
+     ],
+     "pinyin": "mā mā duì tā shuō le shén me ？"
+    },
+    {
+     "id": "q9",
+     "type": "listening-mcq",
+     "prompt": "他记错了什么？",
+     "correctAnswer": "C",
+     "explanation": "他记错了时间，把三点记成了两点。",
+     "audio": {
+      "key": "listening/v1/2dea233ea63d4fcd41dfe7878052ba10381a4b885d58303115fc7c0693cf3b99.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我和朋友约好明天下午三点在电影院门口见面，但是我记错了时间，记成了两点。"
+       }
+      ],
+      "transcript": "我和朋友约好明天下午三点在电影院门口见面，但是我记错了时间，记成了两点。",
+      "transcriptPinyin": "wǒ hé péng yǒu yuē hǎo míng tiān xià wǔ sān diǎn zài diàn yǐng yuàn mén kǒu jiàn miàn ， dàn shì wǒ jì cuò le shí jiān ， jì chéng le liǎng diǎn 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "地点",
+       "pinyin": "dì diǎn"
+      },
+      {
+       "label": "B",
+       "text": "人物",
+       "pinyin": "rén wù"
+      },
+      {
+       "label": "C",
+       "text": "时间",
+       "pinyin": "shí jiān"
+      }
+     ],
+     "pinyin": "tā jì cuò le shén me ？"
+    },
+    {
+     "id": "q10",
+     "type": "listening-mcq",
+     "prompt": "他去警察局做什么？",
+     "correctAnswer": "B",
+     "explanation": "他去警察局报案，因为钱包丢了。",
+     "audio": {
+      "key": "listening/v1/c4f7cf45f2a12e311471bdd5b156eb3806fd0d60bcf4a6191431314c8addbd45.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我的钱包不见了，里面有一些钱和银行卡，我很着急，赶紧去警察局报案。"
+       }
+      ],
+      "transcript": "我的钱包不见了，里面有一些钱和银行卡，我很着急，赶紧去警察局报案。",
+      "transcriptPinyin": "wǒ de qián bāo bú jiàn le ， lǐ miàn yǒu yī xiē qián hé yín háng kǎ ， wǒ hěn zháo jí ， gǎn jǐn qù jǐng chá jú bào àn 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "取钱",
+       "pinyin": "qǔ qián"
+      },
+      {
+       "label": "B",
+       "text": "报案",
+       "pinyin": "bào àn"
+      },
+      {
+       "label": "C",
+       "text": "找朋友",
+       "pinyin": "zhǎo péng yǒu"
+      }
+     ],
+     "pinyin": "tā qù jǐng chá jú zuò shén me ？"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

@@ -1,0 +1,437 @@
+{
+ "id": "hsk2-listening-p304",
+ "level": "2",
+ "section": "listening",
+ "partKey": "listening-p3",
+ "title": "HSK2 Listening P3",
+ "titleZh": "听力 第三部分（听对话选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "下面你将听到10个对话。每个对话后有一个问题，问题后有A、B、C三个选项。请选择正确的答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "现在是什么时候？",
+     "correctAnswer": "B",
+     "explanation": "对话中说“现在下午三点半”，所以是下午三点半。",
+     "audio": {
+      "key": "listening/v1/dc9d57e677493e99dbedaed8f517ebd8acf0752ad1ad00a25fffc7166ae61745.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你好，请问现在几点了？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "现在下午三点半。"
+       }
+      ],
+      "transcript": "你好，请问现在几点了？ 现在下午三点半。",
+      "transcriptPinyin": "nǐ hǎo ， qǐng wèn xiàn zài jǐ diǎn le ？  xiàn zài xià wǔ sān diǎn bàn 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "上午三点半",
+       "pinyin": "shàng wǔ sān diǎn bàn"
+      },
+      {
+       "label": "B",
+       "text": "下午三点半",
+       "pinyin": "xià wǔ sān diǎn bàn"
+      },
+      {
+       "label": "C",
+       "text": "下午四点",
+       "pinyin": "xià wǔ sì diǎn"
+      }
+     ],
+     "pinyin": "xiàn zài shì shén me shí hòu ？"
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "明天是什么日期？",
+     "correctAnswer": "C",
+     "explanation": "女人说“明天是五月十号”，所以是五月十号。",
+     "audio": {
+      "key": "listening/v1/f83667cd58551973b264b58582fb23d463f02b5f7eae60be9a360f99181a112a.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "明天是几号？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "明天是五月十号。"
+       }
+      ],
+      "transcript": "明天是几号？ 明天是五月十号。",
+      "transcriptPinyin": "míng tiān shì jǐ hào ？  míng tiān shì wǔ yuè shí hào 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "五月十一号",
+       "pinyin": "wǔ yuè shí yī hào"
+      },
+      {
+       "label": "B",
+       "text": "五月九号",
+       "pinyin": "wǔ yuè jiǔ hào"
+      },
+      {
+       "label": "C",
+       "text": "五月十号",
+       "pinyin": "wǔ yuè shí hào"
+      }
+     ],
+     "pinyin": "míng tiān shì shén me rì qī ？"
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "女人想吃什么东西？",
+     "correctAnswer": "B",
+     "explanation": "女人说“我想吃苹果和面包”，所以是苹果和面包。",
+     "audio": {
+      "key": "listening/v1/9a70fb463947660f7fda60528aa60ad91d059344d62646dfa8e774627aade432.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你想吃什么？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我想吃苹果和面包。"
+       }
+      ],
+      "transcript": "你想吃什么？ 我想吃苹果和面包。",
+      "transcriptPinyin": "nǐ xiǎng chī shén me ？  wǒ xiǎng chī píng guǒ huó miàn bāo 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "面包和牛奶",
+       "pinyin": "miàn bāo hé niú nǎi"
+      },
+      {
+       "label": "B",
+       "text": "苹果和面包",
+       "pinyin": "píng guǒ huó miàn bāo"
+      },
+      {
+       "label": "C",
+       "text": "苹果和牛奶",
+       "pinyin": "píng guǒ hé niú nǎi"
+      }
+     ],
+     "pinyin": "nǚ rén xiǎng chī shén me dōng xī ？"
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "男人周末要去哪里？",
+     "correctAnswer": "C",
+     "explanation": "男人说“我去商店买东西”，所以去商店。",
+     "audio": {
+      "key": "listening/v1/838f77ab980cbe9e162ee2aab89166dc054abed14a615d5c82189f0ed7a40c54.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你周末去公园吗？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "不，我去商店买东西。"
+       }
+      ],
+      "transcript": "你周末去公园吗？ 不，我去商店买东西。",
+      "transcriptPinyin": "nǐ zhōu mò qù gōng yuán ma ？  bù ， wǒ qù shāng diàn mǎi dōng xī 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "学校",
+       "pinyin": "xué xiào"
+      },
+      {
+       "label": "B",
+       "text": "公园",
+       "pinyin": "gōng yuán"
+      },
+      {
+       "label": "C",
+       "text": "商店",
+       "pinyin": "shāng diàn"
+      }
+     ],
+     "pinyin": "nán rén zhōu mò yào qù nǎ lǐ ？"
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "女人叫什么名字？",
+     "correctAnswer": "B",
+     "explanation": "女人说“我叫王小华”，所以是王小华。",
+     "audio": {
+      "key": "listening/v1/d3a206b649cf57da7248116b95059f5580ed05858cfd130dd7c91c3e6524689f.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你叫什么名字？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我叫王小华。"
+       }
+      ],
+      "transcript": "你叫什么名字？ 我叫王小华。",
+      "transcriptPinyin": "nǐ jiào shén me míng zì ？  wǒ jiào wáng xiǎo huá 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "王小明",
+       "pinyin": "wáng xiǎo míng"
+      },
+      {
+       "label": "B",
+       "text": "王小华",
+       "pinyin": "wáng xiǎo huá"
+      },
+      {
+       "label": "C",
+       "text": "李小华",
+       "pinyin": "lǐ xiǎo huá"
+      }
+     ],
+     "pinyin": "nǚ rén jiào shén me míng zì ？"
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "男人多大了？",
+     "correctAnswer": "B",
+     "explanation": "男人说“我二十岁”，所以是二十岁。",
+     "audio": {
+      "key": "listening/v1/149a20e2d159007e928897de90b7ec6220600c3bf8a6cce2771dd7db7ee9154f.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你多大了？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我二十岁。"
+       }
+      ],
+      "transcript": "你多大了？ 我二十岁。",
+      "transcriptPinyin": "nǐ duō dà le ？  wǒ èr shí suì 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "十九岁",
+       "pinyin": "shí jiǔ suì"
+      },
+      {
+       "label": "B",
+       "text": "二十岁",
+       "pinyin": "èr shí suì"
+      },
+      {
+       "label": "C",
+       "text": "二十一岁",
+       "pinyin": "èr shí yī suì"
+      }
+     ],
+     "pinyin": "nán rén duō dà le ？"
+    },
+    {
+     "id": "q7",
+     "type": "listening-mcq",
+     "prompt": "今天天气怎么样？",
+     "correctAnswer": "C",
+     "explanation": "女人说“今天很热”，所以天气很热。",
+     "audio": {
+      "key": "listening/v1/91b9413b384bd99bbd4d2fccd5f0b31bab685a723a42372bad94511eafe9486a.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "今天天气怎么样？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "今天很热，太阳很大。"
+       }
+      ],
+      "transcript": "今天天气怎么样？ 今天很热，太阳很大。",
+      "transcriptPinyin": "jīn tiān tiān qì zěn me yàng ？  jīn tiān hěn rè ， tài yáng hěn dà 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "很冷",
+       "pinyin": "hěn lěng"
+      },
+      {
+       "label": "B",
+       "text": "下雨",
+       "pinyin": "xià yǔ"
+      },
+      {
+       "label": "C",
+       "text": "很热",
+       "pinyin": "hěn rè"
+      }
+     ],
+     "pinyin": "jīn tiān tiān qì zěn me yàng ？"
+    },
+    {
+     "id": "q8",
+     "type": "listening-mcq",
+     "prompt": "书在哪里？",
+     "correctAnswer": "A",
+     "explanation": "男人说“书在桌子上”，所以是在桌子上。",
+     "audio": {
+      "key": "listening/v1/e1653edbc840d4bc4b3c77694efcbdbb17d10947611f01602059f4fec44e9992.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你的书在哪里？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "书在桌子上。"
+       }
+      ],
+      "transcript": "你的书在哪里？ 书在桌子上。",
+      "transcriptPinyin": "nǐ de shū zài nǎ lǐ ？  shū zài zhuō zi shàng 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "在桌子上",
+       "pinyin": "zài zhuō zi shàng"
+      },
+      {
+       "label": "B",
+       "text": "在书包里",
+       "pinyin": "zài shū bāo lǐ"
+      },
+      {
+       "label": "C",
+       "text": "在椅子上",
+       "pinyin": "zài yǐ zi shàng"
+      }
+     ],
+     "pinyin": "shū zài nǎ lǐ ？"
+    },
+    {
+     "id": "q9",
+     "type": "listening-mcq",
+     "prompt": "女人会说什么语言？",
+     "correctAnswer": "B",
+     "explanation": "对话中男人问是否会说汉语，女人回答会，所以女人会说汉语。",
+     "audio": {
+      "key": "listening/v1/b693abfc98b9254c204e6ef479cdd9244ac2d421fd59c07169465ceea48b9253.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你会说汉语吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "会，我说得很好。"
+       }
+      ],
+      "transcript": "你会说汉语吗？ 会，我说得很好。",
+      "transcriptPinyin": "nǐ huì shuō hàn yǔ ma ？  huì ， wǒ shuō dé hěn hǎo 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "英语",
+       "pinyin": "yīng yǔ"
+      },
+      {
+       "label": "B",
+       "text": "汉语",
+       "pinyin": "hàn yǔ"
+      },
+      {
+       "label": "C",
+       "text": "日语",
+       "pinyin": "rì yǔ"
+      }
+     ],
+     "pinyin": "nǚ rén huì shuō shén me yǔ yán ？"
+    },
+    {
+     "id": "q10",
+     "type": "listening-mcq",
+     "prompt": "男人家的电话号码是多少？",
+     "correctAnswer": "C",
+     "explanation": "男人说“是12345678”，所以电话号码是12345678。",
+     "audio": {
+      "key": "listening/v1/9f6a96d75db9734c1eaf49da643f3528a421fe0096efdf67b90960d9bdcd113d.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你家的电话号码是多少？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "是12345678。"
+       }
+      ],
+      "transcript": "你家的电话号码是多少？ 是12345678。",
+      "transcriptPinyin": "nǐ jiā de diàn huà hào mǎ shì duō shǎo ？  shì 12345678。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "12345679",
+       "pinyin": "12345679"
+      },
+      {
+       "label": "B",
+       "text": "87654321",
+       "pinyin": "87654321"
+      },
+      {
+       "label": "C",
+       "text": "12345678",
+       "pinyin": "12345678"
+      }
+     ],
+     "pinyin": "nán rén jiā de diàn huà hào mǎ shì duō shǎo ？"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

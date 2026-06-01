@@ -1,0 +1,64 @@
+{
+ "id": "hsk7-9-listening-p107",
+ "level": "7-9",
+ "section": "listening",
+ "partKey": "listening-p1",
+ "title": "HSK7-9 Listening P1",
+ "titleZh": "听力 第一部分（判断对错）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听下面一段新闻报道，然后判断下列陈述是否正确。正确的请选对，错误的请选错。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-statement-true-false",
+     "prompt": "该AI系统只能用于肺癌诊断。",
+     "correctAnswer": "错",
+     "explanation": "原文提到该系统目前用于识别早期肺癌病变，但并未说只能用于肺癌；此外，研究团队表示未来将拓展到其他疾病，因此“只能”的说法过于绝对，与原文不符。"
+    },
+    {
+     "id": "q2",
+     "type": "listening-statement-true-false",
+     "prompt": "该AI系统在临床试验中效果显著。",
+     "correctAnswer": "对",
+     "explanation": "原文明确说明该系统在多家三甲医院进行临床试验，效果显著。"
+    },
+    {
+     "id": "q3",
+     "type": "listening-statement-true-false",
+     "prompt": "AI辅助诊断系统可以完全替代医生。",
+     "correctAnswer": "错",
+     "explanation": "原文指出AI辅助诊断系统并不能完全替代医生的临床判断，人机协作才是未来趋势。"
+    },
+    {
+     "id": "q4",
+     "type": "listening-statement-true-false",
+     "prompt": "该AI系统分析医学影像的准确率超过95%。",
+     "correctAnswer": "对",
+     "explanation": "原文说该系统准确率高达95%以上，即超过95%。"
+    },
+    {
+     "id": "q5",
+     "type": "listening-statement-true-false",
+     "prompt": "该AI系统已经在心血管疾病诊断中得到应用。",
+     "correctAnswer": "错",
+     "explanation": "原文提到未来将拓展该系统在心血管疾病早期筛查中的应用，说明目前尚未应用于心血管疾病诊断。"
+    }
+   ],
+   "audio": {
+    "key": "listening/v1/d51303538eae3b63d68f3e075fa25325127af9f1b68564796d57b19c8935ffdb.mp3",
+    "lines": [
+     {
+      "speaker": "旁白",
+      "voice": "narrator",
+      "text": "近日，中国某科研团队成功研发出一种基于深度学习的人工智能辅助诊断系统，该系统能够通过分析医学影像，快速识别早期肺癌病变，准确率高达95%以上。目前，该系统已在多家三甲医院进行临床试验，效果显著。研究团队表示，未来还将进一步拓展该系统在心血管疾病和阿尔茨海默症早期筛查中的应用。专家指出，AI辅助诊断系统虽然大幅提高了诊断效率，但并不能完全替代医生的临床判断，人机协作才是未来趋势。"
+     }
+    ],
+    "transcript": "近日，中国某科研团队成功研发出一种基于深度学习的人工智能辅助诊断系统，该系统能够通过分析医学影像，快速识别早期肺癌病变，准确率高达95%以上。目前，该系统已在多家三甲医院进行临床试验，效果显著。研究团队表示，未来还将进一步拓展该系统在心血管疾病和阿尔茨海默症早期筛查中的应用。专家指出，AI辅助诊断系统虽然大幅提高了诊断效率，但并不能完全替代医生的临床判断，人机协作才是未来趋势。",
+    "transcriptPinyin": null
+   }
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

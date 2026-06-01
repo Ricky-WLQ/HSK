@@ -1,0 +1,313 @@
+{
+ "id": "hsk6-listening-p116",
+ "level": "6",
+ "section": "listening",
+ "partKey": "listening-p1",
+ "title": "HSK6 Listening P1",
+ "titleZh": "听力 第一部分（听新闻选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听下面8段新闻，每段新闻后有一个问题，从A、B、C、D四个选项中选出最佳答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "关于这项调查，下列哪项说法正确？",
+     "correctAnswer": "A",
+     "explanation": "调查显示超过六成了解，但正确率不足三成，所以A和B错误；专家指出配套设施是关键，所以C正确；D未提及。",
+     "audio": {
+      "key": "listening/v1/315ccdb3ea217b480d7bc67f620e842232e5c34a9e4ebf19a54e6226cc3bb10d.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "近日，一项关于城市居民垃圾分类意识的调查显示，超过六成受访者表示了解分类标准，但在实际操作中，正确率不足三成。专家指出，宣传力度固然重要，但配套设施的完善才是关键。"
+       }
+      ],
+      "transcript": "近日，一项关于城市居民垃圾分类意识的调查显示，超过六成受访者表示了解分类标准，但在实际操作中，正确率不足三成。专家指出，宣传力度固然重要，但配套设施的完善才是关键。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "专家认为完善设施比宣传更重要"
+      },
+      {
+       "label": "B",
+       "text": "实际操作正确率高于了解率"
+      },
+      {
+       "label": "C",
+       "text": "调查显示居民对分类很满意"
+      },
+      {
+       "label": "D",
+       "text": "大多数居民不知道分类标准"
+      }
+     ]
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "关于线上展览，下列说法正确的是？",
+     "correctAnswer": "B",
+     "explanation": "文中明确提到“打破了时空限制”；A说技术尚未成熟，但文中说技术成熟；B说吸引老年观众，但文中是年轻观众；C说访问量比线下少，但文中是五倍，多。",
+     "audio": {
+      "key": "listening/v1/2b0c394ff11ae25cec95f525a8ef35056453671d50fde619e3b0bd260d183650.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "随着虚拟现实技术的成熟，越来越多的博物馆推出了线上展览。这种模式不仅打破了时空限制，还通过互动体验吸引了大量年轻观众。据统计，去年线上展览的访问量是线下的五倍。"
+       }
+      ],
+      "transcript": "随着虚拟现实技术的成熟，越来越多的博物馆推出了线上展览。这种模式不仅打破了时空限制，还通过互动体验吸引了大量年轻观众。据统计，去年线上展览的访问量是线下的五倍。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "技术尚未成熟"
+      },
+      {
+       "label": "B",
+       "text": "突破了时间和空间的限制"
+      },
+      {
+       "label": "C",
+       "text": "访问量比线下少"
+      },
+      {
+       "label": "D",
+       "text": "主要吸引老年观众"
+      }
+     ]
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "对于共享经济，研究指出什么？",
+     "correctAnswer": "A",
+     "explanation": "研究指出共享经济提高资源利用率，但带来新挑战，所以C正确；A和B太绝对；D说更加容易，但文中是挑战。",
+     "audio": {
+      "key": "listening/v1/d08773a736ed36b4070a857f24bb8f39851b95fd5e38c3663e1e138e2e60ae73.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "随着共享经济的兴起，共享单车、共享汽车等模式已经深入人心。然而，近期有研究表明，共享模式虽然提高了资源利用率，但也带来了城市管理的新挑战，比如乱停乱放、维护成本高等问题。"
+       }
+      ],
+      "transcript": "随着共享经济的兴起，共享单车、共享汽车等模式已经深入人心。然而，近期有研究表明，共享模式虽然提高了资源利用率，但也带来了城市管理的新挑战，比如乱停乱放、维护成本高等问题。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "带来便利的同时也有挑战"
+      },
+      {
+       "label": "B",
+       "text": "只带来好处没有坏处"
+      },
+      {
+       "label": "C",
+       "text": "完全解决了资源浪费"
+      },
+      {
+       "label": "D",
+       "text": "城市管理更加容易了"
+      }
+     ]
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "关于汇率波动，下列说法正确的是？",
+     "correctAnswer": "C",
+     "explanation": "明确说有利于出口，增加进口成本，所以D正确。A说对所有有利，错；B说只影响进口，错；C说对出口不利，错。",
+     "audio": {
+      "key": "listening/v1/250a5c126eb0fce73c580f7754800e9b50045ae912a5e906212321d5f908e3a8.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "在国际贸易中，汇率波动对进出口企业影响巨大。近日，人民币对美元汇率持续走低，这有利于出口企业提高竞争力，但同时也增加了进口企业的成本。专家建议企业通过金融工具对冲风险。"
+       }
+      ],
+      "transcript": "在国际贸易中，汇率波动对进出口企业影响巨大。近日，人民币对美元汇率持续走低，这有利于出口企业提高竞争力，但同时也增加了进口企业的成本。专家建议企业通过金融工具对冲风险。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "对所有企业都有利"
+      },
+      {
+       "label": "B",
+       "text": "只影响进口企业"
+      },
+      {
+       "label": "C",
+       "text": "对出口企业有利，对进口企业不利"
+      },
+      {
+       "label": "D",
+       "text": "对出口企业不利"
+      }
+     ]
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "关于移动支付，这则新闻主要强调了什么？",
+     "correctAnswer": "D",
+     "explanation": "新闻提到老年人遇到困难，社区开设培训班帮助，所以C正确。A未提及；B说完全适应，与遇到困难矛盾；D说没有任何问题，显然有老年人困难。",
+     "audio": {
+      "key": "listening/v1/fea05c60ea61c1c818b2978a4a7ba79087ad9f5859c46b6fbbacf45f2382b87d.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "近年来，随着移动支付的普及，现金的使用频率大幅下降。然而，老年人群体在适应这一变化时遇到了困难。为此，一些社区开设了智能手机培训班，帮助他们掌握基本操作。"
+       }
+      ],
+      "transcript": "近年来，随着移动支付的普及，现金的使用频率大幅下降。然而，老年人群体在适应这一变化时遇到了困难。为此，一些社区开设了智能手机培训班，帮助他们掌握基本操作。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "老年人已经完全适应"
+      },
+      {
+       "label": "B",
+       "text": "年轻人不再使用现金"
+      },
+      {
+       "label": "C",
+       "text": "移动支付没有带来任何问题"
+      },
+      {
+       "label": "D",
+       "text": "社区帮助老年人学习使用智能手机"
+      }
+     ]
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "根据研究，长期熬夜会导致什么结果？",
+     "correctAnswer": "D",
+     "explanation": "研究明确指出长期熬夜增加心血管疾病风险，所以C正确。A降低风险错；B没影响错；D说只影响睡眠时间，但主要讲疾病风险。",
+     "audio": {
+      "key": "listening/v1/71035eb3afeeb4081e5e14bbb4561ff10aa0b2c654ff3d904525ff259188081f.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "一项最新研究显示，长期熬夜会显著增加患心血管疾病的风险。研究人员对近十万名志愿者进行了跟踪调查，结果发现，睡眠不足六小时的人群患病率比正常睡眠者高出百分之三十。"
+       }
+      ],
+      "transcript": "一项最新研究显示，长期熬夜会显著增加患心血管疾病的风险。研究人员对近十万名志愿者进行了跟踪调查，结果发现，睡眠不足六小时的人群患病率比正常睡眠者高出百分之三十。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "对健康没有影响"
+      },
+      {
+       "label": "B",
+       "text": "只影响睡眠时间"
+      },
+      {
+       "label": "C",
+       "text": "降低患病风险"
+      },
+      {
+       "label": "D",
+       "text": "增加心血管疾病风险"
+      }
+     ]
+    },
+    {
+     "id": "q7",
+     "type": "listening-mcq",
+     "prompt": "关于我国垃圾分类工作，下列说法正确的是？",
+     "correctAnswer": "C",
+     "explanation": "新闻明确说一些城市通过奖励机制提高参与度，所以B正确。A说所有效果都好，错；C说只有少数城市，但已有超过两百个，不算少；D说普遍很高，但效果参差不齐。",
+     "audio": {
+      "key": "listening/v1/279278ad7616a3ba620f6ed3b9586b34ad464b72a1fbfa67affb2fa5c6bde96b.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "在环境保护领域，垃圾分类一直是热点话题。目前，我国已有超过两百个城市启动了垃圾分类工作，但实施效果参差不齐。一些城市通过奖励机制提高了居民参与度，而另一些则因为监管不力而效果不佳。"
+       }
+      ],
+      "transcript": "在环境保护领域，垃圾分类一直是热点话题。目前，我国已有超过两百个城市启动了垃圾分类工作，但实施效果参差不齐。一些城市通过奖励机制提高了居民参与度，而另一些则因为监管不力而效果不佳。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "居民参与度普遍很高"
+      },
+      {
+       "label": "B",
+       "text": "只有少数城市启动了工作"
+      },
+      {
+       "label": "C",
+       "text": "一些城市用奖励机制提高参与度"
+      },
+      {
+       "label": "D",
+       "text": "所有城市效果都很好"
+      }
+     ]
+    },
+    {
+     "id": "q8",
+     "type": "listening-mcq",
+     "prompt": "关于人工智能在医疗领域的应用，以下哪项说法正确？",
+     "correctAnswer": "B",
+     "explanation": "文中说AI能提高检出率，但无法完全替代医生，所以C正确。A说完全替代，错；B说只能用于影像，但文中只举例影像，不排除其他，且“只能”太绝对；D说更准确，文中未比较准确性。",
+     "audio": {
+      "key": "listening/v1/23fb7f9856d7c39bafb0056056a0fd5b88c67190cdaa405403241710e5a1ac42.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "人工智能在医疗领域的应用日益广泛。例如，AI辅助诊断系统能够快速分析医学影像，提高早期癌症的检出率。然而，专家提醒，AI技术目前仍无法完全替代医生的判断，只能作为辅助工具。"
+       }
+      ],
+      "transcript": "人工智能在医疗领域的应用日益广泛。例如，AI辅助诊断系统能够快速分析医学影像，提高早期癌症的检出率。然而，专家提醒，AI技术目前仍无法完全替代医生的判断，只能作为辅助工具。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "AI诊断结果比医生更准确"
+      },
+      {
+       "label": "B",
+       "text": "AI可以提高诊断效率，但无法替代医生"
+      },
+      {
+       "label": "C",
+       "text": "AI已经可以完全替代医生"
+      },
+      {
+       "label": "D",
+       "text": "AI只能用于影像分析"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

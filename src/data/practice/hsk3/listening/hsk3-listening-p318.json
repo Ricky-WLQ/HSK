@@ -1,0 +1,387 @@
+{
+ "id": "hsk3-listening-p318",
+ "level": "3",
+ "section": "listening",
+ "partKey": "listening-p3",
+ "title": "HSK3 Listening P3",
+ "titleZh": "听力 第三部分（听短文选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听录音，然后回答问题，从A、B、C三个选项中选择正确答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "他们明天下午要做什么？",
+     "correctAnswer": "B",
+     "explanation": "录音中说“明天下午三点我们去公园玩”，所以是去公园玩。",
+     "audio": {
+      "key": "listening/v1/8d5c82572b4d7dba6555b898af8079b696403b030d45acc1f07fbb35049be83e.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "明天下午三点我们去公园玩，你要准时到。"
+       }
+      ],
+      "transcript": "明天下午三点我们去公园玩，你要准时到。",
+      "transcriptPinyin": "míng tiān xià wǔ sān diǎn wǒ men qù gōng yuán wán ， nǐ yào zhǔn shí dào 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "在家休息",
+       "pinyin": "zài jiā xiū xī"
+      },
+      {
+       "label": "B",
+       "text": "去公园玩",
+       "pinyin": "qù gōng yuán wán"
+      },
+      {
+       "label": "C",
+       "text": "去学校",
+       "pinyin": "qù xué xiào"
+      }
+     ],
+     "pinyin": "tā men míng tiān xià wǔ yào zuò shén me ？"
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "说话人的书可能在哪儿？",
+     "correctAnswer": "B",
+     "explanation": "录音中说“可能放在教室的桌子上”，所以书可能在教室。",
+     "audio": {
+      "key": "listening/v1/b071e70ac30728bb9fb6ab5d715844c283f383cf7075b4fada4ac2176e7660d5.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我找不到我的汉语书了，可能放在教室的桌子上。"
+       }
+      ],
+      "transcript": "我找不到我的汉语书了，可能放在教室的桌子上。",
+      "transcriptPinyin": "wǒ zhǎo bú dào wǒ de hàn yǔ shū le ， kě néng fàng zài jiào shì de zhuō zi shàng 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "在图书馆",
+       "pinyin": "zài tú shū guǎn"
+      },
+      {
+       "label": "B",
+       "text": "在教室",
+       "pinyin": "zài jiào shì"
+      },
+      {
+       "label": "C",
+       "text": "在家里",
+       "pinyin": "zài jiā lǐ"
+      }
+     ],
+     "pinyin": "shuō huà rén de shū kě néng zài nǎ ér ？"
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "今天的天气怎么样？",
+     "correctAnswer": "A",
+     "explanation": "录音中说“今天天气很热”，所以很热。",
+     "audio": {
+      "key": "listening/v1/7150655ddaef0a8eb5054d7f327fc0ca27db14fb4a550bfbd09b3b9cf9571b96.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "今天天气很热，温度有三十八度，你要多喝水。"
+       }
+      ],
+      "transcript": "今天天气很热，温度有三十八度，你要多喝水。",
+      "transcriptPinyin": "jīn tiān tiān qì hěn rè ， wēn dù yǒu sān shí bā dù ， nǐ yào duō hē shuǐ 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "很热",
+       "pinyin": "hěn rè"
+      },
+      {
+       "label": "B",
+       "text": "很冷",
+       "pinyin": "hěn lěng"
+      },
+      {
+       "label": "C",
+       "text": "很凉快",
+       "pinyin": "hěn liáng kuài"
+      }
+     ],
+     "pinyin": "jīn tiān de tiān qì zěn me yàng ？"
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "哪个水果更贵？",
+     "correctAnswer": "C",
+     "explanation": "录音中说苹果五块钱一斤，香蕉三块钱一斤，所以苹果更贵。",
+     "audio": {
+      "key": "listening/v1/b2d99cd3e8121874ff694f25db16b376036e45a4d847f52a2290c9a7c7df8593.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "苹果五块钱一斤，香蕉三块钱一斤，你要买哪个？"
+       }
+      ],
+      "transcript": "苹果五块钱一斤，香蕉三块钱一斤，你要买哪个？",
+      "transcriptPinyin": "píng guǒ wǔ kuài qián yī jīn ， xiāng jiāo sān kuài qián yī jīn ， nǐ yào mǎi nǎ ge ？"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "一样贵",
+       "pinyin": "yī yàng guì"
+      },
+      {
+       "label": "B",
+       "text": "香蕉",
+       "pinyin": "xiāng jiāo"
+      },
+      {
+       "label": "C",
+       "text": "苹果",
+       "pinyin": "píng guǒ"
+      }
+     ],
+     "pinyin": "nǎ ge shuǐ guǒ gèng guì ？"
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "医院在哪里？",
+     "correctAnswer": "B",
+     "explanation": "录音中说“医院就在右边”，所以医院在右边。",
+     "audio": {
+      "key": "listening/v1/c592f591e1f99eef1dc0e22355ba26427c031b3b7f4dee18b83898c8e8c36bb8.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "往前走，到红绿灯左转，医院就在右边。"
+       }
+      ],
+      "transcript": "往前走，到红绿灯左转，医院就在右边。",
+      "transcriptPinyin": "wǎng qián zǒu ， dào hóng lǜ dēng zuǒ zhuǎn ， yī yuàn jiù zài yòu biān 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "左边",
+       "pinyin": "zuǒ biān"
+      },
+      {
+       "label": "B",
+       "text": "右边",
+       "pinyin": "yòu biān"
+      },
+      {
+       "label": "C",
+       "text": "前面",
+       "pinyin": "qián miàn"
+      }
+     ],
+     "pinyin": "yī yuàn zài nǎ lǐ ？"
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "电影几点开始？",
+     "correctAnswer": "A",
+     "explanation": "录音中明确说“电影九点开始”。",
+     "audio": {
+      "key": "listening/v1/b20f6bf01643853ac1989b0919d501d79a503a9de286d303d34ab9b6e85de880.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "现在八点半，电影九点开始，我们还有半小时。"
+       }
+      ],
+      "transcript": "现在八点半，电影九点开始，我们还有半小时。",
+      "transcriptPinyin": "xiàn zài bā diǎn bàn ， diàn yǐng jiǔ diǎn kāi shǐ ， wǒ men hái yǒu bàn xiǎo shí 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "九点",
+       "pinyin": "jiǔ diǎn"
+      },
+      {
+       "label": "B",
+       "text": "九点半",
+       "pinyin": "jiǔ diǎn bàn"
+      },
+      {
+       "label": "C",
+       "text": "八点半",
+       "pinyin": "bā diǎn bàn"
+      }
+     ],
+     "pinyin": "diàn yǐng jǐ diǎn kāi shǐ ？"
+    },
+    {
+     "id": "q7",
+     "type": "listening-mcq",
+     "prompt": "姐姐做什么工作？",
+     "correctAnswer": "C",
+     "explanation": "录音中说“我姐姐是医生”。",
+     "audio": {
+      "key": "listening/v1/75a5eb15ca0bb7322b18174e83fae7433511931c1f71a192de58c14e833d993c.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我姐姐是医生，她工作很忙，每天回家很晚。"
+       }
+      ],
+      "transcript": "我姐姐是医生，她工作很忙，每天回家很晚。",
+      "transcriptPinyin": "wǒ jiě jiě shì yī shēng ， tā gōng zuò hěn máng ， měi tiān huí jiā hěn wǎn 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "学生",
+       "pinyin": "xué shēng"
+      },
+      {
+       "label": "B",
+       "text": "老师",
+       "pinyin": "lǎo shī"
+      },
+      {
+       "label": "C",
+       "text": "医生",
+       "pinyin": "yī shēng"
+      }
+     ],
+     "pinyin": "jiě jiě zuò shén me gōng zuò ？"
+    },
+    {
+     "id": "q8",
+     "type": "listening-mcq",
+     "prompt": "很多人喜欢吃什么？",
+     "correctAnswer": "A",
+     "explanation": "录音中说“特别是鱼，很多人喜欢”。",
+     "audio": {
+      "key": "listening/v1/3f915bf7d6b34781a50b12ca84cec1bc21e57b129db81c37938765e1e6a086d9.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "这家饭馆的菜很好吃，特别是鱼，很多人喜欢。"
+       }
+      ],
+      "transcript": "这家饭馆的菜很好吃，特别是鱼，很多人喜欢。",
+      "transcriptPinyin": "zhè jiā fàn guǎn de cài hěn hǎo chī ， tè bié shì yú ， hěn duō rén xǐ huān 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "鱼",
+       "pinyin": "yú"
+      },
+      {
+       "label": "B",
+       "text": "面条",
+       "pinyin": "miàn tiáo"
+      },
+      {
+       "label": "C",
+       "text": "饺子",
+       "pinyin": "jiǎo zi"
+      }
+     ],
+     "pinyin": "hěn duō rén xǐ huān chī shén me ？"
+    },
+    {
+     "id": "q9",
+     "type": "listening-mcq",
+     "prompt": "周末他常做什么？",
+     "correctAnswer": "A",
+     "explanation": "录音中说“周末我常常去图书馆看书”。",
+     "audio": {
+      "key": "listening/v1/d477599c76ad7d58c40b3d611abb43bed1d37c6e5d9e4683c8bce01fe0428f33.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "周末我常常去图书馆看书，有时候也去运动。"
+       }
+      ],
+      "transcript": "周末我常常去图书馆看书，有时候也去运动。",
+      "transcriptPinyin": "zhōu mò wǒ cháng cháng qù tú shū guǎn kàn shū ， yǒu shí hòu yě qù yùn dòng 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "去图书馆看书",
+       "pinyin": "qù tú shū guǎn kàn shū"
+      },
+      {
+       "label": "B",
+       "text": "看电视",
+       "pinyin": "kàn diàn shì"
+      },
+      {
+       "label": "C",
+       "text": "在家睡觉",
+       "pinyin": "zài jiā shuì jiào"
+      }
+     ],
+     "pinyin": "zhōu mò tā cháng zuò shén me ？"
+    },
+    {
+     "id": "q10",
+     "type": "listening-mcq",
+     "prompt": "他要买哪件衣服？",
+     "correctAnswer": "C",
+     "explanation": "录音中说“我要买那件便宜的”。",
+     "audio": {
+      "key": "listening/v1/2a7dbfb533bb2df746ed4fab6311d73fde163586d6aeb449eaae531ed334bc6e.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "这件衣服太贵了，我要买那件便宜的。"
+       }
+      ],
+      "transcript": "这件衣服太贵了，我要买那件便宜的。",
+      "transcriptPinyin": "zhè jiàn yī fú tài guì le ， wǒ yào mǎi nà jiàn pián yi de 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "两件都买",
+       "pinyin": "liǎng jiàn dōu mǎi"
+      },
+      {
+       "label": "B",
+       "text": "贵的",
+       "pinyin": "guì de"
+      },
+      {
+       "label": "C",
+       "text": "便宜的",
+       "pinyin": "pián yi de"
+      }
+     ],
+     "pinyin": "tā yào mǎi nǎ jiàn yī fú ？"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

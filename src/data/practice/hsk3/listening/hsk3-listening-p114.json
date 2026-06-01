@@ -1,0 +1,289 @@
+{
+ "id": "hsk3-listening-p114",
+ "level": "3",
+ "section": "listening",
+ "partKey": "listening-p1",
+ "title": "HSK3 Listening P1",
+ "titleZh": "听力 第一部分（看图听对话）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "听对话，选择与对话内容相符的图片。每个对话对应一幅图片，注意有一幅图片是多余的。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "A",
+     "explanation": "对话中提到吃米饭，与图片A（吃饭）相符。",
+     "audio": {
+      "key": "listening/v1/e81dd4634df3f41847cb22d09267b2b9b63f6ba7dca9a535bff6908ed666ef5e.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你中午吃了什么？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我吃了一碗米饭，还有菜。"
+       }
+      ],
+      "transcript": "你中午吃了什么？ 我吃了一碗米饭，还有菜。",
+      "transcriptPinyin": "nǐ zhōng wǔ chī le shén me ？  wǒ chī le yī wǎn mǐ fàn ， hái yǒu cài 。"
+     }
+    },
+    {
+     "id": "q2",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "B",
+     "explanation": "对话提到看书，与图片B（看书）相符。",
+     "audio": {
+      "key": "listening/v1/6018d1f4af26c2929bea212486bb862b673368ec523484a25ee86ed1c93523ba.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你昨天晚上做了什么？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我在沙发上看了一本书。"
+       }
+      ],
+      "transcript": "你昨天晚上做了什么？ 我在沙发上看了一本书。",
+      "transcriptPinyin": "nǐ zuó tiān wǎn shàng zuò le shén me ？  wǒ zài shā fā shàng kàn le yī běn shū 。"
+     }
+    },
+    {
+     "id": "q3",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "C",
+     "explanation": "对话提到骑自行车，与图片C（骑车）相符。",
+     "audio": {
+      "key": "listening/v1/09f7a816b4db0ae6493bb23f1da93bfa4b7a07b459832f37a57f35d6d35c5f52.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你每天怎么去上班？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我骑自行车去，很方便。"
+       }
+      ],
+      "transcript": "你每天怎么去上班？ 我骑自行车去，很方便。",
+      "transcriptPinyin": "nǐ měi tiān zěn me qù shàng bān ？  wǒ qí zì xíng chē qù ， hěn fāng biàn 。"
+     }
+    },
+    {
+     "id": "q4",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "D",
+     "explanation": "对话提到看电视，与图片D（看电视）相符。",
+     "audio": {
+      "key": "listening/v1/dd848825d2266db18cabc39f25d3f5daf15fca205190631969d3e1cff46d4487.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "周末你喜欢做什么？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我喜欢在家看电视，特别是搞笑节目。"
+       }
+      ],
+      "transcript": "周末你喜欢做什么？ 我喜欢在家看电视，特别是搞笑节目。",
+      "transcriptPinyin": "zhōu mò nǐ xǐ huān zuò shén me ？  wǒ xǐ huān zài jiā kàn diàn shì ， tè bié shì gǎo xiào jié mù 。"
+     }
+    },
+    {
+     "id": "q5",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "E",
+     "explanation": "对话提到睡觉，与图片E（睡觉）相符。",
+     "audio": {
+      "key": "listening/v1/92d17d558d3f9d16d0dfee063b93a87fbb1e5c4624b29a04c17d8df2ffd25309.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你昨天晚上几点睡？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我十点就上床睡觉了。"
+       }
+      ],
+      "transcript": "你昨天晚上几点睡？ 我十点就上床睡觉了。",
+      "transcriptPinyin": "nǐ zuó tiān wǎn shàng jǐ diǎn shuì ？  wǒ shí diǎn jiù shàng chuáng shuì jiào le 。"
+     }
+    },
+    {
+     "id": "q6",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "A",
+     "explanation": "对话提到吃饭，与图片A（吃饭）相符。",
+     "audio": {
+      "key": "listening/v1/bec8f7f30e49f1f2dc324734d85304d8f9a42cf0bd2c7f1a6967e34e35515600.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你饿了吗？我们去吃饭吧。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "好啊，我想吃米饭和鱼。"
+       }
+      ],
+      "transcript": "你饿了吗？我们去吃饭吧。 好啊，我想吃米饭和鱼。",
+      "transcriptPinyin": "nǐ è le ma ？ wǒ men qù chī fàn ba 。  hǎo a ， wǒ xiǎng chī mǐ fàn hé yú 。"
+     }
+    },
+    {
+     "id": "q7",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "B",
+     "explanation": "对话提到看书，与图片B（看书）相符。",
+     "audio": {
+      "key": "listening/v1/1b8c6e29604fc063cb6a216176acb9c1ec66bd6a92c284c4bab6be6de23f8549.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你周末怎么过的？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我看了两本书，一本很有趣。"
+       }
+      ],
+      "transcript": "你周末怎么过的？ 我看了两本书，一本很有趣。",
+      "transcriptPinyin": "nǐ zhōu mò zěn me guò de ？  wǒ kàn le liǎng běn shū ， yī běn hěn yǒu qù 。"
+     }
+    },
+    {
+     "id": "q8",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "C",
+     "explanation": "对话提到骑自行车，与图片C（骑车）相符。",
+     "audio": {
+      "key": "listening/v1/636c69ebd71270e42b5368cd0be5f00e6ea4651d21e4e0d026adf7c5ba1535e8.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你家离公司远吗？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "不远，我骑自行车十分钟就到。"
+       }
+      ],
+      "transcript": "你家离公司远吗？ 不远，我骑自行车十分钟就到。",
+      "transcriptPinyin": "nǐ jiā lí gōng sī yuǎn ma ？  bù yuǎn ， wǒ qí zì xíng chē shí fēn zhōng jiù dào 。"
+     }
+    },
+    {
+     "id": "q9",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "D",
+     "explanation": "对话提到看电视节目，与图片D（看电视）相符。",
+     "audio": {
+      "key": "listening/v1/dbea83e58be32de1f91328f03c57193edfc44489924ae54b30ab52a348ecb7cf.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你昨天晚上看电视了吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "看了，有一个节目特别好笑。"
+       }
+      ],
+      "transcript": "你昨天晚上看电视了吗？ 看了，有一个节目特别好笑。",
+      "transcriptPinyin": "nǐ zuó tiān wǎn shàng kàn diàn shì le ma ？  kàn le ， yǒu yí gè jié mù tè bié hǎo xiào 。"
+     }
+    },
+    {
+     "id": "q10",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "E",
+     "explanation": "对话提到睡觉，与图片E（睡觉）相符。",
+     "audio": {
+      "key": "listening/v1/667064210c69e4b259e6e6d99c62052f9a7a5383a9ee5c94e85cc9f647739839.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你困了吗？要不要去睡一会儿？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "好的，我睡一个小时再起来。"
+       }
+      ],
+      "transcript": "你困了吗？要不要去睡一会儿？ 好的，我睡一个小时再起来。",
+      "transcriptPinyin": "nǐ kùn le ma ？ yào bù yào qù shuì yī huì er ？  hǎo de ， wǒ shuì yí gè xiǎo shí zài qǐ lái 。"
+     }
+    }
+   ],
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-b7bb7f3bcd80303d176e9150d372a535.png"
+    },
+    {
+     "label": "B",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-2265eee7587ef1420f3f0516bd5dc8cd.png"
+    },
+    {
+     "label": "C",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-ebf8b65de6cd37ead047b9716d927227.png"
+    },
+    {
+     "label": "D",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-a24fe03ef28a82bb958f3a0869eb8701.png"
+    },
+    {
+     "label": "E",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-15910e5a05a889fabd45b64702356e7f.png"
+    },
+    {
+     "label": "F",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-13259efcf06205fdff438f8f71732f20.png"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

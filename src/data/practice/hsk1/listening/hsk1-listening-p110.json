@@ -1,0 +1,117 @@
+{
+ "id": "hsk1-listening-p110",
+ "level": "1",
+ "section": "listening",
+ "partKey": "listening-p1",
+ "title": "HSK1 Listening P1",
+ "titleZh": "听力 第一部分（看图判断）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听录音，然后看图片。判断图片内容是否与录音内容一致。如果一致，请选择“对”；如果不一致，请选择“错”。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "对",
+     "explanation": "录音说桌子上有一本书，图片中也画了桌子上有一本书，两者一致，所以是对的。",
+     "audio": {
+      "key": "listening/v1/da5734af87518a8846f37a35493f665a740f2d386e48826852f67eb066aedead.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "桌子上有一本书。"
+       }
+      ],
+      "transcript": "桌子上有一本书。",
+      "transcriptPinyin": "zhuō zi shàng yǒu yī běn shū 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-b0bff4623c209f5bcffbe5dd68d868b4.png"
+    },
+    {
+     "id": "q2",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "错",
+     "explanation": "录音说猫在椅子上，但图片中是一只狗在椅子上，没有猫，所以是错的。",
+     "audio": {
+      "key": "listening/v1/ffb29c818f770aac93691ed60c0aa62c854d5a898d2628f6b79caf9ed34dbf58.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "猫在椅子上。"
+       }
+      ],
+      "transcript": "猫在椅子上。",
+      "transcriptPinyin": "māo zài yǐ zi shàng 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-60a5768c6457a46b4f38483880ec6436.png"
+    },
+    {
+     "id": "q3",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "错",
+     "explanation": "录音说今天是晴天，但图片中是下雨天，没有太阳，所以是错的。",
+     "audio": {
+      "key": "listening/v1/8a4822081a3b309d7556b7f525b1713fd1d740b61e70e8207b6dcfc099c12321.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "今天是晴天。"
+       }
+      ],
+      "transcript": "今天是晴天。",
+      "transcriptPinyin": "jīn tiān shì qíng tiān 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-b91cee717f7925e33b96b91f88e6449c.png"
+    },
+    {
+     "id": "q4",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "对",
+     "explanation": "录音说他喝水，图片中的人正在喝水，所以是对的。",
+     "audio": {
+      "key": "listening/v1/a18970bce5e3fc7fdad5583208954c5d166bbf98e609f06a2de3b8bf457c97cd.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "他喝水。"
+       }
+      ],
+      "transcript": "他喝水。",
+      "transcriptPinyin": "tā hē shuǐ 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-c05b3e8b977716f662a3ce0dcb1b0357.png"
+    },
+    {
+     "id": "q5",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "错",
+     "explanation": "录音说我爸爸是医生，但图片中的人像老师（在黑板前），不是医生，所以是错的。",
+     "audio": {
+      "key": "listening/v1/874016196244127048698153d6086c31a5861410aef42a9060fd9fb10f07ea8c.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我爸爸是医生。"
+       }
+      ],
+      "transcript": "我爸爸是医生。",
+      "transcriptPinyin": "wǒ bà bà shì yī shēng 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-9413c0f3a967c0c61ee846ca7919c07b.png"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

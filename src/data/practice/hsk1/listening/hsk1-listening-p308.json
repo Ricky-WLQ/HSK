@@ -1,0 +1,169 @@
+{
+ "id": "hsk1-listening-p308",
+ "level": "1",
+ "section": "listening",
+ "partKey": "listening-p3",
+ "title": "HSK1 Listening P3",
+ "titleZh": "听力 第三部分（看图听对话）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听对话，选出对应的图片。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "A",
+     "explanation": "对话中提到了“喝水”，所以对应的图片是喝水的人。",
+     "audio": {
+      "key": "listening/v1/f5df7d5a50359c28bf213ca3049fc15ff0ade3318d0d50c50a4db4fc8fe4888f.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你喝什么？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我喝水。"
+       }
+      ],
+      "transcript": "你喝什么？ 我喝水。",
+      "transcriptPinyin": "nǐ hē shén me ？  wǒ hē shuǐ 。"
+     }
+    },
+    {
+     "id": "q2",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "B",
+     "explanation": "对话中提到了“一本书”，所以对应的图片是书。",
+     "audio": {
+      "key": "listening/v1/4348dc0f5093c1687392dfff53f27955bc60bfc67effb37b555ff65772cafea3.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "这是什么？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "这是一本书。"
+       }
+      ],
+      "transcript": "这是什么？ 这是一本书。",
+      "transcriptPinyin": "zhè shì shén me ？  zhè shì yī běn shū 。"
+     }
+    },
+    {
+     "id": "q3",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "C",
+     "explanation": "对话中提到了“猫”，所以对应的图片是猫。",
+     "audio": {
+      "key": "listening/v1/47c0ae2234a063c1743b7e5b66d8c08147b9851fcad5ab9edfdbefbe61210611.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你喜欢猫吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "是的，我喜欢猫。"
+       }
+      ],
+      "transcript": "你喜欢猫吗？ 是的，我喜欢猫。",
+      "transcriptPinyin": "nǐ xǐ huān māo ma ？  shì de ， wǒ xǐ huān māo 。"
+     }
+    },
+    {
+     "id": "q4",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "D",
+     "explanation": "对话中提到了“苹果”，所以对应的图片是苹果。",
+     "audio": {
+      "key": "listening/v1/3fd6509e494b789e346de0e3353f79f5352917be75a907cd0616eddf64128da7.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你吃什么？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我吃苹果。"
+       }
+      ],
+      "transcript": "你吃什么？ 我吃苹果。",
+      "transcriptPinyin": "nǐ chī shén me ？  wǒ chī píng guǒ 。"
+     }
+    },
+    {
+     "id": "q5",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "E",
+     "explanation": "对话中提到了“写字”，所以对应的图片是写字的场景。",
+     "audio": {
+      "key": "listening/v1/8b690bf42cd8e2ce3e60c7c852791577b5fb9efd9a051117accd197160bda7c1.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你在做什么？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我在写字。"
+       }
+      ],
+      "transcript": "你在做什么？ 我在写字。",
+      "transcriptPinyin": "nǐ zài zuò shén me ？  wǒ zài xiě zì 。"
+     }
+    }
+   ],
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-f3c67f75c65f89286abf1d6fdfafccbe.png"
+    },
+    {
+     "label": "B",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-b95b5e45796d1fd97a367db195f697cf.png"
+    },
+    {
+     "label": "C",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-a7a8377f6368041e92240492d76e6861.png"
+    },
+    {
+     "label": "D",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-d4c559cc6c566538e2ac96851b652141.png"
+    },
+    {
+     "label": "E",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-f50a6828041f5ef174186102f91143cf.png"
+    },
+    {
+     "label": "F",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-d2894c61cfd420d003d5bd998ed9f182.png"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

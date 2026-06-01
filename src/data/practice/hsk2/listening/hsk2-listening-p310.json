@@ -1,0 +1,487 @@
+{
+ "id": "hsk2-listening-p310",
+ "level": "2",
+ "section": "listening",
+ "partKey": "listening-p3",
+ "title": "HSK2 Listening P3",
+ "titleZh": "听力 第三部分（听对话选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听对话，然后回答问题。每个对话后有一个问题，请从A、B、C三个选项中选择正确答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "他们要去哪里？",
+     "correctAnswer": "B",
+     "explanation": "根据对话，男人说去公园，女人同意，所以他们要去公园。",
+     "audio": {
+      "key": "listening/v1/4145a86813c380fa40716505e5eeb011d6a514de337e9c4491b7892f11e202a8.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "今天天气很好，我们去公园吧。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "好啊，我想去看花。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "那我们走吧。"
+       }
+      ],
+      "transcript": "今天天气很好，我们去公园吧。 好啊，我想去看花。 那我们走吧。",
+      "transcriptPinyin": "jīn tiān tiān qì hěn hǎo ， wǒ men qù gōng yuán ba 。  hǎo a ， wǒ xiǎng qù kàn huā 。  nà wǒ men zǒu ba 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "商店",
+       "pinyin": "shāng diàn"
+      },
+      {
+       "label": "B",
+       "text": "公园",
+       "pinyin": "gōng yuán"
+      },
+      {
+       "label": "C",
+       "text": "学校",
+       "pinyin": "xué xiào"
+      }
+     ],
+     "pinyin": "tā men yào qù nǎ lǐ ？"
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "男人早上吃了什么？",
+     "correctAnswer": "A",
+     "explanation": "男人说他吃了面包和牛奶，所以答案是他吃了面包。",
+     "audio": {
+      "key": "listening/v1/8b7adb11bc25023e9f2dd6944003dd86a7f01a0e4575d6d7f3b64dfc8a02c343.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你早上吃了什么？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我吃了面包和牛奶。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我也想吃面包。"
+       }
+      ],
+      "transcript": "你早上吃了什么？ 我吃了面包和牛奶。 我也想吃面包。",
+      "transcriptPinyin": "nǐ zǎo shàng chī le shén me ？  wǒ chī le miàn bāo hé niú nǎi 。  wǒ yě xiǎng chī miàn bāo 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "面包",
+       "pinyin": "miàn bāo"
+      },
+      {
+       "label": "B",
+       "text": "水果",
+       "pinyin": "shuǐ guǒ"
+      },
+      {
+       "label": "C",
+       "text": "米饭",
+       "pinyin": "mǐ fàn"
+      }
+     ],
+     "pinyin": "nán rén zǎo shàng chī le shén me ？"
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "男人几岁？",
+     "correctAnswer": "C",
+     "explanation": "女人十岁，男人比她大一岁，所以男人十一岁。",
+     "audio": {
+      "key": "listening/v1/cc5153db0043e8c69da14d95064e21b6226a5e7ab5fe55852e78a10d48ae737d.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你几岁？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我十岁。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我比你大一岁。"
+       }
+      ],
+      "transcript": "你几岁？ 我十岁。 我比你大一岁。",
+      "transcriptPinyin": "nǐ jǐ suì ？  wǒ shí suì 。  wǒ bǐ nǐ dà yī suì 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "九岁",
+       "pinyin": "jiǔ suì"
+      },
+      {
+       "label": "B",
+       "text": "十岁",
+       "pinyin": "shí suì"
+      },
+      {
+       "label": "C",
+       "text": "十一岁",
+       "pinyin": "shí yī suì"
+      }
+     ],
+     "pinyin": "nán rén jǐ suì ？"
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "书在哪里？",
+     "correctAnswer": "B",
+     "explanation": "男人说书在椅子上，不在桌子上。",
+     "audio": {
+      "key": "listening/v1/987e8696a515c28be55365bdbc20ef09cce4061c45211a0b37cd8f0550f37918.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你的书在桌子上吗？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "不在，在椅子上。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我知道了。"
+       }
+      ],
+      "transcript": "你的书在桌子上吗？ 不在，在椅子上。 我知道了。",
+      "transcriptPinyin": "nǐ de shū zài zhuō zi shàng ma ？  bù zài ， zài yǐ zi shàng 。  wǒ zhī dào le 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "床上",
+       "pinyin": "chuáng shàng"
+      },
+      {
+       "label": "B",
+       "text": "椅子上",
+       "pinyin": "yǐ zi shàng"
+      },
+      {
+       "label": "C",
+       "text": "桌子上",
+       "pinyin": "zhuō zi shàng"
+      }
+     ],
+     "pinyin": "shū zài nǎ lǐ ？"
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "女人的爸爸是做什么的？",
+     "correctAnswer": "B",
+     "explanation": "女人说她爸爸是医生。",
+     "audio": {
+      "key": "listening/v1/85f5502f18a4fa3e49583714c02a978cf7ccfaf7645f03b991407a4dc003a36f.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你爸爸是做什么的？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "他是医生。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "医生很好。"
+       }
+      ],
+      "transcript": "你爸爸是做什么的？ 他是医生。 医生很好。",
+      "transcriptPinyin": "nǐ bà bà shì zuò shén me de ？  tā shì yī shēng 。  yī shēng hěn hǎo 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "老师",
+       "pinyin": "lǎo shī"
+      },
+      {
+       "label": "B",
+       "text": "医生",
+       "pinyin": "yī shēng"
+      },
+      {
+       "label": "C",
+       "text": "工人",
+       "pinyin": "gōng rén"
+      }
+     ],
+     "pinyin": "nǚ rén de bà bà shì zuò shén me de ？"
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "他们要坐几路车？",
+     "correctAnswer": "C",
+     "explanation": "男人说要坐五路车。",
+     "audio": {
+      "key": "listening/v1/15591e9721fbc73d16b6b1add06254a304b6289a35924aa790fa1cb3274893fe.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我们要坐几路车？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "坐五路车。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "好的，我们走吧。"
+       }
+      ],
+      "transcript": "我们要坐几路车？ 坐五路车。 好的，我们走吧。",
+      "transcriptPinyin": "wǒ men yào zuò jǐ lù chē ？  zuò wǔ lù chē 。  hǎo de ， wǒ men zǒu ba 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "三路",
+       "pinyin": "sān lù"
+      },
+      {
+       "label": "B",
+       "text": "六路",
+       "pinyin": "liù lù"
+      },
+      {
+       "label": "C",
+       "text": "五路",
+       "pinyin": "wǔ lù"
+      }
+     ],
+     "pinyin": "tā men yào zuò jǐ lù chē ？"
+    },
+    {
+     "id": "q7",
+     "type": "listening-mcq",
+     "prompt": "女人想喝什么？",
+     "correctAnswer": "B",
+     "explanation": "女人说她想喝茶。",
+     "audio": {
+      "key": "listening/v1/879f3aeb3cdefe3ed6718af29b5da4be284c8512538419a1d195fd5c348ec59e.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你喝水吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "不喝，我想喝茶。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "好，我去给你倒茶。"
+       }
+      ],
+      "transcript": "你喝水吗？ 不喝，我想喝茶。 好，我去给你倒茶。",
+      "transcriptPinyin": "nǐ hē shuǐ ma ？  bù hē ， wǒ xiǎng hē chá 。  hǎo ， wǒ qù gěi nǐ dào chá 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "水",
+       "pinyin": "shuǐ"
+      },
+      {
+       "label": "B",
+       "text": "茶",
+       "pinyin": "chá"
+      },
+      {
+       "label": "C",
+       "text": "咖啡",
+       "pinyin": "kā fēi"
+      }
+     ],
+     "pinyin": "nǚ rén xiǎng hē shén me ？"
+    },
+    {
+     "id": "q8",
+     "type": "listening-mcq",
+     "prompt": "今天星期几？",
+     "correctAnswer": "C",
+     "explanation": "男人说今天星期三。",
+     "audio": {
+      "key": "listening/v1/3c4dc0a8ded4a19a4e83f51bbe1c0c180a1f6ac30e0b2d4cd762d12822787111.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "今天星期几？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "今天星期三。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "那明天是星期四。"
+       }
+      ],
+      "transcript": "今天星期几？ 今天星期三。 那明天是星期四。",
+      "transcriptPinyin": "jīn tiān xīng qī jǐ ？  jīn tiān xīng qī sān 。  nà míng tiān shì xīng qī sì 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "星期四",
+       "pinyin": "xīng qī sì"
+      },
+      {
+       "label": "B",
+       "text": "星期二",
+       "pinyin": "xīng qī èr"
+      },
+      {
+       "label": "C",
+       "text": "星期三",
+       "pinyin": "xīng qī sān"
+      }
+     ],
+     "pinyin": "jīn tiān xīng qī jǐ ？"
+    },
+    {
+     "id": "q9",
+     "type": "listening-mcq",
+     "prompt": "这本书是谁的？",
+     "correctAnswer": "B",
+     "explanation": "女人说书是老师的。",
+     "audio": {
+      "key": "listening/v1/770019d48fde5706865887f4538d53ea91a8d7bc72c1b6fbac3c078809e391ff.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "这本书是你的吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "不是，是老师的。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "哦，那我还给老师。"
+       }
+      ],
+      "transcript": "这本书是你的吗？ 不是，是老师的。 哦，那我还给老师。",
+      "transcriptPinyin": "zhè běn shū shì nǐ de ma ？  bú shì ， shì lǎo shī de 。  ó ， nà wǒ huán gěi lǎo shī 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "男人的",
+       "pinyin": "nán rén de"
+      },
+      {
+       "label": "B",
+       "text": "老师的",
+       "pinyin": "lǎo shī de"
+      },
+      {
+       "label": "C",
+       "text": "女人的",
+       "pinyin": "nǚ rén de"
+      }
+     ],
+     "pinyin": "zhè běn shū shì shéi de ？"
+    },
+    {
+     "id": "q10",
+     "type": "listening-mcq",
+     "prompt": "男人住在哪里？",
+     "correctAnswer": "C",
+     "explanation": "男人说他住在学校旁边，不远。",
+     "audio": {
+      "key": "listening/v1/d5830169dc8dcb4fe59e04d3fbce3aaa9166fd6b615ec6558f27aa258f28cf5d.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你住得远吗？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "不远，就在学校旁边。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "那很方便。"
+       }
+      ],
+      "transcript": "你住得远吗？ 不远，就在学校旁边。 那很方便。",
+      "transcriptPinyin": "nǐ zhù dé yuǎn ma ？  bù yuǎn ， jiù zài xué xiào páng biān 。  nà hěn fāng biàn 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "学校里面",
+       "pinyin": "xué xiào lǐ miàn"
+      },
+      {
+       "label": "B",
+       "text": "很远的地方",
+       "pinyin": "hěn yuǎn de dì fāng"
+      },
+      {
+       "label": "C",
+       "text": "学校旁边",
+       "pinyin": "xué xiào páng biān"
+      }
+     ],
+     "pinyin": "nán rén zhù zài nǎ lǐ ？"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

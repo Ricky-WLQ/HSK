@@ -1,0 +1,387 @@
+{
+ "id": "hsk3-listening-p314",
+ "level": "3",
+ "section": "listening",
+ "partKey": "listening-p3",
+ "title": "HSK3 Listening P3",
+ "titleZh": "听力 第三部分（听短文选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听下面每段独白，然后根据独白内容回答问题。每个问题有三个选项，请选择唯一的正确答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "王老师什么时候去的图书馆？",
+     "correctAnswer": "A",
+     "explanation": "旁白说下午两点到图书馆，所以是下午两点去的。",
+     "audio": {
+      "key": "listening/v1/a3cb0c636d9ec4ec1e64bf1b46ce48ab354df61b8e41c694fbe23d999bf71760.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "今天天气很好，王老师决定去图书馆看书。他下午两点到图书馆，看了两个小时的书，然后回家了。"
+       }
+      ],
+      "transcript": "今天天气很好，王老师决定去图书馆看书。他下午两点到图书馆，看了两个小时的书，然后回家了。",
+      "transcriptPinyin": "jīn tiān tiān qì hěn hǎo ， wáng lǎo shī jué dìng qù tú shū guǎn kàn shū 。 tā xià wǔ liǎng diǎn dào tú shū guǎn ， kàn le liǎng gè xiǎo shí de shū ， rán hòu huí jiā le 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "下午两点",
+       "pinyin": "xià wǔ liǎng diǎn"
+      },
+      {
+       "label": "B",
+       "text": "晚上",
+       "pinyin": "wǎn shàng"
+      },
+      {
+       "label": "C",
+       "text": "上午",
+       "pinyin": "shàng wǔ"
+      }
+     ],
+     "pinyin": "wáng lǎo shī shén me shí hòu qù de tú shū guǎn ？"
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "妈妈一共花了多少钱？",
+     "correctAnswer": "B",
+     "explanation": "苹果三斤15元，香蕉两斤6元，一共21元。",
+     "audio": {
+      "key": "listening/v1/ad94bbe99f598af44b8ed402297e59753f2ba1b0b16ca8db3a7b8b62c079ea1a.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "妈妈去菜市场买了苹果和香蕉。苹果一斤五块，香蕉一斤三块。她买了三斤苹果，两斤香蕉。"
+       }
+      ],
+      "transcript": "妈妈去菜市场买了苹果和香蕉。苹果一斤五块，香蕉一斤三块。她买了三斤苹果，两斤香蕉。",
+      "transcriptPinyin": "mā mā qù cài shì chǎng mǎi le píng guǒ hé xiāng jiāo 。 píng guǒ yī jīn wǔ kuài ， xiāng jiāo yī jīn sān kuài 。 tā mǎi le sān jīn píng guǒ ， liǎng jīn xiāng jiāo 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "十五块",
+       "pinyin": "shí wǔ kuài"
+      },
+      {
+       "label": "B",
+       "text": "二十一块",
+       "pinyin": "èr shí yī kuài"
+      },
+      {
+       "label": "C",
+       "text": "二十五块",
+       "pinyin": "èr shí wǔ kuài"
+      }
+     ],
+     "pinyin": "mā mā yī gòng huā le duō shǎo qián ？"
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "他们最后决定几点见面？",
+     "correctAnswer": "A",
+     "explanation": "小李把时间改到了下午两点，所以最后见面时间是下午两点。",
+     "audio": {
+      "key": "listening/v1/35bd93a9968dd6d31277061fea806a42f26660af65beeadaee13741b9a65cf0f.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "小李和小王约好明天上午九点在公园门口见面。但是小李明天上午有课，所以他把时间改到了下午两点。"
+       }
+      ],
+      "transcript": "小李和小王约好明天上午九点在公园门口见面。但是小李明天上午有课，所以他把时间改到了下午两点。",
+      "transcriptPinyin": "xiǎo lǐ hé xiǎo wáng yuē hǎo míng tiān shàng wǔ jiǔ diǎn zài gōng yuán mén kǒu jiàn miàn 。 dàn shì xiǎo lǐ míng tiān shàng wǔ yǒu kè ， suǒ yǐ tā bǎ shí jiān gǎi dào le xià wǔ liǎng diǎn 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "下午两点",
+       "pinyin": "xià wǔ liǎng diǎn"
+      },
+      {
+       "label": "B",
+       "text": "晚上九点",
+       "pinyin": "wǎn shàng jiǔ diǎn"
+      },
+      {
+       "label": "C",
+       "text": "上午九点",
+       "pinyin": "shàng wǔ jiǔ diǎn"
+      }
+     ],
+     "pinyin": "tā men zuì hòu jué dìng jǐ diǎn jiàn miàn ？"
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "小明的生日在什么时候？",
+     "correctAnswer": "C",
+     "explanation": "旁白说小明的生日是下个星期六。",
+     "audio": {
+      "key": "listening/v1/488118d109af9747d3e94731f62ee2c8c11beb10e76272344cf1906f444ae118.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "小明的生日是下个星期六。他打算请几个好朋友来家里吃饭。妈妈会做很多好吃的菜。"
+       }
+      ],
+      "transcript": "小明的生日是下个星期六。他打算请几个好朋友来家里吃饭。妈妈会做很多好吃的菜。",
+      "transcriptPinyin": "xiǎo míng de shēng rì shì xià gè xīng qī liù 。 tā dǎ suàn qǐng jǐ gè hǎo péng yǒu lái jiā lǐ chī fàn 。 mā mā huì zuò hěn duō hǎo chī de cài 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "下个星期天",
+       "pinyin": "xià gè xīng qī tiān"
+      },
+      {
+       "label": "B",
+       "text": "这个星期六",
+       "pinyin": "zhè ge xīng qī liù"
+      },
+      {
+       "label": "C",
+       "text": "下个星期六",
+       "pinyin": "xià gè xīng qī liù"
+      }
+     ],
+     "pinyin": "xiǎo míng de shēng rì zài shén me shí hòu ？"
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "张阿姨在哪里找到了她的猫？",
+     "correctAnswer": "B",
+     "explanation": "旁白说最后在楼下的小花园里找到了猫。",
+     "audio": {
+      "key": "listening/v1/96f24a053eb9b94efd3baa69e5b6044ee27731cd504271ef78ad151bd7379967.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "张阿姨的猫不见了，她非常着急。她在小区里找了很久，最后在楼下的小花园里找到了。"
+       }
+      ],
+      "transcript": "张阿姨的猫不见了，她非常着急。她在小区里找了很久，最后在楼下的小花园里找到了。",
+      "transcriptPinyin": "zhāng ā yí de māo bú jiàn le ， tā fēi cháng zháo jí 。 tā zài xiǎo qū lǐ zhǎo le hěn jiǔ ， zuì hòu zài lóu xià de xiǎo huā yuán lǐ zhǎo dào le 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "小区里",
+       "pinyin": "xiǎo qū lǐ"
+      },
+      {
+       "label": "B",
+       "text": "小花园里",
+       "pinyin": "xiǎo huā yuán lǐ"
+      },
+      {
+       "label": "C",
+       "text": "家里",
+       "pinyin": "jiā lǐ"
+      }
+     ],
+     "pinyin": "zhāng ā yí zài nǎ lǐ zhǎo dào le tā de māo ？"
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "李先生坐的是哪一趟火车？",
+     "correctAnswer": "B",
+     "explanation": "旁白说李先生买了中午十二点的票，所以他坐的是中午十二点的火车。",
+     "audio": {
+      "key": "listening/v1/ff2a00b42e3b20b7dd540351722ef0f337f19c6e7b0b975f363585adeca9c075.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "去上海的火车每天有三趟。第一趟早上八点，第二趟中午十二点，第三趟下午五点。李先生买了中午十二点的票。"
+       }
+      ],
+      "transcript": "去上海的火车每天有三趟。第一趟早上八点，第二趟中午十二点，第三趟下午五点。李先生买了中午十二点的票。",
+      "transcriptPinyin": "qù shàng hǎi de huǒ chē měi tiān yǒu sān tàng 。 dì yī tàng zǎo shàng bā diǎn ， dì èr tàng zhōng wǔ shí èr diǎn ， dì sān tàng xià wǔ wǔ diǎn 。 lǐ xiān shēng mǎi le zhōng wǔ shí èr diǎn de piào 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "下午五点",
+       "pinyin": "xià wǔ wǔ diǎn"
+      },
+      {
+       "label": "B",
+       "text": "中午十二点",
+       "pinyin": "zhōng wǔ shí èr diǎn"
+      },
+      {
+       "label": "C",
+       "text": "早上八点",
+       "pinyin": "zǎo shàng bā diǎn"
+      }
+     ],
+     "pinyin": "lǐ xiān shēng zuò de shì nǎ yī tàng huǒ chē ？"
+    },
+    {
+     "id": "q7",
+     "type": "listening-mcq",
+     "prompt": "王丽每周上几天英语课？",
+     "correctAnswer": "C",
+     "explanation": "王丽每周一、三、五上课，所以是三天。",
+     "audio": {
+      "key": "listening/v1/4321adda8e27ffd4929fc25ae12bd8fc65f01a4d15a6e0a59171cf135b4f7226.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "王丽在语言学校学习英语。她每周一、三、五去上课，每次上两个小时。"
+       }
+      ],
+      "transcript": "王丽在语言学校学习英语。她每周一、三、五去上课，每次上两个小时。",
+      "transcriptPinyin": "wáng lì zài yǔ yán xué xiào xué xí yīng yǔ 。 tā měi zhōu yī 、 sān 、 wǔ qù shàng kè ， měi cì shàng liǎng gè xiǎo shí 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "五天",
+       "pinyin": "wǔ tiān"
+      },
+      {
+       "label": "B",
+       "text": "两天",
+       "pinyin": "liǎng tiān"
+      },
+      {
+       "label": "C",
+       "text": "三天",
+       "pinyin": "sān tiān"
+      }
+     ],
+     "pinyin": "wáng lì měi zhōu shàng jǐ tiān yīng yǔ kè ？"
+    },
+    {
+     "id": "q8",
+     "type": "listening-mcq",
+     "prompt": "他们点了什么？",
+     "correctAnswer": "C",
+     "explanation": "旁白说他们点了一份鱼、一份青菜和两碗米饭，所以三样都有。",
+     "audio": {
+      "key": "listening/v1/7b2fadd5419ce13e6c200828160efefee8308fdf5113d7dc38b277d67e5be5af.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "小张和女朋友去饭店吃饭。他们点了一份鱼、一份青菜和两碗米饭。一共花了五十块。"
+       }
+      ],
+      "transcript": "小张和女朋友去饭店吃饭。他们点了一份鱼、一份青菜和两碗米饭。一共花了五十块。",
+      "transcriptPinyin": "xiǎo zhāng hé nǚ péng yǒu qù fàn diàn chī fàn 。 tā men diǎn le yī fèn yú 、 yī fèn qīng cài hé liǎng wǎn mǐ fàn 。 yī gòng huā le wǔ shí kuài 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "鱼和青菜",
+       "pinyin": "yú hé qīng cài"
+      },
+      {
+       "label": "B",
+       "text": "鱼和米饭",
+       "pinyin": "yú hé mǐ fàn"
+      },
+      {
+       "label": "C",
+       "text": "鱼、青菜和米饭",
+       "pinyin": "yú 、 qīng cài hé mǐ fàn"
+      }
+     ],
+     "pinyin": "tā men diǎn le shén me ？"
+    },
+    {
+     "id": "q9",
+     "type": "listening-mcq",
+     "prompt": "明天天气怎么样？",
+     "correctAnswer": "C",
+     "explanation": "天气预报说明天会下雨，所以明天是下雨天。",
+     "audio": {
+      "key": "listening/v1/bad9ae83ba6075d910e0607e1bdaf86f07fbb2f1b6f3d338113895fd11d5bcd6.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "天气预报说明天会下雨，温度会下降。李老师提醒学生出门要带伞，多穿衣服。"
+       }
+      ],
+      "transcript": "天气预报说明天会下雨，温度会下降。李老师提醒学生出门要带伞，多穿衣服。",
+      "transcriptPinyin": "tiān qì yù bào shuō míng tiān huì xià yǔ ， wēn dù huì xià jiàng 。 lǐ lǎo shī tí xǐng xué shēng chū mén yào dài sǎn ， duō chuān yī fú 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "晴天",
+       "pinyin": "qíng tiān"
+      },
+      {
+       "label": "B",
+       "text": "下雪",
+       "pinyin": "xià xuě"
+      },
+      {
+       "label": "C",
+       "text": "下雨",
+       "pinyin": "xià yǔ"
+      }
+     ],
+     "pinyin": "míng tiān tiān qì zěn me yàng ？"
+    },
+    {
+     "id": "q10",
+     "type": "listening-mcq",
+     "prompt": "小刘这个周末打算做什么？",
+     "correctAnswer": "B",
+     "explanation": "小刘改变计划是因为朋友约他去爬山，所以最终打算去爬山。",
+     "audio": {
+      "key": "listening/v1/46ad5f151bb64ae820b25ef16c0f1a7a1d788b7982b8d2842281aefe48526b43.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "这个周末，小刘打算先去看电影，然后去书店买一本书。但是他的朋友约他一起去爬山，所以他改变了计划。"
+       }
+      ],
+      "transcript": "这个周末，小刘打算先去看电影，然后去书店买一本书。但是他的朋友约他一起去爬山，所以他改变了计划。",
+      "transcriptPinyin": "zhè ge zhōu mò ， xiǎo liú dǎ suàn xiān qù kàn diàn yǐng ， rán hòu qù shū diàn mǎi yī běn shū 。 dàn shì tā de péng yǒu yuē tā yì qǐ qù pá shān ， suǒ yǐ tā gǎi biàn le jì huà 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "看电影",
+       "pinyin": "kàn diàn yǐng"
+      },
+      {
+       "label": "B",
+       "text": "爬山",
+       "pinyin": "pá shān"
+      },
+      {
+       "label": "C",
+       "text": "看电影和买书",
+       "pinyin": "kàn diàn yǐng hé mǎi shū"
+      }
+     ],
+     "pinyin": "xiǎo liú zhè ge zhōu mò dǎ suàn zuò shén me ？"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

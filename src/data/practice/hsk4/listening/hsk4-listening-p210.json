@@ -1,0 +1,179 @@
+{
+ "id": "hsk4-listening-p210",
+ "level": "4",
+ "section": "listening",
+ "partKey": "listening-p2",
+ "title": "HSK4 Listening P2",
+ "titleZh": "听力 第二部分（听短文选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "听下面一段独白，然后回答6个问题。每个问题有4个选项，选出正确答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "说话人上星期六去奶奶家做什么了？",
+     "correctAnswer": "C",
+     "explanation": "根据听力内容，说话人上星期六去奶奶家是为了帮忙打扫卫生。",
+     "options": [
+      {
+       "label": "A",
+       "text": "吃饭"
+      },
+      {
+       "label": "B",
+       "text": "看照片"
+      },
+      {
+       "label": "C",
+       "text": "打扫卫生"
+      },
+      {
+       "label": "D",
+       "text": "买东西"
+      }
+     ]
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "他们花了多长时间整理衣柜和书架？",
+     "correctAnswer": "B",
+     "explanation": "听力中说‘花了一个上午整理衣柜和书架’，所以是一个上午。",
+     "options": [
+      {
+       "label": "A",
+       "text": "几个小时"
+      },
+      {
+       "label": "B",
+       "text": "一个上午"
+      },
+      {
+       "label": "C",
+       "text": "一个下午"
+      },
+      {
+       "label": "D",
+       "text": "一天"
+      }
+     ]
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "盒子放在什么地方？",
+     "correctAnswer": "A",
+     "explanation": "听力中明确说‘在书架的最下面一层，我发现了一个旧盒子’。",
+     "options": [
+      {
+       "label": "A",
+       "text": "书架最下面一层"
+      },
+      {
+       "label": "B",
+       "text": "桌子下面"
+      },
+      {
+       "label": "C",
+       "text": "床底下"
+      },
+      {
+       "label": "D",
+       "text": "衣柜上面"
+      }
+     ]
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "盒子里有什么？",
+     "correctAnswer": "A",
+     "explanation": "听力中说‘盒子里有很多老照片’。",
+     "options": [
+      {
+       "label": "A",
+       "text": "老照片"
+      },
+      {
+       "label": "B",
+       "text": "爷爷的礼物"
+      },
+      {
+       "label": "C",
+       "text": "奶奶的衣服"
+      },
+      {
+       "label": "D",
+       "text": "旧书"
+      }
+     ]
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "奶奶看着哪张照片讲了很多故事？",
+     "correctAnswer": "A",
+     "explanation": "听力中提到‘有一张照片是奶奶和爷爷在公园的合影……奶奶看着照片，跟我讲了很多过去的故事’。",
+     "options": [
+      {
+       "label": "A",
+       "text": "奶奶和爷爷在公园的合影"
+      },
+      {
+       "label": "B",
+       "text": "公园的风景照"
+      },
+      {
+       "label": "C",
+       "text": "奶奶年轻时的单人照"
+      },
+      {
+       "label": "D",
+       "text": "全家的合影"
+      }
+     ]
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "通过这个故事，我们可以知道什么？",
+     "correctAnswer": "A",
+     "explanation": "听力最后说‘我听了很感动，觉得应该多花时间陪陪家人’，所以正确答案是说话人觉得应该多陪陪家人。",
+     "options": [
+      {
+       "label": "A",
+       "text": "说话人觉得应该多陪陪家人"
+      },
+      {
+       "label": "B",
+       "text": "说话人很少去看奶奶"
+      },
+      {
+       "label": "C",
+       "text": "奶奶不喜欢照相"
+      },
+      {
+       "label": "D",
+       "text": "奶奶和爷爷结婚很多年了"
+      }
+     ]
+    }
+   ],
+   "audio": {
+    "key": "listening/v1/fd306ec53fef97352ae5dd424908e381682cd051668ac6728e5ec24a8597c997.mp3",
+    "lines": [
+     {
+      "speaker": "旁白",
+      "voice": "narrator",
+      "text": "上周六，我去奶奶家帮她打扫卫生。奶奶年纪大了，很多地方都需要帮忙。我们花了一个上午整理衣柜和书架。在书架的最下面一层，我发现了一个旧盒子。盒子里有很多老照片，都是奶奶年轻时候拍的。有一张照片是奶奶和爷爷在公园的合影，那时候他们刚结婚。奶奶看着照片，跟我讲了很多过去的故事。她说，时间过得真快，一转眼就老了。我听了很感动，觉得应该多花时间陪陪家人。"
+     }
+    ],
+    "transcript": "上周六，我去奶奶家帮她打扫卫生。奶奶年纪大了，很多地方都需要帮忙。我们花了一个上午整理衣柜和书架。在书架的最下面一层，我发现了一个旧盒子。盒子里有很多老照片，都是奶奶年轻时候拍的。有一张照片是奶奶和爷爷在公园的合影，那时候他们刚结婚。奶奶看着照片，跟我讲了很多过去的故事。她说，时间过得真快，一转眼就老了。我听了很感动，觉得应该多花时间陪陪家人。",
+    "transcriptPinyin": null
+   }
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

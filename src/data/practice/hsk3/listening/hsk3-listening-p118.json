@@ -1,0 +1,289 @@
+{
+ "id": "hsk3-listening-p118",
+ "level": "3",
+ "section": "listening",
+ "partKey": "listening-p1",
+ "title": "HSK3 Listening P1",
+ "titleZh": "听力 第一部分（看图听对话）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "听对话，从下面的六幅图中选择与对话内容相符的一幅。每段对话对应一幅图，其中一幅图是多余的。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "A",
+     "explanation": "对话中男士说想喝咖啡，咖啡对应第一幅图中的一杯咖啡。",
+     "audio": {
+      "key": "listening/v1/4c05ec59afb344a1b03b3a489a22965074c5fb7ffa267cfe46bd653494901bd6.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你想喝什么？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我想喝咖啡。"
+       }
+      ],
+      "transcript": "你想喝什么？ 我想喝咖啡。",
+      "transcriptPinyin": "nǐ xiǎng hē shén me ？  wǒ xiǎng hē kā fēi 。"
+     }
+    },
+    {
+     "id": "q2",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "B",
+     "explanation": "对话提到跑步，对应第二幅图中的人在外面跑步。",
+     "audio": {
+      "key": "listening/v1/598265a550d5f9befa7363d68b69f3bfd204adba13fcfb406df0071f50d6283b.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你每天早上跑步吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "是的，我每天跑一个小时。"
+       }
+      ],
+      "transcript": "你每天早上跑步吗？ 是的，我每天跑一个小时。",
+      "transcriptPinyin": "nǐ měi tiān zǎo shàng pǎo bù ma ？  shì de ， wǒ měi tiān pǎo yí gè xiǎo shí 。"
+     }
+    },
+    {
+     "id": "q3",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "C",
+     "explanation": "男士说喜欢苹果，对应第三幅图中的红苹果。",
+     "audio": {
+      "key": "listening/v1/06d015bafbb72afa1bc7e91ae87dba0648d171532e47c061e71de8737219b121.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你喜欢吃水果吗？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "喜欢，尤其是苹果。"
+       }
+      ],
+      "transcript": "你喜欢吃水果吗？ 喜欢，尤其是苹果。",
+      "transcriptPinyin": "nǐ xǐ huān chī shuǐ guǒ ma ？  xǐ huān ， yóu qí shì píng guǒ 。"
+     }
+    },
+    {
+     "id": "q4",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "D",
+     "explanation": "对话提到书放在书架上，对应第四幅图中书架上的书。",
+     "audio": {
+      "key": "listening/v1/a39951eecc06c468b4624486bf193c93c0e6d2a7f751cd5b72e11dc4df4940e6.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你的书放在哪儿了？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "在书架上。"
+       }
+      ],
+      "transcript": "你的书放在哪儿了？ 在书架上。",
+      "transcriptPinyin": "nǐ de shū fàng zài nǎ ér le ？  zài shū jià shàng 。"
+     }
+    },
+    {
+     "id": "q5",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "E",
+     "explanation": "男士说在用电脑工作，对应第五幅图中桌上的电脑。",
+     "audio": {
+      "key": "listening/v1/2e583f3c917659021dbfb42ff44bff7d1e05a87f746f8c4afef4b67c359ada05.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你在用电脑吗？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "是的，我在工作。"
+       }
+      ],
+      "transcript": "你在用电脑吗？ 是的，我在工作。",
+      "transcriptPinyin": "nǐ zài yòng diàn nǎo ma ？  shì de ， wǒ zài gōng zuò 。"
+     }
+    },
+    {
+     "id": "q6",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "A",
+     "explanation": "对话谈咖啡，与第一幅图对应。",
+     "audio": {
+      "key": "listening/v1/bbbe8723c2fee7fe2e452f547e77ca314f66fc33d695cb023172c6a78bfd2b03.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "这杯咖啡很香。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "是啊，我刚泡的。"
+       }
+      ],
+      "transcript": "这杯咖啡很香。 是啊，我刚泡的。",
+      "transcriptPinyin": "zhè bēi kā fēi hěn xiāng 。  shì a ， wǒ gāng pào de 。"
+     }
+    },
+    {
+     "id": "q7",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "B",
+     "explanation": "对话讨论锻炼方式为跑步，对应第二幅图。",
+     "audio": {
+      "key": "listening/v1/87ebffba3ce6b29c63a4c494e2098eb3d2edc19980ec0d7856d4ebea236414e2.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你每天怎么锻炼？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我每天跑步。"
+       }
+      ],
+      "transcript": "你每天怎么锻炼？ 我每天跑步。",
+      "transcriptPinyin": "nǐ měi tiān zěn me duàn liàn ？  wǒ měi tiān pǎo bù 。"
+     }
+    },
+    {
+     "id": "q8",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "C",
+     "explanation": "对话评论苹果好吃，对应第三幅图。",
+     "audio": {
+      "key": "listening/v1/4ad5be8a8db4bac325dad723ce71ddc9cba65983178b65b715ff00da046e0134.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "这个苹果真好吃。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "是的，很甜。"
+       }
+      ],
+      "transcript": "这个苹果真好吃。 是的，很甜。",
+      "transcriptPinyin": "zhè ge píng guǒ zhēn hǎo chī 。  shì de ， hěn tián 。"
+     }
+    },
+    {
+     "id": "q9",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "D",
+     "explanation": "对话谈论书，对应第四幅图。",
+     "audio": {
+      "key": "listening/v1/34373e178e87db0b478e9416f5c935be1f48cee07e122bb1cd287d807851019a.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "这本书很有意思。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "对，我昨天刚看完。"
+       }
+      ],
+      "transcript": "这本书很有意思。 对，我昨天刚看完。",
+      "transcriptPinyin": "zhè běn shū hěn yǒu yì si 。  duì ， wǒ zuó tiān gāng kàn wán 。"
+     }
+    },
+    {
+     "id": "q10",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "E",
+     "explanation": "对话讨论电脑问题，对应第五幅图。",
+     "audio": {
+      "key": "listening/v1/154ba24f3b5febce0be9763f5327e50da4ac81d067f91824dd0b19f5a52d57ed.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "电脑有点儿慢。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "可能需要清理一下。"
+       }
+      ],
+      "transcript": "电脑有点儿慢。 可能需要清理一下。",
+      "transcriptPinyin": "diàn nǎo yǒu diǎn ér màn 。  kě néng xū yào qīng lǐ yī xià 。"
+     }
+    }
+   ],
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-0eb6c067a3c5f831a7cd5c2b7d16097c.png"
+    },
+    {
+     "label": "B",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-686b6d52bf95a3eb39edef01d3cb1144.png"
+    },
+    {
+     "label": "C",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-45b32e4d884948b749821d7cc65e635d.png"
+    },
+    {
+     "label": "D",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-0a5d240273c64d5ebe2cd7b9b4eb2e50.png"
+    },
+    {
+     "label": "E",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-cd356a8aa30738dc5c2b9134499843c8.png"
+    },
+    {
+     "label": "F",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-0cba317cf5a159171705c04a12fa931f.png"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

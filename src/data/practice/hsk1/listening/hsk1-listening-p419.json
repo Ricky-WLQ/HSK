@@ -1,0 +1,202 @@
+{
+ "id": "hsk1-listening-p419",
+ "level": "1",
+ "section": "listening",
+ "partKey": "listening-p4",
+ "title": "HSK1 Listening P4",
+ "titleZh": "听力 第四部分（听问句选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听一段独白，然后回答问题。每个问题有三个选项，选择正确答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "他叫什么名字？",
+     "correctAnswer": "A",
+     "explanation": "独白中说‘我叫王明’，所以他的名字是王明。",
+     "audio": {
+      "key": "listening/v1/3bdf6f6cecca16150cc58dbbf1ca46370fff00009d57383eaacc8ddba7a607a9.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我叫王明，我是学生。"
+       }
+      ],
+      "transcript": "我叫王明，我是学生。",
+      "transcriptPinyin": "wǒ jiào wáng míng ， wǒ shì xué shēng 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "王明",
+       "pinyin": "wáng míng"
+      },
+      {
+       "label": "B",
+       "text": "李华",
+       "pinyin": "lǐ huá"
+      },
+      {
+       "label": "C",
+       "text": "张伟",
+       "pinyin": "zhāng wěi"
+      }
+     ],
+     "pinyin": "tā jiào shén me míng zì ？"
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "妈妈今年多大？",
+     "correctAnswer": "C",
+     "explanation": "独白中说‘我妈妈今年四十岁’，所以妈妈四十岁。",
+     "audio": {
+      "key": "listening/v1/1e2493c2cc2b7abfa071a51eb46ae549ad2db32de740a0ed84327e856eb1c651.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我妈妈今年四十岁。"
+       }
+      ],
+      "transcript": "我妈妈今年四十岁。",
+      "transcriptPinyin": "wǒ mā mā jīn nián sì shí suì 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "五十岁",
+       "pinyin": "wǔ shí suì"
+      },
+      {
+       "label": "B",
+       "text": "三十岁",
+       "pinyin": "sān shí suì"
+      },
+      {
+       "label": "C",
+       "text": "四十岁",
+       "pinyin": "sì shí suì"
+      }
+     ],
+     "pinyin": "mā mā jīn nián duō dà ？"
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "现在几点了？",
+     "correctAnswer": "A",
+     "explanation": "独白中说‘现在下午三点’，所以时间是下午三点。",
+     "audio": {
+      "key": "listening/v1/a82d1ee5a33a438f9f57da13ff13a1873bf893d20fe3d2de1079c321d02522aa.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "现在下午三点。"
+       }
+      ],
+      "transcript": "现在下午三点。",
+      "transcriptPinyin": "xiàn zài xià wǔ sān diǎn 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "下午三点",
+       "pinyin": "xià wǔ sān diǎn"
+      },
+      {
+       "label": "B",
+       "text": "下午四点",
+       "pinyin": "xià wǔ sì diǎn"
+      },
+      {
+       "label": "C",
+       "text": "下午两点",
+       "pinyin": "xià wǔ liǎng diǎn"
+      }
+     ],
+     "pinyin": "xiàn zài jǐ diǎn le ？"
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "书在哪儿？",
+     "correctAnswer": "C",
+     "explanation": "独白中说‘我的书在桌子上’，所以书在桌子上。",
+     "audio": {
+      "key": "listening/v1/3d8948b640849b33cea07c5a2c8a57a6aa13d19d544b46767e7d7cfc1375a3c3.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我的书在桌子上。"
+       }
+      ],
+      "transcript": "我的书在桌子上。",
+      "transcriptPinyin": "wǒ de shū zài zhuō zi shàng 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "椅子上",
+       "pinyin": "yǐ zi shàng"
+      },
+      {
+       "label": "B",
+       "text": "床上",
+       "pinyin": "chuáng shàng"
+      },
+      {
+       "label": "C",
+       "text": "桌子上",
+       "pinyin": "zhuō zi shàng"
+      }
+     ],
+     "pinyin": "shū zài nǎ ér ？"
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "这是谁的猫？",
+     "correctAnswer": "B",
+     "explanation": "独白中说‘这是小明的猫’，所以猫是小明的。",
+     "audio": {
+      "key": "listening/v1/ae1f6e63e692837924a482d115b524c16b4c9eb1c6b2ff9bb915a5d8e58798ff.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "这是小明的猫。"
+       }
+      ],
+      "transcript": "这是小明的猫。",
+      "transcriptPinyin": "zhè shì xiǎo míng de māo 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "小红的",
+       "pinyin": "xiǎo hóng de"
+      },
+      {
+       "label": "B",
+       "text": "小明的",
+       "pinyin": "xiǎo míng de"
+      },
+      {
+       "label": "C",
+       "text": "小华的",
+       "pinyin": "xiǎo huá de"
+      }
+     ],
+     "pinyin": "zhè shì shéi de māo ？"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

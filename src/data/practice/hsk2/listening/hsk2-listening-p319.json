@@ -1,0 +1,457 @@
+{
+ "id": "hsk2-listening-p319",
+ "level": "2",
+ "section": "listening",
+ "partKey": "listening-p3",
+ "title": "HSK2 Listening P3",
+ "titleZh": "听力 第三部分（听对话选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听每段对话，然后根据对话内容选择正确答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "女的下午要做什么？",
+     "correctAnswer": "B",
+     "explanation": "对话中女的说下午要去图书馆学习，所以正确答案是去图书馆。",
+     "audio": {
+      "key": "listening/v1/1da1b2488ca9da377112380e8a5995d6406bf62e5b8b8b7a81ade3aa0f609d47.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你今天下午有空吗？我想请你去看电影。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "对不起，我下午要去图书馆学习。"
+       }
+      ],
+      "transcript": "你今天下午有空吗？我想请你去看电影。 对不起，我下午要去图书馆学习。",
+      "transcriptPinyin": "nǐ jīn tiān xià wǔ yǒu kòng ma ？ wǒ xiǎng qǐng nǐ qù kàn diàn yǐng 。  duì bù qǐ ， wǒ xià wǔ yào qù tú shū guǎn xué xí 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "看电影",
+       "pinyin": "kàn diàn yǐng"
+      },
+      {
+       "label": "B",
+       "text": "去图书馆",
+       "pinyin": "qù tú shū guǎn"
+      },
+      {
+       "label": "C",
+       "text": "在家休息",
+       "pinyin": "zài jiā xiū xī"
+      }
+     ],
+     "pinyin": "nǚ de xià wǔ yào zuò shén me ？"
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "女的学汉语多长时间了？",
+     "correctAnswer": "C",
+     "explanation": "对话中女的说她学了两年了，所以正确答案是两年。",
+     "audio": {
+      "key": "listening/v1/b13100e6fefa8e88fad38707a2664344041e07a460d94be12ce6cf702e52ef78.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你的汉语说得真好，学了多久了？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我学了两年了，但是还觉得不够好。"
+       }
+      ],
+      "transcript": "你的汉语说得真好，学了多久了？ 我学了两年了，但是还觉得不够好。",
+      "transcriptPinyin": "nǐ de hàn yǔ shuō dé zhēn hǎo ， xué le duō jiǔ le ？  wǒ xué le liǎng nián le ， dàn shì hái jué de bù gòu hǎo 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "一年",
+       "pinyin": "yī nián"
+      },
+      {
+       "label": "B",
+       "text": "三年",
+       "pinyin": "sān nián"
+      },
+      {
+       "label": "C",
+       "text": "两年",
+       "pinyin": "liǎng nián"
+      }
+     ],
+     "pinyin": "nǚ de xué hàn yǔ duō zhǎng shí jiān le ？"
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "他们明天打算做什么？",
+     "correctAnswer": "A",
+     "explanation": "对话中男的提议去公园玩，女的同意并说想去看花，所以他们打算去公园。",
+     "audio": {
+      "key": "listening/v1/7f81d04d839a29448cef476a5f326e9bf52883b0f5079d7a6f18587b1b80c2fa.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "明天是星期天，我们一起去公园玩儿吧？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "好主意！我想去看花。听说公园里的花都开了。"
+       }
+      ],
+      "transcript": "明天是星期天，我们一起去公园玩儿吧？ 好主意！我想去看花。听说公园里的花都开了。",
+      "transcriptPinyin": "míng tiān shì xīng qī tiān ， wǒ men yì qǐ qù gōng yuán wán ér ba ？  hǎo zhǔ yì ！ wǒ xiǎng qù kàn huā 。 tīng shuō gōng yuán lǐ de huā dōu kāi le 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "去公园",
+       "pinyin": "qù gōng yuán"
+      },
+      {
+       "label": "B",
+       "text": "去学校",
+       "pinyin": "qù xué xiào"
+      },
+      {
+       "label": "C",
+       "text": "去商场",
+       "pinyin": "qù shāng chǎng"
+      }
+     ],
+     "pinyin": "tā men míng tiān dǎ suàn zuò shén me ？"
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "男的做了哪些菜？",
+     "correctAnswer": "B",
+     "explanation": "对话中男的说有鱼、有肉、还有青菜，所以三种菜都有。",
+     "audio": {
+      "key": "listening/v1/abd2d6be4daa8d45288ffcaa153f2c05990a5001f7a6b30236cac6f1263dcba6.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你吃饭了吗？我做了很多菜。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "还没呢，我正想出去吃。你做的什么菜？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "有鱼、有肉，还有青菜。来一起吃吧！"
+       }
+      ],
+      "transcript": "你吃饭了吗？我做了很多菜。 还没呢，我正想出去吃。你做的什么菜？ 有鱼、有肉，还有青菜。来一起吃吧！",
+      "transcriptPinyin": "nǐ chī fàn le ma ？ wǒ zuò le hěn duō cài 。  hái méi ne ， wǒ zhèng xiǎng chū qù chī 。 nǐ zuò de shén me cài ？  yǒu yú 、 yǒu ròu ， hái yǒu qīng cài 。 lái yì qǐ chī ba ！"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "只有鱼和肉",
+       "pinyin": "zhǐ yǒu yú hé ròu"
+      },
+      {
+       "label": "B",
+       "text": "鱼、肉和青菜",
+       "pinyin": "yú 、 ròu hé qīng cài"
+      },
+      {
+       "label": "C",
+       "text": "只有青菜",
+       "pinyin": "zhǐ yǒu qīng cài"
+      }
+     ],
+     "pinyin": "nán de zuò le nǎ xiē cài ？"
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "女的手机买了多久？",
+     "correctAnswer": "C",
+     "explanation": "对话中女的说手机买了半年了，所以正确答案是半年。",
+     "audio": {
+      "key": "listening/v1/b1c969de69c614c2e90e3375e09ecc6f149b0a7af352c6222b6c216a0cf2df0e.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你的手机是新的吗？很好看。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "不是新的，我买了半年了。不过我很喜欢。"
+       }
+      ],
+      "transcript": "你的手机是新的吗？很好看。 不是新的，我买了半年了。不过我很喜欢。",
+      "transcriptPinyin": "nǐ de shǒu jī shì xīn de ma ？ hěn hǎo kàn 。  bú shì xīn de ， wǒ mǎi le bàn nián le 。 bù guò wǒ hěn xǐ huān 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "一个月",
+       "pinyin": "yí gè yuè"
+      },
+      {
+       "label": "B",
+       "text": "一个星期",
+       "pinyin": "yí gè xīng qī"
+      },
+      {
+       "label": "C",
+       "text": "半年",
+       "pinyin": "bàn nián"
+      }
+     ],
+     "pinyin": "nǚ de shǒu jī mǎi le duō jiǔ ？"
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "女的穿了几件衣服？",
+     "correctAnswer": "B",
+     "explanation": "对话中女的说她穿了一件毛衣和一件大衣，一共两件。",
+     "audio": {
+      "key": "listening/v1/15865f3405044bee5c137c7a7e7bf20c00962ea0d545aed4731f3ff8d16ce6f7.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "今天天气真冷，你穿得多吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我穿了一件毛衣和一件大衣，不冷。"
+       }
+      ],
+      "transcript": "今天天气真冷，你穿得多吗？ 我穿了一件毛衣和一件大衣，不冷。",
+      "transcriptPinyin": "jīn tiān tiān qì zhēn lěng ， nǐ chuān dé duō ma ？  wǒ chuān le yī jiàn máo yī hé yī jiàn dà yī ， bù lěng 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "一件",
+       "pinyin": "yī jiàn"
+      },
+      {
+       "label": "B",
+       "text": "两件",
+       "pinyin": "liǎng jiàn"
+      },
+      {
+       "label": "C",
+       "text": "三件",
+       "pinyin": "sān jiàn"
+      }
+     ],
+     "pinyin": "nǚ de chuān le jǐ jiàn yī fú ？"
+    },
+    {
+     "id": "q7",
+     "type": "listening-mcq",
+     "prompt": "女的不喜欢做什么？",
+     "correctAnswer": "A",
+     "explanation": "对话中女的只说了喜欢看书和跑步，没有提到游泳，所以不喜欢游泳。",
+     "audio": {
+      "key": "listening/v1/145f9a422f537fe45d4ca860821e4b0abab552c3b1ffe64b3ac0a1c7c2bd410c.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你周末喜欢做什么？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我喜欢在家看书，有时候也去跑步。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我也喜欢跑步，我们一起跑吧！"
+       }
+      ],
+      "transcript": "你周末喜欢做什么？ 我喜欢在家看书，有时候也去跑步。 我也喜欢跑步，我们一起跑吧！",
+      "transcriptPinyin": "nǐ zhōu mò xǐ huān zuò shén me ？  wǒ xǐ huān zài jiā kàn shū ， yǒu shí hòu yě qù pǎo bù 。  wǒ yě xǐ huān pǎo bù ， wǒ men yì qǐ pǎo ba ！"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "游泳",
+       "pinyin": "yóu yǒng"
+      },
+      {
+       "label": "B",
+       "text": "跑步",
+       "pinyin": "pǎo bù"
+      },
+      {
+       "label": "C",
+       "text": "看书",
+       "pinyin": "kàn shū"
+      }
+     ],
+     "pinyin": "nǚ de bù xǐ huān zuò shén me ？"
+    },
+    {
+     "id": "q8",
+     "type": "listening-mcq",
+     "prompt": "女的学校怎么去？",
+     "correctAnswer": "B",
+     "explanation": "对话中女的说坐公交车只要十分钟，所以是坐公交车。",
+     "audio": {
+      "key": "listening/v1/f899a89e9d9d7a7b407c31d8b764b34ab105bdb5b3c85ff37477bf9510b52d04.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你学校离这儿远吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "不远，坐公交车只要十分钟。"
+       }
+      ],
+      "transcript": "你学校离这儿远吗？ 不远，坐公交车只要十分钟。",
+      "transcriptPinyin": "nǐ xué xiào lí zhè ér yuǎn ma ？  bù yuǎn ， zuò gōng jiāo chē zhǐ yào shí fēn zhōng 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "开车",
+       "pinyin": "kāi chē"
+      },
+      {
+       "label": "B",
+       "text": "坐公交车",
+       "pinyin": "zuò gōng jiāo chē"
+      },
+      {
+       "label": "C",
+       "text": "走路",
+       "pinyin": "zǒu lù"
+      }
+     ],
+     "pinyin": "nǚ de xué xiào zěn me qù ？"
+    },
+    {
+     "id": "q9",
+     "type": "listening-mcq",
+     "prompt": "女的狗几岁了？",
+     "correctAnswer": "C",
+     "explanation": "对话中女的说狗只有两岁，所以正确答案是两岁。",
+     "audio": {
+      "key": "listening/v1/bff3680d4401e9303402c5f6d5f44dc383d2e9a9c4b24ecc9ab84d185994bb0b.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你的狗多大了？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "它只有两岁，但是很大了。"
+       }
+      ],
+      "transcript": "你的狗多大了？ 它只有两岁，但是很大了。",
+      "transcriptPinyin": "nǐ de gǒu duō dà le ？  tā zhǐ yǒu liǎng suì ， dàn shì hěn dà le 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "三岁",
+       "pinyin": "sān suì"
+      },
+      {
+       "label": "B",
+       "text": "一岁",
+       "pinyin": "yī suì"
+      },
+      {
+       "label": "C",
+       "text": "两岁",
+       "pinyin": "liǎng suì"
+      }
+     ],
+     "pinyin": "nǚ de gǒu jǐ suì le ？"
+    },
+    {
+     "id": "q10",
+     "type": "listening-mcq",
+     "prompt": "生日派对什么时候开始？",
+     "correctAnswer": "C",
+     "explanation": "对话中男的说派对是晚上七点开始，所以正确答案是晚上七点。",
+     "audio": {
+      "key": "listening/v1/9e7df06bed630ed051d7f3738fa942bc56fc602903693a7fe9af2d87479dc514.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你明天能来参加我的生日派对吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "明天几点？我下午三点以后有空。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "派对是晚上七点开始。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "好，我一定去。"
+       }
+      ],
+      "transcript": "你明天能来参加我的生日派对吗？ 明天几点？我下午三点以后有空。 派对是晚上七点开始。 好，我一定去。",
+      "transcriptPinyin": "nǐ míng tiān néng lái cān jiā wǒ de shēng rì pài duì ma ？  míng tiān jǐ diǎn ？ wǒ xià wǔ sān diǎn yǐ hòu yǒu kòng 。  pài duì shì wǎn shàng qī diǎn kāi shǐ 。  hǎo ， wǒ yí dìng qù 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "下午三点",
+       "pinyin": "xià wǔ sān diǎn"
+      },
+      {
+       "label": "B",
+       "text": "明天早上",
+       "pinyin": "míng tiān zǎo shàng"
+      },
+      {
+       "label": "C",
+       "text": "晚上七点",
+       "pinyin": "wǎn shàng qī diǎn"
+      }
+     ],
+     "pinyin": "shēng rì pài duì shén me shí hòu kāi shǐ ？"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

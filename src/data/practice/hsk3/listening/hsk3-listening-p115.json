@@ -1,0 +1,289 @@
+{
+ "id": "hsk3-listening-p115",
+ "level": "3",
+ "section": "listening",
+ "partKey": "listening-p1",
+ "title": "HSK3 Listening P1",
+ "titleZh": "听力 第一部分（看图听对话）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "听对话，选择与对话内容对应的图片。每个对话对应一张图片。一共有10个对话，6张图片，其中一张图片不会被用到。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "A",
+     "explanation": "对话中提到了渴了和喝水，所以对应喝水的图片。",
+     "audio": {
+      "key": "listening/v1/33a6dd75d162ee905c7e5d452b225df996a2f335d343f12b7ade077dddb289a2.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我渴了，想喝水。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "这里有水，你喝吧。"
+       }
+      ],
+      "transcript": "我渴了，想喝水。 这里有水，你喝吧。",
+      "transcriptPinyin": "wǒ kě le ， xiǎng hē shuǐ 。  zhè lǐ yǒu shuǐ ， nǐ hē ba 。"
+     }
+    },
+    {
+     "id": "q2",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "A",
+     "explanation": "对话中问喝什么，回答喝水，所以是喝水的场景。",
+     "audio": {
+      "key": "listening/v1/bb45ab65f21d4d4ded6dcf83257810f5ee0d65de964f1de8ea9a107485201ebb.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你喝什么？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我要喝水。"
+       }
+      ],
+      "transcript": "你喝什么？ 我要喝水。",
+      "transcriptPinyin": "nǐ hē shén me ？  wǒ yào hē shuǐ 。"
+     }
+    },
+    {
+     "id": "q3",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "B",
+     "explanation": "对话中谈到看一本书，所以是看书的图片。",
+     "audio": {
+      "key": "listening/v1/4e51a25bbf923869e6e7118e88b27dd18542e409a5e82420bc40dec6fe74fb07.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你在看什么？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我在看一本有意思的书。"
+       }
+      ],
+      "transcript": "你在看什么？ 我在看一本有意思的书。",
+      "transcriptPinyin": "nǐ zài kàn shén me ？  wǒ zài kàn yī běn yǒu yì si de shū 。"
+     }
+    },
+    {
+     "id": "q4",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "B",
+     "explanation": "对话中谈论书好看，所以是读书的场景。",
+     "audio": {
+      "key": "listening/v1/01a2caa54cfde30868bec8df61add3460cff8367c1c3be9f6995d6a8e309872b.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "这本书好看吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "很好看。"
+       }
+      ],
+      "transcript": "这本书好看吗？ 很好看。",
+      "transcriptPinyin": "zhè běn shū hǎo kàn ma ？  hěn hǎo kàn 。"
+     }
+    },
+    {
+     "id": "q5",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "C",
+     "explanation": "对话中邀请踢足球，所以是踢足球的图片。",
+     "audio": {
+      "key": "listening/v1/43a1994f598228b8c01b62350b21f74cfeea84ab995f84167278c765f7e59eb3.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "周末我们一起去踢足球吧。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "好啊，我很喜欢踢足球。"
+       }
+      ],
+      "transcript": "周末我们一起去踢足球吧。 好啊，我很喜欢踢足球。",
+      "transcriptPinyin": "zhōu mò wǒ men yì qǐ qù tī zú qiú ba 。  hǎo a ， wǒ hěn xǐ huān tī zú qiú 。"
+     }
+    },
+    {
+     "id": "q6",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "C",
+     "explanation": "对话中说到每天下午踢足球，所以是踢足球的场景。",
+     "audio": {
+      "key": "listening/v1/46fa5406789465ec3d521527733a229c95ad4f86c81122377ae4fc7e9efd6c95.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你每天下午做什么？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我踢足球。"
+       }
+      ],
+      "transcript": "你每天下午做什么？ 我踢足球。",
+      "transcriptPinyin": "nǐ měi tiān xià wǔ zuò shén me ？  wǒ tī zú qiú 。"
+     }
+    },
+    {
+     "id": "q7",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "D",
+     "explanation": "对话中提到吃面条，所以是吃面条的图片。",
+     "audio": {
+      "key": "listening/v1/78af860ad42443425dcd04d0cefc557b6d80a0bade6b6d24bbb772b3db470ad9.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "今天中午吃什么？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我们去吃面条吧。"
+       }
+      ],
+      "transcript": "今天中午吃什么？ 我们去吃面条吧。",
+      "transcriptPinyin": "jīn tiān zhōng wǔ chī shén me ？  wǒ men qù chī miàn tiáo ba 。"
+     }
+    },
+    {
+     "id": "q8",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "D",
+     "explanation": "对话中喜欢面条和每天吃，所以是吃面条的场景。",
+     "audio": {
+      "key": "listening/v1/090ac5480051149a06770787dcad1317fc619ab004710842a54a5c2c69f0362a.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你喜欢吃面条吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "很喜欢，我每天都吃。"
+       }
+      ],
+      "transcript": "你喜欢吃面条吗？ 很喜欢，我每天都吃。",
+      "transcriptPinyin": "nǐ xǐ huān chī miàn tiáo ma ？  hěn xǐ huān ， wǒ měi tiān dōu chī 。"
+     }
+    },
+    {
+     "id": "q9",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "E",
+     "explanation": "对话中提到看电视，所以是看电视的图片。",
+     "audio": {
+      "key": "listening/v1/94c6a7b52af1966174a7e80ff133250b8dd862f949431e924ba36d12e4025d57.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你昨天晚上做什么了？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我在家看电视。"
+       }
+      ],
+      "transcript": "你昨天晚上做什么了？ 我在家看电视。",
+      "transcriptPinyin": "nǐ zuó tiān wǎn shàng zuò shén me le ？  wǒ zài jiā kàn diàn shì 。"
+     }
+    },
+    {
+     "id": "q10",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "E",
+     "explanation": "对话中一起看电视，所以是看电视的场景。",
+     "audio": {
+      "key": "listening/v1/7f14461eb850cd639d4d6f109e6fe2a794fa21c7499a867d95f6b7571291d0b5.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我们一起看电视吧。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "好的，现在正在放一个好节目。"
+       }
+      ],
+      "transcript": "我们一起看电视吧。 好的，现在正在放一个好节目。",
+      "transcriptPinyin": "wǒ men yì qǐ kàn diàn shì ba 。  hǎo de ， xiàn zài zhèng zài fàng yí gè hǎo jié mù 。"
+     }
+    }
+   ],
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-f3c67f75c65f89286abf1d6fdfafccbe.png"
+    },
+    {
+     "label": "B",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-34e9a39a069fec56b3cc8ad5c87b883d.png"
+    },
+    {
+     "label": "C",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-a1f15a022e6d4d1096d747abf4eb1bd3.png"
+    },
+    {
+     "label": "D",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-635a87ca5c74ce11092bc6a2eedf2b72.png"
+    },
+    {
+     "label": "E",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-fa0c622850ce286ebe349ad12ea5b2f4.png"
+    },
+    {
+     "label": "F",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-cd55b1d3675562678292581f2757602c.png"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

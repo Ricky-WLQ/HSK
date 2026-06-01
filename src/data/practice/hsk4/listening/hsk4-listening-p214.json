@@ -1,0 +1,179 @@
+{
+ "id": "hsk4-listening-p214",
+ "level": "4",
+ "section": "listening",
+ "partKey": "listening-p2",
+ "title": "HSK4 Listening P2",
+ "titleZh": "听力 第二部分（听短文选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "你将听到一段独白，请根据独白内容回答6个问题。每个问题有4个选项，选择唯一正确的答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "王丽是什么时候来到上海的？",
+     "correctAnswer": "D",
+     "explanation": "独白中明确提到‘去年大学毕业后来到上海工作’，所以是去年大学毕业后。",
+     "options": [
+      {
+       "label": "A",
+       "text": "上大学的时候"
+      },
+      {
+       "label": "B",
+       "text": "今年春天"
+      },
+      {
+       "label": "C",
+       "text": "两年前"
+      },
+      {
+       "label": "D",
+       "text": "去年大学毕业后"
+      }
+     ]
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "王丽刚开始觉得上海怎么样？",
+     "correctAnswer": "A",
+     "explanation": "独白中说‘刚开始，我觉得上海很大，人很多，生活节奏很快，有些不习惯’，所以选项‘很不习惯’正确。",
+     "options": [
+      {
+       "label": "A",
+       "text": "很不习惯"
+      },
+      {
+       "label": "B",
+       "text": "很安静"
+      },
+      {
+       "label": "C",
+       "text": "很漂亮"
+      },
+      {
+       "label": "D",
+       "text": "很热闹"
+      }
+     ]
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "王丽现在能听懂什么？",
+     "correctAnswer": "C",
+     "explanation": "独白中提到‘我现在能听懂一些简单的上海话了’，所以是上海话。",
+     "options": [
+      {
+       "label": "A",
+       "text": "广东话"
+      },
+      {
+       "label": "B",
+       "text": "英语"
+      },
+      {
+       "label": "C",
+       "text": "上海话"
+      },
+      {
+       "label": "D",
+       "text": "日语"
+      }
+     ]
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "周末王丽喜欢做什么？",
+     "correctAnswer": "C",
+     "explanation": "独白中说‘周末的时候，我喜欢和朋友们一起去公园散步或者去咖啡馆聊天’，所以是去公园或咖啡馆。",
+     "options": [
+      {
+       "label": "A",
+       "text": "去图书馆看书"
+      },
+      {
+       "label": "B",
+       "text": "在家看电视"
+      },
+      {
+       "label": "C",
+       "text": "去公园或咖啡馆"
+      },
+      {
+       "label": "D",
+       "text": "去商场购物"
+      }
+     ]
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "王丽最近开始学习什么？",
+     "correctAnswer": "C",
+     "explanation": "独白最后说‘最近，我开始学习做上海菜’，所以是做上海菜。",
+     "options": [
+      {
+       "label": "A",
+       "text": "弹吉他"
+      },
+      {
+       "label": "B",
+       "text": "画画"
+      },
+      {
+       "label": "C",
+       "text": "做上海菜"
+      },
+      {
+       "label": "D",
+       "text": "游泳"
+      }
+     ]
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "关于王丽，下面哪个说法是正确的？",
+     "correctAnswer": "A",
+     "explanation": "独白中明确表示‘希望以后能做出美味的红烧肉’，所以选项正确。其他选项与独白不符。",
+     "options": [
+      {
+       "label": "A",
+       "text": "她希望学会做红烧肉"
+      },
+      {
+       "label": "B",
+       "text": "她不会说上海话"
+      },
+      {
+       "label": "C",
+       "text": "她不喜欢上海的生活"
+      },
+      {
+       "label": "D",
+       "text": "她一个人住在上海"
+      }
+     ]
+    }
+   ],
+   "audio": {
+    "key": "listening/v1/13b981fb642f39c2f3145847be0db7a7ee3c0d082bb67f98dcfa076d3acacdb1.mp3",
+    "lines": [
+     {
+      "speaker": "旁白",
+      "voice": "narrator",
+      "text": "我叫王丽，去年大学毕业后来到上海工作。刚开始，我觉得上海很大，人很多，生活节奏很快，有些不习惯。后来，我慢慢学会了坐地铁上下班，也认识了一些新朋友。我的同事教会了我很多上海话，现在我能听懂一些简单的上海话了。周末的时候，我喜欢和朋友们一起去公园散步或者去咖啡馆聊天。我觉得在上海的生活虽然忙，但是很充实。最近，我开始学习做上海菜，希望以后能做出美味的红烧肉。我想，这就是我喜欢的城市生活。"
+     }
+    ],
+    "transcript": "我叫王丽，去年大学毕业后来到上海工作。刚开始，我觉得上海很大，人很多，生活节奏很快，有些不习惯。后来，我慢慢学会了坐地铁上下班，也认识了一些新朋友。我的同事教会了我很多上海话，现在我能听懂一些简单的上海话了。周末的时候，我喜欢和朋友们一起去公园散步或者去咖啡馆聊天。我觉得在上海的生活虽然忙，但是很充实。最近，我开始学习做上海菜，希望以后能做出美味的红烧肉。我想，这就是我喜欢的城市生活。",
+    "transcriptPinyin": null
+   }
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

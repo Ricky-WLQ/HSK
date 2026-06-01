@@ -1,0 +1,387 @@
+{
+ "id": "hsk3-listening-p319",
+ "level": "3",
+ "section": "listening",
+ "partKey": "listening-p3",
+ "title": "HSK3 Listening P3",
+ "titleZh": "听力 第三部分（听短文选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "下面你将听到10段独白，每段独白后有一个问题。请从A、B、C三个选项中选出正确答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "他周末做什么了？",
+     "correctAnswer": "C",
+     "explanation": "独白中说周末去了图书馆，所以正确答案是去图书馆。",
+     "audio": {
+      "key": "listening/v1/23b935093c717749e14db7ebae191724802cefb73038b007ab05621bc5681332.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "这个周末我去了图书馆看书，那里的环境很安静，我看了两本小说。"
+       }
+      ],
+      "transcript": "这个周末我去了图书馆看书，那里的环境很安静，我看了两本小说。",
+      "transcriptPinyin": "zhè ge zhōu mò wǒ qù le tú shū guǎn kàn shū ， nà lǐ de huán jìng hěn ān jìng ， wǒ kàn le liǎng běn xiǎo shuō 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "去朋友家",
+       "pinyin": "qù péng yǒu jiā"
+      },
+      {
+       "label": "B",
+       "text": "去公园",
+       "pinyin": "qù gōng yuán"
+      },
+      {
+       "label": "C",
+       "text": "去图书馆",
+       "pinyin": "qù tú shū guǎn"
+      }
+     ],
+     "pinyin": "tā zhōu mò zuò shén me le ？"
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "他今天早上几点起床？",
+     "correctAnswer": "C",
+     "explanation": "独白中说今天早上八点才起来，所以起床时间是八点。",
+     "audio": {
+      "key": "listening/v1/5877651ece0d4c81a06b352f6d48f5254717b30b2dba6fb8d9db725882f8996c.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我每天早上七点起床，然后吃早饭。今天早上我起晚了，八点才起来。"
+       }
+      ],
+      "transcript": "我每天早上七点起床，然后吃早饭。今天早上我起晚了，八点才起来。",
+      "transcriptPinyin": "wǒ měi tiān zǎo shàng qī diǎn qǐ chuáng ， rán hòu chī zǎo fàn 。 jīn tiān zǎo shàng wǒ qǐ wǎn le ， bā diǎn cái qǐ lái 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "七点",
+       "pinyin": "qī diǎn"
+      },
+      {
+       "label": "B",
+       "text": "九点",
+       "pinyin": "jiǔ diǎn"
+      },
+      {
+       "label": "C",
+       "text": "八点",
+       "pinyin": "bā diǎn"
+      }
+     ],
+     "pinyin": "tā jīn tiān zǎo shàng jǐ diǎn qǐ chuáng ？"
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "他为什么不能运动？",
+     "correctAnswer": "A",
+     "explanation": "独白中说因为感冒了，所以不能运动。",
+     "audio": {
+      "key": "listening/v1/d6580bddf07c9fed914d52eef955b5626f30502e0031b705b215e9e634fdf859.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我喜欢运动，经常跑步和游泳。但是最近我感冒了，不能运动。"
+       }
+      ],
+      "transcript": "我喜欢运动，经常跑步和游泳。但是最近我感冒了，不能运动。",
+      "transcriptPinyin": "wǒ xǐ huān yùn dòng ， jīng cháng pǎo bù hé yóu yǒng 。 dàn shì zuì jìn wǒ gǎn mào le ， bù néng yùn dòng 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "因为感冒了",
+       "pinyin": "yīn wèi gǎn mào le"
+      },
+      {
+       "label": "B",
+       "text": "因为喜欢跑步",
+       "pinyin": "yīn wèi xǐ huān pǎo bù"
+      },
+      {
+       "label": "C",
+       "text": "因为要游泳",
+       "pinyin": "yīn wèi yào yóu yǒng"
+      }
+     ],
+     "pinyin": "tā wèi shén me bù néng yùn dòng ？"
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "他的房间里有什么？",
+     "correctAnswer": "C",
+     "explanation": "独白中说书架上有很多中文书，所以房间里有很多中文书。",
+     "audio": {
+      "key": "listening/v1/31bbeae5895332e2478f2e560b590f7359b8aaf6c7ce8e8bb1ce85fa54afbaf6.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我的房间里有一张桌子、一把椅子和一个书架。书架上有很多中文书。"
+       }
+      ],
+      "transcript": "我的房间里有一张桌子、一把椅子和一个书架。书架上有很多中文书。",
+      "transcriptPinyin": "wǒ de fáng jiān lǐ yǒu yī zhāng zhuō zi 、 yī bǎ yǐ zi hé yí gè shū jià 。 shū jià shàng yǒu hěn duō zhōng wén shū 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "一张床",
+       "pinyin": "yī zhāng chuáng"
+      },
+      {
+       "label": "B",
+       "text": "一个电脑",
+       "pinyin": "yí gè diàn nǎo"
+      },
+      {
+       "label": "C",
+       "text": "很多中文书",
+       "pinyin": "hěn duō zhōng wén shū"
+      }
+     ],
+     "pinyin": "tā de fáng jiān lǐ yǒu shén me ？"
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "今天天气怎么样？",
+     "correctAnswer": "B",
+     "explanation": "独白中说天气很冷，所以正确答案是很冷。",
+     "audio": {
+      "key": "listening/v1/95655b4204b9c5157e9dc52220f1c5be9a4446833262b72bbbf98676b48a7bfc.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "今天天气很冷，风很大。我穿了很多衣服，还是觉得很冷。"
+       }
+      ],
+      "transcript": "今天天气很冷，风很大。我穿了很多衣服，还是觉得很冷。",
+      "transcriptPinyin": "jīn tiān tiān qì hěn lěng ， fēng hěn dà 。 wǒ chuān le hěn duō yī fú ， hái shì jué de hěn lěng 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "很暖和",
+       "pinyin": "hěn nuǎn huo"
+      },
+      {
+       "label": "B",
+       "text": "很冷",
+       "pinyin": "hěn lěng"
+      },
+      {
+       "label": "C",
+       "text": "很热",
+       "pinyin": "hěn rè"
+      }
+     ],
+     "pinyin": "jīn tiān tiān qì zěn me yàng ？"
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "他为什么迟到了？",
+     "correctAnswer": "A",
+     "explanation": "独白中说因为地铁坏了，所以迟到了。",
+     "audio": {
+      "key": "listening/v1/edd19fe717a4b52820fb734666d65d7c5f8149f5ae683d94f94993ddbfde25f7.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我坐地铁去上班，一般要三十分钟。但是今天地铁坏了，我迟到了。"
+       }
+      ],
+      "transcript": "我坐地铁去上班，一般要三十分钟。但是今天地铁坏了，我迟到了。",
+      "transcriptPinyin": "wǒ zuò dì tiě qù shàng bān ， yì bān yào sān shí fēn zhōng 。 dàn shì jīn tiān dì tiě huài le ， wǒ chí dào le 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "因为地铁坏了",
+       "pinyin": "yīn wèi dì tiě huài le"
+      },
+      {
+       "label": "B",
+       "text": "因为走路慢",
+       "pinyin": "yīn wèi zǒu lù màn"
+      },
+      {
+       "label": "C",
+       "text": "因为起晚了",
+       "pinyin": "yīn wèi qǐ wǎn le"
+      }
+     ],
+     "pinyin": "tā wèi shén me chí dào le ？"
+    },
+    {
+     "id": "q7",
+     "type": "listening-mcq",
+     "prompt": "他昨天买了什么？",
+     "correctAnswer": "A",
+     "explanation": "独白中说昨天买了一双黑色的鞋，所以正确答案是一双黑鞋。",
+     "audio": {
+      "key": "listening/v1/244e203f3be03b7756cec841929c4c003602a08fc0c7ac20358078f8314188a4.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我昨天买了一双黑色的鞋，今天穿去上班，同事说很好看。"
+       }
+      ],
+      "transcript": "我昨天买了一双黑色的鞋，今天穿去上班，同事说很好看。",
+      "transcriptPinyin": "wǒ zuó tiān mǎi le yī shuāng hēi sè de xié ， jīn tiān chuān qù shàng bān ， tóng shì shuō hěn hǎo kàn 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "一双黑鞋",
+       "pinyin": "yī shuāng hēi xié"
+      },
+      {
+       "label": "B",
+       "text": "一个黑包",
+       "pinyin": "yí gè hēi bāo"
+      },
+      {
+       "label": "C",
+       "text": "一件黑衣服",
+       "pinyin": "yī jiàn hēi yī fú"
+      }
+     ],
+     "pinyin": "tā zuó tiān mǎi le shén me ？"
+    },
+    {
+     "id": "q8",
+     "type": "listening-mcq",
+     "prompt": "小王喜欢做什么运动？",
+     "correctAnswer": "C",
+     "explanation": "独白中说小王喜欢打篮球，所以正确答案是打篮球。",
+     "audio": {
+      "key": "listening/v1/a712f75c27a770a06f1aa7a444a8111e91d85fe3609986c6f12d96e4ade444e0.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "小王是我的好朋友，他个子很高，喜欢打篮球。我们经常一起打球。"
+       }
+      ],
+      "transcript": "小王是我的好朋友，他个子很高，喜欢打篮球。我们经常一起打球。",
+      "transcriptPinyin": "xiǎo wáng shì wǒ de hǎo péng yǒu ， tā gè zi hěn gāo ， xǐ huān dǎ lán qiú 。 wǒ men jīng cháng yì qǐ dǎ qiú 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "打乒乓球",
+       "pinyin": "dǎ pīng pāng qiú"
+      },
+      {
+       "label": "B",
+       "text": "踢足球",
+       "pinyin": "tī zú qiú"
+      },
+      {
+       "label": "C",
+       "text": "打篮球",
+       "pinyin": "dǎ lán qiú"
+      }
+     ],
+     "pinyin": "xiǎo wáng xǐ huān zuò shén me yùn dòng ？"
+    },
+    {
+     "id": "q9",
+     "type": "listening-mcq",
+     "prompt": "妈妈让他买什么？",
+     "correctAnswer": "C",
+     "explanation": "独白中说妈妈让他去买水果，所以正确答案是水果。",
+     "audio": {
+      "key": "listening/v1/a483f0d48876ba751b1d52a1734608581613cd8d918bc66cd5d19acc40c7ae27.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "妈妈让我去超市买一些水果，苹果、香蕉和葡萄。但是超市的苹果卖完了。"
+       }
+      ],
+      "transcript": "妈妈让我去超市买一些水果，苹果、香蕉和葡萄。但是超市的苹果卖完了。",
+      "transcriptPinyin": "mā mā ràng wǒ qù chāo shì mǎi yī xiē shuǐ guǒ ， píng guǒ 、 xiāng jiāo hé pú táo 。 dàn shì chāo shì de píng guǒ mài wán le 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "蔬菜",
+       "pinyin": "shū cài"
+      },
+      {
+       "label": "B",
+       "text": "肉",
+       "pinyin": "ròu"
+      },
+      {
+       "label": "C",
+       "text": "水果",
+       "pinyin": "shuǐ guǒ"
+      }
+     ],
+     "pinyin": "mā mā ràng tā mǎi shén me ？"
+    },
+    {
+     "id": "q10",
+     "type": "listening-mcq",
+     "prompt": "他的生日是几月几号？",
+     "correctAnswer": "A",
+     "explanation": "独白中说生日是五月十号，所以正确答案是五月十号。",
+     "audio": {
+      "key": "listening/v1/0dee212c366b3808727461ff63bf6ce6268ccd00c999fd477587e79f924003d6.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我的生日是五月十号，那天我和朋友们一起吃饭、唱歌，很开心。"
+       }
+      ],
+      "transcript": "我的生日是五月十号，那天我和朋友们一起吃饭、唱歌，很开心。",
+      "transcriptPinyin": "wǒ de shēng rì shì wǔ yuè shí hào ， nà tiān wǒ hé péng yǒu men yì qǐ chī fàn 、 chàng gē ， hěn kāi xīn 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "五月十号",
+       "pinyin": "wǔ yuè shí hào"
+      },
+      {
+       "label": "B",
+       "text": "五月五号",
+       "pinyin": "wǔ yuè wǔ hào"
+      },
+      {
+       "label": "C",
+       "text": "六月十号",
+       "pinyin": "liù yuè shí hào"
+      }
+     ],
+     "pinyin": "tā de shēng rì shì jǐ yuè jǐ hào ？"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

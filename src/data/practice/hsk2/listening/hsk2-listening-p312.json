@@ -1,0 +1,512 @@
+{
+ "id": "hsk2-listening-p312",
+ "level": "2",
+ "section": "listening",
+ "partKey": "listening-p3",
+ "title": "HSK2 Listening P3",
+ "titleZh": "听力 第三部分（听对话选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听对话，然后选择正确答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "女的明天要做什么？",
+     "correctAnswer": "C",
+     "explanation": "女的说‘明天我要上班’，所以正确选项是上班。",
+     "audio": {
+      "key": "listening/v1/4491f72004ff225a590ffbf5573c9935a56c644372634f042cd7d5d343f0585c.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "明天有时间吗？我们一起去看电影吧。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "不行，明天我要上班。"
+       }
+      ],
+      "transcript": "明天有时间吗？我们一起去看电影吧。 不行，明天我要上班。",
+      "transcriptPinyin": "míng tiān yǒu shí jiān ma ？ wǒ men yì qǐ qù kàn diàn yǐng ba 。  bù xíng ， míng tiān wǒ yào shàng bān 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "看电影",
+       "pinyin": "kàn diàn yǐng"
+      },
+      {
+       "label": "B",
+       "text": "去学校",
+       "pinyin": "qù xué xiào"
+      },
+      {
+       "label": "C",
+       "text": "上班",
+       "pinyin": "shàng bān"
+      }
+     ],
+     "pinyin": "nǚ de míng tiān yào zuò shén me ？"
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "男的最后要了什么？",
+     "correctAnswer": "A",
+     "explanation": "男的一开始要可乐，但可乐没有了，后来他选择了水。",
+     "audio": {
+      "key": "listening/v1/ebd0dafb26721b3ecbe8ba4e16733c780696382dcee243ba4c148d311593f62e.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你想喝什么？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我想喝可乐。有可乐吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "可乐没有了。有水，还有茶。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "那我喝水吧。"
+       }
+      ],
+      "transcript": "你想喝什么？ 我想喝可乐。有可乐吗？ 可乐没有了。有水，还有茶。 那我喝水吧。",
+      "transcriptPinyin": "nǐ xiǎng hē shén me ？  wǒ xiǎng hē kě lè 。 yǒu kě lè ma ？  kě lè méi yǒu le 。 yǒu shuǐ ， hái yǒu chá 。  nà wǒ hē shuǐ ba 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "水",
+       "pinyin": "shuǐ"
+      },
+      {
+       "label": "B",
+       "text": "茶",
+       "pinyin": "chá"
+      },
+      {
+       "label": "C",
+       "text": "可乐",
+       "pinyin": "kě lè"
+      }
+     ],
+     "pinyin": "nán de zuì hòu yào le shén me ？"
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "书在哪里？",
+     "correctAnswer": "C",
+     "explanation": "女的说书在包里，所以正确选项是包里。",
+     "audio": {
+      "key": "listening/v1/7049685f5d8311a1753264dffb7eaa986b4c6d631222c045f61f0dff5e072673.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你的书在哪里？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "在桌子上。你看，没有吗？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "没有啊。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "哦，在我包里。"
+       }
+      ],
+      "transcript": "你的书在哪里？ 在桌子上。你看，没有吗？ 没有啊。 哦，在我包里。",
+      "transcriptPinyin": "nǐ de shū zài nǎ lǐ ？  zài zhuō zi shàng 。 nǐ kàn ， méi yǒu ma ？  méi yǒu a 。  ó ， zài wǒ bāo lǐ 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "桌子上",
+       "pinyin": "zhuō zi shàng"
+      },
+      {
+       "label": "B",
+       "text": "椅子上",
+       "pinyin": "yǐ zi shàng"
+      },
+      {
+       "label": "C",
+       "text": "包里",
+       "pinyin": "bāo lǐ"
+      }
+     ],
+     "pinyin": "shū zài nǎ lǐ ？"
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "他们什么时候去公园？",
+     "correctAnswer": "C",
+     "explanation": "女的说星期四去公园，男的说好，所以他们星期四去。",
+     "audio": {
+      "key": "listening/v1/945d9c234c18bd681a3c7678d38da3f5b07f4851585777e0f5c5f6e4c699bb0e.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "今天星期几？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "星期三。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "那我们星期四去公园吧。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "好的。"
+       }
+      ],
+      "transcript": "今天星期几？ 星期三。 那我们星期四去公园吧。 好的。",
+      "transcriptPinyin": "jīn tiān xīng qī jǐ ？  xīng qī sān 。  nà wǒ men xīng qī sì qù gōng yuán ba 。  hǎo de 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "星期三",
+       "pinyin": "xīng qī sān"
+      },
+      {
+       "label": "B",
+       "text": "星期五",
+       "pinyin": "xīng qī wǔ"
+      },
+      {
+       "label": "C",
+       "text": "星期四",
+       "pinyin": "xīng qī sì"
+      }
+     ],
+     "pinyin": "tā men shén me shí hòu qù gōng yuán ？"
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "女的喜欢什么颜色？",
+     "correctAnswer": "C",
+     "explanation": "女的说喜欢红色，所以正确选项是红色。",
+     "audio": {
+      "key": "listening/v1/d3db87e04148e487888add1013deea7442aafcb13245c43126e39c1bc4ca3d6b.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你喜欢什么颜色？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我喜欢红色。我觉得红色很好看。"
+       }
+      ],
+      "transcript": "你喜欢什么颜色？ 我喜欢红色。我觉得红色很好看。",
+      "transcriptPinyin": "nǐ xǐ huān shén me yán sè ？  wǒ xǐ huān hóng sè 。 wǒ jué de hóng sè hěn hǎo kàn 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "蓝色",
+       "pinyin": "lán sè"
+      },
+      {
+       "label": "B",
+       "text": "黄色",
+       "pinyin": "huáng sè"
+      },
+      {
+       "label": "C",
+       "text": "红色",
+       "pinyin": "hóng sè"
+      }
+     ],
+     "pinyin": "nǚ de xǐ huān shén me yán sè ？"
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "男的妹妹几岁？",
+     "correctAnswer": "C",
+     "explanation": "男的说妹妹六岁，所以正确选项是六岁。",
+     "audio": {
+      "key": "listening/v1/73b3a710a5442d5135de3e8faedd9196e87f4af6913a628539ae59c13d6b14a1.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你家有几口人？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "四口人。爸爸、妈妈、我和妹妹。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "妹妹几岁了？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "六岁。"
+       }
+      ],
+      "transcript": "你家有几口人？ 四口人。爸爸、妈妈、我和妹妹。 妹妹几岁了？ 六岁。",
+      "transcriptPinyin": "nǐ jiā yǒu jǐ kǒu rén ？  sì kǒu rén 。 bà bà 、 mā mā 、 wǒ hé mèi mèi 。  mèi mèi jǐ suì le ？  liù suì 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "四岁",
+       "pinyin": "sì suì"
+      },
+      {
+       "label": "B",
+       "text": "十岁",
+       "pinyin": "shí suì"
+      },
+      {
+       "label": "C",
+       "text": "六岁",
+       "pinyin": "liù suì"
+      }
+     ],
+     "pinyin": "nán de mèi mèi jǐ suì ？"
+    },
+    {
+     "id": "q7",
+     "type": "listening-mcq",
+     "prompt": "他们接下来要做什么？",
+     "correctAnswer": "C",
+     "explanation": "女的说要去食堂，男的说一起吃，所以他们要去食堂吃饭。",
+     "audio": {
+      "key": "listening/v1/91b458120ee5866766539123d28db9a60d1595e2fe40df59673879680109e525.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你吃饭了吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "还没有，我准备去食堂。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "那我们一起吃吧。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "好啊。"
+       }
+      ],
+      "transcript": "你吃饭了吗？ 还没有，我准备去食堂。 那我们一起吃吧。 好啊。",
+      "transcriptPinyin": "nǐ chī fàn le ma ？  hái méi yǒu ， wǒ zhǔn bèi qù shí táng 。  nà wǒ men yì qǐ chī ba 。  hǎo a 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "去教室",
+       "pinyin": "qù jiào shì"
+      },
+      {
+       "label": "B",
+       "text": "回家",
+       "pinyin": "huí jiā"
+      },
+      {
+       "label": "C",
+       "text": "去食堂吃饭",
+       "pinyin": "qù shí táng chī fàn"
+      }
+     ],
+     "pinyin": "tā men jiē xià lái yào zuò shén me ？"
+    },
+    {
+     "id": "q8",
+     "type": "listening-mcq",
+     "prompt": "男的手机是去年买的吗？",
+     "correctAnswer": "B",
+     "explanation": "男的说手机是去年买的，所以答案是是。",
+     "audio": {
+      "key": "listening/v1/26cc8750813581a0c18874898314f2e3f160488951535cad77cb3223e17ce334.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你的手机号是多少？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "13812345678。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你什么时候买的？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "去年。"
+       }
+      ],
+      "transcript": "你的手机号是多少？ 13812345678。 你什么时候买的？ 去年。",
+      "transcriptPinyin": "nǐ de shǒu jī hào shì duō shǎo ？ 13812345678。  nǐ shén me shí hòu mǎi de ？  qù nián 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "不是",
+       "pinyin": "bú shì"
+      },
+      {
+       "label": "B",
+       "text": "是",
+       "pinyin": "shì"
+      },
+      {
+       "label": "C",
+       "text": "不知道",
+       "pinyin": "bù zhī dào"
+      }
+     ],
+     "pinyin": "nán de shǒu jī shì qù nián mǎi de ma ？"
+    },
+    {
+     "id": "q9",
+     "type": "listening-mcq",
+     "prompt": "他们什么时候去游泳？",
+     "correctAnswer": "A",
+     "explanation": "女的说今天太冷，明天去，所以明天去游泳。",
+     "audio": {
+      "key": "listening/v1/776407734bed17ed042a8cd0d24daf8a4f1f4c2c961d09a3372ae4a46c953c88.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你会游泳吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "会一点。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "那我们去游泳馆吧。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "今天太冷了，明天去。"
+       }
+      ],
+      "transcript": "你会游泳吗？ 会一点。 那我们去游泳馆吧。 今天太冷了，明天去。",
+      "transcriptPinyin": "nǐ huì yóu yǒng ma ？  huì yì diǎn 。  nà wǒ men qù yóu yǒng guǎn ba 。  jīn tiān tài lěng le ， míng tiān qù 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "明天",
+       "pinyin": "míng tiān"
+      },
+      {
+       "label": "B",
+       "text": "现在",
+       "pinyin": "xiàn zài"
+      },
+      {
+       "label": "C",
+       "text": "今天",
+       "pinyin": "jīn tiān"
+      }
+     ],
+     "pinyin": "tā men shén me shí hòu qù yóu yǒng ？"
+    },
+    {
+     "id": "q10",
+     "type": "listening-mcq",
+     "prompt": "猫在哪儿？",
+     "correctAnswer": "B",
+     "explanation": "男的说猫在沙发上，所以正确选项是沙发上。",
+     "audio": {
+      "key": "listening/v1/4e3982966bc1ad5e1b0c823ed655b2bab23554a6f0962888d2049ecfc7d05043.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你的猫在哪儿？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "在沙发上。你看，它很可爱。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "是的，很可爱。"
+       }
+      ],
+      "transcript": "你的猫在哪儿？ 在沙发上。你看，它很可爱。 是的，很可爱。",
+      "transcriptPinyin": "nǐ de māo zài nǎ ér ？  zài shā fā shàng 。 nǐ kàn ， tā hěn kě ài 。  shì de ， hěn kě ài 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "床上",
+       "pinyin": "chuáng shàng"
+      },
+      {
+       "label": "B",
+       "text": "沙发上",
+       "pinyin": "shā fā shàng"
+      },
+      {
+       "label": "C",
+       "text": "地上",
+       "pinyin": "dì shàng"
+      }
+     ],
+     "pinyin": "māo zài nǎ ér ？"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

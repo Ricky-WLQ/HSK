@@ -1,0 +1,313 @@
+{
+ "id": "hsk6-listening-p112",
+ "level": "6",
+ "section": "listening",
+ "partKey": "listening-p1",
+ "title": "HSK6 Listening P1",
+ "titleZh": "听力 第一部分（听新闻选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请根据录音内容，选择最符合原文的选项。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "关于远程办公，以下哪项与录音内容一致？",
+     "correctAnswer": "D",
+     "explanation": "录音中提到超过七成管理者认为远程办公将长期存在，并指出混合办公制度可能成为未来主流方式，与C选项一致。",
+     "audio": {
+      "key": "listening/v1/5e50bdcf4418417f826d82f8e5a0315cb246b64bb8ef7eca84b28acd4db9ce08.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "一项最新调查显示，超过七成的企业管理者认为远程办公模式将长期存在，但同时也指出这对团队协作效率提出了更高要求。近半数受访者表示，混合办公制度可能成为未来主流工作方式。"
+       }
+      ],
+      "transcript": "一项最新调查显示，超过七成的企业管理者认为远程办公模式将长期存在，但同时也指出这对团队协作效率提出了更高要求。近半数受访者表示，混合办公制度可能成为未来主流工作方式。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "大多数管理者反对远程办公"
+      },
+      {
+       "label": "B",
+       "text": "远程办公已被证明效率低下"
+      },
+      {
+       "label": "C",
+       "text": "调查显示远程办公即将消失"
+      },
+      {
+       "label": "D",
+       "text": "混合办公可能成为未来趋势"
+      }
+     ]
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "这段录音主要说的是什么？",
+     "correctAnswer": "A",
+     "explanation": "录音提到新能源汽车销量增长、市场渗透率突破，但同时指出充电难仍是瓶颈，因此D选项全面概括了发展迅速但有瓶颈的内容。",
+     "audio": {
+      "key": "listening/v1/39014980a8b6c516f644f61a8947844a025fd979a8375c1566f0c30315e53361.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "据行业数据，今年前三季度新能源汽车销量同比增长百分之四十，市场渗透率首次突破百分之三十。专家分析，这得益于电池技术进步和充电基础设施的完善，但充电难问题仍是制约进一步发展的瓶颈。"
+       }
+      ],
+      "transcript": "据行业数据，今年前三季度新能源汽车销量同比增长百分之四十，市场渗透率首次突破百分之三十。专家分析，这得益于电池技术进步和充电基础设施的完善，但充电难问题仍是制约进一步发展的瓶颈。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "新能源汽车发展迅速但有瓶颈"
+      },
+      {
+       "label": "B",
+       "text": "电池技术没有进步"
+      },
+      {
+       "label": "C",
+       "text": "新能源汽车销量下降"
+      },
+      {
+       "label": "D",
+       "text": "充电难题已经解决"
+      }
+     ]
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "关于人工智能诊断，录音中提到了什么？",
+     "correctAnswer": "C",
+     "explanation": "录音明确指出人工智能诊断系统在皮肤癌检测中准确率达到专业医生水平，即表现优异，同时强调不能完全依赖，故C正确。",
+     "audio": {
+      "key": "listening/v1/adebe2ec780880d20f44cbc69128f72fda60245aec102a2d3af6597d45a48827.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "最新研究表明，人工智能诊断系统在皮肤癌检测中的准确率已达到专业医生水平。研究人员表示，这将极大缓解基层医疗资源不足的问题，但同时也提醒不能完全依赖机器诊断，医生的经验仍不可替代。"
+       }
+      ],
+      "transcript": "最新研究表明，人工智能诊断系统在皮肤癌检测中的准确率已达到专业医生水平。研究人员表示，这将极大缓解基层医疗资源不足的问题，但同时也提醒不能完全依赖机器诊断，医生的经验仍不可替代。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "主要应用在基层医院"
+      },
+      {
+       "label": "B",
+       "text": "可以完全替代医生"
+      },
+      {
+       "label": "C",
+       "text": "在皮肤癌检测中表现优异"
+      },
+      {
+       "label": "D",
+       "text": "准确率比医生高很多"
+      }
+     ]
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "关于历史街区保护，录音中专家提出了什么建议？",
+     "correctAnswer": "A",
+     "explanation": "录音中专家呼吁注重保留原有风貌，同时引入现代功能实现活化利用，与C选项一致。",
+     "audio": {
+      "key": "listening/v1/3ab15ca5fe7454ccf333bad25c7644d113e825b9b500f2d49a483c04ac09548c.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "随着城市更新速度加快，一些历史街区的保护与开发矛盾日益突出。专家呼吁，在改造过程中应注重保留原有风貌，避免千城一面，同时引入现代功能，实现活化利用。"
+       }
+      ],
+      "transcript": "随着城市更新速度加快，一些历史街区的保护与开发矛盾日益突出。专家呼吁，在改造过程中应注重保留原有风貌，避免千城一面，同时引入现代功能，实现活化利用。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "在保留风貌的基础上活化利用"
+      },
+      {
+       "label": "B",
+       "text": "完全拆除重建"
+      },
+      {
+       "label": "C",
+       "text": "保持原样不开发"
+      },
+      {
+       "label": "D",
+       "text": "只保护外观不管内部"
+      }
+     ]
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "科学家对北极冰川融化的看法是什么？",
+     "correctAnswer": "B",
+     "explanation": "录音中科学家警告全球变暖持续将导致北极夏季无冰，影响全球气候系统，即可能产生严重后果，因此C选项正确。",
+     "audio": {
+      "key": "listening/v1/d09fc214d3f65900665d727efc1bbd8e773898e3dd037b31044e078368bde95e.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "世界气象组织发布报告称，今年北极海冰面积创下历史第二低纪录。科学家警告，如果全球变暖持续，北极夏季无冰现象可能在二十年内出现，这将严重影响全球气候系统。"
+       }
+      ],
+      "transcript": "世界气象组织发布报告称，今年北极海冰面积创下历史第二低纪录。科学家警告，如果全球变暖持续，北极夏季无冰现象可能在二十年内出现，这将严重影响全球气候系统。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "短期内不会出现无冰现象"
+      },
+      {
+       "label": "B",
+       "text": "全球变暖可能导致严重后果"
+      },
+      {
+       "label": "C",
+       "text": "北极海冰面积在增长"
+      },
+      {
+       "label": "D",
+       "text": "对全球气候没有影响"
+      }
+     ]
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "关于在线教育，录音中专家强调了什么？",
+     "correctAnswer": "D",
+     "explanation": "录音指出线上教学需要开发互动性更强的课程设计才能持续吸引学生，即B选项所强调的内容。",
+     "audio": {
+      "key": "listening/v1/9c2d6d5f222e1a6c17d97769281ebe95b847d5c5152124f112280c78e5970c68.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "疫情期间在线教育迎来爆发式增长，但复课后用户活跃度大幅下降。教育专家指出，线上教学不能简单复制课堂模式，需要开发互动性更强的课程设计，才能持续吸引学生。"
+       }
+      ],
+      "transcript": "疫情期间在线教育迎来爆发式增长，但复课后用户活跃度大幅下降。教育专家指出，线上教学不能简单复制课堂模式，需要开发互动性更强的课程设计，才能持续吸引学生。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "线上教学与课堂完全一样"
+      },
+      {
+       "label": "B",
+       "text": "用户活跃度一直很高"
+      },
+      {
+       "label": "C",
+       "text": "在线教育已没有价值"
+      },
+      {
+       "label": "D",
+       "text": "需要改进课程设计增加互动"
+      }
+     ]
+    },
+    {
+     "id": "q7",
+     "type": "listening-mcq",
+     "prompt": "该市垃圾分类的现状如何？",
+     "correctAnswer": "B",
+     "explanation": "录音提到回收利用率提升至百分之三十五，但分类准确率有待提高且设施不够合理，因此D选项正确概括了现状。",
+     "audio": {
+      "key": "listening/v1/89f3b0f15cc0674fb7c64df0ea10c1cd6c3edb5cd673bb72e0e7f7e3b416ff33.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "实施垃圾分类三年以来，某市生活垃圾回收利用率从百分之十提升至百分之三十五。但调查发现，居民分类准确率仍有待提高，部分小区分类设施设置不够合理，影响了参与积极性。"
+       }
+      ],
+      "transcript": "实施垃圾分类三年以来，某市生活垃圾回收利用率从百分之十提升至百分之三十五。但调查发现，居民分类准确率仍有待提高，部分小区分类设施设置不够合理，影响了参与积极性。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "居民分类准确率很高"
+      },
+      {
+       "label": "B",
+       "text": "回收利用率提高但存在一些问题"
+      },
+      {
+       "label": "C",
+       "text": "分类设施完全合理"
+      },
+      {
+       "label": "D",
+       "text": "回收利用率没有变化"
+      }
+     ]
+    },
+    {
+     "id": "q8",
+     "type": "listening-mcq",
+     "prompt": "关于中国航天计划，录音中提到了什么？",
+     "correctAnswer": "A",
+     "explanation": "录音明确说新一代载人火箭预计五年内首飞，将具备载人登月能力，而非已实现载人登月，因此D选项正确。",
+     "audio": {
+      "key": "listening/v1/0670fe7183ec84c9b1ef3f5fc87766876efe39f11689170058418b65ebebb680.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "中国航天局宣布，新一代载人火箭预计在五年内首飞，将具备载人登月能力。与此同时，月球科研站计划也在稳步推进，未来有望实现人类在月球的长期驻留。"
+       }
+      ],
+      "transcript": "中国航天局宣布，新一代载人火箭预计在五年内首飞，将具备载人登月能力。与此同时，月球科研站计划也在稳步推进，未来有望实现人类在月球的长期驻留。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "新一代火箭将具备载人登月能力"
+      },
+      {
+       "label": "B",
+       "text": "新一代火箭已成功首飞"
+      },
+      {
+       "label": "C",
+       "text": "五年内将实现载人登月"
+      },
+      {
+       "label": "D",
+       "text": "月球科研站计划已经完成"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

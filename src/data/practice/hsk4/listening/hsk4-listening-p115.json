@@ -1,0 +1,685 @@
+{
+ "id": "hsk4-listening-p115",
+ "level": "4",
+ "section": "listening",
+ "partKey": "listening-p1",
+ "title": "HSK4 Listening P1",
+ "titleZh": "听力 第一部分（听对话选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听对话，然后根据对话内容选择正确的答案。每个对话只播放一遍。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "女的为什么没来上课？",
+     "correctAnswer": "C",
+     "explanation": "对话中女的说感冒了头疼得厉害，在家休息，所以是因为生病没来上课。",
+     "audio": {
+      "key": "listening/v1/ca250966d75a5d44579b7fdbde1351719f5d5adb13ef31f1c3f1ce62a616d102.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你昨天怎么没来上课？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我感冒了，头疼得厉害，在家休息了一天。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "现在好点儿了吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "好多了，谢谢关心。"
+       }
+      ],
+      "transcript": "你昨天怎么没来上课？ 我感冒了，头疼得厉害，在家休息了一天。 现在好点儿了吗？ 好多了，谢谢关心。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "她有事请假"
+      },
+      {
+       "label": "B",
+       "text": "她不想上课"
+      },
+      {
+       "label": "C",
+       "text": "她生病了"
+      },
+      {
+       "label": "D",
+       "text": "她迟到了"
+      }
+     ]
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "男的想喝什么？",
+     "correctAnswer": "A",
+     "explanation": "对话中男的说要一杯红茶，所以他想喝红茶。",
+     "audio": {
+      "key": "listening/v1/215382b0ac50e2049997ae162b84c8c362615062394db8a7baf8104feb5ca1dd.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你想喝点什么？咖啡还是茶？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我不喜欢喝咖啡，给我一杯红茶吧。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "好的，请稍等。"
+       }
+      ],
+      "transcript": "你想喝点什么？咖啡还是茶？ 我不喜欢喝咖啡，给我一杯红茶吧。 好的，请稍等。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "红茶"
+      },
+      {
+       "label": "B",
+       "text": "果汁"
+      },
+      {
+       "label": "C",
+       "text": "绿茶"
+      },
+      {
+       "label": "D",
+       "text": "咖啡"
+      }
+     ]
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "女的觉得这件衣服怎么样？",
+     "correctAnswer": "C",
+     "explanation": "对话中女的说太贵了，不如再看看，所以觉得价格太高。",
+     "audio": {
+      "key": "listening/v1/5a31b73a769bf2e87b1a709bc645c1f336ab64597f2395e953c5484842095119.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "这件衣服怎么样？我觉得颜色不错。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "样子还可以，但是我觉得太贵了，不如再看看别的。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "好吧，那我们再去前面那家店看看。"
+       }
+      ],
+      "transcript": "这件衣服怎么样？我觉得颜色不错。 样子还可以，但是我觉得太贵了，不如再看看别的。 好吧，那我们再去前面那家店看看。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "非常满意"
+      },
+      {
+       "label": "B",
+       "text": "颜色不好"
+      },
+      {
+       "label": "C",
+       "text": "价格太高"
+      },
+      {
+       "label": "D",
+       "text": "样子不好"
+      }
+     ]
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "女的明天晚上要做什么？",
+     "correctAnswer": "C",
+     "explanation": "对话中女的说要加班，所以明天晚上要工作。",
+     "audio": {
+      "key": "listening/v1/bc34588a74c68ebf5a04d4f8b9bb68616b07b8772eddadc294297c5afbe7f913.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "明天晚上你有空吗？我们一起去看电影吧。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "明天晚上我要加班，可能要很晚才能结束。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "那太可惜了，下次再说吧。"
+       }
+      ],
+      "transcript": "明天晚上你有空吗？我们一起去看电影吧。 明天晚上我要加班，可能要很晚才能结束。 那太可惜了，下次再说吧。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "去吃饭"
+      },
+      {
+       "label": "B",
+       "text": "去看电影"
+      },
+      {
+       "label": "C",
+       "text": "加班工作"
+      },
+      {
+       "label": "D",
+       "text": "在家休息"
+      }
+     ]
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "男的喜欢什么运动？",
+     "correctAnswer": "D",
+     "explanation": "对话中男的说每周都去游泳，有时候也打篮球，所以喜欢游泳和打篮球。",
+     "audio": {
+      "key": "listening/v1/66cf75b2828fbc1e61db9a463112d5f8e5eecb478c2170b941efb08ed65388d0.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你平时喜欢运动吗？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "喜欢，我每周都去游泳，有时候也打篮球。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "真不错，我最近也开始跑步了。"
+       }
+      ],
+      "transcript": "你平时喜欢运动吗？ 喜欢，我每周都去游泳，有时候也打篮球。 真不错，我最近也开始跑步了。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "只喜欢打篮球"
+      },
+      {
+       "label": "B",
+       "text": "只喜欢游泳"
+      },
+      {
+       "label": "C",
+       "text": "跑步和游泳"
+      },
+      {
+       "label": "D",
+       "text": "游泳和打篮球"
+      }
+     ]
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "女的觉得新经理怎么样？",
+     "correctAnswer": "A",
+     "explanation": "对话中女的说工作能力很强但要求太严格，所以能力好但严格。",
+     "audio": {
+      "key": "listening/v1/5167c78076a2072513a4bb3c84c6838c06ebc45232dc11064555d901f786e960.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "这个新来的经理怎么样？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "工作能力很强，但是对员工要求太严格了。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "严格点也好，能提高工作效率。"
+       }
+      ],
+      "transcript": "这个新来的经理怎么样？ 工作能力很强，但是对员工要求太严格了。 严格点也好，能提高工作效率。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "能力好但严格"
+      },
+      {
+       "label": "B",
+       "text": "非常满意"
+      },
+      {
+       "label": "C",
+       "text": "能力差"
+      },
+      {
+       "label": "D",
+       "text": "太宽松"
+      }
+     ]
+    },
+    {
+     "id": "q7",
+     "type": "listening-mcq",
+     "prompt": "男的怎么去火车站？",
+     "correctAnswer": "D",
+     "explanation": "对话中男的说打车去，所以是打车。",
+     "audio": {
+      "key": "listening/v1/7d553a185e00ac5fdc20643abe1155e421eeb019b8e401cb10d6246225e771bb.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你坐地铁去火车站吗？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "不，我打车去，带着行李坐地铁不方便。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "也是，打车直接到门口，轻松多了。"
+       }
+      ],
+      "transcript": "你坐地铁去火车站吗？ 不，我打车去，带着行李坐地铁不方便。 也是，打车直接到门口，轻松多了。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "坐公交车"
+      },
+      {
+       "label": "B",
+       "text": "走路"
+      },
+      {
+       "label": "C",
+       "text": "坐地铁"
+      },
+      {
+       "label": "D",
+       "text": "打车"
+      }
+     ]
+    },
+    {
+     "id": "q8",
+     "type": "listening-mcq",
+     "prompt": "女的汉语学得怎么样？",
+     "correctAnswer": "C",
+     "explanation": "对话中女的说现在能简单交流，但读写还难，所以能简单交流。",
+     "audio": {
+      "key": "listening/v1/8d7b2c3bd5fa3b81747781dbd31b5c5429117b0ec6bfc94f852e34ad77f5db59.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你汉语学得怎么样了？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "学了一年，现在能简单交流，但是读写还比较难。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "慢慢来，多练习就会进步的。"
+       }
+      ],
+      "transcript": "你汉语学得怎么样了？ 学了一年，现在能简单交流，但是读写还比较难。 慢慢来，多练习就会进步的。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "完全不会"
+      },
+      {
+       "label": "B",
+       "text": "只会读写"
+      },
+      {
+       "label": "C",
+       "text": "能简单交流"
+      },
+      {
+       "label": "D",
+       "text": "说得很好"
+      }
+     ]
+    },
+    {
+     "id": "q9",
+     "type": "listening-mcq",
+     "prompt": "为什么他们周末不去爬山？",
+     "correctAnswer": "B",
+     "explanation": "对话中男的说天气预报周末会下雨，女的就说不去了，所以是因为天气不好。",
+     "audio": {
+      "key": "listening/v1/91b1b9023b7a5bb1f94b17156c476bd53dac877d8a7452b92b1498a2b5d4ea4f.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我们周末去爬山怎么样？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "好主意，不过天气预报说周末会下雨。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "那算了，下次天气好再去吧。"
+       }
+      ],
+      "transcript": "我们周末去爬山怎么样？ 好主意，不过天气预报说周末会下雨。 那算了，下次天气好再去吧。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "没时间"
+      },
+      {
+       "label": "B",
+       "text": "天气不好"
+      },
+      {
+       "label": "C",
+       "text": "太远了"
+      },
+      {
+       "label": "D",
+       "text": "不想去"
+      }
+     ]
+    },
+    {
+     "id": "q10",
+     "type": "listening-mcq",
+     "prompt": "男的觉得哪道菜辣？",
+     "correctAnswer": "C",
+     "explanation": "对话中男的说这道菜太辣了，所以指的是这道菜。",
+     "audio": {
+      "key": "listening/v1/bb6e3f37a49da39fa3aa45a1b84631b49013cf83f5f2de4efcf53d859f63abcb.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "这道菜太辣了，我吃不了。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我觉得还好啊，你尝尝这个汤，不辣。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "好，汤的味道真不错。"
+       }
+      ],
+      "transcript": "这道菜太辣了，我吃不了。 我觉得还好啊，你尝尝这个汤，不辣。 好，汤的味道真不错。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "鱼"
+      },
+      {
+       "label": "B",
+       "text": "汤"
+      },
+      {
+       "label": "C",
+       "text": "这道菜"
+      },
+      {
+       "label": "D",
+       "text": "所有菜"
+      }
+     ]
+    },
+    {
+     "id": "q11",
+     "type": "listening-mcq",
+     "prompt": "男的打算怎么做？",
+     "correctAnswer": "D",
+     "explanation": "对话中男的说准备买个新的，所以是换手机。",
+     "audio": {
+      "key": "listening/v1/19cd7a9469675884f8f1e46df517bc5d20c59eb54d203ce3092b432c20f6df34.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你的手机怎么又坏了？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "不小心掉进水里了，我准备买个新的。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "那你这周末去商场看看吧。"
+       }
+      ],
+      "transcript": "你的手机怎么又坏了？ 不小心掉进水里了，我准备买个新的。 那你这周末去商场看看吧。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "去修手机"
+      },
+      {
+       "label": "B",
+       "text": "不买手机"
+      },
+      {
+       "label": "C",
+       "text": "修手机"
+      },
+      {
+       "label": "D",
+       "text": "换手机"
+      }
+     ]
+    },
+    {
+     "id": "q12",
+     "type": "listening-mcq",
+     "prompt": "他们觉得这家饭店怎么样？",
+     "correctAnswer": "B",
+     "explanation": "对话中男的说味道不错价格不贵，女的说很好，所以觉得味道好价格合理。",
+     "audio": {
+      "key": "listening/v1/1f14c941e400439a89a9076f251f4793866d573e705c1e585fd8bbadace61820.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "这家饭店的菜味道不错，而且价格也不贵。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "是啊，我上次和朋友来过一次，觉得很好。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "那以后我们常来。"
+       }
+      ],
+      "transcript": "这家饭店的菜味道不错，而且价格也不贵。 是啊，我上次和朋友来过一次，觉得很好。 那以后我们常来。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "菜不好吃"
+      },
+      {
+       "label": "B",
+       "text": "味道好价格合理"
+      },
+      {
+       "label": "C",
+       "text": "服务不好"
+      },
+      {
+       "label": "D",
+       "text": "菜好吃但贵"
+      }
+     ]
+    },
+    {
+     "id": "q13",
+     "type": "listening-mcq",
+     "prompt": "女的明天想吃什么早餐？",
+     "correctAnswer": "B",
+     "explanation": "对话中女的说包子和小米粥就行，所以想吃包子和小米粥。",
+     "audio": {
+      "key": "listening/v1/1fe597e9e69a0637a71099ee42ee86fbc4402268f98afbe550953947ac18bcae.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你明天早上能帮我带份早餐吗？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "没问题，你想吃什么？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "包子和小米粥就行。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "好，我记住了。"
+       }
+      ],
+      "transcript": "你明天早上能帮我带份早餐吗？ 没问题，你想吃什么？ 包子和小米粥就行。 好，我记住了。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "包子和豆浆"
+      },
+      {
+       "label": "B",
+       "text": "包子和小米粥"
+      },
+      {
+       "label": "C",
+       "text": "面包和牛奶"
+      },
+      {
+       "label": "D",
+       "text": "油条和小米粥"
+      }
+     ]
+    },
+    {
+     "id": "q14",
+     "type": "listening-mcq",
+     "prompt": "女的什么时候还书？",
+     "correctAnswer": "C",
+     "explanation": "对话中女的说看完了，明天还给你，所以明天还。",
+     "audio": {
+      "key": "listening/v1/f29804f9e933d3df50de336b5c397f5796a16649fa10f2c1459df471e3d1cbc4.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你借我的那本书看完了吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "看完了，很有意思，明天还给你。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "不着急，你慢慢看。"
+       }
+      ],
+      "transcript": "你借我的那本书看完了吗？ 看完了，很有意思，明天还给你。 不着急，你慢慢看。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "今天"
+      },
+      {
+       "label": "B",
+       "text": "不还了"
+      },
+      {
+       "label": "C",
+       "text": "明天"
+      },
+      {
+       "label": "D",
+       "text": "后天"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

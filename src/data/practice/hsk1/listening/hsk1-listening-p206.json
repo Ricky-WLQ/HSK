@@ -1,0 +1,202 @@
+{
+ "id": "hsk1-listening-p206",
+ "level": "1",
+ "section": "listening",
+ "partKey": "listening-p2",
+ "title": "HSK1 Listening P2",
+ "titleZh": "听力 第二部分（听句子选答语）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "听录音，选择正确的答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "他叫什么名字？",
+     "correctAnswer": "B",
+     "explanation": "录音中说“我叫小明”，所以他的名字是小明。",
+     "audio": {
+      "key": "listening/v1/5fd4f82550734d927fc5d72d69a2946e1eaab82cbed5cab77680c482221dd1d2.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "你好，我叫小明。"
+       }
+      ],
+      "transcript": "你好，我叫小明。",
+      "transcriptPinyin": "nǐ hǎo ， wǒ jiào xiǎo míng 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "大明",
+       "pinyin": "dà míng"
+      },
+      {
+       "label": "B",
+       "text": "小明",
+       "pinyin": "xiǎo míng"
+      },
+      {
+       "label": "C",
+       "text": "王明",
+       "pinyin": "wáng míng"
+      }
+     ],
+     "pinyin": "tā jiào shén me míng zì ？"
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "他家有几口人？",
+     "correctAnswer": "C",
+     "explanation": "录音中说“我家有三口人”，所以是三个人。",
+     "audio": {
+      "key": "listening/v1/b6fd74f8236165b50ddf6c5e0ac0da62e54b8325436cc37b4c87aa402578be1b.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我家有三口人，爸爸、妈妈和我。"
+       }
+      ],
+      "transcript": "我家有三口人，爸爸、妈妈和我。",
+      "transcriptPinyin": "wǒ jiā yǒu sān kǒu rén ， bà bà 、 mā mā hé wǒ 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "四口人",
+       "pinyin": "sì kǒu rén"
+      },
+      {
+       "label": "B",
+       "text": "两口人",
+       "pinyin": "liǎng kǒu rén"
+      },
+      {
+       "label": "C",
+       "text": "三口人",
+       "pinyin": "sān kǒu rén"
+      }
+     ],
+     "pinyin": "tā jiā yǒu jǐ kǒu rén ？"
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "他们去哪里？",
+     "correctAnswer": "B",
+     "explanation": "录音中说“去公园玩”，所以是公园。",
+     "audio": {
+      "key": "listening/v1/9cf795a2c7b7cc0c52d242e0b7a1287d08e89940ccb6d45082613d6ed0f38303.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "今天天气很好，我们去公园玩。"
+       }
+      ],
+      "transcript": "今天天气很好，我们去公园玩。",
+      "transcriptPinyin": "jīn tiān tiān qì hěn hǎo ， wǒ men qù gōng yuán wán 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "家",
+       "pinyin": "jiā"
+      },
+      {
+       "label": "B",
+       "text": "公园",
+       "pinyin": "gōng yuán"
+      },
+      {
+       "label": "C",
+       "text": "学校",
+       "pinyin": "xué xiào"
+      }
+     ],
+     "pinyin": "tā men qù nǎ lǐ ？"
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "现在几点了？",
+     "correctAnswer": "C",
+     "explanation": "录音中说“下午三点半”，所以是三点半。",
+     "audio": {
+      "key": "listening/v1/39b7b821c9674f162802bcb246279078d4671278b36b530320b23eb4515cff52.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "现在是下午三点半。"
+       }
+      ],
+      "transcript": "现在是下午三点半。",
+      "transcriptPinyin": "xiàn zài shì xià wǔ sān diǎn bàn 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "四点半",
+       "pinyin": "sì diǎn bàn"
+      },
+      {
+       "label": "B",
+       "text": "三点",
+       "pinyin": "sān diǎn"
+      },
+      {
+       "label": "C",
+       "text": "三点半",
+       "pinyin": "sān diǎn bàn"
+      }
+     ],
+     "pinyin": "xiàn zài jǐ diǎn le ？"
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "她喜欢吃什么？",
+     "correctAnswer": "B",
+     "explanation": "录音中说“喜欢吃苹果”，所以是苹果。",
+     "audio": {
+      "key": "listening/v1/881aad764940bed953624a0f0219a709c625923276045225f223617430c1a305.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "她喜欢吃苹果，不喜欢吃香蕉。"
+       }
+      ],
+      "transcript": "她喜欢吃苹果，不喜欢吃香蕉。",
+      "transcriptPinyin": "tā xǐ huān chī píng guǒ ， bù xǐ huān chī xiāng jiāo 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "西瓜",
+       "pinyin": "xī guā"
+      },
+      {
+       "label": "B",
+       "text": "苹果",
+       "pinyin": "píng guǒ"
+      },
+      {
+       "label": "C",
+       "text": "香蕉",
+       "pinyin": "xiāng jiāo"
+      }
+     ],
+     "pinyin": "tā xǐ huān chī shén me ？"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

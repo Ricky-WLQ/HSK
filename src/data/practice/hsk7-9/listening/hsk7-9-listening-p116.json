@@ -1,0 +1,64 @@
+{
+ "id": "hsk7-9-listening-p116",
+ "level": "7-9",
+ "section": "listening",
+ "partKey": "listening-p1",
+ "title": "HSK7-9 Listening P1",
+ "titleZh": "听力 第一部分（判断对错）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请根据听到的录音内容判断下列句子的正误，正确的选“对”，错误的选“错”。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-statement-true-false",
+     "prompt": "人工智能在医疗领域已经全面取代了人类医生的角色。",
+     "correctAnswer": "错",
+     "explanation": "录音中提到AI辅助诊断和制定治疗方案，并未说全面取代人类医生。"
+    },
+    {
+     "id": "q2",
+     "type": "listening-statement-true-false",
+     "prompt": "人工智能在影像诊断方面的准确率有时高于资深放射科医生。",
+     "correctAnswer": "对",
+     "explanation": "录音明确说AI的准确率在某些测试中甚至超过了资深放射科医生。"
+    },
+    {
+     "id": "q3",
+     "type": "listening-statement-true-false",
+     "prompt": "数据隐私问题是AI医疗应用面临的主要挑战之一。",
+     "correctAnswer": "对",
+     "explanation": "录音提到数据泄露风险是制约行业健康发展的重要因素。"
+    },
+    {
+     "id": "q4",
+     "type": "listening-statement-true-false",
+     "prompt": "目前全球已经建立了完善的医疗人工智能监管体系。",
+     "correctAnswer": "错",
+     "explanation": "录音指出缺乏统一的伦理监管框架，说明监管体系尚不完善。"
+    },
+    {
+     "id": "q5",
+     "type": "listening-statement-true-false",
+     "prompt": "算法偏见是影响人工智能诊断结果的重要因素。",
+     "correctAnswer": "对",
+     "explanation": "录音中算法偏见被列为制约行业健康发展的因素之一，因此会影响诊断结果。"
+    }
+   ],
+   "audio": {
+    "key": "listening/v1/8160bfe73add346ed6434ae280a686a6cc20055f90a8d3fb8e5a3fdd80e44b7a.mp3",
+    "lines": [
+     {
+      "speaker": "旁白",
+      "voice": "narrator",
+      "text": "近年来，人工智能在医疗领域的应用取得了突破性进展。例如，在影像诊断方面，AI系统能够快速识别结节与早期肿瘤，其准确率在某些测试中甚至超过了资深放射科医生。此外，AI还助力个性化治疗方案的制定，通过分析海量基因组数据为患者推荐最佳药物。然而，技术革新也伴随着隐忧。数据泄露风险、算法偏见以及缺乏统一的伦理监管框架，都成为制约行业健康发展的重要因素。专家呼吁，在推动创新的同时，必须筑牢安全防线，确保技术造福于民。"
+     }
+    ],
+    "transcript": "近年来，人工智能在医疗领域的应用取得了突破性进展。例如，在影像诊断方面，AI系统能够快速识别结节与早期肿瘤，其准确率在某些测试中甚至超过了资深放射科医生。此外，AI还助力个性化治疗方案的制定，通过分析海量基因组数据为患者推荐最佳药物。然而，技术革新也伴随着隐忧。数据泄露风险、算法偏见以及缺乏统一的伦理监管框架，都成为制约行业健康发展的重要因素。专家呼吁，在推动创新的同时，必须筑牢安全防线，确保技术造福于民。",
+    "transcriptPinyin": null
+   }
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

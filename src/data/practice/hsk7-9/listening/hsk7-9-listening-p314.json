@@ -1,0 +1,143 @@
+{
+ "id": "hsk7-9-listening-p314",
+ "level": "7-9",
+ "section": "listening",
+ "partKey": "listening-p3",
+ "title": "HSK7-9 Listening P3",
+ "titleZh": "听力 第三部分（听讲座选填答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听下面一段关于丝绸之路历史意义的讲座，然后根据讲座内容回答1-6题。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "丝绸之路是什么？",
+     "correctAnswer": "C",
+     "explanation": "讲座明确说明丝绸之路不是一个单一的道路，而是一个复杂的交通网络。选项A错误；选项C虽然提到贸易，但未强调网络；选项D是功能而非定义。因此B正确。",
+     "options": [
+      {
+       "label": "A",
+       "text": "一条单一的道路"
+      },
+      {
+       "label": "B",
+       "text": "文化交流的方式"
+      },
+      {
+       "label": "C",
+       "text": "一个复杂的交通网络"
+      },
+      {
+       "label": "D",
+       "text": "一条贸易路线"
+      }
+     ]
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "丝绸之路在哪一朝代达到鼎盛？",
+     "correctAnswer": "C",
+     "explanation": "讲座提到'到了唐代，丝绸之路达到了鼎盛时期'，因此唐代是鼎盛时期。其他朝代均不正确。",
+     "options": [
+      {
+       "label": "A",
+       "text": "汉代"
+      },
+      {
+       "label": "B",
+       "text": "宋代"
+      },
+      {
+       "label": "C",
+       "text": "唐代"
+      },
+      {
+       "label": "D",
+       "text": "元代"
+      }
+     ]
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "根据讲座，下列哪项商品是在丝绸之路上交易的？",
+     "correctAnswer": "A",
+     "explanation": "讲座中提到'交易丝绸、瓷器等商品'，因此丝绸是明确提到的。茶叶、香料和咖啡均未在讲座中提及。",
+     "options": [
+      {
+       "label": "A",
+       "text": "丝绸"
+      },
+      {
+       "label": "B",
+       "text": "茶叶"
+      },
+      {
+       "label": "C",
+       "text": "香料"
+      },
+      {
+       "label": "D",
+       "text": "咖啡"
+      }
+     ]
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "佛教是通过什么途径传入中国的？",
+     "correctAnswer": "A",
+     "explanation": "讲座明确说明'佛教就是通过丝绸之路从印度传入中国的'，因此B正确。其他选项不符合讲座内容。",
+     "options": [
+      {
+       "label": "A",
+       "text": "丝绸之路"
+      },
+      {
+       "label": "B",
+       "text": "海路"
+      },
+      {
+       "label": "C",
+       "text": "朝鲜"
+      },
+      {
+       "label": "D",
+       "text": "日本"
+      }
+     ]
+    },
+    {
+     "id": "q5",
+     "type": "listening-dictation",
+     "prompt": "丝绸之路的开辟始于哪个朝代？",
+     "correctAnswer": "汉",
+     "explanation": "讲座中提到'早在汉代，张骞出使西域，开辟了这条通道'，因此答案为'汉'。"
+    },
+    {
+     "id": "q6",
+     "type": "listening-dictation",
+     "prompt": "讲座中提到的国际大都市是哪里？",
+     "correctAnswer": "长安",
+     "explanation": "讲座中提到'当时的长安城是国际大都市'，因此答案为'长安'。"
+    }
+   ],
+   "audio": {
+    "key": "listening/v1/a4ff82b1bd5e5328141ccfcd7f379b8651ad1e1beb4c7df5645bf1b14ab77817.mp3",
+    "lines": [
+     {
+      "speaker": "旁白",
+      "voice": "narrator",
+      "text": "各位听众，今天我们来谈谈丝绸之路的历史意义。丝绸之路并非一条单一的道路，而是一个复杂的交通网络，连接了东亚、中亚、西亚乃至欧洲。早在汉代，张骞出使西域，开辟了这条通道。到了唐代，丝绸之路达到了鼎盛时期。当时的长安城是国际大都市，汇聚了来自各国的商人、僧侣和学者。他们不仅交易丝绸、瓷器等商品，还交流了宗教、艺术和科技。例如，佛教就是通过丝绸之路从印度传入中国的，并对中国传统文化产生了深远影响。此外，造纸术、印刷术等中国发明也经由丝绸之路西传，推动了世界文明的进步。然而，随着海上贸易的兴起，丝绸之路在宋元之后逐渐衰落。但它的历史遗产至今仍被铭记。"
+     }
+    ],
+    "transcript": "各位听众，今天我们来谈谈丝绸之路的历史意义。丝绸之路并非一条单一的道路，而是一个复杂的交通网络，连接了东亚、中亚、西亚乃至欧洲。早在汉代，张骞出使西域，开辟了这条通道。到了唐代，丝绸之路达到了鼎盛时期。当时的长安城是国际大都市，汇聚了来自各国的商人、僧侣和学者。他们不仅交易丝绸、瓷器等商品，还交流了宗教、艺术和科技。例如，佛教就是通过丝绸之路从印度传入中国的，并对中国传统文化产生了深远影响。此外，造纸术、印刷术等中国发明也经由丝绸之路西传，推动了世界文明的进步。然而，随着海上贸易的兴起，丝绸之路在宋元之后逐渐衰落。但它的历史遗产至今仍被铭记。",
+    "transcriptPinyin": null
+   }
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

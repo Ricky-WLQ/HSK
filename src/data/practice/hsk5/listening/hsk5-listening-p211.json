@@ -1,0 +1,179 @@
+{
+ "id": "hsk5-listening-p211",
+ "level": "5",
+ "section": "listening",
+ "partKey": "listening-p2",
+ "title": "HSK5 Listening P2",
+ "titleZh": "听力 第二部分（听短文选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听一段关于手机依赖症的短文，然后回答问题。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "这段文字主要讲什么？",
+     "correctAnswer": "C",
+     "explanation": "短文先描述了手机依赖症的表现，然后详细说明了过度使用手机带来的几个问题，因此主要内容是手机依赖症的影响。",
+     "options": [
+      {
+       "label": "A",
+       "text": "手机的缺点"
+      },
+      {
+       "label": "B",
+       "text": "如何正确使用手机"
+      },
+      {
+       "label": "C",
+       "text": "手机依赖症的影响"
+      },
+      {
+       "label": "D",
+       "text": "手机的优点"
+      }
+     ]
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "根据短文，下面哪一项不是过度使用手机的问题？",
+     "correctAnswer": "A",
+     "explanation": "短文中提到过度使用手机会影响视力、导致人际关系冷淡、影响工作和学习效率，没有提到增加经济负担。",
+     "options": [
+      {
+       "label": "A",
+       "text": "增加经济负担"
+      },
+      {
+       "label": "B",
+       "text": "影响视力"
+      },
+      {
+       "label": "C",
+       "text": "降低效率"
+      },
+      {
+       "label": "D",
+       "text": "让人际关系冷淡"
+      }
+     ]
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "短文提到，青少年尤其需要注意什么？",
+     "correctAnswer": "A",
+     "explanation": "短文中明确指出长时间看手机会影响视力，特别是对青少年来说，因此青少年尤其需要注意保护视力。",
+     "options": [
+      {
+       "label": "A",
+       "text": "保护视力"
+      },
+      {
+       "label": "B",
+       "text": "多交朋友"
+      },
+      {
+       "label": "C",
+       "text": "不要使用手机"
+      },
+      {
+       "label": "D",
+       "text": "提高学习效率"
+      }
+     ]
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "作者认为应该怎么做？",
+     "correctAnswer": "D",
+     "explanation": "短文最后一句说“我们应该合理使用手机”，所以作者建议合理使用手机。",
+     "options": [
+      {
+       "label": "A",
+       "text": "完全不用手机"
+      },
+      {
+       "label": "B",
+       "text": "多买新手机"
+      },
+      {
+       "label": "C",
+       "text": "只用手机工作"
+      },
+      {
+       "label": "D",
+       "text": "合理使用手机"
+      }
+     ]
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "下面哪一项说法正确？",
+     "correctAnswer": "C",
+     "explanation": "短文中提到“手机确实给我们的生活带来了很多便利”，所以手机让生活更便利是正确的。其他选项与短文内容不符。",
+     "options": [
+      {
+       "label": "A",
+       "text": "手机帮助提高工作效率"
+      },
+      {
+       "label": "B",
+       "text": "手机使人际关系更亲密"
+      },
+      {
+       "label": "C",
+       "text": "手机让生活更便利"
+      },
+      {
+       "label": "D",
+       "text": "手机只有好处没有坏处"
+      }
+     ]
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "作者对手机的态度是什么？",
+     "correctAnswer": "C",
+     "explanation": "短文先肯定了手机的便利，然后指出了过度使用的问题，最后建议合理使用，所以作者的态度是既肯定又指出问题。",
+     "options": [
+      {
+       "label": "A",
+       "text": "完全赞成"
+      },
+      {
+       "label": "B",
+       "text": "不关心"
+      },
+      {
+       "label": "C",
+       "text": "既肯定又指出问题"
+      },
+      {
+       "label": "D",
+       "text": "完全否定"
+      }
+     ]
+    }
+   ],
+   "audio": {
+    "key": "listening/v1/f0c7335e0c8c01971f9b0ede91cfaf3f2283c3e11f41d69664a22eb1a4f35490.mp3",
+    "lines": [
+     {
+      "speaker": "旁白",
+      "voice": "narrator",
+      "text": "现在很多人都有手机依赖症。无论走到哪里，都离不开手机。吃饭时看手机，走路时看手机，甚至睡觉前也要玩手机。手机确实给我们的生活带来了很多便利，但过度使用也会带来问题。首先，长时间看手机会影响视力，特别是对青少年来说。其次，手机占用了人们太多的交流时间，导致现实生活中的人际关系变得冷淡。最后，过度依赖手机还会影响工作和学习效率。因此，我们应该合理使用手机，多参加户外活动，多和家人朋友面对面交流。"
+     }
+    ],
+    "transcript": "现在很多人都有手机依赖症。无论走到哪里，都离不开手机。吃饭时看手机，走路时看手机，甚至睡觉前也要玩手机。手机确实给我们的生活带来了很多便利，但过度使用也会带来问题。首先，长时间看手机会影响视力，特别是对青少年来说。其次，手机占用了人们太多的交流时间，导致现实生活中的人际关系变得冷淡。最后，过度依赖手机还会影响工作和学习效率。因此，我们应该合理使用手机，多参加户外活动，多和家人朋友面对面交流。",
+    "transcriptPinyin": null
+   }
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

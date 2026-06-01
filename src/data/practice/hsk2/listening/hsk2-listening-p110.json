@@ -1,0 +1,117 @@
+{
+ "id": "hsk2-listening-p110",
+ "level": "2",
+ "section": "listening",
+ "partKey": "listening-p1",
+ "title": "HSK2 Listening P1",
+ "titleZh": "听力 第一部分（看图判断）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "听句子，看图片，判断对错。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "对",
+     "explanation": "图片中的人在看书，与句子描述一致。",
+     "audio": {
+      "key": "listening/v1/7318ea0dc2137fa427d38433371a44eaf2da442fe62f92d73c3dcce8f7c51de3.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "他在看书。"
+       }
+      ],
+      "transcript": "他在看书。",
+      "transcriptPinyin": "tā zài kàn shū 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-693b648545480f78682b0320e4bbcacb.png"
+    },
+    {
+     "id": "q2",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "对",
+     "explanation": "图片中的杯子里没有水，与句子说的“有一杯水”不符。",
+     "audio": {
+      "key": "listening/v1/75de6a3c0ea7292645c440cdca208375323654c251a70adc9666ce7f41bcb36b.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "桌子上有一杯水。"
+       }
+      ],
+      "transcript": "桌子上有一杯水。",
+      "transcriptPinyin": "zhuō zi shàng yǒu yī bēi shuǐ 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-f8851caf52bfa4b5a6ab1d110926dcdc.png"
+    },
+    {
+     "id": "q3",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "对",
+     "explanation": "图片中的女孩穿着红裙子，和句子描述一样。",
+     "audio": {
+      "key": "listening/v1/289d8ecd56e418eb53940fc04f8202ec7cc9d8ca723f0afc5603dac3f84c1b6b.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "她穿着红色的裙子。"
+       }
+      ],
+      "transcript": "她穿着红色的裙子。",
+      "transcriptPinyin": "tā chuān zhe hóng sè de qún zi 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-2449481b8b14a08b9cca7e866a0bd6e0.png"
+    },
+    {
+     "id": "q4",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "错",
+     "explanation": "图片中的猫在地板上玩球，没有在椅子上睡觉。",
+     "audio": {
+      "key": "listening/v1/56ae3d02d9e133d4251045d74809523e64a42fd936e24bbbc4704f101b771136.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "猫在椅子上睡觉。"
+       }
+      ],
+      "transcript": "猫在椅子上睡觉。",
+      "transcriptPinyin": "māo zài yǐ zi shàng shuì jiào 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-4332cdd0c4d3ae0b6e2dc188c3d2c51a.png"
+    },
+    {
+     "id": "q5",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "对",
+     "explanation": "图片中两个人在跑步，与句子说的“他们正在跑步”一致。",
+     "audio": {
+      "key": "listening/v1/e389ef4f2043d6b2468a9ec4a18d82c9f3bde50260bec4826850e9ffa0eb53ec.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "他们正在跑步。"
+       }
+      ],
+      "transcript": "他们正在跑步。",
+      "transcriptPinyin": "tā men zhèng zài pǎo bù 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-b37dec09296917ea299e1940454feace.png"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

@@ -1,0 +1,202 @@
+{
+ "id": "hsk1-listening-p406",
+ "level": "1",
+ "section": "listening",
+ "partKey": "listening-p4",
+ "title": "HSK1 Listening P4",
+ "titleZh": "听力 第四部分（听问句选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听录音，然后回答问题。每个问题有三个选项，选择一个正确的答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "说话的人叫什么？",
+     "correctAnswer": "A",
+     "explanation": "录音中说话的人自我介绍说‘我叫小明’，所以名字是小明。",
+     "audio": {
+      "key": "listening/v1/1800c1b5d20b5c521df2439a8b054fa29a06920a310c96ae3dfc23bb3f400e0b.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "你好，我叫小明。你叫什么名字？"
+       }
+      ],
+      "transcript": "你好，我叫小明。你叫什么名字？",
+      "transcriptPinyin": "nǐ hǎo ， wǒ jiào xiǎo míng 。 nǐ jiào shén me míng zì ？"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "小明",
+       "pinyin": "xiǎo míng"
+      },
+      {
+       "label": "B",
+       "text": "小华",
+       "pinyin": "xiǎo huá"
+      },
+      {
+       "label": "C",
+       "text": "小红",
+       "pinyin": "xiǎo hóng"
+      }
+     ],
+     "pinyin": "shuō huà de rén jiào shén me ？"
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "说话的人介绍了谁？",
+     "correctAnswer": "A",
+     "explanation": "录音中说‘这是我妈妈’，所以介绍的是妈妈。",
+     "audio": {
+      "key": "listening/v1/e0bce4c46d63ea52923d5534626359739b28f8646560646f0ab28875ce0d7f6c.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "这是我妈妈。她很高。"
+       }
+      ],
+      "transcript": "这是我妈妈。她很高。",
+      "transcriptPinyin": "zhè shì wǒ mā mā 。 tā hěn gāo 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "妈妈",
+       "pinyin": "mā mā"
+      },
+      {
+       "label": "B",
+       "text": "哥哥",
+       "pinyin": "gē gē"
+      },
+      {
+       "label": "C",
+       "text": "爸爸",
+       "pinyin": "bà bà"
+      }
+     ],
+     "pinyin": "shuō huà de rén jiè shào le shuí ？"
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "说话的人几岁？",
+     "correctAnswer": "B",
+     "explanation": "录音中说‘我今年六岁’，所以年龄是六岁。",
+     "audio": {
+      "key": "listening/v1/98d236d76d18d9849e0d48791cf364fc4c4027f991cb5436179db58162eeb203.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我今年六岁。"
+       }
+      ],
+      "transcript": "我今年六岁。",
+      "transcriptPinyin": "wǒ jīn nián liù suì 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "五岁",
+       "pinyin": "wǔ suì"
+      },
+      {
+       "label": "B",
+       "text": "六岁",
+       "pinyin": "liù suì"
+      },
+      {
+       "label": "C",
+       "text": "七岁",
+       "pinyin": "qī suì"
+      }
+     ],
+     "pinyin": "shuō huà de rén jǐ suì ？"
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "这本书怎么样？",
+     "correctAnswer": "A",
+     "explanation": "录音中说‘这本书是新的’，所以书是新的。",
+     "audio": {
+      "key": "listening/v1/08c82e03ed424dea1b6f97623da1e47644ca0de9b0c53432e42277e581389ead.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "这本书是新的。"
+       }
+      ],
+      "transcript": "这本书是新的。",
+      "transcriptPinyin": "zhè běn shū shì xīn de 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "新",
+       "pinyin": "xīn"
+      },
+      {
+       "label": "B",
+       "text": "旧",
+       "pinyin": "jiù"
+      },
+      {
+       "label": "C",
+       "text": "大",
+       "pinyin": "dà"
+      }
+     ],
+     "pinyin": "zhè běn shū zěn me yàng ？"
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "书在哪儿？",
+     "correctAnswer": "A",
+     "explanation": "录音中说‘我的书在桌子上’，所以书在桌子上。",
+     "audio": {
+      "key": "listening/v1/3d8948b640849b33cea07c5a2c8a57a6aa13d19d544b46767e7d7cfc1375a3c3.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我的书在桌子上。"
+       }
+      ],
+      "transcript": "我的书在桌子上。",
+      "transcriptPinyin": "wǒ de shū zài zhuō zi shàng 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "桌子上",
+       "pinyin": "zhuō zi shàng"
+      },
+      {
+       "label": "B",
+       "text": "床上",
+       "pinyin": "chuáng shàng"
+      },
+      {
+       "label": "C",
+       "text": "椅子上",
+       "pinyin": "yǐ zi shàng"
+      }
+     ],
+     "pinyin": "shū zài nǎ ér ？"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

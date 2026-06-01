@@ -1,0 +1,202 @@
+{
+ "id": "hsk1-listening-p214",
+ "level": "1",
+ "section": "listening",
+ "partKey": "listening-p2",
+ "title": "HSK1 Listening P2",
+ "titleZh": "听力 第二部分（听句子选答语）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听录音，然后根据录音内容选择正确答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "天气怎么样？",
+     "correctAnswer": "A",
+     "explanation": "录音中说“今天天气很好”，所以天气很好。",
+     "audio": {
+      "key": "listening/v1/199a9cbcfe613ce6c05a9ff4f0984b93c8b5bd87becc022c43cdf0fafde2e743.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "今天天气很好。"
+       }
+      ],
+      "transcript": "今天天气很好。",
+      "transcriptPinyin": "jīn tiān tiān qì hěn hǎo 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "很好",
+       "pinyin": "hěn hǎo"
+      },
+      {
+       "label": "B",
+       "text": "很冷",
+       "pinyin": "hěn lěng"
+      },
+      {
+       "label": "C",
+       "text": "不好",
+       "pinyin": "bù hǎo"
+      }
+     ],
+     "pinyin": "tiān qì zěn me yàng ？"
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "那个人叫什么？",
+     "correctAnswer": "B",
+     "explanation": "录音中问“他叫什么名字”，所以回答应该是“他叫小明”。",
+     "audio": {
+      "key": "listening/v1/7ba71d4e927034e85c357003cac315b5c107cc38c634214fb93155c451c6904c.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "他叫什么名字？"
+       }
+      ],
+      "transcript": "他叫什么名字？",
+      "transcriptPinyin": "tā jiào shén me míng zì ？"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "我叫小明",
+       "pinyin": "wǒ jiào xiǎo míng"
+      },
+      {
+       "label": "B",
+       "text": "他叫小明",
+       "pinyin": "tā jiào xiǎo míng"
+      },
+      {
+       "label": "C",
+       "text": "她叫小明",
+       "pinyin": "tā jiào xiǎo míng"
+      }
+     ],
+     "pinyin": "nà ge rén jiào shén me ？"
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "他有什么？",
+     "correctAnswer": "B",
+     "explanation": "录音中说“我有一个苹果”，所以他有一个苹果。",
+     "audio": {
+      "key": "listening/v1/7695ba3da207c35e6da222a6543d170dcaa30de53e22321c53d75b7f17e75eeb.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我有一个苹果。"
+       }
+      ],
+      "transcript": "我有一个苹果。",
+      "transcriptPinyin": "wǒ yǒu yí gè píng guǒ 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "橘子",
+       "pinyin": "jú zi"
+      },
+      {
+       "label": "B",
+       "text": "苹果",
+       "pinyin": "píng guǒ"
+      },
+      {
+       "label": "C",
+       "text": "香蕉",
+       "pinyin": "xiāng jiāo"
+      }
+     ],
+     "pinyin": "tā yǒu shén me ？"
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "他去哪里？",
+     "correctAnswer": "B",
+     "explanation": "录音中说“我去商店”，所以他去商店。",
+     "audio": {
+      "key": "listening/v1/395d9d8bb5744ac00ae1a257cfad47802b981169608060da03c8c25d5beec8d1.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我去商店买东西。"
+       }
+      ],
+      "transcript": "我去商店买东西。",
+      "transcriptPinyin": "wǒ qù shāng diàn mǎi dōng xī 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "学校",
+       "pinyin": "xué xiào"
+      },
+      {
+       "label": "B",
+       "text": "商店",
+       "pinyin": "shāng diàn"
+      },
+      {
+       "label": "C",
+       "text": "家",
+       "pinyin": "jiā"
+      }
+     ],
+     "pinyin": "tā qù nǎ lǐ ？"
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "妈妈在做什么？",
+     "correctAnswer": "A",
+     "explanation": "录音中说“妈妈在做饭”，所以妈妈在做饭。",
+     "audio": {
+      "key": "listening/v1/c528f91aff3ccb5fa56b2b0f4ffd3ebb93deca475d911fd91b169c3abc29e017.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "妈妈在做饭。"
+       }
+      ],
+      "transcript": "妈妈在做饭。",
+      "transcriptPinyin": "mā mā zài zuò fàn 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "做饭",
+       "pinyin": "zuò fàn"
+      },
+      {
+       "label": "B",
+       "text": "睡觉",
+       "pinyin": "shuì jiào"
+      },
+      {
+       "label": "C",
+       "text": "看书",
+       "pinyin": "kàn shū"
+      }
+     ],
+     "pinyin": "mā mā zài zuò shén me ？"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

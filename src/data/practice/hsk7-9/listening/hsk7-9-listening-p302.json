@@ -1,0 +1,161 @@
+{
+ "id": "hsk7-9-listening-p302",
+ "level": "7-9",
+ "section": "listening",
+ "partKey": "listening-p3",
+ "title": "HSK7-9 Listening P3",
+ "titleZh": "听力 第三部分（听讲座选填答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听下面一段讲解，然后回答6个问题。讲解只读一遍。每个问题有四个选项或一个空格。请选择正确答案或填写答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "讲演者主要讨论什么？",
+     "correctAnswer": "D",
+     "explanation": "讲演开头就提出探讨绿色GDP概念，随后阐述了其意义，因此主要讨论的是绿色GDP的概念和意义。",
+     "options": [
+      {
+       "label": "A",
+       "text": "中国经济增速"
+      },
+      {
+       "label": "B",
+       "text": "环境核算方法"
+      },
+      {
+       "label": "C",
+       "text": "传统GDP的缺陷"
+      },
+      {
+       "label": "D",
+       "text": "绿色GDP的概念和意义"
+      }
+     ]
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "根据讲演，绿色GDP与传统GDP的区别是什么？",
+     "correctAnswer": "B",
+     "explanation": "原文明确指出绿色GDP是在GDP基础上扣除资源消耗和环境污染的损失，即扣除了环境成本。",
+     "options": [
+      {
+       "label": "A",
+       "text": "绿色GDP更高"
+      },
+      {
+       "label": "B",
+       "text": "绿色GDP扣除了环境成本"
+      },
+      {
+       "label": "C",
+       "text": "绿色GDP包含社会成本"
+      },
+      {
+       "label": "D",
+       "text": "绿色GDP更易计算"
+      }
+     ]
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "中国从什么时候开始试点绿色GDP核算？",
+     "correctAnswer": "A",
+     "explanation": "原文提到‘中国从2004年开始试点绿色GDP核算’，因此正确答案是2004年。",
+     "options": [
+      {
+       "label": "A",
+       "text": "2004年"
+      },
+      {
+       "label": "B",
+       "text": "2008年"
+      },
+      {
+       "label": "C",
+       "text": "2000年"
+      },
+      {
+       "label": "D",
+       "text": "2010年"
+      }
+     ]
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "最新研究表明，某些年份绿色GDP增长率比传统低多少？",
+     "correctAnswer": "B",
+     "explanation": "原文明确说‘绿色GDP增长率可能比传统GDP低2个百分点’。",
+     "options": [
+      {
+       "label": "A",
+       "text": "3个百分点"
+      },
+      {
+       "label": "B",
+       "text": "2个百分点"
+      },
+      {
+       "label": "C",
+       "text": "4个百分点"
+      },
+      {
+       "label": "D",
+       "text": "1个百分点"
+      }
+     ]
+    },
+    {
+     "id": "q5",
+     "type": "listening-dictation",
+     "prompt": "讲演提到绿色GDP面临哪两方面的挑战？",
+     "correctAnswer": "数据和方法",
+     "explanation": "从原文可知：‘但面临数据和方法上的挑战’，因此答案是数据和方法。"
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "讲演者最后强调什么？",
+     "correctAnswer": "A",
+     "explanation": "讲演最后一句‘要重视生态效益’明确指出强调的内容。",
+     "options": [
+      {
+       "label": "A",
+       "text": "重视生态效益"
+      },
+      {
+       "label": "B",
+       "text": "数字增长最重要"
+      },
+      {
+       "label": "C",
+       "text": "放弃环境核算"
+      },
+      {
+       "label": "D",
+       "text": "加快GDP增速"
+      }
+     ]
+    }
+   ],
+   "audio": {
+    "key": "listening/v1/2d139c0779da8cbb30506d47e108e6801d0d4ecb3afe27252458a0532ffff89f.mp3",
+    "lines": [
+     {
+      "speaker": "旁白",
+      "voice": "narrator",
+      "text": "各位同学，今天我们来探讨绿色GDP这个概念。传统GDP只计算经济增长，忽略了环境成本。绿色GDP则是在GDP基础上扣除资源消耗和环境污染的损失。中国从2004年开始试点绿色GDP核算，但面临数据和方法上的挑战。最新研究表明，如果将环境退化计算在内，中国某些年份的绿色GDP增长率可能比传统GDP低2个百分点。这提示我们，经济发展不能只看数字增长，要重视生态效益。"
+     }
+    ],
+    "transcript": "各位同学，今天我们来探讨绿色GDP这个概念。传统GDP只计算经济增长，忽略了环境成本。绿色GDP则是在GDP基础上扣除资源消耗和环境污染的损失。中国从2004年开始试点绿色GDP核算，但面临数据和方法上的挑战。最新研究表明，如果将环境退化计算在内，中国某些年份的绿色GDP增长率可能比传统GDP低2个百分点。这提示我们，经济发展不能只看数字增长，要重视生态效益。",
+    "transcriptPinyin": null
+   }
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

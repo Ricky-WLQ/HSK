@@ -1,0 +1,64 @@
+{
+ "id": "hsk7-9-listening-p114",
+ "level": "7-9",
+ "section": "listening",
+ "partKey": "listening-p1",
+ "title": "HSK7-9 Listening P1",
+ "titleZh": "听力 第一部分（判断对错）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听一段关于人工智能在医疗领域应用的新闻报道，然后判断下面5个句子的正误，对的选“对”，错的选“错”。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-statement-true-false",
+     "prompt": "人工智能辅助诊断系统在偏远地区医院使用后，诊断准确率高于当地医生平均水平。",
+     "correctAnswer": "对",
+     "explanation": "原文明确指出系统的诊断准确率94%高于当地医生平均78%的水平，因此该句正确。"
+    },
+    {
+     "id": "q2",
+     "type": "listening-statement-true-false",
+     "prompt": "该系统能够完全替代医生进行诊断和治疗。",
+     "correctAnswer": "错",
+     "explanation": "原文说系统“并非要取代医生”，且最终诊断仍需医生确认，也无法手术或开处方，所以不能完全替代医生。"
+    },
+    {
+     "id": "q3",
+     "type": "listening-statement-true-false",
+     "prompt": "对于罕见病例，系统的诊断准确率依然保持在94%左右。",
+     "correctAnswer": "错",
+     "explanation": "原文提到对于罕见病例或复杂并发症，准确率会下降到60%左右，并非94%。"
+    },
+    {
+     "id": "q4",
+     "type": "listening-statement-true-false",
+     "prompt": "人工智能辅助诊断系统需要不断更新数据，否则可能影响诊断的准确性。",
+     "correctAnswer": "对",
+     "explanation": "原文最后一句说系统需要持续更新数据，否则可能因算法老化导致误诊，即影响准确性。"
+    },
+    {
+     "id": "q5",
+     "type": "listening-statement-true-false",
+     "prompt": "该系统的部署目的是提升基层医生的诊断效率与质量。",
+     "correctAnswer": "对",
+     "explanation": "原文项目负责人表示系统是帮助基层医生提高诊断效率和质量，因此该句正确。"
+    }
+   ],
+   "audio": {
+    "key": "listening/v1/e74a5b31bd3defbd49911082d704cb81461f382817c3691504c1bae1a1715f12.mp3",
+    "lines": [
+     {
+      "speaker": "旁白",
+      "voice": "narrator",
+      "text": "近日，一项基于深度学习的人工智能辅助诊断系统在西部偏远地区的十所县级医院投入使用。该系统通过分析医学影像，能够快速识别出早期肿瘤、骨折等病变，诊断准确率达到了94%，显著高于当地医生平均78%的水平。项目负责人表示，该系统并非要取代医生，而是帮助基层医生提高诊断效率和质量。不过，系统的局限性也很明显：对于罕见病例或复杂并发症，其准确率会下降到60%左右，且无法进行手术或开具处方，最终诊断仍需医生确认。此外，系统需要持续更新数据，否则可能因算法老化导致误诊。"
+     }
+    ],
+    "transcript": "近日，一项基于深度学习的人工智能辅助诊断系统在西部偏远地区的十所县级医院投入使用。该系统通过分析医学影像，能够快速识别出早期肿瘤、骨折等病变，诊断准确率达到了94%，显著高于当地医生平均78%的水平。项目负责人表示，该系统并非要取代医生，而是帮助基层医生提高诊断效率和质量。不过，系统的局限性也很明显：对于罕见病例或复杂并发症，其准确率会下降到60%左右，且无法进行手术或开具处方，最终诊断仍需医生确认。此外，系统需要持续更新数据，否则可能因算法老化导致误诊。",
+    "transcriptPinyin": null
+   }
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

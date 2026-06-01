@@ -1,0 +1,447 @@
+{
+ "id": "hsk2-listening-p303",
+ "level": "2",
+ "section": "listening",
+ "partKey": "listening-p3",
+ "title": "HSK2 Listening P3",
+ "titleZh": "听力 第三部分（听对话选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "下面你将听到10段对话，每段对话后有一个问题。请根据对话内容，从A、B、C三个选项中选择正确答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "女的明天想去哪里？",
+     "correctAnswer": "A",
+     "explanation": "女的说想去公园，因为花开了，所以正确答案是公园。",
+     "audio": {
+      "key": "listening/v1/ee4b03a0d4e96c115995e4444ac465a03c87a421b6da0ec37b43594f691a6027.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "明天是星期六，你想去哪里玩？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我想去公园。听说那里的花开了，很漂亮。"
+       }
+      ],
+      "transcript": "明天是星期六，你想去哪里玩？ 我想去公园。听说那里的花开了，很漂亮。",
+      "transcriptPinyin": "míng tiān shì xīng qī liù ， nǐ xiǎng qù nǎ lǐ wán ？  wǒ xiǎng qù gōng yuán 。 tīng shuō nà lǐ de huā kāi le ， hěn piào liàng 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "公园",
+       "pinyin": "gōng yuán"
+      },
+      {
+       "label": "B",
+       "text": "学校",
+       "pinyin": "xué xiào"
+      },
+      {
+       "label": "C",
+       "text": "商店",
+       "pinyin": "shāng diàn"
+      }
+     ],
+     "pinyin": "nǚ de míng tiān xiǎng qù nǎ lǐ ？"
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "女的想喝什么？",
+     "correctAnswer": "A",
+     "explanation": "女的说她想喝一杯茶，不要水，所以正确答案是茶。",
+     "audio": {
+      "key": "listening/v1/625b654b2f90dcfa04bcdfea6ed2ee34f83c780825e0e4cacf299e10c6a5a2c7.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你喝水吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "不喝，谢谢。我想喝一杯茶。"
+       }
+      ],
+      "transcript": "你喝水吗？ 不喝，谢谢。我想喝一杯茶。",
+      "transcriptPinyin": "nǐ hē shuǐ ma ？  bù hē ， xiè xiè 。 wǒ xiǎng hē yī bēi chá 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "茶",
+       "pinyin": "chá"
+      },
+      {
+       "label": "B",
+       "text": "水",
+       "pinyin": "shuǐ"
+      },
+      {
+       "label": "C",
+       "text": "咖啡",
+       "pinyin": "kā fēi"
+      }
+     ],
+     "pinyin": "nǚ de xiǎng hē shén me ？"
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "女的汉语老师是哪国人？",
+     "correctAnswer": "A",
+     "explanation": "女的说老师不是中国人，是英国人，所以正确答案是英国人。",
+     "audio": {
+      "key": "listening/v1/95af4631ad338731703fae2d3bb14386b94a148b2806cea403f536f97999287b.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你的汉语老师是中国人吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "不是，她是英国人，但是她的汉语说得很好。"
+       }
+      ],
+      "transcript": "你的汉语老师是中国人吗？ 不是，她是英国人，但是她的汉语说得很好。",
+      "transcriptPinyin": "nǐ de hàn yǔ lǎo shī shì zhōng guó rén ma ？  bú shì ， tā shì yīng guó rén ， dàn shì tā de hàn yǔ shuō dé hěn hǎo 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "英国人",
+       "pinyin": "yīng guó rén"
+      },
+      {
+       "label": "B",
+       "text": "中国人",
+       "pinyin": "zhōng guó rén"
+      },
+      {
+       "label": "C",
+       "text": "美国人",
+       "pinyin": "měi guó rén"
+      }
+     ],
+     "pinyin": "nǚ de hàn yǔ lǎo shī shì nǎ guó rén ？"
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "男的几点有课？",
+     "correctAnswer": "B",
+     "explanation": "男的说他两点有汉语课，所以正确答案是两点。",
+     "audio": {
+      "key": "listening/v1/e5328b1f97363c9d0f334b86377a2d8feb11e80314339178ae17398e95468b79.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "现在几点了？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "现在一点半。你两点有课吗？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "是的，我两点有汉语课。"
+       }
+      ],
+      "transcript": "现在几点了？ 现在一点半。你两点有课吗？ 是的，我两点有汉语课。",
+      "transcriptPinyin": "xiàn zài jǐ diǎn le ？  xiàn zài yì diǎn bàn 。 nǐ liǎng diǎn yǒu kè ma ？  shì de ， wǒ liǎng diǎn yǒu hàn yǔ kè 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "一点",
+       "pinyin": "yì diǎn"
+      },
+      {
+       "label": "B",
+       "text": "两点",
+       "pinyin": "liǎng diǎn"
+      },
+      {
+       "label": "C",
+       "text": "一点半",
+       "pinyin": "yì diǎn bàn"
+      }
+     ],
+     "pinyin": "nán de jǐ diǎn yǒu kè ？"
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "今天这件衣服多少钱？",
+     "correctAnswer": "A",
+     "explanation": "女的说今天打折，只要六十块，所以正确答案是六十块。",
+     "audio": {
+      "key": "listening/v1/846ce4a448288641a1cb0f496a2b0ba8f65eea291609611bd85203ba2735acfb.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "这件衣服多少钱？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "八十块。但是今天打折，只要六十块。"
+       }
+      ],
+      "transcript": "这件衣服多少钱？ 八十块。但是今天打折，只要六十块。",
+      "transcriptPinyin": "zhè jiàn yī fú duō shǎo qián ？  bā shí kuài 。 dàn shì jīn tiān dǎ zhé ， zhǐ yào liù shí kuài 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "六十块",
+       "pinyin": "liù shí kuài"
+      },
+      {
+       "label": "B",
+       "text": "七十块",
+       "pinyin": "qī shí kuài"
+      },
+      {
+       "label": "C",
+       "text": "八十块",
+       "pinyin": "bā shí kuài"
+      }
+     ],
+     "pinyin": "jīn tiān zhè jiàn yī fú duō shǎo qián ？"
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "女的哥哥做什么工作？",
+     "correctAnswer": "A",
+     "explanation": "女的说哥哥是医生，在医院工作，所以正确答案是医生。",
+     "audio": {
+      "key": "listening/v1/54377c4d2e95dc2809b3602150813191c995735bc47699f39bfeb3a28e90ccd9.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你哥哥在做什么工作？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "他是医生，在医院工作。他很忙。"
+       }
+      ],
+      "transcript": "你哥哥在做什么工作？ 他是医生，在医院工作。他很忙。",
+      "transcriptPinyin": "nǐ gē gē zài zuò shén me gōng zuò ？  tā shì yī shēng ， zài yī yuàn gōng zuò 。 tā hěn máng 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "医生",
+       "pinyin": "yī shēng"
+      },
+      {
+       "label": "B",
+       "text": "老师",
+       "pinyin": "lǎo shī"
+      },
+      {
+       "label": "C",
+       "text": "学生",
+       "pinyin": "xué shēng"
+      }
+     ],
+     "pinyin": "nǚ dī gē gē zuò shén me gōng zuò ？"
+    },
+    {
+     "id": "q7",
+     "type": "listening-mcq",
+     "prompt": "女的家有几口人？",
+     "correctAnswer": "B",
+     "explanation": "女的说有爸爸、妈妈、弟弟和自己，一共四口人，所以正确答案是四口人。",
+     "audio": {
+      "key": "listening/v1/128358b071d95010491234acbfa5caf9389d44bee3088d28ecbc432b4dcf5186.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你家有几口人？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我家有爸爸、妈妈、一个弟弟，还有我，一共四口人。"
+       }
+      ],
+      "transcript": "你家有几口人？ 我家有爸爸、妈妈、一个弟弟，还有我，一共四口人。",
+      "transcriptPinyin": "nǐ jiā yǒu jǐ kǒu rén ？  wǒ jiā yǒu bà bà 、 mā mā 、 yí gè dì di ， hái yǒu wǒ ， yī gòng sì kǒu rén 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "五口人",
+       "pinyin": "wǔ kǒu rén"
+      },
+      {
+       "label": "B",
+       "text": "四口人",
+       "pinyin": "sì kǒu rén"
+      },
+      {
+       "label": "C",
+       "text": "三口人",
+       "pinyin": "sān kǒu rén"
+      }
+     ],
+     "pinyin": "nǚ de jiā yǒu jǐ kǒu rén ？"
+    },
+    {
+     "id": "q8",
+     "type": "listening-mcq",
+     "prompt": "女的昨天去做什么了？",
+     "correctAnswer": "B",
+     "explanation": "女的说她去看电影了，手机在家里，所以正确答案是看电影。",
+     "audio": {
+      "key": "listening/v1/ce4dc077a8d4dafd93985f046ea45a2222d53f38375112948fc4de3e4cecae9e.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "昨天你去哪了？我给你打电话，你没接。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我去看电影了，手机放在家里了。"
+       }
+      ],
+      "transcript": "昨天你去哪了？我给你打电话，你没接。 我去看电影了，手机放在家里了。",
+      "transcriptPinyin": "zuó tiān nǐ qù nǎ le ？ wǒ gěi nǐ dǎ diàn huà ， nǐ méi jiē 。  wǒ qù kàn diàn yǐng le ， shǒu jī fàng zài jiā lǐ le 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "打电话",
+       "pinyin": "dǎ diàn huà"
+      },
+      {
+       "label": "B",
+       "text": "看电影",
+       "pinyin": "kàn diàn yǐng"
+      },
+      {
+       "label": "C",
+       "text": "在家",
+       "pinyin": "zài jiā"
+      }
+     ],
+     "pinyin": "nǚ de zuó tiān qù zuò shén me le ？"
+    },
+    {
+     "id": "q9",
+     "type": "listening-mcq",
+     "prompt": "女的喜欢吃什么水果？",
+     "correctAnswer": "A",
+     "explanation": "女的说她喜欢吃苹果，所以正确答案是苹果。",
+     "audio": {
+      "key": "listening/v1/fcdad63d69f6978d147621e3af092eb01a7a1a6df04a89535a1cddfd889a9882.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你喜欢吃什么水果？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我喜欢吃苹果。你呢？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我喜欢吃葡萄。"
+       }
+      ],
+      "transcript": "你喜欢吃什么水果？ 我喜欢吃苹果。你呢？ 我喜欢吃葡萄。",
+      "transcriptPinyin": "nǐ xǐ huān chī shén me shuǐ guǒ ？  wǒ xǐ huān chī píng guǒ 。 nǐ ne ？  wǒ xǐ huān chī pú táo 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "苹果",
+       "pinyin": "píng guǒ"
+      },
+      {
+       "label": "B",
+       "text": "葡萄",
+       "pinyin": "pú táo"
+      },
+      {
+       "label": "C",
+       "text": "香蕉",
+       "pinyin": "xiāng jiāo"
+      }
+     ],
+     "pinyin": "nǚ de xǐ huān chī shén me shuǐ guǒ ？"
+    },
+    {
+     "id": "q10",
+     "type": "listening-mcq",
+     "prompt": "明天天气怎么样？",
+     "correctAnswer": "C",
+     "explanation": "女的说天气预报说明天会下雨，所以正确答案是下雨。",
+     "audio": {
+      "key": "listening/v1/b645ac9723a9911e821b3f4872a96bb5cd1737b1c6e139f69f21f42b525d1986.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "明天天气怎么样？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "天气预报说，明天会下雨，你要带伞。"
+       }
+      ],
+      "transcript": "明天天气怎么样？ 天气预报说，明天会下雨，你要带伞。",
+      "transcriptPinyin": "míng tiān tiān qì zěn me yàng ？  tiān qì yù bào shuō ， míng tiān huì xià yǔ ， nǐ yào dài sǎn 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "下雪",
+       "pinyin": "xià xuě"
+      },
+      {
+       "label": "B",
+       "text": "晴天",
+       "pinyin": "qíng tiān"
+      },
+      {
+       "label": "C",
+       "text": "下雨",
+       "pinyin": "xià yǔ"
+      }
+     ],
+     "pinyin": "míng tiān tiān qì zěn me yàng ？"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

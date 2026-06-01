@@ -1,0 +1,202 @@
+{
+ "id": "hsk1-listening-p404",
+ "level": "1",
+ "section": "listening",
+ "partKey": "listening-p4",
+ "title": "HSK1 Listening P4",
+ "titleZh": "听力 第四部分（听问句选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "听录音，然后根据录音内容选择正确答案。每个录音只读一遍。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "他家有几口人？",
+     "correctAnswer": "B",
+     "explanation": "对话中说家里有三口人，所以正确答案是三个。",
+     "audio": {
+      "key": "listening/v1/b6fd74f8236165b50ddf6c5e0ac0da62e54b8325436cc37b4c87aa402578be1b.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我家有三口人，爸爸、妈妈和我。"
+       }
+      ],
+      "transcript": "我家有三口人，爸爸、妈妈和我。",
+      "transcriptPinyin": "wǒ jiā yǒu sān kǒu rén ， bà bà 、 mā mā hé wǒ 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "四个",
+       "pinyin": "sì gè"
+      },
+      {
+       "label": "B",
+       "text": "三个",
+       "pinyin": "sān gè"
+      },
+      {
+       "label": "C",
+       "text": "两个",
+       "pinyin": "liǎng gè"
+      }
+     ],
+     "pinyin": "tā jiā yǒu jǐ kǒu rén ？"
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "我多大了？",
+     "correctAnswer": "C",
+     "explanation": "录音中说自己八岁，所以正确答案是八岁。",
+     "audio": {
+      "key": "listening/v1/12bd4a6d9f4dcb4b93e8095f548b7e5e6236193d612c72fd02ed81e0744ff51e.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我今年八岁。我哥哥十岁。"
+       }
+      ],
+      "transcript": "我今年八岁。我哥哥十岁。",
+      "transcriptPinyin": "wǒ jīn nián bā suì 。 wǒ gē gē shí suì 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "十岁",
+       "pinyin": "shí suì"
+      },
+      {
+       "label": "B",
+       "text": "七岁",
+       "pinyin": "qī suì"
+      },
+      {
+       "label": "C",
+       "text": "八岁",
+       "pinyin": "bā suì"
+      }
+     ],
+     "pinyin": "wǒ duō dà le ？"
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "笔在哪儿？",
+     "correctAnswer": "C",
+     "explanation": "录音中说笔在书包里，所以正确答案是书包里。",
+     "audio": {
+      "key": "listening/v1/a0ba38277b98770cd1dcaa92dd382635319046c61c5f24b55f0aeac0db987ed5.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我的书在桌子上。我的笔在书包里。"
+       }
+      ],
+      "transcript": "我的书在桌子上。我的笔在书包里。",
+      "transcriptPinyin": "wǒ de shū zài zhuō zi shàng 。 wǒ de bǐ zài shū bāo lǐ 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "桌子上",
+       "pinyin": "zhuō zi shàng"
+      },
+      {
+       "label": "B",
+       "text": "椅子下",
+       "pinyin": "yǐ zi xià"
+      },
+      {
+       "label": "C",
+       "text": "书包里",
+       "pinyin": "shū bāo lǐ"
+      }
+     ],
+     "pinyin": "bǐ zài nǎ ér ？"
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "现在几点？",
+     "correctAnswer": "A",
+     "explanation": "录音中说现在八点，所以正确答案是八点。",
+     "audio": {
+      "key": "listening/v1/0599d610e6f473317e93fcf44237cafc42422d419a95e41c27d13c1f0a328343.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "现在八点。我九点上课。"
+       }
+      ],
+      "transcript": "现在八点。我九点上课。",
+      "transcriptPinyin": "xiàn zài bā diǎn 。 wǒ jiǔ diǎn shàng kè 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "八点",
+       "pinyin": "bā diǎn"
+      },
+      {
+       "label": "B",
+       "text": "九点",
+       "pinyin": "jiǔ diǎn"
+      },
+      {
+       "label": "C",
+       "text": "七点",
+       "pinyin": "qī diǎn"
+      }
+     ],
+     "pinyin": "xiàn zài jǐ diǎn ？"
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "我喜欢吃什么？",
+     "correctAnswer": "A",
+     "explanation": "录音中说喜欢吃苹果和米饭，所以正确答案是苹果和米饭。",
+     "audio": {
+      "key": "listening/v1/331fc3833c27071c1489f9ab8dbd407acf1cd5f75fe3b72af2ef98f763b50638.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我喜欢吃苹果和米饭。我不喜欢吃菜。"
+       }
+      ],
+      "transcript": "我喜欢吃苹果和米饭。我不喜欢吃菜。",
+      "transcriptPinyin": "wǒ xǐ huān chī píng guǒ hé mǐ fàn 。 wǒ bù xǐ huān chī cài 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "苹果和米饭",
+       "pinyin": "píng guǒ hé mǐ fàn"
+      },
+      {
+       "label": "B",
+       "text": "菜",
+       "pinyin": "cài"
+      },
+      {
+       "label": "C",
+       "text": "米饭和菜",
+       "pinyin": "mǐ fàn hé cài"
+      }
+     ],
+     "pinyin": "wǒ xǐ huān chī shén me ？"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

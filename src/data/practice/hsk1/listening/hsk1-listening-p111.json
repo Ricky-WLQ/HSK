@@ -1,0 +1,117 @@
+{
+ "id": "hsk1-listening-p111",
+ "level": "1",
+ "section": "listening",
+ "partKey": "listening-p1",
+ "title": "HSK1 Listening P1",
+ "titleZh": "听力 第一部分（看图判断）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听录音，看图片，判断句子描述的内容与图片是否一致。如果一致，请选择“对”；如果不一致，请选择“错”。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "对",
+     "explanation": "句子说猫在桌子上，图片显示猫在桌子上，所以正确。",
+     "audio": {
+      "key": "listening/v1/07a084230348fc3a4fa757443b2deb2f1cb25363d92a326091117d34d50eaa14.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "猫在桌子上。"
+       }
+      ],
+      "transcript": "猫在桌子上。",
+      "transcriptPinyin": "māo zài zhuō zi shàng 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-03ebe3cdde1f11d15efa746b34ae6fd5.png"
+    },
+    {
+     "id": "q2",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "对",
+     "explanation": "句子说他在看书，图片显示他在看书，所以正确。",
+     "audio": {
+      "key": "listening/v1/7318ea0dc2137fa427d38433371a44eaf2da442fe62f92d73c3dcce8f7c51de3.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "他在看书。"
+       }
+      ],
+      "transcript": "他在看书。",
+      "transcriptPinyin": "tā zài kàn shū 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-9477cf747b4f0208bc5d698ca5888011.png"
+    },
+    {
+     "id": "q3",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "对",
+     "explanation": "句子说苹果是红色的，图片显示一个红苹果，所以正确。",
+     "audio": {
+      "key": "listening/v1/5aa34e4c9e01eea7a372488812eb40f24d63d8e61a8e784046b867a0d2e8d700.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "苹果是红色的。"
+       }
+      ],
+      "transcript": "苹果是红色的。",
+      "transcriptPinyin": "píng guǒ shì hóng sè de 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-420fab540e5f1b0ed9b82ec0c0d2c87c.png"
+    },
+    {
+     "id": "q4",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "错",
+     "explanation": "句子说妈妈在做饭，但图片显示妈妈在看书，所以错误。",
+     "audio": {
+      "key": "listening/v1/c528f91aff3ccb5fa56b2b0f4ffd3ebb93deca475d911fd91b169c3abc29e017.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "妈妈在做饭。"
+       }
+      ],
+      "transcript": "妈妈在做饭。",
+      "transcriptPinyin": "mā mā zài zuò fàn 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-58502645d35297812e255fbed2fd1524.png"
+    },
+    {
+     "id": "q5",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "错",
+     "explanation": "句子说狗很大，但图片上的狗很小，所以错误。",
+     "audio": {
+      "key": "listening/v1/c33a074393ce5cb7df059acad115d53884a0770adce9651ed5af508e3ab35fab.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "狗很大。"
+       }
+      ],
+      "transcript": "狗很大。",
+      "transcriptPinyin": "gǒu hěn dà 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-e84cadf924b87b0929150700a9c993e9.png"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

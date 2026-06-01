@@ -1,0 +1,179 @@
+{
+ "id": "hsk5-listening-p218",
+ "level": "5",
+ "section": "listening",
+ "partKey": "listening-p2",
+ "title": "HSK5 Listening P2",
+ "titleZh": "听力 第二部分（听短文选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听下面一段话，然后回答6个问题。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "根据这段话，阅读的主要好处不包括什么？",
+     "correctAnswer": "A",
+     "explanation": "这段话提到了阅读能增加知识、提高思考能力和语言表达能力，但没有提到增加体重。",
+     "options": [
+      {
+       "label": "A",
+       "text": "增加体重"
+      },
+      {
+       "label": "B",
+       "text": "增加知识"
+      },
+      {
+       "label": "C",
+       "text": "提高思考能力"
+      },
+      {
+       "label": "D",
+       "text": "提高语言表达能力"
+      }
+     ]
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "这段话认为，什么样的人应该阅读？",
+     "correctAnswer": "C",
+     "explanation": "这段话明确说“无论年龄大小，阅读都能给我们带来很多好处”，所以所有人都应该阅读。",
+     "options": [
+      {
+       "label": "A",
+       "text": "只有学生"
+      },
+      {
+       "label": "B",
+       "text": "只有成年人"
+      },
+      {
+       "label": "C",
+       "text": "所有人"
+      },
+      {
+       "label": "D",
+       "text": "只有老年人"
+      }
+     ]
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "经常阅读的人有什么特点？",
+     "correctAnswer": "C",
+     "explanation": "这段话提到经常阅读的人往往有更好的语言表达能力和逻辑思维能力，因此语言表达能力强是特点。",
+     "options": [
+      {
+       "label": "A",
+       "text": "思考表面"
+      },
+      {
+       "label": "B",
+       "text": "注意力难以集中"
+      },
+      {
+       "label": "C",
+       "text": "语言表达能力强"
+      },
+      {
+       "label": "D",
+       "text": "喜欢玩手机"
+      }
+     ]
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "现在很多人很少读书的原因是什么？",
+     "correctAnswer": "B",
+     "explanation": "这段话指出“现在很多人更喜欢看手机和电脑，很少有时间读书”，所以原因是更喜欢电子设备。",
+     "options": [
+      {
+       "label": "A",
+       "text": "阅读没有用"
+      },
+      {
+       "label": "B",
+       "text": "更喜欢电子设备"
+      },
+      {
+       "label": "C",
+       "text": "书太贵了"
+      },
+      {
+       "label": "D",
+       "text": "没有时间"
+      }
+     ]
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "根据这段话，阅读有助于什么？",
+     "correctAnswer": "A",
+     "explanation": "这段话明确说“阅读还能帮助我们放松心情，减轻压力”，所以阅读有助于减轻压力。",
+     "options": [
+      {
+       "label": "A",
+       "text": "减轻压力"
+      },
+      {
+       "label": "B",
+       "text": "减少思考"
+      },
+      {
+       "label": "C",
+       "text": "增加体重"
+      },
+      {
+       "label": "D",
+       "text": "增加手机使用"
+      }
+     ]
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "这段话建议我们怎么做？",
+     "correctAnswer": "D",
+     "explanation": "这段话最后建议“我们应该养成每天阅读的习惯，哪怕只有半个小时”，所以每天阅读半小时是建议。",
+     "options": [
+      {
+       "label": "A",
+       "text": "完全不用电子设备"
+      },
+      {
+       "label": "B",
+       "text": "减少阅读时间"
+      },
+      {
+       "label": "C",
+       "text": "只阅读不思考"
+      },
+      {
+       "label": "D",
+       "text": "每天阅读半小时"
+      }
+     ]
+    }
+   ],
+   "audio": {
+    "key": "listening/v1/0668da9d2e8c1b21e0c674499c44090e299fb059fde0ed4383ebc6b7619872a0.mp3",
+    "lines": [
+     {
+      "speaker": "旁白",
+      "voice": "narrator",
+      "text": "阅读是一种非常重要的习惯。它不仅能够增加我们的知识，还能提高我们的思考能力。很多人认为阅读只是学生的事情，但实际上，无论年龄大小，阅读都能给我们带来很多好处。比如，经常阅读的人往往有更好的语言表达能力和逻辑思维能力。此外，阅读还能帮助我们放松心情，减轻压力。因此，我们应该养成每天阅读的习惯，哪怕只有半个小时。但是，现在很多人更喜欢看手机和电脑，很少有时间读书。这导致很多人的注意力很难集中，思考也变得越来越表面。所以，我们应该适当减少电子设备的使用，多花时间在阅读上。"
+     }
+    ],
+    "transcript": "阅读是一种非常重要的习惯。它不仅能够增加我们的知识，还能提高我们的思考能力。很多人认为阅读只是学生的事情，但实际上，无论年龄大小，阅读都能给我们带来很多好处。比如，经常阅读的人往往有更好的语言表达能力和逻辑思维能力。此外，阅读还能帮助我们放松心情，减轻压力。因此，我们应该养成每天阅读的习惯，哪怕只有半个小时。但是，现在很多人更喜欢看手机和电脑，很少有时间读书。这导致很多人的注意力很难集中，思考也变得越来越表面。所以，我们应该适当减少电子设备的使用，多花时间在阅读上。",
+    "transcriptPinyin": null
+   }
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

@@ -1,0 +1,527 @@
+{
+ "id": "hsk5-listening-p113",
+ "level": "5",
+ "section": "listening",
+ "partKey": "listening-p1",
+ "title": "HSK5 Listening P1",
+ "titleZh": "听力 第一部分（听对话选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "听对话，然后回答问题。请选择正确的答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "女的昨天为什么没去参加培训？",
+     "correctAnswer": "D",
+     "explanation": "对话中，女的说奶奶突然生病住院，需要去医院照顾，所以没参加培训。",
+     "audio": {
+      "key": "listening/v1/8b384fbcd8759835acebd08e8d49ee2d2f73d41f71019256647a0cc6fd60ef05.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "小张，你昨天怎么没来参加公司的培训？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "哎，别提了，我奶奶突然生病住院，我得去医院照顾她。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "那奶奶现在怎么样了？有没有好一点？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "已经好多了，医生说再观察几天就可以出院了。"
+       }
+      ],
+      "transcript": "小张，你昨天怎么没来参加公司的培训？ 哎，别提了，我奶奶突然生病住院，我得去医院照顾她。 那奶奶现在怎么样了？有没有好一点？ 已经好多了，医生说再观察几天就可以出院了。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "她生病了"
+      },
+      {
+       "label": "B",
+       "text": "她出差了"
+      },
+      {
+       "label": "C",
+       "text": "她不想参加"
+      },
+      {
+       "label": "D",
+       "text": "她奶奶生病了"
+      }
+     ]
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "关于这个周末，以下哪个是正确的？",
+     "correctAnswer": "D",
+     "explanation": "对话中，男的说周末要加班，所以不能去看电影，因此周末加班是正确的。",
+     "audio": {
+      "key": "listening/v1/c23ee8eae6fca8edb2387f9ff309e4551a0ad3d4b7b9895d8ad6c064be1bb3c7.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "老公，这个周末我们去看电影吧？新上映的那部科幻片听说评价很高。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我周末要加班，恐怕没时间。不过下周我出差回来，咱们再一起去？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "好吧，那你记得提前买票，别到时候买不到。"
+       }
+      ],
+      "transcript": "老公，这个周末我们去看电影吧？新上映的那部科幻片听说评价很高。 我周末要加班，恐怕没时间。不过下周我出差回来，咱们再一起去？ 好吧，那你记得提前买票，别到时候买不到。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "电影评价不高"
+      },
+      {
+       "label": "B",
+       "text": "男的要出差"
+      },
+      {
+       "label": "C",
+       "text": "他们打算去看电影"
+      },
+      {
+       "label": "D",
+       "text": "男的周末要加班"
+      }
+     ]
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "男的认为自己的数学成绩不理想的主要原因是什么？",
+     "correctAnswer": "D",
+     "explanation": "男的说自己平时做题太少，光看书效果不好，所以他认为主要原因是做题不够。",
+     "audio": {
+      "key": "listening/v1/de1fdd8382282505cb6ed6f2558d481c8c7fa9d47f3c8c6aba4991441f9ea092.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "李老师，这次期中考试我的数学成绩不太理想，只考了75分。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "75分其实还可以，不过你上次不是说想考90分以上吗？是不是复习方法有问题？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "可能吧，我平时做题太少了，光看书效果不好。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "那你以后要多做练习，不懂就问。"
+       }
+      ],
+      "transcript": "李老师，这次期中考试我的数学成绩不太理想，只考了75分。 75分其实还可以，不过你上次不是说想考90分以上吗？是不是复习方法有问题？ 可能吧，我平时做题太少了，光看书效果不好。 那你以后要多做练习，不懂就问。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "题目太难了"
+      },
+      {
+       "label": "B",
+       "text": "老师教得不好"
+      },
+      {
+       "label": "C",
+       "text": "考试没认真"
+      },
+      {
+       "label": "D",
+       "text": "做题太少"
+      }
+     ]
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "男的要办借书卡，需要交多少钱？",
+     "correctAnswer": "D",
+     "explanation": "工作人员说需要交五十块钱押金，所以费用是五十元。",
+     "audio": {
+      "key": "listening/v1/7083408e37164f0ba4265720fbe78fa3cf314e2585906de0360bea5d9f29e593.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "请问您需要什么帮助？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我想办一张图书馆的借书卡，需要什么手续？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "您带身份证了吗？需要填一张申请表，然后交五十块钱押金。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "好的，我带了身份证，现在就填表。"
+       }
+      ],
+      "transcript": "请问您需要什么帮助？ 我想办一张图书馆的借书卡，需要什么手续？ 您带身份证了吗？需要填一张申请表，然后交五十块钱押金。 好的，我带了身份证，现在就填表。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "十五元"
+      },
+      {
+       "label": "B",
+       "text": "五十五元"
+      },
+      {
+       "label": "C",
+       "text": "免费"
+      },
+      {
+       "label": "D",
+       "text": "五十元"
+      }
+     ]
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "女的认为这道菜怎么样？",
+     "correctAnswer": "C",
+     "explanation": "女的说“有点咸了”，所以认为菜太咸了。",
+     "audio": {
+      "key": "listening/v1/5eb1fb6c1073e9820186d2f6ec5cf3a57874ad7b4683af82b2492f5b8ebee577.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你尝尝这个菜，这是我新学的做法。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "嗯，味道不错，不过好像有点咸了。你放了多少盐？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我就放了一小勺，可能我手抖放多了。下次注意。"
+       }
+      ],
+      "transcript": "你尝尝这个菜，这是我新学的做法。 嗯，味道不错，不过好像有点咸了。你放了多少盐？ 我就放了一小勺，可能我手抖放多了。下次注意。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "太淡了"
+      },
+      {
+       "label": "B",
+       "text": "没味道"
+      },
+      {
+       "label": "C",
+       "text": "太咸了"
+      },
+      {
+       "label": "D",
+       "text": "味道很好，不咸不淡"
+      }
+     ]
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "关于这次旅游，以下哪个是正确的？",
+     "correctAnswer": "B",
+     "explanation": "女的说公司全包，包括机票和酒店，所以公司承担所有费用。",
+     "audio": {
+      "key": "listening/v1/13903c60c4f20f1d647f92c0acd41b5f032e55767d93c6ccf335644a99071981.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你听说了吗？公司下个月要组织全体员工去三亚旅游。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "真的吗？太好了，我一直想去海边。不过费用是自己出还是公司出？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "听说是公司全包，包括机票和酒店。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "那真是太好了，我一定报名参加。"
+       }
+      ],
+      "transcript": "你听说了吗？公司下个月要组织全体员工去三亚旅游。 真的吗？太好了，我一直想去海边。不过费用是自己出还是公司出？ 听说是公司全包，包括机票和酒店。 那真是太好了，我一定报名参加。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "公司只包酒店"
+      },
+      {
+       "label": "B",
+       "text": "公司承担所有费用"
+      },
+      {
+       "label": "C",
+       "text": "员工需要自己付机票钱"
+      },
+      {
+       "label": "D",
+       "text": "旅游地点是北京"
+      }
+     ]
+    },
+    {
+     "id": "q7",
+     "type": "listening-mcq",
+     "prompt": "女的最近在做什么？",
+     "correctAnswer": "D",
+     "explanation": "女的说她报了一个线上课程学画画，所以是在学画画。",
+     "audio": {
+      "key": "listening/v1/ea5d50ccfebfffb8f5c0eebc7af4cc905fab619bcc9edde181ab8994285503f7.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你最近在学画画吗？我看你朋友圈发了不少作品。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "是啊，我报了一个线上课程，每周上两次课，感觉进步挺快的。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我也想学，但是怕没时间坚持。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "其实每天抽半个小时练习就可以了，关键是兴趣。"
+       }
+      ],
+      "transcript": "你最近在学画画吗？我看你朋友圈发了不少作品。 是啊，我报了一个线上课程，每周上两次课，感觉进步挺快的。 我也想学，但是怕没时间坚持。 其实每天抽半个小时练习就可以了，关键是兴趣。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "在忙工作"
+      },
+      {
+       "label": "B",
+       "text": "在教画画"
+      },
+      {
+       "label": "C",
+       "text": "在学摄影"
+      },
+      {
+       "label": "D",
+       "text": "在学画画"
+      }
+     ]
+    },
+    {
+     "id": "q8",
+     "type": "listening-mcq",
+     "prompt": "他们打算下午几点去公园？",
+     "correctAnswer": "C",
+     "explanation": "女的说一点出发，男的回答行，所以是一点。",
+     "audio": {
+      "key": "listening/v1/d7e66b7cdc419eaafb4a21993711784d8771747e3564ba16722ce2ce158a8155.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你看天气这么好，我们下午去公园散步吧？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "好啊，不过我三点有个电话会议，可能只能陪你去一个小时。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "没关系，我们就去附近走走，一点出发怎么样？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "行，那一会儿见。"
+       }
+      ],
+      "transcript": "你看天气这么好，我们下午去公园散步吧？ 好啊，不过我三点有个电话会议，可能只能陪你去一个小时。 没关系，我们就去附近走走，一点出发怎么样？ 行，那一会儿见。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "三点"
+      },
+      {
+       "label": "B",
+       "text": "两点"
+      },
+      {
+       "label": "C",
+       "text": "一点"
+      },
+      {
+       "label": "D",
+       "text": "四点"
+      }
+     ]
+    },
+    {
+     "id": "q9",
+     "type": "listening-mcq",
+     "prompt": "王经理为什么出去了？",
+     "correctAnswer": "B",
+     "explanation": "女的说王经理接了个电话就出去了，好像是有客户来访，所以是去见客户。",
+     "audio": {
+      "key": "listening/v1/43e5ad6d235d1408df6f5a6825e3c83e85b3c45fc1772ac8b65d7f2f4c4dfff7.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你知道王经理去哪了吗？我找他签字。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "他刚才接了个电话就出去了，好像是有客户来访。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "那他什么时候回来？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "不太清楚，可能得一个小时吧。"
+       }
+      ],
+      "transcript": "你知道王经理去哪了吗？我找他签字。 他刚才接了个电话就出去了，好像是有客户来访。 那他什么时候回来？ 不太清楚，可能得一个小时吧。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "去签字"
+      },
+      {
+       "label": "B",
+       "text": "去见客户"
+      },
+      {
+       "label": "C",
+       "text": "去开会"
+      },
+      {
+       "label": "D",
+       "text": "去吃饭"
+      }
+     ]
+    },
+    {
+     "id": "q10",
+     "type": "listening-mcq",
+     "prompt": "男的昨天为什么没上课？",
+     "correctAnswer": "C",
+     "explanation": "男的说自己感冒了，头晕，所以在宿舍休息，因此原因是他感冒了。",
+     "audio": {
+      "key": "listening/v1/b54d363c50a7ffdffd19cffb9f9b72c9b60875351fda5900df1c1d872e99d8ed.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你昨天怎么没来上课？老师点名了。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我感冒了，头晕得厉害，就在宿舍休息了。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "那现在好点了吗？要不要去医院看看？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "吃了药已经好多了，谢谢关心。"
+       }
+      ],
+      "transcript": "你昨天怎么没来上课？老师点名了。 我感冒了，头晕得厉害，就在宿舍休息了。 那现在好点了吗？要不要去医院看看？ 吃了药已经好多了，谢谢关心。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "他不想去"
+      },
+      {
+       "label": "B",
+       "text": "他睡过头了"
+      },
+      {
+       "label": "C",
+       "text": "他感冒了"
+      },
+      {
+       "label": "D",
+       "text": "他去医院了"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

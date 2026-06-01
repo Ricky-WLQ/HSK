@@ -1,0 +1,289 @@
+{
+ "id": "hsk2-listening-p207",
+ "level": "2",
+ "section": "listening",
+ "partKey": "listening-p2",
+ "title": "HSK2 Listening P2",
+ "titleZh": "听力 第二部分（看图听对话）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "听录音，根据对话内容选择对应的图片。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "A",
+     "explanation": "对话中提到“喝水”，对应图片A中一个人喝水的场景。",
+     "audio": {
+      "key": "listening/v1/46d1ea6cd4cf49fdaa3fd79fd9f2d31541f92c666c9a295a3641529e7d22214b.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你渴吗？要不要喝水？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "好，我喝一杯水。"
+       }
+      ],
+      "transcript": "你渴吗？要不要喝水？ 好，我喝一杯水。",
+      "transcriptPinyin": "nǐ kě ma ？ yào bù yào hē shuǐ ？  hǎo ， wǒ hē yī bēi shuǐ 。"
+     }
+    },
+    {
+     "id": "q2",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "B",
+     "explanation": "对话中提到“猫在睡觉”，对应图片B中猫睡觉的场景。",
+     "audio": {
+      "key": "listening/v1/dd515ddcdc19923c78839d1b5038032cb67eaf152e91a598120aea0452d21e82.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "猫在做什么？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "它正在睡觉。"
+       }
+      ],
+      "transcript": "猫在做什么？ 它正在睡觉。",
+      "transcriptPinyin": "māo zài zuò shén me ？  tā zhèng zài shuì jiào 。"
+     }
+    },
+    {
+     "id": "q3",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "C",
+     "explanation": "对话中提到“老师在黑板上写”，对应图片C中老师在黑板上写字的场景。",
+     "audio": {
+      "key": "listening/v1/5629df0fe5ec7ff1aaf86b6a8564ab6fb8e8250a7a462dc1fac80f2ba9c584f5.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "老师在黑板上写什么？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "她写的是今天要学的生词。"
+       }
+      ],
+      "transcript": "老师在黑板上写什么？ 她写的是今天要学的生词。",
+      "transcriptPinyin": "lǎo shī zài hēi bǎn shàng xiě shén me ？  tā xiě de shì jīn tiān yào xué de shēng cí 。"
+     }
+    },
+    {
+     "id": "q4",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "D",
+     "explanation": "对话中提到“小朋友在玩玩具”，对应图片D中小孩玩玩具的场景。",
+     "audio": {
+      "key": "listening/v1/46f193fbbdb70877cc8a4229554b60c0be0fd65cc13a24284f0ecd813e2d1128.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "这个小朋友在玩什么？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "他在玩一辆小汽车。"
+       }
+      ],
+      "transcript": "这个小朋友在玩什么？ 他在玩一辆小汽车。",
+      "transcriptPinyin": "zhè ge xiǎo péng yǒu zài wán shén me ？  tā zài wán yī liàng xiǎo qì chē 。"
+     }
+    },
+    {
+     "id": "q5",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "E",
+     "explanation": "对话中提到“男人在看报纸”，对应图片E中男人看报纸的场景。",
+     "audio": {
+      "key": "listening/v1/0f1c443bd87f2286eb848f5e335bf62f681835e81fc98f1a2b613d046772d9d3.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你看，那个男人在看报纸。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "他看得很认真。"
+       }
+      ],
+      "transcript": "你看，那个男人在看报纸。 他看得很认真。",
+      "transcriptPinyin": "nǐ kàn ， nà ge nán rén zài kàn bào zhǐ 。  tā kàn dé hěn rèn zhēn 。"
+     }
+    },
+    {
+     "id": "q6",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "A",
+     "explanation": "对话中提到“水”和“喝”，暗示喝水，对应图片A。",
+     "audio": {
+      "key": "listening/v1/08ba6965988e860b787b3beccffc508c97314576bfe39df766f5c6dd80c13776.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "水太烫了，等一等再喝。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "好的，我等一下。"
+       }
+      ],
+      "transcript": "水太烫了，等一等再喝。 好的，我等一下。",
+      "transcriptPinyin": "shuǐ tài tàng le ， děng yī děng zài hē 。  hǎo de ， wǒ děng yí xià 。"
+     }
+    },
+    {
+     "id": "q7",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "B",
+     "explanation": "对话中提到“猫在睡觉”，对应图片B。",
+     "audio": {
+      "key": "listening/v1/b63e553abfe11cd18df124a6a73e18abcb551dbad64de3934e1a236348cb552a.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "小声点，猫在睡觉。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "啊，对不起，我不知道。"
+       }
+      ],
+      "transcript": "小声点，猫在睡觉。 啊，对不起，我不知道。",
+      "transcriptPinyin": "xiǎo shēng diǎn ， māo zài shuì jiào 。  a ， duì bù qǐ ， wǒ bù zhī dào 。"
+     }
+    },
+    {
+     "id": "q8",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "C",
+     "explanation": "对话中提到“老师”和“黑板”，对应图片C。",
+     "audio": {
+      "key": "listening/v1/7e6b94de06f4716d9892185e794fc850124afe27b8585084dbcef8d5239523a9.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "老师，我可以帮忙擦黑板吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "等老师写完再擦吧。"
+       }
+      ],
+      "transcript": "老师，我可以帮忙擦黑板吗？ 等老师写完再擦吧。",
+      "transcriptPinyin": "lǎo shī ， wǒ kě yǐ bāng máng cā hēi bǎn ma ？  děng lǎo shī xiě wán zài cā ba 。"
+     }
+    },
+    {
+     "id": "q9",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "D",
+     "explanation": "对话中提到“孩子”和“玩玩具”，对应图片D。",
+     "audio": {
+      "key": "listening/v1/b5cdae9c2b322364b27c00200ddb9dd99f5457f5ca880d91bc0e6ee8f362cdea.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "孩子很喜欢他的新玩具。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "是啊，他每天都玩。"
+       }
+      ],
+      "transcript": "孩子很喜欢他的新玩具。 是啊，他每天都玩。",
+      "transcriptPinyin": "hái zi hěn xǐ huān tā de xīn wán jù 。  shì a ， tā měi tiān dōu wán 。"
+     }
+    },
+    {
+     "id": "q10",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "E",
+     "explanation": "对话中提到“报纸”和“看”，暗示男人在看报纸，对应图片E。",
+     "audio": {
+      "key": "listening/v1/5d74fe5f3c75e668eae05fe0aeb0b761ae99c8cdb8e0289ace11443206111d63.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "爸爸，报纸上有什么新闻？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你看看，有重要的事情。"
+       }
+      ],
+      "transcript": "爸爸，报纸上有什么新闻？ 你看看，有重要的事情。",
+      "transcriptPinyin": "bà bà ， bào zhǐ shàng yǒu shén me xīn wén ？  nǐ kàn kàn ， yǒu zhòng yào de shì qíng 。"
+     }
+    }
+   ],
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-7da4dc88c4cd36784effc1b9d3e9dc15.png"
+    },
+    {
+     "label": "B",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-fc016a715aa297a78009a3ae4fb0c5d9.png"
+    },
+    {
+     "label": "C",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-f326596784739ae2240d6cb2ba3fb3d3.png"
+    },
+    {
+     "label": "D",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-af682a94e5be6f623fae9449b2841af4.png"
+    },
+    {
+     "label": "E",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-571c4ee5d014314899d09e2642e9fb81.png"
+    },
+    {
+     "label": "F",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-8fa7c37bacac2a8cc8f2becca1abfeeb.png"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

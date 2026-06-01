@@ -1,0 +1,117 @@
+{
+ "id": "hsk2-listening-p118",
+ "level": "2",
+ "section": "listening",
+ "partKey": "listening-p1",
+ "title": "HSK2 Listening P1",
+ "titleZh": "听力 第一部分（看图判断）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听下面五个句子，每个句子对应一幅图片。判断图片是否与句子内容一致，一致的选“对”，不一致的选“错”。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "对",
+     "explanation": "句子说的是“他正在看书”，图片显示一个男人在看书，内容一致。",
+     "audio": {
+      "key": "listening/v1/9f11514b06c3d66ca3415afed7d692b2de0427315cb53b93ab904e816dcc8591.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "他正在看书。"
+       }
+      ],
+      "transcript": "他正在看书。",
+      "transcriptPinyin": "tā zhèng zài kàn shū 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-2a6fe8b0dd4af6c8cc71f925d7205545.png"
+    },
+    {
+     "id": "q2",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "对",
+     "explanation": "句子说的是“桌子上有一杯咖啡”，但图片中桌子上是一杯茶，不是咖啡，所以不一致。",
+     "audio": {
+      "key": "listening/v1/26ddcf2808f89010eaacf2208f8ee7906f67549e940061496fd230ca76e46a1e.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "桌子上有一杯咖啡。"
+       }
+      ],
+      "transcript": "桌子上有一杯咖啡。",
+      "transcriptPinyin": "zhuō zi shàng yǒu yī bēi kā fēi 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-7f1014cfc5c1ddcc0f6d74afa55b27e3.png"
+    },
+    {
+     "id": "q3",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "对",
+     "explanation": "句子说的是“她在听音乐”，图片中女孩戴着耳机，周围有音符，表示她在听音乐，内容一致。",
+     "audio": {
+      "key": "listening/v1/e4c84139fbebb3fbba5c38f47ea0cd8618470b824102a737256bdf1581a35041.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "她在听音乐。"
+       }
+      ],
+      "transcript": "她在听音乐。",
+      "transcriptPinyin": "tā zài tīng yīn yuè 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-0b05fdf425b59db58fd81fd2cee4f4ed.png"
+    },
+    {
+     "id": "q4",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "错",
+     "explanation": "句子说的是天气冷、穿大衣，但图片中男子穿短袖还流汗，表示天气热，与句子相反。",
+     "audio": {
+      "key": "listening/v1/62a599053fc66d28829ba437c2b7efd0aa5d806f6684307da305dd6b08730665.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "今天天气很冷，他穿着大衣。"
+       }
+      ],
+      "transcript": "今天天气很冷，他穿着大衣。",
+      "transcriptPinyin": "jīn tiān tiān qì hěn lěng ， tā chuān zhe dà yī 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-80f764fa8c24a88896e7eb7dd27bb919.png"
+    },
+    {
+     "id": "q5",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "对",
+     "explanation": "句子说的是“猫在睡觉”，图片中猫蜷缩在垫子上睡觉，内容一致。",
+     "audio": {
+      "key": "listening/v1/e5dceb05f08a9af1b921c3f4b1fa72fd927a928138904d02633cfaf50b6b0411.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "猫在睡觉。"
+       }
+      ],
+      "transcript": "猫在睡觉。",
+      "transcriptPinyin": "māo zài shuì jiào 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-fd39f45789a5a7d7062d4b2f18f75a43.png"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

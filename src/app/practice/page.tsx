@@ -17,10 +17,9 @@ export default async function PracticeHub() {
 
         <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
           {HSK_LEVELS.map((lv, i) => (
-            <Link
+            <div
               key={lv}
-              href={`/practice/${lv}/reading`}
-              className={`card-interactive p-6 animate-card-enter delay-${((i % 5) + 1) * 100}`}
+              className={`card-elevated p-6 animate-card-enter delay-${((i % 5) + 1) * 100}`}
             >
               <div className="flex items-center justify-between">
                 <span className="font-heading text-2xl font-extrabold">
@@ -28,8 +27,15 @@ export default async function PracticeHub() {
                 </span>
                 <span className="badge badge-primary">{levelBand(lv)}</span>
               </div>
-              <p className="mt-2 text-foreground/60">{t.practice.reading}</p>
-            </Link>
+              <div className="mt-4 grid grid-cols-2 gap-2">
+                <Link href={`/practice/${lv}/reading`} className="btn-solid btn-solid-outline text-center text-sm">
+                  {t.practice.reading}
+                </Link>
+                <Link href={`/practice/${lv}/listening`} className="btn-solid btn-solid-outline text-center text-sm">
+                  {t.practice.listening}
+                </Link>
+              </div>
+            </div>
           ))}
         </div>
       </main>

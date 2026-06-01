@@ -1,0 +1,179 @@
+{
+ "id": "hsk4-listening-p209",
+ "level": "4",
+ "section": "listening",
+ "partKey": "listening-p2",
+ "title": "HSK4 Listening P2",
+ "titleZh": "听力 第二部分（听短文选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "第1到6题：请听下面一段独白，然后根据内容选择正确答案。每个问题只有一个正确答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "说话人为什么要学习做饭？",
+     "correctAnswer": "A",
+     "explanation": "说话人说自己很喜欢吃好吃的，所以决定学习做饭，因此他学习做饭的原因是喜欢美食。",
+     "options": [
+      {
+       "label": "A",
+       "text": "因为他喜欢美食"
+      },
+      {
+       "label": "B",
+       "text": "因为他朋友邀请他"
+      },
+      {
+       "label": "C",
+       "text": "因为他想开饭店"
+      },
+      {
+       "label": "D",
+       "text": "因为他妈妈让他学"
+      }
+     ]
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "开始学做饭时，说话人遇到了什么问题？",
+     "correctAnswer": "B",
+     "explanation": "说话人提到开始做饭时常常把菜做得太咸或者太淡，所以“把菜做得太咸”是他遇到的问题之一。",
+     "options": [
+      {
+       "label": "A",
+       "text": "他妈妈不让他做饭"
+      },
+      {
+       "label": "B",
+       "text": "他经常把菜做得太咸"
+      },
+      {
+       "label": "C",
+       "text": "朋友都说他做的菜难吃"
+      },
+      {
+       "label": "D",
+       "text": "他找不到合适的菜谱"
+      }
+     ]
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "谁给了说话人一本做菜的书？",
+     "correctAnswer": "A",
+     "explanation": "说话人明确说“妈妈给了我一本做菜的书”。",
+     "options": [
+      {
+       "label": "A",
+       "text": "他妈妈"
+      },
+      {
+       "label": "B",
+       "text": "他朋友"
+      },
+      {
+       "label": "C",
+       "text": "他自己"
+      },
+      {
+       "label": "D",
+       "text": "他爸爸"
+      }
+     ]
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "现在说话人能做什么菜？",
+     "correctAnswer": "B",
+     "explanation": "说话人说现在“不但能做简单的家常菜，还会做几个比较难的菜”，说明简单和复杂的菜都会做。",
+     "options": [
+      {
+       "label": "A",
+       "text": "只会做复杂的菜"
+      },
+      {
+       "label": "B",
+       "text": "能做简单和复杂的菜"
+      },
+      {
+       "label": "C",
+       "text": "只会做简单的菜"
+      },
+      {
+       "label": "D",
+       "text": "不会做家常菜"
+      }
+     ]
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "说话人这个周末打算做什么？",
+     "correctAnswer": "D",
+     "explanation": "说话人说“这个周末我打算请几个朋友来家里吃饭”。",
+     "options": [
+      {
+       "label": "A",
+       "text": "开一家餐厅"
+      },
+      {
+       "label": "B",
+       "text": "去买菜谱"
+      },
+      {
+       "label": "C",
+       "text": "去朋友家吃饭"
+      },
+      {
+       "label": "D",
+       "text": "请朋友来家里吃饭"
+      }
+     ]
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "说话人现在做饭的水平怎么样？",
+     "correctAnswer": "C",
+     "explanation": "说话人从不会做饭到能做简单和复杂的菜，说明做饭水平比以前进步了很多。",
+     "options": [
+      {
+       "label": "A",
+       "text": "还是跟以前一样差"
+      },
+      {
+       "label": "B",
+       "text": "非常好，跟厨师一样"
+      },
+      {
+       "label": "C",
+       "text": "比以前进步了很多"
+      },
+      {
+       "label": "D",
+       "text": "只会做咸和淡的菜"
+      }
+     ]
+    }
+   ],
+   "audio": {
+    "key": "listening/v1/2811bc04c611c3aa845b9e0ff85fb4a859de5e67ddfcba3192e1d7c28e2467af.mp3",
+    "lines": [
+     {
+      "speaker": "旁白",
+      "voice": "narrator",
+      "text": "以前我不会做饭，但是我很喜欢吃好吃的，所以决定学习做饭。开始的时候，我常常把菜做得太咸或者太淡，有时候还会把锅烧坏。后来，妈妈给了我一本做菜的书，我按照书上的方法做，慢慢就好了很多。现在，我不但能做简单的家常菜，还会做几个比较难的菜。这个周末，我打算请几个朋友来家里吃饭，让他们尝尝我的手艺。"
+     }
+    ],
+    "transcript": "以前我不会做饭，但是我很喜欢吃好吃的，所以决定学习做饭。开始的时候，我常常把菜做得太咸或者太淡，有时候还会把锅烧坏。后来，妈妈给了我一本做菜的书，我按照书上的方法做，慢慢就好了很多。现在，我不但能做简单的家常菜，还会做几个比较难的菜。这个周末，我打算请几个朋友来家里吃饭，让他们尝尝我的手艺。",
+    "transcriptPinyin": null
+   }
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

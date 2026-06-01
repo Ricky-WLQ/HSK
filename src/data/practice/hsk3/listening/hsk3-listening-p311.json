@@ -1,0 +1,387 @@
+{
+ "id": "hsk3-listening-p311",
+ "level": "3",
+ "section": "listening",
+ "partKey": "listening-p3",
+ "title": "HSK3 Listening P3",
+ "titleZh": "听力 第三部分（听短文选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "听录音，根据独白内容选择正确答案。每题只有一个正确答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "他们昨天做了什么？",
+     "correctAnswer": "A",
+     "explanation": "独白中说他们去了公园，在公园里散步、拍照、吃冰淇淋，所以是去公园玩。",
+     "audio": {
+      "key": "listening/v1/079b52d467df92100b02fe4974151252c92d08638ff1108deb37b6e83d49ef64.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "昨天天气很好，我和朋友去了公园。我们在公园里散步、拍照，还吃了冰淇淋。"
+       }
+      ],
+      "transcript": "昨天天气很好，我和朋友去了公园。我们在公园里散步、拍照，还吃了冰淇淋。",
+      "transcriptPinyin": "zuó tiān tiān qì hěn hǎo ， wǒ hé péng yǒu qù le gōng yuán 。 wǒ men zài gōng yuán lǐ sàn bù 、 pāi zhào ， hái chī le bīng qí lín 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "去公园玩",
+       "pinyin": "qù gōng yuán wán"
+      },
+      {
+       "label": "B",
+       "text": "去海边玩",
+       "pinyin": "qù hǎi biān wán"
+      },
+      {
+       "label": "C",
+       "text": "去山上玩",
+       "pinyin": "qù shān shàng wán"
+      }
+     ],
+     "pinyin": "tā men zuó tiān zuò le shén me ？"
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "妈妈让这个人买什么？",
+     "correctAnswer": "B",
+     "explanation": "妈妈让买酱油和盐，巧克力是自己加的，不是妈妈让买的。",
+     "audio": {
+      "key": "listening/v1/66a2964faffa50e226477cb4d6d348a32b2f4ea35ac96947f8afbc08825a8fd3.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "妈妈让我去超市买一瓶酱油，还要买一袋盐。我去了超市，买了酱油和盐，还买了自己最喜欢的巧克力。"
+       }
+      ],
+      "transcript": "妈妈让我去超市买一瓶酱油，还要买一袋盐。我去了超市，买了酱油和盐，还买了自己最喜欢的巧克力。",
+      "transcriptPinyin": "mā mā ràng wǒ qù chāo shì mǎi yī píng jiàng yóu ， hái yào mǎi yī dài yán 。 wǒ qù le chāo shì ， mǎi le jiàng yóu hé yán ， hái mǎi le zì jǐ zuì xǐ huān de qiǎo kè lì 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "盐和巧克力",
+       "pinyin": "yán hé qiǎo kè lì"
+      },
+      {
+       "label": "B",
+       "text": "酱油和盐",
+       "pinyin": "jiàng yóu hé yán"
+      },
+      {
+       "label": "C",
+       "text": "酱油和巧克力",
+       "pinyin": "jiàng yóu hé qiǎo kè lì"
+      }
+     ],
+     "pinyin": "mā mā ràng zhè ge rén mǎi shén me ？"
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "小明的生日是什么时候？",
+     "correctAnswer": "B",
+     "explanation": "独白清楚说明小明的生日是下周六。",
+     "audio": {
+      "key": "listening/v1/c0b535eeb50b39e60d618b5f90a8cbe9a0216976f7802deddaae2198dd074d2c.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "小明的生日是下周六，他打算请几个好朋友来家里吃饭。他妈妈会做很多好吃的菜。"
+       }
+      ],
+      "transcript": "小明的生日是下周六，他打算请几个好朋友来家里吃饭。他妈妈会做很多好吃的菜。",
+      "transcriptPinyin": "xiǎo míng de shēng rì shì xià zhōu liù ， tā dǎ suàn qǐng jǐ gè hǎo péng yǒu lái jiā lǐ chī fàn 。 tā mā mā huì zuò hěn duō hǎo chī de cài 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "下周天",
+       "pinyin": "xià zhōu tiān"
+      },
+      {
+       "label": "B",
+       "text": "下周六",
+       "pinyin": "xià zhōu liù"
+      },
+      {
+       "label": "C",
+       "text": "这周六",
+       "pinyin": "zhè zhōu liù"
+      }
+     ],
+     "pinyin": "xiǎo míng de shēng rì shì shén me shí hòu ？"
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "这个人的手机怎么了？",
+     "correctAnswer": "B",
+     "explanation": "独白说手机坏了，不能打电话发短信，后来修好了，所以是坏了。",
+     "audio": {
+      "key": "listening/v1/3f08132dab5f3c08099a5bc1ed80d99a8d4679afb95065a2761b954378135ee8.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我的手机坏了，不能打电话也不能发短信。今天下午我去了手机店，修好了手机。"
+       }
+      ],
+      "transcript": "我的手机坏了，不能打电话也不能发短信。今天下午我去了手机店，修好了手机。",
+      "transcriptPinyin": "wǒ de shǒu jī huài le ， bù néng dǎ diàn huà yě bù néng fā duǎn xìn 。 jīn tiān xià wǔ wǒ qù le shǒu jī diàn ， xiū hǎo le shǒu jī 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "丢了",
+       "pinyin": "diū le"
+      },
+      {
+       "label": "B",
+       "text": "坏了",
+       "pinyin": "huài le"
+      },
+      {
+       "label": "C",
+       "text": "没电了",
+       "pinyin": "méi diàn le"
+      }
+     ],
+     "pinyin": "zhè ge rén de shǒu jī zěn me le ？"
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "这家新店是什么？",
+     "correctAnswer": "C",
+     "explanation": "独白明确说新开了一家书店，里面有很多书。",
+     "audio": {
+      "key": "listening/v1/468a3cb5b3dacf8c3330bb647e99d1c3c65d3c8b730af65abaa28485f71055ac.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "学校旁边新开了一家书店，里面的书很多，还有免费的座位可以看书。我每个周末都会去那里看书。"
+       }
+      ],
+      "transcript": "学校旁边新开了一家书店，里面的书很多，还有免费的座位可以看书。我每个周末都会去那里看书。",
+      "transcriptPinyin": "xué xiào páng biān xīn kāi le yī jiā shū diàn ， lǐ miàn de shū hěn duō ， hái yǒu miǎn fèi de zuò wèi kě yǐ kàn shū 。 wǒ měi gè zhōu mò dū huì qù nà lǐ kàn shū 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "咖啡馆",
+       "pinyin": "kā fēi guǎn"
+      },
+      {
+       "label": "B",
+       "text": "图书馆",
+       "pinyin": "tú shū guǎn"
+      },
+      {
+       "label": "C",
+       "text": "书店",
+       "pinyin": "shū diàn"
+      }
+     ],
+     "pinyin": "zhè jiā xīn diàn shì shén me ？"
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "王老师是做什么的？",
+     "correctAnswer": "B",
+     "explanation": "独白说王老师教汉语，所以她是老师。",
+     "audio": {
+      "key": "listening/v1/d3d4fa757157c46ba71150a55368106d0601dca05e693af8f4bac147bbefb085.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "王老师教我们汉语，她上课很有趣，经常给我们讲中国故事。同学们都很喜欢她。"
+       }
+      ],
+      "transcript": "王老师教我们汉语，她上课很有趣，经常给我们讲中国故事。同学们都很喜欢她。",
+      "transcriptPinyin": "wáng lǎo shī jiào wǒ men hàn yǔ ， tā shàng kè hěn yǒu qù ， jīng cháng gěi wǒ men jiǎng zhōng guó gù shì 。 tóng xué men dōu hěn xǐ huān tā 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "医生",
+       "pinyin": "yī shēng"
+      },
+      {
+       "label": "B",
+       "text": "老师",
+       "pinyin": "lǎo shī"
+      },
+      {
+       "label": "C",
+       "text": "作家",
+       "pinyin": "zuò jiā"
+      }
+     ],
+     "pinyin": "wáng lǎo shī shì zuò shén me de ？"
+    },
+    {
+     "id": "q7",
+     "type": "listening-mcq",
+     "prompt": "为什么这个人带了伞？",
+     "correctAnswer": "C",
+     "explanation": "独白说天气预报有雨，所以带了伞。",
+     "audio": {
+      "key": "listening/v1/4f262b9be89c8ba053e37ea01e840ac9720027b3f8aaa5e7c66ef3cd59f7b5c8.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "天气预报说今天下午有雨，所以我带了伞出门。结果下午真的下雨了，还好我带了伞。"
+       }
+      ],
+      "transcript": "天气预报说今天下午有雨，所以我带了伞出门。结果下午真的下雨了，还好我带了伞。",
+      "transcriptPinyin": "tiān qì yù bào shuō jīn tiān xià wǔ yǒu yǔ ， suǒ yǐ wǒ dài le sǎn chū mén 。 jié guǒ xià wǔ zhēn de xià yǔ le ， hái hǎo wǒ dài le sǎn 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "因为怕太阳晒",
+       "pinyin": "yīn wèi pà tài yáng shài"
+      },
+      {
+       "label": "B",
+       "text": "因为喜欢伞",
+       "pinyin": "yīn wèi xǐ huān sǎn"
+      },
+      {
+       "label": "C",
+       "text": "因为天气预报说下雨",
+       "pinyin": "yīn wèi tiān qì yù bào shuō xià yǔ"
+      }
+     ],
+     "pinyin": "wèi shén me zhè ge rén dài le sǎn ？"
+    },
+    {
+     "id": "q8",
+     "type": "listening-mcq",
+     "prompt": "这个人坐地铁上班需要多长时间？",
+     "correctAnswer": "C",
+     "explanation": "独白说路上大概需要三十分钟。",
+     "audio": {
+      "key": "listening/v1/78f5fa8308d01f4e527786c7100b669ef592a83194370b870281b36ef0cafc52.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我每天早上七点起床，然后吃早饭。八点坐地铁去公司上班，路上大概需要三十分钟。"
+       }
+      ],
+      "transcript": "我每天早上七点起床，然后吃早饭。八点坐地铁去公司上班，路上大概需要三十分钟。",
+      "transcriptPinyin": "wǒ měi tiān zǎo shàng qī diǎn qǐ chuáng ， rán hòu chī zǎo fàn 。 bā diǎn zuò dì tiě qù gōng sī shàng bān ， lù shàng dà gài xū yào sān shí fēn zhōng 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "二十分钟",
+       "pinyin": "èr shí fēn zhōng"
+      },
+      {
+       "label": "B",
+       "text": "一个小时",
+       "pinyin": "yí gè xiǎo shí"
+      },
+      {
+       "label": "C",
+       "text": "三十分钟",
+       "pinyin": "sān shí fēn zhōng"
+      }
+     ],
+     "pinyin": "zhè ge rén zuò dì tiě shàng bān xū yào duō zhǎng shí jiān ？"
+    },
+    {
+     "id": "q9",
+     "type": "listening-mcq",
+     "prompt": "小李每天放学后做什么？",
+     "correctAnswer": "B",
+     "explanation": "独白说小李的爱好是跑步，每天放学后去操场跑五圈。",
+     "audio": {
+      "key": "listening/v1/3ba72dda15db829983eccdcf8db3e0cdf88789ea42d6708d5df3c922d45aa012.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "小李的爱好是跑步，他每天放学后都会去操场跑五圈。最近他参加了一个跑步比赛，得了第二名。"
+       }
+      ],
+      "transcript": "小李的爱好是跑步，他每天放学后都会去操场跑五圈。最近他参加了一个跑步比赛，得了第二名。",
+      "transcriptPinyin": "xiǎo lǐ de ài hào shì pǎo bù ， tā měi tiān fàng xué hòu dū huì qù cāo chǎng pǎo wǔ quān 。 zuì jìn tā cān jiā le yí gè pǎo bù bǐ sài ， dé le dì èr míng 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "打篮球",
+       "pinyin": "dǎ lán qiú"
+      },
+      {
+       "label": "B",
+       "text": "跑步",
+       "pinyin": "pǎo bù"
+      },
+      {
+       "label": "C",
+       "text": "游泳",
+       "pinyin": "yóu yǒng"
+      }
+     ],
+     "pinyin": "xiǎo lǐ měi tiān fàng xué hòu zuò shén me ？"
+    },
+    {
+     "id": "q10",
+     "type": "listening-mcq",
+     "prompt": "姐姐的工作是什么？",
+     "correctAnswer": "C",
+     "explanation": "独白说姐姐是护士。",
+     "audio": {
+      "key": "listening/v1/4802169b32f04e6cb8ec124d96b04843d0225db4773ba885f93def18b2e2fad1.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "姐姐比我大五岁，她在一家医院工作，是一名护士。她每天都很忙，但是很喜欢自己的工作。"
+       }
+      ],
+      "transcript": "姐姐比我大五岁，她在一家医院工作，是一名护士。她每天都很忙，但是很喜欢自己的工作。",
+      "transcriptPinyin": "jiě jiě bǐ wǒ dà wǔ suì ， tā zài yī jiā yī yuàn gōng zuò ， shì yī míng hù shì 。 tā měi tiān dōu hěn máng ， dàn shì hěn xǐ huān zì jǐ de gōng zuò 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "老师",
+       "pinyin": "lǎo shī"
+      },
+      {
+       "label": "B",
+       "text": "医生",
+       "pinyin": "yī shēng"
+      },
+      {
+       "label": "C",
+       "text": "护士",
+       "pinyin": "hù shì"
+      }
+     ],
+     "pinyin": "jiě jiě de gōng zuò shì shén me ？"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

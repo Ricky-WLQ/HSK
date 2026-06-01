@@ -1,0 +1,169 @@
+{
+ "id": "hsk1-listening-p310",
+ "level": "1",
+ "section": "listening",
+ "partKey": "listening-p3",
+ "title": "HSK1 Listening P3",
+ "titleZh": "听力 第三部分（看图听对话）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "听对话，选出对应的图片。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "A",
+     "explanation": "对话中提到了'猫'，所以图片是猫。",
+     "audio": {
+      "key": "listening/v1/6031fa71fcebb493e31764364513f492a062510201ba2c8257ec10ab13803c97.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "这是什么？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "这是我的猫。"
+       }
+      ],
+      "transcript": "这是什么？ 这是我的猫。",
+      "transcriptPinyin": "zhè shì shén me ？  zhè shì wǒ de māo 。"
+     }
+    },
+    {
+     "id": "q2",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "C",
+     "explanation": "对话中提到了'水'，所以图片是水。",
+     "audio": {
+      "key": "listening/v1/fc1161b383249d0800a2905ea9b5c3484cf518f4de6c0318e9c189ef1e039f01.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你想喝水吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "好的，谢谢。"
+       }
+      ],
+      "transcript": "你想喝水吗？ 好的，谢谢。",
+      "transcriptPinyin": "nǐ xiǎng hē shuǐ ma ？  hǎo de ， xiè xiè 。"
+     }
+    },
+    {
+     "id": "q3",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "D",
+     "explanation": "对话中提到了'苹果'，所以图片是苹果。",
+     "audio": {
+      "key": "listening/v1/0b708ce6a16d80b51999795cf98ef5fc7c2f7db0e21ad817abfe6c730496034a.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你有苹果吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "有，给你。"
+       }
+      ],
+      "transcript": "你有苹果吗？ 有，给你。",
+      "transcriptPinyin": "nǐ yǒu píng guǒ ma ？  yǒu ， gěi nǐ 。"
+     }
+    },
+    {
+     "id": "q4",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "B",
+     "explanation": "对话中提到了'书'，所以图片是书。",
+     "audio": {
+      "key": "listening/v1/e678eb0ad2a05933f256ad8f9f771e96d055c26c44c180d3a3339e288bda36e9.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你的书在桌子上。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "谢谢。"
+       }
+      ],
+      "transcript": "你的书在桌子上。 谢谢。",
+      "transcriptPinyin": "nǐ de shū zài zhuō zi shàng 。  xiè xiè 。"
+     }
+    },
+    {
+     "id": "q5",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "E",
+     "explanation": "对话中提到了'打电话'，所以图片是电话。",
+     "audio": {
+      "key": "listening/v1/7f73bba4ebcb733b1af8ccfb05cf0edc144587879ff912bf12ff055c4e9ae3d9.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你打电话吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "是的，我给妈妈打电话。"
+       }
+      ],
+      "transcript": "你打电话吗？ 是的，我给妈妈打电话。",
+      "transcriptPinyin": "nǐ dǎ diàn huà ma ？  shì de ， wǒ gěi mā mā dǎ diàn huà 。"
+     }
+    }
+   ],
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-1a24798c1a65ee7b343cc5bbec8c472c.png"
+    },
+    {
+     "label": "B",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-879f23430e3344b785bad73756781ed0.png"
+    },
+    {
+     "label": "C",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-fcb959a4f31f2c66450f2ec45c89a1f6.png"
+    },
+    {
+     "label": "D",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-df700c02354d6d0e03088ba912eda91a.png"
+    },
+    {
+     "label": "E",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-a5a2b7397592401224d32f8d38ac11b3.png"
+    },
+    {
+     "label": "F",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-ba6e11b8951bb1ad0f1e56bdd8464291.png"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

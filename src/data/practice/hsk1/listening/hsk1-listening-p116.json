@@ -1,0 +1,117 @@
+{
+ "id": "hsk1-listening-p116",
+ "level": "1",
+ "section": "listening",
+ "partKey": "listening-p1",
+ "title": "HSK1 Listening P1",
+ "titleZh": "听力 第一部分（看图判断）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "你将听到一句中文陈述，然后看到一张图片。请判断图片是否与陈述内容一致。如果图片与陈述意思一致，请选择“对”；如果不一致，请选择“错”。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "对",
+     "explanation": "陈述说桌子上有一个苹果，图片中桌子上确实有一个苹果，所以是正确的。",
+     "audio": {
+      "key": "listening/v1/3a23894d5ed4c0169e66fe85ef0931cd5f77d7eed67876b660e212670e57e65b.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "桌子上有一个苹果。"
+       }
+      ],
+      "transcript": "桌子上有一个苹果。",
+      "transcriptPinyin": "zhuō zi shàng yǒu yí gè píng guǒ 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-75bb6eb23db1f14198c3851a6fb178e9.png"
+    },
+    {
+     "id": "q2",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "错",
+     "explanation": "陈述说的是猫在椅子上，但图片中是一只狗在椅子上，所以是错误的。",
+     "audio": {
+      "key": "listening/v1/ffb29c818f770aac93691ed60c0aa62c854d5a898d2628f6b79caf9ed34dbf58.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "猫在椅子上。"
+       }
+      ],
+      "transcript": "猫在椅子上。",
+      "transcriptPinyin": "māo zài yǐ zi shàng 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-e93951841c67abe687f266f26fb25e5d.png"
+    },
+    {
+     "id": "q3",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "对",
+     "explanation": "陈述说他喝水，图片中他正在喝水，所以是正确的。",
+     "audio": {
+      "key": "listening/v1/a18970bce5e3fc7fdad5583208954c5d166bbf98e609f06a2de3b8bf457c97cd.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "他喝水。"
+       }
+      ],
+      "transcript": "他喝水。",
+      "transcriptPinyin": "tā hē shuǐ 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-907fa385f7eb275fee85bfb129039b15.png"
+    },
+    {
+     "id": "q4",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "错",
+     "explanation": "陈述说的是她看书，但图片中她在写字，没有看书，所以是错误的。",
+     "audio": {
+      "key": "listening/v1/47053e3ae13a2ca06f7969c410efdf725c19cfcd3c9bfc53b41f7f1bcebe7ae6.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "她看书。"
+       }
+      ],
+      "transcript": "她看书。",
+      "transcriptPinyin": "tā kàn shū 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-5a12853c4b575faaf819fb98cbf6ceb1.png"
+    },
+    {
+     "id": "q5",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "对",
+     "explanation": "陈述说天气很好，图片中天气晴朗，阳光明媚，所以是正确的。",
+     "audio": {
+      "key": "listening/v1/1676ca071196a3b55b2a6f4a8d8bfc4f1cbe38e000e2517e8e3fcb8e70989a7e.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "天气很好。"
+       }
+      ],
+      "transcript": "天气很好。",
+      "transcriptPinyin": "tiān qì hěn hǎo 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-3ebc7afea129b6d73eda5f8ef86289c5.png"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

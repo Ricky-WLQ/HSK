@@ -1,0 +1,117 @@
+{
+ "id": "hsk2-listening-p116",
+ "level": "2",
+ "section": "listening",
+ "partKey": "listening-p1",
+ "title": "HSK2 Listening P1",
+ "titleZh": "听力 第一部分（看图判断）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "听句子，判断图片与句子内容是否一致。一致的请选“对”，不一致的请选“错”。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "对",
+     "explanation": "图片中的人在看书，与句子描述一致。",
+     "audio": {
+      "key": "listening/v1/7318ea0dc2137fa427d38433371a44eaf2da442fe62f92d73c3dcce8f7c51de3.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "他在看书。"
+       }
+      ],
+      "transcript": "他在看书。",
+      "transcriptPinyin": "tā zài kàn shū 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-0bbb2f9d3ec20a04b6e395d6a871d484.png"
+    },
+    {
+     "id": "q2",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "错",
+     "explanation": "句子说桌子上有苹果，但图片中桌子上是香蕉，不是苹果。",
+     "audio": {
+      "key": "listening/v1/3a23894d5ed4c0169e66fe85ef0931cd5f77d7eed67876b660e212670e57e65b.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "桌子上有一个苹果。"
+       }
+      ],
+      "transcript": "桌子上有一个苹果。",
+      "transcriptPinyin": "zhuō zi shàng yǒu yí gè píng guǒ 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-82ffdfd0283228347009d4ed76c73137.png"
+    },
+    {
+     "id": "q3",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "错",
+     "explanation": "句子说她坐车去学校，但图片中她在骑自行车，不是坐车。",
+     "audio": {
+      "key": "listening/v1/46ffa370cac5bcd8d3f75fe38f6c7dfe372b5912e04b68cbe7667d0efb03afe5.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "她坐车去学校。"
+       }
+      ],
+      "transcript": "她坐车去学校。",
+      "transcriptPinyin": "tā zuò chē qù xué xiào 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-8ed566da8a89145a1c7cebb03ef21d36.png"
+    },
+    {
+     "id": "q4",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "对",
+     "explanation": "图片显示天气晴朗，与句子描述的“天气很好”一致。",
+     "audio": {
+      "key": "listening/v1/199a9cbcfe613ce6c05a9ff4f0984b93c8b5bd87becc022c43cdf0fafde2e743.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "今天天气很好。"
+       }
+      ],
+      "transcript": "今天天气很好。",
+      "transcriptPinyin": "jīn tiān tiān qì hěn hǎo 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-c9db60bd95fce2b1f0ab37dd6d736ab6.png"
+    },
+    {
+     "id": "q5",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "错",
+     "explanation": "句子说猫在椅子下面，但图片中猫坐在椅子上，不在下面。",
+     "audio": {
+      "key": "listening/v1/78a8f148fdd11110bb2359a59462ba2209583d649fa4acb25c3bef125910eeff.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "猫在椅子下面。"
+       }
+      ],
+      "transcript": "猫在椅子下面。",
+      "transcriptPinyin": "māo zài yǐ zi xià miàn 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-9ee8b79689b03079762d7bca245a5981.png"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

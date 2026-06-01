@@ -1,0 +1,143 @@
+{
+ "id": "hsk7-9-listening-p202",
+ "level": "7-9",
+ "section": "listening",
+ "partKey": "listening-p2",
+ "title": "HSK7-9 Listening P2",
+ "titleZh": "听力 第二部分（听短文选填答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听一段关于量子计算最新进展的独白，然后回答6个问题。其中多数为选择题，1-2个为填空题。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "量子计算机与传统计算机的主要区别是什么？",
+     "correctAnswer": "B",
+     "explanation": "原文指出传统计算机使用比特，而量子计算机使用量子比特，这是二者最根本的区别。",
+     "options": [
+      {
+       "label": "A",
+       "text": "使用比特"
+      },
+      {
+       "label": "B",
+       "text": "使用量子比特"
+      },
+      {
+       "label": "C",
+       "text": "体积更小"
+      },
+      {
+       "label": "D",
+       "text": "计算速度更快"
+      }
+     ]
+    },
+    {
+     "id": "q2",
+     "type": "listening-dictation",
+     "prompt": "量子比特可以同时处于什么状态？",
+     "correctAnswer": "叠加态",
+     "explanation": "原文明确说明量子比特可以同时处于0和1的叠加态。"
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "2023年研究团队实现了什么？",
+     "correctAnswer": "C",
+     "explanation": "原文提到成功实现了1000个量子比特的纠错编码，因此核心成就是实现了纠错编码。",
+     "options": [
+      {
+       "label": "A",
+       "text": "100个量子比特"
+      },
+      {
+       "label": "B",
+       "text": "1000个量子比特"
+      },
+      {
+       "label": "C",
+       "text": "纠错编码"
+      },
+      {
+       "label": "D",
+       "text": "10000个量子比特"
+      }
+     ]
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "量子计算从实验室走向实际应用的关键一步是什么？",
+     "correctAnswer": "C",
+     "explanation": "原文说纠错编码标志着从实验室走向实际应用迈出了关键一步。",
+     "options": [
+      {
+       "label": "A",
+       "text": "保持相干性"
+      },
+      {
+       "label": "B",
+       "text": "增加量子比特数量"
+      },
+      {
+       "label": "C",
+       "text": "实现纠错编码"
+      },
+      {
+       "label": "D",
+       "text": "消除环境噪声"
+      }
+     ]
+    },
+    {
+     "id": "q5",
+     "type": "listening-dictation",
+     "prompt": "量子计算面临的最大挑战是什么？",
+     "correctAnswer": "保持相干性",
+     "explanation": "原文明确指出如何保持其相干性仍是最大挑战。"
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "量子比特对环境中的什么极为敏感？",
+     "correctAnswer": "A",
+     "explanation": "原文提到量子比特对环境噪声极为敏感。",
+     "options": [
+      {
+       "label": "A",
+       "text": "噪声"
+      },
+      {
+       "label": "B",
+       "text": "温度"
+      },
+      {
+       "label": "C",
+       "text": "光照"
+      },
+      {
+       "label": "D",
+       "text": "磁场"
+      }
+     ]
+    }
+   ],
+   "audio": {
+    "key": "listening/v1/3814fb49b321b1353e0f9d5181a23f160ceeccb1b69cffc76fb00b535f12f0f3.mp3",
+    "lines": [
+     {
+      "speaker": "旁白",
+      "voice": "narrator",
+      "text": "近年来，量子计算领域取得了突破性进展。与传统计算机使用比特不同，量子计算机使用量子比特，可以同时处于0和1的叠加态，从而极大提升计算能力。2023年，某研究团队成功实现了1000个量子比特的纠错编码，这标志着量子计算从实验室走向实际应用迈出了关键一步。然而，量子比特对环境噪声极为敏感，如何保持其相干性仍是最大挑战。"
+     }
+    ],
+    "transcript": "近年来，量子计算领域取得了突破性进展。与传统计算机使用比特不同，量子计算机使用量子比特，可以同时处于0和1的叠加态，从而极大提升计算能力。2023年，某研究团队成功实现了1000个量子比特的纠错编码，这标志着量子计算从实验室走向实际应用迈出了关键一步。然而，量子比特对环境噪声极为敏感，如何保持其相干性仍是最大挑战。",
+    "transcriptPinyin": null
+   }
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

@@ -1,0 +1,289 @@
+{
+ "id": "hsk2-listening-p205",
+ "level": "2",
+ "section": "listening",
+ "partKey": "listening-p2",
+ "title": "HSK2 Listening P2",
+ "titleZh": "听力 第二部分（看图听对话）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "听对话，选出与对话内容相符的图片。每个对话只对应一张图片。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "A",
+     "explanation": "对话中女的说自己在跑步，与跑步的人图片相符。",
+     "audio": {
+      "key": "listening/v1/3be22f467a24933166339c96386793e7402bc8aa3c0a33360df04b9d7d0d57f3.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你在做什么？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我在跑步。"
+       }
+      ],
+      "transcript": "你在做什么？ 我在跑步。",
+      "transcriptPinyin": "nǐ zài zuò shén me ？  wǒ zài pǎo bù 。"
+     }
+    },
+    {
+     "id": "q2",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "B",
+     "explanation": "对话中提到一杯水，与一杯水的图片相符。",
+     "audio": {
+      "key": "listening/v1/6bc5aceee71403a301bffd20930d4771ce824218baeb5bb8e1ecd7be88beca02.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你要喝什么？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "一杯水，谢谢。"
+       }
+      ],
+      "transcript": "你要喝什么？ 一杯水，谢谢。",
+      "transcriptPinyin": "nǐ yào hē shén me ？  yī bēi shuǐ ， xiè xiè 。"
+     }
+    },
+    {
+     "id": "q3",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "C",
+     "explanation": "对话中提到了书，与一本书的图片相符。",
+     "audio": {
+      "key": "listening/v1/a772d6fdcd01e8a6e088c3932de9c2b1ae61285a9c5aea90e724626a763a7930.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "这是你的书吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "是的，我喜欢看书。"
+       }
+      ],
+      "transcript": "这是你的书吗？ 是的，我喜欢看书。",
+      "transcriptPinyin": "zhè shì nǐ de shū ma ？  shì de ， wǒ xǐ huān kàn shū 。"
+     }
+    },
+    {
+     "id": "q4",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "D",
+     "explanation": "对话中提到了苹果，与一个苹果的图片相符。",
+     "audio": {
+      "key": "listening/v1/f3d5c3ba248f0b9e1f9d545c0a19d36704334421494dee722005358aa9713666.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你吃苹果吗？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "吃，给我一个苹果。"
+       }
+      ],
+      "transcript": "你吃苹果吗？ 吃，给我一个苹果。",
+      "transcriptPinyin": "nǐ chī píng guǒ ma ？  chī ， gěi wǒ yí gè píng guǒ 。"
+     }
+    },
+    {
+     "id": "q5",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "E",
+     "explanation": "对话中提到了猫，与一只猫的图片相符。",
+     "audio": {
+      "key": "listening/v1/ec96b877b657448088bc0c75eedec2b008aeb7f22d235283a8e2910b52a7972b.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你家有猫吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "有，我有一只白猫。"
+       }
+      ],
+      "transcript": "你家有猫吗？ 有，我有一只白猫。",
+      "transcriptPinyin": "nǐ jiā yǒu māo ma ？  yǒu ， wǒ yǒu yī zhī bái māo 。"
+     }
+    },
+    {
+     "id": "q6",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "A",
+     "explanation": "对话中谈到跑步，与跑步的人图片相符。",
+     "audio": {
+      "key": "listening/v1/67a8c7645e07a2b2e41d100dee94230caa1f8da115755f2b3b46fb691316a3db.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "他每天跑步吗？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "是的，他喜欢跑步。"
+       }
+      ],
+      "transcript": "他每天跑步吗？ 是的，他喜欢跑步。",
+      "transcriptPinyin": "tā měi tiān pǎo bù ma ？  shì de ， tā xǐ huān pǎo bù 。"
+     }
+    },
+    {
+     "id": "q7",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "B",
+     "explanation": "对话中要一杯水，与一杯水的图片相符。",
+     "audio": {
+      "key": "listening/v1/5a98dfb703eb95e007e37d744805ff497e1c4ce6a8fca389b32d70a5313c1ac1.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "请给我一杯水。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "好的，马上来。"
+       }
+      ],
+      "transcript": "请给我一杯水。 好的，马上来。",
+      "transcriptPinyin": "qǐng gěi wǒ yī bēi shuǐ 。  hǎo de ， mǎ shàng lái 。"
+     }
+    },
+    {
+     "id": "q8",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "C",
+     "explanation": "对话中提到看书，与一本书的图片相符。",
+     "audio": {
+      "key": "listening/v1/0d62c69e91376351ee7debd1af27312500558f9c0098043e67996da547058dfd.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你在看什么？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我在看一本书。"
+       }
+      ],
+      "transcript": "你在看什么？ 我在看一本书。",
+      "transcriptPinyin": "nǐ zài kàn shén me ？  wǒ zài kàn yī běn shū 。"
+     }
+    },
+    {
+     "id": "q9",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "D",
+     "explanation": "对话中提到了苹果，与一个苹果的图片相符。",
+     "audio": {
+      "key": "listening/v1/86019743856caad95b4e2c6c65052ef44b47c4a66193d62d09a046c47fb99300.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你买了什么水果？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我买了苹果。"
+       }
+      ],
+      "transcript": "你买了什么水果？ 我买了苹果。",
+      "transcriptPinyin": "nǐ mǎi le shén me shuǐ guǒ ？  wǒ mǎi le píng guǒ 。"
+     }
+    },
+    {
+     "id": "q10",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "E",
+     "explanation": "对话中提到了猫，与一只猫的图片相符。",
+     "audio": {
+      "key": "listening/v1/0e55c089d4a5764998c8e80eabf583318d137a6802880949af107e0763b84105.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "那只猫很可爱。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "是的，它是我朋友的猫。"
+       }
+      ],
+      "transcript": "那只猫很可爱。 是的，它是我朋友的猫。",
+      "transcriptPinyin": "nà zhǐ māo hěn kě ài 。  shì de ， tā shì wǒ péng yǒu de māo 。"
+     }
+    }
+   ],
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-8540671d1b27c7526be222e47837c6da.png"
+    },
+    {
+     "label": "B",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-fcb959a4f31f2c66450f2ec45c89a1f6.png"
+    },
+    {
+     "label": "C",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-ae35964219d1b24bba10a2fba9551a06.png"
+    },
+    {
+     "label": "D",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-df700c02354d6d0e03088ba912eda91a.png"
+    },
+    {
+     "label": "E",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-51e467415607798220a3776f6ae1a2a0.png"
+    },
+    {
+     "label": "F",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-99511b7402c1d438e4b33553157af4ef.png"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

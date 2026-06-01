@@ -1,0 +1,675 @@
+{
+ "id": "hsk4-listening-p120",
+ "level": "4",
+ "section": "listening",
+ "partKey": "listening-p1",
+ "title": "HSK4 Listening P1",
+ "titleZh": "听力 第一部分（听对话选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听对话，然后根据对话内容选择正确答案。每题对话只播放一遍。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "女的为什么没来上课？",
+     "correctAnswer": "B",
+     "explanation": "女的说感冒头疼所以请假，说明她生病了。",
+     "audio": {
+      "key": "listening/v1/4e23e66fb25a19f4e73206592c95498eb207aed6ddcd412dc0e249f94174a8ea.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你昨天怎么没来上课？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我感冒了，头疼得厉害，所以请假了。"
+       }
+      ],
+      "transcript": "你昨天怎么没来上课？ 我感冒了，头疼得厉害，所以请假了。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "她迟到了"
+      },
+      {
+       "label": "B",
+       "text": "她生病了"
+      },
+      {
+       "label": "C",
+       "text": "她不想上课"
+      },
+      {
+       "label": "D",
+       "text": "她有事请假"
+      }
+     ]
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "女提议看电影，男同意，并决定看喜剧片，所以是看喜剧电影。",
+     "correctAnswer": "B",
+     "explanation": "",
+     "audio": {
+      "key": "listening/v1/1cc016d14a816377ad0e1890d3131535493e7edccb65624e37903a0963f865dc.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "周末我们去看电影吧？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "好主意，你想看什么类型的？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "听说新上映的喜剧片很有意思，我们就看那个吧。"
+       }
+      ],
+      "transcript": "周末我们去看电影吧？ 好主意，你想看什么类型的？ 听说新上映的喜剧片很有意思，我们就看那个吧。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "去公园"
+      },
+      {
+       "label": "B",
+       "text": "看喜剧电影"
+      },
+      {
+       "label": "C",
+       "text": "吃晚饭"
+      },
+      {
+       "label": "D",
+       "text": "逛街"
+      }
+     ]
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "手机现在的价格是多少？",
+     "correctAnswer": "B",
+     "explanation": "女说原价三千，打折后只要两千五，所以现在价格是两千五。",
+     "audio": {
+      "key": "listening/v1/39c7568a24732699f1355f81ec1d478d661b073f84b4e9935194db3e4ce3c4f9.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "这个手机多少钱？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "原价三千，现在打折，只要两千五。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "有点贵，能再便宜点儿吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "不好意思，这是最低价了。"
+       }
+      ],
+      "transcript": "这个手机多少钱？ 原价三千，现在打折，只要两千五。 有点贵，能再便宜点儿吗？ 不好意思，这是最低价了。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "三千元"
+      },
+      {
+       "label": "B",
+       "text": "两千五"
+      },
+      {
+       "label": "C",
+       "text": "三千五"
+      },
+      {
+       "label": "D",
+       "text": "两千元"
+      }
+     ]
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "男的是怎么学英语的？",
+     "correctAnswer": "B",
+     "explanation": "男的说每天坚持背单词，所以他通过背单词学英语。",
+     "audio": {
+      "key": "listening/v1/07b650d4c7747c9bf4ecfeab1bd9e71ade2922a9edc333de29d3cbb685f32da5.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你英语学得怎么样？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "还可以，我每天坚持背单词。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我也是，不过我觉得听力最难。"
+       }
+      ],
+      "transcript": "你英语学得怎么样？ 还可以，我每天坚持背单词。 我也是，不过我觉得听力最难。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "每天听英语新闻"
+      },
+      {
+       "label": "B",
+       "text": "每天背单词"
+      },
+      {
+       "label": "C",
+       "text": "每天和外国人聊天"
+      },
+      {
+       "label": "D",
+       "text": "每天看英文电影"
+      }
+     ]
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "他们在讨论什么？",
+     "correctAnswer": "D",
+     "explanation": "男说公司组织旅游，女说在考虑去哪，说明他们在讨论公司旅游。",
+     "audio": {
+      "key": "listening/v1/02926e07fd4db88d8625c321358541ca5ab98e4f366f774a84050499d3d18795.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我们公司下周要组织一次旅游，你报名了吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "还没有，我在考虑去哪儿。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "听说去海边很好玩，大家一起放松一下。"
+       }
+      ],
+      "transcript": "我们公司下周要组织一次旅游，你报名了吗？ 还没有，我在考虑去哪儿。 听说去海边很好玩，大家一起放松一下。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "报名的价格"
+      },
+      {
+       "label": "B",
+       "text": "周末的聚会"
+      },
+      {
+       "label": "C",
+       "text": "去海边游泳"
+      },
+      {
+       "label": "D",
+       "text": "公司旅游的事情"
+      }
+     ]
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "男的是什么时候开始跑步的？",
+     "correctAnswer": "A",
+     "explanation": "男的说现在六点半起床跑步，所以是早上六点半开始跑步。",
+     "audio": {
+      "key": "listening/v1/1017f75dac209e4128b6568c8dfb2d59d0d6849a9e2ea9243a74030ba9b64ae6.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你每天几点起床？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "以前七点，现在六点半，因为要跑步锻炼身体。"
+       }
+      ],
+      "transcript": "你每天几点起床？ 以前七点，现在六点半，因为要跑步锻炼身体。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "早上六点半"
+      },
+      {
+       "label": "B",
+       "text": "晚上七点"
+      },
+      {
+       "label": "C",
+       "text": "晚上六点半"
+      },
+      {
+       "label": "D",
+       "text": "早上七点"
+      }
+     ]
+    },
+    {
+     "id": "q7",
+     "type": "listening-mcq",
+     "prompt": "这本书是从哪里来的？",
+     "correctAnswer": "D",
+     "explanation": "女说从图书馆借来的，所以书来自图书馆。",
+     "audio": {
+      "key": "listening/v1/77248ce279d25a4b0974d9f04c3105bd77e5665d5b3c5da6195df7010068b575.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "这本书是你借的吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "不是，是我从图书馆借来的。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "哦，我可以看看吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "当然可以，不过别弄坏了。"
+       }
+      ],
+      "transcript": "这本书是你借的吗？ 不是，是我从图书馆借来的。 哦，我可以看看吗？ 当然可以，不过别弄坏了。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "朋友送的"
+      },
+      {
+       "label": "B",
+       "text": "书店买的"
+      },
+      {
+       "label": "C",
+       "text": "网上买的"
+      },
+      {
+       "label": "D",
+       "text": "图书馆借的"
+      }
+     ]
+    },
+    {
+     "id": "q8",
+     "type": "listening-mcq",
+     "prompt": "他们晚上要去吃什么？",
+     "correctAnswer": "D",
+     "explanation": "女提议去吃火锅，男没有反对，所以吃火锅。",
+     "audio": {
+      "key": "listening/v1/16fd79535d7339c3df22230e25ed9cbc2e0e1a7a4bd2a88fcaf5723201889b15.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "晚上你想吃什么？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "随便，你决定吧。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "那我们去吃火锅吧，好久没吃了。"
+       }
+      ],
+      "transcript": "晚上你想吃什么？ 随便，你决定吧。 那我们去吃火锅吧，好久没吃了。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "饺子"
+      },
+      {
+       "label": "B",
+       "text": "面条"
+      },
+      {
+       "label": "C",
+       "text": "米饭"
+      },
+      {
+       "label": "D",
+       "text": "火锅"
+      }
+     ]
+    },
+    {
+     "id": "q9",
+     "type": "listening-mcq",
+     "prompt": "女的汉语是在哪里学的？",
+     "correctAnswer": "C",
+     "explanation": "女说在北京留学时学的汉语，所以是在北京留学学的。",
+     "audio": {
+      "key": "listening/v1/6f82135160c5a679bf1190f25249043d2833f0b1c646e39f9cd263b9f2f2f23d.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你的汉语说得真好，在哪里学的？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "谢谢，我是在北京留学时学的。"
+       }
+      ],
+      "transcript": "你的汉语说得真好，在哪里学的？ 谢谢，我是在北京留学时学的。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "在网上学的"
+      },
+      {
+       "label": "B",
+       "text": "在学校学的"
+      },
+      {
+       "label": "C",
+       "text": "在北京留学学的"
+      },
+      {
+       "label": "D",
+       "text": "跟朋友学的"
+      }
+     ]
+    },
+    {
+     "id": "q10",
+     "type": "listening-mcq",
+     "prompt": "他们约好什么时候去看画展？",
+     "correctAnswer": "A",
+     "explanation": "女提议周六下午，男同意，所以是周六下午。",
+     "audio": {
+      "key": "listening/v1/f78726f777f0453daddd9e5ad0670d8db25420e14b8e758c959f5fbcdb7799cb.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你周末有时间吗？一起去看画展吧。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "周六上午我得加班，下午有空。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "那我们就周六下午去，怎么样？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "行，就这么定了。"
+       }
+      ],
+      "transcript": "你周末有时间吗？一起去看画展吧。 周六上午我得加班，下午有空。 那我们就周六下午去，怎么样？ 行，就这么定了。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "周六下午"
+      },
+      {
+       "label": "B",
+       "text": "周日上午"
+      },
+      {
+       "label": "C",
+       "text": "周六上午"
+      },
+      {
+       "label": "D",
+       "text": "周日下午"
+      }
+     ]
+    },
+    {
+     "id": "q11",
+     "type": "listening-mcq",
+     "prompt": "女的最近工作怎么样？",
+     "correctAnswer": "C",
+     "explanation": "女说挺忙的每天加班，所以工作比较忙。",
+     "audio": {
+      "key": "listening/v1/6c2182760978f8c3d4f3691432e1e8a1456442653ba6d4ba63284e0d8c249eed.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你最近工作忙吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "挺忙的，每天都要加班到很晚。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "那你要注意身体，别太累了。"
+       }
+      ],
+      "transcript": "你最近工作忙吗？ 挺忙的，每天都要加班到很晚。 那你要注意身体，别太累了。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "准备换工作"
+      },
+      {
+       "label": "B",
+       "text": "已经辞职"
+      },
+      {
+       "label": "C",
+       "text": "比较忙"
+      },
+      {
+       "label": "D",
+       "text": "很轻松"
+      }
+     ]
+    },
+    {
+     "id": "q12",
+     "type": "listening-mcq",
+     "prompt": "男的要喝什么？",
+     "correctAnswer": "A",
+     "explanation": "男说要茶，女说泡绿茶，所以男的要喝绿茶。",
+     "audio": {
+      "key": "listening/v1/6f28d1f7c4123590b9546d658df1d434ea32e9a31826b5fcf71f6530581c3b8a.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你喝咖啡还是茶？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "茶吧，咖啡晚上容易睡不着。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "好的，我给你泡一杯绿茶。"
+       }
+      ],
+      "transcript": "你喝咖啡还是茶？ 茶吧，咖啡晚上容易睡不着。 好的，我给你泡一杯绿茶。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "绿茶"
+      },
+      {
+       "label": "B",
+       "text": "果汁"
+      },
+      {
+       "label": "C",
+       "text": "咖啡"
+      },
+      {
+       "label": "D",
+       "text": "红茶"
+      }
+     ]
+    },
+    {
+     "id": "q13",
+     "type": "listening-mcq",
+     "prompt": "现在是周几？",
+     "correctAnswer": "D",
+     "explanation": "男说现在八点半还能待一会儿，说明图书馆九点关门，所以是平时，不是周末。因此是周一至周五中的一天，选项中只有星期一符合。",
+     "audio": {
+      "key": "listening/v1/08c7c51b84473148a86d8b7994cd410fb66aeab971ace84a831b882f337eb5a0.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "图书馆几点关门？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "平时九点，周末八点。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "现在八点半，还能再待一会儿。"
+       }
+      ],
+      "transcript": "图书馆几点关门？ 平时九点，周末八点。 现在八点半，还能再待一会儿。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "星期六"
+      },
+      {
+       "label": "B",
+       "text": "星期日"
+      },
+      {
+       "label": "C",
+       "text": "星期五"
+      },
+      {
+       "label": "D",
+       "text": "星期一"
+      }
+     ]
+    },
+    {
+     "id": "q14",
+     "type": "listening-mcq",
+     "prompt": "他们在哪里？",
+     "correctAnswer": "D",
+     "explanation": "女说在等公交车，所以是在公交车站。",
+     "audio": {
+      "key": "listening/v1/46b7ae1004eabf3bf9758ca1d8ff7fe23989aea109157b2f9c26a8a0da20f2e5.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你好，请问这个位置有人吗？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "没有，你可以坐这里。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "谢谢，我在等公交车。"
+       }
+      ],
+      "transcript": "你好，请问这个位置有人吗？ 没有，你可以坐这里。 谢谢，我在等公交车。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "火车站"
+      },
+      {
+       "label": "B",
+       "text": "飞机场"
+      },
+      {
+       "label": "C",
+       "text": "地铁站"
+      },
+      {
+       "label": "D",
+       "text": "公交车站"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

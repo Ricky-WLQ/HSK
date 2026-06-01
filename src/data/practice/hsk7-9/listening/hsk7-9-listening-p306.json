@@ -1,0 +1,143 @@
+{
+ "id": "hsk7-9-listening-p306",
+ "level": "7-9",
+ "section": "listening",
+ "partKey": "listening-p3",
+ "title": "HSK7-9 Listening P3",
+ "titleZh": "听力 第三部分（听讲座选填答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听一段关于中国古代建筑的讲座，然后回答问题。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-dictation",
+     "prompt": "斗拱由哪两部分组成？",
+     "correctAnswer": "斗和拱",
+     "explanation": "讲座中明确提到斗拱由斗和拱两部分组成。"
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "根据讲座，斗拱的主要功能是什么？",
+     "correctAnswer": "B",
+     "explanation": "讲座指出斗拱能将屋顶重量传递到柱子上，这是承重功能。",
+     "options": [
+      {
+       "label": "A",
+       "text": "装饰"
+      },
+      {
+       "label": "B",
+       "text": "承重"
+      },
+      {
+       "label": "C",
+       "text": "防火"
+      },
+      {
+       "label": "D",
+       "text": "隔音"
+      }
+     ]
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "斗拱如何提高建筑的抗震性能？",
+     "correctAnswer": "C",
+     "explanation": "讲座提到斗拱的榫卯结构通过变形吸收能量，提高抗震性能。",
+     "options": [
+      {
+       "label": "A",
+       "text": "使用弹性材料"
+      },
+      {
+       "label": "B",
+       "text": "增加重量"
+      },
+      {
+       "label": "C",
+       "text": "榫卯结构变形吸能"
+      },
+      {
+       "label": "D",
+       "text": "加强地基"
+      }
+     ]
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "文中所说的“榫卯结构”有什么特点？",
+     "correctAnswer": "C",
+     "explanation": "讲座描述榫卯结构在变形时吸收能量，但整体不散，体现韧性。",
+     "options": [
+      {
+       "label": "A",
+       "text": "非常柔软"
+      },
+      {
+       "label": "B",
+       "text": "连接牢固但刚性"
+      },
+      {
+       "label": "C",
+       "text": "能变形但不散"
+      },
+      {
+       "label": "D",
+       "text": "可拆卸"
+      }
+     ]
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "斗拱位于建筑的哪个部位？",
+     "correctAnswer": "D",
+     "explanation": "讲座明确说斗拱位于柱顶和屋架之间。",
+     "options": [
+      {
+       "label": "A",
+       "text": "梁上"
+      },
+      {
+       "label": "B",
+       "text": "屋顶上方"
+      },
+      {
+       "label": "C",
+       "text": "柱底"
+      },
+      {
+       "label": "D",
+       "text": "柱顶和屋架之间"
+      }
+     ]
+    },
+    {
+     "id": "q6",
+     "type": "listening-dictation",
+     "prompt": "填写：斗拱体现了中国古代工匠的______。",
+     "correctAnswer": "智慧",
+     "explanation": "讲座结尾说斗拱体现了中国古代工匠的智慧。"
+    }
+   ],
+   "audio": {
+    "key": "listening/v1/4a53ed5908af40981c6b4fddcba9667d84095312889f5197599dff669900baa0.mp3",
+    "lines": [
+     {
+      "speaker": "旁白",
+      "voice": "narrator",
+      "text": "大家好，今天我们来聊聊中国古代建筑中一个非常巧妙的结构——斗拱。斗拱是中国古建筑特有的结构，它由斗和拱两部分组成，位于柱顶和屋架之间。斗拱不仅具有装饰作用，更重要的是它能将屋顶的重量均匀地传递到柱子上，从而增强建筑的稳定性。此外，斗拱的榫卯结构使得建筑在遇到地震时能够通过自身的变形吸收能量，大大提高了抗震性能。这种结构体现了中国古代工匠的智慧，也使得许多古建筑历经千年仍然屹立不倒。"
+     }
+    ],
+    "transcript": "大家好，今天我们来聊聊中国古代建筑中一个非常巧妙的结构——斗拱。斗拱是中国古建筑特有的结构，它由斗和拱两部分组成，位于柱顶和屋架之间。斗拱不仅具有装饰作用，更重要的是它能将屋顶的重量均匀地传递到柱子上，从而增强建筑的稳定性。此外，斗拱的榫卯结构使得建筑在遇到地震时能够通过自身的变形吸收能量，大大提高了抗震性能。这种结构体现了中国古代工匠的智慧，也使得许多古建筑历经千年仍然屹立不倒。",
+    "transcriptPinyin": null
+   }
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

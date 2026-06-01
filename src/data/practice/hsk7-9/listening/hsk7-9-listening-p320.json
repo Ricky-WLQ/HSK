@@ -1,0 +1,143 @@
+{
+ "id": "hsk7-9-listening-p320",
+ "level": "7-9",
+ "section": "listening",
+ "partKey": "listening-p3",
+ "title": "HSK7-9 Listening P3",
+ "titleZh": "听力 第三部分（听讲座选填答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "听一段关于中医在现代医疗体系中角色的讲座，然后回答问题。注意：部分题目为填空，答案从听力原文中提取，不超过6个字。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "中医强调的基本观念是什么？",
+     "correctAnswer": "D",
+     "explanation": "讲座开头明确说'中医讲究整体观念'，这是其基本观念，阴阳平衡是进一步强调的内容。",
+     "options": [
+      {
+       "label": "A",
+       "text": "阴阳平衡"
+      },
+      {
+       "label": "B",
+       "text": "辨证论治"
+      },
+      {
+       "label": "C",
+       "text": "微观分析"
+      },
+      {
+       "label": "D",
+       "text": "整体观念"
+      }
+     ]
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "中医和现代医学的关系是怎样的？",
+     "correctAnswer": "A",
+     "explanation": "讲座中提到'两者看似矛盾，实则互补'，因此是互补关系。",
+     "options": [
+      {
+       "label": "A",
+       "text": "互补"
+      },
+      {
+       "label": "B",
+       "text": "互不相关"
+      },
+      {
+       "label": "C",
+       "text": "相互矛盾"
+      },
+      {
+       "label": "D",
+       "text": "完全一致"
+      }
+     ]
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "中医在现代医疗中应用的一个具体例子是什么？",
+     "correctAnswer": "B",
+     "explanation": "讲座举例说'在慢性疾病调理中，中医的辨证论治能够辅助西医治疗'，所以是慢性疾病调理。",
+     "options": [
+      {
+       "label": "A",
+       "text": "基因治疗"
+      },
+      {
+       "label": "B",
+       "text": "慢性疾病调理"
+      },
+      {
+       "label": "C",
+       "text": "传染病预防"
+      },
+      {
+       "label": "D",
+       "text": "急性手术"
+      }
+     ]
+    },
+    {
+     "id": "q4",
+     "type": "listening-dictation",
+     "prompt": "中医现代化需要什么支撑？",
+     "correctAnswer": "数据支撑",
+     "explanation": "讲座明确指出'中医的现代化需要数据支撑'，所以答案是'数据支撑'。"
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "中医辨证论治的作用是什么？",
+     "correctAnswer": "C",
+     "explanation": "讲座提到'中医的辨证论治能够辅助西医治疗，减少副作用'，所以作用是辅助并减少副作用。",
+     "options": [
+      {
+       "label": "A",
+       "text": "只用于诊断"
+      },
+      {
+       "label": "B",
+       "text": "完全替代西医"
+      },
+      {
+       "label": "C",
+       "text": "辅助西医治疗，减少副作用"
+      },
+      {
+       "label": "D",
+       "text": "无需临床试验"
+      }
+     ]
+    },
+    {
+     "id": "q6",
+     "type": "listening-dictation",
+     "prompt": "将两种理论融会贯通，仍是什么？",
+     "correctAnswer": "挑战",
+     "explanation": "讲座说'如何将两种理论融会贯通，仍是挑战'，所以答案是'挑战'。"
+    }
+   ],
+   "audio": {
+    "key": "listening/v1/9293f647e7f014d3f13c98c36377149358b4e6c7a3f5f462f17956bb6eadf8a0.mp3",
+    "lines": [
+     {
+      "speaker": "旁白",
+      "voice": "narrator",
+      "text": "大家好，今天我们来探讨中医在现代医疗体系中的角色。中医讲究整体观念，认为人体是一个有机整体，强调阴阳平衡。现代医学则注重微观分析。两者看似矛盾，实则互补。近年来，中西医结合取得了显著进展，例如在慢性疾病调理中，中医的辨证论治能够辅助西医治疗，减少副作用。但这条路并非一帆风顺，如何将两种理论融会贯通，仍是挑战。中医的现代化需要数据支撑，例如通过临床试验验证疗效，这样传统智慧才能被更广泛应用。"
+     }
+    ],
+    "transcript": "大家好，今天我们来探讨中医在现代医疗体系中的角色。中医讲究整体观念，认为人体是一个有机整体，强调阴阳平衡。现代医学则注重微观分析。两者看似矛盾，实则互补。近年来，中西医结合取得了显著进展，例如在慢性疾病调理中，中医的辨证论治能够辅助西医治疗，减少副作用。但这条路并非一帆风顺，如何将两种理论融会贯通，仍是挑战。中医的现代化需要数据支撑，例如通过临床试验验证疗效，这样传统智慧才能被更广泛应用。",
+    "transcriptPinyin": null
+   }
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

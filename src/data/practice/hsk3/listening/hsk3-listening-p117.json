@@ -1,0 +1,289 @@
+{
+ "id": "hsk3-listening-p117",
+ "level": "3",
+ "section": "listening",
+ "partKey": "listening-p1",
+ "title": "HSK3 Listening P1",
+ "titleZh": "听力 第一部分（看图听对话）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "听对话，选择与对话内容对应的图片。每题你将听到一段对话，对话中会提到图片中的场景或物品。请从A到F六幅图中选出最匹配的一幅。注意：有一幅图是多余的。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "A",
+     "explanation": "对话中女子说在看一本书，与图片A男子看书的场景相符。",
+     "audio": {
+      "key": "listening/v1/8a126e0c70711267493ff39512431edb6e52c958aca3eb27e1afbccdcf86ddd8.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你在干什么呢？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我在看这本书，很有意思。"
+       }
+      ],
+      "transcript": "你在干什么呢？ 我在看这本书，很有意思。",
+      "transcriptPinyin": "nǐ zài gàn shén me ne ？  wǒ zài kàn zhè běn shū ， hěn yǒu yì si 。"
+     }
+    },
+    {
+     "id": "q2",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "D",
+     "explanation": "对话提到跑步，与图片D男子跑步的场景一致。",
+     "audio": {
+      "key": "listening/v1/a0fa57e574d1932445f4dd6ad47ab20f1aba565c6731890fd56f321ab13ceedc.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你每天下午都锻炼吗？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "是的，我特别喜欢跑步。"
+       }
+      ],
+      "transcript": "你每天下午都锻炼吗？ 是的，我特别喜欢跑步。",
+      "transcriptPinyin": "nǐ měi tiān xià wǔ dōu duàn liàn ma ？  shì de ， wǒ tè bié xǐ huān pǎo bù 。"
+     }
+    },
+    {
+     "id": "q3",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "C",
+     "explanation": "对话中两人商量去吃饭，与图片C两人吃饭的场景对应。",
+     "audio": {
+      "key": "listening/v1/ee6c3edf34806e93055e0280f573475ab86b96c4fae2244037a6c349d13de92b.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我们一起去吃饭吧。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "好啊，我正好饿了。"
+       }
+      ],
+      "transcript": "我们一起去吃饭吧。 好啊，我正好饿了。",
+      "transcriptPinyin": "wǒ men yì qǐ qù chī fàn ba 。  hǎo a ， wǒ zhèng hǎo è le 。"
+     }
+    },
+    {
+     "id": "q4",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "B",
+     "explanation": "对话提到打电话，与图片B女子打电话的场景匹配。",
+     "audio": {
+      "key": "listening/v1/aaf202c5fe7f5707ba3de1cc8a9729001993f47b4b493006a72af798ea88d3f7.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你刚才给谁打电话？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "给我妈妈，问问她晚上吃什么。"
+       }
+      ],
+      "transcript": "你刚才给谁打电话？ 给我妈妈，问问她晚上吃什么。",
+      "transcriptPinyin": "nǐ gāng cái gěi shuí dǎ diàn huà ？  gěi wǒ mā mā ， wèn wèn tā wǎn shàng chī shén me 。"
+     }
+    },
+    {
+     "id": "q5",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "E",
+     "explanation": "对话涉及写字，与图片E女子写字的场景相符。",
+     "audio": {
+      "key": "listening/v1/114d74d4401b24ba01e83c69547fb78878a1675cb4dbbb423bec929555db43d9.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "她在写什么？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "她在写作业，明天要交。"
+       }
+      ],
+      "transcript": "她在写什么？ 她在写作业，明天要交。",
+      "transcriptPinyin": "tā zài xiě shén me ？  tā zài xiě zuò yè ， míng tiān yào jiāo 。"
+     }
+    },
+    {
+     "id": "q6",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "F",
+     "explanation": "对话说看电视，与图片F女子看电视的场景一致。",
+     "audio": {
+      "key": "listening/v1/bbeb46d2a1a9a06ee70491d7559bb8322e053e562cfeb07c8c19ad3fd45c3b8f.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "晚上你一般做什么？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "看电视，我最喜欢看新闻。"
+       }
+      ],
+      "transcript": "晚上你一般做什么？ 看电视，我最喜欢看新闻。",
+      "transcriptPinyin": "wǎn shàng nǐ yì bān zuò shén me ？  kàn diàn shì ， wǒ zuì xǐ huān kàn xīn wén 。"
+     }
+    },
+    {
+     "id": "q7",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "A",
+     "explanation": "对话再次提到看书，与图片A的阅读场景匹配。",
+     "audio": {
+      "key": "listening/v1/7dba3fa9cd06ad28fc2f0743fae50b7a30458602d816c7bc90c493a61c99e7cd.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "这本书你看了几天了？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "三天了，很快就能看完。"
+       }
+      ],
+      "transcript": "这本书你看了几天了？ 三天了，很快就能看完。",
+      "transcriptPinyin": "zhè běn shū nǐ kàn le jǐ tiān le ？  sān tiān le ， hěn kuài jiù néng kàn wán 。"
+     }
+    },
+    {
+     "id": "q8",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "D",
+     "explanation": "对话强调跑步速度快，与图片D跑步场景对应。",
+     "audio": {
+      "key": "listening/v1/fc48f41d1bb9222a94b9a230bb2b0e261cacde0f3d18c86d6a844bfa149cd866.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "他跑得真快啊。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "是啊，他每天练习跑步。"
+       }
+      ],
+      "transcript": "他跑得真快啊。 是啊，他每天练习跑步。",
+      "transcriptPinyin": "tā pǎo dé zhēn kuài a 。  shì a ， tā měi tiān liàn xí pǎo bù 。"
+     }
+    },
+    {
+     "id": "q9",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "E",
+     "explanation": "对话提到写字，与图片E写字的场景相符。",
+     "audio": {
+      "key": "listening/v1/13e92f4a10e4493b5879026261d45b4abcfb460b644c024c4f6b8c75a2bf98f5.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你妈妈是做什么的？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "她是老师，每天要写很多字。"
+       }
+      ],
+      "transcript": "你妈妈是做什么的？ 她是老师，每天要写很多字。",
+      "transcriptPinyin": "nǐ mā mā shì zuò shén me de ？  tā shì lǎo shī ， měi tiān yào xiě hěn duō zì 。"
+     }
+    },
+    {
+     "id": "q10",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "F",
+     "explanation": "对话讨论看电视，与图片F看电视的场景一致。",
+     "audio": {
+      "key": "listening/v1/4360eb5c8e03f2878efbca049c639c8a54564e46b75d4e544e49e61762cb7aa9.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "今晚有什么好看的电视吗？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "有一个新的电视剧，很不错。"
+       }
+      ],
+      "transcript": "今晚有什么好看的电视吗？ 有一个新的电视剧，很不错。",
+      "transcriptPinyin": "jīn wǎn yǒu shén me hǎo kàn de diàn shì ma ？  yǒu yí gè xīn de diàn shì jù ， hěn bú cuò 。"
+     }
+    }
+   ],
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-c0d358134ae2b9a7bfba05959f4f28a7.png"
+    },
+    {
+     "label": "B",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-be05af52809cb1be68a2b6b632ac9d19.png"
+    },
+    {
+     "label": "C",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-3aebf4689b6b56bf633bc3c135a405ea.png"
+    },
+    {
+     "label": "D",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-0609a7ca91f180edd7eec1e56829dfc7.png"
+    },
+    {
+     "label": "E",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-5389da58d6aef514ffb0121893df274b.png"
+    },
+    {
+     "label": "F",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-aa49ced4e1f93759b79a56f02716a9ac.png"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

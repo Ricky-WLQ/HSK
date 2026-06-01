@@ -1,0 +1,289 @@
+{
+ "id": "hsk3-listening-p111",
+ "level": "3",
+ "section": "listening",
+ "partKey": "listening-p1",
+ "title": "HSK3 Listening P1",
+ "titleZh": "听力 第一部分（看图听对话）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "听对话，选择与对话内容相符的图片。每段对话对应一幅图片。注意：有一幅图片是多余的。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "A",
+     "explanation": "对话中提到'手机'，与图片A手机相符。",
+     "audio": {
+      "key": "listening/v1/21d8814ca64914dd5024d9e1c6e58dabb0f430706b02fae6074f92eba2edbbb4.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你的手机在桌子上。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "哦，我忘了拿。"
+       }
+      ],
+      "transcript": "你的手机在桌子上。 哦，我忘了拿。",
+      "transcriptPinyin": "nǐ de shǒu jī zài zhuō zi shàng 。  ó ， wǒ wàng le ná 。"
+     }
+    },
+    {
+     "id": "q2",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "A",
+     "explanation": "对话中提到'打电话'，与图片A手机有关。",
+     "audio": {
+      "key": "listening/v1/ab321e64b6a2e6665e18bc8289f3cf2ea41d98adee9ca559bb876769fecafd66.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我打电话给妈妈。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "好的，我先去洗澡。"
+       }
+      ],
+      "transcript": "我打电话给妈妈。 好的，我先去洗澡。",
+      "transcriptPinyin": "wǒ dǎ diàn huà gěi mā mā 。  hǎo de ， wǒ xiān qù xǐ zǎo 。"
+     }
+    },
+    {
+     "id": "q3",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "B",
+     "explanation": "对话中提到'骑自行车'，与图片B自行车相符。",
+     "audio": {
+      "key": "listening/v1/3a49dc34f0c5c2e65c437a146cfcba432dcb7ea93f99c8cabfd238fb555dc279.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我们骑自行车去公园吧。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "好主意，天气很好。"
+       }
+      ],
+      "transcript": "我们骑自行车去公园吧。 好主意，天气很好。",
+      "transcriptPinyin": "wǒ men qí zì xíng chē qù gōng yuán ba 。  hǎo zhǔ yì ， tiān qì hěn hǎo 。"
+     }
+    },
+    {
+     "id": "q4",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "B",
+     "explanation": "对话中提到'自行车'，与图片B自行车相符。",
+     "audio": {
+      "key": "listening/v1/5ceb80ce8b234eaa97ad937266d1b107d2b17926ba5b25291e0464b16db0017a.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你的自行车很新。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "是的，我昨天买的。"
+       }
+      ],
+      "transcript": "你的自行车很新。 是的，我昨天买的。",
+      "transcriptPinyin": "nǐ de zì xíng chē hěn xīn 。  shì de ， wǒ zuó tiān mǎi de 。"
+     }
+    },
+    {
+     "id": "q5",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "C",
+     "explanation": "对话中提到'苹果'，与图片C苹果相符。",
+     "audio": {
+      "key": "listening/v1/6a3b21021deff60e58e88db2888198014fb2a41d30aaff0c342060614ccbdc2c.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你想吃什么水果？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我想吃一个苹果。"
+       }
+      ],
+      "transcript": "你想吃什么水果？ 我想吃一个苹果。",
+      "transcriptPinyin": "nǐ xiǎng chī shén me shuǐ guǒ ？  wǒ xiǎng chī yí gè píng guǒ 。"
+     }
+    },
+    {
+     "id": "q6",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "C",
+     "explanation": "对话中提到'苹果'，与图片C苹果相符。",
+     "audio": {
+      "key": "listening/v1/a710ca090a2c64d6805f20da0650432fa3d81b393b38a3e049b797097b29635a.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "这个苹果很甜。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "是啊，我很喜欢吃。"
+       }
+      ],
+      "transcript": "这个苹果很甜。 是啊，我很喜欢吃。",
+      "transcriptPinyin": "zhè ge píng guǒ hěn tián 。  shì a ， wǒ hěn xǐ huān chī 。"
+     }
+    },
+    {
+     "id": "q7",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "D",
+     "explanation": "对话中提到'书'，与图片D书本相符。",
+     "audio": {
+      "key": "listening/v1/fed7d833534ffdb32cdc1142aa11a490fe76f0a73421e7951d609233b6faa681.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "这本书很好看。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "是吗？我也想看看。"
+       }
+      ],
+      "transcript": "这本书很好看。 是吗？我也想看看。",
+      "transcriptPinyin": "zhè běn shū hěn hǎo kàn 。  shì ma ？ wǒ yě xiǎng kàn kàn 。"
+     }
+    },
+    {
+     "id": "q8",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "D",
+     "explanation": "对话中提到'看书'，与图片D书本相符。",
+     "audio": {
+      "key": "listening/v1/61f108501859cbfe633a87439deb372d96de716868e079a099bb1e6bf6bcd6f9.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我在看书，别打扰我。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "好的，对不起。"
+       }
+      ],
+      "transcript": "我在看书，别打扰我。 好的，对不起。",
+      "transcriptPinyin": "wǒ zài kàn shū ， bié dǎ rǎo wǒ 。  hǎo de ， duì bù qǐ 。"
+     }
+    },
+    {
+     "id": "q9",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "E",
+     "explanation": "对话中提到'钟'和'八点'，与图片E时钟相符。",
+     "audio": {
+      "key": "listening/v1/91022874a446126305d487caa6e922c626abdc40a8fc2a4423f36d63783acd06.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "现在几点了？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "看看墙上的钟，已经八点了。"
+       }
+      ],
+      "transcript": "现在几点了？ 看看墙上的钟，已经八点了。",
+      "transcriptPinyin": "xiàn zài jǐ diǎn le ？  kàn kàn qiáng shàng de zhōng ， yǐ jīng bā diǎn le 。"
+     }
+    },
+    {
+     "id": "q10",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "E",
+     "explanation": "对话中提到'钟'，与图片E时钟相符。",
+     "audio": {
+      "key": "listening/v1/a206360b95cb6933c0b6b1e8a9c81ddb50135d58094f7c56977f996110ac4f46.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "这个钟坏了。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "那我们买一个新的吧。"
+       }
+      ],
+      "transcript": "这个钟坏了。 那我们买一个新的吧。",
+      "transcriptPinyin": "zhè ge zhōng huài le 。  nà wǒ men mǎi yí gè xīn de ba 。"
+     }
+    }
+   ],
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-227a3531af3576b5a5e82d795d3e214e.png"
+    },
+    {
+     "label": "B",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-85e33507b804260198ecf14e6196e94e.png"
+    },
+    {
+     "label": "C",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-c7af50265fa0865b143db28ceba3cf05.png"
+    },
+    {
+     "label": "D",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-490614d83cbfcbf2d12d462b505bc832.png"
+    },
+    {
+     "label": "E",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-c89d5f198f82ebbc063a192faf1f6ce7.png"
+    },
+    {
+     "label": "F",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-fb62a8dd58e88e09630ac29451d834c8.png"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

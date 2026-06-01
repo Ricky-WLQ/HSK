@@ -1,0 +1,117 @@
+{
+ "id": "hsk2-listening-p104",
+ "level": "2",
+ "section": "listening",
+ "partKey": "listening-p1",
+ "title": "HSK2 Listening P1",
+ "titleZh": "听力 第一部分（看图判断）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "听句子，看图片，判断对错。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "对",
+     "explanation": "图片中的人正在看书，与句子内容一致。",
+     "audio": {
+      "key": "listening/v1/7318ea0dc2137fa427d38433371a44eaf2da442fe62f92d73c3dcce8f7c51de3.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "他在看书。"
+       }
+      ],
+      "transcript": "他在看书。",
+      "transcriptPinyin": "tā zài kàn shū 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-f557745cbb26457cc4d7be0bca2d9d5f.png"
+    },
+    {
+     "id": "q2",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "对",
+     "explanation": "图片中的妈妈在做饭，与句子内容一致。",
+     "audio": {
+      "key": "listening/v1/c528f91aff3ccb5fa56b2b0f4ffd3ebb93deca475d911fd91b169c3abc29e017.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "妈妈在做饭。"
+       }
+      ],
+      "transcript": "妈妈在做饭。",
+      "transcriptPinyin": "mā mā zài zuò fàn 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-194cece5634b5ad5fd561ef897f0d0db.png"
+    },
+    {
+     "id": "q3",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "对",
+     "explanation": "图片中的猫在椅子上，与句子内容一致。",
+     "audio": {
+      "key": "listening/v1/ffb29c818f770aac93691ed60c0aa62c854d5a898d2628f6b79caf9ed34dbf58.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "猫在椅子上。"
+       }
+      ],
+      "transcript": "猫在椅子上。",
+      "transcriptPinyin": "māo zài yǐ zi shàng 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-060e7dffe42150f8cbb9c2a10750bb5a.png"
+    },
+    {
+     "id": "q4",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "错",
+     "explanation": "图片中小狗在睡觉，而不是在喝水，与句子内容不符。",
+     "audio": {
+      "key": "listening/v1/ff8b4cb08b7b91596d18fd82fbe314e6ab4c28b02acb4eba5b6f6d3d2370ca8d.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "小狗在喝水。"
+       }
+      ],
+      "transcript": "小狗在喝水。",
+      "transcriptPinyin": "xiǎo gǒu zài hē shuǐ 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-cc0715f17fe4aeddeba4ca48007cfdfc.png"
+    },
+    {
+     "id": "q5",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "错",
+     "explanation": "图片中桌子上是香蕉，而不是苹果，与句子内容不符。",
+     "audio": {
+      "key": "listening/v1/3a23894d5ed4c0169e66fe85ef0931cd5f77d7eed67876b660e212670e57e65b.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "桌子上有一个苹果。"
+       }
+      ],
+      "transcript": "桌子上有一个苹果。",
+      "transcriptPinyin": "zhuō zi shàng yǒu yí gè píng guǒ 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-82ffdfd0283228347009d4ed76c73137.png"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

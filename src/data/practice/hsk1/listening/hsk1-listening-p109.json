@@ -1,0 +1,117 @@
+{
+ "id": "hsk1-listening-p109",
+ "level": "1",
+ "section": "listening",
+ "partKey": "listening-p1",
+ "title": "HSK1 Listening P1",
+ "titleZh": "听力 第一部分（看图判断）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "听句子，看图片，判断句子内容是否与图片一致。对的选'对'，错的选'错'。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "错",
+     "explanation": "句子说的是'我今天吃苹果'，图片显示一个人在吃苹果，所以一致。",
+     "audio": {
+      "key": "listening/v1/b03bc78fc32cb42f78516f990adbf9892cdf837cd1b2d1d3da8680d49bf7baea.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我今天吃苹果。"
+       }
+      ],
+      "transcript": "我今天吃苹果。",
+      "transcriptPinyin": "wǒ jīn tiān chī píng guǒ 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-fe4d0cd6c9b2c2458bf875ca9c21c9ff.png"
+    },
+    {
+     "id": "q2",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "错",
+     "explanation": "句子说'他在看电视'，但图片显示他在看书，所以不一致。",
+     "audio": {
+      "key": "listening/v1/d32e17f95bb7c8e4219effe97e44c827fbb1623a7d03a9ce3b7e2d6d15b66eeb.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "他在看电视。"
+       }
+      ],
+      "transcript": "他在看电视。",
+      "transcriptPinyin": "tā zài kàn diàn shì 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-19481a190fda585e7ff1c9f2a720f19e.png"
+    },
+    {
+     "id": "q3",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "对",
+     "explanation": "句子说的是'小猫在喝水'，图片显示一只猫在喝水，所以一致。",
+     "audio": {
+      "key": "listening/v1/83f1da4574d46b787bef3bfdd2df1ba1bf5bff383291b56a89f44e7b44af40dd.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "小猫在喝水。"
+       }
+      ],
+      "transcript": "小猫在喝水。",
+      "transcriptPinyin": "xiǎo māo zài hē shuǐ 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-30d024613240b620adc66b8d274d8f26.png"
+    },
+    {
+     "id": "q4",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "错",
+     "explanation": "句子说'妈妈在做饭'，但图片显示她在洗衣服，所以不一致。",
+     "audio": {
+      "key": "listening/v1/c528f91aff3ccb5fa56b2b0f4ffd3ebb93deca475d911fd91b169c3abc29e017.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "妈妈在做饭。"
+       }
+      ],
+      "transcript": "妈妈在做饭。",
+      "transcriptPinyin": "mā mā zài zuò fàn 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-4f40ba43fece14bca9beb8601017f04e.png"
+    },
+    {
+     "id": "q5",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "对",
+     "explanation": "句子说的是'弟弟在睡觉'，图片显示一个男孩在睡觉，所以一致。",
+     "audio": {
+      "key": "listening/v1/349f2a430f9416b96c49ea12bf2f9d88c0a8edda25200a5a586e0eb7ad325399.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "弟弟在睡觉。"
+       }
+      ],
+      "transcript": "弟弟在睡觉。",
+      "transcriptPinyin": "dì di zài shuì jiào 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-c7d05af9586020c9be8b6765f11b0a37.png"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

@@ -1,0 +1,457 @@
+{
+ "id": "hsk5-listening-p101",
+ "level": "5",
+ "section": "listening",
+ "partKey": "listening-p1",
+ "title": "HSK5 Listening P1",
+ "titleZh": "听力 第一部分（听对话选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听下面10段对话，每段对话后有一个问题，从A、B、C、D四个选项中选出最佳答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "女生的面试结果如何？",
+     "correctAnswer": "A",
+     "explanation": "女生说公司要求三年工作经验，她刚毕业不符合条件，所以面试失败。",
+     "audio": {
+      "key": "listening/v1/d3527c47323da5baf077a8b79034d40e30f8ffc3495a6ea0c409e7e0a1945ea4.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "小张，你昨天不是去面试了吗？结果怎么样？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "别提了，那个公司说要招有三年工作经验的，我才毕业，根本不符合条件。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "别灰心，再找找其他机会吧。"
+       }
+      ],
+      "transcript": "小张，你昨天不是去面试了吗？结果怎么样？ 别提了，那个公司说要招有三年工作经验的，我才毕业，根本不符合条件。 别灰心，再找找其他机会吧。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "因为没有经验被拒绝了"
+      },
+      {
+       "label": "B",
+       "text": "公司让她等通知"
+      },
+      {
+       "label": "C",
+       "text": "面试成功了"
+      },
+      {
+       "label": "D",
+       "text": "她放弃了面试"
+      }
+     ]
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "男生的意思是什么？",
+     "correctAnswer": "A",
+     "explanation": "男生说膝盖疼，医生建议少运动，暗示不能去爬山。",
+     "audio": {
+      "key": "listening/v1/983944bee9e60d42428da18ad130fb48d2e7c241bba021c47d2bd836457d2db1.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "这个周末我们去爬山吧，天气预报说天气不错。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我倒是想去，但我的膝盖最近有点疼，医生建议少做剧烈运动。"
+       }
+      ],
+      "transcript": "这个周末我们去爬山吧，天气预报说天气不错。 我倒是想去，但我的膝盖最近有点疼，医生建议少做剧烈运动。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "他膝盖受伤了，不能去"
+      },
+      {
+       "label": "B",
+       "text": "他想去爬山"
+      },
+      {
+       "label": "C",
+       "text": "他要去医院"
+      },
+      {
+       "label": "D",
+       "text": "他建议改天去"
+      }
+     ]
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "女生对新手机有什么不满意的地方？",
+     "correctAnswer": "C",
+     "explanation": "女生说电池不太耐用，一天充两次，说明电池续航能力差。",
+     "audio": {
+      "key": "listening/v1/d1ad4c1465e844028adc79bba027e4ff7205cee373ec8d127c41046dc670c2a0.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你新买的手机用起来怎么样？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "功能倒是挺全，就是电池不太耐用，一天得充两次。"
+       }
+      ],
+      "transcript": "你新买的手机用起来怎么样？ 功能倒是挺全，就是电池不太耐用，一天得充两次。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "屏幕太小"
+      },
+      {
+       "label": "B",
+       "text": "价格太贵"
+      },
+      {
+       "label": "C",
+       "text": "电池续航差"
+      },
+      {
+       "label": "D",
+       "text": "功能太少"
+      }
+     ]
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "关于裁员，男生是怎么认为的？",
+     "correctAnswer": "B",
+     "explanation": "男生说他们部门项目多人手不够，暗示不会被裁掉，很安全。",
+     "audio": {
+      "key": "listening/v1/91a4ad121c277c233e586a489d02516225331e7986720e86598c539f50374fa8.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你听说了吗？公司要裁员了。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "是啊，不过我们部门应该没事，我们最近项目多，人手还不够呢。"
+       }
+      ],
+      "transcript": "你听说了吗？公司要裁员了。 是啊，不过我们部门应该没事，我们最近项目多，人手还不够呢。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "他们部门也会被裁"
+      },
+      {
+       "label": "B",
+       "text": "他们部门很安全"
+      },
+      {
+       "label": "C",
+       "text": "他们部门需要加人"
+      },
+      {
+       "label": "D",
+       "text": "公司不会裁员"
+      }
+     ]
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "女生在说什么？",
+     "correctAnswer": "A",
+     "explanation": "女生说男生读得慢，她自己两天能看完一本，对比之下批评男生速度慢。",
+     "audio": {
+      "key": "listening/v1/5c2b1936b8306e4355d66925e4089ec7436aa89e347e6b784c79bd67941fb11b.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "这本书我看了一个星期了，才看了三分之一。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你读得也太慢了，我两天就能看完一本。"
+       }
+      ],
+      "transcript": "这本书我看了一个星期了，才看了三分之一。 你读得也太慢了，我两天就能看完一本。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "男生看书速度太慢"
+      },
+      {
+       "label": "B",
+       "text": "男生应该放慢速度"
+      },
+      {
+       "label": "C",
+       "text": "这本书很难懂"
+      },
+      {
+       "label": "D",
+       "text": "她不喜欢看书"
+      }
+     ]
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "男生对考试的态度是什么？",
+     "correctAnswer": "C",
+     "explanation": "男生说复习了好几遍，应该没问题，表明他很有信心。",
+     "audio": {
+      "key": "listening/v1/a0723ff19f09890b9861be3499109525ef2fe62109f219e15063714585f3beef.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "这次考试你准备得怎么样？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我复习了好几遍，应该没什么大问题。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "那就好，我还有点紧张呢。"
+       }
+      ],
+      "transcript": "这次考试你准备得怎么样？ 我复习了好几遍，应该没什么大问题。 那就好，我还有点紧张呢。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "不想参加考试"
+      },
+      {
+       "label": "B",
+       "text": "非常紧张"
+      },
+      {
+       "label": "C",
+       "text": "很有信心"
+      },
+      {
+       "label": "D",
+       "text": "完全没准备"
+      }
+     ]
+    },
+    {
+     "id": "q7",
+     "type": "listening-mcq",
+     "prompt": "女生对男生的提议有什么反应？",
+     "correctAnswer": "D",
+     "explanation": "女生表示不喜欢动作片，询问是否有爱情片或喜剧片，建议换类型。",
+     "audio": {
+      "key": "listening/v1/4f635c24d9782ed1d25c324e7df02d5e9bb9a052b5987a1bce4f5bf5f861e465.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "周末我们去看电影吧？新上映的那部动作片评分很高。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我不太喜欢动作片，有没有爱情片或者喜剧片？"
+       }
+      ],
+      "transcript": "周末我们去看电影吧？新上映的那部动作片评分很高。 我不太喜欢动作片，有没有爱情片或者喜剧片？",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "推荐了一部电影"
+      },
+      {
+       "label": "B",
+       "text": "同意了看动作片"
+      },
+      {
+       "label": "C",
+       "text": "不想看电影"
+      },
+      {
+       "label": "D",
+       "text": "建议换成其他类型"
+      }
+     ]
+    },
+    {
+     "id": "q8",
+     "type": "listening-mcq",
+     "prompt": "关于新房子，下列哪项是正确的？",
+     "correctAnswer": "A",
+     "explanation": "男生说装修工人还要等一个星期，所以是一周后完工。",
+     "audio": {
+      "key": "listening/v1/d75da372b6fb9ab861cd4f9b4e551ed546dd9ca96bb40ad9d585338230861c2f.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你的新房子装修好了吗？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "还没呢，装修工人说还要再等一个星期。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "那这个月能搬进去吗？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "应该可以，再等一周就完工了。"
+       }
+      ],
+      "transcript": "你的新房子装修好了吗？ 还没呢，装修工人说还要再等一个星期。 那这个月能搬进去吗？ 应该可以，再等一周就完工了。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "再过一周才能完工"
+      },
+      {
+       "label": "B",
+       "text": "装修工人不干了"
+      },
+      {
+       "label": "C",
+       "text": "这个月不能搬进去"
+      },
+      {
+       "label": "D",
+       "text": "已经装修完了"
+      }
+     ]
+    },
+    {
+     "id": "q9",
+     "type": "listening-mcq",
+     "prompt": "女生为了减肥做了什么？",
+     "correctAnswer": "B",
+     "explanation": "女生说自己每天跑步，晚饭吃得少，符合选项A。",
+     "audio": {
+      "key": "listening/v1/37f9e5276438b830d677e84a81af66383c69420d2e6fc7f88a45f2b738d2fb26.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你最近好像瘦了不少，是在减肥吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "是啊，我每天跑步，晚饭也吃得少了。"
+       }
+      ],
+      "transcript": "你最近好像瘦了不少，是在减肥吗？ 是啊，我每天跑步，晚饭也吃得少了。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "吃减肥药"
+      },
+      {
+       "label": "B",
+       "text": "每天跑步，少吃晚饭"
+      },
+      {
+       "label": "C",
+       "text": "只吃早饭和午饭"
+      },
+      {
+       "label": "D",
+       "text": "去健身房锻炼"
+      }
+     ]
+    },
+    {
+     "id": "q10",
+     "type": "listening-mcq",
+     "prompt": "男生迟到的原因是什么？",
+     "correctAnswer": "A",
+     "explanation": "男生说路上堵车厉害，虽然提前出发还是迟到，原因是堵车。",
+     "audio": {
+      "key": "listening/v1/72759ce5d264a84e89df32544fabcd8df0f1cdd8419bacb58bbdcc06aa7b5263.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你怎么才来？我等了你半个小时了。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "不好意思，路上堵车堵得厉害，我提前出发了还是迟到了。"
+       }
+      ],
+      "transcript": "你怎么才来？我等了你半个小时了。 不好意思，路上堵车堵得厉害，我提前出发了还是迟到了。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "路上交通堵塞"
+      },
+      {
+       "label": "B",
+       "text": "他出发晚了"
+      },
+      {
+       "label": "C",
+       "text": "他故意迟到"
+      },
+      {
+       "label": "D",
+       "text": "他迷路了"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

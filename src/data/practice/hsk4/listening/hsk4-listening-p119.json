@@ -1,0 +1,605 @@
+{
+ "id": "hsk4-listening-p119",
+ "level": "4",
+ "section": "listening",
+ "partKey": "listening-p1",
+ "title": "HSK4 Listening P1",
+ "titleZh": "听力 第一部分（听对话选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听对话，然后回答问题。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "女的是怎么来上班的？",
+     "correctAnswer": "A",
+     "explanation": "女的明确说坐地铁来的，所以交通方式是坐地铁。",
+     "audio": {
+      "key": "listening/v1/4cfad20c038ead1c368d71cf4665b4b3b8ed19bc1a585d63b4f64e8ae505fdf7.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你今天怎么来上班的？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "坐地铁来的。路上有点堵，但地铁很快。"
+       }
+      ],
+      "transcript": "你今天怎么来上班的？ 坐地铁来的。路上有点堵，但地铁很快。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "坐地铁"
+      },
+      {
+       "label": "B",
+       "text": "骑自行车"
+      },
+      {
+       "label": "C",
+       "text": "走路"
+      },
+      {
+       "label": "D",
+       "text": "开车"
+      }
+     ]
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "男的周末打算做什么？",
+     "correctAnswer": "B",
+     "explanation": "男的说去图书馆借书，然后在家看书，所以主要活动是去图书馆借书。",
+     "audio": {
+      "key": "listening/v1/3310928a6569d09dff73720c95f13d696497e17e654c63c378d789872716948c.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你周末打算做什么？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我打算去图书馆借几本书，然后在家看书。"
+       }
+      ],
+      "transcript": "你周末打算做什么？ 我打算去图书馆借几本书，然后在家看书。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "去朋友家玩"
+      },
+      {
+       "label": "B",
+       "text": "去图书馆借书"
+      },
+      {
+       "label": "C",
+       "text": "去公园散步"
+      },
+      {
+       "label": "D",
+       "text": "在家写作业"
+      }
+     ]
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "苹果的价格是多少？",
+     "correctAnswer": "C",
+     "explanation": "女的回答五块钱一斤，所以价格是五元。",
+     "audio": {
+      "key": "listening/v1/f4006235439b80f424fc16811cf8897ab7b6a57f6290050fcdfc8768decf6669.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "这个苹果多少钱一斤？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "五块钱一斤，很新鲜。你要买多少？"
+       }
+      ],
+      "transcript": "这个苹果多少钱一斤？ 五块钱一斤，很新鲜。你要买多少？",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "六块钱一斤"
+      },
+      {
+       "label": "B",
+       "text": "三块钱一斤"
+      },
+      {
+       "label": "C",
+       "text": "五块钱一斤"
+      },
+      {
+       "label": "D",
+       "text": "四块钱一斤"
+      }
+     ]
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "男的昨天为什么没来上课？",
+     "correctAnswer": "C",
+     "explanation": "男的说感冒了在家休息，所以理由是生病。",
+     "audio": {
+      "key": "listening/v1/0e73a0087c94c9ada8f7cbbc84fb639cf075601a3767aec934c22b22fcdf63a0.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你昨天怎么没来上课？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我感冒了，在家休息了一天。"
+       }
+      ],
+      "transcript": "你昨天怎么没来上课？ 我感冒了，在家休息了一天。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "他去看朋友了"
+      },
+      {
+       "label": "B",
+       "text": "他出去玩了"
+      },
+      {
+       "label": "C",
+       "text": "他感冒了"
+      },
+      {
+       "label": "D",
+       "text": "他不想上课"
+      }
+     ]
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "女的喜欢什么运动？",
+     "correctAnswer": "B",
+     "explanation": "女的明确说最喜欢打羽毛球，所以是羽毛球。",
+     "audio": {
+      "key": "listening/v1/b1c92eb49a500c77e16aad84f82a2bb08bee9aeaee07f1e1ee68a5975a2dd559.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你最喜欢什么运动？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我最喜欢打羽毛球，每个周末都打。"
+       }
+      ],
+      "transcript": "你最喜欢什么运动？ 我最喜欢打羽毛球，每个周末都打。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "打篮球"
+      },
+      {
+       "label": "B",
+       "text": "打羽毛球"
+      },
+      {
+       "label": "C",
+       "text": "跑步"
+      },
+      {
+       "label": "D",
+       "text": "游泳"
+      }
+     ]
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "去火车站应该怎么走？",
+     "correctAnswer": "A",
+     "explanation": "男的说往前走然后右转，所以是直走再右转。",
+     "audio": {
+      "key": "listening/v1/42bf9ec77b3e7f81fc362f0cc772d2a93f2878f474237ccdebdd62e120e61f79.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "请问，去火车站怎么走？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "往前走，到第一个路口右转，就能看到火车站了。"
+       }
+      ],
+      "transcript": "请问，去火车站怎么走？ 往前走，到第一个路口右转，就能看到火车站了。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "直走然后右转"
+      },
+      {
+       "label": "B",
+       "text": "先左转再直走"
+      },
+      {
+       "label": "C",
+       "text": "先右转再左转"
+      },
+      {
+       "label": "D",
+       "text": "直走然后左转"
+      }
+     ]
+    },
+    {
+     "id": "q7",
+     "type": "listening-mcq",
+     "prompt": "女的考了多少分？",
+     "correctAnswer": "B",
+     "explanation": "女的说只考了八十分，所以分数是80分。",
+     "audio": {
+      "key": "listening/v1/aeb569ff3114d446f8bf9761cdacfea700c8c84761cc42e21a9b384b39397d7e.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你这次考试考得怎么样？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "考得不太好，只考了八十分。"
+       }
+      ],
+      "transcript": "你这次考试考得怎么样？ 考得不太好，只考了八十分。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "六十分"
+      },
+      {
+       "label": "B",
+       "text": "八十分"
+      },
+      {
+       "label": "C",
+       "text": "九十分"
+      },
+      {
+       "label": "D",
+       "text": "七十分"
+      }
+     ]
+    },
+    {
+     "id": "q8",
+     "type": "listening-mcq",
+     "prompt": "男的晚上想吃什么？",
+     "correctAnswer": "D",
+     "explanation": "男的说要吃蔬菜沙拉，因为减肥。",
+     "audio": {
+      "key": "listening/v1/94df38ff1e2ce16bdaa2ab3a70a943f17d9326a12a6c86b0fb7fda0acc1cc81f.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你晚上想吃什么？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我最近在减肥，吃点蔬菜沙拉吧。"
+       }
+      ],
+      "transcript": "你晚上想吃什么？ 我最近在减肥，吃点蔬菜沙拉吧。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "面包"
+      },
+      {
+       "label": "B",
+       "text": "面条"
+      },
+      {
+       "label": "C",
+       "text": "米饭"
+      },
+      {
+       "label": "D",
+       "text": "蔬菜沙拉"
+      }
+     ]
+    },
+    {
+     "id": "q9",
+     "type": "listening-mcq",
+     "prompt": "女的觉得这件衣服怎么样？",
+     "correctAnswer": "D",
+     "explanation": "女的说颜色好看但大小不合适，所以问题在大小。",
+     "audio": {
+      "key": "listening/v1/140c856fb0acf3382ddacd0c2f7c94e7072dc67bcb03725b0931583cef9188ab.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "这件衣服你觉得怎么样？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "颜色很好看，但是大小不太合适。"
+       }
+      ],
+      "transcript": "这件衣服你觉得怎么样？ 颜色很好看，但是大小不太合适。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "颜色和大小都不好"
+      },
+      {
+       "label": "B",
+       "text": "颜色和大小都很好"
+      },
+      {
+       "label": "C",
+       "text": "颜色不好看"
+      },
+      {
+       "label": "D",
+       "text": "大小不合适"
+      }
+     ]
+    },
+    {
+     "id": "q10",
+     "type": "listening-mcq",
+     "prompt": "男的明天为什么不能去看电影？",
+     "correctAnswer": "C",
+     "explanation": "男的说要加班，所以明天没有空。",
+     "audio": {
+      "key": "listening/v1/f141cc4c48d00d9d67e289f6aa16d755976b47284c2022bf81e7345438e5f252.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你明天有空吗？我们一起去看电影吧。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "明天不行，我要加班。后天怎么样？"
+       }
+      ],
+      "transcript": "你明天有空吗？我们一起去看电影吧。 明天不行，我要加班。后天怎么样？",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "他要上课"
+      },
+      {
+       "label": "B",
+       "text": "他要去医院"
+      },
+      {
+       "label": "C",
+       "text": "他要加班"
+      },
+      {
+       "label": "D",
+       "text": "他要去看朋友"
+      }
+     ]
+    },
+    {
+     "id": "q11",
+     "type": "listening-mcq",
+     "prompt": "女的学中文多长时间了？",
+     "correctAnswer": "C",
+     "explanation": "女的说去年九月开始学，到现在一年，所以是一年。",
+     "audio": {
+      "key": "listening/v1/9d4ea5cd4797067b91d5d4aa47a8bb7602d048a1e10a2ef159841cab5c61888a.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你什么时候开始学中文的？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我去年九月开始学的，到现在已经一年了。"
+       }
+      ],
+      "transcript": "你什么时候开始学中文的？ 我去年九月开始学的，到现在已经一年了。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "两年"
+      },
+      {
+       "label": "B",
+       "text": "半年"
+      },
+      {
+       "label": "C",
+       "text": "一年"
+      },
+      {
+       "label": "D",
+       "text": "三年"
+      }
+     ]
+    },
+    {
+     "id": "q12",
+     "type": "listening-mcq",
+     "prompt": "男的父亲现在身体怎么样？",
+     "correctAnswer": "C",
+     "explanation": "男的说父亲感冒但已经好多了，所以情况是好转。",
+     "audio": {
+      "key": "listening/v1/887591ffd970bb8866f7f4ba62f6c036c4039bae8cd37085ae65300aa93cd189.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你父亲身体好吗？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "他最近感冒了，不过已经好多了。"
+       }
+      ],
+      "transcript": "你父亲身体好吗？ 他最近感冒了，不过已经好多了。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "更严重了"
+      },
+      {
+       "label": "B",
+       "text": "还在生病"
+      },
+      {
+       "label": "C",
+       "text": "好多了"
+      },
+      {
+       "label": "D",
+       "text": "完全好了"
+      }
+     ]
+    },
+    {
+     "id": "q13",
+     "type": "listening-mcq",
+     "prompt": "女的建议把车停在哪里？",
+     "correctAnswer": "A",
+     "explanation": "女的说这里不能停车，前面有停车场，所以建议去停车场。",
+     "audio": {
+      "key": "listening/v1/76f1164fe8d8547f9395d0fc1df41fe0347e2c5e74a89cfed5c114f5012d70c2.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "这里可以停车吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "不行，这里不让停车。前面有个停车场。"
+       }
+      ],
+      "transcript": "这里可以停车吗？ 不行，这里不让停车。前面有个停车场。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "停车场"
+      },
+      {
+       "label": "B",
+       "text": "路边"
+      },
+      {
+       "label": "C",
+       "text": "超市门口"
+      },
+      {
+       "label": "D",
+       "text": "这里"
+      }
+     ]
+    },
+    {
+     "id": "q14",
+     "type": "listening-mcq",
+     "prompt": "男的喜欢什么类型的音乐？",
+     "correctAnswer": "B",
+     "explanation": "男的说喜欢听轻音乐，因为能放松。",
+     "audio": {
+      "key": "listening/v1/742b2c45039ed6f271d6e1abb92b512f30bfdeb76f5eab24364fbbb92c45f74d.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你平时喜欢听什么音乐？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我比较喜欢听轻音乐，能让我放松。"
+       }
+      ],
+      "transcript": "你平时喜欢听什么音乐？ 我比较喜欢听轻音乐，能让我放松。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "古典音乐"
+      },
+      {
+       "label": "B",
+       "text": "轻音乐"
+      },
+      {
+       "label": "C",
+       "text": "摇滚音乐"
+      },
+      {
+       "label": "D",
+       "text": "流行音乐"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

@@ -1,0 +1,143 @@
+{
+ "id": "hsk7-9-listening-p216",
+ "level": "7-9",
+ "section": "listening",
+ "partKey": "listening-p2",
+ "title": "HSK7-9 Listening P2",
+ "titleZh": "听力 第二部分（听短文选填答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听一段关于脑机接口技术的科学报道，然后回答6个问题。其中4题为选择题，2题为填空题。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "脑机接口技术的主要目标是什么？",
+     "correctAnswer": "B",
+     "explanation": "短文第一句明确指出脑机接口旨在建立大脑与外部设备之间的直接通信通道，选项B与此一致。",
+     "options": [
+      {
+       "label": "A",
+       "text": "提高人类智力水平"
+      },
+      {
+       "label": "B",
+       "text": "建立大脑与外部设备的直接通信"
+      },
+      {
+       "label": "C",
+       "text": "延长人类寿命"
+      },
+      {
+       "label": "D",
+       "text": "治疗所有脑部疾病"
+      }
+     ]
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "根据短文，侵入式脑机接口的主要缺点是什么？",
+     "correctAnswer": "D",
+     "explanation": "短文中提到侵入式需要开颅植入电极，信号质量高但风险大，因此风险大是其主要缺点。",
+     "options": [
+      {
+       "label": "A",
+       "text": "精度较低"
+      },
+      {
+       "label": "B",
+       "text": "信号质量低"
+      },
+      {
+       "label": "C",
+       "text": "安全性差"
+      },
+      {
+       "label": "D",
+       "text": "风险大"
+      }
+     ]
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "目前，哪种方式的安全性更好？",
+     "correctAnswer": "B",
+     "explanation": "短文明确指出非侵入式安全性好，而侵入式风险大，因此非侵入式安全性更好。",
+     "options": [
+      {
+       "label": "A",
+       "text": "侵入式"
+      },
+      {
+       "label": "B",
+       "text": "非侵入式"
+      },
+      {
+       "label": "C",
+       "text": "文中未提及"
+      },
+      {
+       "label": "D",
+       "text": "两者一样"
+      }
+     ]
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "最新研究利用什么技术来解码神经信号？",
+     "correctAnswer": "B",
+     "explanation": "短文中明确提到“最新的研究尝试将AI算法用于解码神经信号”，因此答案是AI算法。",
+     "options": [
+      {
+       "label": "A",
+       "text": "深度学习"
+      },
+      {
+       "label": "B",
+       "text": "AI算法"
+      },
+      {
+       "label": "C",
+       "text": "大数据分析"
+      },
+      {
+       "label": "D",
+       "text": "机器学习"
+      }
+     ]
+    },
+    {
+     "id": "q5",
+     "type": "listening-dictation",
+     "prompt": "短文提到的两个伦理问题分别是隐私保护和________。",
+     "correctAnswer": "身份认同",
+     "explanation": "短文结尾提到伦理问题包括隐私保护和身份认同，填空处应填“身份认同”。"
+    },
+    {
+     "id": "q6",
+     "type": "listening-dictation",
+     "prompt": "专家呼吁在推进技术的同时必须建立严格的________。",
+     "correctAnswer": "法律法规",
+     "explanation": "短文最后一句说“必须建立严格的法律法规”，填空处应填“法律法规”。"
+    }
+   ],
+   "audio": {
+    "key": "listening/v1/3a6eb4a2e2f09c4988b4b086ede13ec1aad96004c20ab309980fbd531c701b18.mp3",
+    "lines": [
+     {
+      "speaker": "旁白",
+      "voice": "narrator",
+      "text": "脑机接口技术近年来发展迅猛，它旨在建立大脑与外部设备之间的直接通信通道。目前，该技术主要分为侵入式和非侵入式两种。侵入式需要开颅植入电极，信号质量高但风险大；非侵入式则通过头皮上的传感器采集脑电信号，安全性好但精度较低。最新的研究尝试将AI算法用于解码神经信号，使得用思维控制义肢成为可能。然而，伦理问题也随之而来，比如隐私保护和身份认同。专家呼吁在推进技术的同时，必须建立严格的法律法规。"
+     }
+    ],
+    "transcript": "脑机接口技术近年来发展迅猛，它旨在建立大脑与外部设备之间的直接通信通道。目前，该技术主要分为侵入式和非侵入式两种。侵入式需要开颅植入电极，信号质量高但风险大；非侵入式则通过头皮上的传感器采集脑电信号，安全性好但精度较低。最新的研究尝试将AI算法用于解码神经信号，使得用思维控制义肢成为可能。然而，伦理问题也随之而来，比如隐私保护和身份认同。专家呼吁在推进技术的同时，必须建立严格的法律法规。",
+    "transcriptPinyin": null
+   }
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

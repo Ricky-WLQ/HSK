@@ -1,0 +1,179 @@
+{
+ "id": "hsk4-listening-p204",
+ "level": "4",
+ "section": "listening",
+ "partKey": "listening-p2",
+ "title": "HSK4 Listening P2",
+ "titleZh": "听力 第二部分（听短文选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "听下面一段独白，然后回答6个问题。每个问题有四个选项，请选择正确答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "中秋节是在哪一天？",
+     "correctAnswer": "B",
+     "explanation": "独白明确说“中秋节是在农历八月十五”，因此正确答案是农历八月十五。",
+     "options": [
+      {
+       "label": "A",
+       "text": "公历八月十六"
+      },
+      {
+       "label": "B",
+       "text": "农历八月十五"
+      },
+      {
+       "label": "C",
+       "text": "农历八月十六"
+      },
+      {
+       "label": "D",
+       "text": "公历八月十五"
+      }
+     ]
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "中秋节最重要的活动是什么？",
+     "correctAnswer": "A",
+     "explanation": "独白提到“中秋节最重要的活动是家人团聚，一起吃月饼、赏月”，所以选项C最符合。",
+     "options": [
+      {
+       "label": "A",
+       "text": "家人团聚并吃月饼"
+      },
+      {
+       "label": "B",
+       "text": "放鞭炮"
+      },
+      {
+       "label": "C",
+       "text": "吃粽子"
+      },
+      {
+       "label": "D",
+       "text": "登高"
+      }
+     ]
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "月饼象征着什么？",
+     "correctAnswer": "B",
+     "explanation": "独白说“月饼是圆形的，象征着团圆”，因此正确答案是团圆。",
+     "options": [
+      {
+       "label": "A",
+       "text": "快乐"
+      },
+      {
+       "label": "B",
+       "text": "团圆"
+      },
+      {
+       "label": "C",
+       "text": "健康"
+      },
+      {
+       "label": "D",
+       "text": "丰收"
+      }
+     ]
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "中秋节时，有些地方会举办什么活动？",
+     "correctAnswer": "C",
+     "explanation": "独白提到“有些地方还会举办灯会，人们提着灯笼游玩”，所以选项B正确。",
+     "options": [
+      {
+       "label": "A",
+       "text": "赛龙舟"
+      },
+      {
+       "label": "B",
+       "text": "放风筝"
+      },
+      {
+       "label": "C",
+       "text": "灯会"
+      },
+      {
+       "label": "D",
+       "text": "舞狮"
+      }
+     ]
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "根据独白，为什么中秋节也是思念亲人的日子？",
+     "correctAnswer": "A",
+     "explanation": "独白说“中秋节也是思念亲人的日子，很多在外工作的人会尽量回家”，隐含了不能回家的人会思念亲人，所以选项B最符合。",
+     "options": [
+      {
+       "label": "A",
+       "text": "因为很多人不能回家"
+      },
+      {
+       "label": "B",
+       "text": "因为天气太冷"
+      },
+      {
+       "label": "C",
+       "text": "因为月饼不好吃"
+      },
+      {
+       "label": "D",
+       "text": "因为月亮不圆"
+      }
+     ]
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "中秋节放几天假？",
+     "correctAnswer": "A",
+     "explanation": "独白最后一句说“人们通常会放假三天”，所以正确答案是三天。",
+     "options": [
+      {
+       "label": "A",
+       "text": "三天"
+      },
+      {
+       "label": "B",
+       "text": "一天"
+      },
+      {
+       "label": "C",
+       "text": "七天"
+      },
+      {
+       "label": "D",
+       "text": "两天"
+      }
+     ]
+    }
+   ],
+   "audio": {
+    "key": "listening/v1/83ebde624e0ad9f96e11c3c41d587aec79c79f485c9ac830aa270633488a229b.mp3",
+    "lines": [
+     {
+      "speaker": "旁白",
+      "voice": "narrator",
+      "text": "大家好。今天我来介绍一下中国的传统节日——中秋节。中秋节是在农历八月十五，这一天月亮最圆最亮。中秋节最重要的活动是家人团聚，一起吃月饼、赏月。月饼是圆形的，象征着团圆。除了吃月饼，有些地方还会举办灯会，人们提着灯笼游玩。中秋节也是思念亲人的日子，很多在外工作的人会尽量回家。如果无法回家，他们也会打电话或发信息给家人。现在，中秋节被列为中国的法定假日，人们通常会放假三天。"
+     }
+    ],
+    "transcript": "大家好。今天我来介绍一下中国的传统节日——中秋节。中秋节是在农历八月十五，这一天月亮最圆最亮。中秋节最重要的活动是家人团聚，一起吃月饼、赏月。月饼是圆形的，象征着团圆。除了吃月饼，有些地方还会举办灯会，人们提着灯笼游玩。中秋节也是思念亲人的日子，很多在外工作的人会尽量回家。如果无法回家，他们也会打电话或发信息给家人。现在，中秋节被列为中国的法定假日，人们通常会放假三天。",
+    "transcriptPinyin": null
+   }
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

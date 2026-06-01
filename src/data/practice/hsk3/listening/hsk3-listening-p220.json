@@ -1,0 +1,487 @@
+{
+ "id": "hsk3-listening-p220",
+ "level": "3",
+ "section": "listening",
+ "partKey": "listening-p2",
+ "title": "HSK3 Listening P2",
+ "titleZh": "听力 第二部分（听对话选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "听对话，选择正确答案。每一段对话后有3个选项，请根据对话内容选出唯一正确的答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "女告诉男怎么去图书馆？",
+     "correctAnswer": "A",
+     "explanation": "对话中女说“在第二个路口右转”，所以是右转，不是左转或直走。",
+     "audio": {
+      "key": "listening/v1/7bcd9205de560d9ab0bf371ef683c02895b6ef192623e9b76ff9a74fbfc89969.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你好，请问图书馆怎么走？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "一直往前走，在第二个路口右转就到了。"
+       }
+      ],
+      "transcript": "你好，请问图书馆怎么走？ 一直往前走，在第二个路口右转就到了。",
+      "transcriptPinyin": "nǐ hǎo ， qǐng wèn tú shū guǎn zěn me zǒu ？  yì zhí wǎng qián zǒu ， zài dì èr gè lù kǒu yòu zhuǎn jiù dào le 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "一直往前走，然后右转",
+       "pinyin": "yì zhí wǎng qián zǒu ， rán hòu yòu zhuǎn"
+      },
+      {
+       "label": "B",
+       "text": "一直往前走，然后直走",
+       "pinyin": "yì zhí wǎng qián zǒu ， rán hòu zhí zǒu"
+      },
+      {
+       "label": "C",
+       "text": "一直往前走，然后左转",
+       "pinyin": "yì zhí wǎng qián zǒu ， rán hòu zuǒ zhuǎn"
+      }
+     ],
+     "pinyin": "nǚ gào sù nán zěn me qù tú shū guǎn ？"
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "两个人都要吃什么？",
+     "correctAnswer": "C",
+     "explanation": "对话中女说“我要一碗牛肉面”，男说“我也来一碗”，所以两个人都要吃牛肉面。",
+     "audio": {
+      "key": "listening/v1/b5447605c0d87d12873347ceae60f24d100e9c795ac8f21389478a36ae615a3d.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你吃什么？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我要一碗牛肉面，你呢？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我也来一碗吧。"
+       }
+      ],
+      "transcript": "你吃什么？ 我要一碗牛肉面，你呢？ 我也来一碗吧。",
+      "transcriptPinyin": "nǐ chī shén me ？  wǒ yào yī wǎn niú ròu miàn ， nǐ ne ？  wǒ yě lái yī wǎn ba 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "炒饭",
+       "pinyin": "chǎo fàn"
+      },
+      {
+       "label": "B",
+       "text": "鸡蛋面",
+       "pinyin": "jī dàn miàn"
+      },
+      {
+       "label": "C",
+       "text": "牛肉面",
+       "pinyin": "niú ròu miàn"
+      }
+     ],
+     "pinyin": "liǎng gè rén dōu yào chī shén me ？"
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "这件衣服现在多少钱？",
+     "correctAnswer": "B",
+     "explanation": "对话中男说“现在打折，只要二百四十块”，所以是二百四十块。",
+     "audio": {
+      "key": "listening/v1/d886f37fc203fc84ee04a97250fcc10ab46f3b9d5f20a5a7c55514def74e9a73.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "这件衣服多少钱？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "三百块，现在打折，只要二百四十块。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "好，我买了。"
+       }
+      ],
+      "transcript": "这件衣服多少钱？ 三百块，现在打折，只要二百四十块。 好，我买了。",
+      "transcriptPinyin": "zhè jiàn yī fú duō shǎo qián ？  sān bǎi kuài ， xiàn zài dǎ zhé ， zhǐ yào èr bǎi sì shí kuài 。  hǎo ， wǒ mǎi le 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "三百块",
+       "pinyin": "sān bǎi kuài"
+      },
+      {
+       "label": "B",
+       "text": "二百四十块",
+       "pinyin": "èr bǎi sì shí kuài"
+      },
+      {
+       "label": "C",
+       "text": "二百块",
+       "pinyin": "èr bǎi kuài"
+      }
+     ],
+     "pinyin": "zhè jiàn yī fú xiàn zài duō shǎo qián ？"
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "他们明天几点见面？",
+     "correctAnswer": "A",
+     "explanation": "对话中女说“下午三点怎么样”，男同意，所以是下午三点。",
+     "audio": {
+      "key": "listening/v1/2b80eecfc3ff96674855bcc89eb95214f6c42b32bb49493bab859f834dcbc0e9.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "明天我们几点见面？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "下午三点怎么样？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "好的，下午三点见。"
+       }
+      ],
+      "transcript": "明天我们几点见面？ 下午三点怎么样？ 好的，下午三点见。",
+      "transcriptPinyin": "míng tiān wǒ men jǐ diǎn jiàn miàn ？  xià wǔ sān diǎn zěn me yàng ？  hǎo de ， xià wǔ sān diǎn jiàn 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "下午三点",
+       "pinyin": "xià wǔ sān diǎn"
+      },
+      {
+       "label": "B",
+       "text": "下午一点",
+       "pinyin": "xià wǔ yì diǎn"
+      },
+      {
+       "label": "C",
+       "text": "上午三点",
+       "pinyin": "shàng wǔ sān diǎn"
+      }
+     ],
+     "pinyin": "tā men míng tiān jǐ diǎn jiàn miàn ？"
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "男住在哪儿？",
+     "correctAnswer": "C",
+     "explanation": "对话中男说“我住在学校附近”，所以是学校附近，不是里面也不是对面。",
+     "audio": {
+      "key": "listening/v1/ce8132fbe3d6b32b7b0579eddc726474ca5abb450d6b428a9af3ae314b40a4e4.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你住在哪儿？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我住在学校附近，走路只要五分钟。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "那很方便。"
+       }
+      ],
+      "transcript": "你住在哪儿？ 我住在学校附近，走路只要五分钟。 那很方便。",
+      "transcriptPinyin": "nǐ zhù zài nǎ ér ？  wǒ zhù zài xué xiào fù jìn ， zǒu lù zhǐ yào wǔ fēn zhōng 。  nà hěn fāng biàn 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "学校里面",
+       "pinyin": "xué xiào lǐ miàn"
+      },
+      {
+       "label": "B",
+       "text": "学校对面",
+       "pinyin": "xué xiào duì miàn"
+      },
+      {
+       "label": "C",
+       "text": "学校附近",
+       "pinyin": "xué xiào fù jìn"
+      }
+     ],
+     "pinyin": "nán zhù zài nǎ ér ？"
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "女会游泳吗？",
+     "correctAnswer": "A",
+     "explanation": "对话中女说“会，我去年学会了”，所以她会游泳。",
+     "audio": {
+      "key": "listening/v1/f0b920e5df8650bd1ceaec8cb9803b65caaa3e3583a228249a1d99ab6431b56b.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你会游泳吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "会，我去年学会了。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "那太好了，周末我们一起去游泳吧。"
+       }
+      ],
+      "transcript": "你会游泳吗？ 会，我去年学会了。 那太好了，周末我们一起去游泳吧。",
+      "transcriptPinyin": "nǐ huì yóu yǒng ma ？  huì ， wǒ qù nián xué huì le 。  nà tài hǎo le ， zhōu mò wǒ men yì qǐ qù yóu yǒng ba 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "会",
+       "pinyin": "huì"
+      },
+      {
+       "label": "B",
+       "text": "可能不会",
+       "pinyin": "kě néng bú huì"
+      },
+      {
+       "label": "C",
+       "text": "不会",
+       "pinyin": "bú huì"
+      }
+     ],
+     "pinyin": "nǚ huì yóu yǒng ma ？"
+    },
+    {
+     "id": "q7",
+     "type": "listening-mcq",
+     "prompt": "男最近怎么样？",
+     "correctAnswer": "A",
+     "explanation": "对话中男说“很忙，每天都要加班”，所以是很忙。",
+     "audio": {
+      "key": "listening/v1/aaec30852ab56b122c9118d65ea86168ee23199e12df3f69ad0571cd8ec71c98.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你最近忙不忙？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "很忙，每天都要加班。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "那你要注意休息。"
+       }
+      ],
+      "transcript": "你最近忙不忙？ 很忙，每天都要加班。 那你要注意休息。",
+      "transcriptPinyin": "nǐ zuì jìn máng bù máng ？  hěn máng ， měi tiān dōu yào jiā bān 。  nà nǐ yào zhù yì xiū xī 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "很忙",
+       "pinyin": "hěn máng"
+      },
+      {
+       "label": "B",
+       "text": "很累",
+       "pinyin": "hěn lèi"
+      },
+      {
+       "label": "C",
+       "text": "很闲",
+       "pinyin": "hěn xián"
+      }
+     ],
+     "pinyin": "nán zuì jìn zěn me yàng ？"
+    },
+    {
+     "id": "q8",
+     "type": "listening-mcq",
+     "prompt": "女觉得咖啡怎么样？",
+     "correctAnswer": "C",
+     "explanation": "对话中女说“很好喝，有一点甜”，所以是很好喝，有点甜。",
+     "audio": {
+      "key": "listening/v1/1af47549db726b21fb376722f469481099ca9c5b77b78cea623198835aaee914.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "这杯咖啡味道怎么样？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "很好喝，有一点甜。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "那我再给你加一点糖吧。"
+       }
+      ],
+      "transcript": "这杯咖啡味道怎么样？ 很好喝，有一点甜。 那我再给你加一点糖吧。",
+      "transcriptPinyin": "zhè bēi kā fēi wèi dào zěn me yàng ？  hěn hǎo hē ， yǒu yì diǎn tián 。  nà wǒ zài gěi nǐ jiā yì diǎn táng ba 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "不好喝，太甜",
+       "pinyin": "bù hǎo hē ， tài tián"
+      },
+      {
+       "label": "B",
+       "text": "不好喝，不甜",
+       "pinyin": "bù hǎo hē ， bù tián"
+      },
+      {
+       "label": "C",
+       "text": "很好喝，有点甜",
+       "pinyin": "hěn hǎo hē ， yǒu diǎn tián"
+      }
+     ],
+     "pinyin": "nǚ jué de kā fēi zěn me yàng ？"
+    },
+    {
+     "id": "q9",
+     "type": "listening-mcq",
+     "prompt": "男什么时候去北京？",
+     "correctAnswer": "A",
+     "explanation": "对话中男说“下个星期一”，所以是下个星期一。",
+     "audio": {
+      "key": "listening/v1/7026dd745b018751d6a9ebbab367889d76c5d7036f128a7e0b48015e9707dd8b.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你什么时候去北京？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "下个星期一。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "坐飞机去吗？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "对，上午八点的飞机。"
+       }
+      ],
+      "transcript": "你什么时候去北京？ 下个星期一。 坐飞机去吗？ 对，上午八点的飞机。",
+      "transcriptPinyin": "nǐ shén me shí hòu qù běi jīng ？  xià gè xīng qī yī 。  zuò fēi jī qù ma ？  duì ， shàng wǔ bā diǎn de fēi jī 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "下个星期一",
+       "pinyin": "xià gè xīng qī yī"
+      },
+      {
+       "label": "B",
+       "text": "这个星期一",
+       "pinyin": "zhè ge xīng qī yī"
+      },
+      {
+       "label": "C",
+       "text": "下个星期三",
+       "pinyin": "xià gè xīng qī sān"
+      }
+     ],
+     "pinyin": "nán shén me shí hòu qù běi jīng ？"
+    },
+    {
+     "id": "q10",
+     "type": "listening-mcq",
+     "prompt": "女的手机号码是多少？",
+     "correctAnswer": "C",
+     "explanation": "对话中女说“13812345678”，所以是这个号码。",
+     "audio": {
+      "key": "listening/v1/62335d366329bfeb4918a0fd1d6721849db4b02fe597d715dab516cdab311b4a.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你的手机号码是多少？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "13812345678。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "好的，我记下了。"
+       }
+      ],
+      "transcript": "你的手机号码是多少？ 13812345678。 好的，我记下了。",
+      "transcriptPinyin": "nǐ de shǒu jī hào mǎ shì duō shǎo ？ 13812345678。  hǎo de ， wǒ jì xià le 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "13812345679",
+       "pinyin": "13812345679"
+      },
+      {
+       "label": "B",
+       "text": "13812345677",
+       "pinyin": "13812345677"
+      },
+      {
+       "label": "C",
+       "text": "13812345678",
+       "pinyin": "13812345678"
+      }
+     ],
+     "pinyin": "nǚ de shǒu jī hào mǎ shì duō shǎo ？"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

@@ -1,0 +1,289 @@
+{
+ "id": "hsk3-listening-p105",
+ "level": "3",
+ "section": "listening",
+ "partKey": "listening-p1",
+ "title": "HSK3 Listening P1",
+ "titleZh": "听力 第一部分（看图听对话）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听下面的对话，选择与对话内容相关的图片。图片有A到F，每个对话只对应一张图片。注意：有一张图片没有被使用。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "A",
+     "explanation": "对话中提到在家看书，与图片A（看书的人）相符。",
+     "audio": {
+      "key": "listening/v1/e92e7ff144d4d446bd91eb1b1297cc0ba1bed8afbf73ee2d5e53e30bc8e2de5e.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你周末做什么？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我在家看了一本书。"
+       }
+      ],
+      "transcript": "你周末做什么？ 我在家看了一本书。",
+      "transcriptPinyin": "nǐ zhōu mò zuò shén me ？  wǒ zài jiā kàn le yī běn shū 。"
+     }
+    },
+    {
+     "id": "q2",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "B",
+     "explanation": "对话提到狗在跑，与图片B（跑动的狗）相符。",
+     "audio": {
+      "key": "listening/v1/ed9e1d041d31225bfb304a4bc7462dd79aea88751272549741f889338902ab8e.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "那只狗跑得真快！"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "是啊，它是我的狗。"
+       }
+      ],
+      "transcript": "那只狗跑得真快！ 是啊，它是我的狗。",
+      "transcriptPinyin": "nà zhǐ gǒu pǎo dé zhēn kuài ！  shì a ， tā shì wǒ de gǒu 。"
+     }
+    },
+    {
+     "id": "q3",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "C",
+     "explanation": "对话提到要一杯茶，与图片C（一杯茶）相符。",
+     "audio": {
+      "key": "listening/v1/6ddc6e42489a89740f14c8ad3be792b58c9f2e04d8dcd9615682e27be336be36.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你想喝什么？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "给我一杯茶吧。"
+       }
+      ],
+      "transcript": "你想喝什么？ 给我一杯茶吧。",
+      "transcriptPinyin": "nǐ xiǎng hē shén me ？  gěi wǒ yī bēi chá ba 。"
+     }
+    },
+    {
+     "id": "q4",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "D",
+     "explanation": "对话提到一家人吃饭，与图片D（家人吃饭）相符。",
+     "audio": {
+      "key": "listening/v1/041d82be91a816267d8c0913e4c46b57334cfaee2f2b0e894ef7a100a9dc6738.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "昨天我们一家人一起吃饭了。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "真好啊！"
+       }
+      ],
+      "transcript": "昨天我们一家人一起吃饭了。 真好啊！",
+      "transcriptPinyin": "zuó tiān wǒ men yī jiā rén yì qǐ chī fàn le 。  zhēn hǎo a ！"
+     }
+    },
+    {
+     "id": "q5",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "E",
+     "explanation": "对话提到老师在黑板上写字，与图片E（老师板书）相符。",
+     "audio": {
+      "key": "listening/v1/5f702392f7921a637588fce2f60400b4a0981f5c2a3c73c7fae031ce3e2c564d.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "老师在黑板上写了什么？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "她写了很多生词。"
+       }
+      ],
+      "transcript": "老师在黑板上写了什么？ 她写了很多生词。",
+      "transcriptPinyin": "lǎo shī zài hēi bǎn shàng xiě le shén me ？  tā xiě le hěn duō shēng cí 。"
+     }
+    },
+    {
+     "id": "q6",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "A",
+     "explanation": "对话喜欢看书，每天看，与图片A（看书的人）相符。",
+     "audio": {
+      "key": "listening/v1/364b8a662c5db4feb2f32fc298f04ad14e4aafe54423034ecd81bedf82b31a11.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你喜欢看书吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "喜欢，我每天都会看书。"
+       }
+      ],
+      "transcript": "你喜欢看书吗？ 喜欢，我每天都会看书。",
+      "transcriptPinyin": "nǐ xǐ huān kàn shū ma ？  xǐ huān ， wǒ měi tiān dū huì kàn shū 。"
+     }
+    },
+    {
+     "id": "q7",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "B",
+     "explanation": "对话提到狗在跑，与图片B（跑动的狗）相符。",
+     "audio": {
+      "key": "listening/v1/31df6690bb1c8777ac200d31001c15b909a9927a6dacca081a2c408150ee6a28.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "外面有一只狗，它在跑。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我们出去看看吧。"
+       }
+      ],
+      "transcript": "外面有一只狗，它在跑。 我们出去看看吧。",
+      "transcriptPinyin": "wài miàn yǒu yī zhī gǒu ， tā zài pǎo 。  wǒ men chū qù kàn kàn ba 。"
+     }
+    },
+    {
+     "id": "q8",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "C",
+     "explanation": "对话要一杯热茶，与图片C（一杯茶）相符。",
+     "audio": {
+      "key": "listening/v1/14f76513bcdacc32dba7dfc6b6cba80a3997d2f3435f7b44f48466fc7208c050.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你喝什么？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "茶，我要一杯热的。"
+       }
+      ],
+      "transcript": "你喝什么？ 茶，我要一杯热的。",
+      "transcriptPinyin": "nǐ hē shén me ？  chá ， wǒ yào yī bēi rè de 。"
+     }
+    },
+    {
+     "id": "q9",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "D",
+     "explanation": "对话提到和家人吃晚饭，与图片D（家人吃饭）相符。",
+     "audio": {
+      "key": "listening/v1/35cea8ed604021213b01f7eb5a2b874af61709b0e0caf37e2b4b6fec5e2c85ea.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你昨天和家人一起吃饭了吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "嗯，我们一起吃了晚饭。"
+       }
+      ],
+      "transcript": "你昨天和家人一起吃饭了吗？ 嗯，我们一起吃了晚饭。",
+      "transcriptPinyin": "nǐ zuó tiān hé jiā rén yì qǐ chī fàn le ma ？  ń ， wǒ men yì qǐ chī le wǎn fàn 。"
+     }
+    },
+    {
+     "id": "q10",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "E",
+     "explanation": "对话提到老师在黑板上写字，与图片E（老师板书）相符。",
+     "audio": {
+      "key": "listening/v1/2b7fa9a4bad27455d93b74fd11f264c41632eda820a0b9b2e4da17fdbd3457cb.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "老师在做什么？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "她在黑板上写字。"
+       }
+      ],
+      "transcript": "老师在做什么？ 她在黑板上写字。",
+      "transcriptPinyin": "lǎo shī zài zuò shén me ？  tā zài hēi bǎn shàng xiě zì 。"
+     }
+    }
+   ],
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-e9858cc257abf4ebc180c3e0e83483f0.png"
+    },
+    {
+     "label": "B",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-15c5e6ef2fa67f2678d26eccdc849945.png"
+    },
+    {
+     "label": "C",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-4184e67180d25f65476db0a73f0ac09c.png"
+    },
+    {
+     "label": "D",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-f2ab7ee7159c2acbf2c875e9edc0089d.png"
+    },
+    {
+     "label": "E",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-77d588e1cc4a9977f7b44f17525b0347.png"
+    },
+    {
+     "label": "F",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-72c6e135ac53ec079b4334ac5dba8509.png"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

@@ -1,0 +1,64 @@
+{
+ "id": "hsk7-9-listening-p115",
+ "level": "7-9",
+ "section": "listening",
+ "partKey": "listening-p1",
+ "title": "HSK7-9 Listening P1",
+ "titleZh": "听力 第一部分（判断对错）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听一段新闻报道，然后判断下面5个句子是否与录音内容一致。一致的选“对”，不一致的选“错”。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-statement-true-false",
+     "prompt": "医学影像AI辅助诊断系统能够识别早期肿瘤，准确率超过95%。",
+     "correctAnswer": "对",
+     "explanation": "录音中明确提到“准确率高达95%以上”，因此与录音一致。"
+    },
+    {
+     "id": "q2",
+     "type": "listening-statement-true-false",
+     "prompt": "AI诊断可以完全替代医生进行最终确认。",
+     "correctAnswer": "错",
+     "explanation": "录音指出“AI诊断不能完全替代医生，最终确认仍需临床经验”，因此与录音不符。"
+    },
+    {
+     "id": "q3",
+     "type": "listening-statement-true-false",
+     "prompt": "该系统已在全国范围内推广使用。",
+     "correctAnswer": "错",
+     "explanation": "录音说明“已在多家三甲医院试点应用，预计明年在全国推广”，并非已全面推广。"
+    },
+    {
+     "id": "q4",
+     "type": "listening-statement-true-false",
+     "prompt": "该系统能自动生成诊断报告，帮助医生减轻负担。",
+     "correctAnswer": "对",
+     "explanation": "录音中提到“自动生成诊断报告，极大减轻了医生的工作负担”，因此一致。"
+    },
+    {
+     "id": "q5",
+     "type": "listening-statement-true-false",
+     "prompt": "传统人工诊断的准确率高于AI系统。",
+     "correctAnswer": "错",
+     "explanation": "录音说AI准确率“远超传统人工诊断”，因此人工诊断准确率低于AI。"
+    }
+   ],
+   "audio": {
+    "key": "listening/v1/866a7c670e1a6e7686bb917b680b5a4769ab772e86b8cc57d66bfce36bc380ef.mp3",
+    "lines": [
+     {
+      "speaker": "旁白",
+      "voice": "narrator",
+      "text": "最近，我国医学影像AI辅助诊断系统取得突破性进展。该系统能够快速识别早期肿瘤，准确率高达95%以上，远超传统人工诊断。不仅如此，该系统还能自动生成诊断报告，极大减轻了医生的工作负担。然而，专家也指出，AI诊断不能完全替代医生，最终确认仍需临床经验。目前，该系统已在多家三甲医院试点应用，预计明年在全国推广。"
+     }
+    ],
+    "transcript": "最近，我国医学影像AI辅助诊断系统取得突破性进展。该系统能够快速识别早期肿瘤，准确率高达95%以上，远超传统人工诊断。不仅如此，该系统还能自动生成诊断报告，极大减轻了医生的工作负担。然而，专家也指出，AI诊断不能完全替代医生，最终确认仍需临床经验。目前，该系统已在多家三甲医院试点应用，预计明年在全国推广。",
+    "transcriptPinyin": null
+   }
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

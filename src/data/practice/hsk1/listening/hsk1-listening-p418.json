@@ -1,0 +1,202 @@
+{
+ "id": "hsk1-listening-p418",
+ "level": "1",
+ "section": "listening",
+ "partKey": "listening-p4",
+ "title": "HSK1 Listening P4",
+ "titleZh": "听力 第四部分（听问句选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听录音，然后回答问题。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "他叫什么名字？",
+     "correctAnswer": "B",
+     "explanation": "录音中的人自我介绍说‘我叫小明’，所以名字是小明。",
+     "audio": {
+      "key": "listening/v1/65e8c8156ddcd36b2ee4c1592ea441a2434031a90b859cdb38c09b02a404beb1.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "你好，我叫小明，很高兴认识你。"
+       }
+      ],
+      "transcript": "你好，我叫小明，很高兴认识你。",
+      "transcriptPinyin": "nǐ hǎo ， wǒ jiào xiǎo míng ， hěn gāo xìng rèn shí nǐ 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "小红",
+       "pinyin": "xiǎo hóng"
+      },
+      {
+       "label": "B",
+       "text": "小明",
+       "pinyin": "xiǎo míng"
+      },
+      {
+       "label": "C",
+       "text": "小刚",
+       "pinyin": "xiǎo gāng"
+      }
+     ],
+     "pinyin": "tā jiào shén me míng zì ？"
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "现在几点了？",
+     "correctAnswer": "A",
+     "explanation": "录音明确说‘现在八点’，所以时间是八点。",
+     "audio": {
+      "key": "listening/v1/64177776e54d70ca812075ccc6446f28844aae41fab6205330e2c7f05bd2162e.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "现在几点？现在八点。"
+       }
+      ],
+      "transcript": "现在几点？现在八点。",
+      "transcriptPinyin": "xiàn zài jǐ diǎn ？ xiàn zài bā diǎn 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "八点",
+       "pinyin": "bā diǎn"
+      },
+      {
+       "label": "B",
+       "text": "七点",
+       "pinyin": "qī diǎn"
+      },
+      {
+       "label": "C",
+       "text": "九点",
+       "pinyin": "jiǔ diǎn"
+      }
+     ],
+     "pinyin": "xiàn zài jǐ diǎn le ？"
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "他几岁了？",
+     "correctAnswer": "C",
+     "explanation": "录音中说‘我今年十岁’，所以年龄是十岁。",
+     "audio": {
+      "key": "listening/v1/a4cbce20d2f63414d2a3a07ed6304e6f6f95d3318001548bdd2a10930d38143c.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我今年十岁，你几岁？"
+       }
+      ],
+      "transcript": "我今年十岁，你几岁？",
+      "transcriptPinyin": "wǒ jīn nián shí suì ， nǐ jǐ suì ？"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "九岁",
+       "pinyin": "jiǔ suì"
+      },
+      {
+       "label": "B",
+       "text": "十一岁",
+       "pinyin": "shí yī suì"
+      },
+      {
+       "label": "C",
+       "text": "十岁",
+       "pinyin": "shí suì"
+      }
+     ],
+     "pinyin": "tā jǐ suì le ？"
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "这本书是谁的？",
+     "correctAnswer": "C",
+     "explanation": "录音说‘这是小红的书’，所以书是小红的。",
+     "audio": {
+      "key": "listening/v1/5b8655cd9b410c30f63915d9e3808b54bcd256e41836d10aedbb834a44b94110.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "这是谁的书？这是小红的书。"
+       }
+      ],
+      "transcript": "这是谁的书？这是小红的书。",
+      "transcriptPinyin": "zhè shì shéi de shū ？ zhè shì xiǎo hóng de shū 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "小明的",
+       "pinyin": "xiǎo míng de"
+      },
+      {
+       "label": "B",
+       "text": "小刚的",
+       "pinyin": "xiǎo gāng de"
+      },
+      {
+       "label": "C",
+       "text": "小红的",
+       "pinyin": "xiǎo hóng de"
+      }
+     ],
+     "pinyin": "zhè běn shū shì shéi de ？"
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "明天星期几？",
+     "correctAnswer": "B",
+     "explanation": "录音说‘明天是星期三’，所以明天是星期三。",
+     "audio": {
+      "key": "listening/v1/1494697c122ba29ae8b95e7b48539d1dc7dba7e236319a843ddedd196e12440b.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "明天是星期三，后天是星期四。"
+       }
+      ],
+      "transcript": "明天是星期三，后天是星期四。",
+      "transcriptPinyin": "míng tiān shì xīng qī sān ， hòu tiān shì xīng qī sì 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "星期二",
+       "pinyin": "xīng qī èr"
+      },
+      {
+       "label": "B",
+       "text": "星期三",
+       "pinyin": "xīng qī sān"
+      },
+      {
+       "label": "C",
+       "text": "星期四",
+       "pinyin": "xīng qī sì"
+      }
+     ],
+     "pinyin": "míng tiān xīng qī jǐ ？"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

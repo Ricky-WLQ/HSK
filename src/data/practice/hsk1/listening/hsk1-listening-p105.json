@@ -1,0 +1,117 @@
+{
+ "id": "hsk1-listening-p105",
+ "level": "1",
+ "section": "listening",
+ "partKey": "listening-p1",
+ "title": "HSK1 Listening P1",
+ "titleZh": "听力 第一部分（看图判断）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "听录音，判断图片与听到的句子是否一致。一致的选“对”，不一致的选“错”。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "对",
+     "explanation": "图片是一个人在喝水，句子说‘他在喝水’，所以一致。",
+     "audio": {
+      "key": "listening/v1/24ba2bf373b1c2eaa615922f12af93d6af83e94525a3e3d6ae48d6487037aa94.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "他在喝水。"
+       }
+      ],
+      "transcript": "他在喝水。",
+      "transcriptPinyin": "tā zài hē shuǐ 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-15cf2998b2f7d6359a18c3e57b29688d.png"
+    },
+    {
+     "id": "q2",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "错",
+     "explanation": "句子说‘猫在桌子上’，但图片是一条狗在桌子下面，所以不一致。",
+     "audio": {
+      "key": "listening/v1/07a084230348fc3a4fa757443b2deb2f1cb25363d92a326091117d34d50eaa14.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "猫在桌子上。"
+       }
+      ],
+      "transcript": "猫在桌子上。",
+      "transcriptPinyin": "māo zài zhuō zi shàng 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-fb852c78a627e8e8c368294129f59ca0.png"
+    },
+    {
+     "id": "q3",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "对",
+     "explanation": "图片是一个女人在吃苹果，句子说‘她喜欢吃苹果’，所以一致。",
+     "audio": {
+      "key": "listening/v1/c5fa262cfdc0e80d9afa4e17b60f6a074eb755fef4a9b2b28acaa8d3e0db9d3a.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "她喜欢吃苹果。"
+       }
+      ],
+      "transcript": "她喜欢吃苹果。",
+      "transcriptPinyin": "tā xǐ huān chī píng guǒ 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-f1d78b08a4af71c23c18d431f80b135e.png"
+    },
+    {
+     "id": "q4",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "错",
+     "explanation": "句子说‘狗很大’，但图片是一只小猫，所以不一致。",
+     "audio": {
+      "key": "listening/v1/c33a074393ce5cb7df059acad115d53884a0770adce9651ed5af508e3ab35fab.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "狗很大。"
+       }
+      ],
+      "transcript": "狗很大。",
+      "transcriptPinyin": "gǒu hěn dà 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-1d8e7c446c69612bd7ddb881689b90fa.png"
+    },
+    {
+     "id": "q5",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "对",
+     "explanation": "图片是一个女人在厨房做饭，句子说‘妈妈在做饭’，所以一致。",
+     "audio": {
+      "key": "listening/v1/c528f91aff3ccb5fa56b2b0f4ffd3ebb93deca475d911fd91b169c3abc29e017.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "妈妈在做饭。"
+       }
+      ],
+      "transcript": "妈妈在做饭。",
+      "transcriptPinyin": "mā mā zài zuò fàn 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-53fc8c3a38ad41d2dae1c11ccef54176.png"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

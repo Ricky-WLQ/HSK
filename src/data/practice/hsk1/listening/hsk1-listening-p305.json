@@ -1,0 +1,169 @@
+{
+ "id": "hsk1-listening-p305",
+ "level": "1",
+ "section": "listening",
+ "partKey": "listening-p3",
+ "title": "HSK1 Listening P3",
+ "titleZh": "听力 第三部分（看图听对话）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "听对话，从下面的图片中选出与对话内容相符的一张。注意：有一张图片是多余的。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "A",
+     "explanation": "对话中女子说她吃苹果，所以图片中有苹果。",
+     "audio": {
+      "key": "listening/v1/3fd6509e494b789e346de0e3353f79f5352917be75a907cd0616eddf64128da7.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你吃什么？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我吃苹果。"
+       }
+      ],
+      "transcript": "你吃什么？ 我吃苹果。",
+      "transcriptPinyin": "nǐ chī shén me ？  wǒ chī píng guǒ 。"
+     }
+    },
+    {
+     "id": "q2",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "D",
+     "explanation": "对话中女子说她看书，所以图片中有人在看书。",
+     "audio": {
+      "key": "listening/v1/64a478edba3936e1ebbac3a8f3d89b196bad2c327b822fcfbc300ab1f9214051.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你看什么？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我看书。"
+       }
+      ],
+      "transcript": "你看什么？ 我看书。",
+      "transcriptPinyin": "nǐ kàn shén me ？  wǒ kàn shū 。"
+     }
+    },
+    {
+     "id": "q3",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "C",
+     "explanation": "对话中女子说她在喝水，所以图片中有人在喝水。",
+     "audio": {
+      "key": "listening/v1/12544f5b51dab399d2fa4394c7064e5b5175d463b510a87a5ec38a9951aaab1d.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你在做什么？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我在喝水。"
+       }
+      ],
+      "transcript": "你在做什么？ 我在喝水。",
+      "transcriptPinyin": "nǐ zài zuò shén me ？  wǒ zài hē shuǐ 。"
+     }
+    },
+    {
+     "id": "q4",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "F",
+     "explanation": "对话中女子说她的朋友在跑，所以图片中有人在跑步。",
+     "audio": {
+      "key": "listening/v1/ec1ee596cad13fdb32dc31f6bf4215e2d8c2b156f2a6df9dfea2bd4dd36477ca.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "谁在跑？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我的朋友在跑。"
+       }
+      ],
+      "transcript": "谁在跑？ 我的朋友在跑。",
+      "transcriptPinyin": "shuí zài pǎo ？  wǒ de péng yǒu zài pǎo 。"
+     }
+    },
+    {
+     "id": "q5",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "B",
+     "explanation": "对话中女子说她有猫，所以图片中有猫。",
+     "audio": {
+      "key": "listening/v1/40c718bfd74c5329bddf9ba9ce98edb274ae66aae43daca4aa9cce81fb4d0968.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你有猫吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "有，我有一只猫。"
+       }
+      ],
+      "transcript": "你有猫吗？ 有，我有一只猫。",
+      "transcriptPinyin": "nǐ yǒu māo ma ？  yǒu ， wǒ yǒu yī zhī māo 。"
+     }
+    }
+   ],
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-9d58a31b6810e28646590ab52e48bc3c.png"
+    },
+    {
+     "label": "B",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-695e8c996f824e67187a3c3ee1954061.png"
+    },
+    {
+     "label": "C",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-648edd8cff015dcb0cd1509c0b288e1c.png"
+    },
+    {
+     "label": "D",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-34e9a39a069fec56b3cc8ad5c87b883d.png"
+    },
+    {
+     "label": "E",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-7dec831343389b345c8192df2de2c392.png"
+    },
+    {
+     "label": "F",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-01d1341f71784b5bbbaaa9237432c8bf.png"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

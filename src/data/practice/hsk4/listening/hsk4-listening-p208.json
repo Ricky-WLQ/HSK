@@ -1,0 +1,179 @@
+{
+ "id": "hsk4-listening-p208",
+ "level": "4",
+ "section": "listening",
+ "partKey": "listening-p2",
+ "title": "HSK4 Listening P2",
+ "titleZh": "听力 第二部分（听短文选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "你将听到一段关于学习做中国菜的独白，请根据独白内容回答6个问题。每个问题有4个选项，选择正确的答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "这个人是什么时候开始学习做饭的？",
+     "correctAnswer": "D",
+     "explanation": "独白第一句明确说去年开始学习做中国菜，因此正确选项对应的是去年。",
+     "options": [
+      {
+       "label": "A",
+       "text": "前年"
+      },
+      {
+       "label": "B",
+       "text": "今年"
+      },
+      {
+       "label": "C",
+       "text": "上个月"
+      },
+      {
+       "label": "D",
+       "text": "去年"
+      }
+     ]
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "一开始他的问题是什么？",
+     "correctAnswer": "C",
+     "explanation": "独白中提到一开始连切菜都不会，切得慢且大小不一，所以主要问题是不会切菜。",
+     "options": [
+      {
+       "label": "A",
+       "text": "不会做复杂的菜"
+      },
+      {
+       "label": "B",
+       "text": "没有时间做饭"
+      },
+      {
+       "label": "C",
+       "text": "不会切菜"
+      },
+      {
+       "label": "D",
+       "text": "不知道买什么菜"
+      }
+     ]
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "他用了什么方法学习？",
+     "correctAnswer": "D",
+     "explanation": "独白中说他看了很多教学视频，也请朋友教，因此是两种方法结合。",
+     "options": [
+      {
+       "label": "A",
+       "text": "自己研究"
+      },
+      {
+       "label": "B",
+       "text": "只看了书"
+      },
+      {
+       "label": "C",
+       "text": "去了烹饪学校"
+      },
+      {
+       "label": "D",
+       "text": "看了视频也请朋友教"
+      }
+     ]
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "他现在每天花多长时间练习？",
+     "correctAnswer": "B",
+     "explanation": "独白中明确说现在每天都会花一个小时练习做饭。",
+     "options": [
+      {
+       "label": "A",
+       "text": "两个小时"
+      },
+      {
+       "label": "B",
+       "text": "一个小时"
+      },
+      {
+       "label": "C",
+       "text": "半小时"
+      },
+      {
+       "label": "D",
+       "text": "三个小时"
+      }
+     ]
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "他觉得做饭有什么好处？",
+     "correctAnswer": "D",
+     "explanation": "独白中提到做饭能让他放松，这是直接说明的好处。",
+     "options": [
+      {
+       "label": "A",
+       "text": "可以认识朋友"
+      },
+      {
+       "label": "B",
+       "text": "可以减肥"
+      },
+      {
+       "label": "C",
+       "text": "可以省钱"
+      },
+      {
+       "label": "D",
+       "text": "可以放松"
+      }
+     ]
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "通过做饭，他还了解到了什么？",
+     "correctAnswer": "D",
+     "explanation": "独白最后说通过做饭了解了很多中国的饮食文化，因此正确。",
+     "options": [
+      {
+       "label": "A",
+       "text": "中国的历史"
+      },
+      {
+       "label": "B",
+       "text": "中国的天气"
+      },
+      {
+       "label": "C",
+       "text": "中国的地理"
+      },
+      {
+       "label": "D",
+       "text": "中国的饮食文化"
+      }
+     ]
+    }
+   ],
+   "audio": {
+    "key": "listening/v1/218793537c2340a00611e3a3ae5491ff0e9abb9854b8e8230d8a7ddbb5e9079f.mp3",
+    "lines": [
+     {
+      "speaker": "旁白",
+      "voice": "narrator",
+      "text": "去年我开始学习做中国菜。一开始，我连切菜都不会，切得很慢，而且切出来的大小不一样。后来，我看了很多教学视频，也请朋友教我。慢慢地，我学会了做简单的菜，比如番茄炒蛋和炒青菜。现在，我每天都会花一个小时练习做饭。我觉得做饭不仅是一种生活技能，也能让我放松。最重要的是，通过做饭，我了解了很多中国的饮食文化。"
+     }
+    ],
+    "transcript": "去年我开始学习做中国菜。一开始，我连切菜都不会，切得很慢，而且切出来的大小不一样。后来，我看了很多教学视频，也请朋友教我。慢慢地，我学会了做简单的菜，比如番茄炒蛋和炒青菜。现在，我每天都会花一个小时练习做饭。我觉得做饭不仅是一种生活技能，也能让我放松。最重要的是，通过做饭，我了解了很多中国的饮食文化。",
+    "transcriptPinyin": null
+   }
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

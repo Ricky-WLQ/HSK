@@ -1,0 +1,497 @@
+{
+ "id": "hsk2-listening-p316",
+ "level": "2",
+ "section": "listening",
+ "partKey": "listening-p3",
+ "title": "HSK2 Listening P3",
+ "titleZh": "听力 第三部分（听对话选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听对话，然后根据对话选择正确的答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "图书馆在哪儿？",
+     "correctAnswer": "A",
+     "explanation": "对话中女子说图书馆在教学楼后面，所以图书馆在教学楼后面。",
+     "audio": {
+      "key": "listening/v1/e76bdfac2298e79a2beb9a621e6f3af4a85adbd2f41450d2d7d8d71c13b554b8.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你好，请问图书馆在哪儿？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "图书馆在学校的北边，教学楼后面。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "谢谢！"
+       }
+      ],
+      "transcript": "你好，请问图书馆在哪儿？ 图书馆在学校的北边，教学楼后面。 谢谢！",
+      "transcriptPinyin": "nǐ hǎo ， qǐng wèn tú shū guǎn zài nǎ ér ？  tú shū guǎn zài xué xiào de běi biān ， jiào xué lóu hòu miàn 。  xiè xiè ！"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "教学楼后面",
+       "pinyin": "jiào xué lóu hòu miàn"
+      },
+      {
+       "label": "B",
+       "text": "教学楼前面",
+       "pinyin": "jiào xué lóu qián miàn"
+      },
+      {
+       "label": "C",
+       "text": "学校南边",
+       "pinyin": "xué xiào nán biān"
+      }
+     ],
+     "pinyin": "tú shū guǎn zài nǎ ér ？"
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "男的买了什么？",
+     "correctAnswer": "C",
+     "explanation": "男的说他买了水果和牛奶，所以答案是水果和牛奶。",
+     "audio": {
+      "key": "listening/v1/dbfd44fc3ad60d0a7ec005053203e1fe023c4ef19210630cec71f426aae7aff0.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你昨天去超市买了什么？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我买了水果和牛奶。你呢？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我买了面包和鸡蛋。"
+       }
+      ],
+      "transcript": "你昨天去超市买了什么？ 我买了水果和牛奶。你呢？ 我买了面包和鸡蛋。",
+      "transcriptPinyin": "nǐ zuó tiān qù chāo shì mǎi le shén me ？  wǒ mǎi le shuǐ guǒ hé niú nǎi 。 nǐ ne ？  wǒ mǎi le miàn bāo hé jī dàn 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "水果和面包",
+       "pinyin": "shuǐ guǒ huó miàn bāo"
+      },
+      {
+       "label": "B",
+       "text": "面包和鸡蛋",
+       "pinyin": "miàn bāo hé jī dàn"
+      },
+      {
+       "label": "C",
+       "text": "水果和牛奶",
+       "pinyin": "shuǐ guǒ hé niú nǎi"
+      }
+     ],
+     "pinyin": "nán de mǎi le shén me ？"
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "他们几点去吃饭？",
+     "correctAnswer": "B",
+     "explanation": "女的建议十二点半去，男的同意，所以他们十二点半去吃饭。",
+     "audio": {
+      "key": "listening/v1/773d7cc9bf94bcd34cc697a529b2f66022714abee127d974d767a5b24b8b7280.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "现在几点了？我们几点去吃饭？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "现在是十二点十分。我们十二点半去，好吗？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "好的。"
+       }
+      ],
+      "transcript": "现在几点了？我们几点去吃饭？ 现在是十二点十分。我们十二点半去，好吗？ 好的。",
+      "transcriptPinyin": "xiàn zài jǐ diǎn le ？ wǒ men jǐ diǎn qù chī fàn ？  xiàn zài shì shí èr diǎn shí fēn 。 wǒ men shí èr diǎn bàn qù ， hǎo ma ？  hǎo de 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "十二点",
+       "pinyin": "shí èr diǎn"
+      },
+      {
+       "label": "B",
+       "text": "十二点半",
+       "pinyin": "shí èr diǎn bàn"
+      },
+      {
+       "label": "C",
+       "text": "十二点十分",
+       "pinyin": "shí èr diǎn shí fēn"
+      }
+     ],
+     "pinyin": "tā men jǐ diǎn qù chī fàn ？"
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "男的周末喜欢做什么？",
+     "correctAnswer": "B",
+     "explanation": "男的说他喜欢跑步和看书，所以答案是跑步和看书。",
+     "audio": {
+      "key": "listening/v1/65693132edfaf27465499691e2c3b7749afdad73f6053f18e5b14ac059685c6e.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你周末喜欢做什么？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我喜欢跑步和看书。你呢？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我喜欢看电影和听音乐。"
+       }
+      ],
+      "transcript": "你周末喜欢做什么？ 我喜欢跑步和看书。你呢？ 我喜欢看电影和听音乐。",
+      "transcriptPinyin": "nǐ zhōu mò xǐ huān zuò shén me ？  wǒ xǐ huān pǎo bù hé kàn shū 。 nǐ ne ？  wǒ xǐ huān kàn diàn yǐng hé tīng yīn yuè 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "看电影和听音乐",
+       "pinyin": "kàn diàn yǐng hé tīng yīn yuè"
+      },
+      {
+       "label": "B",
+       "text": "跑步和看书",
+       "pinyin": "pǎo bù hé kàn shū"
+      },
+      {
+       "label": "C",
+       "text": "跑步和看电影",
+       "pinyin": "pǎo bù hé kàn diàn yǐng"
+      }
+     ],
+     "pinyin": "nán de zhōu mò xǐ huān zuò shén me ？"
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "男的买苹果花了多少钱？",
+     "correctAnswer": "C",
+     "explanation": "苹果三块钱一斤，买两斤，所以一共六块钱。",
+     "audio": {
+      "key": "listening/v1/2aba844f54806ad7f984a8e48fb1c639cca6c6c34b0e5a8489f469804f4aeda6.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "这个苹果多少钱？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "三块钱一斤。你要买多少？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我买两斤。"
+       }
+      ],
+      "transcript": "这个苹果多少钱？ 三块钱一斤。你要买多少？ 我买两斤。",
+      "transcriptPinyin": "zhè ge píng guǒ duō shǎo qián ？  sān kuài qián yī jīn 。 nǐ yào mǎi duō shǎo ？  wǒ mǎi liǎng jīn 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "两块",
+       "pinyin": "liǎng kuài"
+      },
+      {
+       "label": "B",
+       "text": "三块",
+       "pinyin": "sān kuài"
+      },
+      {
+       "label": "C",
+       "text": "六块",
+       "pinyin": "liù kuài"
+      }
+     ],
+     "pinyin": "nán de mǎi píng guǒ huā le duō shǎo qián ？"
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "男的姐姐做什么工作？",
+     "correctAnswer": "B",
+     "explanation": "男的说他姐姐是老师，所以姐姐的工作是老师。",
+     "audio": {
+      "key": "listening/v1/5849b9262a6a156dc5f7a1421572fb660a893e24e170b7038590d0e13a7ac233.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你家有几口人？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我家有四口人，爸爸、妈妈、姐姐和我。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你姐姐做什么工作？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "她是老师。"
+       }
+      ],
+      "transcript": "你家有几口人？ 我家有四口人，爸爸、妈妈、姐姐和我。 你姐姐做什么工作？ 她是老师。",
+      "transcriptPinyin": "nǐ jiā yǒu jǐ kǒu rén ？  wǒ jiā yǒu sì kǒu rén ， bà bà 、 mā mā 、 jiě jiě hé wǒ 。  nǐ jiě jiě zuò shén me gōng zuò ？  tā shì lǎo shī 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "医生",
+       "pinyin": "yī shēng"
+      },
+      {
+       "label": "B",
+       "text": "老师",
+       "pinyin": "lǎo shī"
+      },
+      {
+       "label": "C",
+       "text": "学生",
+       "pinyin": "xué shēng"
+      }
+     ],
+     "pinyin": "nán de jiě jiě zuò shén me gōng zuò ？"
+    },
+    {
+     "id": "q7",
+     "type": "listening-mcq",
+     "prompt": "谁会游泳？",
+     "correctAnswer": "B",
+     "explanation": "女的说她会游泳，男的说他不会，所以只有女的会游泳。",
+     "audio": {
+      "key": "listening/v1/485bb2ae46d10d0965fec7ee3411ef05241a3f46450f239fddec27f7cef06110.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你会不会游泳？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "会，我游得很好。你呢？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我不会，我想学。"
+       }
+      ],
+      "transcript": "你会不会游泳？ 会，我游得很好。你呢？ 我不会，我想学。",
+      "transcriptPinyin": "nǐ huì bú huì yóu yǒng ？  huì ， wǒ yóu dé hěn hǎo 。 nǐ ne ？  wǒ bú huì ， wǒ xiǎng xué 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "两个人都会",
+       "pinyin": "liǎng gè rén dū huì"
+      },
+      {
+       "label": "B",
+       "text": "女的",
+       "pinyin": "nǚ de"
+      },
+      {
+       "label": "C",
+       "text": "男的",
+       "pinyin": "nán de"
+      }
+     ],
+     "pinyin": "shuí huì yóu yǒng ？"
+    },
+    {
+     "id": "q8",
+     "type": "listening-mcq",
+     "prompt": "今天天气怎么样？",
+     "correctAnswer": "A",
+     "explanation": "男的说今天很冷而且下雨，所以天气很冷，下雨。",
+     "audio": {
+      "key": "listening/v1/65c85a77565850263ebe3595a95c6bd8f840642d44e30026e9f2f0330ee8401b.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "今天天气怎么样？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "今天很冷，而且下雨了。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "那我多穿点衣服。"
+       }
+      ],
+      "transcript": "今天天气怎么样？ 今天很冷，而且下雨了。 那我多穿点衣服。",
+      "transcriptPinyin": "jīn tiān tiān qì zěn me yàng ？  jīn tiān hěn lěng ， ér qiě xià yǔ le 。  nà wǒ duō chuān diǎn yī fú 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "很冷，下雨",
+       "pinyin": "hěn lěng ， xià yǔ"
+      },
+      {
+       "label": "B",
+       "text": "很热",
+       "pinyin": "hěn rè"
+      },
+      {
+       "label": "C",
+       "text": "很暖和",
+       "pinyin": "hěn nuǎn huo"
+      }
+     ],
+     "pinyin": "jīn tiān tiān qì zěn me yàng ？"
+    },
+    {
+     "id": "q9",
+     "type": "listening-mcq",
+     "prompt": "女的住得离学校怎么样？",
+     "correctAnswer": "C",
+     "explanation": "女的说她住在学校旁边，走路五分钟就到，所以离学校很近。",
+     "audio": {
+      "key": "listening/v1/87d72af7ea10948b414a64006bf30299901c4f43ed44b5e185f66159c1bcb9de.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你住在哪儿？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我住在学校旁边，走路五分钟就到。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "真近啊！"
+       }
+      ],
+      "transcript": "你住在哪儿？ 我住在学校旁边，走路五分钟就到。 真近啊！",
+      "transcriptPinyin": "nǐ zhù zài nǎ ér ？  wǒ zhù zài xué xiào páng biān ， zǒu lù wǔ fēn zhōng jiù dào 。  zhēn jìn a ！"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "很远",
+       "pinyin": "hěn yuǎn"
+      },
+      {
+       "label": "B",
+       "text": "不太远",
+       "pinyin": "bù tài yuǎn"
+      },
+      {
+       "label": "C",
+       "text": "很近",
+       "pinyin": "hěn jìn"
+      }
+     ],
+     "pinyin": "nǚ de zhù dé lí xué xiào zěn me yàng ？"
+    },
+    {
+     "id": "q10",
+     "type": "listening-mcq",
+     "prompt": "男的想吃什么？",
+     "correctAnswer": "C",
+     "explanation": "男的说他想吃面条，所以他想吃面条。",
+     "audio": {
+      "key": "listening/v1/9197e7f417686f35a0ad62f47821acee6e621c0f63bfa56b87bfc74fd9a233b9.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你晚上想吃什么？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我想吃面条，你呢？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我想吃米饭。那我们去哪家饭店？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "去前面的那家吧。"
+       }
+      ],
+      "transcript": "你晚上想吃什么？ 我想吃面条，你呢？ 我想吃米饭。那我们去哪家饭店？ 去前面的那家吧。",
+      "transcriptPinyin": "nǐ wǎn shàng xiǎng chī shén me ？  wǒ xiǎng chī miàn tiáo ， nǐ ne ？  wǒ xiǎng chī mǐ fàn 。 nà wǒ men qù nǎ jiā fàn diàn ？  qù qián miàn de nà jiā ba 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "米饭",
+       "pinyin": "mǐ fàn"
+      },
+      {
+       "label": "B",
+       "text": "面包",
+       "pinyin": "miàn bāo"
+      },
+      {
+       "label": "C",
+       "text": "面条",
+       "pinyin": "miàn tiáo"
+      }
+     ],
+     "pinyin": "nán de xiǎng chī shén me ？"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

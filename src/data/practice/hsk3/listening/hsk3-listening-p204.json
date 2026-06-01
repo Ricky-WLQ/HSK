@@ -1,0 +1,447 @@
+{
+ "id": "hsk3-listening-p204",
+ "level": "3",
+ "section": "listening",
+ "partKey": "listening-p2",
+ "title": "HSK3 Listening P2",
+ "titleZh": "听力 第二部分（听对话选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听对话，然后根据对话内容回答问题。每段对话后有一个问题，从A、B、C三个选项中选择正确答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "女周末要做什么？",
+     "correctAnswer": "A",
+     "explanation": "女士说她周末要加班，所以正确答案是加班。",
+     "audio": {
+      "key": "listening/v1/657b3591ba3733492ea77c8432a8f2696f6751b540a175fdbc3e92a55035eeef.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你周末要不要一起去爬山？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "抱歉，我周末要加班，去不了。"
+       }
+      ],
+      "transcript": "你周末要不要一起去爬山？ 抱歉，我周末要加班，去不了。",
+      "transcriptPinyin": "nǐ zhōu mò yào bù yào yì qǐ qù pá shān ？  bào qiàn ， wǒ zhōu mò yào jiā bān ， qù bù liǎo 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "加班",
+       "pinyin": "jiā bān"
+      },
+      {
+       "label": "B",
+       "text": "休息",
+       "pinyin": "xiū xī"
+      },
+      {
+       "label": "C",
+       "text": "爬山",
+       "pinyin": "pá shān"
+      }
+     ],
+     "pinyin": "nǚ zhōu mò yào zuò shén me ？"
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "蓝色衬衫现在在哪儿？",
+     "correctAnswer": "C",
+     "explanation": "女士说衬衫在阳台上挂着，所以正确答案是阳台上。",
+     "audio": {
+      "key": "listening/v1/5a6239bf285454e1c3e292edf7dbc805246eb6f651052958534debd6bebe6a8d.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "妈妈，我的蓝色衬衫在哪儿？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我昨天洗了，在阳台上挂着呢。"
+       }
+      ],
+      "transcript": "妈妈，我的蓝色衬衫在哪儿？ 我昨天洗了，在阳台上挂着呢。",
+      "transcriptPinyin": "mā mā ， wǒ de lán sè chèn shān zài nǎ ér ？  wǒ zuó tiān xǐ le ， zài yáng tái shàng guà zhe ne 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "衣柜里",
+       "pinyin": "yī guì lǐ"
+      },
+      {
+       "label": "B",
+       "text": "洗衣机里",
+       "pinyin": "xǐ yī jī lǐ"
+      },
+      {
+       "label": "C",
+       "text": "阳台上",
+       "pinyin": "yáng tái shàng"
+      }
+     ],
+     "pinyin": "lán sè chèn shān xiàn zài zài nǎ ér ？"
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "男告诉女怎么去图书馆？",
+     "correctAnswer": "B",
+     "explanation": "男士说先直走到第一个路口右转，再走一百米，所以正确答案是右转再走一百米。",
+     "audio": {
+      "key": "listening/v1/71caee2bc0b74b64aa94fa67163fb08af3f665b78a00e6b965316ff176b1654d.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你好，请问图书馆怎么走？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "往前走，到第一个路口右转，再走一百米就到了。"
+       }
+      ],
+      "transcript": "你好，请问图书馆怎么走？ 往前走，到第一个路口右转，再走一百米就到了。",
+      "transcriptPinyin": "nǐ hǎo ， qǐng wèn tú shū guǎn zěn me zǒu ？  wǎng qián zǒu ， dào dì yí gè lù kǒu yòu zhuǎn ， zài zǒu yì bǎi mǐ jiù dào le 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "左转再走二百米",
+       "pinyin": "zuǒ zhuǎn zài zǒu èr bǎi mǐ"
+      },
+      {
+       "label": "B",
+       "text": "右转再走一百米",
+       "pinyin": "yòu zhuǎn zài zǒu yì bǎi mǐ"
+      },
+      {
+       "label": "C",
+       "text": "直走然后左转",
+       "pinyin": "zhí zǒu rán hòu zuǒ zhuǎn"
+      }
+     ],
+     "pinyin": "nán gào sù nǚ zěn me qù tú shū guǎn ？"
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "他们最后点了什么菜？",
+     "correctAnswer": "B",
+     "explanation": "女士不喜欢吃鱼，所以男士同意改成鸡肉和青菜，因此正确答案是鸡肉和青菜。",
+     "audio": {
+      "key": "listening/v1/6d991e0430832d9e7ddad0833201fd934f2dace20e8e9da2d14cf2033d95c9a5.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我们点一个鱼和一个青菜吧。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我不喜欢吃鱼，我们点鸡肉吧。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "好，那就点鸡肉和青菜。"
+       }
+      ],
+      "transcript": "我们点一个鱼和一个青菜吧。 我不喜欢吃鱼，我们点鸡肉吧。 好，那就点鸡肉和青菜。",
+      "transcriptPinyin": "wǒ men diǎn yí gè yú hé yí gè qīng cài ba 。  wǒ bù xǐ huān chī yú ， wǒ men diǎn jī ròu ba 。  hǎo ， nà jiù diǎn jī ròu hé qīng cài 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "鱼和鸡肉",
+       "pinyin": "yú hé jī ròu"
+      },
+      {
+       "label": "B",
+       "text": "鸡肉和青菜",
+       "pinyin": "jī ròu hé qīng cài"
+      },
+      {
+       "label": "C",
+       "text": "鱼和青菜",
+       "pinyin": "yú hé qīng cài"
+      }
+     ],
+     "pinyin": "tā men zuì hòu diǎn le shén me cài ？"
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "男昨天为什么没来上课？",
+     "correctAnswer": "C",
+     "explanation": "男士说他感冒了头疼，在家休息，所以正确答案是因为他生病了。",
+     "audio": {
+      "key": "listening/v1/7a33ba8f713c2dc68216ab0c47794419a5be7d412d9c4791e15748389c6e7439.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你昨天怎么没来上课？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我感冒了，头疼得厉害，在家休息了一天。"
+       }
+      ],
+      "transcript": "你昨天怎么没来上课？ 我感冒了，头疼得厉害，在家休息了一天。",
+      "transcriptPinyin": "nǐ zuó tiān zěn me méi lái shàng kè ？  wǒ gǎn mào le ， tóu téng dé lì hài ， zài jiā xiū xī le yī tiān 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "他不想来",
+       "pinyin": "tā bù xiǎng lái"
+      },
+      {
+       "label": "B",
+       "text": "他出门了",
+       "pinyin": "tā chū mén le"
+      },
+      {
+       "label": "C",
+       "text": "他生病了",
+       "pinyin": "tā shēng bìng le"
+      }
+     ],
+     "pinyin": "nán zuó tiān wèi shén me méi lái shàng kè ？"
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "女的想做什么？",
+     "correctAnswer": "A",
+     "explanation": "女士说想去看那部新的中国电影，所以正确答案是看新电影。",
+     "audio": {
+      "key": "listening/v1/352e1ce04b7fc63c5b98c5e03222ec1800d8f771239bfc60a4268d36db0a21b7.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "这个周末我们去看电影吧？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "好啊，不过我想看那部新的中国电影。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "那部电影我已经看过了，我们看别的吧。"
+       }
+      ],
+      "transcript": "这个周末我们去看电影吧？ 好啊，不过我想看那部新的中国电影。 那部电影我已经看过了，我们看别的吧。",
+      "transcriptPinyin": "zhè ge zhōu mò wǒ men qù kàn diàn yǐng ba ？  hǎo a ， bù guò wǒ xiǎng kàn nà bù xīn de zhōng guó diàn yǐng 。  nà bù diàn yǐng wǒ yǐ jīng kàn guò le ， wǒ men kàn bié de ba 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "看新电影",
+       "pinyin": "kàn xīn diàn yǐng"
+      },
+      {
+       "label": "B",
+       "text": "不去看电影",
+       "pinyin": "bù qù kàn diàn yǐng"
+      },
+      {
+       "label": "C",
+       "text": "看别的电影",
+       "pinyin": "kàn bié de diàn yǐng"
+      }
+     ],
+     "pinyin": "nǚ de xiǎng zuò shén me ？"
+    },
+    {
+     "id": "q7",
+     "type": "listening-mcq",
+     "prompt": "男的想要什么生日礼物？",
+     "correctAnswer": "A",
+     "explanation": "男士说只需要陪他吃顿饭就好，所以正确答案是一起吃饭。",
+     "audio": {
+      "key": "listening/v1/28fa2eba10a52d1147a88d5080240e9059ec93d7409364bb34327d16338ad37b.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你的生日快到了，想要什么礼物？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我什么都不缺，你陪我吃顿饭就好了。"
+       }
+      ],
+      "transcript": "你的生日快到了，想要什么礼物？ 我什么都不缺，你陪我吃顿饭就好了。",
+      "transcriptPinyin": "nǐ de shēng rì kuài dào le ， xiǎng yào shén me lǐ wù ？  wǒ shén me dōu bù quē ， nǐ péi wǒ chī dùn fàn jiù hǎo le 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "一起吃饭",
+       "pinyin": "yì qǐ chī fàn"
+      },
+      {
+       "label": "B",
+       "text": "一本书",
+       "pinyin": "yī běn shū"
+      },
+      {
+       "label": "C",
+       "text": "什么都不想要",
+       "pinyin": "shén me dōu bù xiǎng yào"
+      }
+     ],
+     "pinyin": "nán de xiǎng yào shén me shēng rì lǐ wù ？"
+    },
+    {
+     "id": "q8",
+     "type": "listening-mcq",
+     "prompt": "女的现在怎么去公司？",
+     "correctAnswer": "B",
+     "explanation": "女士说现在搬家了，走路十分钟就到公司，所以正确答案是走路。",
+     "audio": {
+      "key": "listening/v1/fa51484b72a39698496035a942e2529d47b884c554a43c5e089e10eb95fef949.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你平时怎么去公司？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "以前坐地铁，现在搬家了，走路十分钟就到了。"
+       }
+      ],
+      "transcript": "你平时怎么去公司？ 以前坐地铁，现在搬家了，走路十分钟就到了。",
+      "transcriptPinyin": "nǐ píng shí zěn me qù gōng sī ？  yǐ qián zuò dì tiě ， xiàn zài bān jiā le ， zǒu lù shí fēn zhōng jiù dào le 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "坐地铁",
+       "pinyin": "zuò dì tiě"
+      },
+      {
+       "label": "B",
+       "text": "走路",
+       "pinyin": "zǒu lù"
+      },
+      {
+       "label": "C",
+       "text": "开车",
+       "pinyin": "kāi chē"
+      }
+     ],
+     "pinyin": "nǚ de xiàn zài zěn me qù gōng sī ？"
+    },
+    {
+     "id": "q9",
+     "type": "listening-mcq",
+     "prompt": "男学普通话多久了？",
+     "correctAnswer": "B",
+     "explanation": "男士说他学了一年多了，所以正确答案是一年多。",
+     "audio": {
+      "key": "listening/v1/0b16932828ff447ac917b4dd6ea0c7b072f872451c584d980739687ba9525f1f.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你普通话说得真好，学了多久了？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "谢谢，我学了一年多了，不过还不太熟练。"
+       }
+      ],
+      "transcript": "你普通话说得真好，学了多久了？ 谢谢，我学了一年多了，不过还不太熟练。",
+      "transcriptPinyin": "nǐ pǔ tōng huà shuō dé zhēn hǎo ， xué le duō jiǔ le ？  xiè xiè ， wǒ xué le yī nián duō le ， bù guò hái bù tài shú liàn 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "三年多",
+       "pinyin": "sān nián duō"
+      },
+      {
+       "label": "B",
+       "text": "一年多",
+       "pinyin": "yī nián duō"
+      },
+      {
+       "label": "C",
+       "text": "不到一年",
+       "pinyin": "bú dào yī nián"
+      }
+     ],
+     "pinyin": "nán xué pǔ tōng huà duō jiǔ le ？"
+    },
+    {
+     "id": "q10",
+     "type": "listening-mcq",
+     "prompt": "明天的天气怎么样？",
+     "correctAnswer": "B",
+     "explanation": "女士说明天有雨，所以正确答案是下雨。",
+     "audio": {
+      "key": "listening/v1/304fc8aeb9aa7c08fd1c729def4b9aaead0e5eaea38935596497b5f582b24061.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "明天天气怎么样？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "天气预报说明天有雨，记得带伞。"
+       }
+      ],
+      "transcript": "明天天气怎么样？ 天气预报说明天有雨，记得带伞。",
+      "transcriptPinyin": "míng tiān tiān qì zěn me yàng ？  tiān qì yù bào shuō míng tiān yǒu yǔ ， jì de dài sǎn 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "多云",
+       "pinyin": "duō yún"
+      },
+      {
+       "label": "B",
+       "text": "下雨",
+       "pinyin": "xià yǔ"
+      },
+      {
+       "label": "C",
+       "text": "晴天",
+       "pinyin": "qíng tiān"
+      }
+     ],
+     "pinyin": "míng tiān de tiān qì zěn me yàng ？"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

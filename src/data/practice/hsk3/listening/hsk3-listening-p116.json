@@ -1,0 +1,289 @@
+{
+ "id": "hsk3-listening-p116",
+ "level": "3",
+ "section": "listening",
+ "partKey": "listening-p1",
+ "title": "HSK3 Listening P1",
+ "titleZh": "听力 第一部分（看图听对话）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听对话，然后从A-F六张图中选出一张与对话内容相符的图片。每张图片最多被用一次，其中一张是多余的。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "A",
+     "explanation": "对话提到打篮球，所以与图片A相符。",
+     "audio": {
+      "key": "listening/v1/ad81ab43653bfbfae1f7550be048a1a67f0b2d720c0b73cf3eb8b9374069f679.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你今天下午做什么了？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我去打篮球了，太累了。"
+       }
+      ],
+      "transcript": "你今天下午做什么了？ 我去打篮球了，太累了。",
+      "transcriptPinyin": "nǐ jīn tiān xià wǔ zuò shén me le ？  wǒ qù dǎ lán qiú le ， tài lèi le 。"
+     }
+    },
+    {
+     "id": "q2",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "B",
+     "explanation": "对话中提到喝咖啡，所以与图片B相符。",
+     "audio": {
+      "key": "listening/v1/ce3edfeecd37add9620eb512fea293ec13fb4f5b895eae3f7368d008c82006e7.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你要喝点什么吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "给我一杯咖啡吧。"
+       }
+      ],
+      "transcript": "你要喝点什么吗？ 给我一杯咖啡吧。",
+      "transcriptPinyin": "nǐ yào hē diǎn shén me ma ？  gěi wǒ yī bēi kā fēi ba 。"
+     }
+    },
+    {
+     "id": "q3",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "C",
+     "explanation": "对话中提到洗碗，所以与图片C相符。",
+     "audio": {
+      "key": "listening/v1/70af87b0b7837ea8a291e11ca365ee34099ce5a98bbfd27d41132b899701c9c7.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "吃完饭了，我来洗碗吧。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "好的，谢谢你。"
+       }
+      ],
+      "transcript": "吃完饭了，我来洗碗吧。 好的，谢谢你。",
+      "transcriptPinyin": "chī wán fàn le ， wǒ lái xǐ wǎn ba 。  hǎo de ， xiè xiè nǐ 。"
+     }
+    },
+    {
+     "id": "q4",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "D",
+     "explanation": "对话中提到骑自行车，所以与图片D相符。",
+     "audio": {
+      "key": "listening/v1/febbf2ccf08e912c20816382f4d1ee4d919c04b5a4b6843bdc4fe383c1d577a9.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你是骑自行车来的吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "对，骑车很方便。"
+       }
+      ],
+      "transcript": "你是骑自行车来的吗？ 对，骑车很方便。",
+      "transcriptPinyin": "nǐ shì qí zì xíng chē lái de ma ？  duì ， qí chē hěn fāng biàn 。"
+     }
+    },
+    {
+     "id": "q5",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "E",
+     "explanation": "对话中提到苹果，所以与图片E相符。",
+     "audio": {
+      "key": "listening/v1/29cec2131aebe55cfe4d14a7ba85795a42c7ef95144e2c997e001fae9b252093.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你手里拿的是什么？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "是一个苹果，你要吃吗？"
+       }
+      ],
+      "transcript": "你手里拿的是什么？ 是一个苹果，你要吃吗？",
+      "transcriptPinyin": "nǐ shǒu lǐ ná de shì shén me ？  shì yí gè píng guǒ ， nǐ yào chī ma ？"
+     }
+    },
+    {
+     "id": "q6",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "A",
+     "explanation": "对话中讨论打篮球，所以与图片A相符。",
+     "audio": {
+      "key": "listening/v1/e945c8339ec47dde80d1219a38f70bba23058b67d522c280c3a1f66fb778bcc7.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "周末我们去打篮球吧？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "好啊，我很久没打了。"
+       }
+      ],
+      "transcript": "周末我们去打篮球吧？ 好啊，我很久没打了。",
+      "transcriptPinyin": "zhōu mò wǒ men qù dǎ lán qiú ba ？  hǎo a ， wǒ hěn jiǔ méi dǎ le 。"
+     }
+    },
+    {
+     "id": "q7",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "B",
+     "explanation": "对话中提到咖啡，所以与图片B相符。",
+     "audio": {
+      "key": "listening/v1/b5d97891a79a928d9c87ee50bd1122adc3c68213bde7e9ac951263a157eccbc7.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "这咖啡真好喝，你也来一杯？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "不了，我晚上喝咖啡睡不着。"
+       }
+      ],
+      "transcript": "这咖啡真好喝，你也来一杯？ 不了，我晚上喝咖啡睡不着。",
+      "transcriptPinyin": "zhè kā fēi zhēn hǎo hē ， nǐ yě lái yī bēi ？  bù liǎo ， wǒ wǎn shàng hē kā fēi shuì bù zhe 。"
+     }
+    },
+    {
+     "id": "q8",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "C",
+     "explanation": "对话中提到洗碗，所以与图片C相符。",
+     "audio": {
+      "key": "listening/v1/5104c81de184d2653809d8089c048a6af785eb6ddd3378c950dc04e9abbf4094.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "妈妈，我来帮你洗碗。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你真懂事，谢谢。"
+       }
+      ],
+      "transcript": "妈妈，我来帮你洗碗。 你真懂事，谢谢。",
+      "transcriptPinyin": "mā mā ， wǒ lái bāng nǐ xǐ wǎn 。  nǐ zhēn dǒng shì ， xiè xiè 。"
+     }
+    },
+    {
+     "id": "q9",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "D",
+     "explanation": "对话中提到自行车，所以与图片D相符。",
+     "audio": {
+      "key": "listening/v1/358e25a627eb366075672823d29c17831a8d3e58aedc5fd5b8cecc2305763189.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你的自行车很漂亮。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "谢谢，我每天骑它上班。"
+       }
+      ],
+      "transcript": "你的自行车很漂亮。 谢谢，我每天骑它上班。",
+      "transcriptPinyin": "nǐ de zì xíng chē hěn piào liàng 。  xiè xiè ， wǒ měi tiān qí tā shàng bān 。"
+     }
+    },
+    {
+     "id": "q10",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "E",
+     "explanation": "对话中提到吃苹果，所以与图片E相符。",
+     "audio": {
+      "key": "listening/v1/f8ca9575ae5ec7d40eb38d13f64d681996f39e1e2d47879598eadb77dbfaf765.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你每天吃一个苹果吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "是的，对身体好。"
+       }
+      ],
+      "transcript": "你每天吃一个苹果吗？ 是的，对身体好。",
+      "transcriptPinyin": "nǐ měi tiān chī yí gè píng guǒ ma ？  shì de ， duì shēn tǐ hǎo 。"
+     }
+    }
+   ],
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-f355d8696dc910f63e8d640f7286435b.png"
+    },
+    {
+     "label": "B",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-35f463a1951dc090b69f723559c19f73.png"
+    },
+    {
+     "label": "C",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-fb4347e327d1455609e1f6e73e185551.png"
+    },
+    {
+     "label": "D",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-2221e39171c8f8196e735cc370ddb986.png"
+    },
+    {
+     "label": "E",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-01e03631e9d9b291566069eea47936c5.png"
+    },
+    {
+     "label": "F",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-f4096c31c90af77e3a9a1845d5200818.png"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

@@ -1,0 +1,117 @@
+{
+ "id": "hsk2-listening-p115",
+ "level": "2",
+ "section": "listening",
+ "partKey": "listening-p1",
+ "title": "HSK2 Listening P1",
+ "titleZh": "听力 第一部分（看图判断）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听句子，然后看图片，判断对错。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "对",
+     "explanation": "句子的意思是“他在看书”，图片中的人正在看书，所以图片和句子内容一致。",
+     "audio": {
+      "key": "listening/v1/7318ea0dc2137fa427d38433371a44eaf2da442fe62f92d73c3dcce8f7c51de3.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "他在看书。"
+       }
+      ],
+      "transcript": "他在看书。",
+      "transcriptPinyin": "tā zài kàn shū 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-51c7a7ea75a7442a6bf0745d0beee5e7.png"
+    },
+    {
+     "id": "q2",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "错",
+     "explanation": "句子的意思是“小猫在桌子上”，但图片显示小猫在桌子下面，所以图片和句子内容不一致。",
+     "audio": {
+      "key": "listening/v1/3bbc627cfd813496fefdbe033f53a7007f3246deedf8f43873704a857b48873f.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "小猫在桌子上。"
+       }
+      ],
+      "transcript": "小猫在桌子上。",
+      "transcriptPinyin": "xiǎo māo zài zhuō zi shàng 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-1219320b23c729543c09fa7fe8e4c42d.png"
+    },
+    {
+     "id": "q3",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "对",
+     "explanation": "句子的意思是“她喝咖啡”，图片中的人在喝东西，杯子可能是咖啡，所以图片和句子内容一致。",
+     "audio": {
+      "key": "listening/v1/3ec3366b82013cc3e18f2df867c7eabb49cbbf9b1d2d32bc8712ba483bced601.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "她喝咖啡。"
+       }
+      ],
+      "transcript": "她喝咖啡。",
+      "transcriptPinyin": "tā hē kā fēi 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-ec5928eafb162b78a7ca8a1ad7993be7.png"
+    },
+    {
+     "id": "q4",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "错",
+     "explanation": "句子的意思是“今天天气很热”，但图片显示的是雪景，天气很冷，所以图片和句子内容不一致。",
+     "audio": {
+      "key": "listening/v1/d52b981f78e9bf723977bedafc9f9b867dcc3bc090236d249e058fc1f04d8d85.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "今天天气很热。"
+       }
+      ],
+      "transcript": "今天天气很热。",
+      "transcriptPinyin": "jīn tiān tiān qì hěn rè 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-397655b8e6ffbef8b6ec4e8575c05b58.png"
+    },
+    {
+     "id": "q5",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "对",
+     "explanation": "句子的意思是“我有一只狗”，图片中有一只狗，所以图片和句子内容一致。",
+     "audio": {
+      "key": "listening/v1/435c0d71bf1af5562fc344107d24c97d193c46e592f23207cc8610b1d1c583fc.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我有一只狗。"
+       }
+      ],
+      "transcript": "我有一只狗。",
+      "transcriptPinyin": "wǒ yǒu yī zhī gǒu 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-f1711df7116c8f20091987dff2ce9773.png"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

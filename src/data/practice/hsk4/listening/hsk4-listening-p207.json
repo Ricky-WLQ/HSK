@@ -1,0 +1,179 @@
+{
+ "id": "hsk4-listening-p207",
+ "level": "4",
+ "section": "listening",
+ "partKey": "listening-p2",
+ "title": "HSK4 Listening P2",
+ "titleZh": "听力 第二部分（听短文选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "你将听到一段关于网购的独白。请根据独白内容回答后面的6个问题。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "妈妈以前为什么不相信网购？",
+     "correctAnswer": "C",
+     "explanation": "独白中说妈妈以前不相信网购，觉得看不见东西不放心，所以选项与此一致。",
+     "options": [
+      {
+       "label": "A",
+       "text": "她嫌价格太贵"
+      },
+      {
+       "label": "B",
+       "text": "她不喜欢买东西"
+      },
+      {
+       "label": "C",
+       "text": "她觉得看不见东西不放心"
+      },
+      {
+       "label": "D",
+       "text": "她不会用手机"
+      }
+     ]
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "妈妈第一次在网上买了什么？",
+     "correctAnswer": "B",
+     "explanation": "独白明确提到第一次她买了一双鞋。",
+     "options": [
+      {
+       "label": "A",
+       "text": "一部手机"
+      },
+      {
+       "label": "B",
+       "text": "一双鞋"
+      },
+      {
+       "label": "C",
+       "text": "一件衣服"
+      },
+      {
+       "label": "D",
+       "text": "一些食品"
+      }
+     ]
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "妈妈收到鞋子后为什么很高兴？",
+     "correctAnswer": "A",
+     "explanation": "独白中说她很高兴，因为鞋子很好看，价格也比商店里便宜，即好看又便宜。",
+     "options": [
+      {
+       "label": "A",
+       "text": "因为鞋子好看又便宜"
+      },
+      {
+       "label": "B",
+       "text": "因为姐姐帮她买的"
+      },
+      {
+       "label": "C",
+       "text": "因为送货很快"
+      },
+      {
+       "label": "D",
+       "text": "因为鞋子很便宜"
+      }
+     ]
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "妈妈现在学会了什么新技能？",
+     "correctAnswer": "C",
+     "explanation": "独白明确指出她甚至学会了用手机支付。",
+     "options": [
+      {
+       "label": "A",
+       "text": "做网上生意"
+      },
+      {
+       "label": "B",
+       "text": "自己开车"
+      },
+      {
+       "label": "C",
+       "text": "用手机支付"
+      },
+      {
+       "label": "D",
+       "text": "用电脑查资料"
+      }
+     ]
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "妈妈网购时有什么烦恼？",
+     "correctAnswer": "B",
+     "explanation": "独白说有时候买到的商品和图片不一样，退换货比较麻烦。",
+     "options": [
+      {
+       "label": "A",
+       "text": "东西容易坏"
+      },
+      {
+       "label": "B",
+       "text": "商品和图片不一样，退换货麻烦"
+      },
+      {
+       "label": "C",
+       "text": "快递太慢"
+      },
+      {
+       "label": "D",
+       "text": "不会挑选商品"
+      }
+     ]
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "妈妈现在对网购总的看法是什么？",
+     "correctAnswer": "B",
+     "explanation": "独白最后说总的来说，她觉得网购很方便，节省时间。",
+     "options": [
+      {
+       "label": "A",
+       "text": "比商店便宜，但质量差"
+      },
+      {
+       "label": "B",
+       "text": "很方便，节省时间"
+      },
+      {
+       "label": "C",
+       "text": "只买不退货"
+      },
+      {
+       "label": "D",
+       "text": "很麻烦，不想再用"
+      }
+     ]
+    }
+   ],
+   "audio": {
+    "key": "listening/v1/caa405d5fa785853b041d717ccdc7d83c037a2bdd166c65d0c37a866ae70129e.mp3",
+    "lines": [
+     {
+      "speaker": "旁白",
+      "voice": "narrator",
+      "text": "现在很多人喜欢在网上买东西。我的妈妈以前不相信网购，她觉得看不见东西不放心。但是去年，她在我姐姐的帮助下开始试着在网上买衣服。第一次她买了一双鞋，三天后就收到了。她很高兴，因为鞋子很好看，价格也比商店里便宜。从那以后，她经常在网上买东西。现在她不仅买衣服，还买食品、日用品。她甚至学会了用手机支付。不过她也有烦恼，有时候买到的商品和图片不一样，退换货比较麻烦。总的来说，她觉得网购很方便，节省时间。"
+     }
+    ],
+    "transcript": "现在很多人喜欢在网上买东西。我的妈妈以前不相信网购，她觉得看不见东西不放心。但是去年，她在我姐姐的帮助下开始试着在网上买衣服。第一次她买了一双鞋，三天后就收到了。她很高兴，因为鞋子很好看，价格也比商店里便宜。从那以后，她经常在网上买东西。现在她不仅买衣服，还买食品、日用品。她甚至学会了用手机支付。不过她也有烦恼，有时候买到的商品和图片不一样，退换货比较麻烦。总的来说，她觉得网购很方便，节省时间。",
+    "transcriptPinyin": null
+   }
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

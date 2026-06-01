@@ -1,0 +1,487 @@
+{
+ "id": "hsk5-listening-p114",
+ "level": "5",
+ "section": "listening",
+ "partKey": "listening-p1",
+ "title": "HSK5 Listening P1",
+ "titleZh": "听力 第一部分（听对话选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "听下面10段对话，每段对话后有一个问题，请从A、B、C、D四个选项中选出最佳答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "女的为什么没参加生日聚会？",
+     "correctAnswer": "C",
+     "explanation": "女的明确说明是因为临时接到加班通知，所以无法参加聚会，而不是忘记、生病或不喜欢热闹。",
+     "audio": {
+      "key": "listening/v1/c782c7026fd9e9f91f59de8f7307e9ad45e37643d704afb9a8a7927afc10a9d4.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你昨天怎么没来参加我的生日聚会？大家都问起你呢。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "真不好意思，我临时接到通知要加班，忙到晚上十点才回家。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "哦，原来是这样。那你后面补上礼物就行啦！"
+       }
+      ],
+      "transcript": "你昨天怎么没来参加我的生日聚会？大家都问起你呢。 真不好意思，我临时接到通知要加班，忙到晚上十点才回家。 哦，原来是这样。那你后面补上礼物就行啦！",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "她生病了"
+      },
+      {
+       "label": "B",
+       "text": "她忘记了"
+      },
+      {
+       "label": "C",
+       "text": "她需要加班"
+      },
+      {
+       "label": "D",
+       "text": "她不喜欢热闹"
+      }
+     ]
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "男的对这套房子有什么看法？",
+     "correctAnswer": "C",
+     "explanation": "男的说位置太偏，离地铁站远，上班不方便，所以主要问题是交通不便，并非价格高或满意。",
+     "audio": {
+      "key": "listening/v1/990ea11471bcf7393522ed31f65f7b1db537c2735b93cd666184ec0221a6d6ac.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你觉得这套房子怎么样？价格比周围的都便宜不少。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "便宜是便宜，但位置太偏了，离地铁站走路要二十分钟，平时上班不方便。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "这倒也是，交通确实是个问题。"
+       }
+      ],
+      "transcript": "你觉得这套房子怎么样？价格比周围的都便宜不少。 便宜是便宜，但位置太偏了，离地铁站走路要二十分钟，平时上班不方便。 这倒也是，交通确实是个问题。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "非常满意"
+      },
+      {
+       "label": "B",
+       "text": "位置很好"
+      },
+      {
+       "label": "C",
+       "text": "交通不便"
+      },
+      {
+       "label": "D",
+       "text": "价格太高"
+      }
+     ]
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "王老师认为这篇论文的主要问题是什么？",
+     "correctAnswer": "D",
+     "explanation": "王老师指出论证不充分且数据引用较老，建议补充新数据和加强逻辑，所以主要问题是论证和数据两方面。",
+     "audio": {
+      "key": "listening/v1/535099c0027df05b73648d3b108c76f2812cd75bcb5af055273f97b3f0a936c4.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "王老师，我这次论文的成绩不太理想，能不能请您给我一些修改建议？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你的选题很好，但论证部分不够充分，而且数据引用比较老。建议你补充近两年的新数据，再加强一下逻辑推理。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "谢谢老师，我这就去改。"
+       }
+      ],
+      "transcript": "王老师，我这次论文的成绩不太理想，能不能请您给我一些修改建议？ 你的选题很好，但论证部分不够充分，而且数据引用比较老。建议你补充近两年的新数据，再加强一下逻辑推理。 谢谢老师，我这就去改。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "语言表达有问题"
+      },
+      {
+       "label": "B",
+       "text": "缺乏数据"
+      },
+      {
+       "label": "C",
+       "text": "选题不好"
+      },
+      {
+       "label": "D",
+       "text": "论证不充分和数据陈旧"
+      }
+     ]
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "男的不去爬山的原因是什么？",
+     "correctAnswer": "C",
+     "explanation": "男的说想去但天气有雨且膝盖不舒服，所以是天气和身体两个原因导致无法去。",
+     "audio": {
+      "key": "listening/v1/6160b699b797871f30751efd327567a6204e838a372fc6596b637402e615c160.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "周末我们一起去爬山吧？正好可以锻炼身体。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我倒是想去，但天气预报说明天有雨，而且我最近膝盖不太舒服。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "那算了，我们改天再约，你好好休息。"
+       }
+      ],
+      "transcript": "周末我们一起去爬山吧？正好可以锻炼身体。 我倒是想去，但天气预报说明天有雨，而且我最近膝盖不太舒服。 那算了，我们改天再约，你好好休息。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "他讨厌爬山"
+      },
+      {
+       "label": "B",
+       "text": "他不想和女的一起去"
+      },
+      {
+       "label": "C",
+       "text": "天气和身体都不适合"
+      },
+      {
+       "label": "D",
+       "text": "他有其他安排"
+      }
+     ]
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "关于小李，我们可以知道什么？",
+     "correctAnswer": "A",
+     "explanation": "女的说小李每天在图书馆学习，周末也不休息，因此考上研究生是努力的结果，而不是聪明不用功。",
+     "audio": {
+      "key": "listening/v1/396a2f6cbe6bfe72a6e193a7f74af59c9d4ea635daccb53860d69336b1fba1dd.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "听说小李考上研究生了，真没想到他那么厉害。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "是啊，他每天泡在图书馆，周末也不休息，这个结果并不意外。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "看来努力真的会有回报。"
+       }
+      ],
+      "transcript": "听说小李考上研究生了，真没想到他那么厉害。 是啊，他每天泡在图书馆，周末也不休息，这个结果并不意外。 看来努力真的会有回报。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "他通过努力学习考上了研究生"
+      },
+      {
+       "label": "B",
+       "text": "他周末经常出去玩"
+      },
+      {
+       "label": "C",
+       "text": "他很聪明但不用功"
+      },
+      {
+       "label": "D",
+       "text": "他考大学时就很厉害"
+      }
+     ]
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "他们对这家餐厅的哪些方面不满意？",
+     "correctAnswer": "D",
+     "explanation": "两人都提到上菜速度太慢，虽然味道不错、服务态度好，但不满意的是效率问题。",
+     "audio": {
+      "key": "listening/v1/a9c95fa4eb1bff6d0e59febb058379373863c9329e0a82152165f0a6aeabada8.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "这家餐厅的菜味道不错，就是上菜速度太慢了。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "确实，我们等了快四十分钟才上了第一个菜。不过服务员态度很好，一直道歉。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "嗯，服务态度确实值得点赞，但效率还是得提高。"
+       }
+      ],
+      "transcript": "这家餐厅的菜味道不错，就是上菜速度太慢了。 确实，我们等了快四十分钟才上了第一个菜。不过服务员态度很好，一直道歉。 嗯，服务态度确实值得点赞，但效率还是得提高。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "服务态度"
+      },
+      {
+       "label": "B",
+       "text": "菜的味道"
+      },
+      {
+       "label": "C",
+       "text": "餐厅环境"
+      },
+      {
+       "label": "D",
+       "text": "上菜速度"
+      }
+     ]
+    },
+    {
+     "id": "q7",
+     "type": "listening-mcq",
+     "prompt": "女的迟到的原因是什么？",
+     "correctAnswer": "A",
+     "explanation": "女的解释搬家后离公司远，公交车挤，导致迟到，并非起床晚或不喜欢工作。",
+     "audio": {
+      "key": "listening/v1/c0c95432cb71bcb610f137eaab944675ee838425a73d1e7ee5f34073510ea72d.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你最近怎么总是迟到？领导已经找我谈话了。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "对不起，我搬家后离公司远了，而且早上公交车特别挤，经常等好几趟才能上去。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "那你考虑换乘地铁吗？或者早点出门。"
+       }
+      ],
+      "transcript": "你最近怎么总是迟到？领导已经找我谈话了。 对不起，我搬家后离公司远了，而且早上公交车特别挤，经常等好几趟才能上去。 那你考虑换乘地铁吗？或者早点出门。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "搬家后路途远且公交拥挤"
+      },
+      {
+       "label": "B",
+       "text": "地铁故障"
+      },
+      {
+       "label": "C",
+       "text": "她起床太晚"
+      },
+      {
+       "label": "D",
+       "text": "她不喜欢这份工作"
+      }
+     ]
+    },
+    {
+     "id": "q8",
+     "type": "listening-mcq",
+     "prompt": "男的计划今晚做什么？",
+     "correctAnswer": "B",
+     "explanation": "男的说还差数据部分，打算加班做完，所以计划是加班完成方案，而非其他。",
+     "audio": {
+      "key": "listening/v1/0f4c4101f3fc5a398aa73c26078865b20eb1525af37424512b34bed7e5dd4d43.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "明天就是截止日期了，你的方案写完了吗？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "还差最后一部分数据分析，今晚我打算加班做完它。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "需要帮忙的话说一声，我今晚也没什么事。"
+       }
+      ],
+      "transcript": "明天就是截止日期了，你的方案写完了吗？ 还差最后一部分数据分析，今晚我打算加班做完它。 需要帮忙的话说一声，我今晚也没什么事。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "休息睡觉"
+      },
+      {
+       "label": "B",
+       "text": "加班完成方案"
+      },
+      {
+       "label": "C",
+       "text": "出去玩"
+      },
+      {
+       "label": "D",
+       "text": "让女的帮忙"
+      }
+     ]
+    },
+    {
+     "id": "q9",
+     "type": "listening-mcq",
+     "prompt": "女的建议男的做法是什么？",
+     "correctAnswer": "A",
+     "explanation": "女的建议等降价或者看别的品牌，即不要冲动购买，而是寻找更合适的选择。",
+     "audio": {
+      "key": "listening/v1/768deaeacd807282ea163320ac32b008d62c4d087e646f309a1a0f4f46355b92.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我想买一部新手机，这款拍照功能特别强，但价格比我预算高了一千块。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "那你可以等一段时间，等它降价再买，或者看看其他品牌有没有性价比高的。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "嗯，有道理，我再考虑考虑。"
+       }
+      ],
+      "transcript": "我想买一部新手机，这款拍照功能特别强，但价格比我预算高了一千块。 那你可以等一段时间，等它降价再买，或者看看其他品牌有没有性价比高的。 嗯，有道理，我再考虑考虑。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "等待降价或找其他选择"
+      },
+      {
+       "label": "B",
+       "text": "立刻买下"
+      },
+      {
+       "label": "C",
+       "text": "放弃购买"
+      },
+      {
+       "label": "D",
+       "text": "借钱购买"
+      }
+     ]
+    },
+    {
+     "id": "q10",
+     "type": "listening-mcq",
+     "prompt": "关于男的跑步情况，下列哪项正确？",
+     "correctAnswer": "B",
+     "explanation": "男的说报了半程，最后两公里小腿抽筋，差点坚持不下来，说明他跑了半程但遇到困难，并非全程或轻松完成。",
+     "audio": {
+      "key": "listening/v1/766f79dd195fef4ddc8ed192bc948f4323787b7600e75687c26f69b133fcd6e1.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "听说你去参加马拉松了？跑了多少公里？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我报了半程，二十多公里，最后两公里差点坚持不下来，小腿抽筋了。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "那已经很厉害了！我第一次跑五公里都累得不行。"
+       }
+      ],
+      "transcript": "听说你去参加马拉松了？跑了多少公里？ 我报了半程，二十多公里，最后两公里差点坚持不下来，小腿抽筋了。 那已经很厉害了！我第一次跑五公里都累得不行。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "他轻松完成了比赛"
+      },
+      {
+       "label": "B",
+       "text": "他跑了半程，最后遇到困难"
+      },
+      {
+       "label": "C",
+       "text": "他跑了全程马拉松"
+      },
+      {
+       "label": "D",
+       "text": "他中途退出了"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

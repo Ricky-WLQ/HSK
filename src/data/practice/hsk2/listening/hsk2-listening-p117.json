@@ -1,0 +1,117 @@
+{
+ "id": "hsk2-listening-p117",
+ "level": "2",
+ "section": "listening",
+ "partKey": "listening-p1",
+ "title": "HSK2 Listening P1",
+ "titleZh": "听力 第一部分（看图判断）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听下面5个句子，每个句子描述一张图片。判断句子内容是否与图片一致，如果一致请选“对”，如果不一致请选“错”。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "对",
+     "explanation": "句子说她在看书，图片中她确实在看书，所以一致。",
+     "audio": {
+      "key": "listening/v1/e536e4e09c868baf8275f8c40674a5093849d4ec93bd22d3cbe567fa12871d77.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "她在看书。"
+       }
+      ],
+      "transcript": "她在看书。",
+      "transcriptPinyin": "tā zài kàn shū 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-fba04f902fccdf0dc291f0ae3e3a614a.png"
+    },
+    {
+     "id": "q2",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "错",
+     "explanation": "句子说猫在椅子上，但图片中猫在桌子下面，所以不一致。",
+     "audio": {
+      "key": "listening/v1/ffb29c818f770aac93691ed60c0aa62c854d5a898d2628f6b79caf9ed34dbf58.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "猫在椅子上。"
+       }
+      ],
+      "transcript": "猫在椅子上。",
+      "transcriptPinyin": "māo zài yǐ zi shàng 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-d58716c5d0503845aef080ecc8a4a7c4.png"
+    },
+    {
+     "id": "q3",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "错",
+     "explanation": "句子说他喝牛奶，但图片中他喝的是水，所以不一致。",
+     "audio": {
+      "key": "listening/v1/769139ec54b3b6721267aeb0e58325d5d413042dbda2cab76882c71d0028d9b9.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "他喝牛奶。"
+       }
+      ],
+      "transcript": "他喝牛奶。",
+      "transcriptPinyin": "tā hē niú nǎi 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-e5fbb54ddf4173c778a47ad13b2f4fa9.png"
+    },
+    {
+     "id": "q4",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "对",
+     "explanation": "句子说我们走路去学校，图片中两个孩子正走向学校，所以一致。",
+     "audio": {
+      "key": "listening/v1/5426edfb3b700e2609e626b9ec5d8ecaf5b1f3f828105ed29e8c387b96c2562a.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我们走路去学校。"
+       }
+      ],
+      "transcript": "我们走路去学校。",
+      "transcriptPinyin": "wǒ men zǒu lù qù xué xiào 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-175dc9d5a8b03ca3d732a9dd7be1434e.png"
+    },
+    {
+     "id": "q5",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "错",
+     "explanation": "句子说苹果是红色的，但图片中的苹果是绿色的，所以不一致。",
+     "audio": {
+      "key": "listening/v1/5aa34e4c9e01eea7a372488812eb40f24d63d8e61a8e784046b867a0d2e8d700.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "苹果是红色的。"
+       }
+      ],
+      "transcript": "苹果是红色的。",
+      "transcriptPinyin": "píng guǒ shì hóng sè de 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-c962e2899a0dcb736ecbaba16dce89a3.png"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

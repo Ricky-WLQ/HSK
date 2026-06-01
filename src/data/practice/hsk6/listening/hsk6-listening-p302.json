@@ -1,0 +1,189 @@
+{
+ "id": "hsk6-listening-p302",
+ "level": "6",
+ "section": "listening",
+ "partKey": "listening-p3",
+ "title": "HSK6 Listening P3",
+ "titleZh": "听力 第三部分（听访谈选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听下面的访谈，然后回答5个问题。每段对话只读一遍。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "男主人公最初从事什么职业？",
+     "correctAnswer": "D",
+     "explanation": "对话中男主人公提到自己曾经是一位工程师，后来转行成为艺术家。",
+     "options": [
+      {
+       "label": "A",
+       "text": "医生"
+      },
+      {
+       "label": "B",
+       "text": "艺术家"
+      },
+      {
+       "label": "C",
+       "text": "教师"
+      },
+      {
+       "label": "D",
+       "text": "工程师"
+      }
+     ]
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "是什么促使他决定转行？",
+     "correctAnswer": "A",
+     "explanation": "男主人公说自己对绘画有浓厚兴趣，为了追求艺术梦想而转行。",
+     "options": [
+      {
+       "label": "A",
+       "text": "对艺术的热情"
+      },
+      {
+       "label": "B",
+       "text": "朋友建议"
+      },
+      {
+       "label": "C",
+       "text": "经济压力"
+      },
+      {
+       "label": "D",
+       "text": "工作稳定"
+      }
+     ]
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "转行过程中遇到的最大困难是什么？",
+     "correctAnswer": "A",
+     "explanation": "男主人公明确表示最大的困难是经济压力，从稳定收入到零收入很艰难。",
+     "options": [
+      {
+       "label": "A",
+       "text": "经济压力"
+      },
+      {
+       "label": "B",
+       "text": "技能不足"
+      },
+      {
+       "label": "C",
+       "text": "家人反对"
+      },
+      {
+       "label": "D",
+       "text": "缺乏灵感"
+      }
+     ]
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "他对现在的生活有什么评价？",
+     "correctAnswer": "C",
+     "explanation": "男主人公说现在的生活虽然辛苦，但非常充实，有成就感。",
+     "options": [
+      {
+       "label": "A",
+       "text": "无聊"
+      },
+      {
+       "label": "B",
+       "text": "轻松"
+      },
+      {
+       "label": "C",
+       "text": "充实但辛苦"
+      },
+      {
+       "label": "D",
+       "text": "后悔"
+      }
+     ]
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "关于追求梦想，他给出了什么建议？",
+     "correctAnswer": "B",
+     "explanation": "男主人公建议理性规划，考虑现实，做好财务和心理准备。",
+     "options": [
+      {
+       "label": "A",
+       "text": "要等待机会"
+      },
+      {
+       "label": "B",
+       "text": "要理性规划"
+      },
+      {
+       "label": "C",
+       "text": "要模仿他人"
+      },
+      {
+       "label": "D",
+       "text": "要不顾一切"
+      }
+     ]
+    }
+   ],
+   "audio": {
+    "key": "listening/v1/aa4a9ab57f128454649484ac94fe334265d8b924f7afe1f9c013159569707108.mp3",
+    "lines": [
+     {
+      "speaker": "女",
+      "voice": "female",
+      "text": "欢迎来到我们的访谈节目。今天我们有位特别的嘉宾，他曾经是一位工程师，后来毅然转行成为了一名艺术家。请问，是什么让您做出这样的决定呢？"
+     },
+     {
+      "speaker": "男",
+      "voice": "male",
+      "text": "谢谢。其实我一直对绘画有着浓厚的兴趣，但以前为了稳定选择了工程工作。几年下来，我发现自己越来越不快乐，最终决定追随内心，去追求艺术梦想。"
+     },
+     {
+      "speaker": "女",
+      "voice": "female",
+      "text": "这个转变一定不容易吧？您在转行过程中遇到过哪些困难？"
+     },
+     {
+      "speaker": "男",
+      "voice": "male",
+      "text": "最大的困难是经济压力。从稳定的收入到零收入，前期确实很艰难。另外，家人的不理解也让我压力很大，但我坚持了下来。"
+     },
+     {
+      "speaker": "女",
+      "voice": "female",
+      "text": "现在您的生活怎么样？和以前相比有什么不同？"
+     },
+     {
+      "speaker": "男",
+      "voice": "male",
+      "text": "现在的生活虽然辛苦，但非常充实。每天都能做自己喜欢的事，而且我的作品也得到了不少人的认可，这让我很有成就感。"
+     },
+     {
+      "speaker": "女",
+      "voice": "female",
+      "text": "最后，对于想要追求梦想的人，您有什么建议吗？"
+     },
+     {
+      "speaker": "男",
+      "voice": "male",
+      "text": "我建议一定要理性规划。梦想固然重要，但也要考虑现实，做好财务准备和心理建设，这样才能走得更远。"
+     }
+    ],
+    "transcript": "欢迎来到我们的访谈节目。今天我们有位特别的嘉宾，他曾经是一位工程师，后来毅然转行成为了一名艺术家。请问，是什么让您做出这样的决定呢？ 谢谢。其实我一直对绘画有着浓厚的兴趣，但以前为了稳定选择了工程工作。几年下来，我发现自己越来越不快乐，最终决定追随内心，去追求艺术梦想。 这个转变一定不容易吧？您在转行过程中遇到过哪些困难？ 最大的困难是经济压力。从稳定的收入到零收入，前期确实很艰难。另外，家人的不理解也让我压力很大，但我坚持了下来。 现在您的生活怎么样？和以前相比有什么不同？ 现在的生活虽然辛苦，但非常充实。每天都能做自己喜欢的事，而且我的作品也得到了不少人的认可，这让我很有成就感。 最后，对于想要追求梦想的人，您有什么建议吗？ 我建议一定要理性规划。梦想固然重要，但也要考虑现实，做好财务准备和心理建设，这样才能走得更远。",
+    "transcriptPinyin": null
+   }
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

@@ -1,0 +1,179 @@
+{
+ "id": "hsk4-listening-p217",
+ "level": "4",
+ "section": "listening",
+ "partKey": "listening-p2",
+ "title": "HSK4 Listening P2",
+ "titleZh": "听力 第二部分（听短文选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听下面的一段话，回答第1到第6题。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "作者为什么搬家？",
+     "correctAnswer": "A",
+     "explanation": "文中明确说因为原来的房子离公司太远，每天上下班要花两个多小时，所以决定搬家。",
+     "options": [
+      {
+       "label": "A",
+       "text": "原来的房子离公司太远"
+      },
+      {
+       "label": "B",
+       "text": "原来的房子太贵"
+      },
+      {
+       "label": "C",
+       "text": "原来的房子太小"
+      },
+      {
+       "label": "D",
+       "text": "原来的房子不干净"
+      }
+     ]
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "新房子周围有什么？",
+     "correctAnswer": "C",
+     "explanation": "文中提到新房子周围有超市和公园，生活非常方便。",
+     "options": [
+      {
+       "label": "A",
+       "text": "银行和邮局"
+      },
+      {
+       "label": "B",
+       "text": "餐厅和商场"
+      },
+      {
+       "label": "C",
+       "text": "超市和公园"
+      },
+      {
+       "label": "D",
+       "text": "学校和医院"
+      }
+     ]
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "搬家那天谁帮了作者的忙？",
+     "correctAnswer": "D",
+     "explanation": "文中说搬家那天请了几个朋友来帮忙。",
+     "options": [
+      {
+       "label": "A",
+       "text": "邻居"
+      },
+      {
+       "label": "B",
+       "text": "同事"
+      },
+      {
+       "label": "C",
+       "text": "家人"
+      },
+      {
+       "label": "D",
+       "text": "朋友"
+      }
+     ]
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "为了感谢帮忙的朋友，作者做了什么？",
+     "correctAnswer": "D",
+     "explanation": "文中说为了感谢他们，请他们去附近的一家餐厅吃了饭。",
+     "options": [
+      {
+       "label": "A",
+       "text": "给了他们钱"
+      },
+      {
+       "label": "B",
+       "text": "一起去看电影"
+      },
+      {
+       "label": "C",
+       "text": "送他们礼物"
+      },
+      {
+       "label": "D",
+       "text": "请他们吃饭"
+      }
+     ]
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "搬家后，作者每天可以多睡多久？",
+     "correctAnswer": "C",
+     "explanation": "文中说现在每天早上可以多睡半小时。",
+     "options": [
+      {
+       "label": "A",
+       "text": "十五分钟"
+      },
+      {
+       "label": "B",
+       "text": "两小时"
+      },
+      {
+       "label": "C",
+       "text": "半小时"
+      },
+      {
+       "label": "D",
+       "text": "一小时"
+      }
+     ]
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "作者现在对生活感觉如何？",
+     "correctAnswer": "B",
+     "explanation": "文中说感觉生活比以前舒服多了。",
+     "options": [
+      {
+       "label": "A",
+       "text": "比以前更忙"
+      },
+      {
+       "label": "B",
+       "text": "比以前舒服"
+      },
+      {
+       "label": "C",
+       "text": "和以前一样"
+      },
+      {
+       "label": "D",
+       "text": "比以前更累"
+      }
+     ]
+    }
+   ],
+   "audio": {
+    "key": "listening/v1/ea8ec1380d5e552ab8caa857675321cf2ec53c7e30515dcf5bdeac72141c5c78.mp3",
+    "lines": [
+     {
+      "speaker": "旁白",
+      "voice": "narrator",
+      "text": "上个月我搬了一次家。因为原来的房子离公司太远，每天上下班要花两个多小时。所以我决定在公司附近租一个新房子。新房子虽然不大，但是很干净，而且周围有超市和公园，生活非常方便。搬家那天，我请了几个朋友来帮忙。我们一起搬家具、整理东西，忙了一整天。晚上，为了感谢他们，我请他们去附近的一家餐厅吃了饭。现在，我每天早上可以多睡半小时，晚上还能去公园散步，感觉生活比以前舒服多了。"
+     }
+    ],
+    "transcript": "上个月我搬了一次家。因为原来的房子离公司太远，每天上下班要花两个多小时。所以我决定在公司附近租一个新房子。新房子虽然不大，但是很干净，而且周围有超市和公园，生活非常方便。搬家那天，我请了几个朋友来帮忙。我们一起搬家具、整理东西，忙了一整天。晚上，为了感谢他们，我请他们去附近的一家餐厅吃了饭。现在，我每天早上可以多睡半小时，晚上还能去公园散步，感觉生活比以前舒服多了。",
+    "transcriptPinyin": null
+   }
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

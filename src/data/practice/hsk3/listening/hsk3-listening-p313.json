@@ -1,0 +1,387 @@
+{
+ "id": "hsk3-listening-p313",
+ "level": "3",
+ "section": "listening",
+ "partKey": "listening-p3",
+ "title": "HSK3 Listening P3",
+ "titleZh": "听力 第三部分（听短文选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听下面的录音，然后回答问题。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "他们今天怎么回家的？",
+     "correctAnswer": "C",
+     "explanation": "旁白说他们坐地铁回家，所以正确选项是坐地铁。",
+     "audio": {
+      "key": "listening/v1/9c552e0ff86c2350536d13b9ba73318d9f113607501e71460fb9674ab3037315.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "今天星期六，我和朋友一起去超市。我们买了水果和牛奶。然后坐地铁回家。"
+       }
+      ],
+      "transcript": "今天星期六，我和朋友一起去超市。我们买了水果和牛奶。然后坐地铁回家。",
+      "transcriptPinyin": "jīn tiān xīng qī liù ， wǒ hé péng yǒu yì qǐ qù chāo shì 。 wǒ men mǎi le shuǐ guǒ hé niú nǎi 。 rán hòu zuò dì tiě huí jiā 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "走路",
+       "pinyin": "zǒu lù"
+      },
+      {
+       "label": "B",
+       "text": "坐公交车",
+       "pinyin": "zuò gōng jiāo chē"
+      },
+      {
+       "label": "C",
+       "text": "坐地铁",
+       "pinyin": "zuò dì tiě"
+      }
+     ],
+     "pinyin": "tā men jīn tiān zěn me huí jiā de ？"
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "小明的姐姐今年多大？",
+     "correctAnswer": "C",
+     "explanation": "小明十岁，姐姐比他大三岁，所以姐姐十三岁。",
+     "audio": {
+      "key": "listening/v1/93c1e2ed3e36c4f18d0ec47ecb2926cf0b8f943e1fdef64f6858520b6dc3e0ee.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "小明今年十岁，他姐姐比他大三岁。姐姐现在上初中。"
+       }
+      ],
+      "transcript": "小明今年十岁，他姐姐比他大三岁。姐姐现在上初中。",
+      "transcriptPinyin": "xiǎo míng jīn nián shí suì ， tā jiě jiě bǐ tā dà sān suì 。 jiě jiě xiàn zài shàng chū zhōng 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "十岁",
+       "pinyin": "shí suì"
+      },
+      {
+       "label": "B",
+       "text": "七岁",
+       "pinyin": "qī suì"
+      },
+      {
+       "label": "C",
+       "text": "十三岁",
+       "pinyin": "shí sān suì"
+      }
+     ],
+     "pinyin": "xiǎo míng de jiě jiě jīn nián duō dà ？"
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "王老师要求带什么？",
+     "correctAnswer": "A",
+     "explanation": "旁白说王老师要带一张有家人的照片，所以是家人的照片。",
+     "audio": {
+      "key": "listening/v1/c561e2ffc1148d2675fe5f7ea98a6303846de918b433dff60412766bc1bdfe3b.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "王老师要我们明天带一张照片来学校，照片里要有家人。"
+       }
+      ],
+      "transcript": "王老师要我们明天带一张照片来学校，照片里要有家人。",
+      "transcriptPinyin": "wáng lǎo shī yào wǒ men míng tiān dài yī zhāng zhào piān lái xué xiào ， zhào piān lǐ yào yǒu jiā rén 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "一张家人的照片",
+       "pinyin": "yī zhāng jiā rén de zhào piān"
+      },
+      {
+       "label": "B",
+       "text": "一本书",
+       "pinyin": "yī běn shū"
+      },
+      {
+       "label": "C",
+       "text": "一支笔",
+       "pinyin": "yī zhī bǐ"
+      }
+     ],
+     "pinyin": "wáng lǎo shī yāo qiú dài shén me ？"
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "说话的人为什么跑回家？",
+     "correctAnswer": "A",
+     "explanation": "旁白说突然下雨了，所以跑回家里。",
+     "audio": {
+      "key": "listening/v1/3e8e3bd0687fe6b1551f91cd12929d987717899d06fa0359991f17083d8b06ac.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "昨天下午三点，我在公园跑步，突然下雨了，我跑回家里。"
+       }
+      ],
+      "transcript": "昨天下午三点，我在公园跑步，突然下雨了，我跑回家里。",
+      "transcriptPinyin": "zuó tiān xià wǔ sān diǎn ， wǒ zài gōng yuán pǎo bù ， tū rán xià yǔ le ， wǒ pǎo huí jiā lǐ 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "因为下雨了",
+       "pinyin": "yīn wèi xià yǔ le"
+      },
+      {
+       "label": "B",
+       "text": "因为天黑了",
+       "pinyin": "yīn wèi tiān hēi le"
+      },
+      {
+       "label": "C",
+       "text": "因为肚子饿",
+       "pinyin": "yīn wèi dù zi è"
+      }
+     ],
+     "pinyin": "shuō huà de rén wéi shén me pǎo huí jiā ？"
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "钱包里有什么？",
+     "correctAnswer": "A",
+     "explanation": "旁白说钱包里有一百块钱和两张银行卡。",
+     "audio": {
+      "key": "listening/v1/145425a50a88d971735728d4174e833593c226731b427e1a5990bda19fde5b37.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我的钱包是蓝色的，里面有一百块钱和两张银行卡。"
+       }
+      ],
+      "transcript": "我的钱包是蓝色的，里面有一百块钱和两张银行卡。",
+      "transcriptPinyin": "wǒ de qián bāo shì lán sè de ， lǐ miàn yǒu yì bǎi kuài qián hé liǎng zhāng yín háng kǎ 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "一百块钱和两张银行卡",
+       "pinyin": "yì bǎi kuài qián hé liǎng zhāng yín háng kǎ"
+      },
+      {
+       "label": "B",
+       "text": "二百块钱和三张卡",
+       "pinyin": "èr bǎi kuài qián hé sān zhāng kǎ"
+      },
+      {
+       "label": "C",
+       "text": "五十块钱和一张卡",
+       "pinyin": "wǔ shí kuài qián hé yī zhāng kǎ"
+      }
+     ],
+     "pinyin": "qián bāo lǐ yǒu shén me ？"
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "说话的人周末去了哪里？",
+     "correctAnswer": "C",
+     "explanation": "旁白说因为图书馆不开门，所以去了电影院看电影。",
+     "audio": {
+      "key": "listening/v1/8b8bbf8eb2eba0db3dcc404dd6166de7722a2d06f0ac34adc129f3c7e466e9ee.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "周末我想去图书馆看书，但是图书馆不开门。所以我去了电影院看电影。"
+       }
+      ],
+      "transcript": "周末我想去图书馆看书，但是图书馆不开门。所以我去了电影院看电影。",
+      "transcriptPinyin": "zhōu mò wǒ xiǎng qù tú shū guǎn kàn shū ， dàn shì tú shū guǎn bù kāi mén 。 suǒ yǐ wǒ qù le diàn yǐng yuàn kàn diàn yǐng 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "书店",
+       "pinyin": "shū diàn"
+      },
+      {
+       "label": "B",
+       "text": "图书馆",
+       "pinyin": "tú shū guǎn"
+      },
+      {
+       "label": "C",
+       "text": "电影院",
+       "pinyin": "diàn yǐng yuàn"
+      }
+     ],
+     "pinyin": "shuō huà de rén zhōu mò qù le nǎ lǐ ？"
+    },
+    {
+     "id": "q7",
+     "type": "listening-mcq",
+     "prompt": "说话的人最后在哪里买的鸡蛋？",
+     "correctAnswer": "B",
+     "explanation": "旁白说冰箱里没有鸡蛋，只好去楼下小商店买。",
+     "audio": {
+      "key": "listening/v1/eea03cbfbc9e48ffb23427bc7adc113313a43bd28ca0235e6093f31812e44acc.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "妈妈让我去超市买鸡蛋，她说鸡蛋在冰箱里，可是冰箱里没有，我只好去楼下小商店买。"
+       }
+      ],
+      "transcript": "妈妈让我去超市买鸡蛋，她说鸡蛋在冰箱里，可是冰箱里没有，我只好去楼下小商店买。",
+      "transcriptPinyin": "mā mā ràng wǒ qù chāo shì mǎi jī dàn ， tā shuō jī dàn zài bīng xiāng lǐ ， kě shì bīng xiāng lǐ méi yǒu ， wǒ zhǐ hǎo qù lóu xià xiǎo shāng diàn mǎi 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "超市",
+       "pinyin": "chāo shì"
+      },
+      {
+       "label": "B",
+       "text": "楼下小商店",
+       "pinyin": "lóu xià xiǎo shāng diàn"
+      },
+      {
+       "label": "C",
+       "text": "冰箱里",
+       "pinyin": "bīng xiāng lǐ"
+      }
+     ],
+     "pinyin": "shuō huà de rén zuì hòu zài nǎ lǐ mǎi de jī dàn ？"
+    },
+    {
+     "id": "q8",
+     "type": "listening-mcq",
+     "prompt": "学校有多少女生？",
+     "correctAnswer": "C",
+     "explanation": "总学生一千，男生比女生多二百，设女生为x，则男生为x+200，总和2x+200=1000，x=400，所以女生四百。",
+     "audio": {
+      "key": "listening/v1/4b9cdd91bfaa6b1876651c13bd0613c937a6a12485ee70a229b74bd4b4b58bae.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我们学校有一千个学生，其中男生比女生多二百个。"
+       }
+      ],
+      "transcript": "我们学校有一千个学生，其中男生比女生多二百个。",
+      "transcriptPinyin": "wǒ men xué xiào yǒu yī qiān gè xué shēng ， qí zhōng nán shēng bǐ nǚ shēng duō èr bǎi gè 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "六百个",
+       "pinyin": "liù bǎi gè"
+      },
+      {
+       "label": "B",
+       "text": "五百个",
+       "pinyin": "wǔ bǎi gè"
+      },
+      {
+       "label": "C",
+       "text": "四百个",
+       "pinyin": "sì bǎi gè"
+      }
+     ],
+     "pinyin": "xué xiào yǒu duō shǎo nǚ shēng ？"
+    },
+    {
+     "id": "q9",
+     "type": "listening-mcq",
+     "prompt": "说话的人要去哪里修手表？",
+     "correctAnswer": "C",
+     "explanation": "旁白说朋友说商场里面有钟表店，所以要去商场里的钟表店。",
+     "audio": {
+      "key": "listening/v1/a6c436ce35c6a2165b05ac06ce6d3bb49e180d2e658f4bd3dfae20d08759f40a.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我的手表坏了，我想去钟表店修一下，朋友说在商场里面有一家。"
+       }
+      ],
+      "transcript": "我的手表坏了，我想去钟表店修一下，朋友说在商场里面有一家。",
+      "transcriptPinyin": "wǒ de shǒu biǎo huài le ， wǒ xiǎng qù zhōng biǎo diàn xiū yī xià ， péng yǒu shuō zài shāng chǎng lǐ miàn yǒu yī jiā 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "朋友家",
+       "pinyin": "péng yǒu jiā"
+      },
+      {
+       "label": "B",
+       "text": "学校旁边的店",
+       "pinyin": "xué xiào páng biān de diàn"
+      },
+      {
+       "label": "C",
+       "text": "商场里的钟表店",
+       "pinyin": "shāng chǎng lǐ de zhōng biǎo diàn"
+      }
+     ],
+     "pinyin": "shuō huà de rén yào qù nǎ lǐ xiū shǒu biǎo ？"
+    },
+    {
+     "id": "q10",
+     "type": "listening-mcq",
+     "prompt": "说话的人明天要做什么？",
+     "correctAnswer": "A",
+     "explanation": "旁白说打算给妈妈买一条红色裙子作为生日礼物。",
+     "audio": {
+      "key": "listening/v1/15090b98ab7ac3afe0c9dc618a919b0554f7372c3bcbe6d2e5452bfb8c5ed9b6.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "明天是妈妈的生日，我打算给她买一条红色的裙子，她喜欢红色。"
+       }
+      ],
+      "transcript": "明天是妈妈的生日，我打算给她买一条红色的裙子，她喜欢红色。",
+      "transcriptPinyin": "míng tiān shì mā mā de shēng rì ， wǒ dǎ suàn gěi tā mǎi yī tiáo hóng sè de qún zi ， tā xǐ huān hóng sè 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "给妈妈买裙子",
+       "pinyin": "gěi mā mā mǎi qún zi"
+      },
+      {
+       "label": "B",
+       "text": "过自己的生日",
+       "pinyin": "guò zì jǐ de shēng rì"
+      },
+      {
+       "label": "C",
+       "text": "穿红色裙子",
+       "pinyin": "chuān hóng sè qún zi"
+      }
+     ],
+     "pinyin": "shuō huà de rén míng tiān yào zuò shén me ？"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

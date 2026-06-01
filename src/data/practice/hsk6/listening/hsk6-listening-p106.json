@@ -1,0 +1,313 @@
+{
+ "id": "hsk6-listening-p106",
+ "level": "6",
+ "section": "listening",
+ "partKey": "listening-p1",
+ "title": "HSK6 Listening P1",
+ "titleZh": "听力 第一部分（听新闻选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听下面8段新闻，每段新闻后有一个问题，从A、B、C、D四个选项中选出最佳答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "根据录音，关于中国经济，下列哪项是正确的？",
+     "correctAnswer": "D",
+     "explanation": "录音明确指出服务业对经济增长的贡献率达到了60.5%，超过一半，因此选项B正确。其他选项与原文不符。",
+     "audio": {
+      "key": "listening/v1/5fd0eb8c84feba9e055a9493e890daed4ced6d16965d315219f4c020798fb983.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "国家统计局今日发布的数据显示，今年上半年国内生产总值同比增长6.3%，其中服务业增长较快，对经济增长的贡献率达到了60.5%。专家指出，服务业已成为拉动中国经济增长的主要动力。"
+       }
+      ],
+      "transcript": "国家统计局今日发布的数据显示，今年上半年国内生产总值同比增长6.3%，其中服务业增长较快，对经济增长的贡献率达到了60.5%。专家指出，服务业已成为拉动中国经济增长的主要动力。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "上半年经济增速与去年持平"
+      },
+      {
+       "label": "B",
+       "text": "制造业是经济增长的主要动力"
+      },
+      {
+       "label": "C",
+       "text": "服务业增长缓慢"
+      },
+      {
+       "label": "D",
+       "text": "服务业对经济增长的贡献超过一半"
+      }
+     ]
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "关于城市居民的健身习惯，录音中提到了什么？",
+     "correctAnswer": "A",
+     "explanation": "录音提到跑步和游泳是最受欢迎的运动项目，因此选项B正确。其他选项与原文不符。",
+     "audio": {
+      "key": "listening/v1/79b9e0b42838610a2c2670d93a7ebacd1f331d046c546ff8a036a26e82f9b43b.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "近日，一项针对城市居民健身习惯的调查显示，超过七成的受访者表示每周至少锻炼三次，其中跑步和游泳是最受欢迎的运动项目。调查还发现，年轻人群更倾向于选择高强度的间歇训练。"
+       }
+      ],
+      "transcript": "近日，一项针对城市居民健身习惯的调查显示，超过七成的受访者表示每周至少锻炼三次，其中跑步和游泳是最受欢迎的运动项目。调查还发现，年轻人群更倾向于选择高强度的间歇训练。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "跑步和游泳最受欢迎"
+      },
+      {
+       "label": "B",
+       "text": "超过七成受访者每天锻炼"
+      },
+      {
+       "label": "C",
+       "text": "调查对象仅限于老年人"
+      },
+      {
+       "label": "D",
+       "text": "老年人更喜欢高强度训练"
+      }
+     ]
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "关于高中课程改革，下列哪项说法正确？",
+     "correctAnswer": "C",
+     "explanation": "录音明确说明新课程更加注重学生的综合素质培养，因此选项D正确。其他选项与原文相反或不符。",
+     "audio": {
+      "key": "listening/v1/b92e4dc051f0ffd93877a51f4fea7d56a159030cf57e659611199d83e772851b.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "教育部今天宣布，将于明年秋季开始在全国范围内推行新的高中课程改革，新课程将更加注重学生的综合素质培养，减少必修课比例，增加选修课数量。这一改革旨在提高学生的创新能力和实践能力。"
+       }
+      ],
+      "transcript": "教育部今天宣布，将于明年秋季开始在全国范围内推行新的高中课程改革，新课程将更加注重学生的综合素质培养，减少必修课比例，增加选修课数量。这一改革旨在提高学生的创新能力和实践能力。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "改革将于今年秋季开始"
+      },
+      {
+       "label": "B",
+       "text": "新课程将增加必修课比例"
+      },
+      {
+       "label": "C",
+       "text": "新课程更注重综合素质培养"
+      },
+      {
+       "label": "D",
+       "text": "改革目的是提高学生考试成绩"
+      }
+     ]
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "关于流星雨的预报，以下哪项正确？",
+     "correctAnswer": "B",
+     "explanation": "录音提到如果天气晴朗，市民有望看到流星，因此选项C正确。其他选项与原文时间或数量描述不符。",
+     "audio": {
+      "key": "listening/v1/a80163482900a8b284a0ae72ea93ec72ff3bea02201a7f373f41babe5527523e.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "据天文台预报，本周末将有一次罕见的流星雨出现，最佳观测时间在凌晨两点至四点之间。届时如果天气晴朗，市民有望每小时看到数十颗流星划过夜空。"
+       }
+      ],
+      "transcript": "据天文台预报，本周末将有一次罕见的流星雨出现，最佳观测时间在凌晨两点至四点之间。届时如果天气晴朗，市民有望每小时看到数十颗流星划过夜空。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "每小时只能看到几颗流星"
+      },
+      {
+       "label": "B",
+       "text": "天气晴朗时观测效果更佳"
+      },
+      {
+       "label": "C",
+       "text": "最佳观测时间是晚上八点"
+      },
+      {
+       "label": "D",
+       "text": "流星雨将在白天出现"
+      }
+     ]
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "关于这项研究，下列哪项说法正确？",
+     "correctAnswer": "B",
+     "explanation": "录音建议尽量保持规律的作息时间，因此选项C正确。其他选项与原文内容相悖。",
+     "audio": {
+      "key": "listening/v1/f3e13d1d5ca0eada72c899e2061469012cc161acd4639d128e31a61e029c752d.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "一项最新研究显示，长期熬夜会导致记忆力下降，增加患心血管疾病的风险。研究人员建议，成年人每晚应保证七到九小时的睡眠，并尽量保持规律的作息时间。"
+       }
+      ],
+      "transcript": "一项最新研究显示，长期熬夜会导致记忆力下降，增加患心血管疾病的风险。研究人员建议，成年人每晚应保证七到九小时的睡眠，并尽量保持规律的作息时间。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "研究认为熬夜有益"
+      },
+      {
+       "label": "B",
+       "text": "规律作息对健康很重要"
+      },
+      {
+       "label": "C",
+       "text": "熬夜对健康没有影响"
+      },
+      {
+       "label": "D",
+       "text": "成年人每天需要十小时睡眠"
+      }
+     ]
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "关于新型智能列车，以下哪项正确？",
+     "correctAnswer": "B",
+     "explanation": "录音明确说明车厢内将实现全面覆盖5G网络，因此选项C正确。其他选项与原文时速或服务描述不符。",
+     "audio": {
+      "key": "listening/v1/0aa80250c8f050e66249f415b38a050f56b3419ba2afaf101b0d083295e48457.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "中国铁路总公司宣布，从下月起，高铁将推出新型智能列车，最高时速可达350公里，且车厢内将实现全面覆盖5G网络，为乘客提供更快捷的互联网服务。"
+       }
+      ],
+      "transcript": "中国铁路总公司宣布，从下月起，高铁将推出新型智能列车，最高时速可达350公里，且车厢内将实现全面覆盖5G网络，为乘客提供更快捷的互联网服务。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "车厢内没有网络覆盖"
+      },
+      {
+       "label": "B",
+       "text": "将提供5G网络服务"
+      },
+      {
+       "label": "C",
+       "text": "最高时速为250公里"
+      },
+      {
+       "label": "D",
+       "text": "下个月开始降价"
+      }
+     ]
+    },
+    {
+     "id": "q7",
+     "type": "listening-mcq",
+     "prompt": "关于2032年夏季奥运会，下列哪项正确？",
+     "correctAnswer": "D",
+     "explanation": "录音提到举办城市在亚洲，且拥有完善的体育设施和丰富的办赛经验，因此选项C正确。其他选项与原文信息矛盾。",
+     "audio": {
+      "key": "listening/v1/597d22789a9e025b83737c23d130316ff7b57b791c18012ef792ce74db4fa83b.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "国际奥委会今天宣布，2032年夏季奥运会将在一个亚洲城市举办，该城市曾举办过多次国际体育赛事，拥有完善的体育设施和丰富的办赛经验。"
+       }
+      ],
+      "transcript": "国际奥委会今天宣布，2032年夏季奥运会将在一个亚洲城市举办，该城市曾举办过多次国际体育赛事，拥有完善的体育设施和丰富的办赛经验。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "举办城市在非洲"
+      },
+      {
+       "label": "B",
+       "text": "该城市从未举办过国际赛事"
+      },
+      {
+       "label": "C",
+       "text": "该城市缺乏办赛经验"
+      },
+      {
+       "label": "D",
+       "text": "举办城市在亚洲且设施完善"
+      }
+     ]
+    },
+    {
+     "id": "q8",
+     "type": "listening-mcq",
+     "prompt": "关于这场暴雨，以下哪项正确？",
+     "correctAnswer": "B",
+     "explanation": "录音提到暴雨导致交通一度瘫痪，即严重拥堵，因此选项C正确。其他选项与原文未来天气或预警情况不符。",
+     "audio": {
+      "key": "listening/v1/3a4638dfda8a2c3b4a20300845bcae748570ed1baa51212f3ea924796c948027.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "今天上午，一场暴雨突袭本市，导致多个路段严重积水，交通一度瘫痪。气象部门预计，未来三天仍将有持续降雨，提醒市民出行注意安全。"
+       }
+      ],
+      "transcript": "今天上午，一场暴雨突袭本市，导致多个路段严重积水，交通一度瘫痪。气象部门预计，未来三天仍将有持续降雨，提醒市民出行注意安全。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "暴雨只持续了一个小时"
+      },
+      {
+       "label": "B",
+       "text": "暴雨导致交通拥堵"
+      },
+      {
+       "label": "C",
+       "text": "未来三天天气将转晴"
+      },
+      {
+       "label": "D",
+       "text": "气象部门未发布预警"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

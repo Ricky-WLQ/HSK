@@ -1,0 +1,117 @@
+{
+ "id": "hsk1-listening-p117",
+ "level": "1",
+ "section": "listening",
+ "partKey": "listening-p1",
+ "title": "HSK1 Listening P1",
+ "titleZh": "听力 第一部分（看图判断）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "听句子，看图片，判断对错。对的选“对”，错的选“错”。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "对",
+     "explanation": "图片里有一个人在吃苹果，和句子意思相符。",
+     "audio": {
+      "key": "listening/v1/040bb96fae2c1e99930ff89d62b816b967148863009026365c83e98ed935b701.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我吃苹果。"
+       }
+      ],
+      "transcript": "我吃苹果。",
+      "transcriptPinyin": "wǒ chī píng guǒ 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-9399e2f2fa6bc999fcd392b4b2898d44.png"
+    },
+    {
+     "id": "q2",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "错",
+     "explanation": "图片里她在喝水，不是喝牛奶。",
+     "audio": {
+      "key": "listening/v1/afb0ff692a0f378b1dd379371edbaa15f20d919efd4cc5063c9d55329b4e229b.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "她喝牛奶。"
+       }
+      ],
+      "transcript": "她喝牛奶。",
+      "transcriptPinyin": "tā hē niú nǎi 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-c4a81a97f88537e7141054de464634c0.png"
+    },
+    {
+     "id": "q3",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "错",
+     "explanation": "图片里猫在椅子上，不是在桌子上。",
+     "audio": {
+      "key": "listening/v1/07a084230348fc3a4fa757443b2deb2f1cb25363d92a326091117d34d50eaa14.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "猫在桌子上。"
+       }
+      ],
+      "transcript": "猫在桌子上。",
+      "transcriptPinyin": "māo zài zhuō zi shàng 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-7965b5565735f266de6d2e7e605e7331.png"
+    },
+    {
+     "id": "q4",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "对",
+     "explanation": "图片里他在看书，和句子意思相符。",
+     "audio": {
+      "key": "listening/v1/90f21c82510549c519a019de53c1a6fb1a640c9c480d425d5dbef23ac9d9509c.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "他看书。"
+       }
+      ],
+      "transcript": "他看书。",
+      "transcriptPinyin": "tā kàn shū 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-3210134f8a48116c1921de1d35f0f344.png"
+    },
+    {
+     "id": "q5",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "错",
+     "explanation": "图片里有四个人，不是三个人。",
+     "audio": {
+      "key": "listening/v1/be5d4008171b89259c6518a14d7b60fb37f99b88188d25a5c03ea86dbf608506.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我家有三个人。"
+       }
+      ],
+      "transcript": "我家有三个人。",
+      "transcriptPinyin": "wǒ jiā yǒu sān gè rén 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-05b2ee24323e3b2846e0024097c05f0d.png"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

@@ -1,0 +1,202 @@
+{
+ "id": "hsk1-listening-p407",
+ "level": "1",
+ "section": "listening",
+ "partKey": "listening-p4",
+ "title": "HSK1 Listening P4",
+ "titleZh": "听力 第四部分（听问句选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听录音，然后回答问题。每个问题有A、B、C三个选项，请选择正确的答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "他是什么？",
+     "correctAnswer": "C",
+     "explanation": "录音中说他是学生，所以正确答案是学生。",
+     "audio": {
+      "key": "listening/v1/2161c3b43609f5f52849c6c39ff429499e5b452a83a79ac74f89c0edb2cec869.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "他是学生。他每天去学校。他是什么？"
+       }
+      ],
+      "transcript": "他是学生。他每天去学校。他是什么？",
+      "transcriptPinyin": "tā shì xué shēng 。 tā měi tiān qù xué xiào 。 tā shì shén me ？"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "医生",
+       "pinyin": "yī shēng"
+      },
+      {
+       "label": "B",
+       "text": "老师",
+       "pinyin": "lǎo shī"
+      },
+      {
+       "label": "C",
+       "text": "学生",
+       "pinyin": "xué shēng"
+      }
+     ],
+     "pinyin": "tā shì shén me ？"
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "我有几只猫？",
+     "correctAnswer": "C",
+     "explanation": "录音中说我有两只猫，所以正确答案是两只。",
+     "audio": {
+      "key": "listening/v1/8d9bcd27380c15fbe5ee3b3092f531e977abf0d5c95fd90d551ad2cb80760120.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我有两只猫。一只是白色的。一只是黑色的。我有几只猫？"
+       }
+      ],
+      "transcript": "我有两只猫。一只是白色的。一只是黑色的。我有几只猫？",
+      "transcriptPinyin": "wǒ yǒu liǎng zhǐ māo 。 yī zhī shì bái sè de 。 yī zhī shì hēi sè de 。 wǒ yǒu jǐ zhī māo ？"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "三只",
+       "pinyin": "sān zhǐ"
+      },
+      {
+       "label": "B",
+       "text": "一只",
+       "pinyin": "yī zhī"
+      },
+      {
+       "label": "C",
+       "text": "两只",
+       "pinyin": "liǎng zhǐ"
+      }
+     ],
+     "pinyin": "wǒ yǒu jǐ zhī māo ？"
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "爸爸在哪里工作？",
+     "correctAnswer": "B",
+     "explanation": "录音中说爸爸工作在医院，所以正确答案是医院。",
+     "audio": {
+      "key": "listening/v1/1c4664eaae9de84f41d3e1693ef5d96cd38efaf1aa2ee28d15756a5cebdfd4ed.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我爸爸是医生。他工作在医院。爸爸在哪里工作？"
+       }
+      ],
+      "transcript": "我爸爸是医生。他工作在医院。爸爸在哪里工作？",
+      "transcriptPinyin": "wǒ bà bà shì yī shēng 。 tā gōng zuò zài yī yuàn 。 bà bà zài nǎ lǐ gōng zuò ？"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "商店",
+       "pinyin": "shāng diàn"
+      },
+      {
+       "label": "B",
+       "text": "医院",
+       "pinyin": "yī yuàn"
+      },
+      {
+       "label": "C",
+       "text": "学校",
+       "pinyin": "xué xiào"
+      }
+     ],
+     "pinyin": "bà bà zài nǎ lǐ gōng zuò ？"
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "她喜欢吃什么？",
+     "correctAnswer": "B",
+     "explanation": "录音中说她喜欢苹果，所以正确答案是苹果。",
+     "audio": {
+      "key": "listening/v1/221b12d1be21d3a56bb5c1732e20853d5898cfc76d37ed6a49d268aa1e12578b.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "她喜欢苹果。她每天吃一个。她喜欢吃什么？"
+       }
+      ],
+      "transcript": "她喜欢苹果。她每天吃一个。她喜欢吃什么？",
+      "transcriptPinyin": "tā xǐ huān píng guǒ 。 tā měi tiān chī yí gè 。 tā xǐ huān chī shén me ？"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "牛奶",
+       "pinyin": "niú nǎi"
+      },
+      {
+       "label": "B",
+       "text": "苹果",
+       "pinyin": "píng guǒ"
+      },
+      {
+       "label": "C",
+       "text": "面包",
+       "pinyin": "miàn bāo"
+      }
+     ],
+     "pinyin": "tā xǐ huān chī shén me ？"
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "我有几个哥哥？",
+     "correctAnswer": "A",
+     "explanation": "录音中说我有两个哥哥，所以正确答案是两个。",
+     "audio": {
+      "key": "listening/v1/a09e94f6916a93ef40f78ff954f2f8df1e872edb2f87904190ba028bdedc6c43.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我有两个哥哥。他们都很高。我有几个哥哥？"
+       }
+      ],
+      "transcript": "我有两个哥哥。他们都很高。我有几个哥哥？",
+      "transcriptPinyin": "wǒ yǒu liǎng gè gē gē 。 tā men dōu hěn gāo 。 wǒ yǒu jǐ gè gē gē ？"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "两个",
+       "pinyin": "liǎng gè"
+      },
+      {
+       "label": "B",
+       "text": "一个",
+       "pinyin": "yí gè"
+      },
+      {
+       "label": "C",
+       "text": "三个",
+       "pinyin": "sān gè"
+      }
+     ],
+     "pinyin": "wǒ yǒu jǐ gè gē gē ？"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

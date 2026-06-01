@@ -1,0 +1,64 @@
+{
+ "id": "hsk7-9-listening-p110",
+ "level": "7-9",
+ "section": "listening",
+ "partKey": "listening-p1",
+ "title": "HSK7-9 Listening P1",
+ "titleZh": "听力 第一部分（判断对错）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听一段关于人工智能在医疗领域应用的新闻报道，然后判断下面5个句子的正误。正确的选“对”，错误的选“错”。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-statement-true-false",
+     "prompt": "该医院引入的AI系统主要用于分析CT影像。",
+     "correctAnswer": "对",
+     "explanation": "录音中提到“这套系统能够快速分析CT影像”，与题目描述一致。"
+    },
+    {
+     "id": "q2",
+     "type": "listening-statement-true-false",
+     "prompt": "AI系统对早期肺结节的检出率比传统人工阅片低。",
+     "correctAnswer": "错",
+     "explanation": "录音指出AI的检出率高达百分之九十五以上，而人工阅片平均百分之七十，所以AI更高。"
+    },
+    {
+     "id": "q3",
+     "type": "listening-statement-true-false",
+     "prompt": "AI系统在图像质量不佳时仍然能保持高准确率。",
+     "correctAnswer": "错",
+     "explanation": "录音明确说“在图像质量不佳时容易产生误判”，因此并非高准确率。"
+    },
+    {
+     "id": "q4",
+     "type": "listening-statement-true-false",
+     "prompt": "该AI系统已经应用于偏远地区的远程医疗。",
+     "correctAnswer": "对",
+     "explanation": "录音提到“该系统在偏远地区的远程医疗中也发挥了重要作用”，与题目相符。"
+    },
+    {
+     "id": "q5",
+     "type": "listening-statement-true-false",
+     "prompt": "目前AI已经可以完全取代放射科医生进行最终诊断。",
+     "correctAnswer": "错",
+     "explanation": "录音指出“AI完全取代医生尚需时日”，且最终诊断仍需医生确认。"
+    }
+   ],
+   "audio": {
+    "key": "listening/v1/42575cc51071355242b0f80b499d78f955cb0ba2278f8a06e4cd66829e74ed4e.mp3",
+    "lines": [
+     {
+      "speaker": "旁白",
+      "voice": "narrator",
+      "text": "近年来，人工智能在医疗领域的应用发展迅速，特别是在医学影像诊断方面取得了显著突破。以中国某三甲医院为例，该院自2019年起引入了一套基于深度学习的肺癌筛查系统。这套系统能够快速分析CT影像，对早期肺结节的检出率高达百分之九十五以上，远高于传统人工阅片的平均百分之七十。不过，专家也指出，AI诊断仍存在局限性，比如对罕见病变的识别能力不足，以及在图像质量不佳时容易产生误判。因此，目前AI更多是作为辅助工具，最终诊断仍需由经验丰富的放射科医生确认。此外，该系统在偏远地区的远程医疗中也发挥了重要作用，帮助基层医生提高了诊断水平。但整体来看，AI完全取代医生尚需时日。"
+     }
+    ],
+    "transcript": "近年来，人工智能在医疗领域的应用发展迅速，特别是在医学影像诊断方面取得了显著突破。以中国某三甲医院为例，该院自2019年起引入了一套基于深度学习的肺癌筛查系统。这套系统能够快速分析CT影像，对早期肺结节的检出率高达百分之九十五以上，远高于传统人工阅片的平均百分之七十。不过，专家也指出，AI诊断仍存在局限性，比如对罕见病变的识别能力不足，以及在图像质量不佳时容易产生误判。因此，目前AI更多是作为辅助工具，最终诊断仍需由经验丰富的放射科医生确认。此外，该系统在偏远地区的远程医疗中也发挥了重要作用，帮助基层医生提高了诊断水平。但整体来看，AI完全取代医生尚需时日。",
+    "transcriptPinyin": null
+   }
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

@@ -1,0 +1,289 @@
+{
+ "id": "hsk2-listening-p220",
+ "level": "2",
+ "section": "listening",
+ "partKey": "listening-p2",
+ "title": "HSK2 Listening P2",
+ "titleZh": "听力 第二部分（看图听对话）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "听录音，选择与对话内容一致的图片。每个对话对应一张图片，图片可以重复选择。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "B",
+     "explanation": "对话中说'我在看电视'，图片B是一个女人在看电视，与对话内容相符。",
+     "audio": {
+      "key": "listening/v1/47e92ecc15204c4536f98a26a84c2044a4ea3b4dd44969c84982f0c3eb3179a8.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你在干什么？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我在看电视。"
+       }
+      ],
+      "transcript": "你在干什么？ 我在看电视。",
+      "transcriptPinyin": "nǐ zài gàn shén me ？  wǒ zài kàn diàn shì 。"
+     }
+    },
+    {
+     "id": "q2",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "A",
+     "explanation": "对话中谈到有人在喝水，图片A是一个男人在喝水，与对话内容相符。",
+     "audio": {
+      "key": "listening/v1/40166d30c0fe54cb68519088bbf317ce8735251ab0844d748f413b0acf90adec.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "他喝水吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "是的，他在喝水。"
+       }
+      ],
+      "transcript": "他喝水吗？ 是的，他在喝水。",
+      "transcriptPinyin": "tā hē shuǐ ma ？  shì de ， tā zài hē shuǐ 。"
+     }
+    },
+    {
+     "id": "q3",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "C",
+     "explanation": "对话中孩子回答在写字，图片C是一个男孩在写字，与对话内容相符。",
+     "audio": {
+      "key": "listening/v1/6135285340efe767d7d43dbf8c35b7dd85802ad4bab7b90f50cb09b03d06d194.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "小朋友，你在做什么？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我在写字。"
+       }
+      ],
+      "transcript": "小朋友，你在做什么？ 我在写字。",
+      "transcriptPinyin": "xiǎo péng yǒu ， nǐ zài zuò shén me ？  wǒ zài xiě zì 。"
+     }
+    },
+    {
+     "id": "q4",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "D",
+     "explanation": "对话中谈到有人在吃饭，图片D是一个女孩在吃饭，与对话内容相符。",
+     "audio": {
+      "key": "listening/v1/ce1aa4235c9dc4903fb36a2fb71dff9dcad039f4aecc40d39ce05d1a651c0f2d.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "她吃饭了吗？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "她正在吃饭。"
+       }
+      ],
+      "transcript": "她吃饭了吗？ 她正在吃饭。",
+      "transcriptPinyin": "tā chī fàn le ma ？  tā zhèng zài chī fàn 。"
+     }
+    },
+    {
+     "id": "q5",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "E",
+     "explanation": "对话中谈到喜欢踢足球，图片E是一个男人在踢足球，与对话内容相符。",
+     "audio": {
+      "key": "listening/v1/11424370dd906f99aeb10354f4f5f97fa1f0729ee1f958f08ccffeb26516cad4.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你儿子喜欢什么？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "他喜欢踢足球。"
+       }
+      ],
+      "transcript": "你儿子喜欢什么？ 他喜欢踢足球。",
+      "transcriptPinyin": "nǐ ér zi xǐ huān shén me ？  tā xǐ huān tī zú qiú 。"
+     }
+    },
+    {
+     "id": "q6",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "B",
+     "explanation": "对话中说'我看电视'，图片B是一个女人在看电视，与对话内容相符。",
+     "audio": {
+      "key": "listening/v1/8bdae973a8a87683d6b42a14916b9a8259adf02b9baeb4dbc21035aea9f57305.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你晚上做什么？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我看电视。"
+       }
+      ],
+      "transcript": "你晚上做什么？ 我看电视。",
+      "transcriptPinyin": "nǐ wǎn shàng zuò shén me ？  wǒ kàn diàn shì 。"
+     }
+    },
+    {
+     "id": "q7",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "A",
+     "explanation": "对话中谈到有人要喝水，图片A是一个男人在喝水，与对话内容相符。",
+     "audio": {
+      "key": "listening/v1/8f960189bd40f4047cb4187781ae8dea9682f397c49a02492c5b7b87dc5a8fa1.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "她渴了吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "对，她要喝水。"
+       }
+      ],
+      "transcript": "她渴了吗？ 对，她要喝水。",
+      "transcriptPinyin": "tā kě le ma ？  duì ， tā yào hē shuǐ 。"
+     }
+    },
+    {
+     "id": "q8",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "C",
+     "explanation": "对话中谈到写字，图片C是一个男孩在写字，与对话内容相符。",
+     "audio": {
+      "key": "listening/v1/936e7f86054dd35972cd9e1131249a2c4f5d813badf147f623bfea17069f9297.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你会写字吗？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "会，我天天写字。"
+       }
+      ],
+      "transcript": "你会写字吗？ 会，我天天写字。",
+      "transcriptPinyin": "nǐ huì xiě zì ma ？  huì ， wǒ tiān tiān xiě zì 。"
+     }
+    },
+    {
+     "id": "q9",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "D",
+     "explanation": "对话中谈到有人在吃饭，图片D是一个女孩在吃饭，与对话内容相符。",
+     "audio": {
+      "key": "listening/v1/9784106135fe53ecbd34e42018ad0ce3d39cb5e9a2ec589af8781e2acf986e3c.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你妹妹在做什么？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "她在吃饭。"
+       }
+      ],
+      "transcript": "你妹妹在做什么？ 她在吃饭。",
+      "transcriptPinyin": "nǐ mèi mèi zài zuò shén me ？  tā zài chī fàn 。"
+     }
+    },
+    {
+     "id": "q10",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "E",
+     "explanation": "对话中谈到有人在踢足球，图片E是一个男人在踢足球，与对话内容相符。",
+     "audio": {
+      "key": "listening/v1/551941b72a65cf5dbb76320cb52cfedb836216042224e98ac985525231d41111.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "那个男人在做什么？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "他在踢足球。"
+       }
+      ],
+      "transcript": "那个男人在做什么？ 他在踢足球。",
+      "transcriptPinyin": "nà ge nán rén zài zuò shén me ？  tā zài tī zú qiú 。"
+     }
+    }
+   ],
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-e092330c1d0b5c831b2d3388a548bb32.png"
+    },
+    {
+     "label": "B",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-64f679e40c887adbad0d6d4ae85d387a.png"
+    },
+    {
+     "label": "C",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-19ec8d14cf040497ee72062de265834d.png"
+    },
+    {
+     "label": "D",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-90746957d2996aca9606c784bf358242.png"
+    },
+    {
+     "label": "E",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-f50d71429a113fa5bbd4c292e2fc9dab.png"
+    },
+    {
+     "label": "F",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-d8dedf8aea1bbba7acb230ca2a710aa4.png"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

@@ -1,6 +1,3606 @@
 {
- "generated": "2026-06-01T05:53:49.299205+00:00",
+ "generated": "2026-06-01T09:28:49.317697+00:00",
  "sets": [
+  {
+   "id": "hsk1-listening-p101",
+   "level": "1",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK1 Listening P1",
+   "titleZh": "听力 第一部分（看图判断）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk1-listening-p102",
+   "level": "1",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK1 Listening P1",
+   "titleZh": "听力 第一部分（看图判断）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk1-listening-p103",
+   "level": "1",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK1 Listening P1",
+   "titleZh": "听力 第一部分（看图判断）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk1-listening-p104",
+   "level": "1",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK1 Listening P1",
+   "titleZh": "听力 第一部分（看图判断）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk1-listening-p105",
+   "level": "1",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK1 Listening P1",
+   "titleZh": "听力 第一部分（看图判断）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk1-listening-p106",
+   "level": "1",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK1 Listening P1",
+   "titleZh": "听力 第一部分（看图判断）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk1-listening-p107",
+   "level": "1",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK1 Listening P1",
+   "titleZh": "听力 第一部分（看图判断）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk1-listening-p108",
+   "level": "1",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK1 Listening P1",
+   "titleZh": "听力 第一部分（看图判断）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk1-listening-p109",
+   "level": "1",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK1 Listening P1",
+   "titleZh": "听力 第一部分（看图判断）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk1-listening-p110",
+   "level": "1",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK1 Listening P1",
+   "titleZh": "听力 第一部分（看图判断）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk1-listening-p111",
+   "level": "1",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK1 Listening P1",
+   "titleZh": "听力 第一部分（看图判断）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk1-listening-p112",
+   "level": "1",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK1 Listening P1",
+   "titleZh": "听力 第一部分（看图判断）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk1-listening-p113",
+   "level": "1",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK1 Listening P1",
+   "titleZh": "听力 第一部分（看图判断）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk1-listening-p114",
+   "level": "1",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK1 Listening P1",
+   "titleZh": "听力 第一部分（看图判断）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk1-listening-p115",
+   "level": "1",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK1 Listening P1",
+   "titleZh": "听力 第一部分（看图判断）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk1-listening-p116",
+   "level": "1",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK1 Listening P1",
+   "titleZh": "听力 第一部分（看图判断）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk1-listening-p117",
+   "level": "1",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK1 Listening P1",
+   "titleZh": "听力 第一部分（看图判断）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk1-listening-p118",
+   "level": "1",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK1 Listening P1",
+   "titleZh": "听力 第一部分（看图判断）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk1-listening-p119",
+   "level": "1",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK1 Listening P1",
+   "titleZh": "听力 第一部分（看图判断）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk1-listening-p120",
+   "level": "1",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK1 Listening P1",
+   "titleZh": "听力 第一部分（看图判断）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk1-listening-p201",
+   "level": "1",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK1 Listening P2",
+   "titleZh": "听力 第二部分（听句子选答语）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk1-listening-p202",
+   "level": "1",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK1 Listening P2",
+   "titleZh": "听力 第二部分（听句子选答语）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk1-listening-p203",
+   "level": "1",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK1 Listening P2",
+   "titleZh": "听力 第二部分（听句子选答语）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk1-listening-p204",
+   "level": "1",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK1 Listening P2",
+   "titleZh": "听力 第二部分（听句子选答语）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk1-listening-p205",
+   "level": "1",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK1 Listening P2",
+   "titleZh": "听力 第二部分（听句子选答语）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk1-listening-p206",
+   "level": "1",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK1 Listening P2",
+   "titleZh": "听力 第二部分（听句子选答语）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk1-listening-p207",
+   "level": "1",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK1 Listening P2",
+   "titleZh": "听力 第二部分（听句子选答语）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk1-listening-p208",
+   "level": "1",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK1 Listening P2",
+   "titleZh": "听力 第二部分（听句子选答语）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk1-listening-p209",
+   "level": "1",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK1 Listening P2",
+   "titleZh": "听力 第二部分（听句子选答语）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk1-listening-p210",
+   "level": "1",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK1 Listening P2",
+   "titleZh": "听力 第二部分（听句子选答语）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk1-listening-p211",
+   "level": "1",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK1 Listening P2",
+   "titleZh": "听力 第二部分（听句子选答语）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk1-listening-p212",
+   "level": "1",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK1 Listening P2",
+   "titleZh": "听力 第二部分（听句子选答语）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk1-listening-p213",
+   "level": "1",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK1 Listening P2",
+   "titleZh": "听力 第二部分（听句子选答语）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk1-listening-p214",
+   "level": "1",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK1 Listening P2",
+   "titleZh": "听力 第二部分（听句子选答语）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk1-listening-p215",
+   "level": "1",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK1 Listening P2",
+   "titleZh": "听力 第二部分（听句子选答语）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk1-listening-p216",
+   "level": "1",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK1 Listening P2",
+   "titleZh": "听力 第二部分（听句子选答语）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk1-listening-p217",
+   "level": "1",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK1 Listening P2",
+   "titleZh": "听力 第二部分（听句子选答语）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk1-listening-p218",
+   "level": "1",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK1 Listening P2",
+   "titleZh": "听力 第二部分（听句子选答语）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk1-listening-p219",
+   "level": "1",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK1 Listening P2",
+   "titleZh": "听力 第二部分（听句子选答语）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk1-listening-p220",
+   "level": "1",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK1 Listening P2",
+   "titleZh": "听力 第二部分（听句子选答语）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk1-listening-p301",
+   "level": "1",
+   "section": "listening",
+   "partKey": "listening-p3",
+   "title": "HSK1 Listening P3",
+   "titleZh": "听力 第三部分（看图听对话）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk1-listening-p302",
+   "level": "1",
+   "section": "listening",
+   "partKey": "listening-p3",
+   "title": "HSK1 Listening P3",
+   "titleZh": "听力 第三部分（看图听对话）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk1-listening-p303",
+   "level": "1",
+   "section": "listening",
+   "partKey": "listening-p3",
+   "title": "HSK1 Listening P3",
+   "titleZh": "听力 第三部分（看图听对话）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk1-listening-p304",
+   "level": "1",
+   "section": "listening",
+   "partKey": "listening-p3",
+   "title": "HSK1 Listening P3",
+   "titleZh": "听力 第三部分（看图听对话）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk1-listening-p305",
+   "level": "1",
+   "section": "listening",
+   "partKey": "listening-p3",
+   "title": "HSK1 Listening P3",
+   "titleZh": "听力 第三部分（看图听对话）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk1-listening-p306",
+   "level": "1",
+   "section": "listening",
+   "partKey": "listening-p3",
+   "title": "HSK1 Listening P3",
+   "titleZh": "听力 第三部分（看图听对话）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk1-listening-p307",
+   "level": "1",
+   "section": "listening",
+   "partKey": "listening-p3",
+   "title": "HSK1 Listening P3",
+   "titleZh": "听力 第三部分（看图听对话）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk1-listening-p308",
+   "level": "1",
+   "section": "listening",
+   "partKey": "listening-p3",
+   "title": "HSK1 Listening P3",
+   "titleZh": "听力 第三部分（看图听对话）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk1-listening-p309",
+   "level": "1",
+   "section": "listening",
+   "partKey": "listening-p3",
+   "title": "HSK1 Listening P3",
+   "titleZh": "听力 第三部分（看图听对话）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk1-listening-p310",
+   "level": "1",
+   "section": "listening",
+   "partKey": "listening-p3",
+   "title": "HSK1 Listening P3",
+   "titleZh": "听力 第三部分（看图听对话）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk1-listening-p311",
+   "level": "1",
+   "section": "listening",
+   "partKey": "listening-p3",
+   "title": "HSK1 Listening P3",
+   "titleZh": "听力 第三部分（看图听对话）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk1-listening-p312",
+   "level": "1",
+   "section": "listening",
+   "partKey": "listening-p3",
+   "title": "HSK1 Listening P3",
+   "titleZh": "听力 第三部分（看图听对话）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk1-listening-p313",
+   "level": "1",
+   "section": "listening",
+   "partKey": "listening-p3",
+   "title": "HSK1 Listening P3",
+   "titleZh": "听力 第三部分（看图听对话）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk1-listening-p314",
+   "level": "1",
+   "section": "listening",
+   "partKey": "listening-p3",
+   "title": "HSK1 Listening P3",
+   "titleZh": "听力 第三部分（看图听对话）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk1-listening-p315",
+   "level": "1",
+   "section": "listening",
+   "partKey": "listening-p3",
+   "title": "HSK1 Listening P3",
+   "titleZh": "听力 第三部分（看图听对话）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk1-listening-p316",
+   "level": "1",
+   "section": "listening",
+   "partKey": "listening-p3",
+   "title": "HSK1 Listening P3",
+   "titleZh": "听力 第三部分（看图听对话）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk1-listening-p317",
+   "level": "1",
+   "section": "listening",
+   "partKey": "listening-p3",
+   "title": "HSK1 Listening P3",
+   "titleZh": "听力 第三部分（看图听对话）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk1-listening-p318",
+   "level": "1",
+   "section": "listening",
+   "partKey": "listening-p3",
+   "title": "HSK1 Listening P3",
+   "titleZh": "听力 第三部分（看图听对话）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk1-listening-p319",
+   "level": "1",
+   "section": "listening",
+   "partKey": "listening-p3",
+   "title": "HSK1 Listening P3",
+   "titleZh": "听力 第三部分（看图听对话）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk1-listening-p320",
+   "level": "1",
+   "section": "listening",
+   "partKey": "listening-p3",
+   "title": "HSK1 Listening P3",
+   "titleZh": "听力 第三部分（看图听对话）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk1-listening-p401",
+   "level": "1",
+   "section": "listening",
+   "partKey": "listening-p4",
+   "title": "HSK1 Listening P4",
+   "titleZh": "听力 第四部分（听问句选答案）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk1-listening-p402",
+   "level": "1",
+   "section": "listening",
+   "partKey": "listening-p4",
+   "title": "HSK1 Listening P4",
+   "titleZh": "听力 第四部分（听问句选答案）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk1-listening-p403",
+   "level": "1",
+   "section": "listening",
+   "partKey": "listening-p4",
+   "title": "HSK1 Listening P4",
+   "titleZh": "听力 第四部分（听问句选答案）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk1-listening-p404",
+   "level": "1",
+   "section": "listening",
+   "partKey": "listening-p4",
+   "title": "HSK1 Listening P4",
+   "titleZh": "听力 第四部分（听问句选答案）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk1-listening-p405",
+   "level": "1",
+   "section": "listening",
+   "partKey": "listening-p4",
+   "title": "HSK1 Listening P4",
+   "titleZh": "听力 第四部分（听问句选答案）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk1-listening-p406",
+   "level": "1",
+   "section": "listening",
+   "partKey": "listening-p4",
+   "title": "HSK1 Listening P4",
+   "titleZh": "听力 第四部分（听问句选答案）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk1-listening-p407",
+   "level": "1",
+   "section": "listening",
+   "partKey": "listening-p4",
+   "title": "HSK1 Listening P4",
+   "titleZh": "听力 第四部分（听问句选答案）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk1-listening-p408",
+   "level": "1",
+   "section": "listening",
+   "partKey": "listening-p4",
+   "title": "HSK1 Listening P4",
+   "titleZh": "听力 第四部分（听问句选答案）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk1-listening-p409",
+   "level": "1",
+   "section": "listening",
+   "partKey": "listening-p4",
+   "title": "HSK1 Listening P4",
+   "titleZh": "听力 第四部分（听问句选答案）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk1-listening-p410",
+   "level": "1",
+   "section": "listening",
+   "partKey": "listening-p4",
+   "title": "HSK1 Listening P4",
+   "titleZh": "听力 第四部分（听问句选答案）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk1-listening-p411",
+   "level": "1",
+   "section": "listening",
+   "partKey": "listening-p4",
+   "title": "HSK1 Listening P4",
+   "titleZh": "听力 第四部分（听问句选答案）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk1-listening-p412",
+   "level": "1",
+   "section": "listening",
+   "partKey": "listening-p4",
+   "title": "HSK1 Listening P4",
+   "titleZh": "听力 第四部分（听问句选答案）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk1-listening-p413",
+   "level": "1",
+   "section": "listening",
+   "partKey": "listening-p4",
+   "title": "HSK1 Listening P4",
+   "titleZh": "听力 第四部分（听问句选答案）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk1-listening-p414",
+   "level": "1",
+   "section": "listening",
+   "partKey": "listening-p4",
+   "title": "HSK1 Listening P4",
+   "titleZh": "听力 第四部分（听问句选答案）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk1-listening-p415",
+   "level": "1",
+   "section": "listening",
+   "partKey": "listening-p4",
+   "title": "HSK1 Listening P4",
+   "titleZh": "听力 第四部分（听问句选答案）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk1-listening-p416",
+   "level": "1",
+   "section": "listening",
+   "partKey": "listening-p4",
+   "title": "HSK1 Listening P4",
+   "titleZh": "听力 第四部分（听问句选答案）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk1-listening-p417",
+   "level": "1",
+   "section": "listening",
+   "partKey": "listening-p4",
+   "title": "HSK1 Listening P4",
+   "titleZh": "听力 第四部分（听问句选答案）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk1-listening-p418",
+   "level": "1",
+   "section": "listening",
+   "partKey": "listening-p4",
+   "title": "HSK1 Listening P4",
+   "titleZh": "听力 第四部分（听问句选答案）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk1-listening-p419",
+   "level": "1",
+   "section": "listening",
+   "partKey": "listening-p4",
+   "title": "HSK1 Listening P4",
+   "titleZh": "听力 第四部分（听问句选答案）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk1-listening-p420",
+   "level": "1",
+   "section": "listening",
+   "partKey": "listening-p4",
+   "title": "HSK1 Listening P4",
+   "titleZh": "听力 第四部分（听问句选答案）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk2-listening-p101",
+   "level": "2",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK2 Listening P1",
+   "titleZh": "听力 第一部分（看图判断）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk2-listening-p102",
+   "level": "2",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK2 Listening P1",
+   "titleZh": "听力 第一部分（看图判断）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk2-listening-p103",
+   "level": "2",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK2 Listening P1",
+   "titleZh": "听力 第一部分（看图判断）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk2-listening-p104",
+   "level": "2",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK2 Listening P1",
+   "titleZh": "听力 第一部分（看图判断）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk2-listening-p105",
+   "level": "2",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK2 Listening P1",
+   "titleZh": "听力 第一部分（看图判断）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk2-listening-p106",
+   "level": "2",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK2 Listening P1",
+   "titleZh": "听力 第一部分（看图判断）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk2-listening-p107",
+   "level": "2",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK2 Listening P1",
+   "titleZh": "听力 第一部分（看图判断）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk2-listening-p108",
+   "level": "2",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK2 Listening P1",
+   "titleZh": "听力 第一部分（看图判断）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk2-listening-p109",
+   "level": "2",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK2 Listening P1",
+   "titleZh": "听力 第一部分（看图判断）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk2-listening-p110",
+   "level": "2",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK2 Listening P1",
+   "titleZh": "听力 第一部分（看图判断）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk2-listening-p111",
+   "level": "2",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK2 Listening P1",
+   "titleZh": "听力 第一部分（看图判断）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk2-listening-p112",
+   "level": "2",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK2 Listening P1",
+   "titleZh": "听力 第一部分（看图判断）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk2-listening-p113",
+   "level": "2",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK2 Listening P1",
+   "titleZh": "听力 第一部分（看图判断）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk2-listening-p114",
+   "level": "2",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK2 Listening P1",
+   "titleZh": "听力 第一部分（看图判断）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk2-listening-p115",
+   "level": "2",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK2 Listening P1",
+   "titleZh": "听力 第一部分（看图判断）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk2-listening-p116",
+   "level": "2",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK2 Listening P1",
+   "titleZh": "听力 第一部分（看图判断）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk2-listening-p117",
+   "level": "2",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK2 Listening P1",
+   "titleZh": "听力 第一部分（看图判断）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk2-listening-p118",
+   "level": "2",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK2 Listening P1",
+   "titleZh": "听力 第一部分（看图判断）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk2-listening-p119",
+   "level": "2",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK2 Listening P1",
+   "titleZh": "听力 第一部分（看图判断）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk2-listening-p120",
+   "level": "2",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK2 Listening P1",
+   "titleZh": "听力 第一部分（看图判断）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk2-listening-p201",
+   "level": "2",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK2 Listening P2",
+   "titleZh": "听力 第二部分（看图听对话）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk2-listening-p202",
+   "level": "2",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK2 Listening P2",
+   "titleZh": "听力 第二部分（看图听对话）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk2-listening-p203",
+   "level": "2",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK2 Listening P2",
+   "titleZh": "听力 第二部分（看图听对话）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk2-listening-p204",
+   "level": "2",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK2 Listening P2",
+   "titleZh": "听力 第二部分（看图听对话）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk2-listening-p205",
+   "level": "2",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK2 Listening P2",
+   "titleZh": "听力 第二部分（看图听对话）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk2-listening-p206",
+   "level": "2",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK2 Listening P2",
+   "titleZh": "听力 第二部分（看图听对话）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk2-listening-p207",
+   "level": "2",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK2 Listening P2",
+   "titleZh": "听力 第二部分（看图听对话）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk2-listening-p208",
+   "level": "2",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK2 Listening P2",
+   "titleZh": "听力 第二部分（看图听对话）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk2-listening-p209",
+   "level": "2",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK2 Listening P2",
+   "titleZh": "听力 第二部分（看图听对话）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk2-listening-p210",
+   "level": "2",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK2 Listening P2",
+   "titleZh": "听力 第二部分（看图听对话）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk2-listening-p211",
+   "level": "2",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK2 Listening P2",
+   "titleZh": "听力 第二部分（看图听对话）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk2-listening-p212",
+   "level": "2",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK2 Listening P2",
+   "titleZh": "听力 第二部分（看图听对话）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk2-listening-p213",
+   "level": "2",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK2 Listening P2",
+   "titleZh": "听力 第二部分（看图听对话）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk2-listening-p214",
+   "level": "2",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK2 Listening P2",
+   "titleZh": "听力 第二部分（看图听对话）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk2-listening-p215",
+   "level": "2",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK2 Listening P2",
+   "titleZh": "听力 第二部分（看图听对话）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk2-listening-p216",
+   "level": "2",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK2 Listening P2",
+   "titleZh": "听力 第二部分（看图听对话）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk2-listening-p217",
+   "level": "2",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK2 Listening P2",
+   "titleZh": "听力 第二部分（看图听对话）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk2-listening-p218",
+   "level": "2",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK2 Listening P2",
+   "titleZh": "听力 第二部分（看图听对话）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk2-listening-p219",
+   "level": "2",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK2 Listening P2",
+   "titleZh": "听力 第二部分（看图听对话）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk2-listening-p220",
+   "level": "2",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK2 Listening P2",
+   "titleZh": "听力 第二部分（看图听对话）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk2-listening-p301",
+   "level": "2",
+   "section": "listening",
+   "partKey": "listening-p3",
+   "title": "HSK2 Listening P3",
+   "titleZh": "听力 第三部分（听对话选答案）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk2-listening-p302",
+   "level": "2",
+   "section": "listening",
+   "partKey": "listening-p3",
+   "title": "HSK2 Listening P3",
+   "titleZh": "听力 第三部分（听对话选答案）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk2-listening-p303",
+   "level": "2",
+   "section": "listening",
+   "partKey": "listening-p3",
+   "title": "HSK2 Listening P3",
+   "titleZh": "听力 第三部分（听对话选答案）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk2-listening-p304",
+   "level": "2",
+   "section": "listening",
+   "partKey": "listening-p3",
+   "title": "HSK2 Listening P3",
+   "titleZh": "听力 第三部分（听对话选答案）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk2-listening-p305",
+   "level": "2",
+   "section": "listening",
+   "partKey": "listening-p3",
+   "title": "HSK2 Listening P3",
+   "titleZh": "听力 第三部分（听对话选答案）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk2-listening-p306",
+   "level": "2",
+   "section": "listening",
+   "partKey": "listening-p3",
+   "title": "HSK2 Listening P3",
+   "titleZh": "听力 第三部分（听对话选答案）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk2-listening-p307",
+   "level": "2",
+   "section": "listening",
+   "partKey": "listening-p3",
+   "title": "HSK2 Listening P3",
+   "titleZh": "听力 第三部分（听对话选答案）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk2-listening-p308",
+   "level": "2",
+   "section": "listening",
+   "partKey": "listening-p3",
+   "title": "HSK2 Listening P3",
+   "titleZh": "听力 第三部分（听对话选答案）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk2-listening-p309",
+   "level": "2",
+   "section": "listening",
+   "partKey": "listening-p3",
+   "title": "HSK2 Listening P3",
+   "titleZh": "听力 第三部分（听对话选答案）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk2-listening-p310",
+   "level": "2",
+   "section": "listening",
+   "partKey": "listening-p3",
+   "title": "HSK2 Listening P3",
+   "titleZh": "听力 第三部分（听对话选答案）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk2-listening-p311",
+   "level": "2",
+   "section": "listening",
+   "partKey": "listening-p3",
+   "title": "HSK2 Listening P3",
+   "titleZh": "听力 第三部分（听对话选答案）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk2-listening-p312",
+   "level": "2",
+   "section": "listening",
+   "partKey": "listening-p3",
+   "title": "HSK2 Listening P3",
+   "titleZh": "听力 第三部分（听对话选答案）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk2-listening-p313",
+   "level": "2",
+   "section": "listening",
+   "partKey": "listening-p3",
+   "title": "HSK2 Listening P3",
+   "titleZh": "听力 第三部分（听对话选答案）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk2-listening-p314",
+   "level": "2",
+   "section": "listening",
+   "partKey": "listening-p3",
+   "title": "HSK2 Listening P3",
+   "titleZh": "听力 第三部分（听对话选答案）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk2-listening-p315",
+   "level": "2",
+   "section": "listening",
+   "partKey": "listening-p3",
+   "title": "HSK2 Listening P3",
+   "titleZh": "听力 第三部分（听对话选答案）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk2-listening-p316",
+   "level": "2",
+   "section": "listening",
+   "partKey": "listening-p3",
+   "title": "HSK2 Listening P3",
+   "titleZh": "听力 第三部分（听对话选答案）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk2-listening-p317",
+   "level": "2",
+   "section": "listening",
+   "partKey": "listening-p3",
+   "title": "HSK2 Listening P3",
+   "titleZh": "听力 第三部分（听对话选答案）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk2-listening-p318",
+   "level": "2",
+   "section": "listening",
+   "partKey": "listening-p3",
+   "title": "HSK2 Listening P3",
+   "titleZh": "听力 第三部分（听对话选答案）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk2-listening-p319",
+   "level": "2",
+   "section": "listening",
+   "partKey": "listening-p3",
+   "title": "HSK2 Listening P3",
+   "titleZh": "听力 第三部分（听对话选答案）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk2-listening-p320",
+   "level": "2",
+   "section": "listening",
+   "partKey": "listening-p3",
+   "title": "HSK2 Listening P3",
+   "titleZh": "听力 第三部分（听对话选答案）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk3-listening-p101",
+   "level": "3",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK3 Listening P1",
+   "titleZh": "听力 第一部分（看图听对话）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk3-listening-p102",
+   "level": "3",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK3 Listening P1",
+   "titleZh": "听力 第一部分（看图听对话）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk3-listening-p103",
+   "level": "3",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK3 Listening P1",
+   "titleZh": "听力 第一部分（看图听对话）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk3-listening-p104",
+   "level": "3",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK3 Listening P1",
+   "titleZh": "听力 第一部分（看图听对话）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk3-listening-p105",
+   "level": "3",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK3 Listening P1",
+   "titleZh": "听力 第一部分（看图听对话）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk3-listening-p106",
+   "level": "3",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK3 Listening P1",
+   "titleZh": "听力 第一部分（看图听对话）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk3-listening-p107",
+   "level": "3",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK3 Listening P1",
+   "titleZh": "听力 第一部分（看图听对话）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk3-listening-p108",
+   "level": "3",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK3 Listening P1",
+   "titleZh": "听力 第一部分（看图听对话）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk3-listening-p109",
+   "level": "3",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK3 Listening P1",
+   "titleZh": "听力 第一部分（看图听对话）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk3-listening-p110",
+   "level": "3",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK3 Listening P1",
+   "titleZh": "听力 第一部分（看图听对话）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk3-listening-p111",
+   "level": "3",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK3 Listening P1",
+   "titleZh": "听力 第一部分（看图听对话）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk3-listening-p112",
+   "level": "3",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK3 Listening P1",
+   "titleZh": "听力 第一部分（看图听对话）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk3-listening-p113",
+   "level": "3",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK3 Listening P1",
+   "titleZh": "听力 第一部分（看图听对话）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk3-listening-p114",
+   "level": "3",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK3 Listening P1",
+   "titleZh": "听力 第一部分（看图听对话）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk3-listening-p115",
+   "level": "3",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK3 Listening P1",
+   "titleZh": "听力 第一部分（看图听对话）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk3-listening-p116",
+   "level": "3",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK3 Listening P1",
+   "titleZh": "听力 第一部分（看图听对话）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk3-listening-p117",
+   "level": "3",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK3 Listening P1",
+   "titleZh": "听力 第一部分（看图听对话）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk3-listening-p118",
+   "level": "3",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK3 Listening P1",
+   "titleZh": "听力 第一部分（看图听对话）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk3-listening-p119",
+   "level": "3",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK3 Listening P1",
+   "titleZh": "听力 第一部分（看图听对话）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk3-listening-p120",
+   "level": "3",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK3 Listening P1",
+   "titleZh": "听力 第一部分（看图听对话）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk3-listening-p201",
+   "level": "3",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK3 Listening P2",
+   "titleZh": "听力 第二部分（听对话选答案）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk3-listening-p202",
+   "level": "3",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK3 Listening P2",
+   "titleZh": "听力 第二部分（听对话选答案）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk3-listening-p203",
+   "level": "3",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK3 Listening P2",
+   "titleZh": "听力 第二部分（听对话选答案）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk3-listening-p204",
+   "level": "3",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK3 Listening P2",
+   "titleZh": "听力 第二部分（听对话选答案）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk3-listening-p205",
+   "level": "3",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK3 Listening P2",
+   "titleZh": "听力 第二部分（听对话选答案）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk3-listening-p206",
+   "level": "3",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK3 Listening P2",
+   "titleZh": "听力 第二部分（听对话选答案）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk3-listening-p207",
+   "level": "3",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK3 Listening P2",
+   "titleZh": "听力 第二部分（听对话选答案）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk3-listening-p208",
+   "level": "3",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK3 Listening P2",
+   "titleZh": "听力 第二部分（听对话选答案）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk3-listening-p209",
+   "level": "3",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK3 Listening P2",
+   "titleZh": "听力 第二部分（听对话选答案）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk3-listening-p210",
+   "level": "3",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK3 Listening P2",
+   "titleZh": "听力 第二部分（听对话选答案）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk3-listening-p211",
+   "level": "3",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK3 Listening P2",
+   "titleZh": "听力 第二部分（听对话选答案）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk3-listening-p212",
+   "level": "3",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK3 Listening P2",
+   "titleZh": "听力 第二部分（听对话选答案）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk3-listening-p213",
+   "level": "3",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK3 Listening P2",
+   "titleZh": "听力 第二部分（听对话选答案）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk3-listening-p214",
+   "level": "3",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK3 Listening P2",
+   "titleZh": "听力 第二部分（听对话选答案）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk3-listening-p215",
+   "level": "3",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK3 Listening P2",
+   "titleZh": "听力 第二部分（听对话选答案）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk3-listening-p216",
+   "level": "3",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK3 Listening P2",
+   "titleZh": "听力 第二部分（听对话选答案）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk3-listening-p217",
+   "level": "3",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK3 Listening P2",
+   "titleZh": "听力 第二部分（听对话选答案）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk3-listening-p218",
+   "level": "3",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK3 Listening P2",
+   "titleZh": "听力 第二部分（听对话选答案）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk3-listening-p219",
+   "level": "3",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK3 Listening P2",
+   "titleZh": "听力 第二部分（听对话选答案）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk3-listening-p220",
+   "level": "3",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK3 Listening P2",
+   "titleZh": "听力 第二部分（听对话选答案）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk3-listening-p301",
+   "level": "3",
+   "section": "listening",
+   "partKey": "listening-p3",
+   "title": "HSK3 Listening P3",
+   "titleZh": "听力 第三部分（听短文选答案）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk3-listening-p302",
+   "level": "3",
+   "section": "listening",
+   "partKey": "listening-p3",
+   "title": "HSK3 Listening P3",
+   "titleZh": "听力 第三部分（听短文选答案）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk3-listening-p303",
+   "level": "3",
+   "section": "listening",
+   "partKey": "listening-p3",
+   "title": "HSK3 Listening P3",
+   "titleZh": "听力 第三部分（听短文选答案）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk3-listening-p304",
+   "level": "3",
+   "section": "listening",
+   "partKey": "listening-p3",
+   "title": "HSK3 Listening P3",
+   "titleZh": "听力 第三部分（听短文选答案）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk3-listening-p305",
+   "level": "3",
+   "section": "listening",
+   "partKey": "listening-p3",
+   "title": "HSK3 Listening P3",
+   "titleZh": "听力 第三部分（听短文选答案）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk3-listening-p306",
+   "level": "3",
+   "section": "listening",
+   "partKey": "listening-p3",
+   "title": "HSK3 Listening P3",
+   "titleZh": "听力 第三部分（听短文选答案）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk3-listening-p307",
+   "level": "3",
+   "section": "listening",
+   "partKey": "listening-p3",
+   "title": "HSK3 Listening P3",
+   "titleZh": "听力 第三部分（听短文选答案）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk3-listening-p308",
+   "level": "3",
+   "section": "listening",
+   "partKey": "listening-p3",
+   "title": "HSK3 Listening P3",
+   "titleZh": "听力 第三部分（听短文选答案）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk3-listening-p309",
+   "level": "3",
+   "section": "listening",
+   "partKey": "listening-p3",
+   "title": "HSK3 Listening P3",
+   "titleZh": "听力 第三部分（听短文选答案）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk3-listening-p310",
+   "level": "3",
+   "section": "listening",
+   "partKey": "listening-p3",
+   "title": "HSK3 Listening P3",
+   "titleZh": "听力 第三部分（听短文选答案）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk3-listening-p311",
+   "level": "3",
+   "section": "listening",
+   "partKey": "listening-p3",
+   "title": "HSK3 Listening P3",
+   "titleZh": "听力 第三部分（听短文选答案）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk3-listening-p312",
+   "level": "3",
+   "section": "listening",
+   "partKey": "listening-p3",
+   "title": "HSK3 Listening P3",
+   "titleZh": "听力 第三部分（听短文选答案）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk3-listening-p313",
+   "level": "3",
+   "section": "listening",
+   "partKey": "listening-p3",
+   "title": "HSK3 Listening P3",
+   "titleZh": "听力 第三部分（听短文选答案）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk3-listening-p314",
+   "level": "3",
+   "section": "listening",
+   "partKey": "listening-p3",
+   "title": "HSK3 Listening P3",
+   "titleZh": "听力 第三部分（听短文选答案）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk3-listening-p315",
+   "level": "3",
+   "section": "listening",
+   "partKey": "listening-p3",
+   "title": "HSK3 Listening P3",
+   "titleZh": "听力 第三部分（听短文选答案）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk3-listening-p316",
+   "level": "3",
+   "section": "listening",
+   "partKey": "listening-p3",
+   "title": "HSK3 Listening P3",
+   "titleZh": "听力 第三部分（听短文选答案）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk3-listening-p317",
+   "level": "3",
+   "section": "listening",
+   "partKey": "listening-p3",
+   "title": "HSK3 Listening P3",
+   "titleZh": "听力 第三部分（听短文选答案）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk3-listening-p318",
+   "level": "3",
+   "section": "listening",
+   "partKey": "listening-p3",
+   "title": "HSK3 Listening P3",
+   "titleZh": "听力 第三部分（听短文选答案）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk3-listening-p319",
+   "level": "3",
+   "section": "listening",
+   "partKey": "listening-p3",
+   "title": "HSK3 Listening P3",
+   "titleZh": "听力 第三部分（听短文选答案）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk3-listening-p320",
+   "level": "3",
+   "section": "listening",
+   "partKey": "listening-p3",
+   "title": "HSK3 Listening P3",
+   "titleZh": "听力 第三部分（听短文选答案）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk4-listening-p101",
+   "level": "4",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK4 Listening P1",
+   "titleZh": "听力 第一部分（听对话选答案）",
+   "questionCount": 14
+  },
+  {
+   "id": "hsk4-listening-p102",
+   "level": "4",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK4 Listening P1",
+   "titleZh": "听力 第一部分（听对话选答案）",
+   "questionCount": 14
+  },
+  {
+   "id": "hsk4-listening-p103",
+   "level": "4",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK4 Listening P1",
+   "titleZh": "听力 第一部分（听对话选答案）",
+   "questionCount": 14
+  },
+  {
+   "id": "hsk4-listening-p104",
+   "level": "4",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK4 Listening P1",
+   "titleZh": "听力 第一部分（听对话选答案）",
+   "questionCount": 14
+  },
+  {
+   "id": "hsk4-listening-p105",
+   "level": "4",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK4 Listening P1",
+   "titleZh": "听力 第一部分（听对话选答案）",
+   "questionCount": 14
+  },
+  {
+   "id": "hsk4-listening-p106",
+   "level": "4",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK4 Listening P1",
+   "titleZh": "听力 第一部分（听对话选答案）",
+   "questionCount": 14
+  },
+  {
+   "id": "hsk4-listening-p107",
+   "level": "4",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK4 Listening P1",
+   "titleZh": "听力 第一部分（听对话选答案）",
+   "questionCount": 14
+  },
+  {
+   "id": "hsk4-listening-p108",
+   "level": "4",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK4 Listening P1",
+   "titleZh": "听力 第一部分（听对话选答案）",
+   "questionCount": 14
+  },
+  {
+   "id": "hsk4-listening-p109",
+   "level": "4",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK4 Listening P1",
+   "titleZh": "听力 第一部分（听对话选答案）",
+   "questionCount": 14
+  },
+  {
+   "id": "hsk4-listening-p110",
+   "level": "4",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK4 Listening P1",
+   "titleZh": "听力 第一部分（听对话选答案）",
+   "questionCount": 14
+  },
+  {
+   "id": "hsk4-listening-p111",
+   "level": "4",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK4 Listening P1",
+   "titleZh": "听力 第一部分（听对话选答案）",
+   "questionCount": 14
+  },
+  {
+   "id": "hsk4-listening-p112",
+   "level": "4",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK4 Listening P1",
+   "titleZh": "听力 第一部分（听对话选答案）",
+   "questionCount": 14
+  },
+  {
+   "id": "hsk4-listening-p113",
+   "level": "4",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK4 Listening P1",
+   "titleZh": "听力 第一部分（听对话选答案）",
+   "questionCount": 14
+  },
+  {
+   "id": "hsk4-listening-p114",
+   "level": "4",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK4 Listening P1",
+   "titleZh": "听力 第一部分（听对话选答案）",
+   "questionCount": 14
+  },
+  {
+   "id": "hsk4-listening-p115",
+   "level": "4",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK4 Listening P1",
+   "titleZh": "听力 第一部分（听对话选答案）",
+   "questionCount": 14
+  },
+  {
+   "id": "hsk4-listening-p116",
+   "level": "4",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK4 Listening P1",
+   "titleZh": "听力 第一部分（听对话选答案）",
+   "questionCount": 14
+  },
+  {
+   "id": "hsk4-listening-p117",
+   "level": "4",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK4 Listening P1",
+   "titleZh": "听力 第一部分（听对话选答案）",
+   "questionCount": 14
+  },
+  {
+   "id": "hsk4-listening-p118",
+   "level": "4",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK4 Listening P1",
+   "titleZh": "听力 第一部分（听对话选答案）",
+   "questionCount": 14
+  },
+  {
+   "id": "hsk4-listening-p119",
+   "level": "4",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK4 Listening P1",
+   "titleZh": "听力 第一部分（听对话选答案）",
+   "questionCount": 14
+  },
+  {
+   "id": "hsk4-listening-p120",
+   "level": "4",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK4 Listening P1",
+   "titleZh": "听力 第一部分（听对话选答案）",
+   "questionCount": 14
+  },
+  {
+   "id": "hsk4-listening-p201",
+   "level": "4",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK4 Listening P2",
+   "titleZh": "听力 第二部分（听短文选答案）",
+   "questionCount": 6
+  },
+  {
+   "id": "hsk4-listening-p202",
+   "level": "4",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK4 Listening P2",
+   "titleZh": "听力 第二部分（听短文选答案）",
+   "questionCount": 6
+  },
+  {
+   "id": "hsk4-listening-p203",
+   "level": "4",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK4 Listening P2",
+   "titleZh": "听力 第二部分（听短文选答案）",
+   "questionCount": 6
+  },
+  {
+   "id": "hsk4-listening-p204",
+   "level": "4",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK4 Listening P2",
+   "titleZh": "听力 第二部分（听短文选答案）",
+   "questionCount": 6
+  },
+  {
+   "id": "hsk4-listening-p205",
+   "level": "4",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK4 Listening P2",
+   "titleZh": "听力 第二部分（听短文选答案）",
+   "questionCount": 6
+  },
+  {
+   "id": "hsk4-listening-p206",
+   "level": "4",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK4 Listening P2",
+   "titleZh": "听力 第二部分（听短文选答案）",
+   "questionCount": 6
+  },
+  {
+   "id": "hsk4-listening-p207",
+   "level": "4",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK4 Listening P2",
+   "titleZh": "听力 第二部分（听短文选答案）",
+   "questionCount": 6
+  },
+  {
+   "id": "hsk4-listening-p208",
+   "level": "4",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK4 Listening P2",
+   "titleZh": "听力 第二部分（听短文选答案）",
+   "questionCount": 6
+  },
+  {
+   "id": "hsk4-listening-p209",
+   "level": "4",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK4 Listening P2",
+   "titleZh": "听力 第二部分（听短文选答案）",
+   "questionCount": 6
+  },
+  {
+   "id": "hsk4-listening-p210",
+   "level": "4",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK4 Listening P2",
+   "titleZh": "听力 第二部分（听短文选答案）",
+   "questionCount": 6
+  },
+  {
+   "id": "hsk4-listening-p211",
+   "level": "4",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK4 Listening P2",
+   "titleZh": "听力 第二部分（听短文选答案）",
+   "questionCount": 6
+  },
+  {
+   "id": "hsk4-listening-p212",
+   "level": "4",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK4 Listening P2",
+   "titleZh": "听力 第二部分（听短文选答案）",
+   "questionCount": 6
+  },
+  {
+   "id": "hsk4-listening-p213",
+   "level": "4",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK4 Listening P2",
+   "titleZh": "听力 第二部分（听短文选答案）",
+   "questionCount": 6
+  },
+  {
+   "id": "hsk4-listening-p214",
+   "level": "4",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK4 Listening P2",
+   "titleZh": "听力 第二部分（听短文选答案）",
+   "questionCount": 6
+  },
+  {
+   "id": "hsk4-listening-p215",
+   "level": "4",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK4 Listening P2",
+   "titleZh": "听力 第二部分（听短文选答案）",
+   "questionCount": 6
+  },
+  {
+   "id": "hsk4-listening-p216",
+   "level": "4",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK4 Listening P2",
+   "titleZh": "听力 第二部分（听短文选答案）",
+   "questionCount": 6
+  },
+  {
+   "id": "hsk4-listening-p217",
+   "level": "4",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK4 Listening P2",
+   "titleZh": "听力 第二部分（听短文选答案）",
+   "questionCount": 6
+  },
+  {
+   "id": "hsk4-listening-p218",
+   "level": "4",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK4 Listening P2",
+   "titleZh": "听力 第二部分（听短文选答案）",
+   "questionCount": 6
+  },
+  {
+   "id": "hsk4-listening-p219",
+   "level": "4",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK4 Listening P2",
+   "titleZh": "听力 第二部分（听短文选答案）",
+   "questionCount": 6
+  },
+  {
+   "id": "hsk4-listening-p220",
+   "level": "4",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK4 Listening P2",
+   "titleZh": "听力 第二部分（听短文选答案）",
+   "questionCount": 6
+  },
+  {
+   "id": "hsk5-listening-p101",
+   "level": "5",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK5 Listening P1",
+   "titleZh": "听力 第一部分（听对话选答案）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk5-listening-p102",
+   "level": "5",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK5 Listening P1",
+   "titleZh": "听力 第一部分（听对话选答案）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk5-listening-p103",
+   "level": "5",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK5 Listening P1",
+   "titleZh": "听力 第一部分（听对话选答案）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk5-listening-p104",
+   "level": "5",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK5 Listening P1",
+   "titleZh": "听力 第一部分（听对话选答案）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk5-listening-p105",
+   "level": "5",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK5 Listening P1",
+   "titleZh": "听力 第一部分（听对话选答案）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk5-listening-p106",
+   "level": "5",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK5 Listening P1",
+   "titleZh": "听力 第一部分（听对话选答案）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk5-listening-p107",
+   "level": "5",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK5 Listening P1",
+   "titleZh": "听力 第一部分（听对话选答案）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk5-listening-p108",
+   "level": "5",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK5 Listening P1",
+   "titleZh": "听力 第一部分（听对话选答案）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk5-listening-p109",
+   "level": "5",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK5 Listening P1",
+   "titleZh": "听力 第一部分（听对话选答案）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk5-listening-p110",
+   "level": "5",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK5 Listening P1",
+   "titleZh": "听力 第一部分（听对话选答案）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk5-listening-p111",
+   "level": "5",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK5 Listening P1",
+   "titleZh": "听力 第一部分（听对话选答案）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk5-listening-p112",
+   "level": "5",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK5 Listening P1",
+   "titleZh": "听力 第一部分（听对话选答案）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk5-listening-p113",
+   "level": "5",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK5 Listening P1",
+   "titleZh": "听力 第一部分（听对话选答案）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk5-listening-p114",
+   "level": "5",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK5 Listening P1",
+   "titleZh": "听力 第一部分（听对话选答案）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk5-listening-p115",
+   "level": "5",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK5 Listening P1",
+   "titleZh": "听力 第一部分（听对话选答案）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk5-listening-p116",
+   "level": "5",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK5 Listening P1",
+   "titleZh": "听力 第一部分（听对话选答案）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk5-listening-p117",
+   "level": "5",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK5 Listening P1",
+   "titleZh": "听力 第一部分（听对话选答案）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk5-listening-p118",
+   "level": "5",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK5 Listening P1",
+   "titleZh": "听力 第一部分（听对话选答案）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk5-listening-p119",
+   "level": "5",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK5 Listening P1",
+   "titleZh": "听力 第一部分（听对话选答案）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk5-listening-p120",
+   "level": "5",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK5 Listening P1",
+   "titleZh": "听力 第一部分（听对话选答案）",
+   "questionCount": 10
+  },
+  {
+   "id": "hsk5-listening-p201",
+   "level": "5",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK5 Listening P2",
+   "titleZh": "听力 第二部分（听短文选答案）",
+   "questionCount": 6
+  },
+  {
+   "id": "hsk5-listening-p202",
+   "level": "5",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK5 Listening P2",
+   "titleZh": "听力 第二部分（听短文选答案）",
+   "questionCount": 6
+  },
+  {
+   "id": "hsk5-listening-p203",
+   "level": "5",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK5 Listening P2",
+   "titleZh": "听力 第二部分（听短文选答案）",
+   "questionCount": 6
+  },
+  {
+   "id": "hsk5-listening-p204",
+   "level": "5",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK5 Listening P2",
+   "titleZh": "听力 第二部分（听短文选答案）",
+   "questionCount": 6
+  },
+  {
+   "id": "hsk5-listening-p205",
+   "level": "5",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK5 Listening P2",
+   "titleZh": "听力 第二部分（听短文选答案）",
+   "questionCount": 6
+  },
+  {
+   "id": "hsk5-listening-p206",
+   "level": "5",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK5 Listening P2",
+   "titleZh": "听力 第二部分（听短文选答案）",
+   "questionCount": 6
+  },
+  {
+   "id": "hsk5-listening-p207",
+   "level": "5",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK5 Listening P2",
+   "titleZh": "听力 第二部分（听短文选答案）",
+   "questionCount": 6
+  },
+  {
+   "id": "hsk5-listening-p208",
+   "level": "5",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK5 Listening P2",
+   "titleZh": "听力 第二部分（听短文选答案）",
+   "questionCount": 6
+  },
+  {
+   "id": "hsk5-listening-p209",
+   "level": "5",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK5 Listening P2",
+   "titleZh": "听力 第二部分（听短文选答案）",
+   "questionCount": 6
+  },
+  {
+   "id": "hsk5-listening-p210",
+   "level": "5",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK5 Listening P2",
+   "titleZh": "听力 第二部分（听短文选答案）",
+   "questionCount": 6
+  },
+  {
+   "id": "hsk5-listening-p211",
+   "level": "5",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK5 Listening P2",
+   "titleZh": "听力 第二部分（听短文选答案）",
+   "questionCount": 6
+  },
+  {
+   "id": "hsk5-listening-p212",
+   "level": "5",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK5 Listening P2",
+   "titleZh": "听力 第二部分（听短文选答案）",
+   "questionCount": 6
+  },
+  {
+   "id": "hsk5-listening-p213",
+   "level": "5",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK5 Listening P2",
+   "titleZh": "听力 第二部分（听短文选答案）",
+   "questionCount": 6
+  },
+  {
+   "id": "hsk5-listening-p214",
+   "level": "5",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK5 Listening P2",
+   "titleZh": "听力 第二部分（听短文选答案）",
+   "questionCount": 6
+  },
+  {
+   "id": "hsk5-listening-p215",
+   "level": "5",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK5 Listening P2",
+   "titleZh": "听力 第二部分（听短文选答案）",
+   "questionCount": 6
+  },
+  {
+   "id": "hsk5-listening-p216",
+   "level": "5",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK5 Listening P2",
+   "titleZh": "听力 第二部分（听短文选答案）",
+   "questionCount": 6
+  },
+  {
+   "id": "hsk5-listening-p217",
+   "level": "5",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK5 Listening P2",
+   "titleZh": "听力 第二部分（听短文选答案）",
+   "questionCount": 6
+  },
+  {
+   "id": "hsk5-listening-p218",
+   "level": "5",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK5 Listening P2",
+   "titleZh": "听力 第二部分（听短文选答案）",
+   "questionCount": 6
+  },
+  {
+   "id": "hsk5-listening-p219",
+   "level": "5",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK5 Listening P2",
+   "titleZh": "听力 第二部分（听短文选答案）",
+   "questionCount": 6
+  },
+  {
+   "id": "hsk5-listening-p220",
+   "level": "5",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK5 Listening P2",
+   "titleZh": "听力 第二部分（听短文选答案）",
+   "questionCount": 6
+  },
+  {
+   "id": "hsk6-listening-p101",
+   "level": "6",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK6 Listening P1",
+   "titleZh": "听力 第一部分（听新闻选答案）",
+   "questionCount": 8
+  },
+  {
+   "id": "hsk6-listening-p102",
+   "level": "6",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK6 Listening P1",
+   "titleZh": "听力 第一部分（听新闻选答案）",
+   "questionCount": 8
+  },
+  {
+   "id": "hsk6-listening-p103",
+   "level": "6",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK6 Listening P1",
+   "titleZh": "听力 第一部分（听新闻选答案）",
+   "questionCount": 8
+  },
+  {
+   "id": "hsk6-listening-p104",
+   "level": "6",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK6 Listening P1",
+   "titleZh": "听力 第一部分（听新闻选答案）",
+   "questionCount": 8
+  },
+  {
+   "id": "hsk6-listening-p105",
+   "level": "6",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK6 Listening P1",
+   "titleZh": "听力 第一部分（听新闻选答案）",
+   "questionCount": 8
+  },
+  {
+   "id": "hsk6-listening-p106",
+   "level": "6",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK6 Listening P1",
+   "titleZh": "听力 第一部分（听新闻选答案）",
+   "questionCount": 8
+  },
+  {
+   "id": "hsk6-listening-p107",
+   "level": "6",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK6 Listening P1",
+   "titleZh": "听力 第一部分（听新闻选答案）",
+   "questionCount": 8
+  },
+  {
+   "id": "hsk6-listening-p108",
+   "level": "6",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK6 Listening P1",
+   "titleZh": "听力 第一部分（听新闻选答案）",
+   "questionCount": 8
+  },
+  {
+   "id": "hsk6-listening-p109",
+   "level": "6",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK6 Listening P1",
+   "titleZh": "听力 第一部分（听新闻选答案）",
+   "questionCount": 8
+  },
+  {
+   "id": "hsk6-listening-p110",
+   "level": "6",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK6 Listening P1",
+   "titleZh": "听力 第一部分（听新闻选答案）",
+   "questionCount": 8
+  },
+  {
+   "id": "hsk6-listening-p111",
+   "level": "6",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK6 Listening P1",
+   "titleZh": "听力 第一部分（听新闻选答案）",
+   "questionCount": 8
+  },
+  {
+   "id": "hsk6-listening-p112",
+   "level": "6",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK6 Listening P1",
+   "titleZh": "听力 第一部分（听新闻选答案）",
+   "questionCount": 8
+  },
+  {
+   "id": "hsk6-listening-p113",
+   "level": "6",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK6 Listening P1",
+   "titleZh": "听力 第一部分（听新闻选答案）",
+   "questionCount": 8
+  },
+  {
+   "id": "hsk6-listening-p114",
+   "level": "6",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK6 Listening P1",
+   "titleZh": "听力 第一部分（听新闻选答案）",
+   "questionCount": 8
+  },
+  {
+   "id": "hsk6-listening-p115",
+   "level": "6",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK6 Listening P1",
+   "titleZh": "听力 第一部分（听新闻选答案）",
+   "questionCount": 8
+  },
+  {
+   "id": "hsk6-listening-p116",
+   "level": "6",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK6 Listening P1",
+   "titleZh": "听力 第一部分（听新闻选答案）",
+   "questionCount": 8
+  },
+  {
+   "id": "hsk6-listening-p117",
+   "level": "6",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK6 Listening P1",
+   "titleZh": "听力 第一部分（听新闻选答案）",
+   "questionCount": 8
+  },
+  {
+   "id": "hsk6-listening-p118",
+   "level": "6",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK6 Listening P1",
+   "titleZh": "听力 第一部分（听新闻选答案）",
+   "questionCount": 8
+  },
+  {
+   "id": "hsk6-listening-p119",
+   "level": "6",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK6 Listening P1",
+   "titleZh": "听力 第一部分（听新闻选答案）",
+   "questionCount": 8
+  },
+  {
+   "id": "hsk6-listening-p120",
+   "level": "6",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK6 Listening P1",
+   "titleZh": "听力 第一部分（听新闻选答案）",
+   "questionCount": 8
+  },
+  {
+   "id": "hsk6-listening-p201",
+   "level": "6",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK6 Listening P2",
+   "titleZh": "听力 第二部分（听长文选答案）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk6-listening-p202",
+   "level": "6",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK6 Listening P2",
+   "titleZh": "听力 第二部分（听长文选答案）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk6-listening-p203",
+   "level": "6",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK6 Listening P2",
+   "titleZh": "听力 第二部分（听长文选答案）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk6-listening-p204",
+   "level": "6",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK6 Listening P2",
+   "titleZh": "听力 第二部分（听长文选答案）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk6-listening-p205",
+   "level": "6",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK6 Listening P2",
+   "titleZh": "听力 第二部分（听长文选答案）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk6-listening-p206",
+   "level": "6",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK6 Listening P2",
+   "titleZh": "听力 第二部分（听长文选答案）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk6-listening-p207",
+   "level": "6",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK6 Listening P2",
+   "titleZh": "听力 第二部分（听长文选答案）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk6-listening-p208",
+   "level": "6",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK6 Listening P2",
+   "titleZh": "听力 第二部分（听长文选答案）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk6-listening-p209",
+   "level": "6",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK6 Listening P2",
+   "titleZh": "听力 第二部分（听长文选答案）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk6-listening-p210",
+   "level": "6",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK6 Listening P2",
+   "titleZh": "听力 第二部分（听长文选答案）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk6-listening-p211",
+   "level": "6",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK6 Listening P2",
+   "titleZh": "听力 第二部分（听长文选答案）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk6-listening-p212",
+   "level": "6",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK6 Listening P2",
+   "titleZh": "听力 第二部分（听长文选答案）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk6-listening-p213",
+   "level": "6",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK6 Listening P2",
+   "titleZh": "听力 第二部分（听长文选答案）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk6-listening-p214",
+   "level": "6",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK6 Listening P2",
+   "titleZh": "听力 第二部分（听长文选答案）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk6-listening-p215",
+   "level": "6",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK6 Listening P2",
+   "titleZh": "听力 第二部分（听长文选答案）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk6-listening-p216",
+   "level": "6",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK6 Listening P2",
+   "titleZh": "听力 第二部分（听长文选答案）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk6-listening-p217",
+   "level": "6",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK6 Listening P2",
+   "titleZh": "听力 第二部分（听长文选答案）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk6-listening-p218",
+   "level": "6",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK6 Listening P2",
+   "titleZh": "听力 第二部分（听长文选答案）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk6-listening-p219",
+   "level": "6",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK6 Listening P2",
+   "titleZh": "听力 第二部分（听长文选答案）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk6-listening-p220",
+   "level": "6",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK6 Listening P2",
+   "titleZh": "听力 第二部分（听长文选答案）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk6-listening-p301",
+   "level": "6",
+   "section": "listening",
+   "partKey": "listening-p3",
+   "title": "HSK6 Listening P3",
+   "titleZh": "听力 第三部分（听访谈选答案）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk6-listening-p302",
+   "level": "6",
+   "section": "listening",
+   "partKey": "listening-p3",
+   "title": "HSK6 Listening P3",
+   "titleZh": "听力 第三部分（听访谈选答案）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk6-listening-p303",
+   "level": "6",
+   "section": "listening",
+   "partKey": "listening-p3",
+   "title": "HSK6 Listening P3",
+   "titleZh": "听力 第三部分（听访谈选答案）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk6-listening-p304",
+   "level": "6",
+   "section": "listening",
+   "partKey": "listening-p3",
+   "title": "HSK6 Listening P3",
+   "titleZh": "听力 第三部分（听访谈选答案）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk6-listening-p305",
+   "level": "6",
+   "section": "listening",
+   "partKey": "listening-p3",
+   "title": "HSK6 Listening P3",
+   "titleZh": "听力 第三部分（听访谈选答案）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk6-listening-p306",
+   "level": "6",
+   "section": "listening",
+   "partKey": "listening-p3",
+   "title": "HSK6 Listening P3",
+   "titleZh": "听力 第三部分（听访谈选答案）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk6-listening-p307",
+   "level": "6",
+   "section": "listening",
+   "partKey": "listening-p3",
+   "title": "HSK6 Listening P3",
+   "titleZh": "听力 第三部分（听访谈选答案）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk6-listening-p308",
+   "level": "6",
+   "section": "listening",
+   "partKey": "listening-p3",
+   "title": "HSK6 Listening P3",
+   "titleZh": "听力 第三部分（听访谈选答案）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk6-listening-p309",
+   "level": "6",
+   "section": "listening",
+   "partKey": "listening-p3",
+   "title": "HSK6 Listening P3",
+   "titleZh": "听力 第三部分（听访谈选答案）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk6-listening-p310",
+   "level": "6",
+   "section": "listening",
+   "partKey": "listening-p3",
+   "title": "HSK6 Listening P3",
+   "titleZh": "听力 第三部分（听访谈选答案）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk6-listening-p311",
+   "level": "6",
+   "section": "listening",
+   "partKey": "listening-p3",
+   "title": "HSK6 Listening P3",
+   "titleZh": "听力 第三部分（听访谈选答案）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk6-listening-p312",
+   "level": "6",
+   "section": "listening",
+   "partKey": "listening-p3",
+   "title": "HSK6 Listening P3",
+   "titleZh": "听力 第三部分（听访谈选答案）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk6-listening-p313",
+   "level": "6",
+   "section": "listening",
+   "partKey": "listening-p3",
+   "title": "HSK6 Listening P3",
+   "titleZh": "听力 第三部分（听访谈选答案）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk6-listening-p314",
+   "level": "6",
+   "section": "listening",
+   "partKey": "listening-p3",
+   "title": "HSK6 Listening P3",
+   "titleZh": "听力 第三部分（听访谈选答案）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk6-listening-p315",
+   "level": "6",
+   "section": "listening",
+   "partKey": "listening-p3",
+   "title": "HSK6 Listening P3",
+   "titleZh": "听力 第三部分（听访谈选答案）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk6-listening-p316",
+   "level": "6",
+   "section": "listening",
+   "partKey": "listening-p3",
+   "title": "HSK6 Listening P3",
+   "titleZh": "听力 第三部分（听访谈选答案）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk6-listening-p317",
+   "level": "6",
+   "section": "listening",
+   "partKey": "listening-p3",
+   "title": "HSK6 Listening P3",
+   "titleZh": "听力 第三部分（听访谈选答案）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk6-listening-p318",
+   "level": "6",
+   "section": "listening",
+   "partKey": "listening-p3",
+   "title": "HSK6 Listening P3",
+   "titleZh": "听力 第三部分（听访谈选答案）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk6-listening-p319",
+   "level": "6",
+   "section": "listening",
+   "partKey": "listening-p3",
+   "title": "HSK6 Listening P3",
+   "titleZh": "听力 第三部分（听访谈选答案）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk6-listening-p320",
+   "level": "6",
+   "section": "listening",
+   "partKey": "listening-p3",
+   "title": "HSK6 Listening P3",
+   "titleZh": "听力 第三部分（听访谈选答案）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk7-9-listening-p101",
+   "level": "7-9",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK7-9 Listening P1",
+   "titleZh": "听力 第一部分（判断对错）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk7-9-listening-p102",
+   "level": "7-9",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK7-9 Listening P1",
+   "titleZh": "听力 第一部分（判断对错）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk7-9-listening-p103",
+   "level": "7-9",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK7-9 Listening P1",
+   "titleZh": "听力 第一部分（判断对错）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk7-9-listening-p104",
+   "level": "7-9",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK7-9 Listening P1",
+   "titleZh": "听力 第一部分（判断对错）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk7-9-listening-p105",
+   "level": "7-9",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK7-9 Listening P1",
+   "titleZh": "听力 第一部分（判断对错）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk7-9-listening-p106",
+   "level": "7-9",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK7-9 Listening P1",
+   "titleZh": "听力 第一部分（判断对错）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk7-9-listening-p107",
+   "level": "7-9",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK7-9 Listening P1",
+   "titleZh": "听力 第一部分（判断对错）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk7-9-listening-p108",
+   "level": "7-9",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK7-9 Listening P1",
+   "titleZh": "听力 第一部分（判断对错）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk7-9-listening-p109",
+   "level": "7-9",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK7-9 Listening P1",
+   "titleZh": "听力 第一部分（判断对错）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk7-9-listening-p110",
+   "level": "7-9",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK7-9 Listening P1",
+   "titleZh": "听力 第一部分（判断对错）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk7-9-listening-p111",
+   "level": "7-9",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK7-9 Listening P1",
+   "titleZh": "听力 第一部分（判断对错）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk7-9-listening-p112",
+   "level": "7-9",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK7-9 Listening P1",
+   "titleZh": "听力 第一部分（判断对错）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk7-9-listening-p113",
+   "level": "7-9",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK7-9 Listening P1",
+   "titleZh": "听力 第一部分（判断对错）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk7-9-listening-p114",
+   "level": "7-9",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK7-9 Listening P1",
+   "titleZh": "听力 第一部分（判断对错）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk7-9-listening-p115",
+   "level": "7-9",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK7-9 Listening P1",
+   "titleZh": "听力 第一部分（判断对错）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk7-9-listening-p116",
+   "level": "7-9",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK7-9 Listening P1",
+   "titleZh": "听力 第一部分（判断对错）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk7-9-listening-p117",
+   "level": "7-9",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK7-9 Listening P1",
+   "titleZh": "听力 第一部分（判断对错）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk7-9-listening-p118",
+   "level": "7-9",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK7-9 Listening P1",
+   "titleZh": "听力 第一部分（判断对错）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk7-9-listening-p119",
+   "level": "7-9",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK7-9 Listening P1",
+   "titleZh": "听力 第一部分（判断对错）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk7-9-listening-p120",
+   "level": "7-9",
+   "section": "listening",
+   "partKey": "listening-p1",
+   "title": "HSK7-9 Listening P1",
+   "titleZh": "听力 第一部分（判断对错）",
+   "questionCount": 5
+  },
+  {
+   "id": "hsk7-9-listening-p201",
+   "level": "7-9",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK7-9 Listening P2",
+   "titleZh": "听力 第二部分（听短文选填答案）",
+   "questionCount": 6
+  },
+  {
+   "id": "hsk7-9-listening-p202",
+   "level": "7-9",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK7-9 Listening P2",
+   "titleZh": "听力 第二部分（听短文选填答案）",
+   "questionCount": 6
+  },
+  {
+   "id": "hsk7-9-listening-p203",
+   "level": "7-9",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK7-9 Listening P2",
+   "titleZh": "听力 第二部分（听短文选填答案）",
+   "questionCount": 6
+  },
+  {
+   "id": "hsk7-9-listening-p204",
+   "level": "7-9",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK7-9 Listening P2",
+   "titleZh": "听力 第二部分（听短文选填答案）",
+   "questionCount": 6
+  },
+  {
+   "id": "hsk7-9-listening-p205",
+   "level": "7-9",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK7-9 Listening P2",
+   "titleZh": "听力 第二部分（听短文选填答案）",
+   "questionCount": 6
+  },
+  {
+   "id": "hsk7-9-listening-p206",
+   "level": "7-9",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK7-9 Listening P2",
+   "titleZh": "听力 第二部分（听短文选填答案）",
+   "questionCount": 6
+  },
+  {
+   "id": "hsk7-9-listening-p207",
+   "level": "7-9",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK7-9 Listening P2",
+   "titleZh": "听力 第二部分（听短文选填答案）",
+   "questionCount": 6
+  },
+  {
+   "id": "hsk7-9-listening-p208",
+   "level": "7-9",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK7-9 Listening P2",
+   "titleZh": "听力 第二部分（听短文选填答案）",
+   "questionCount": 6
+  },
+  {
+   "id": "hsk7-9-listening-p209",
+   "level": "7-9",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK7-9 Listening P2",
+   "titleZh": "听力 第二部分（听短文选填答案）",
+   "questionCount": 6
+  },
+  {
+   "id": "hsk7-9-listening-p210",
+   "level": "7-9",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK7-9 Listening P2",
+   "titleZh": "听力 第二部分（听短文选填答案）",
+   "questionCount": 6
+  },
+  {
+   "id": "hsk7-9-listening-p211",
+   "level": "7-9",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK7-9 Listening P2",
+   "titleZh": "听力 第二部分（听短文选填答案）",
+   "questionCount": 6
+  },
+  {
+   "id": "hsk7-9-listening-p212",
+   "level": "7-9",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK7-9 Listening P2",
+   "titleZh": "听力 第二部分（听短文选填答案）",
+   "questionCount": 6
+  },
+  {
+   "id": "hsk7-9-listening-p213",
+   "level": "7-9",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK7-9 Listening P2",
+   "titleZh": "听力 第二部分（听短文选填答案）",
+   "questionCount": 6
+  },
+  {
+   "id": "hsk7-9-listening-p214",
+   "level": "7-9",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK7-9 Listening P2",
+   "titleZh": "听力 第二部分（听短文选填答案）",
+   "questionCount": 6
+  },
+  {
+   "id": "hsk7-9-listening-p215",
+   "level": "7-9",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK7-9 Listening P2",
+   "titleZh": "听力 第二部分（听短文选填答案）",
+   "questionCount": 6
+  },
+  {
+   "id": "hsk7-9-listening-p216",
+   "level": "7-9",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK7-9 Listening P2",
+   "titleZh": "听力 第二部分（听短文选填答案）",
+   "questionCount": 6
+  },
+  {
+   "id": "hsk7-9-listening-p217",
+   "level": "7-9",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK7-9 Listening P2",
+   "titleZh": "听力 第二部分（听短文选填答案）",
+   "questionCount": 6
+  },
+  {
+   "id": "hsk7-9-listening-p218",
+   "level": "7-9",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK7-9 Listening P2",
+   "titleZh": "听力 第二部分（听短文选填答案）",
+   "questionCount": 6
+  },
+  {
+   "id": "hsk7-9-listening-p219",
+   "level": "7-9",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK7-9 Listening P2",
+   "titleZh": "听力 第二部分（听短文选填答案）",
+   "questionCount": 6
+  },
+  {
+   "id": "hsk7-9-listening-p220",
+   "level": "7-9",
+   "section": "listening",
+   "partKey": "listening-p2",
+   "title": "HSK7-9 Listening P2",
+   "titleZh": "听力 第二部分（听短文选填答案）",
+   "questionCount": 6
+  },
+  {
+   "id": "hsk7-9-listening-p301",
+   "level": "7-9",
+   "section": "listening",
+   "partKey": "listening-p3",
+   "title": "HSK7-9 Listening P3",
+   "titleZh": "听力 第三部分（听讲座选填答案）",
+   "questionCount": 6
+  },
+  {
+   "id": "hsk7-9-listening-p302",
+   "level": "7-9",
+   "section": "listening",
+   "partKey": "listening-p3",
+   "title": "HSK7-9 Listening P3",
+   "titleZh": "听力 第三部分（听讲座选填答案）",
+   "questionCount": 6
+  },
+  {
+   "id": "hsk7-9-listening-p303",
+   "level": "7-9",
+   "section": "listening",
+   "partKey": "listening-p3",
+   "title": "HSK7-9 Listening P3",
+   "titleZh": "听力 第三部分（听讲座选填答案）",
+   "questionCount": 6
+  },
+  {
+   "id": "hsk7-9-listening-p304",
+   "level": "7-9",
+   "section": "listening",
+   "partKey": "listening-p3",
+   "title": "HSK7-9 Listening P3",
+   "titleZh": "听力 第三部分（听讲座选填答案）",
+   "questionCount": 6
+  },
+  {
+   "id": "hsk7-9-listening-p305",
+   "level": "7-9",
+   "section": "listening",
+   "partKey": "listening-p3",
+   "title": "HSK7-9 Listening P3",
+   "titleZh": "听力 第三部分（听讲座选填答案）",
+   "questionCount": 6
+  },
+  {
+   "id": "hsk7-9-listening-p306",
+   "level": "7-9",
+   "section": "listening",
+   "partKey": "listening-p3",
+   "title": "HSK7-9 Listening P3",
+   "titleZh": "听力 第三部分（听讲座选填答案）",
+   "questionCount": 6
+  },
+  {
+   "id": "hsk7-9-listening-p307",
+   "level": "7-9",
+   "section": "listening",
+   "partKey": "listening-p3",
+   "title": "HSK7-9 Listening P3",
+   "titleZh": "听力 第三部分（听讲座选填答案）",
+   "questionCount": 6
+  },
+  {
+   "id": "hsk7-9-listening-p308",
+   "level": "7-9",
+   "section": "listening",
+   "partKey": "listening-p3",
+   "title": "HSK7-9 Listening P3",
+   "titleZh": "听力 第三部分（听讲座选填答案）",
+   "questionCount": 6
+  },
+  {
+   "id": "hsk7-9-listening-p309",
+   "level": "7-9",
+   "section": "listening",
+   "partKey": "listening-p3",
+   "title": "HSK7-9 Listening P3",
+   "titleZh": "听力 第三部分（听讲座选填答案）",
+   "questionCount": 6
+  },
+  {
+   "id": "hsk7-9-listening-p310",
+   "level": "7-9",
+   "section": "listening",
+   "partKey": "listening-p3",
+   "title": "HSK7-9 Listening P3",
+   "titleZh": "听力 第三部分（听讲座选填答案）",
+   "questionCount": 6
+  },
+  {
+   "id": "hsk7-9-listening-p311",
+   "level": "7-9",
+   "section": "listening",
+   "partKey": "listening-p3",
+   "title": "HSK7-9 Listening P3",
+   "titleZh": "听力 第三部分（听讲座选填答案）",
+   "questionCount": 6
+  },
+  {
+   "id": "hsk7-9-listening-p312",
+   "level": "7-9",
+   "section": "listening",
+   "partKey": "listening-p3",
+   "title": "HSK7-9 Listening P3",
+   "titleZh": "听力 第三部分（听讲座选填答案）",
+   "questionCount": 6
+  },
+  {
+   "id": "hsk7-9-listening-p313",
+   "level": "7-9",
+   "section": "listening",
+   "partKey": "listening-p3",
+   "title": "HSK7-9 Listening P3",
+   "titleZh": "听力 第三部分（听讲座选填答案）",
+   "questionCount": 6
+  },
+  {
+   "id": "hsk7-9-listening-p314",
+   "level": "7-9",
+   "section": "listening",
+   "partKey": "listening-p3",
+   "title": "HSK7-9 Listening P3",
+   "titleZh": "听力 第三部分（听讲座选填答案）",
+   "questionCount": 6
+  },
+  {
+   "id": "hsk7-9-listening-p315",
+   "level": "7-9",
+   "section": "listening",
+   "partKey": "listening-p3",
+   "title": "HSK7-9 Listening P3",
+   "titleZh": "听力 第三部分（听讲座选填答案）",
+   "questionCount": 6
+  },
+  {
+   "id": "hsk7-9-listening-p316",
+   "level": "7-9",
+   "section": "listening",
+   "partKey": "listening-p3",
+   "title": "HSK7-9 Listening P3",
+   "titleZh": "听力 第三部分（听讲座选填答案）",
+   "questionCount": 6
+  },
+  {
+   "id": "hsk7-9-listening-p317",
+   "level": "7-9",
+   "section": "listening",
+   "partKey": "listening-p3",
+   "title": "HSK7-9 Listening P3",
+   "titleZh": "听力 第三部分（听讲座选填答案）",
+   "questionCount": 6
+  },
+  {
+   "id": "hsk7-9-listening-p318",
+   "level": "7-9",
+   "section": "listening",
+   "partKey": "listening-p3",
+   "title": "HSK7-9 Listening P3",
+   "titleZh": "听力 第三部分（听讲座选填答案）",
+   "questionCount": 6
+  },
+  {
+   "id": "hsk7-9-listening-p319",
+   "level": "7-9",
+   "section": "listening",
+   "partKey": "listening-p3",
+   "title": "HSK7-9 Listening P3",
+   "titleZh": "听力 第三部分（听讲座选填答案）",
+   "questionCount": 6
+  },
+  {
+   "id": "hsk7-9-listening-p320",
+   "level": "7-9",
+   "section": "listening",
+   "partKey": "listening-p3",
+   "title": "HSK7-9 Listening P3",
+   "titleZh": "听力 第三部分（听讲座选填答案）",
+   "questionCount": 6
+  },
   {
    "id": "hsk1-reading-p201",
    "level": "1",

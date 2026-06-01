@@ -1,0 +1,117 @@
+{
+ "id": "hsk1-listening-p119",
+ "level": "1",
+ "section": "listening",
+ "partKey": "listening-p1",
+ "title": "HSK1 Listening P1",
+ "titleZh": "听力 第一部分（看图判断）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听句子，然后看图片。判断图片是否与句子内容一致。一致选“对”，不一致选“错”。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "对",
+     "explanation": "句中说椅子上有苹果，图片中苹果在椅子上，所以一致。",
+     "audio": {
+      "key": "listening/v1/8015623eb9d85408e5b7f6503ad1f33db18d1708641fc5f274ab6ab31ef66345.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "椅子上有一个苹果。"
+       }
+      ],
+      "transcript": "椅子上有一个苹果。",
+      "transcriptPinyin": "yǐ zi shàng yǒu yí gè píng guǒ 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-acb0cf3b982b5da7ebcc9c14e4f5adb0.png"
+    },
+    {
+     "id": "q2",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "错",
+     "explanation": "句中说猫在桌子下面，但图片中猫在桌子上面，所以不一致。",
+     "audio": {
+      "key": "listening/v1/52ea0c678e0cc1749b8fe0566e58c402c428ac5e11e0d3fc00d39796fcf0fc97.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "猫在桌子下面。"
+       }
+      ],
+      "transcript": "猫在桌子下面。",
+      "transcriptPinyin": "māo zài zhuō zi xià miàn 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-5c4c53039be7d24f171841a87d3d6c03.png"
+    },
+    {
+     "id": "q3",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "对",
+     "explanation": "句中说他在喝水，图片中他在喝东西，所以一致。",
+     "audio": {
+      "key": "listening/v1/24ba2bf373b1c2eaa615922f12af93d6af83e94525a3e3d6ae48d6487037aa94.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "他在喝水。"
+       }
+      ],
+      "transcript": "他在喝水。",
+      "transcriptPinyin": "tā zài hē shuǐ 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-ea3f6f0106e5f5abf8a5a2e52eeae450.png"
+    },
+    {
+     "id": "q4",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "错",
+     "explanation": "句中说书在书包里，但图片中书在桌子上，不在书包里，所以不一致。",
+     "audio": {
+      "key": "listening/v1/3f75bb1e97d9d8dc2e50f5b008be63284e63a7f90e2269e8a01632868079d4d0.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "书在书包里。"
+       }
+      ],
+      "transcript": "书在书包里。",
+      "transcriptPinyin": "shū zài shū bāo lǐ 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-5f1afd97128e6db8100f2e1ca5446a53.png"
+    },
+    {
+     "id": "q5",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "对",
+     "explanation": "句中说她有耳朵，图片中女孩有耳朵，所以一致。",
+     "audio": {
+      "key": "listening/v1/d0270cf1b4d937e47752f8031450679146a443f379992804f97220a2f103cbfa.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "她有耳朵。"
+       }
+      ],
+      "transcript": "她有耳朵。",
+      "transcriptPinyin": "tā yǒu ěr duǒ 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-52579da0f331026d62d16ec6311324b5.png"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

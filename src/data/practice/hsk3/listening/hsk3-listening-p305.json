@@ -1,0 +1,387 @@
+{
+ "id": "hsk3-listening-p305",
+ "level": "3",
+ "section": "listening",
+ "partKey": "listening-p3",
+ "title": "HSK3 Listening P3",
+ "titleZh": "听力 第三部分（听短文选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听下面的录音，然后回答问题。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "说话人星期六打算做什么？",
+     "correctAnswer": "B",
+     "explanation": "说话人提到星期六去公园散步，所以答案是去公园。",
+     "audio": {
+      "key": "listening/v1/12d4ed040d55456ba389560cd9c61fad85e61dcbfe0f2938f431ea986c9dc31c.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "这个周末天气很好，我打算星期六去公园散步，星期天在家休息。"
+       }
+      ],
+      "transcript": "这个周末天气很好，我打算星期六去公园散步，星期天在家休息。",
+      "transcriptPinyin": "zhè ge zhōu mò tiān qì hěn hǎo ， wǒ dǎ suàn xīng qī liù qù gōng yuán sàn bù ， xīng qī tiān zài jiā xiū xī 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "在家休息",
+       "pinyin": "zài jiā xiū xī"
+      },
+      {
+       "label": "B",
+       "text": "去公园",
+       "pinyin": "qù gōng yuán"
+      },
+      {
+       "label": "C",
+       "text": "去朋友家",
+       "pinyin": "qù péng yǒu jiā"
+      }
+     ],
+     "pinyin": "shuō huà rén xīng qī liù dǎ suàn zuò shén me ？"
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "说话人最喜欢吃什么？",
+     "correctAnswer": "B",
+     "explanation": "说话人明确说米饭是他的最爱，所以答案是米饭。",
+     "audio": {
+      "key": "listening/v1/01ba64a16915eab6563fc339dc5629886e774cd5980a8a950d41925b0a122ba8.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我最喜欢吃米饭，每天都要吃一碗。面条和饺子我也喜欢，但是米饭是我的最爱。"
+       }
+      ],
+      "transcript": "我最喜欢吃米饭，每天都要吃一碗。面条和饺子我也喜欢，但是米饭是我的最爱。",
+      "transcriptPinyin": "wǒ zuì xǐ huān chī mǐ fàn ， měi tiān dōu yào chī yī wǎn 。 miàn tiáo hé jiǎo zi wǒ yě xǐ huān ， dàn shì mǐ fàn shì wǒ de zuì ài 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "面条",
+       "pinyin": "miàn tiáo"
+      },
+      {
+       "label": "B",
+       "text": "米饭",
+       "pinyin": "mǐ fàn"
+      },
+      {
+       "label": "C",
+       "text": "饺子",
+       "pinyin": "jiǎo zi"
+      }
+     ],
+     "pinyin": "shuō huà rén zuì xǐ huān chī shén me ？"
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "明天的天气怎么样？",
+     "correctAnswer": "B",
+     "explanation": "说话人说天气预报说明天会下雨，所以答案是下雨。",
+     "audio": {
+      "key": "listening/v1/eed3827852fae097bec6f8f11213f50f1e0c264fa154552953920d0a5e2933b7.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "天气预报说明天会下雨，出门记得带伞。今天天气还不错，是晴天。"
+       }
+      ],
+      "transcript": "天气预报说明天会下雨，出门记得带伞。今天天气还不错，是晴天。",
+      "transcriptPinyin": "tiān qì yù bào shuō míng tiān huì xià yǔ ， chū mén jì de dài sǎn 。 jīn tiān tiān qì hái bú cuò ， shì qíng tiān 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "晴天",
+       "pinyin": "qíng tiān"
+      },
+      {
+       "label": "B",
+       "text": "下雨",
+       "pinyin": "xià yǔ"
+      },
+      {
+       "label": "C",
+       "text": "多云",
+       "pinyin": "duō yún"
+      }
+     ],
+     "pinyin": "míng tiān de tiān qì zěn me yàng ？"
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "说话人通常几点起床？",
+     "correctAnswer": "C",
+     "explanation": "说话人提到每天六点起床，所以答案是六点。",
+     "audio": {
+      "key": "listening/v1/f8ef75cdc8832f48c87f4d4071932f0c6f9519d780a3454b6dba402e16c74829.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我每天六点起床，七点吃早饭，八点去上班。周末我会晚一点起床。"
+       }
+      ],
+      "transcript": "我每天六点起床，七点吃早饭，八点去上班。周末我会晚一点起床。",
+      "transcriptPinyin": "wǒ měi tiān liù diǎn qǐ chuáng ， qī diǎn chī zǎo fàn ， bā diǎn qù shàng bān 。 zhōu mò wǒ huì wǎn yì diǎn qǐ chuáng 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "八点",
+       "pinyin": "bā diǎn"
+      },
+      {
+       "label": "B",
+       "text": "七点",
+       "pinyin": "qī diǎn"
+      },
+      {
+       "label": "C",
+       "text": "六点",
+       "pinyin": "liù diǎn"
+      }
+     ],
+     "pinyin": "shuō huà rén tōng cháng jǐ diǎn qǐ chuáng ？"
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "说话人上周末去了哪里？",
+     "correctAnswer": "B",
+     "explanation": "说话人说上周末去了博物馆，所以答案是博物馆。",
+     "audio": {
+      "key": "listening/v1/098fa6bd901cf0a18a2b043836f81f5875eacc049ddaaacd1be1545bb809a53e.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "上周末我去了博物馆，看到了很多有趣的东西。本来想去图书馆，但是朋友说博物馆更好玩。"
+       }
+      ],
+      "transcript": "上周末我去了博物馆，看到了很多有趣的东西。本来想去图书馆，但是朋友说博物馆更好玩。",
+      "transcriptPinyin": "shàng zhōu mò wǒ qù le bó wù guǎn ， kàn dào le hěn duō yǒu qù de dōng xī 。 běn lái xiǎng qù tú shū guǎn ， dàn shì péng yǒu shuō bó wù guǎn gèng hǎo wán 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "超市",
+       "pinyin": "chāo shì"
+      },
+      {
+       "label": "B",
+       "text": "博物馆",
+       "pinyin": "bó wù guǎn"
+      },
+      {
+       "label": "C",
+       "text": "图书馆",
+       "pinyin": "tú shū guǎn"
+      }
+     ],
+     "pinyin": "shuō huà rén shàng zhōu mò qù le nǎ lǐ ？"
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "说话人养了什么宠物？",
+     "correctAnswer": "A",
+     "explanation": "说话人说自己养了一条金鱼，所以答案是金鱼。",
+     "audio": {
+      "key": "listening/v1/000d032846b46311b7d28d24384d0c05fcf069f096d02abb85188b09f3a1d392.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我养了一条金鱼，它很小，很可爱。朋友家养了一只猫和一只狗，我也很喜欢。"
+       }
+      ],
+      "transcript": "我养了一条金鱼，它很小，很可爱。朋友家养了一只猫和一只狗，我也很喜欢。",
+      "transcriptPinyin": "wǒ yǎng le yī tiáo jīn yú ， tā hěn xiǎo ， hěn kě ài 。 péng yǒu jiā yǎng le yī zhī māo hé yī zhī gǒu ， wǒ yě hěn xǐ huān 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "金鱼",
+       "pinyin": "jīn yú"
+      },
+      {
+       "label": "B",
+       "text": "猫",
+       "pinyin": "māo"
+      },
+      {
+       "label": "C",
+       "text": "狗",
+       "pinyin": "gǒu"
+      }
+     ],
+     "pinyin": "shuō huà rén yǎng le shén me chǒng wù ？"
+    },
+    {
+     "id": "q7",
+     "type": "listening-mcq",
+     "prompt": "说话人每天学习多长时间？",
+     "correctAnswer": "A",
+     "explanation": "说话人说每天学习两个小时，所以答案是两个小时。",
+     "audio": {
+      "key": "listening/v1/a1eeeeacebf5d4b69eda05e73160ab38546e1259e7564890d8977d274f5839e8.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我每天学习两个小时，上午一个小时，下午一个小时。晚上有时候看看电视。"
+       }
+      ],
+      "transcript": "我每天学习两个小时，上午一个小时，下午一个小时。晚上有时候看看电视。",
+      "transcriptPinyin": "wǒ měi tiān xué xí liǎng gè xiǎo shí ， shàng wǔ yí gè xiǎo shí ， xià wǔ yí gè xiǎo shí 。 wǎn shàng yǒu shí hòu kàn kàn diàn shì 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "两个小时",
+       "pinyin": "liǎng gè xiǎo shí"
+      },
+      {
+       "label": "B",
+       "text": "三个小时",
+       "pinyin": "sān gè xiǎo shí"
+      },
+      {
+       "label": "C",
+       "text": "一个小时",
+       "pinyin": "yí gè xiǎo shí"
+      }
+     ],
+     "pinyin": "shuō huà rén měi tiān xué xí duō zhǎng shí jiān ？"
+    },
+    {
+     "id": "q8",
+     "type": "listening-mcq",
+     "prompt": "说话人昨天买了什么？",
+     "correctAnswer": "C",
+     "explanation": "说话人说昨天买了一本书，所以答案是书。",
+     "audio": {
+      "key": "listening/v1/df5ca512445abe9317d0dc64818d4e1c3b893553d807f747bce6ccc2083cea04.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "昨天我去书店买了一本书，是中文小说。我还想买一件衬衫，但是没有找到好看的。"
+       }
+      ],
+      "transcript": "昨天我去书店买了一本书，是中文小说。我还想买一件衬衫，但是没有找到好看的。",
+      "transcriptPinyin": "zuó tiān wǒ qù shū diàn mǎi le yī běn shū ， shì zhōng wén xiǎo shuō 。 wǒ hái xiǎng mǎi yī jiàn chèn shān ， dàn shì méi yǒu zhǎo dào hǎo kàn de 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "一件衬衫",
+       "pinyin": "yī jiàn chèn shān"
+      },
+      {
+       "label": "B",
+       "text": "一顶帽子",
+       "pinyin": "yī dǐng mào zi"
+      },
+      {
+       "label": "C",
+       "text": "一本书",
+       "pinyin": "yī běn shū"
+      }
+     ],
+     "pinyin": "shuō huà rén zuó tiān mǎi le shén me ？"
+    },
+    {
+     "id": "q9",
+     "type": "listening-mcq",
+     "prompt": "说话人怎么去上班？",
+     "correctAnswer": "A",
+     "explanation": "说话人说自己骑自行车上班，所以答案是骑自行车。",
+     "audio": {
+      "key": "listening/v1/e7777a5eecd93bbe9706093aa7b8d0656e6f123d3a63d5b0522dc3b75bc03553.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我骑自行车上班，因为路上不堵车。坐公交车要等很久，地铁又太挤了。"
+       }
+      ],
+      "transcript": "我骑自行车上班，因为路上不堵车。坐公交车要等很久，地铁又太挤了。",
+      "transcriptPinyin": "wǒ qí zì xíng chē shàng bān ， yīn wèi lù shàng bù dǔ chē 。 zuò gōng jiāo chē yào děng hěn jiǔ ， dì tiě yòu tài jǐ le 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "骑自行车",
+       "pinyin": "qí zì xíng chē"
+      },
+      {
+       "label": "B",
+       "text": "坐公交车",
+       "pinyin": "zuò gōng jiāo chē"
+      },
+      {
+       "label": "C",
+       "text": "坐地铁",
+       "pinyin": "zuò dì tiě"
+      }
+     ],
+     "pinyin": "shuō huà rén zěn me qù shàng bān ？"
+    },
+    {
+     "id": "q10",
+     "type": "listening-mcq",
+     "prompt": "谁给说话人打了电话？",
+     "correctAnswer": "A",
+     "explanation": "说话人说朋友打电话来，所以答案是朋友。",
+     "audio": {
+      "key": "listening/v1/da008ba81bfb687893dae193d561edf1a7b0c09fc92584dc0d73c144435d09f2.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "刚才朋友打电话来，说明天一起吃饭。妈妈也打过电话，但是我没有接到。"
+       }
+      ],
+      "transcript": "刚才朋友打电话来，说明天一起吃饭。妈妈也打过电话，但是我没有接到。",
+      "transcriptPinyin": "gāng cái péng yǒu dǎ diàn huà lái ， shuō míng tiān yì qǐ chī fàn 。 mā mā yě dǎ guò diàn huà ， dàn shì wǒ méi yǒu jiē dào 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "朋友",
+       "pinyin": "péng yǒu"
+      },
+      {
+       "label": "B",
+       "text": "妈妈",
+       "pinyin": "mā mā"
+      },
+      {
+       "label": "C",
+       "text": "老师",
+       "pinyin": "lǎo shī"
+      }
+     ],
+     "pinyin": "shuí gěi shuō huà rén dǎ le diàn huà ？"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

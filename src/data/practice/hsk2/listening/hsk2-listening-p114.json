@@ -1,0 +1,117 @@
+{
+ "id": "hsk2-listening-p114",
+ "level": "2",
+ "section": "listening",
+ "partKey": "listening-p1",
+ "title": "HSK2 Listening P1",
+ "titleZh": "听力 第一部分（看图判断）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听句子，然后看图片，判断图片内容是否与句子一致。如果一致，选“对”；不一致，选“错”。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "对",
+     "explanation": "句子说他在吃苹果，图片中的人物正在吃苹果，所以一致。",
+     "audio": {
+      "key": "listening/v1/e64891556312810242870e23b3a41286272630f07f0e9aeb660fc28c2e132e29.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "他在吃苹果。"
+       }
+      ],
+      "transcript": "他在吃苹果。",
+      "transcriptPinyin": "tā zài chī píng guǒ 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-690784417cb5c8eef1db049e035b70ab.png"
+    },
+    {
+     "id": "q2",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "错",
+     "explanation": "句子说她有一只猫，但图片中是一只狗，所以不一致。",
+     "audio": {
+      "key": "listening/v1/669422b7c57a9f951be51ee7c006f2832c8dc267f2dcd8af57e2f98a6b63157a.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "她有一只猫。"
+       }
+      ],
+      "transcript": "她有一只猫。",
+      "transcriptPinyin": "tā yǒu yī zhī māo 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-6e608468ade3adf36affabbffbb73061.png"
+    },
+    {
+     "id": "q3",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "对",
+     "explanation": "句子说桌子上有一本书，图片中桌子上正好有一本书，所以一致。",
+     "audio": {
+      "key": "listening/v1/da5734af87518a8846f37a35493f665a740f2d386e48826852f67eb066aedead.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "桌子上有一本书。"
+       }
+      ],
+      "transcript": "桌子上有一本书。",
+      "transcriptPinyin": "zhuō zi shàng yǒu yī běn shū 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-05351299cc8e0bdc9d43ffacbd747fc8.png"
+    },
+    {
+     "id": "q4",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "错",
+     "explanation": "句子说男孩在跑步，但图片中男孩坐着，所以不一致。",
+     "audio": {
+      "key": "listening/v1/9c6b4b92aeaed95ae78a901f9b633139c78474a5b82f622fe2cfd21bb2c5d16b.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "男孩在跑步。"
+       }
+      ],
+      "transcript": "男孩在跑步。",
+      "transcriptPinyin": "nán hái zài pǎo bù 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-075377315f84f72d478a152fc7b9fd50.png"
+    },
+    {
+     "id": "q5",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "对",
+     "explanation": "句子说妈妈在做菜，图片中妈妈正在炒菜，所以一致。",
+     "audio": {
+      "key": "listening/v1/c3b8315fb9ee5bcb7ddd88dbab2df4738b9b2a2a120355cf0ec4ee871424ea4b.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "妈妈在做菜。"
+       }
+      ],
+      "transcript": "妈妈在做菜。",
+      "transcriptPinyin": "mā mā zài zuò cài 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-6d9849d960d14d26dbadf494bd430b64.png"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

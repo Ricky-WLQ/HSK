@@ -1,0 +1,143 @@
+{
+ "id": "hsk7-9-listening-p316",
+ "level": "7-9",
+ "section": "listening",
+ "partKey": "listening-p3",
+ "title": "HSK7-9 Listening P3",
+ "titleZh": "听力 第三部分（听讲座选填答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听一段关于碳达峰碳中和的讲座，然后回答以下问题。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "根据讲座，碳达峰主要指什么？",
+     "correctAnswer": "A",
+     "explanation": "原文明确说明“碳达峰是指二氧化碳排放量达到历史最高值后逐步下降”，因此选项B正确。",
+     "options": [
+      {
+       "label": "A",
+       "text": "碳排放达到峰值后下降"
+      },
+      {
+       "label": "B",
+       "text": "碳排放持续增长"
+      },
+      {
+       "label": "C",
+       "text": "碳排放完全为零"
+      },
+      {
+       "label": "D",
+       "text": "碳排放被全部抵消"
+      }
+     ]
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "我国承诺在哪一年实现碳中和？",
+     "correctAnswer": "D",
+     "explanation": "原文提到“2060年前实现碳中和”，因此D正确。",
+     "options": [
+      {
+       "label": "A",
+       "text": "2030年"
+      },
+      {
+       "label": "B",
+       "text": "2035年"
+      },
+      {
+       "label": "C",
+       "text": "2050年"
+      },
+      {
+       "label": "D",
+       "text": "2060年"
+      }
+     ]
+    },
+    {
+     "id": "q3",
+     "type": "listening-dictation",
+     "prompt": "讲座中提到了哪些可再生能源？（请写两个）",
+     "correctAnswer": "风能太阳能",
+     "explanation": "原文在能源领域提到“大力发展风能、太阳能等可再生能源”，因此答案为“风能太阳能”。"
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "碳交易市场通过什么方式激励企业减排？",
+     "correctAnswer": "C",
+     "explanation": "原文指出“碳交易市场作为一种市场化手段，通过给碳排放定价，激励企业减排”，因此B正确。",
+     "options": [
+      {
+       "label": "A",
+       "text": "行政命令"
+      },
+      {
+       "label": "B",
+       "text": "强制停产"
+      },
+      {
+       "label": "C",
+       "text": "给碳排放定价"
+      },
+      {
+       "label": "D",
+       "text": "补贴清洁能源"
+      }
+     ]
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "实现双碳目标需要谁的努力？",
+     "correctAnswer": "B",
+     "explanation": "讲座结尾强调“实现双碳目标需要全社会共同努力”，因此C正确。",
+     "options": [
+      {
+       "label": "A",
+       "text": "发达国家"
+      },
+      {
+       "label": "B",
+       "text": "全社会"
+      },
+      {
+       "label": "C",
+       "text": "只有政府"
+      },
+      {
+       "label": "D",
+       "text": "只有企业"
+      }
+     ]
+    },
+    {
+     "id": "q6",
+     "type": "listening-dictation",
+     "prompt": "讲座中提到，每个人可以做的个人行动包括选择公共交通和什么？",
+     "correctAnswer": "减少浪费",
+     "explanation": "原文举例“比如选择公共交通、减少浪费等”，因此答案为“减少浪费”。"
+    }
+   ],
+   "audio": {
+    "key": "listening/v1/363084ee44ea9c9c734c8cc8f6d48fda0038ab6fe5471503f13e149af4459d8c.mp3",
+    "lines": [
+     {
+      "speaker": "旁白",
+      "voice": "narrator",
+      "text": "各位听众，今天我们来探讨碳达峰碳中和这一重大战略。简单来说，碳达峰是指二氧化碳排放量达到历史最高值后逐步下降，碳中和则是通过各种方式抵消产生的碳排放，实现净零排放。我国承诺在2030年前实现碳达峰，2060年前实现碳中和。这不仅仅是国家层面的责任，也与我们每个人息息相关。在能源领域，大力发展风能、太阳能等可再生能源，逐步替代化石能源。在工业领域，推广节能技术，提高能效。同时，每个人也可以从自身做起，比如选择公共交通、减少浪费等。此外，碳交易市场作为一种市场化手段，通过给碳排放定价，激励企业减排。总之，实现双碳目标需要全社会共同努力。"
+     }
+    ],
+    "transcript": "各位听众，今天我们来探讨碳达峰碳中和这一重大战略。简单来说，碳达峰是指二氧化碳排放量达到历史最高值后逐步下降，碳中和则是通过各种方式抵消产生的碳排放，实现净零排放。我国承诺在2030年前实现碳达峰，2060年前实现碳中和。这不仅仅是国家层面的责任，也与我们每个人息息相关。在能源领域，大力发展风能、太阳能等可再生能源，逐步替代化石能源。在工业领域，推广节能技术，提高能效。同时，每个人也可以从自身做起，比如选择公共交通、减少浪费等。此外，碳交易市场作为一种市场化手段，通过给碳排放定价，激励企业减排。总之，实现双碳目标需要全社会共同努力。",
+    "transcriptPinyin": null
+   }
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

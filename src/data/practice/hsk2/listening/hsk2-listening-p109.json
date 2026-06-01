@@ -1,0 +1,117 @@
+{
+ "id": "hsk2-listening-p109",
+ "level": "2",
+ "section": "listening",
+ "partKey": "listening-p1",
+ "title": "HSK2 Listening P1",
+ "titleZh": "听力 第一部分（看图判断）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听句子，看图片，判断对错。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "对",
+     "explanation": "句子说他在看书，图片显示一个人坐着看书，内容一致。",
+     "audio": {
+      "key": "listening/v1/9f11514b06c3d66ca3415afed7d692b2de0427315cb53b93ab904e816dcc8591.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "他正在看书。"
+       }
+      ],
+      "transcript": "他正在看书。",
+      "transcriptPinyin": "tā zhèng zài kàn shū 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-a920f4711059bb75e71bb00f98b1818f.png"
+    },
+    {
+     "id": "q2",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "错",
+     "explanation": "句子说猫在桌子上，但图片中猫在桌子下面，位置不同。",
+     "audio": {
+      "key": "listening/v1/07a084230348fc3a4fa757443b2deb2f1cb25363d92a326091117d34d50eaa14.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "猫在桌子上。"
+       }
+      ],
+      "transcript": "猫在桌子上。",
+      "transcriptPinyin": "māo zài zhuō zi shàng 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-d58716c5d0503845aef080ecc8a4a7c4.png"
+    },
+    {
+     "id": "q3",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "错",
+     "explanation": "句子说天气很冷，但图片显示晴天，人们穿着短裤短袖，表示热。",
+     "audio": {
+      "key": "listening/v1/b1d2bce98af31f80dc8c1e688296aeb20f4c5339ae9be32ccb79685307c819db.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "今天天气很冷。"
+       }
+      ],
+      "transcript": "今天天气很冷。",
+      "transcriptPinyin": "jīn tiān tiān qì hěn lěng 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-dfd531e6359116e30fe26b779e7a85f8.png"
+    },
+    {
+     "id": "q4",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "对",
+     "explanation": "句子说她在喝水，图片中一个女人正在喝水，动作一致。",
+     "audio": {
+      "key": "listening/v1/dbc80b1bf8863a862bbffd13a3ec9cade8e63b5a3d420daf18c046af0292dccd.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "她在喝水。"
+       }
+      ],
+      "transcript": "她在喝水。",
+      "transcriptPinyin": "tā zài hē shuǐ 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-c1283dbd759e907ea08446dc6e7434f4.png"
+    },
+    {
+     "id": "q5",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "错",
+     "explanation": "句子说书包是红色的，但图片中的书包是蓝色的，颜色不同。",
+     "audio": {
+      "key": "listening/v1/7843c88d17d7d1e35105019a8c405832a4260317415e8938852c1a7d577a7768.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我的书包是红色的。"
+       }
+      ],
+      "transcript": "我的书包是红色的。",
+      "transcriptPinyin": "wǒ de shū bāo shì hóng sè de 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-809df9656fd50c7f503bcba14ac5849e.png"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

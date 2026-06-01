@@ -1,0 +1,289 @@
+{
+ "id": "hsk2-listening-p204",
+ "level": "2",
+ "section": "listening",
+ "partKey": "listening-p2",
+ "title": "HSK2 Listening P2",
+ "titleZh": "听力 第二部分（看图听对话）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "听对话，选出与对话内容相符的图片。每段对话对应一张图片，图片可以重复使用。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "A",
+     "explanation": "对话中女生说她在看书，所以对应图片A（读书）。",
+     "audio": {
+      "key": "listening/v1/d1ca9452d028fd184aba3076681957775c3a702950e288966ccc5420d548dc28.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你在做什么？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我在看书，这本书很有意思。"
+       }
+      ],
+      "transcript": "你在做什么？ 我在看书，这本书很有意思。",
+      "transcriptPinyin": "nǐ zài zuò shén me ？  wǒ zài kàn shū ， zhè běn shū hěn yǒu yì si 。"
+     }
+    },
+    {
+     "id": "q2",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "B",
+     "explanation": "对话中男生说要去喝水，所以对应图片B（喝水）。",
+     "audio": {
+      "key": "listening/v1/eb5c82accdffabd9d18f4b6ffeb4dd5bb39a0a1a55624724f8d6df2154b550de.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你渴吗？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我有点渴，我去喝杯水。"
+       }
+      ],
+      "transcript": "你渴吗？ 我有点渴，我去喝杯水。",
+      "transcriptPinyin": "nǐ kě ma ？  wǒ yǒu diǎn kě ， wǒ qù hē bēi shuǐ 。"
+     }
+    },
+    {
+     "id": "q3",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "C",
+     "explanation": "对话中提到踢足球，所以对应图片C（踢足球）。",
+     "audio": {
+      "key": "listening/v1/909df242574f1e5158703d8e621af3254447ea2ce26527e577372aa34b8a6424.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "下午我们去踢足球吧！"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "好呀，我喜欢踢足球。"
+       }
+      ],
+      "transcript": "下午我们去踢足球吧！ 好呀，我喜欢踢足球。",
+      "transcriptPinyin": "xià wǔ wǒ men qù tī zú qiú ba ！  hǎo ya ， wǒ xǐ huān tī zú qiú 。"
+     }
+    },
+    {
+     "id": "q4",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "D",
+     "explanation": "对话中男生说在看电视节目，所以对应图片D（看电视）。",
+     "audio": {
+      "key": "listening/v1/d14a8a6ee6addc4a4aa1e0b2c1e4f295fc6147d861c061ae7e1291a2854ae572.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你在看电视吗？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "是的，我在看一个很有趣的节目。"
+       }
+      ],
+      "transcript": "你在看电视吗？ 是的，我在看一个很有趣的节目。",
+      "transcriptPinyin": "nǐ zài kàn diàn shì ma ？  shì de ， wǒ zài kàn yí gè hěn yǒu qù de jié mù 。"
+     }
+    },
+    {
+     "id": "q5",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "E",
+     "explanation": "对话中谈到吃苹果，所以对应图片E（吃苹果）。",
+     "audio": {
+      "key": "listening/v1/fb88367494e10f70451ac91c73d5606f5d1a0cfbf2fb4d895dc68e69d74d1660.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "这个苹果好吃吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "很好吃，你尝尝。"
+       }
+      ],
+      "transcript": "这个苹果好吃吗？ 很好吃，你尝尝。",
+      "transcriptPinyin": "zhè ge píng guǒ hǎo chī ma ？  hěn hǎo chī ， nǐ cháng cháng 。"
+     }
+    },
+    {
+     "id": "q6",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "F",
+     "explanation": "对话中男生说想睡觉，所以对应图片F（睡觉）。",
+     "audio": {
+      "key": "listening/v1/7133101afa1dc442a6395fe49e0ddd26dfcee94b65711dd57515f2f2b61de97d.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你累了吗？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我很累，想睡觉。"
+       }
+      ],
+      "transcript": "你累了吗？ 我很累，想睡觉。",
+      "transcriptPinyin": "nǐ lèi le ma ？  wǒ hěn lèi ， xiǎng shuì jiào 。"
+     }
+    },
+    {
+     "id": "q7",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "A",
+     "explanation": "对话中女生说在家看书，再次对应图片A（读书）。",
+     "audio": {
+      "key": "listening/v1/ba6f0310b6a19b20130b7a808dca36fa700ac170504ecb67a27e8d4aa61c8aa6.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "周末你经常做什么？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我常常在家看书。"
+       }
+      ],
+      "transcript": "周末你经常做什么？ 我常常在家看书。",
+      "transcriptPinyin": "zhōu mò nǐ jīng cháng zuò shén me ？  wǒ cháng cháng zài jiā kàn shū 。"
+     }
+    },
+    {
+     "id": "q8",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "B",
+     "explanation": "对话中男生同意喝水，再次对应图片B（喝水）。",
+     "audio": {
+      "key": "listening/v1/6dafcb8d3bf0f2859289164336139b5d20692895848c235c8df596a0bd5b668b.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "外面很热，你要喝点水吗？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "好的，谢谢你。"
+       }
+      ],
+      "transcript": "外面很热，你要喝点水吗？ 好的，谢谢你。",
+      "transcriptPinyin": "wài miàn hěn rè ， nǐ yào hē diǎn shuǐ ma ？  hǎo de ， xiè xiè nǐ 。"
+     }
+    },
+    {
+     "id": "q9",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "C",
+     "explanation": "对话中提议踢球，再次对应图片C（踢足球）。",
+     "audio": {
+      "key": "listening/v1/b5cc4692579da9f164cc5f2f492873c8dd45a7c0b1fe8ec82fa3c5d2170306f9.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "明天我们去踢球吧？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "没问题，我很喜欢运动。"
+       }
+      ],
+      "transcript": "明天我们去踢球吧？ 没问题，我很喜欢运动。",
+      "transcriptPinyin": "míng tiān wǒ men qù tī qiú ba ？  méi wèn tí ， wǒ hěn xǐ huān yùn dòng 。"
+     }
+    },
+    {
+     "id": "q10",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "D",
+     "explanation": "对话中男生说晚上看电视，再次对应图片D（看电视）。",
+     "audio": {
+      "key": "listening/v1/d3db48591accca976c460543fa2b13338cd78f2fef127cb039f219fa35641491.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你晚上一般做什么？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我通常会看电视。"
+       }
+      ],
+      "transcript": "你晚上一般做什么？ 我通常会看电视。",
+      "transcriptPinyin": "nǐ wǎn shàng yì bān zuò shén me ？  wǒ tōng cháng huì kàn diàn shì 。"
+     }
+    }
+   ],
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-0a8cf9dc8ca22a4a31f2b13029d9e855.png"
+    },
+    {
+     "label": "B",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-d51f5918143ef81851ab66a567f6f69e.png"
+    },
+    {
+     "label": "C",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-82000bbdaa80de612e8bb949aa2cf67b.png"
+    },
+    {
+     "label": "D",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-57408b5d8e3322fcd291f131e0deb186.png"
+    },
+    {
+     "label": "E",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-2c3aa9296db58b26bd8438b6fef6db26.png"
+    },
+    {
+     "label": "F",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-4e51af0a8bda0fe89cc69c625f5c39ab.png"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

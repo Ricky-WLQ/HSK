@@ -1,0 +1,202 @@
+{
+ "id": "hsk1-listening-p203",
+ "level": "1",
+ "section": "listening",
+ "partKey": "listening-p2",
+ "title": "HSK1 Listening P2",
+ "titleZh": "听力 第二部分（听句子选答语）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "听录音，选择正确答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "这个人问什么？",
+     "correctAnswer": "C",
+     "explanation": "说话的人问“你叫什么名字”，所以他在问名字。",
+     "audio": {
+      "key": "listening/v1/dee75706636fd59d23579253b1aee11905313b90cd1057594844aa060b3f8b2c.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "你好，你叫什么名字？"
+       }
+      ],
+      "transcript": "你好，你叫什么名字？",
+      "transcriptPinyin": "nǐ hǎo ， nǐ jiào shén me míng zì ？"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "几岁",
+       "pinyin": "jǐ suì"
+      },
+      {
+       "label": "B",
+       "text": "你好",
+       "pinyin": "nǐ hǎo"
+      },
+      {
+       "label": "C",
+       "text": "名字",
+       "pinyin": "míng zì"
+      }
+     ],
+     "pinyin": "zhè ge rén wèn shén me ？"
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "这个人是谁？",
+     "correctAnswer": "C",
+     "explanation": "说话的人说他是学生，所以他是学生。",
+     "audio": {
+      "key": "listening/v1/307ed7e0ef97de2e0eb477890fe2568ab0526dce8c1961b5efd5169412d1e596.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我是学生，我学习中文。"
+       }
+      ],
+      "transcript": "我是学生，我学习中文。",
+      "transcriptPinyin": "wǒ shì xué shēng ， wǒ xué xí zhōng wén 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "老师",
+       "pinyin": "lǎo shī"
+      },
+      {
+       "label": "B",
+       "text": "医生",
+       "pinyin": "yī shēng"
+      },
+      {
+       "label": "C",
+       "text": "学生",
+       "pinyin": "xué shēng"
+      }
+     ],
+     "pinyin": "zhè ge rén shì shuí ？"
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "书在哪里？",
+     "correctAnswer": "C",
+     "explanation": "说话的人说书在桌子上，所以书在桌子上。",
+     "audio": {
+      "key": "listening/v1/3d8948b640849b33cea07c5a2c8a57a6aa13d19d544b46767e7d7cfc1375a3c3.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我的书在桌子上。"
+       }
+      ],
+      "transcript": "我的书在桌子上。",
+      "transcriptPinyin": "wǒ de shū zài zhuō zi shàng 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "在椅子上",
+       "pinyin": "zài yǐ zi shàng"
+      },
+      {
+       "label": "B",
+       "text": "在包里",
+       "pinyin": "zài bāo lǐ"
+      },
+      {
+       "label": "C",
+       "text": "在桌子上",
+       "pinyin": "zài zhuō zi shàng"
+      }
+     ],
+     "pinyin": "shū zài nǎ lǐ ？"
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "这个人问什么？",
+     "correctAnswer": "C",
+     "explanation": "他问“现在几点”，是在问时间。",
+     "audio": {
+      "key": "listening/v1/b68a7438132181f3b34ef15afc0fcca2c96c7bb3d887a9b3138acc83130b1e1c.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "现在几点？"
+       }
+      ],
+      "transcript": "现在几点？",
+      "transcriptPinyin": "xiàn zài jǐ diǎn ？"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "星期",
+       "pinyin": "xīng qī"
+      },
+      {
+       "label": "B",
+       "text": "天气",
+       "pinyin": "tiān qì"
+      },
+      {
+       "label": "C",
+       "text": "时间",
+       "pinyin": "shí jiān"
+      }
+     ],
+     "pinyin": "zhè ge rén wèn shén me ？"
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "猫是什么颜色？",
+     "correctAnswer": "C",
+     "explanation": "说话的人说猫是白色的，所以猫是白色。",
+     "audio": {
+      "key": "listening/v1/789b78620de10e752be7ef0446fee88d9db90d8b5be885cb680a6110183ec186.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我的猫是白色的。"
+       }
+      ],
+      "transcript": "我的猫是白色的。",
+      "transcriptPinyin": "wǒ de māo shì bái sè de 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "红色",
+       "pinyin": "hóng sè"
+      },
+      {
+       "label": "B",
+       "text": "黑色",
+       "pinyin": "hēi sè"
+      },
+      {
+       "label": "C",
+       "text": "白色",
+       "pinyin": "bái sè"
+      }
+     ],
+     "pinyin": "māo shì shén me yán sè ？"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

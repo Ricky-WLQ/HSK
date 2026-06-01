@@ -1,0 +1,289 @@
+{
+ "id": "hsk2-listening-p202",
+ "level": "2",
+ "section": "listening",
+ "partKey": "listening-p2",
+ "title": "HSK2 Listening P2",
+ "titleZh": "听力 第二部分（看图听对话）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "听对话，选择与对话内容相符的图片。每题只有一个正确答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "A",
+     "explanation": "对话中提到了‘看书’，这与图片A中一个人在看书的情景相符。",
+     "audio": {
+      "key": "listening/v1/dffaf0e07bbd6f2e8fbefd9ba6c9ebdd503bcfe963f7227ca0e7eddc711a0d35.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你在做什么？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我在看书。"
+       }
+      ],
+      "transcript": "你在做什么？ 我在看书。",
+      "transcriptPinyin": "nǐ zài zuò shén me ？  wǒ zài kàn shū 。"
+     }
+    },
+    {
+     "id": "q2",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "B",
+     "explanation": "对话中提到了‘喝咖啡’，这与图片B中一杯咖啡的情景相符。",
+     "audio": {
+      "key": "listening/v1/4c05ec59afb344a1b03b3a489a22965074c5fb7ffa267cfe46bd653494901bd6.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你想喝什么？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我想喝咖啡。"
+       }
+      ],
+      "transcript": "你想喝什么？ 我想喝咖啡。",
+      "transcriptPinyin": "nǐ xiǎng hē shén me ？  wǒ xiǎng hē kā fēi 。"
+     }
+    },
+    {
+     "id": "q3",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "C",
+     "explanation": "对话中提到了‘骑自行车’，这与图片C中一辆自行车的情景相符。",
+     "audio": {
+      "key": "listening/v1/7bae1a8ebbdb6bdb08aec402de748db6f0bbec81d6db1c11897b626c0ccfc0c7.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你每天怎么去学校？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我骑自行车去学校。"
+       }
+      ],
+      "transcript": "你每天怎么去学校？ 我骑自行车去学校。",
+      "transcriptPinyin": "nǐ měi tiān zěn me qù xué xiào ？  wǒ qí zì xíng chē qù xué xiào 。"
+     }
+    },
+    {
+     "id": "q4",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "D",
+     "explanation": "对话中提到了‘猫’，这与图片D中一只猫的情景相符。",
+     "audio": {
+      "key": "listening/v1/a8a3365c02a756d8ea7a9fdbeb22958a003dc9e362caa6a4531a0deaf8fb1b3b.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你家里有什么动物？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我有一只猫。"
+       }
+      ],
+      "transcript": "你家里有什么动物？ 我有一只猫。",
+      "transcriptPinyin": "nǐ jiā lǐ yǒu shén me dòng wù ？  wǒ yǒu yī zhī māo 。"
+     }
+    },
+    {
+     "id": "q5",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "E",
+     "explanation": "对话中提到了‘手机’，这与图片E中一部电话的情景相符。",
+     "audio": {
+      "key": "listening/v1/21102f3637a8c3c601ddd2cf51249a41119d02260a249eaf607b53a10966882f.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你的手机在哪儿？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "在桌子上。"
+       }
+      ],
+      "transcript": "你的手机在哪儿？ 在桌子上。",
+      "transcriptPinyin": "nǐ de shǒu jī zài nǎ ér ？  zài zhuō zi shàng 。"
+     }
+    },
+    {
+     "id": "q6",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "A",
+     "explanation": "对话中提到了‘书’，这与图片A中一个人在看书的场景相关。",
+     "audio": {
+      "key": "listening/v1/0bdcb78551a1fd6dd8b7d3fb4202e7368af71d323cb79d7a70a87be91f48516e.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "这本书很好看。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "是的，我也很喜欢。"
+       }
+      ],
+      "transcript": "这本书很好看。 是的，我也很喜欢。",
+      "transcriptPinyin": "zhè běn shū hěn hǎo kàn 。  shì de ， wǒ yě hěn xǐ huān 。"
+     }
+    },
+    {
+     "id": "q7",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "B",
+     "explanation": "对话中选择了‘咖啡’，这与图片B中一杯咖啡相符。",
+     "audio": {
+      "key": "listening/v1/6f95782813d94f07475e5a21d1e84f1a18ee80d52f2db9b448bcbd40abf600ca.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你要喝茶还是咖啡？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "咖啡，谢谢。"
+       }
+      ],
+      "transcript": "你要喝茶还是咖啡？ 咖啡，谢谢。",
+      "transcriptPinyin": "nǐ yào hē chá hái shì kā fēi ？  kā fēi ， xiè xiè 。"
+     }
+    },
+    {
+     "id": "q8",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "C",
+     "explanation": "对话中提到了‘自行车’，这与图片C中一辆自行车相符。",
+     "audio": {
+      "key": "listening/v1/4f007f03f4f554e2db160990bab3b32143718818fe0b6730b9d7be59cffedf56.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你的自行车是新的吗？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "不是，是旧的。"
+       }
+      ],
+      "transcript": "你的自行车是新的吗？ 不是，是旧的。",
+      "transcriptPinyin": "nǐ de zì xíng chē shì xīn de ma ？  bú shì ， shì jiù de 。"
+     }
+    },
+    {
+     "id": "q9",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "D",
+     "explanation": "对话中提到了‘猫’，这与图片D中一只猫相符。",
+     "audio": {
+      "key": "listening/v1/808ce9fa21abf0948a7f09ab22e04e69efeb20d3697dc34327dde4df16911739.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你喜欢什么动物？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我喜欢猫。"
+       }
+      ],
+      "transcript": "你喜欢什么动物？ 我喜欢猫。",
+      "transcriptPinyin": "nǐ xǐ huān shén me dòng wù ？  wǒ xǐ huān māo 。"
+     }
+    },
+    {
+     "id": "q10",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "E",
+     "explanation": "对话中提到了‘打电话’，这与图片E中一部电话相符。",
+     "audio": {
+      "key": "listening/v1/76377c90fb4fad1cb5d5f2183481b91f32f5f5a5216e3dcc248c85dd8e061df3.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你打电话给谁？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我打电话给妈妈。"
+       }
+      ],
+      "transcript": "你打电话给谁？ 我打电话给妈妈。",
+      "transcriptPinyin": "nǐ dǎ diàn huà gěi shuí ？  wǒ dǎ diàn huà gěi mā mā 。"
+     }
+    }
+   ],
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-ed71d0ffed5d96ed5deeaf3c8941ae44.png"
+    },
+    {
+     "label": "B",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-6311c03cdf0f63eaf489319f3e116958.png"
+    },
+    {
+     "label": "C",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-e198cfb82eabc0a3ab601f522d234510.png"
+    },
+    {
+     "label": "D",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-f81110a10602d9c33fe01cc23c63a42a.png"
+    },
+    {
+     "label": "E",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-cb6e412a5b3cb0bf93bbd3472d32ff92.png"
+    },
+    {
+     "label": "F",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-6978a9a3e53f2257a99c3fedd6d2321c.png"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

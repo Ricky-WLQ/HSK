@@ -1,0 +1,117 @@
+{
+ "id": "hsk2-listening-p108",
+ "level": "2",
+ "section": "listening",
+ "partKey": "listening-p1",
+ "title": "HSK2 Listening P1",
+ "titleZh": "听力 第一部分（看图判断）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "听一句话，看图片，判断对错。对的选“对”，错的选“错”。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "对",
+     "explanation": "图片中一个女孩在看书，与语句描述一致。",
+     "audio": {
+      "key": "listening/v1/af4a5699c2ca2aae66413cb2355783f2c878e6d458260f683818d006316d732e.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "她正在看书。"
+       }
+      ],
+      "transcript": "她正在看书。",
+      "transcriptPinyin": "tā zhèng zài kàn shū 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-34a627db68c46b783e6603d6f0e7064a.png"
+    },
+    {
+     "id": "q2",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "错",
+     "explanation": "图片中猫在桌子上，而语句说猫在桌子下面，位置不同。",
+     "audio": {
+      "key": "listening/v1/52ea0c678e0cc1749b8fe0566e58c402c428ac5e11e0d3fc00d39796fcf0fc97.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "猫在桌子下面。"
+       }
+      ],
+      "transcript": "猫在桌子下面。",
+      "transcriptPinyin": "māo zài zhuō zi xià miàn 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-3f4981430c30019562a18b880d3246f2.png"
+    },
+    {
+     "id": "q3",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "对",
+     "explanation": "图片显示晴天，符合“天气很好”的描述。",
+     "audio": {
+      "key": "listening/v1/199a9cbcfe613ce6c05a9ff4f0984b93c8b5bd87becc022c43cdf0fafde2e743.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "今天天气很好。"
+       }
+      ],
+      "transcript": "今天天气很好。",
+      "transcriptPinyin": "jīn tiān tiān qì hěn hǎo 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-c9db60bd95fce2b1f0ab37dd6d736ab6.png"
+    },
+    {
+     "id": "q4",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "错",
+     "explanation": "图片中男人在写字，不是打电话，动作不一致。",
+     "audio": {
+      "key": "listening/v1/e35e4ea1a246ca56f64b31106a21cc0b58b928a87db655e27e3ecd0e436cb8ee.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "他在打电话。"
+       }
+      ],
+      "transcript": "他在打电话。",
+      "transcriptPinyin": "tā zài dǎ diàn huà 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-a5002fb6e7c9b572e0a773284a75ea0d.png"
+    },
+    {
+     "id": "q5",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "错",
+     "explanation": "图片中有一个苹果，与语句中提到的苹果一致。",
+     "audio": {
+      "key": "listening/v1/ed47589bcbc8f1a72562415e9dcc218def14d54e187c70f5848f9b32ac6bb01a.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我喜欢吃苹果。"
+       }
+      ],
+      "transcript": "我喜欢吃苹果。",
+      "transcriptPinyin": "wǒ xǐ huān chī píng guǒ 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-c7af50265fa0865b143db28ceba3cf05.png"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

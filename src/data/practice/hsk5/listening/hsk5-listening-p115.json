@@ -1,0 +1,477 @@
+{
+ "id": "hsk5-listening-p115",
+ "level": "5",
+ "section": "listening",
+ "partKey": "listening-p1",
+ "title": "HSK5 Listening P1",
+ "titleZh": "听力 第一部分（听对话选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "下面你将听到10段对话，每段对话后有一个问题，请从A、B、C、D四个选项中选出最佳答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "女的为什么没参加聚会？",
+     "correctAnswer": "B",
+     "explanation": "根据对话，女的说被老板叫去加班，所以没参加聚会。",
+     "audio": {
+      "key": "listening/v1/9c9884f64d21abb098f1c3894d7f17c842044dccc96b28a31f7bfd15f71ca84f.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你昨天怎么没来参加聚会？大家都问起你了。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "别提了，我临时被老板叫去加班，一直忙到晚上十点。"
+       }
+      ],
+      "transcript": "你昨天怎么没来参加聚会？大家都问起你了。 别提了，我临时被老板叫去加班，一直忙到晚上十点。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "她生病了"
+      },
+      {
+       "label": "B",
+       "text": "她需要加班"
+      },
+      {
+       "label": "C",
+       "text": "她不想去"
+      },
+      {
+       "label": "D",
+       "text": "她忘了时间"
+      }
+     ]
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "他们接下来最可能做什么？",
+     "correctAnswer": "B",
+     "explanation": "女的说下次换一家性价比高的，所以他们会去另一家便宜的餐厅。",
+     "audio": {
+      "key": "listening/v1/6e63da565934024f55b59584ab514170d355d088933be33c25c8697d84eebae7.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "这家餐厅的菜味道不错，就是价格有点贵。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "是啊，不过偶尔来一次也还可以接受。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "那我们下次换一家性价比高的吧。"
+       }
+      ],
+      "transcript": "这家餐厅的菜味道不错，就是价格有点贵。 是啊，不过偶尔来一次也还可以接受。 那我们下次换一家性价比高的吧。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "向老板提意见"
+      },
+      {
+       "label": "B",
+       "text": "去另一家便宜的餐厅"
+      },
+      {
+       "label": "C",
+       "text": "继续在这家餐厅吃饭"
+      },
+      {
+       "label": "D",
+       "text": "以后再也不来了"
+      }
+     ]
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "关于女的，我们可以知道什么？",
+     "correctAnswer": "A",
+     "explanation": "女的说习惯了轻装出行，缺什么到了再买，说明她经常出差。",
+     "audio": {
+      "key": "listening/v1/8e8334d9e58234bd4a88f122b844aef124b20d8ec905c4184e8c1afe9fa5bb39.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你的行李怎么这么少？出差一周就带这么点东西？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我习惯了轻装出行，缺什么到了再买也方便。"
+       }
+      ],
+      "transcript": "你的行李怎么这么少？出差一周就带这么点东西？ 我习惯了轻装出行，缺什么到了再买也方便。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "她经常出差"
+      },
+      {
+       "label": "B",
+       "text": "她不喜欢旅行"
+      },
+      {
+       "label": "C",
+       "text": "她喜欢带很多行李"
+      },
+      {
+       "label": "D",
+       "text": "她觉得买东西不方便"
+      }
+     ]
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "那本书现在怎么样了？",
+     "correctAnswer": "A",
+     "explanation": "男的说书落在公交车上，说明书已经丢失。",
+     "audio": {
+      "key": "listening/v1/982531f673e06d1c0acec95f3632b80c3ae88124da68ad618753d59ffed54f5f.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你昨天借我的那本书看完了吗？我想拿回来。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "哎呀，不好意思，我昨天不小心把它落在公交车上了。"
+       }
+      ],
+      "transcript": "你昨天借我的那本书看完了吗？我想拿回来。 哎呀，不好意思，我昨天不小心把它落在公交车上了。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "丢失了"
+      },
+      {
+       "label": "B",
+       "text": "被女的拿走了"
+      },
+      {
+       "label": "C",
+       "text": "被送到了失物招领处"
+      },
+      {
+       "label": "D",
+       "text": "还在男的这里"
+      }
+     ]
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "他们明天的计划有什么变化？",
+     "correctAnswer": "B",
+     "explanation": "因为大雨，他们决定改成室内活动，去看电影。",
+     "audio": {
+      "key": "listening/v1/c98fb2fb08e3673025c6d6a2705db7b0d1b4d6722b9896f908efd2cc1a03f16c.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "天气预报说明天有大雨，我们爬山计划是不是要取消了？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "确实，安全第一，改成室内活动吧，比如去看电影。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "好主意，那我查查最近有什么好电影。"
+       }
+      ],
+      "transcript": "天气预报说明天有大雨，我们爬山计划是不是要取消了？ 确实，安全第一，改成室内活动吧，比如去看电影。 好主意，那我查查最近有什么好电影。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "什么也不做"
+      },
+      {
+       "label": "B",
+       "text": "改为看电影"
+      },
+      {
+       "label": "C",
+       "text": "还是去爬山"
+      },
+      {
+       "label": "D",
+       "text": "在家休息"
+      }
+     ]
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "男的周末要做什么？",
+     "correctAnswer": "A",
+     "explanation": "男的说周末要参加婚礼，所以不能去学游泳。",
+     "audio": {
+      "key": "listening/v1/8fa6d9e3db3bb6a7ccb878590eccdb75ecacb78c29d5a3534f0e6c23f6a1c5d8.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "这个周末我打算去学游泳，你要不要一起来？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我倒是想，不过我周末要参加一个婚礼，去不了。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "那下次吧，祝你玩得开心。"
+       }
+      ],
+      "transcript": "这个周末我打算去学游泳，你要不要一起来？ 我倒是想，不过我周末要参加一个婚礼，去不了。 那下次吧，祝你玩得开心。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "参加婚礼"
+      },
+      {
+       "label": "B",
+       "text": "去学游泳"
+      },
+      {
+       "label": "C",
+       "text": "在家休息"
+      },
+      {
+       "label": "D",
+       "text": "陪女朋友"
+      }
+     ]
+    },
+    {
+     "id": "q7",
+     "type": "listening-mcq",
+     "prompt": "女的对男的做法持什么态度？",
+     "correctAnswer": "C",
+     "explanation": "女的说别着急，多练习就好，并愿意教他，这是鼓励的态度。",
+     "audio": {
+      "key": "listening/v1/530eab8a24aa76214bd1c993aec2939fd64b871616b192d4d2d7301cddbb2dcc.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我最近在学做菜，但总是掌握不好火候。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "别着急，多练习就好了。我刚开始也是这样的。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "那你有空教教我吧。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "没问题，这个周末怎么样？"
+       }
+      ],
+      "transcript": "我最近在学做菜，但总是掌握不好火候。 别着急，多练习就好了。我刚开始也是这样的。 那你有空教教我吧。 没问题，这个周末怎么样？",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "嘲笑"
+      },
+      {
+       "label": "B",
+       "text": "批评"
+      },
+      {
+       "label": "C",
+       "text": "鼓励"
+      },
+      {
+       "label": "D",
+       "text": "无所谓"
+      }
+     ]
+    },
+    {
+     "id": "q8",
+     "type": "listening-mcq",
+     "prompt": "关于小王，下列哪项正确？",
+     "correctAnswer": "A",
+     "explanation": "对话中提到小王辞职准备自己创业，所以他是准备创业。",
+     "audio": {
+      "key": "listening/v1/e48d35bb9c591db07b0baa5487e71ddcf627649e29c41e51f1b355fd93a481ce.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你听说了吗？小王辞职了，准备自己创业。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "真的吗？他真有勇气，现在经济形势不太好，创业风险挺大的。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "是啊，不过他好像已经准备了很久，应该有计划吧。"
+       }
+      ],
+      "transcript": "你听说了吗？小王辞职了，准备自己创业。 真的吗？他真有勇气，现在经济形势不太好，创业风险挺大的。 是啊，不过他好像已经准备了很久，应该有计划吧。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "他准备创业"
+      },
+      {
+       "label": "B",
+       "text": "他失业了"
+      },
+      {
+       "label": "C",
+       "text": "他创业失败了"
+      },
+      {
+       "label": "D",
+       "text": "他还在原来公司"
+      }
+     ]
+    },
+    {
+     "id": "q9",
+     "type": "listening-mcq",
+     "prompt": "女的在做什么？",
+     "correctAnswer": "C",
+     "explanation": "女的承认自己在减肥，通过跑步和控制饮食。",
+     "audio": {
+      "key": "listening/v1/6c30c1c1dfa1adab841c8304e2a0db7f447d5e664ba3d4ddfdb2192210ec4988.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你最近好像瘦了不少，是不是在减肥？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "是啊，我每天晚上去跑步，还控制饮食。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "真佩服你的毅力，我也想减肥，但总是坚持不下来。"
+       }
+      ],
+      "transcript": "你最近好像瘦了不少，是不是在减肥？ 是啊，我每天晚上去跑步，还控制饮食。 真佩服你的毅力，我也想减肥，但总是坚持不下来。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "节食"
+      },
+      {
+       "label": "B",
+       "text": "锻炼身体"
+      },
+      {
+       "label": "C",
+       "text": "减肥"
+      },
+      {
+       "label": "D",
+       "text": "增肥"
+      }
+     ]
+    },
+    {
+     "id": "q10",
+     "type": "listening-mcq",
+     "prompt": "关于这篇文章，两个人是什么关系？",
+     "correctAnswer": "B",
+     "explanation": "男的不同意文章观点，女的同意，所以两人有不同意见。",
+     "audio": {
+      "key": "listening/v1/5099b976293defd79939586cb0831f4be75c0cf56acd6eed27c6193cbc9dd2d8.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "这篇文章你看了吗？我觉得观点很新颖。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "看了，但我不太同意他的看法，有些地方太理想化了。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "是吗？我倒觉得挺有道理的，可以给我们一些启发。"
+       }
+      ],
+      "transcript": "这篇文章你看了吗？我觉得观点很新颖。 看了，但我不太同意他的看法，有些地方太理想化了。 是吗？我倒觉得挺有道理的，可以给我们一些启发。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "都完全反对"
+      },
+      {
+       "label": "B",
+       "text": "有不同意见"
+      },
+      {
+       "label": "C",
+       "text": "没有看法"
+      },
+      {
+       "label": "D",
+       "text": "都完全同意"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

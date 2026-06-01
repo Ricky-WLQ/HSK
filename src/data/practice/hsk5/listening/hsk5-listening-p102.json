@@ -1,0 +1,537 @@
+{
+ "id": "hsk5-listening-p102",
+ "level": "5",
+ "section": "listening",
+ "partKey": "listening-p1",
+ "title": "HSK5 Listening P1",
+ "titleZh": "听力 第一部分（听对话选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听下面10段对话，每段对话后有一个问题，请从A、B、C、D四个选项中选出最佳答案。每段对话只读一遍。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "女的暑假打算怎么去旅行？",
+     "correctAnswer": "A",
+     "explanation": "女的说机票太贵，所以改去附近的城市，并说可以坐高铁去，因此答案是坐高铁去附近城市。",
+     "audio": {
+      "key": "listening/v1/259c5ff55b7d33c93ca8c070a883a51a44ae473e1b02b898a3007d70f7dde781.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你暑假打算去哪儿玩？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我本来想去云南，但是最近机票太贵了，所以改去附近的城市了。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "那也不错，省点钱。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "是啊，还可以坐高铁去，很方便。"
+       }
+      ],
+      "transcript": "你暑假打算去哪儿玩？ 我本来想去云南，但是最近机票太贵了，所以改去附近的城市了。 那也不错，省点钱。 是啊，还可以坐高铁去，很方便。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "坐高铁去附近城市"
+      },
+      {
+       "label": "B",
+       "text": "开车去云南"
+      },
+      {
+       "label": "C",
+       "text": "坐飞机去云南"
+      },
+      {
+       "label": "D",
+       "text": "坐火车去附近城市"
+      }
+     ]
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "男的不同意去川菜馆的原因是什么？",
+     "correctAnswer": "A",
+     "explanation": "男的说自己最近胃不舒服，不能吃辣的，所以不去川菜馆。",
+     "audio": {
+      "key": "listening/v1/6bb510261c8647728b78dc2df044ec1b0d53370bb64b76e0a75fb31c54864c2f.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "听说新开了一家川菜馆，你要不要一起去尝尝？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我最近胃不舒服，不能吃辣的。有没有别的推荐？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "那我们去吃清淡的粤菜吧，那家店环境也很好。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "好，听你的。"
+       }
+      ],
+      "transcript": "听说新开了一家川菜馆，你要不要一起去尝尝？ 我最近胃不舒服，不能吃辣的。有没有别的推荐？ 那我们去吃清淡的粤菜吧，那家店环境也很好。 好，听你的。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "胃不舒服"
+      },
+      {
+       "label": "B",
+       "text": "不喜欢吃辣"
+      },
+      {
+       "label": "C",
+       "text": "环境不好"
+      },
+      {
+       "label": "D",
+       "text": "觉得价格太贵"
+      }
+     ]
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "女的最近在干什么？",
+     "correctAnswer": "B",
+     "explanation": "女的说自己刚接手一个新项目，每天加班，所以是在负责新项目。",
+     "audio": {
+      "key": "listening/v1/34a841a0b4840c4005bad8d6d3b5909448424eed75c36b5fc2a8bf04d908ed2d.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你最近工作忙不忙？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "挺忙的，刚接手一个新项目，每天都在加班。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "要注意身体啊，别太累了。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "谢谢关心，等这个项目结束了我就好好休息。"
+       }
+      ],
+      "transcript": "你最近工作忙不忙？ 挺忙的，刚接手一个新项目，每天都在加班。 要注意身体啊，别太累了。 谢谢关心，等这个项目结束了我就好好休息。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "准备考试"
+      },
+      {
+       "label": "B",
+       "text": "负责新项目"
+      },
+      {
+       "label": "C",
+       "text": "正在休假"
+      },
+      {
+       "label": "D",
+       "text": "找新工作"
+      }
+     ]
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "男的在担心什么？",
+     "correctAnswer": "C",
+     "explanation": "男的说自己的口语还是不太好，所以担心口语进步慢。",
+     "audio": {
+      "key": "listening/v1/78a10b2fc1e25e3469102bfa0c1f8b663ce88da167a57dd30fbb48cff592e405.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你学中文多长时间了？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "差不多两年了，但我的口语还是不太好。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "多跟中国人聊天会进步很快的。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "是啊，我打算找个语言伙伴。"
+       }
+      ],
+      "transcript": "你学中文多长时间了？ 差不多两年了，但我的口语还是不太好。 多跟中国人聊天会进步很快的。 是啊，我打算找个语言伙伴。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "听力不好"
+      },
+      {
+       "label": "B",
+       "text": "找不到老师"
+      },
+      {
+       "label": "C",
+       "text": "口语进步慢"
+      },
+      {
+       "label": "D",
+       "text": "没有时间学习"
+      }
+     ]
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "女的对第一件衣服的看法是什么？",
+     "correctAnswer": "D",
+     "explanation": "女的说第一件衣服颜色不错但款式太普通，所以看法是款式太普通。",
+     "audio": {
+      "key": "listening/v1/b4ee32fdf261e374a2642b96a0675888fc2b0bfe364907cb421ff4860ba4df4f.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "这件衣服怎么样？很适合你。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "颜色不错，但是款式太普通了。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "那再看看旁边那件，设计很特别。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "嗯，这件我好喜欢，价格也合适。"
+       }
+      ],
+      "transcript": "这件衣服怎么样？很适合你。 颜色不错，但是款式太普通了。 那再看看旁边那件，设计很特别。 嗯，这件我好喜欢，价格也合适。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "颜色不好看"
+      },
+      {
+       "label": "B",
+       "text": "设计特别"
+      },
+      {
+       "label": "C",
+       "text": "价格太贵"
+      },
+      {
+       "label": "D",
+       "text": "款式太普通"
+      }
+     ]
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "他们周末要做什么？",
+     "correctAnswer": "A",
+     "explanation": "男的说打算去看电影，女的同意一起去，所以周末一起看电影。",
+     "audio": {
+      "key": "listening/v1/0ccf6c101b7b8026fc48ab429ed2a11667647613df98a15bf8aa56d1c5a914cf.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "周末有什么安排？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我打算去看电影，最近有部新片评分很高。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我也想去，一起吧？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "好啊，我买两张票。"
+       }
+      ],
+      "transcript": "周末有什么安排？ 我打算去看电影，最近有部新片评分很高。 我也想去，一起吧？ 好啊，我买两张票。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "一起看电影"
+      },
+      {
+       "label": "B",
+       "text": "去吃饭"
+      },
+      {
+       "label": "C",
+       "text": "去公园散步"
+      },
+      {
+       "label": "D",
+       "text": "在家休息"
+      }
+     ]
+    },
+    {
+     "id": "q7",
+     "type": "listening-mcq",
+     "prompt": "女的遇到了什么问题？",
+     "correctAnswer": "A",
+     "explanation": "女的说自己失眠了，所以问题是失眠。",
+     "audio": {
+      "key": "listening/v1/88db1255111568072f4db76a3374b6b04762e1fdd228419800d81dcd28b0fd53.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你怎么看起来没精神？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "昨晚失眠了，翻来覆去睡不着。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "是不是压力太大了？睡前喝杯牛奶试试。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "好的，我试试看。"
+       }
+      ],
+      "transcript": "你怎么看起来没精神？ 昨晚失眠了，翻来覆去睡不着。 是不是压力太大了？睡前喝杯牛奶试试。 好的，我试试看。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "失眠"
+      },
+      {
+       "label": "B",
+       "text": "心情不好"
+      },
+      {
+       "label": "C",
+       "text": "工作太忙"
+      },
+      {
+       "label": "D",
+       "text": "感冒了"
+      }
+     ]
+    },
+    {
+     "id": "q8",
+     "type": "listening-mcq",
+     "prompt": "银行怎么走？",
+     "correctAnswer": "B",
+     "explanation": "男的说往前走，到第二个路口左转就能看到银行。",
+     "audio": {
+      "key": "listening/v1/765952d704e078ae5eef8e33ec0584a820530389843c80c55961c81009cac422.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "请问，附近有银行吗？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "往前走，到第二个路口左转，就能看到了。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "远不远？走路大概要多久？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "十分钟左右吧。"
+       }
+      ],
+      "transcript": "请问，附近有银行吗？ 往前走，到第二个路口左转，就能看到了。 远不远？走路大概要多久？ 十分钟左右吧。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "直走五分钟"
+      },
+      {
+       "label": "B",
+       "text": "到第二个路口左转"
+      },
+      {
+       "label": "C",
+       "text": "在第一个路口左转"
+      },
+      {
+       "label": "D",
+       "text": "往前走然后右转"
+      }
+     ]
+    },
+    {
+     "id": "q9",
+     "type": "listening-mcq",
+     "prompt": "女的毕业后打算做什么？",
+     "correctAnswer": "A",
+     "explanation": "女的说准备去法国留学，继续学习艺术。",
+     "audio": {
+      "key": "listening/v1/00d599f71a46ab8006307736111551aa29e557dcc99e33d3977c558d41fdc47a.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你毕业后有什么打算？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我准备去法国留学，继续学习艺术。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "哇，那很棒啊！语言方面没问题吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我一直在学法语，应该能应付。"
+       }
+      ],
+      "transcript": "你毕业后有什么打算？ 我准备去法国留学，继续学习艺术。 哇，那很棒啊！语言方面没问题吗？ 我一直在学法语，应该能应付。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "去法国留学"
+      },
+      {
+       "label": "B",
+       "text": "学法语"
+      },
+      {
+       "label": "C",
+       "text": "在国内读研"
+      },
+      {
+       "label": "D",
+       "text": "找工作"
+      }
+     ]
+    },
+    {
+     "id": "q10",
+     "type": "listening-mcq",
+     "prompt": "他们谈论的是什么话题？",
+     "correctAnswer": "D",
+     "explanation": "男女都在讨论垃圾分类和环境保护，所以话题是环境问题。",
+     "audio": {
+      "key": "listening/v1/fab5391dc91b010bad01118d46154322bf36bc33aa659a8bb69e7ed0112b6315.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "现在垃圾分类越来越严格了。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "是啊，虽然有点麻烦，但对环境有好处。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "对，我们每个人都应该从自己做起。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "没错，保护环境人人有责。"
+       }
+      ],
+      "transcript": "现在垃圾分类越来越严格了。 是啊，虽然有点麻烦，但对环境有好处。 对，我们每个人都应该从自己做起。 没错，保护环境人人有责。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "健康问题"
+      },
+      {
+       "label": "B",
+       "text": "教育问题"
+      },
+      {
+       "label": "C",
+       "text": "经济问题"
+      },
+      {
+       "label": "D",
+       "text": "环境问题"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

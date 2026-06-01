@@ -1,0 +1,507 @@
+{
+ "id": "hsk2-listening-p301",
+ "level": "2",
+ "section": "listening",
+ "partKey": "listening-p3",
+ "title": "HSK2 Listening P3",
+ "titleZh": "听力 第三部分（听对话选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "下面你将听到10段对话，每段对话后有一个问题。请从A、B、C三个选项中选择正确的答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "现在是下午几点？",
+     "correctAnswer": "A",
+     "explanation": "对话中女人说现在下午三点半，所以时间是三点半。",
+     "audio": {
+      "key": "listening/v1/049ea97a186bbb3cd82fb0267adb1c018cba7a884d58945b10727476567dc7a1.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你好，请问现在几点了？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "现在下午三点半。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "谢谢！"
+       }
+      ],
+      "transcript": "你好，请问现在几点了？ 现在下午三点半。 谢谢！",
+      "transcriptPinyin": "nǐ hǎo ， qǐng wèn xiàn zài jǐ diǎn le ？  xiàn zài xià wǔ sān diǎn bàn 。  xiè xiè ！"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "三点半",
+       "pinyin": "sān diǎn bàn"
+      },
+      {
+       "label": "B",
+       "text": "三点",
+       "pinyin": "sān diǎn"
+      },
+      {
+       "label": "C",
+       "text": "四点半",
+       "pinyin": "sì diǎn bàn"
+      }
+     ],
+     "pinyin": "xiàn zài shì xià wǔ jǐ diǎn ？"
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "男人想去哪儿？",
+     "correctAnswer": "C",
+     "explanation": "男人说想去超市买东西，所以是超市。",
+     "audio": {
+      "key": "listening/v1/32607c3aebe617823f3e428067cc4239f0e7a10f4086f26977c05988e4aa204b.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你今天想去哪儿？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我想去超市买点东西。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "好的，我们一起走吧。"
+       }
+      ],
+      "transcript": "你今天想去哪儿？ 我想去超市买点东西。 好的，我们一起走吧。",
+      "transcriptPinyin": "nǐ jīn tiān xiǎng qù nǎ ér ？  wǒ xiǎng qù chāo shì mǎi diǎn dōng xī 。  hǎo de ， wǒ men yì qǐ zǒu ba 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "医院",
+       "pinyin": "yī yuàn"
+      },
+      {
+       "label": "B",
+       "text": "学校",
+       "pinyin": "xué xiào"
+      },
+      {
+       "label": "C",
+       "text": "超市",
+       "pinyin": "chāo shì"
+      }
+     ],
+     "pinyin": "nán rén xiǎng qù nǎ ér ？"
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "女人昨天做了什么？",
+     "correctAnswer": "C",
+     "explanation": "女人说昨天在家里学习，所以没有看电影，也没有去商店。",
+     "audio": {
+      "key": "listening/v1/1100fbac3d9b57657e7b2d6e8a302d887dcdec4cf51e1ef2f547a1881f955ffe.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你昨天看电影了吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "没有，我昨天在家里学习。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "那部电影很好看，你应该去看看。"
+       }
+      ],
+      "transcript": "你昨天看电影了吗？ 没有，我昨天在家里学习。 那部电影很好看，你应该去看看。",
+      "transcriptPinyin": "nǐ zuó tiān kàn diàn yǐng le ma ？  méi yǒu ， wǒ zuó tiān zài jiā lǐ xué xí 。  nà bù diàn yǐng hěn hǎo kàn ， nǐ yīng gāi qù kàn kàn 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "去了商店",
+       "pinyin": "qù le shāng diàn"
+      },
+      {
+       "label": "B",
+       "text": "看了电影",
+       "pinyin": "kàn le diàn yǐng"
+      },
+      {
+       "label": "C",
+       "text": "在家学习",
+       "pinyin": "zài jiā xué xí"
+      }
+     ],
+     "pinyin": "nǚ rén zuó tiān zuò le shén me ？"
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "男人早饭吃了什么？",
+     "correctAnswer": "A",
+     "explanation": "男人说吃了两个鸡蛋和一杯牛奶，所以是鸡蛋和牛奶。",
+     "audio": {
+      "key": "listening/v1/685034efc7797f6ee4dc976df93a3c0f48d00837ed6dd3a8af0836e6468c69ea.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你早饭吃了什么？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我吃了两个鸡蛋和一杯牛奶。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "好吃吗？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "很好吃。"
+       }
+      ],
+      "transcript": "你早饭吃了什么？ 我吃了两个鸡蛋和一杯牛奶。 好吃吗？ 很好吃。",
+      "transcriptPinyin": "nǐ zǎo fàn chī le shén me ？  wǒ chī le liǎng gè jī dàn hé yī bēi niú nǎi 。  hǎo chī ma ？  hěn hǎo chī 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "鸡蛋和牛奶",
+       "pinyin": "jī dàn hé niú nǎi"
+      },
+      {
+       "label": "B",
+       "text": "面包和牛奶",
+       "pinyin": "miàn bāo hé niú nǎi"
+      },
+      {
+       "label": "C",
+       "text": "鸡蛋和面包",
+       "pinyin": "jī dàn huó miàn bāo"
+      }
+     ],
+     "pinyin": "nán rén zǎo fàn chī le shén me ？"
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "图书馆在哪儿？",
+     "correctAnswer": "A",
+     "explanation": "女人说图书馆在学校东边，白色大楼。",
+     "audio": {
+      "key": "listening/v1/5d73ed48fac3c54377f245c5239d30b35685f2d5c5bed96ad4abb53a76cac593.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "请问，图书馆在哪儿？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "图书馆在学校东边，就是那个白色的大楼。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "好的，谢谢！"
+       }
+      ],
+      "transcript": "请问，图书馆在哪儿？ 图书馆在学校东边，就是那个白色的大楼。 好的，谢谢！",
+      "transcriptPinyin": "qǐng wèn ， tú shū guǎn zài nǎ ér ？  tú shū guǎn zài xué xiào dōng biān ， jiù shì nà ge bái sè de dà lóu 。  hǎo de ， xiè xiè ！"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "学校东边",
+       "pinyin": "xué xiào dōng biān"
+      },
+      {
+       "label": "B",
+       "text": "学校北边",
+       "pinyin": "xué xiào běi biān"
+      },
+      {
+       "label": "C",
+       "text": "学校西边",
+       "pinyin": "xué xiào xī biān"
+      }
+     ],
+     "pinyin": "tú shū guǎn zài nǎ ér ？"
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "男人最后要卖多少钱？",
+     "correctAnswer": "B",
+     "explanation": "男人说好吧八十元给你，所以最后价格是八十元。",
+     "audio": {
+      "key": "listening/v1/b86b0feea06f9c7f4182f65a4dbb706a2ef53764f8188544f9d0cf10fc278c78.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "这件衣服多少钱？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "这件衣服一百元。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "太贵了，能便宜一点吗？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "好吧，八十元给你。"
+       }
+      ],
+      "transcript": "这件衣服多少钱？ 这件衣服一百元。 太贵了，能便宜一点吗？ 好吧，八十元给你。",
+      "transcriptPinyin": "zhè jiàn yī fú duō shǎo qián ？  zhè jiàn yī fú yì bǎi yuán 。  tài guì le ， néng pián yi yì diǎn ma ？  hǎo ba ， bā shí yuán gěi nǐ 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "六十元",
+       "pinyin": "liù shí yuán"
+      },
+      {
+       "label": "B",
+       "text": "八十元",
+       "pinyin": "bā shí yuán"
+      },
+      {
+       "label": "C",
+       "text": "一百元",
+       "pinyin": "yì bǎi yuán"
+      }
+     ],
+     "pinyin": "nán rén zuì hòu yào mài duō shǎo qián ？"
+    },
+    {
+     "id": "q7",
+     "type": "listening-mcq",
+     "prompt": "今天天气怎么样？",
+     "correctAnswer": "A",
+     "explanation": "女人说今天很冷还下雨，所以天气很冷有雨。",
+     "audio": {
+      "key": "listening/v1/9bdfbf151a9e8d2a6ff9e7ff39ab277b4aa01df3c7f6159abc60df3fde25f84a.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "今天天气怎么样？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "今天很冷，还下雨了。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "那我要多穿点衣服。"
+       }
+      ],
+      "transcript": "今天天气怎么样？ 今天很冷，还下雨了。 那我要多穿点衣服。",
+      "transcriptPinyin": "jīn tiān tiān qì zěn me yàng ？  jīn tiān hěn lěng ， hái xià yǔ le 。  nà wǒ yào duō chuān diǎn yī fú 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "很冷，下雨",
+       "pinyin": "hěn lěng ， xià yǔ"
+      },
+      {
+       "label": "B",
+       "text": "很热",
+       "pinyin": "hěn rè"
+      },
+      {
+       "label": "C",
+       "text": "很暖和",
+       "pinyin": "hěn nuǎn huo"
+      }
+     ],
+     "pinyin": "jīn tiān tiān qì zěn me yàng ？"
+    },
+    {
+     "id": "q8",
+     "type": "listening-mcq",
+     "prompt": "男人的哥哥做什么工作？",
+     "correctAnswer": "B",
+     "explanation": "男人说他哥哥在医院工作是医生。",
+     "audio": {
+      "key": "listening/v1/179750c268816246a6eea494e58f7f599d9ce560fa3c77adbb561682f1e98477.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你哥哥在哪儿工作？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "他在医院工作，是一名医生。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "他工作忙吗？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "很忙，经常要加班。"
+       }
+      ],
+      "transcript": "你哥哥在哪儿工作？ 他在医院工作，是一名医生。 他工作忙吗？ 很忙，经常要加班。",
+      "transcriptPinyin": "nǐ gē gē zài nǎ ér gōng zuò ？  tā zài yī yuàn gōng zuò ， shì yī míng yī shēng 。  tā gōng zuò máng ma ？  hěn máng ， jīng cháng yào jiā bān 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "工人",
+       "pinyin": "gōng rén"
+      },
+      {
+       "label": "B",
+       "text": "医生",
+       "pinyin": "yī shēng"
+      },
+      {
+       "label": "C",
+       "text": "老师",
+       "pinyin": "lǎo shī"
+      }
+     ],
+     "pinyin": "nán rén dī gē gē zuò shén me gōng zuò ？"
+    },
+    {
+     "id": "q9",
+     "type": "listening-mcq",
+     "prompt": "女人周末想做什么？",
+     "correctAnswer": "A",
+     "explanation": "女人说不想去爬山，想在家休息。",
+     "audio": {
+      "key": "listening/v1/2b102b9cd9f8bda34206b1ece64eaccec18490d007f6ba213f60b473bcfe5055.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你周末想去爬山吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我不想去，太累了。我想在家休息。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "好吧，那我一个人去。"
+       }
+      ],
+      "transcript": "你周末想去爬山吗？ 我不想去，太累了。我想在家休息。 好吧，那我一个人去。",
+      "transcriptPinyin": "nǐ zhōu mò xiǎng qù pá shān ma ？  wǒ bù xiǎng qù ， tài lèi le 。 wǒ xiǎng zài jiā xiū xī 。  hǎo ba ， nà wǒ yí gè rén qù 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "在家休息",
+       "pinyin": "zài jiā xiū xī"
+      },
+      {
+       "label": "B",
+       "text": "去爬山",
+       "pinyin": "qù pá shān"
+      },
+      {
+       "label": "C",
+       "text": "去逛街",
+       "pinyin": "qù guàng jiē"
+      }
+     ],
+     "pinyin": "nǚ rén zhōu mò xiǎng zuò shén me ？"
+    },
+    {
+     "id": "q10",
+     "type": "listening-mcq",
+     "prompt": "男人现在几岁？",
+     "correctAnswer": "A",
+     "explanation": "他八岁开始学，学了五年，所以现在十三岁。",
+     "audio": {
+      "key": "listening/v1/7d943a1ec95f319b633929bcd6cab64d1b608813cd7335a559407c33d6a16009.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你几岁开始学英语？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我八岁开始学的，学了五年了。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "那你的英语一定很好。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "还可以吧。"
+       }
+      ],
+      "transcript": "你几岁开始学英语？ 我八岁开始学的，学了五年了。 那你的英语一定很好。 还可以吧。",
+      "transcriptPinyin": "nǐ jǐ suì kāi shǐ xué yīng yǔ ？  wǒ bā suì kāi shǐ xué de ， xué le wǔ nián le 。  nà nǐ de yīng yǔ yí dìng hěn hǎo 。  hái kě yǐ ba 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "十三岁",
+       "pinyin": "shí sān suì"
+      },
+      {
+       "label": "B",
+       "text": "八岁",
+       "pinyin": "bā suì"
+      },
+      {
+       "label": "C",
+       "text": "五岁",
+       "pinyin": "wǔ suì"
+      }
+     ],
+     "pinyin": "nán rén xiàn zài jǐ suì ？"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

@@ -1,0 +1,202 @@
+{
+ "id": "hsk1-listening-p216",
+ "level": "1",
+ "section": "listening",
+ "partKey": "listening-p2",
+ "title": "HSK1 Listening P2",
+ "titleZh": "听力 第二部分（听句子选答语）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "下面你将听到5段简短的话。每段话后有一个问题，请从A、B、C三个选项中选择正确答案。每段话只听一遍。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "说话的人明天要做什么？",
+     "correctAnswer": "A",
+     "explanation": "说话的人明确说要去学校，因此正确答案是去学校。",
+     "audio": {
+      "key": "listening/v1/9ad693b104f8b1ac783c1af48bac133dbf69c17f94458d61a3ecbf8f2208a81c.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "明天是星期一，我要去学校。"
+       }
+      ],
+      "transcript": "明天是星期一，我要去学校。",
+      "transcriptPinyin": "míng tiān shì xīng qī yī ， wǒ yào qù xué xiào 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "去学校",
+       "pinyin": "qù xué xiào"
+      },
+      {
+       "label": "B",
+       "text": "去商店",
+       "pinyin": "qù shāng diàn"
+      },
+      {
+       "label": "C",
+       "text": "去吃饭",
+       "pinyin": "qù chī fàn"
+      }
+     ],
+     "pinyin": "shuō huà de rén míng tiān yào zuò shén me ？"
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "说话的人说的是谁？",
+     "correctAnswer": "C",
+     "explanation": "说话的人说“这是我的朋友”，所以说的是朋友。",
+     "audio": {
+      "key": "listening/v1/2ede70d95fe7462c590422ecc45650c41259742dd79afb556a01c2c1bffdf8a2.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "这是我的朋友，她叫李华。"
+       }
+      ],
+      "transcript": "这是我的朋友，她叫李华。",
+      "transcriptPinyin": "zhè shì wǒ de péng yǒu ， tā jiào lǐ huá 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "他的老师",
+       "pinyin": "tā de lǎo shī"
+      },
+      {
+       "label": "B",
+       "text": "他的妈妈",
+       "pinyin": "tā de mā mā"
+      },
+      {
+       "label": "C",
+       "text": "他的朋友",
+       "pinyin": "tā de péng yǒu"
+      }
+     ],
+     "pinyin": "shuō huà de rén shuō de shì shuí ？"
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "说话的人觉得天气怎么样？",
+     "correctAnswer": "A",
+     "explanation": "说话的人说“天气很好”，所以觉得天气很好。",
+     "audio": {
+      "key": "listening/v1/f2aaf8c0fe69b8bb945d603639d81d999147d232c84db0f99153ac9e1405d497.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "今天天气很好，我们出去玩吧。"
+       }
+      ],
+      "transcript": "今天天气很好，我们出去玩吧。",
+      "transcriptPinyin": "jīn tiān tiān qì hěn hǎo ， wǒ men chū qù wán ba 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "很好",
+       "pinyin": "hěn hǎo"
+      },
+      {
+       "label": "B",
+       "text": "很冷",
+       "pinyin": "hěn lěng"
+      },
+      {
+       "label": "C",
+       "text": "不好",
+       "pinyin": "bù hǎo"
+      }
+     ],
+     "pinyin": "shuō huà de rén jué de tiān qì zěn me yàng ？"
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "桌子上有什么？",
+     "correctAnswer": "C",
+     "explanation": "说话的人说桌子上有一本书，所以桌子上是一本书。",
+     "audio": {
+      "key": "listening/v1/da5734af87518a8846f37a35493f665a740f2d386e48826852f67eb066aedead.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "桌子上有一本书。"
+       }
+      ],
+      "transcript": "桌子上有一本书。",
+      "transcriptPinyin": "zhuō zi shàng yǒu yī běn shū 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "一个苹果",
+       "pinyin": "yí gè píng guǒ"
+      },
+      {
+       "label": "B",
+       "text": "一杯水",
+       "pinyin": "yī bēi shuǐ"
+      },
+      {
+       "label": "C",
+       "text": "一本书",
+       "pinyin": "yī běn shū"
+      }
+     ],
+     "pinyin": "zhuō zi shàng yǒu shén me ？"
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "说话的人多大了？",
+     "correctAnswer": "B",
+     "explanation": "说话的人说“我今年六岁”，所以是六岁。",
+     "audio": {
+      "key": "listening/v1/d1b10fad3b89982c9cd6009c0bb9aff6aed91868070f0f870106a7ea4e5f8beb.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我今年六岁，上一年级。"
+       }
+      ],
+      "transcript": "我今年六岁，上一年级。",
+      "transcriptPinyin": "wǒ jīn nián liù suì ， shàng yì nián jí 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "七岁",
+       "pinyin": "qī suì"
+      },
+      {
+       "label": "B",
+       "text": "六岁",
+       "pinyin": "liù suì"
+      },
+      {
+       "label": "C",
+       "text": "五岁",
+       "pinyin": "wǔ suì"
+      }
+     ],
+     "pinyin": "shuō huà de rén duō dà le ？"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

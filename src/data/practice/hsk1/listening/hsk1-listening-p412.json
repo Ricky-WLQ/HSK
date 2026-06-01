@@ -1,0 +1,202 @@
+{
+ "id": "hsk1-listening-p412",
+ "level": "1",
+ "section": "listening",
+ "partKey": "listening-p4",
+ "title": "HSK1 Listening P4",
+ "titleZh": "听力 第四部分（听问句选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听录音，然后根据录音内容选择正确的答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "他叫什么名字？",
+     "correctAnswer": "A",
+     "explanation": "独白中说“我叫小明”，所以他的名字是小明。",
+     "audio": {
+      "key": "listening/v1/ac5550b730cfd7e738adccd7cfcea1b443f57b58e0ff72d7afdfce4125497542.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "你好，我叫小明。你叫什么名字？问题：他叫什么名字？"
+       }
+      ],
+      "transcript": "你好，我叫小明。你叫什么名字？问题：他叫什么名字？",
+      "transcriptPinyin": "nǐ hǎo ， wǒ jiào xiǎo míng 。 nǐ jiào shén me míng zì ？ wèn tí ： tā jiào shén me míng zì ？"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "小明",
+       "pinyin": "xiǎo míng"
+      },
+      {
+       "label": "B",
+       "text": "小红",
+       "pinyin": "xiǎo hóng"
+      },
+      {
+       "label": "C",
+       "text": "小华",
+       "pinyin": "xiǎo huá"
+      }
+     ],
+     "pinyin": "tā jiào shén me míng zì ？"
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "妹妹比哥哥小几岁？",
+     "correctAnswer": "A",
+     "explanation": "哥哥八岁，妹妹六岁，妹妹比哥哥小两岁。",
+     "audio": {
+      "key": "listening/v1/16980f43c702b3e446c1ee8343f39de8ced69b8a915f062f088eef19f5af5189.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我今年八岁。我妹妹六岁。我妹妹比我小几岁？问题：妹妹比哥哥小几岁？"
+       }
+      ],
+      "transcript": "我今年八岁。我妹妹六岁。我妹妹比我小几岁？问题：妹妹比哥哥小几岁？",
+      "transcriptPinyin": "wǒ jīn nián bā suì 。 wǒ mèi mèi liù suì 。 wǒ mèi mèi bǐ wǒ xiǎo jǐ suì ？ wèn tí ： mèi mèi bǐ gē gē xiǎo jǐ suì ？"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "两岁",
+       "pinyin": "liǎng suì"
+      },
+      {
+       "label": "B",
+       "text": "八岁",
+       "pinyin": "bā suì"
+      },
+      {
+       "label": "C",
+       "text": "六岁",
+       "pinyin": "liù suì"
+      }
+     ],
+     "pinyin": "mèi mèi bǐ gē gē xiǎo jǐ suì ？"
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "他家有几口人？",
+     "correctAnswer": "C",
+     "explanation": "独白说“三口人”。",
+     "audio": {
+      "key": "listening/v1/db34a9e362a09d7807afe15e4f51a4f73d636ad426277bc7fd0f5d7711e2a2a1.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我家有三口人：爸爸、妈妈和我。我家有几口人？问题：他家有几口人？"
+       }
+      ],
+      "transcript": "我家有三口人：爸爸、妈妈和我。我家有几口人？问题：他家有几口人？",
+      "transcriptPinyin": "wǒ jiā yǒu sān kǒu rén ： bà bà 、 mā mā hé wǒ 。 wǒ jiā yǒu jǐ kǒu rén ？ wèn tí ： tā jiā yǒu jǐ kǒu rén ？"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "两口人",
+       "pinyin": "liǎng kǒu rén"
+      },
+      {
+       "label": "B",
+       "text": "四口人",
+       "pinyin": "sì kǒu rén"
+      },
+      {
+       "label": "C",
+       "text": "三口人",
+       "pinyin": "sān kǒu rén"
+      }
+     ],
+     "pinyin": "tā jiā yǒu jǐ kǒu rén ？"
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "他喜欢吃什么？",
+     "correctAnswer": "B",
+     "explanation": "他说喜欢苹果。",
+     "audio": {
+      "key": "listening/v1/563f19ef4a9591629ae84c45b083d81e9a8aa9935976769354c161aa0f323209.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我喜欢吃苹果，不喜欢吃香蕉。他喜欢吃什么？问题：他喜欢吃什么？"
+       }
+      ],
+      "transcript": "我喜欢吃苹果，不喜欢吃香蕉。他喜欢吃什么？问题：他喜欢吃什么？",
+      "transcriptPinyin": "wǒ xǐ huān chī píng guǒ ， bù xǐ huān chī xiāng jiāo 。 tā xǐ huān chī shén me ？ wèn tí ： tā xǐ huān chī shén me ？"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "香蕉",
+       "pinyin": "xiāng jiāo"
+      },
+      {
+       "label": "B",
+       "text": "苹果",
+       "pinyin": "píng guǒ"
+      },
+      {
+       "label": "C",
+       "text": "橘子",
+       "pinyin": "jú zi"
+      }
+     ],
+     "pinyin": "tā xǐ huān chī shén me ？"
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "他们几点去公园？",
+     "correctAnswer": "C",
+     "explanation": "独白说“四点半去公园”。",
+     "audio": {
+      "key": "listening/v1/af316f8d4542c39949bc4b1abce83e863076d9aa09042fa5c4b80d7c3835b971.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "现在是下午三点。我们四点半去公园。我们几点去公园？问题：他们几点去公园？"
+       }
+      ],
+      "transcript": "现在是下午三点。我们四点半去公园。我们几点去公园？问题：他们几点去公园？",
+      "transcriptPinyin": "xiàn zài shì xià wǔ sān diǎn 。 wǒ men sì diǎn bàn qù gōng yuán 。 wǒ men jǐ diǎn qù gōng yuán ？ wèn tí ： tā men jǐ diǎn qù gōng yuán ？"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "下午",
+       "pinyin": "xià wǔ"
+      },
+      {
+       "label": "B",
+       "text": "三点",
+       "pinyin": "sān diǎn"
+      },
+      {
+       "label": "C",
+       "text": "四点半",
+       "pinyin": "sì diǎn bàn"
+      }
+     ],
+     "pinyin": "tā men jǐ diǎn qù gōng yuán ？"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

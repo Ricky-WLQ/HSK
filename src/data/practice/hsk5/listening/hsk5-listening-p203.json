@@ -1,0 +1,179 @@
+{
+ "id": "hsk5-listening-p203",
+ "level": "5",
+ "section": "listening",
+ "partKey": "listening-p2",
+ "title": "HSK5 Listening P2",
+ "titleZh": "听力 第二部分（听短文选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听一段关于环保与垃圾分类的独白，然后回答6个问题。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "独白中的活动是关于什么主题的？",
+     "correctAnswer": "C",
+     "explanation": "独白开头明确说“主题是垃圾分类”，所以其他选项都不对。",
+     "options": [
+      {
+       "label": "A",
+       "text": "植树造林"
+      },
+      {
+       "label": "B",
+       "text": "海洋保护"
+      },
+      {
+       "label": "C",
+       "text": "垃圾分类"
+      },
+      {
+       "label": "D",
+       "text": "节约用水"
+      }
+     ]
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "根据独白，垃圾分类的主要困难是什么？",
+     "correctAnswer": "B",
+     "explanation": "独白中提到“你可能觉得垃圾分类很麻烦”，指出了主要困难是人们觉得麻烦，而不是其他因素。",
+     "options": [
+      {
+       "label": "A",
+       "text": "政府不支持"
+      },
+      {
+       "label": "B",
+       "text": "人们认为麻烦"
+      },
+      {
+       "label": "C",
+       "text": "技术不成熟"
+      },
+      {
+       "label": "D",
+       "text": "缺少垃圾桶"
+      }
+     ]
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "如果塑料瓶和厨余垃圾混在一起，会发生什么？",
+     "correctAnswer": "C",
+     "explanation": "独白说“如果和厨余垃圾混在一起，就没法再利用了”，所以塑料瓶无法回收。",
+     "options": [
+      {
+       "label": "A",
+       "text": "厨余垃圾变成肥料"
+      },
+      {
+       "label": "B",
+       "text": "塑料瓶被回收利用"
+      },
+      {
+       "label": "C",
+       "text": "塑料瓶无法再利用"
+      },
+      {
+       "label": "D",
+       "text": "两种垃圾都消失"
+      }
+     ]
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "以下哪种垃圾属于有害垃圾？",
+     "correctAnswer": "D",
+     "explanation": "独白中明确提到“有害垃圾像电池、过期药品”，所以电池是有害垃圾。",
+     "options": [
+      {
+       "label": "A",
+       "text": "玻璃瓶"
+      },
+      {
+       "label": "B",
+       "text": "塑料瓶"
+      },
+      {
+       "label": "C",
+       "text": "废纸"
+      },
+      {
+       "label": "D",
+       "text": "电池"
+      }
+     ]
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "活动最后，参加者学习了什么？",
+     "correctAnswer": "A",
+     "explanation": "独白说“我们还学习了如何在家里设置不同的垃圾桶”，所以是学习设置垃圾桶。",
+     "options": [
+      {
+       "label": "A",
+       "text": "如何设置家用垃圾桶"
+      },
+      {
+       "label": "B",
+       "text": "如何堆肥"
+      },
+      {
+       "label": "C",
+       "text": "如何回收旧衣服"
+      },
+      {
+       "label": "D",
+       "text": "如何减少垃圾"
+      }
+     ]
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "独白者对于垃圾分类的态度是什么？",
+     "correctAnswer": "B",
+     "explanation": "独白最后说“我决定从今天开始，认真进行垃圾分类，为保护环境出一份力”，表明支持并行动。",
+     "options": [
+      {
+       "label": "A",
+       "text": "无所谓，随大流"
+      },
+      {
+       "label": "B",
+       "text": "支持，并决定行动"
+      },
+      {
+       "label": "C",
+       "text": "反对，太麻烦"
+      },
+      {
+       "label": "D",
+       "text": "担心效果不好"
+      }
+     ]
+    }
+   ],
+   "audio": {
+    "key": "listening/v1/8611be8d6ad7c911fb01bffba0a422e17f965b997210988a988f3bab46f12ea2.mp3",
+    "lines": [
+     {
+      "speaker": "旁白",
+      "voice": "narrator",
+      "text": "最近我参加了一个社区的环保活动，主题是垃圾分类。你可能觉得垃圾分类很麻烦，但其实只要养成习惯，并不难。工作人员告诉我们，现在城市的垃圾增长很快，如果不分类处理，很多有用的资源就被浪费了。比如塑料瓶、纸张、玻璃这些可以回收的垃圾，如果和厨余垃圾混在一起，就没法再利用了。另外，有害垃圾像电池、过期药品，必须单独投放，否则会污染土壤和地下水。活动最后，我们还学习了如何在家里设置不同的垃圾桶。我决定从今天开始，认真进行垃圾分类，为保护环境出一份力。"
+     }
+    ],
+    "transcript": "最近我参加了一个社区的环保活动，主题是垃圾分类。你可能觉得垃圾分类很麻烦，但其实只要养成习惯，并不难。工作人员告诉我们，现在城市的垃圾增长很快，如果不分类处理，很多有用的资源就被浪费了。比如塑料瓶、纸张、玻璃这些可以回收的垃圾，如果和厨余垃圾混在一起，就没法再利用了。另外，有害垃圾像电池、过期药品，必须单独投放，否则会污染土壤和地下水。活动最后，我们还学习了如何在家里设置不同的垃圾桶。我决定从今天开始，认真进行垃圾分类，为保护环境出一份力。",
+    "transcriptPinyin": null
+   }
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

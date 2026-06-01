@@ -1,0 +1,169 @@
+{
+ "id": "hsk1-listening-p304",
+ "level": "1",
+ "section": "listening",
+ "partKey": "listening-p3",
+ "title": "HSK1 Listening P3",
+ "titleZh": "听力 第三部分（看图听对话）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "听对话，选出与对话内容相符的图片。每题只有一个正确答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "A",
+     "explanation": "对话中提到了‘猫’和‘白猫’，图片A是一只白猫，所以对应A。",
+     "audio": {
+      "key": "listening/v1/a54639fb0f33cd6cef7baab22c0494af97f5f7d6bd41e19b50f38b80e8560ea9.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你喜欢猫吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我很喜欢猫。那只白猫很可爱。"
+       }
+      ],
+      "transcript": "你喜欢猫吗？ 我很喜欢猫。那只白猫很可爱。",
+      "transcriptPinyin": "nǐ xǐ huān māo ma ？  wǒ hěn xǐ huān māo 。 nà zhǐ bái māo hěn kě ài 。"
+     }
+    },
+    {
+     "id": "q2",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "B",
+     "explanation": "对话中提到了‘老师’，图片B是一位老师，所以对应B。",
+     "audio": {
+      "key": "listening/v1/470e4753ec0359f01e475b510bf14601a7f7f906a7b61c8fd4d6b4515783fa9d.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "这是你的老师吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "是的，他是我的老师。"
+       }
+      ],
+      "transcript": "这是你的老师吗？ 是的，他是我的老师。",
+      "transcriptPinyin": "zhè shì nǐ de lǎo shī ma ？  shì de ， tā shì wǒ de lǎo shī 。"
+     }
+    },
+    {
+     "id": "q3",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "C",
+     "explanation": "对话中提到了‘吃苹果’，图片C是一个苹果，所以对应C。",
+     "audio": {
+      "key": "listening/v1/7a36e765c632532a285c6aa93041cb8b8ce77659660f744ba835d9ece1037908.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你想吃什么？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我想吃苹果。"
+       }
+      ],
+      "transcript": "你想吃什么？ 我想吃苹果。",
+      "transcriptPinyin": "nǐ xiǎng chī shén me ？  wǒ xiǎng chī píng guǒ 。"
+     }
+    },
+    {
+     "id": "q4",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "D",
+     "explanation": "对话中提到了‘渴’和‘喝水’，图片D是喝水，所以对应D。",
+     "audio": {
+      "key": "listening/v1/87271bc4ea917037f04da9da67861e85789a70eb421753991b3bf8bf3284970f.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你渴吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我渴了，想喝水。"
+       }
+      ],
+      "transcript": "你渴吗？ 我渴了，想喝水。",
+      "transcriptPinyin": "nǐ kě ma ？  wǒ kě le ， xiǎng hē shuǐ 。"
+     }
+    },
+    {
+     "id": "q5",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "E",
+     "explanation": "对话中提到了‘看书’和‘这本书’，图片E是一本书，所以对应E。",
+     "audio": {
+      "key": "listening/v1/040814eaf7799b50b3d50d4c80a05cff288b36b97166bca228076041da457eda.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你在看书吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "是的，这本书很有意思。"
+       }
+      ],
+      "transcript": "你在看书吗？ 是的，这本书很有意思。",
+      "transcriptPinyin": "nǐ zài kàn shū ma ？  shì de ， zhè běn shū hěn yǒu yì si 。"
+     }
+    }
+   ],
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-059bf6262a8728ac0015afeb3f4821ed.png"
+    },
+    {
+     "label": "B",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-8b6cbd8c02e625d1d4227955c0252f26.png"
+    },
+    {
+     "label": "C",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-9d58a31b6810e28646590ab52e48bc3c.png"
+    },
+    {
+     "label": "D",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-f3c67f75c65f89286abf1d6fdfafccbe.png"
+    },
+    {
+     "label": "E",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-b9ce30bea41d2b41432a9da0a3061201.png"
+    },
+    {
+     "label": "F",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-17a87b172e4e96bd997d5fa591475b82.png"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

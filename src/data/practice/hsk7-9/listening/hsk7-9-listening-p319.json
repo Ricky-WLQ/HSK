@@ -1,0 +1,161 @@
+{
+ "id": "hsk7-9-listening-p319",
+ "level": "7-9",
+ "section": "listening",
+ "partKey": "listening-p3",
+ "title": "HSK7-9 Listening P3",
+ "titleZh": "听力 第三部分（听讲座选填答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听下面一段讲话，然后回答问题。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "这段讲话主要讨论的是什么？",
+     "correctAnswer": "A",
+     "explanation": "讲话开篇提到应用进展，随后重点讨论伦理问题，最后总结机遇与挑战，因此C最全面。",
+     "options": [
+      {
+       "label": "A",
+       "text": "AI在医疗领域的应用与伦理挑战"
+      },
+      {
+       "label": "B",
+       "text": "AI在医疗领域的应用"
+      },
+      {
+       "label": "C",
+       "text": "AI在医疗领域的伦理问题"
+      },
+      {
+       "label": "D",
+       "text": "AI在医疗领域的数据隐私"
+      }
+     ]
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "根据讲话，当AI诊断出现错误时，责任可能涉及哪些方面？",
+     "correctAnswer": "A",
+     "explanation": "讲话中明确提到“是开发算法的工程师，还是使用系统的医生”，说明责任可能涉及两者。",
+     "options": [
+      {
+       "label": "A",
+       "text": "医生和算法工程师"
+      },
+      {
+       "label": "B",
+       "text": "只有医生"
+      },
+      {
+       "label": "C",
+       "text": "患者"
+      },
+      {
+       "label": "D",
+       "text": "只有算法工程师"
+      }
+     ]
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "讲话中提到使用医疗数据训练AI模型时，需要特别注意什么？",
+     "correctAnswer": "D",
+     "explanation": "讲话中明确说“患者数据的隐私保护也是一个亟待解决的问题”，并用问句强调如何确保个人信息不被滥用。",
+     "options": [
+      {
+       "label": "A",
+       "text": "数据的数量"
+      },
+      {
+       "label": "B",
+       "text": "数据的质量"
+      },
+      {
+       "label": "C",
+       "text": "数据的多样性"
+      },
+      {
+       "label": "D",
+       "text": "患者的隐私保护"
+      }
+     ]
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "讲话作者对AI在医疗领域的前景持什么态度？",
+     "correctAnswer": "C",
+     "explanation": "讲话结尾说“带来了巨大机遇，但同时也伴随着严峻挑战”，体现谨慎乐观态度。",
+     "options": [
+      {
+       "label": "A",
+       "text": "完全悲观"
+      },
+      {
+       "label": "B",
+       "text": "漠不关心"
+      },
+      {
+       "label": "C",
+       "text": "谨慎乐观"
+      },
+      {
+       "label": "D",
+       "text": "完全乐观"
+      }
+     ]
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "讲话中提到的AI在医疗领域的应用不包括以下哪一项？",
+     "correctAnswer": "B",
+     "explanation": "讲话开头提到“从辅助诊断到药物研发”，未提及手术操作；数据隐私是伦理问题而非应用。",
+     "options": [
+      {
+       "label": "A",
+       "text": "数据隐私保护"
+      },
+      {
+       "label": "B",
+       "text": "手术操作"
+      },
+      {
+       "label": "C",
+       "text": "辅助诊断"
+      },
+      {
+       "label": "D",
+       "text": "药物研发"
+      }
+     ]
+    },
+    {
+     "id": "q6",
+     "type": "listening-dictation",
+     "prompt": "讲话中提到的AI在医疗领域应用的两个例子是“辅助诊断”和“______”。",
+     "correctAnswer": "药物研发",
+     "explanation": "讲话中明确提到“从辅助诊断到药物研发”，因此答案为“药物研发”。"
+    }
+   ],
+   "audio": {
+    "key": "listening/v1/38e1d69e4c492b489e704edd44d75735dc9fda1734f9852e702c1a1788ffcdeb.mp3",
+    "lines": [
+     {
+      "speaker": "旁白",
+      "voice": "narrator",
+      "text": "近年来，人工智能技术在医疗领域的应用取得了显著进展。从辅助诊断到药物研发，AI正在改变传统的医疗模式。然而，随着AI系统的普及，一些伦理问题也逐渐浮出水面。例如，当AI系统出现诊断错误时，责任应由谁来承担？是开发算法的工程师，还是使用系统的医生？此外，患者数据的隐私保护也是一个亟待解决的问题。在利用大量医疗数据训练AI模型时，如何确保患者的个人信息不被滥用？这些问题都需要我们深入思考。总之，人工智能为医疗带来了巨大机遇，但同时也伴随着严峻挑战。"
+     }
+    ],
+    "transcript": "近年来，人工智能技术在医疗领域的应用取得了显著进展。从辅助诊断到药物研发，AI正在改变传统的医疗模式。然而，随着AI系统的普及，一些伦理问题也逐渐浮出水面。例如，当AI系统出现诊断错误时，责任应由谁来承担？是开发算法的工程师，还是使用系统的医生？此外，患者数据的隐私保护也是一个亟待解决的问题。在利用大量医疗数据训练AI模型时，如何确保患者的个人信息不被滥用？这些问题都需要我们深入思考。总之，人工智能为医疗带来了巨大机遇，但同时也伴随着严峻挑战。",
+    "transcriptPinyin": null
+   }
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

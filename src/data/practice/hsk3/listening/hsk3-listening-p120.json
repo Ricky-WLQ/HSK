@@ -1,0 +1,289 @@
+{
+ "id": "hsk3-listening-p120",
+ "level": "3",
+ "section": "listening",
+ "partKey": "listening-p1",
+ "title": "HSK3 Listening P1",
+ "titleZh": "听力 第一部分（看图听对话）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "听对话，选择与对话内容一致的图片。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "A",
+     "explanation": "对话中女的说在吃面条，所以对应图片A（吃面条的人）。",
+     "audio": {
+      "key": "listening/v1/3b922ba46c4968492e1278acd25872564614d741fb792bb8f72951d620e94e55.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你在吃什么？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我吃面条。"
+       }
+      ],
+      "transcript": "你在吃什么？ 我吃面条。",
+      "transcriptPinyin": "nǐ zài chī shén me ？  wǒ chī miàn tiáo 。"
+     }
+    },
+    {
+     "id": "q2",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "B",
+     "explanation": "对话中女的说在家看书，所以对应图片B（看书的人）。",
+     "audio": {
+      "key": "listening/v1/0ee80c6571680e55485d87196d0102d353bfc96f9fdd6511b5ee0cef406558f4.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你周末做什么？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我在家看书。"
+       }
+      ],
+      "transcript": "你周末做什么？ 我在家看书。",
+      "transcriptPinyin": "nǐ zhōu mò zuò shén me ？  wǒ zài jiā kàn shū 。"
+     }
+    },
+    {
+     "id": "q3",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "C",
+     "explanation": "对话中提到踢足球，所以对应图片C（踢足球的人）。",
+     "audio": {
+      "key": "listening/v1/e610bb521598f25d555fe61a57b50150644dd76e1ac5f8ffc6d8cce4af8d5930.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "他们在踢足球吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "对，他们玩得开心。"
+       }
+      ],
+      "transcript": "他们在踢足球吗？ 对，他们玩得开心。",
+      "transcriptPinyin": "tā men zài tī zú qiú ma ？  duì ， tā men wán dé kāi xīn 。"
+     }
+    },
+    {
+     "id": "q4",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "D",
+     "explanation": "对话中女的说看电视，所以对应图片D（看电视的人）。",
+     "audio": {
+      "key": "listening/v1/637bade7c0fb2626152073c2621c83a4b27cfbd9e0450af2257ce5bbff07c96f.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你晚上做什么？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我常常看电视。"
+       }
+      ],
+      "transcript": "你晚上做什么？ 我常常看电视。",
+      "transcriptPinyin": "nǐ wǎn shàng zuò shén me ？  wǒ cháng cháng kàn diàn shì 。"
+     }
+    },
+    {
+     "id": "q5",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "E",
+     "explanation": "对话中女的说在做晚饭，所以对应图片E（做饭的人）。",
+     "audio": {
+      "key": "listening/v1/a080664d0dd3de7ac36db2fd4ca90d9c1a8f560dab685d9908028cbb04573793.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你在厨房做什么？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我在做晚饭。"
+       }
+      ],
+      "transcript": "你在厨房做什么？ 我在做晚饭。",
+      "transcriptPinyin": "nǐ zài chú fáng zuò shén me ？  wǒ zài zuò wǎn fàn 。"
+     }
+    },
+    {
+     "id": "q6",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "A",
+     "explanation": "对话中女的说吃面条，所以对应图片A（吃面条的人）。",
+     "audio": {
+      "key": "listening/v1/34dac2c5be71d4a295330c9c706cdfa012df84336a031b2a06fcda6fd65d2874.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你吃面条吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "吃，我饿了。"
+       }
+      ],
+      "transcript": "你吃面条吗？ 吃，我饿了。",
+      "transcriptPinyin": "nǐ chī miàn tiáo ma ？  chī ， wǒ è le 。"
+     }
+    },
+    {
+     "id": "q7",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "B",
+     "explanation": "对话中女的说喜欢看书，所以对应图片B（看书的人）。",
+     "audio": {
+      "key": "listening/v1/80b82d0113f9078bb264c8ebb779528337c729880ad7d5482a493a092a039df3.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你喜欢看书吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "很喜欢。"
+       }
+      ],
+      "transcript": "你喜欢看书吗？ 很喜欢。",
+      "transcriptPinyin": "nǐ xǐ huān kàn shū ma ？  hěn xǐ huān 。"
+     }
+    },
+    {
+     "id": "q8",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "C",
+     "explanation": "对话中男的问踢球，所以对应图片C（踢足球的人）。",
+     "audio": {
+      "key": "listening/v1/4a6a78e867125eb6db4409937b342ca4677b122911f4eba9cc8cbfe428a6d043.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "他们踢球踢得好吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "很好。"
+       }
+      ],
+      "transcript": "他们踢球踢得好吗？ 很好。",
+      "transcriptPinyin": "tā men tī qiú tī dé hǎo ma ？  hěn hǎo 。"
+     }
+    },
+    {
+     "id": "q9",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "D",
+     "explanation": "对话中女的说电视上放电影，所以对应图片D（看电视的人）。",
+     "audio": {
+      "key": "listening/v1/d31915dc165814a88a7660dc24996342baaf74446a66853f131691d64d8d79b9.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "电视上有什么节目？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "正在放电影。"
+       }
+      ],
+      "transcript": "电视上有什么节目？ 正在放电影。",
+      "transcriptPinyin": "diàn shì shàng yǒu shén me jié mù ？  zhèng zài fàng diàn yǐng 。"
+     }
+    },
+    {
+     "id": "q10",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "E",
+     "explanation": "对话中女的说做的菜好吃，所以对应图片E（做饭的人）。",
+     "audio": {
+      "key": "listening/v1/ea7ac0fe1d43d14aee072c25588a4477656446280ff5280d844b8eb39173015e.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你做的菜好吃吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "当然好吃。"
+       }
+      ],
+      "transcript": "你做的菜好吃吗？ 当然好吃。",
+      "transcriptPinyin": "nǐ zuò de cài hǎo chī ma ？  dāng rán hǎo chī 。"
+     }
+    }
+   ],
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-062ec09b97146364e717407d5c7669db.png"
+    },
+    {
+     "label": "B",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-d46b606e3d010cd00d549d301afa8429.png"
+    },
+    {
+     "label": "C",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-912622bfab5b994e699374ba7735cd4b.png"
+    },
+    {
+     "label": "D",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-a4baee79697ea7bedbb1fb88668eabc8.png"
+    },
+    {
+     "label": "E",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-e6a0dc2798ca46ec023b482c912d174b.png"
+    },
+    {
+     "label": "F",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-ebf8b65de6cd37ead047b9716d927227.png"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

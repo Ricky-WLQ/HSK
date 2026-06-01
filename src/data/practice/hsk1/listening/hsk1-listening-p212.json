@@ -1,0 +1,202 @@
+{
+ "id": "hsk1-listening-p212",
+ "level": "1",
+ "section": "listening",
+ "partKey": "listening-p2",
+ "title": "HSK1 Listening P2",
+ "titleZh": "听力 第二部分（听句子选答语）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听录音，选择正确答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "他叫什么名字？",
+     "correctAnswer": "A",
+     "explanation": "独白中明确说'我叫小明'，所以名字是小明。",
+     "audio": {
+      "key": "listening/v1/e8afbab54153989009498665a5891ed66c2e12f1f9e234848d1a324cfed47992.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我叫小明，我是中国人。"
+       }
+      ],
+      "transcript": "我叫小明，我是中国人。",
+      "transcriptPinyin": "wǒ jiào xiǎo míng ， wǒ shì zhōng guó rén 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "小明",
+       "pinyin": "xiǎo míng"
+      },
+      {
+       "label": "B",
+       "text": "小红",
+       "pinyin": "xiǎo hóng"
+      },
+      {
+       "label": "C",
+       "text": "小李",
+       "pinyin": "xiǎo lǐ"
+      }
+     ],
+     "pinyin": "tā jiào shén me míng zì ？"
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "今天星期几？",
+     "correctAnswer": "B",
+     "explanation": "独白说'今天星期一'，所以是星期一。",
+     "audio": {
+      "key": "listening/v1/846fffe42cf818cd0c21e6162ff2af3b826091362db745a6ec4d8ca93575cef4.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "今天星期一。"
+       }
+      ],
+      "transcript": "今天星期一。",
+      "transcriptPinyin": "jīn tiān xīng qī yī 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "星期二",
+       "pinyin": "xīng qī èr"
+      },
+      {
+       "label": "B",
+       "text": "星期一",
+       "pinyin": "xīng qī yī"
+      },
+      {
+       "label": "C",
+       "text": "星期三",
+       "pinyin": "xīng qī sān"
+      }
+     ],
+     "pinyin": "jīn tiān xīng qī jǐ ？"
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "他几岁？",
+     "correctAnswer": "A",
+     "explanation": "独白说'我今年七岁'，所以是七岁。",
+     "audio": {
+      "key": "listening/v1/d22b3dbd4ea22b4b4263a0b75c096095ab13fbeacc7ee2583a94c9d26595cf33.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我今年七岁。"
+       }
+      ],
+      "transcript": "我今年七岁。",
+      "transcriptPinyin": "wǒ jīn nián qī suì 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "七岁",
+       "pinyin": "qī suì"
+      },
+      {
+       "label": "B",
+       "text": "六岁",
+       "pinyin": "liù suì"
+      },
+      {
+       "label": "C",
+       "text": "八岁",
+       "pinyin": "bā suì"
+      }
+     ],
+     "pinyin": "tā jǐ suì ？"
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "他喜欢什么颜色？",
+     "correctAnswer": "B",
+     "explanation": "独白说'我喜欢红色'，所以喜欢红色。",
+     "audio": {
+      "key": "listening/v1/093f57facf94a90cc5f092f822060587682ff22291c2fd3f195591b78acac0ed.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我喜欢红色。"
+       }
+      ],
+      "transcript": "我喜欢红色。",
+      "transcriptPinyin": "wǒ xǐ huān hóng sè 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "蓝色",
+       "pinyin": "lán sè"
+      },
+      {
+       "label": "B",
+       "text": "红色",
+       "pinyin": "hóng sè"
+      },
+      {
+       "label": "C",
+       "text": "绿色",
+       "pinyin": "lǜ sè"
+      }
+     ],
+     "pinyin": "tā xǐ huān shén me yán sè ？"
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "妈妈在做什么？",
+     "correctAnswer": "C",
+     "explanation": "独白说'妈妈在看书'，所以是在看书。",
+     "audio": {
+      "key": "listening/v1/eadba6d52c934ddf5b5b4b615de902ba27943d12792c057df7bb4d2b5cfb03e6.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "妈妈在看书。"
+       }
+      ],
+      "transcript": "妈妈在看书。",
+      "transcriptPinyin": "mā mā zài kàn shū 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "写字",
+       "pinyin": "xiě zì"
+      },
+      {
+       "label": "B",
+       "text": "喝水",
+       "pinyin": "hē shuǐ"
+      },
+      {
+       "label": "C",
+       "text": "看书",
+       "pinyin": "kàn shū"
+      }
+     ],
+     "pinyin": "mā mā zài zuò shén me ？"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

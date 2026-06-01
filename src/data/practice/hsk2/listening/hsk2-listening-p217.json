@@ -1,0 +1,289 @@
+{
+ "id": "hsk2-listening-p217",
+ "level": "2",
+ "section": "listening",
+ "partKey": "listening-p2",
+ "title": "HSK2 Listening P2",
+ "titleZh": "听力 第二部分（看图听对话）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "听对话，选出与对话内容相符的图片。共有六张图片（A-F），每段对话对应其中一张图片，每张图片可使用多次，但有一张图片未被使用。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "A",
+     "explanation": "对话中提到“看书”，对应图片A中的人在读书。",
+     "audio": {
+      "key": "listening/v1/040814eaf7799b50b3d50d4c80a05cff288b36b97166bca228076041da457eda.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你在看书吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "是的，这本书很有意思。"
+       }
+      ],
+      "transcript": "你在看书吗？ 是的，这本书很有意思。",
+      "transcriptPinyin": "nǐ zài kàn shū ma ？  shì de ， zhè běn shū hěn yǒu yì si 。"
+     }
+    },
+    {
+     "id": "q2",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "B",
+     "explanation": "对话中提到“一杯茶”，对应图片B中的茶杯。",
+     "audio": {
+      "key": "listening/v1/33f10b31441eefe732ca2808295d566c6cce36257be3a758c69b23f2e91a7d96.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你想喝什么？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我要一杯茶。"
+       }
+      ],
+      "transcript": "你想喝什么？ 我要一杯茶。",
+      "transcriptPinyin": "nǐ xiǎng hē shén me ？  wǒ yào yī bēi chá 。"
+     }
+    },
+    {
+     "id": "q3",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "C",
+     "explanation": "对话中提到“骑自行车”，对应图片C中的自行车。",
+     "audio": {
+      "key": "listening/v1/5bb4528fd16971545bfe8404fe9c61b2ee5dee97b7a43dd31ddb2295bb9c0654.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你怎么去学校？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我骑自行车。"
+       }
+      ],
+      "transcript": "你怎么去学校？ 我骑自行车。",
+      "transcriptPinyin": "nǐ zěn me qù xué xiào ？  wǒ qí zì xíng chē 。"
+     }
+    },
+    {
+     "id": "q4",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "D",
+     "explanation": "对话中提到“手机”，对应图片D中的手机。",
+     "audio": {
+      "key": "listening/v1/b21780221fea6b3cdd9af5a19fa94b911c06b7e1e7d81592691bba6e7d53547d.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你有手机吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "有，在这里。"
+       }
+      ],
+      "transcript": "你有手机吗？ 有，在这里。",
+      "transcriptPinyin": "nǐ yǒu shǒu jī ma ？  yǒu ， zài zhè lǐ 。"
+     }
+    },
+    {
+     "id": "q5",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "E",
+     "explanation": "对话中提到“苹果”，对应图片E中的苹果。",
+     "audio": {
+      "key": "listening/v1/eb36f195ac5330ad1ae49ff7149c9bd2f3f94cc5287aa7603d38e3f2413db599.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你吃水果吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "给我一个苹果。"
+       }
+      ],
+      "transcript": "你吃水果吗？ 给我一个苹果。",
+      "transcriptPinyin": "nǐ chī shuǐ guǒ ma ？  gěi wǒ yí gè píng guǒ 。"
+     }
+    },
+    {
+     "id": "q6",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "A",
+     "explanation": "对话中提到“看书”，对应图片A中的人在读书。",
+     "audio": {
+      "key": "listening/v1/dffaf0e07bbd6f2e8fbefd9ba6c9ebdd503bcfe963f7227ca0e7eddc711a0d35.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你在做什么？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我在看书。"
+       }
+      ],
+      "transcript": "你在做什么？ 我在看书。",
+      "transcriptPinyin": "nǐ zài zuò shén me ？  wǒ zài kàn shū 。"
+     }
+    },
+    {
+     "id": "q7",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "B",
+     "explanation": "对话中提到“喝茶”，对应图片B中的茶。",
+     "audio": {
+      "key": "listening/v1/d6f3fa0a9dfa85b0de65e6f73adab6e5c4abaf0c36ab91da6e58b396694975aa.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你喜欢喝茶吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "很喜欢。"
+       }
+      ],
+      "transcript": "你喜欢喝茶吗？ 很喜欢。",
+      "transcriptPinyin": "nǐ xǐ huān hē chá ma ？  hěn xǐ huān 。"
+     }
+    },
+    {
+     "id": "q8",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "C",
+     "explanation": "对话中提到“自行车”，对应图片C中的自行车。",
+     "audio": {
+      "key": "listening/v1/2a670073bbf864283615c70182905e74f91d23f128ef83d14254f98358b29527.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你的自行车是什么颜色？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "蓝色。"
+       }
+      ],
+      "transcript": "你的自行车是什么颜色？ 蓝色。",
+      "transcriptPinyin": "nǐ de zì xíng chē shì shén me yán sè ？  lán sè 。"
+     }
+    },
+    {
+     "id": "q9",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "D",
+     "explanation": "对话中提到“电话号码”，与图片D中的手机相关。",
+     "audio": {
+      "key": "listening/v1/e445fd62755890562d92a6a0cf8fdb2d827e7780209168b922daa33f94216799.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你的电话号码是多少？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "138xxxxxxxx。"
+       }
+      ],
+      "transcript": "你的电话号码是多少？ 138xxxxxxxx。",
+      "transcriptPinyin": "nǐ de diàn huà hào mǎ shì duō shǎo ？ 138xxxxxxxx。"
+     }
+    },
+    {
+     "id": "q10",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "E",
+     "explanation": "对话中提到“苹果”，对应图片E中的苹果。",
+     "audio": {
+      "key": "listening/v1/30a57370f80a3f6506d75ce8a9841775cfb084a32c1a588ab77561df7938829d.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "苹果多少钱？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "五块钱。"
+       }
+      ],
+      "transcript": "苹果多少钱？ 五块钱。",
+      "transcriptPinyin": "píng guǒ duō shǎo qián ？  wǔ kuài qián 。"
+     }
+    }
+   ],
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-5aa1b137c68c2056154dc7e36d4ce528.png"
+    },
+    {
+     "label": "B",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-afd5f8fa49bc9f59f0ce287dfd5bdbde.png"
+    },
+    {
+     "label": "C",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-0cba317cf5a159171705c04a12fa931f.png"
+    },
+    {
+     "label": "D",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-8d8a2470168f6c41f6322dd233f32e5d.png"
+    },
+    {
+     "label": "E",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-9d58a31b6810e28646590ab52e48bc3c.png"
+    },
+    {
+     "label": "F",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-886434855ec2a7b73e4599afc98348cd.png"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

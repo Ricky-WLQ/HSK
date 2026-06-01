@@ -1,0 +1,587 @@
+{
+ "id": "hsk5-listening-p111",
+ "level": "5",
+ "section": "listening",
+ "partKey": "listening-p1",
+ "title": "HSK5 Listening P1",
+ "titleZh": "听力 第一部分（听对话选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请根据对话内容，选择正确的答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "男人买了什么票？",
+     "correctAnswer": "A",
+     "explanation": "男人询问明天上午的票，并明确说买两张硬卧，因此他买的是明天上午的硬卧。",
+     "audio": {
+      "key": "listening/v1/645ec5d38ac2f48b842b7884b34410597a27301f976b8130393203bbd819528d.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "请问，去上海的火车票还有吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "今天下午的已经卖完了，明天的还有。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "那明天上午的票，多少钱一张？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "硬座120，硬卧200。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我要两张硬卧。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "好的，总共400元。"
+       }
+      ],
+      "transcript": "请问，去上海的火车票还有吗？ 今天下午的已经卖完了，明天的还有。 那明天上午的票，多少钱一张？ 硬座120，硬卧200。 我要两张硬卧。 好的，总共400元。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "明天上午的硬卧"
+      },
+      {
+       "label": "B",
+       "text": "今天下午的硬座"
+      },
+      {
+       "label": "C",
+       "text": "明天下午的硬座"
+      },
+      {
+       "label": "D",
+       "text": "今天上午的硬卧"
+      }
+     ]
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "男人点了什么菜？",
+     "correctAnswer": "C",
+     "explanation": "男人点了一个鱼香肉丝和一个凉拌黄瓜，没有点宫保鸡丁。",
+     "audio": {
+      "key": "listening/v1/169b20bc409fc9ac877785b6719a4e27c29c014ac53f054a04bb389e8cc55d11.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你好，请问几位？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "两位，有靠窗的位置吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "有的，请跟我来。这是菜单，您看看。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你们这里有什么特色菜？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我们的招牌菜是鱼香肉丝和宫保鸡丁。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "那来一个鱼香肉丝，一个凉拌黄瓜，还要两碗米饭。"
+       }
+      ],
+      "transcript": "你好，请问几位？ 两位，有靠窗的位置吗？ 有的，请跟我来。这是菜单，您看看。 你们这里有什么特色菜？ 我们的招牌菜是鱼香肉丝和宫保鸡丁。 那来一个鱼香肉丝，一个凉拌黄瓜，还要两碗米饭。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "宫保鸡丁和凉拌黄瓜"
+      },
+      {
+       "label": "B",
+       "text": "鱼香肉丝和宫保鸡丁"
+      },
+      {
+       "label": "C",
+       "text": "鱼香肉丝和凉拌黄瓜"
+      },
+      {
+       "label": "D",
+       "text": "只有鱼香肉丝"
+      }
+     ]
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "他们最后决定去哪里？",
+     "correctAnswer": "D",
+     "explanation": "经过讨论，两人最后同意去桂林。",
+     "audio": {
+      "key": "listening/v1/2e48ccd018fff490da60339ea05d6ed081d63ef1e44586ef5caf5effe5ef643e.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我们暑假去丽江玩吧？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "丽江太远了，我想去海南。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "海南夏天太热了，而且人很多。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "那桂林怎么样？听说风景很美。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "好，就去桂林吧。我们订机票。"
+       }
+      ],
+      "transcript": "我们暑假去丽江玩吧？ 丽江太远了，我想去海南。 海南夏天太热了，而且人很多。 那桂林怎么样？听说风景很美。 好，就去桂林吧。我们订机票。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "丽江"
+      },
+      {
+       "label": "B",
+       "text": "北京"
+      },
+      {
+       "label": "C",
+       "text": "海南"
+      },
+      {
+       "label": "D",
+       "text": "桂林"
+      }
+     ]
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "关于借书，下列说法正确的是？",
+     "correctAnswer": "D",
+     "explanation": "对话中明确说明逾期每天收五毛钱罚款。",
+     "audio": {
+      "key": "listening/v1/3c89baa5e1f3ca2f7e67f3c221d6a80572438dc20d023fbc77b2fd6e894ec055.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "这本书我可以借多久？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "一般可以借一个月，到期可以续借一次。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "如果逾期了怎么办？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "每天收五毛钱的罚款。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "好的，我知道了，谢谢。"
+       }
+      ],
+      "transcript": "这本书我可以借多久？ 一般可以借一个月，到期可以续借一次。 如果逾期了怎么办？ 每天收五毛钱的罚款。 好的，我知道了，谢谢。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "没有罚款"
+      },
+      {
+       "label": "B",
+       "text": "可以借两个月"
+      },
+      {
+       "label": "C",
+       "text": "可以续借两次"
+      },
+      {
+       "label": "D",
+       "text": "逾期一天罚五毛"
+      }
+     ]
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "关于天气，以下哪项正确？",
+     "correctAnswer": "C",
+     "explanation": "男人提醒说下午可能有大雨，而且女人也决定带着伞。",
+     "audio": {
+      "key": "listening/v1/479ef9b31c928c06f241dce6081733ee66fc81e6ce53138f9ac0f841c3e79e9e.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "今天天气预报说会下雨，你带伞了吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "带了，包里有一把。但是好像现在天晴了。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "别掉以轻心，下午可能有大雨。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "那我还是带着吧。你也要带一把吗？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "不用，我开车去公司。"
+       }
+      ],
+      "transcript": "今天天气预报说会下雨，你带伞了吗？ 带了，包里有一把。但是好像现在天晴了。 别掉以轻心，下午可能有大雨。 那我还是带着吧。你也要带一把吗？ 不用，我开车去公司。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "男人带伞了"
+      },
+      {
+       "label": "B",
+       "text": "全天都是晴天"
+      },
+      {
+       "label": "C",
+       "text": "下午可能有大雨"
+      },
+      {
+       "label": "D",
+       "text": "现在正在下雨"
+      }
+     ]
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "男人为什么离开上一家公司？",
+     "correctAnswer": "C",
+     "explanation": "男人明确说因为想挑战自己，寻找更好的发展机会。",
+     "audio": {
+      "key": "listening/v1/029386e7ae0a803a34e36189c87fb5a3f266f844f21772328d585801f0b32a33.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你以前做过类似的工作吗？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我在一家外贸公司工作过三年，负责市场推广。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "那你为什么离开上一家公司？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "因为我想挑战自己，寻找更好的发展机会。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "好的，我们会尽快通知你结果。"
+       }
+      ],
+      "transcript": "你以前做过类似的工作吗？ 我在一家外贸公司工作过三年，负责市场推广。 那你为什么离开上一家公司？ 因为我想挑战自己，寻找更好的发展机会。 好的，我们会尽快通知你结果。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "被公司开除"
+      },
+      {
+       "label": "B",
+       "text": "工资太低"
+      },
+      {
+       "label": "C",
+       "text": "想挑战自己"
+      },
+      {
+       "label": "D",
+       "text": "公司倒闭"
+      }
+     ]
+    },
+    {
+     "id": "q7",
+     "type": "listening-mcq",
+     "prompt": "男人买蓝色的衬衫花了多少钱？",
+     "correctAnswer": "A",
+     "explanation": "女人说原价三百打八折，二百四，男人同意购买。",
+     "audio": {
+      "key": "listening/v1/d01c588a0e8f21ff97094aeb8b4248d552b73f909ce22363eedd76866f77d8ba.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "这件衬衫的颜色我不太喜欢，有别的颜色吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "有白色、蓝色和黑色的，您喜欢哪种？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "蓝色的吧。多少钱？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "原价三百，现在打八折，只要二百四。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "好，我要一件蓝色的。"
+       }
+      ],
+      "transcript": "这件衬衫的颜色我不太喜欢，有别的颜色吗？ 有白色、蓝色和黑色的，您喜欢哪种？ 蓝色的吧。多少钱？ 原价三百，现在打八折，只要二百四。 好，我要一件蓝色的。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "240元"
+      },
+      {
+       "label": "B",
+       "text": "300元"
+      },
+      {
+       "label": "C",
+       "text": "200元"
+      },
+      {
+       "label": "D",
+       "text": "320元"
+      }
+     ]
+    },
+    {
+     "id": "q8",
+     "type": "listening-mcq",
+     "prompt": "他们觉得考试中什么比较难？",
+     "correctAnswer": "D",
+     "explanation": "男人觉得语法难，女人觉得听力难，所以两人都觉得语法和听力难。",
+     "audio": {
+      "key": "listening/v1/ee4bda8024933fbdffd147552e6a4488814adbf010099c6102bc8d79d3766501.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你这次考试准备得怎么样？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "还行吧，主要是语法部分有点难。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我觉得听力也挺难的，没有听懂几个。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "多练习就好了，下次我们一起复习。"
+       }
+      ],
+      "transcript": "你这次考试准备得怎么样？ 还行吧，主要是语法部分有点难。 我觉得听力也挺难的，没有听懂几个。 多练习就好了，下次我们一起复习。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "只有语法"
+      },
+      {
+       "label": "B",
+       "text": "阅读和写作"
+      },
+      {
+       "label": "C",
+       "text": "只有听力"
+      },
+      {
+       "label": "D",
+       "text": "语法和听力"
+      }
+     ]
+    },
+    {
+     "id": "q9",
+     "type": "listening-mcq",
+     "prompt": "他们最后决定看什么电影？",
+     "correctAnswer": "A",
+     "explanation": "女人最后同意看男人推荐的喜剧片。",
+     "audio": {
+      "key": "listening/v1/bbb9b6efb8766d37d7e20f75fb72588e2a68fdd5067e4dbf069d7ad30eadd344.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我们今晚去看电影吧，最近有一部新上映的喜剧片。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我不太喜欢喜剧，我想看那部爱情片。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "但爱情片评价一般，喜剧片评分很高。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "那好吧，就听你的，看喜剧片。"
+       }
+      ],
+      "transcript": "我们今晚去看电影吧，最近有一部新上映的喜剧片。 我不太喜欢喜剧，我想看那部爱情片。 但爱情片评价一般，喜剧片评分很高。 那好吧，就听你的，看喜剧片。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "喜剧片"
+      },
+      {
+       "label": "B",
+       "text": "爱情片"
+      },
+      {
+       "label": "C",
+       "text": "科幻片"
+      },
+      {
+       "label": "D",
+       "text": "动作片"
+      }
+     ]
+    },
+    {
+     "id": "q10",
+     "type": "listening-mcq",
+     "prompt": "女人的手机可能丢在哪里？",
+     "correctAnswer": "B",
+     "explanation": "女人说她在咖啡厅用手机付钱后可能忘在那里。",
+     "audio": {
+      "key": "listening/v1/988b954a52344e332364d50093158bd22e30743d304ae77fb00a63550057f7c7.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我的手机好像丢了，你看到了吗？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "没有啊，你最后一次用是在哪里？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我刚才在咖啡厅用手机付了钱，可能忘在那儿了。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "快回去找找吧，也许还在。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "好，我马上去。"
+       }
+      ],
+      "transcript": "我的手机好像丢了，你看到了吗？ 没有啊，你最后一次用是在哪里？ 我刚才在咖啡厅用手机付了钱，可能忘在那儿了。 快回去找找吧，也许还在。 好，我马上去。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "办公室"
+      },
+      {
+       "label": "B",
+       "text": "咖啡厅"
+      },
+      {
+       "label": "C",
+       "text": "车上"
+      },
+      {
+       "label": "D",
+       "text": "家里"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

@@ -1,0 +1,437 @@
+{
+ "id": "hsk2-listening-p320",
+ "level": "2",
+ "section": "listening",
+ "partKey": "listening-p3",
+ "title": "HSK2 Listening P3",
+ "titleZh": "听力 第三部分（听对话选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听对话，然后根据对话内容选择正确答案。每个对话后有一个问题，每个问题有三个选项，请选出唯一正确的答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "今天是几月几号？",
+     "correctAnswer": "B",
+     "explanation": "对话中女的说“今天三月五号”，所以正确答案是三月五号。",
+     "audio": {
+      "key": "listening/v1/ad4407a5d4b81f72f18b86a8a31494e38c7a3a4eec1e648d4a0cc5681d9dc9db.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "今天几号？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "今天三月五号。"
+       }
+      ],
+      "transcript": "今天几号？ 今天三月五号。",
+      "transcriptPinyin": "jīn tiān jǐ hào ？  jīn tiān sān yuè wǔ hào 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "三月六号",
+       "pinyin": "sān yuè liù hào"
+      },
+      {
+       "label": "B",
+       "text": "三月五号",
+       "pinyin": "sān yuè wǔ hào"
+      },
+      {
+       "label": "C",
+       "text": "三月四号",
+       "pinyin": "sān yuè sì hào"
+      }
+     ],
+     "pinyin": "jīn tiān shì jǐ yuè jǐ hào ？"
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "女的买了什么？",
+     "correctAnswer": "C",
+     "explanation": "对话中女的说“我买苹果和香蕉”，所以买了苹果和香蕉。",
+     "audio": {
+      "key": "listening/v1/2dae5034ba4aec1b66d1c46aee8e83094452fa3c90751ac6da02ae9e4f17c6a3.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你买什么？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我买苹果和香蕉。"
+       }
+      ],
+      "transcript": "你买什么？ 我买苹果和香蕉。",
+      "transcriptPinyin": "nǐ mǎi shén me ？  wǒ mǎi píng guǒ hé xiāng jiāo 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "苹果和橘子",
+       "pinyin": "píng guǒ hé jú zi"
+      },
+      {
+       "label": "B",
+       "text": "香蕉和橘子",
+       "pinyin": "xiāng jiāo hé jú zi"
+      },
+      {
+       "label": "C",
+       "text": "苹果和香蕉",
+       "pinyin": "píng guǒ hé xiāng jiāo"
+      }
+     ],
+     "pinyin": "nǚ de mǎi le shén me ？"
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "女的家有几个人？",
+     "correctAnswer": "B",
+     "explanation": "对话中女的说“有爸爸、妈妈、哥哥和我，一共四个”，所以是四个人。",
+     "audio": {
+      "key": "listening/v1/b8b8ce7cfd50ddc3531fc62bf9a1a4e6f32d561a7abffdc21bce5da058553c46.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你家有几个人？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "有爸爸、妈妈、哥哥和我，一共四个。"
+       }
+      ],
+      "transcript": "你家有几个人？ 有爸爸、妈妈、哥哥和我，一共四个。",
+      "transcriptPinyin": "nǐ jiā yǒu jǐ gè rén ？  yǒu bà bà 、 mā mā 、 gē gē hé wǒ ， yī gòng sì gè 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "五个",
+       "pinyin": "wǔ gè"
+      },
+      {
+       "label": "B",
+       "text": "四个",
+       "pinyin": "sì gè"
+      },
+      {
+       "label": "C",
+       "text": "三个",
+       "pinyin": "sān gè"
+      }
+     ],
+     "pinyin": "nǚ de jiā yǒu jǐ gè rén ？"
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "现在几点了？",
+     "correctAnswer": "A",
+     "explanation": "对话中女的说“现在八点半”，所以是八点半。",
+     "audio": {
+      "key": "listening/v1/46cc426c2aea6ec76eaecd1fb4fbabe3ae9c07c27dd2f98dbd7f014599260955.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "现在几点？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "现在八点半。"
+       }
+      ],
+      "transcript": "现在几点？ 现在八点半。",
+      "transcriptPinyin": "xiàn zài jǐ diǎn ？  xiàn zài bā diǎn bàn 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "八点半",
+       "pinyin": "bā diǎn bàn"
+      },
+      {
+       "label": "B",
+       "text": "八点十五",
+       "pinyin": "bā diǎn shí wǔ"
+      },
+      {
+       "label": "C",
+       "text": "八点",
+       "pinyin": "bā diǎn"
+      }
+     ],
+     "pinyin": "xiàn zài jǐ diǎn le ？"
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "明天星期几？",
+     "correctAnswer": "A",
+     "explanation": "对话中女的说“明天是星期六”，所以明天是星期六。",
+     "audio": {
+      "key": "listening/v1/0c5a601c5d61f61c5dcf47b3c547df5508dc8fae32f0d743c5c78d0bdd10259b.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你明天去学校吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "不，明天是星期六，我不去。"
+       }
+      ],
+      "transcript": "你明天去学校吗？ 不，明天是星期六，我不去。",
+      "transcriptPinyin": "nǐ míng tiān qù xué xiào ma ？  bù ， míng tiān shì xīng qī liù ， wǒ bù qù 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "星期六",
+       "pinyin": "xīng qī liù"
+      },
+      {
+       "label": "B",
+       "text": "星期五",
+       "pinyin": "xīng qī wǔ"
+      },
+      {
+       "label": "C",
+       "text": "星期日",
+       "pinyin": "xīng qī rì"
+      }
+     ],
+     "pinyin": "míng tiān xīng qī jǐ ？"
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "女的妈妈是做什么的？",
+     "correctAnswer": "B",
+     "explanation": "对话中女的说“她是一个老师”，所以妈妈是老师。",
+     "audio": {
+      "key": "listening/v1/e96e1d2146e99e59afb310211905a536ae7a20d09b010558e88744ff8814f02c.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你妈妈做什么工作？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "她是一个老师。"
+       }
+      ],
+      "transcript": "你妈妈做什么工作？ 她是一个老师。",
+      "transcriptPinyin": "nǐ mā mā zuò shén me gōng zuò ？  tā shì yí gè lǎo shī 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "医生",
+       "pinyin": "yī shēng"
+      },
+      {
+       "label": "B",
+       "text": "老师",
+       "pinyin": "lǎo shī"
+      },
+      {
+       "label": "C",
+       "text": "学生",
+       "pinyin": "xué shēng"
+      }
+     ],
+     "pinyin": "nǚ de mā mā shì zuò shén me de ？"
+    },
+    {
+     "id": "q7",
+     "type": "listening-mcq",
+     "prompt": "女的要喝什么？",
+     "correctAnswer": "A",
+     "explanation": "对话中女的说“我要喝茶”，所以她要喝茶。",
+     "audio": {
+      "key": "listening/v1/e1d9f9030743c826091528fb9ddf90f3a48790f43ae06b3aa08a5a58b20d8d81.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你要喝茶还是咖啡？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我要喝茶。"
+       }
+      ],
+      "transcript": "你要喝茶还是咖啡？ 我要喝茶。",
+      "transcriptPinyin": "nǐ yào hē chá hái shì kā fēi ？  wǒ yào hē chá 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "茶",
+       "pinyin": "chá"
+      },
+      {
+       "label": "B",
+       "text": "咖啡",
+       "pinyin": "kā fēi"
+      },
+      {
+       "label": "C",
+       "text": "水",
+       "pinyin": "shuǐ"
+      }
+     ],
+     "pinyin": "nǚ de yào hē shén me ？"
+    },
+    {
+     "id": "q8",
+     "type": "listening-mcq",
+     "prompt": "今天北京的天气怎么样？",
+     "correctAnswer": "A",
+     "explanation": "对话中女的说“今天很冷”，所以天气很冷。",
+     "audio": {
+      "key": "listening/v1/837a45c6e4257f7ddd79b5bdef6922fe08e59d60caa1c1016e47e2e68961417b.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "北京的天气怎么样？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "今天很冷，零下五度。"
+       }
+      ],
+      "transcript": "北京的天气怎么样？ 今天很冷，零下五度。",
+      "transcriptPinyin": "běi jīng de tiān qì zěn me yàng ？  jīn tiān hěn lěng ， líng xià wǔ dù 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "很冷",
+       "pinyin": "hěn lěng"
+      },
+      {
+       "label": "B",
+       "text": "很热",
+       "pinyin": "hěn rè"
+      },
+      {
+       "label": "C",
+       "text": "很凉快",
+       "pinyin": "hěn liáng kuài"
+      }
+     ],
+     "pinyin": "jīn tiān běi jīng de tiān qì zěn me yàng ？"
+    },
+    {
+     "id": "q9",
+     "type": "listening-mcq",
+     "prompt": "女的怎么去公司？",
+     "correctAnswer": "C",
+     "explanation": "对话中女的说“我坐地铁去”，所以坐地铁。",
+     "audio": {
+      "key": "listening/v1/8b1e97b1f8bd8106547b5055bfbcb211e2727238150396505b579914e1255d38.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你坐什么车去公司？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我坐地铁去。"
+       }
+      ],
+      "transcript": "你坐什么车去公司？ 我坐地铁去。",
+      "transcriptPinyin": "nǐ zuò shén me chē qù gōng sī ？  wǒ zuò dì tiě qù 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "走路",
+       "pinyin": "zǒu lù"
+      },
+      {
+       "label": "B",
+       "text": "坐公共汽车",
+       "pinyin": "zuò gōng gòng qì chē"
+      },
+      {
+       "label": "C",
+       "text": "坐地铁",
+       "pinyin": "zuò dì tiě"
+      }
+     ],
+     "pinyin": "nǚ de zěn me qù gōng sī ？"
+    },
+    {
+     "id": "q10",
+     "type": "listening-mcq",
+     "prompt": "女的有几个好朋友？",
+     "correctAnswer": "A",
+     "explanation": "对话中女的说“我有两个好朋友”，所以有两个。",
+     "audio": {
+      "key": "listening/v1/1c5a506823a500e02d82d655a5a64a0938b853a5397d0ba5850acba960d85a4d.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你朋友多吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "不多，我有两个好朋友。"
+       }
+      ],
+      "transcript": "你朋友多吗？ 不多，我有两个好朋友。",
+      "transcriptPinyin": "nǐ péng yǒu duō ma ？  bù duō ， wǒ yǒu liǎng gè hǎo péng yǒu 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "两个",
+       "pinyin": "liǎng gè"
+      },
+      {
+       "label": "B",
+       "text": "一个",
+       "pinyin": "yí gè"
+      },
+      {
+       "label": "C",
+       "text": "三个",
+       "pinyin": "sān gè"
+      }
+     ],
+     "pinyin": "nǚ de yǒu jǐ gè hǎo péng yǒu ？"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

@@ -1,0 +1,202 @@
+{
+ "id": "hsk1-listening-p401",
+ "level": "1",
+ "section": "listening",
+ "partKey": "listening-p4",
+ "title": "HSK1 Listening P4",
+ "titleZh": "听力 第四部分（听问句选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "听录音，然后回答问题。每个问题有三个选项，请选出正确答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "今天天气怎么样？",
+     "correctAnswer": "B",
+     "explanation": "旁白说今天天气很好，所以选第一个选项。",
+     "audio": {
+      "key": "listening/v1/199a9cbcfe613ce6c05a9ff4f0984b93c8b5bd87becc022c43cdf0fafde2e743.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "今天天气很好。"
+       }
+      ],
+      "transcript": "今天天气很好。",
+      "transcriptPinyin": "jīn tiān tiān qì hěn hǎo 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "不好",
+       "pinyin": "bù hǎo"
+      },
+      {
+       "label": "B",
+       "text": "很好",
+       "pinyin": "hěn hǎo"
+      },
+      {
+       "label": "C",
+       "text": "下雨了",
+       "pinyin": "xià yǔ le"
+      }
+     ],
+     "pinyin": "jīn tiān tiān qì zěn me yàng ？"
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "他有什么？",
+     "correctAnswer": "C",
+     "explanation": "旁白说“我有一个苹果”，所以他有苹果。",
+     "audio": {
+      "key": "listening/v1/7695ba3da207c35e6da222a6543d170dcaa30de53e22321c53d75b7f17e75eeb.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我有一个苹果。"
+       }
+      ],
+      "transcript": "我有一个苹果。",
+      "transcriptPinyin": "wǒ yǒu yí gè píng guǒ 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "橘子",
+       "pinyin": "jú zi"
+      },
+      {
+       "label": "B",
+       "text": "香蕉",
+       "pinyin": "xiāng jiāo"
+      },
+      {
+       "label": "C",
+       "text": "苹果",
+       "pinyin": "píng guǒ"
+      }
+     ],
+     "pinyin": "tā yǒu shén me ？"
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "他几点去学校？",
+     "correctAnswer": "A",
+     "explanation": "旁白说“他九点去学校”，所以是九点。",
+     "audio": {
+      "key": "listening/v1/d3abeb72ea2a5333ce718dfcbd1c7c3810411dffeb0c2a587907e88c519d2cb0.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "他九点去学校。"
+       }
+      ],
+      "transcript": "他九点去学校。",
+      "transcriptPinyin": "tā jiǔ diǎn qù xué xiào 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "九点",
+       "pinyin": "jiǔ diǎn"
+      },
+      {
+       "label": "B",
+       "text": "八点",
+       "pinyin": "bā diǎn"
+      },
+      {
+       "label": "C",
+       "text": "十点",
+       "pinyin": "shí diǎn"
+      }
+     ],
+     "pinyin": "tā jǐ diǎn qù xué xiào ？"
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "她喜欢什么？",
+     "correctAnswer": "C",
+     "explanation": "旁白说“她喜欢猫”，所以她喜欢猫。",
+     "audio": {
+      "key": "listening/v1/cf9af554d580e90d026bdcf3c30f183a9bd037a027fb0831860ad3dd1598df18.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "她喜欢猫。"
+       }
+      ],
+      "transcript": "她喜欢猫。",
+      "transcriptPinyin": "tā xǐ huān māo 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "鸟",
+       "pinyin": "niǎo"
+      },
+      {
+       "label": "B",
+       "text": "狗",
+       "pinyin": "gǒu"
+      },
+      {
+       "label": "C",
+       "text": "猫",
+       "pinyin": "māo"
+      }
+     ],
+     "pinyin": "tā xǐ huān shén me ？"
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "我爸爸做什么工作？",
+     "correctAnswer": "B",
+     "explanation": "旁白说“我爸爸是医生”，所以是医生。",
+     "audio": {
+      "key": "listening/v1/874016196244127048698153d6086c31a5861410aef42a9060fd9fb10f07ea8c.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我爸爸是医生。"
+       }
+      ],
+      "transcript": "我爸爸是医生。",
+      "transcriptPinyin": "wǒ bà bà shì yī shēng 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "老师",
+       "pinyin": "lǎo shī"
+      },
+      {
+       "label": "B",
+       "text": "医生",
+       "pinyin": "yī shēng"
+      },
+      {
+       "label": "C",
+       "text": "司机",
+       "pinyin": "sī jī"
+      }
+     ],
+     "pinyin": "wǒ bà bà zuò shén me gōng zuò ？"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

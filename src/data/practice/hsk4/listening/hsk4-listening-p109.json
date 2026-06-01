@@ -1,0 +1,605 @@
+{
+ "id": "hsk4-listening-p109",
+ "level": "4",
+ "section": "listening",
+ "partKey": "listening-p1",
+ "title": "HSK4 Listening P1",
+ "titleZh": "听力 第一部分（听对话选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听对话，然后根据对话内容选择正确的答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "女的建议做什么？",
+     "correctAnswer": "B",
+     "explanation": "对话中女的明确说“我们不如去爬山吧”，因此她建议去爬山。",
+     "audio": {
+      "key": "listening/v1/f66f37e73328b31e54163125a7e75f6bc9b26d9ee2a17515dab815bfe6410495.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "明天是周末，你想去公园散步还是看电影？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "最近天气很好，我们不如去爬山吧。"
+       }
+      ],
+      "transcript": "明天是周末，你想去公园散步还是看电影？ 最近天气很好，我们不如去爬山吧。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "去看电影"
+      },
+      {
+       "label": "B",
+       "text": "去爬山"
+      },
+      {
+       "label": "C",
+       "text": "去公园散步"
+      },
+      {
+       "label": "D",
+       "text": "在家休息"
+      }
+     ]
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "男的对新工作有什么看法？",
+     "correctAnswer": "C",
+     "explanation": "男的说“每天都要加班，有点累”，所以他认为工作累是因为加班多。",
+     "audio": {
+      "key": "listening/v1/8bd849ef3787e3e4007fe87edc73b98456ddda2959a78de8a9a30b6f28a87f15.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你的新工作怎么样？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "还可以，就是每天都要加班，有点累。"
+       }
+      ],
+      "transcript": "你的新工作怎么样？ 还可以，就是每天都要加班，有点累。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "工资很低"
+      },
+      {
+       "label": "B",
+       "text": "同事关系不好"
+      },
+      {
+       "label": "C",
+       "text": "经常加班，觉得累"
+      },
+      {
+       "label": "D",
+       "text": "非常满意"
+      }
+     ]
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "关于小王，对话告诉了我们什么？",
+     "correctAnswer": "B",
+     "explanation": "男的说“小王要出国留学了，去英国”，说明小王计划去英国。",
+     "audio": {
+      "key": "listening/v1/d3ad4ed91b2e71f02754fb849f56f5681c73deb094cb07e363034cdca77d8309.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你听说了吗？小王要出国留学了，去英国。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "真的吗？他准备得怎么样了？"
+       }
+      ],
+      "transcript": "你听说了吗？小王要出国留学了，去英国。 真的吗？他准备得怎么样了？",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "小王已经去了英国"
+      },
+      {
+       "label": "B",
+       "text": "小王准备去英国留学"
+      },
+      {
+       "label": "C",
+       "text": "小王的英语很好"
+      },
+      {
+       "label": "D",
+       "text": "小王不想出国"
+      }
+     ]
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "男的对这件衣服的看法是什么？",
+     "correctAnswer": "C",
+     "explanation": "男的说“挺适合你的，看起来很精神”，说明他认为衣服好看且适合女的。",
+     "audio": {
+      "key": "listening/v1/8e458f68b755070cdbce52e8262325ef31016324d2cf8d010f3bcf12a257fe06.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "这件衣服怎么样？我觉得颜色太亮了。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我觉得挺适合你的，看起来很精神。"
+       }
+      ],
+      "transcript": "这件衣服怎么样？我觉得颜色太亮了。 我觉得挺适合你的，看起来很精神。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "价格太贵"
+      },
+      {
+       "label": "B",
+       "text": "颜色太亮"
+      },
+      {
+       "label": "C",
+       "text": "很好看，适合女的"
+      },
+      {
+       "label": "D",
+       "text": "不适合女的"
+      }
+     ]
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "女的为什么不能晚上一起吃饭？",
+     "correctAnswer": "B",
+     "explanation": "女的明确说“今天晚上不行，我要去上课”。",
+     "audio": {
+      "key": "listening/v1/c17276ada3a7a2fb508f697a4cd7be0e2c862e7b9af8e28c0d9ec0e56e1e0842.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我们晚上一起吃饭吧，我请客。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "今天晚上不行，我要去上课。明天中午怎么样？"
+       }
+      ],
+      "transcript": "我们晚上一起吃饭吧，我请客。 今天晚上不行，我要去上课。明天中午怎么样？",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "她要上班"
+      },
+      {
+       "label": "B",
+       "text": "她要上课"
+      },
+      {
+       "label": "C",
+       "text": "她要回家"
+      },
+      {
+       "label": "D",
+       "text": "她不饿"
+      }
+     ]
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "男的手机怎么了？",
+     "correctAnswer": "B",
+     "explanation": "男的说“不小心掉到水里了”，所以手机是进水了。",
+     "audio": {
+      "key": "listening/v1/8d3659037fb261a70bafc7136ae671d6826d18f83b0cd6f97a14d22ef1b910a7.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你的手机怎么又坏了？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我不小心掉到水里了，不过已经修好了。"
+       }
+      ],
+      "transcript": "你的手机怎么又坏了？ 我不小心掉到水里了，不过已经修好了。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "摔坏了"
+      },
+      {
+       "label": "B",
+       "text": "掉到水里了"
+      },
+      {
+       "label": "C",
+       "text": "没电了"
+      },
+      {
+       "label": "D",
+       "text": "被偷了"
+      }
+     ]
+    },
+    {
+     "id": "q7",
+     "type": "listening-mcq",
+     "prompt": "女的周末准备做什么？",
+     "correctAnswer": "B",
+     "explanation": "女的说“打算去图书馆借几本书，然后在家看看”，所以她准备去图书馆借书。",
+     "audio": {
+      "key": "listening/v1/5726cd6b434a85369e88d8d6ebf7a4fed57618560c0f9d057cff2b9d77ab8e81.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "这个周末你有什么安排？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我打算去图书馆借几本书，然后在家看看。"
+       }
+      ],
+      "transcript": "这个周末你有什么安排？ 我打算去图书馆借几本书，然后在家看看。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "在家做饭"
+      },
+      {
+       "label": "B",
+       "text": "去图书馆借书"
+      },
+      {
+       "label": "C",
+       "text": "去朋友家玩"
+      },
+      {
+       "label": "D",
+       "text": "去书店买书"
+      }
+     ]
+    },
+    {
+     "id": "q8",
+     "type": "listening-mcq",
+     "prompt": "男的对这部电影的评价是什么？",
+     "correctAnswer": "D",
+     "explanation": "男的说“故事不错，但是演员表演一般”，所以故事好演员一般。",
+     "audio": {
+      "key": "listening/v1/e8a79865f24287b1e43423b91c91f4235ef227128bd8b187927094e1045bdd0d.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你觉得这个电影怎么样？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "故事不错，但是演员表演一般。"
+       }
+      ],
+      "transcript": "你觉得这个电影怎么样？ 故事不错，但是演员表演一般。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "故事和演员都很好"
+      },
+      {
+       "label": "B",
+       "text": "故事一般，演员好"
+      },
+      {
+       "label": "C",
+       "text": "故事和演员都不好"
+      },
+      {
+       "label": "D",
+       "text": "故事好，演员一般"
+      }
+     ]
+    },
+    {
+     "id": "q9",
+     "type": "listening-mcq",
+     "prompt": "女的昨天为什么没来开会？",
+     "correctAnswer": "D",
+     "explanation": "女的说“身体不舒服，去医院了”，所以因为生病没来开会。",
+     "audio": {
+      "key": "listening/v1/86a152e0ca36333a4b4dec64397fb9044f13ff14d3cee25f496c776d6396fef4.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你昨天怎么没来开会？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "对不起，我身体不舒服，去医院了。"
+       }
+      ],
+      "transcript": "你昨天怎么没来开会？ 对不起，我身体不舒服，去医院了。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "她出差了"
+      },
+      {
+       "label": "B",
+       "text": "她不想来"
+      },
+      {
+       "label": "C",
+       "text": "她忘了时间"
+      },
+      {
+       "label": "D",
+       "text": "她生病了"
+      }
+     ]
+    },
+    {
+     "id": "q10",
+     "type": "listening-mcq",
+     "prompt": "男的学中文多长时间了？",
+     "correctAnswer": "C",
+     "explanation": "男的说“去年开始学的，现在已经学了两年了”，所以学了两年。",
+     "audio": {
+      "key": "listening/v1/e9fda90aadc28763d7e6743da0c525d4672b695765b84dc29958eb8e42b52dee.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你什么时候开始学中文的？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我去年开始学的，现在已经学了两年了。"
+       }
+      ],
+      "transcript": "你什么时候开始学中文的？ 我去年开始学的，现在已经学了两年了。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "半年"
+      },
+      {
+       "label": "B",
+       "text": "一年"
+      },
+      {
+       "label": "C",
+       "text": "两年"
+      },
+      {
+       "label": "D",
+       "text": "三年"
+      }
+     ]
+    },
+    {
+     "id": "q11",
+     "type": "listening-mcq",
+     "prompt": "女的觉得这家餐厅怎么样？",
+     "correctAnswer": "C",
+     "explanation": "女的说“味道不错，但是价格有点贵”，所以味道好但价格贵。",
+     "audio": {
+      "key": "listening/v1/377c2bcccd259ab31027fe1e968248a23e720eab1d5977d68dbbb2fde220b731.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "这家餐厅的菜怎么样？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "味道不错，但是价格有点贵。"
+       }
+      ],
+      "transcript": "这家餐厅的菜怎么样？ 味道不错，但是价格有点贵。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "味道好，价格便宜"
+      },
+      {
+       "label": "B",
+       "text": "味道一般，价格一般"
+      },
+      {
+       "label": "C",
+       "text": "味道好，价格贵"
+      },
+      {
+       "label": "D",
+       "text": "味道不好，价格贵"
+      }
+     ]
+    },
+    {
+     "id": "q12",
+     "type": "listening-mcq",
+     "prompt": "男的游泳水平怎么样？",
+     "correctAnswer": "A",
+     "explanation": "男的说“会一点，但是游得不太好”，说明他会但不太熟练。",
+     "audio": {
+      "key": "listening/v1/e0be58b14558fa0191b0a9bad9bcb9944931d582bfe65b3ae88ac917e42a6682.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你会游泳吗？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "会一点，但是游得不太好。"
+       }
+      ],
+      "transcript": "你会游泳吗？ 会一点，但是游得不太好。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "会一点，但不熟练"
+      },
+      {
+       "label": "B",
+       "text": "不会游泳"
+      },
+      {
+       "label": "C",
+       "text": "只会在浅水区游"
+      },
+      {
+       "label": "D",
+       "text": "游得很好"
+      }
+     ]
+    },
+    {
+     "id": "q13",
+     "type": "listening-mcq",
+     "prompt": "女的对踢足球是什么态度？",
+     "correctAnswer": "C",
+     "explanation": "女的说“对足球不太感兴趣”，所以她不感兴趣。",
+     "audio": {
+      "key": "listening/v1/49625c99044f0608db942f7a4290b0edc3402e4dd2e31c8b72363e6880a93d41.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你周末有空吗？我们一起去踢足球吧。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "抱歉，我对足球不太感兴趣，不过我朋友很喜欢。"
+       }
+      ],
+      "transcript": "你周末有空吗？我们一起去踢足球吧。 抱歉，我对足球不太感兴趣，不过我朋友很喜欢。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "愿意一起去"
+      },
+      {
+       "label": "B",
+       "text": "从来没踢过"
+      },
+      {
+       "label": "C",
+       "text": "不太感兴趣"
+      },
+      {
+       "label": "D",
+       "text": "非常喜欢"
+      }
+     ]
+    },
+    {
+     "id": "q14",
+     "type": "listening-mcq",
+     "prompt": "男的考试情况如何？",
+     "correctAnswer": "C",
+     "explanation": "男的说“题目不难，但是我太粗心了，错了好几道”，所以因为粗心错了。",
+     "audio": {
+      "key": "listening/v1/f55ae649fc5bce7d02b5bb19473b38895cdeba42a475d05c396d462c3812521b.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你昨天考试考得怎么样？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "题目不难，但是我太粗心了，错了好几道。"
+       }
+      ],
+      "transcript": "你昨天考试考得怎么样？ 题目不难，但是我太粗心了，错了好几道。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "题目太难"
+      },
+      {
+       "label": "B",
+       "text": "考得很好"
+      },
+      {
+       "label": "C",
+       "text": "因为粗心做错了几道"
+      },
+      {
+       "label": "D",
+       "text": "没有时间做完"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

@@ -1,0 +1,522 @@
+{
+ "id": "hsk5-listening-p105",
+ "level": "5",
+ "section": "listening",
+ "partKey": "listening-p1",
+ "title": "HSK5 Listening P1",
+ "titleZh": "听力 第一部分（听对话选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听对话，然后回答问题。请选择正确的答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "关于女的，下列哪项正确？",
+     "correctAnswer": "B",
+     "explanation": "女生说周末找个爱好放松，所以画画是她的放松方式。",
+     "audio": {
+      "key": "listening/v1/fc5fea5c6c4151f21b5deeffdc35a79f21787632249a8946b2d96f98b3e406d8.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你最近是不是又开始学画画了？我昨天在书店看到你买了不少画册。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "是啊，平时工作太忙，周末总得找个爱好放松一下。不过画得还很一般。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "别谦虚，如果有时间，可以一起交流一下。我也对油画挺感兴趣的。"
+       }
+      ],
+      "transcript": "你最近是不是又开始学画画了？我昨天在书店看到你买了不少画册。 是啊，平时工作太忙，周末总得找个爱好放松一下。不过画得还很一般。 别谦虚，如果有时间，可以一起交流一下。我也对油画挺感兴趣的。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "她最近工作非常忙，没时间学画画。"
+      },
+      {
+       "label": "B",
+       "text": "她周末喜欢用画画来放松。"
+      },
+      {
+       "label": "C",
+       "text": "她打算和男的一起去书店。"
+      },
+      {
+       "label": "D",
+       "text": "她觉得自己的画技很好。"
+      }
+     ]
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "男的为什么选择那家酒店？",
+     "correctAnswer": "B",
+     "explanation": "男生提到公司有报销标准，价格在标准内所以选择。",
+     "audio": {
+      "key": "listening/v1/6d2324444322e9f83784d3ed826172ded77c7964fd4a094d97bf71cd5c951f61.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "这次出差去上海，你打算住哪个酒店？我看那家新开的国际酒店评价不错。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我还没定呢。不过公司有报销标准，太贵的恐怕不行。那家酒店一晚多少钱？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "标准间大概六百左右，应该在你公司的标准内吧？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "嗯，差不多，那就它了。帮我订一间吧。"
+       }
+      ],
+      "transcript": "这次出差去上海，你打算住哪个酒店？我看那家新开的国际酒店评价不错。 我还没定呢。不过公司有报销标准，太贵的恐怕不行。那家酒店一晚多少钱？ 标准间大概六百左右，应该在你公司的标准内吧？ 嗯，差不多，那就它了。帮我订一间吧。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "因为他喜欢住标准间。"
+      },
+      {
+       "label": "B",
+       "text": "因为价格符合公司报销标准。"
+      },
+      {
+       "label": "C",
+       "text": "因为女生推荐了这家酒店。"
+      },
+      {
+       "label": "D",
+       "text": "因为那是新开的酒店。"
+      }
+     ]
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "女的昨天为什么没参加婚礼？",
+     "correctAnswer": "A",
+     "explanation": "女生说车出了故障，导致迟到没参加。",
+     "audio": {
+      "key": "listening/v1/fb1dac2f997a44fac755560763581c009ebca0434241bda8dc18c5af50d34a63.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你昨天怎么没来参加同学的婚礼？大家都挺想你的。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "别提了，我本来都出门了，结果车在半路出了故障，等修好已经晚了。真是遗憾。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "原来是这样，怪不得一直联系不上你。那下次聚会可别再缺席了。"
+       }
+      ],
+      "transcript": "你昨天怎么没来参加同学的婚礼？大家都挺想你的。 别提了，我本来都出门了，结果车在半路出了故障，等修好已经晚了。真是遗憾。 原来是这样，怪不得一直联系不上你。那下次聚会可别再缺席了。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "她的车在路上坏了。"
+      },
+      {
+       "label": "B",
+       "text": "联系不上朋友。"
+      },
+      {
+       "label": "C",
+       "text": "她忘了婚礼的时间。"
+      },
+      {
+       "label": "D",
+       "text": "她身体不舒服。"
+      }
+     ]
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "关于这位科学家，下面哪项不正确？",
+     "correctAnswer": "B",
+     "explanation": "对话中说科学家最近几年身体一直不太好。",
+     "audio": {
+      "key": "listening/v1/4d67e65f4365e9a77e90ee3bb2794b1d5c03494356af0d8838602790f4fc243f.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你看新闻了吗？那个著名的科学家昨天去世了，才六十多岁。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "看了，真可惜。他发明的那个技术对环保贡献很大。不过听说他最近几年身体一直不太好。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "是啊，工作太拼命了。所以健康才是最重要的。"
+       }
+      ],
+      "transcript": "你看新闻了吗？那个著名的科学家昨天去世了，才六十多岁。 看了，真可惜。他发明的那个技术对环保贡献很大。不过听说他最近几年身体一直不太好。 是啊，工作太拼命了。所以健康才是最重要的。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "他发明了对环保有用的技术。"
+      },
+      {
+       "label": "B",
+       "text": "他近年来身体很好。"
+      },
+      {
+       "label": "C",
+       "text": "他去世时还很年轻。"
+      },
+      {
+       "label": "D",
+       "text": "他的工作很努力。"
+      }
+     ]
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "男的打算什么时候去还书？",
+     "correctAnswer": "B",
+     "explanation": "男生说这周末去拿，女生说周六晚上在家，所以是周六晚上。",
+     "audio": {
+      "key": "listening/v1/772ff6ba1cabf912d270b24e1744f306092878a688ad35f67eff1235971d0241.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "小张，你上次借给我的那本小说真不错，我已经看完了。里面的人物描写特别生动。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "是吗？那是我最喜欢的一本。你要是感兴趣，我还有同作者的另一本书，也可以借给你。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "太好了！那我这周末去你家拿？顺便还你这本。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "行，我周六晚上在家，你到时候过来吧。"
+       }
+      ],
+      "transcript": "小张，你上次借给我的那本小说真不错，我已经看完了。里面的人物描写特别生动。 是吗？那是我最喜欢的一本。你要是感兴趣，我还有同作者的另一本书，也可以借给你。 太好了！那我这周末去你家拿？顺便还你这本。 行，我周六晚上在家，你到时候过来吧。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "今天下午。"
+      },
+      {
+       "label": "B",
+       "text": "这个周六晚上。"
+      },
+      {
+       "label": "C",
+       "text": "下个周末。"
+      },
+      {
+       "label": "D",
+       "text": "周末晚上。"
+      }
+     ]
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "他们为什么要带外套？",
+     "correctAnswer": "A",
+     "explanation": "女生说山上可能会凉，所以带外套。",
+     "audio": {
+      "key": "listening/v1/a43e3e0c5baa5d3019bfa68ade5a7869155ae77d6edc278b630810025ad89b84.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "明天公司组织去郊游，你准备带些什么？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "带点零食和水，还有防晒霜。听说那边的紫外线很强。你呢？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我打算带个帐篷，再带些水果和饮料。对了，用不用带外套？山上可能会凉。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "有道理，我也带一件。"
+       }
+      ],
+      "transcript": "明天公司组织去郊游，你准备带些什么？ 带点零食和水，还有防晒霜。听说那边的紫外线很强。你呢？ 我打算带个帐篷，再带些水果和饮料。对了，用不用带外套？山上可能会凉。 有道理，我也带一件。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "因为山上的温度可能较低。"
+      },
+      {
+       "label": "B",
+       "text": "因为山上紫外线强。"
+      },
+      {
+       "label": "C",
+       "text": "因为要搭帐篷。"
+      },
+      {
+       "label": "D",
+       "text": "因为要防晒。"
+      }
+     ]
+    },
+    {
+     "id": "q7",
+     "type": "listening-mcq",
+     "prompt": "女的对自己的考试结果是什么态度？",
+     "correctAnswer": "C",
+     "explanation": "女生说‘别提了’，表示不满，但并没有太极端，是失望但接受。",
+     "audio": {
+      "key": "listening/v1/abf88e380b929b5dce31b69cb52d13f635a64fc03139008a2580363c5da4044b.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你这次考试考得怎么样？我看你复习得挺认真的。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "唉，别提了，我觉得自己复习得不错，可题目比想象中难，尤其是听力部分，很多细节没抓住。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "别灰心，我上次也考砸了，但后来改进方法，成绩就上来了。你主要在哪些地方丢分？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "听力差一些，阅读还行。"
+       }
+      ],
+      "transcript": "你这次考试考得怎么样？我看你复习得挺认真的。 唉，别提了，我觉得自己复习得不错，可题目比想象中难，尤其是听力部分，很多细节没抓住。 别灰心，我上次也考砸了，但后来改进方法，成绩就上来了。你主要在哪些地方丢分？ 听力差一些，阅读还行。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "非常满意。"
+      },
+      {
+       "label": "B",
+       "text": "完全不在乎。"
+      },
+      {
+       "label": "C",
+       "text": "有些失望但接受。"
+      },
+      {
+       "label": "D",
+       "text": "愤怒和抱怨。"
+      }
+     ]
+    },
+    {
+     "id": "q8",
+     "type": "listening-mcq",
+     "prompt": "女的最后会去哪里取钱？",
+     "correctAnswer": "C",
+     "explanation": "银行没开门，男生建议用自动取款机。",
+     "audio": {
+      "key": "listening/v1/8662aeaffc565e823f3afc6a9a0d90c5ab9043d60561550f82aca4266b81c249.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "这附近有银行吗？我需要取点现金。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "往前走，第二个路口左拐就有一家工商银行。不过现在才七点，银行还没开门呢。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "那怎么办？我急着用钱。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "旁边有自动取款机，二十四小时都能用，去那儿取吧。"
+       }
+      ],
+      "transcript": "这附近有银行吗？我需要取点现金。 往前走，第二个路口左拐就有一家工商银行。不过现在才七点，银行还没开门呢。 那怎么办？我急着用钱。 旁边有自动取款机，二十四小时都能用，去那儿取吧。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "路边的商店。"
+      },
+      {
+       "label": "B",
+       "text": "她家里。"
+      },
+      {
+       "label": "C",
+       "text": "自动取款机。"
+      },
+      {
+       "label": "D",
+       "text": "工商银行。"
+      }
+     ]
+    },
+    {
+     "id": "q9",
+     "type": "listening-mcq",
+     "prompt": "关于昨天的比赛，下列说法正确的是？",
+     "correctAnswer": "B",
+     "explanation": "男生说他最喜欢的球员进了角球。",
+     "audio": {
+      "key": "listening/v1/a7913a4602a444a766af20633fef05b40cd80986c8f23bf121052b158d5ec2c3.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你看了昨天那场足球赛没有？我们队最后赢了，太精彩了！"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我没看，不过听说对手很强，你们能赢真不容易。你最喜欢的球员进球了吗？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "进了！他踢进了一个角球，全场都沸腾了。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "那真不错，下次有比赛叫上我一起看。"
+       }
+      ],
+      "transcript": "你看了昨天那场足球赛没有？我们队最后赢了，太精彩了！ 我没看，不过听说对手很强，你们能赢真不容易。你最喜欢的球员进球了吗？ 进了！他踢进了一个角球，全场都沸腾了。 那真不错，下次有比赛叫上我一起看。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "女生看了比赛。"
+      },
+      {
+       "label": "B",
+       "text": "男的最喜欢的球员进了球。"
+      },
+      {
+       "label": "C",
+       "text": "男的支持的球队输了。"
+      },
+      {
+       "label": "D",
+       "text": "比赛很平淡。"
+      }
+     ]
+    },
+    {
+     "id": "q10",
+     "type": "listening-mcq",
+     "prompt": "男的对他新租的房子有什么不满意的地方？",
+     "correctAnswer": "D",
+     "explanation": "男生说上班有点远，坐地铁四十分钟。",
+     "audio": {
+      "key": "listening/v1/64079760fdc97c0c8ddd4220fa762bca649798203ca4b0f56d31270efdc210f4.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你新租的房子怎么样？离公司远不远？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "环境挺好，就是上班有点远，坐地铁要四十分钟。不过价格便宜，我还能接受。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "四十分钟还可以，不算太远。我每天坐公交都要一个小时呢。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "那你还不如也搬到地铁沿线呢，方便多了。"
+       }
+      ],
+      "transcript": "你新租的房子怎么样？离公司远不远？ 环境挺好，就是上班有点远，坐地铁要四十分钟。不过价格便宜，我还能接受。 四十分钟还可以，不算太远。我每天坐公交都要一个小时呢。 那你还不如也搬到地铁沿线呢，方便多了。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "没有地铁站。"
+      },
+      {
+       "label": "B",
+       "text": "价格太贵。"
+      },
+      {
+       "label": "C",
+       "text": "环境不好。"
+      },
+      {
+       "label": "D",
+       "text": "离公司比较远。"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

@@ -1,0 +1,289 @@
+{
+ "id": "hsk3-listening-p108",
+ "level": "3",
+ "section": "listening",
+ "partKey": "listening-p1",
+ "title": "HSK3 Listening P1",
+ "titleZh": "听力 第一部分（看图听对话）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听对话，然后选择与对话内容相符的图片。共有6张图片（A-F），10段对话。每段对话对应一张图片。注意：有一张图片是多余的。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "A",
+     "explanation": "对话中女子说她在看书，对应图片A中的人正在看书。",
+     "audio": {
+      "key": "listening/v1/244830058739ddd947e104056be8e1044e69ef1e6c64fe7585c1a6317549720b.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你在做什么？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我在看一本书，很有意思。"
+       }
+      ],
+      "transcript": "你在做什么？ 我在看一本书，很有意思。",
+      "transcriptPinyin": "nǐ zài zuò shén me ？  wǒ zài kàn yī běn shū ， hěn yǒu yì si 。"
+     }
+    },
+    {
+     "id": "q2",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "B",
+     "explanation": "对话中男子说他在吃苹果，对应图片B中的人正在吃苹果。",
+     "audio": {
+      "key": "listening/v1/cadb900348e0a6291b77fedfd0daa9f5c3abde38c8c43e84f3c5dea21c699b5a.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你饿了吗？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "饿了，我正在吃一个苹果。"
+       }
+      ],
+      "transcript": "你饿了吗？ 饿了，我正在吃一个苹果。",
+      "transcriptPinyin": "nǐ è le ma ？  è le ， wǒ zhèng zài chī yí gè píng guǒ 。"
+     }
+    },
+    {
+     "id": "q3",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "C",
+     "explanation": "对话中两人讨论踢足球，对应图片C中的人在踢足球。",
+     "audio": {
+      "key": "listening/v1/7f25b47764b1bd3ff805e23197f3c2322cfdb241f791a828f33377d51648d449.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "今天下午我们去踢球吧。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "好啊，我最喜欢踢足球了。"
+       }
+      ],
+      "transcript": "今天下午我们去踢球吧。 好啊，我最喜欢踢足球了。",
+      "transcriptPinyin": "jīn tiān xià wǔ wǒ men qù tī qiú ba 。  hǎo a ， wǒ zuì xǐ huān tī zú qiú le 。"
+     }
+    },
+    {
+     "id": "q4",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "D",
+     "explanation": "对话中男子说想睡觉，对应图片D中的人在睡觉。",
+     "audio": {
+      "key": "listening/v1/856600ef64cba5d82abf8690a779a29302a0bcfe6783baa7422cca35b2968a52.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你怎么这么困？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我昨晚睡得很晚，现在想睡觉。"
+       }
+      ],
+      "transcript": "你怎么这么困？ 我昨晚睡得很晚，现在想睡觉。",
+      "transcriptPinyin": "nǐ zěn me zhè me kùn ？  wǒ zuó wǎn shuì dé hěn wǎn ， xiàn zài xiǎng shuì jiào 。"
+     }
+    },
+    {
+     "id": "q5",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "E",
+     "explanation": "对话中女子说想喝水，对应图片E中的人在喝水。",
+     "audio": {
+      "key": "listening/v1/2dfb32e0322c05881852e566ffcc9275c741b317452325ce95965169cc9c8042.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "天气真热，你想喝点什么？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我想喝一杯水。"
+       }
+      ],
+      "transcript": "天气真热，你想喝点什么？ 我想喝一杯水。",
+      "transcriptPinyin": "tiān qì zhēn rè ， nǐ xiǎng hē diǎn shén me ？  wǒ xiǎng hē yī bēi shuǐ 。"
+     }
+    },
+    {
+     "id": "q6",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "A",
+     "explanation": "对话中男子说喜欢看书，对应图片A中的人正在看书。",
+     "audio": {
+      "key": "listening/v1/54ef06202df9136c7a5875c71b0c736ec7725a55dc567c818a54b6dc84da05fd.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你周末喜欢做什么？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我喜欢在家看书，安静又舒服。"
+       }
+      ],
+      "transcript": "你周末喜欢做什么？ 我喜欢在家看书，安静又舒服。",
+      "transcriptPinyin": "nǐ zhōu mò xǐ huān zuò shén me ？  wǒ xǐ huān zài jiā kàn shū ， ān jìng yòu shū fú 。"
+     }
+    },
+    {
+     "id": "q7",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "B",
+     "explanation": "对话中两人在吃苹果，对应图片B中的人正在吃苹果。",
+     "audio": {
+      "key": "listening/v1/56a9f2269e4822c0620c0d7241cf6e593684199f845410c6b002029b470a7155.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "这个苹果真甜，你尝尝。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "好的，我吃一口。"
+       }
+      ],
+      "transcript": "这个苹果真甜，你尝尝。 好的，我吃一口。",
+      "transcriptPinyin": "zhè ge píng guǒ zhēn tián ， nǐ cháng cháng 。  hǎo de ， wǒ chī yī kǒu 。"
+     }
+    },
+    {
+     "id": "q8",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "C",
+     "explanation": "对话中两人要去踢球，对应图片C中的人在踢足球。",
+     "audio": {
+      "key": "listening/v1/058bee7c9a8a4dbf13fb10ae5bc31f356f8419e4e888b0df7e4bf3c5b341937c.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "操场上有很多人在踢球。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我们也去踢吧！"
+       }
+      ],
+      "transcript": "操场上有很多人在踢球。 我们也去踢吧！",
+      "transcriptPinyin": "cāo chǎng shàng yǒu hěn duō rén zài tī qiú 。  wǒ men yě qù tī ba ！"
+     }
+    },
+    {
+     "id": "q9",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "D",
+     "explanation": "对话中女子要去睡觉，对应图片D中的人在睡觉。",
+     "audio": {
+      "key": "listening/v1/fc71033ea015d5aadfd564270947c65b1e90b4d26079971d657a734391b757e9.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你看起来好累，快去休息吧。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "嗯，我马上去睡觉。"
+       }
+      ],
+      "transcript": "你看起来好累，快去休息吧。 嗯，我马上去睡觉。",
+      "transcriptPinyin": "nǐ kàn qǐ lái hǎo lèi ， kuài qù xiū xī ba 。  ń ， wǒ mǎ shàng qù shuì jiào 。"
+     }
+    },
+    {
+     "id": "q10",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "E",
+     "explanation": "对话中男子说想喝水，对应图片E中的人在喝水。",
+     "audio": {
+      "key": "listening/v1/43a45b86ad4ea03cf299ee088199a3a3a55e0b3d2d60e9164b773b6a2657c62d.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "运动后要多喝水。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "对，我正想喝一杯水。"
+       }
+      ],
+      "transcript": "运动后要多喝水。 对，我正想喝一杯水。",
+      "transcriptPinyin": "yùn dòng hòu yào duō hē shuǐ 。  duì ， wǒ zhèng xiǎng hē yī bēi shuǐ 。"
+     }
+    }
+   ],
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-916dd06e6178b8a3537b646672f86744.png"
+    },
+    {
+     "label": "B",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-d9c8df7570af5d55f0abca74c3ea7b5e.png"
+    },
+    {
+     "label": "C",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-4863cd906fc129d55192d153b95b4231.png"
+    },
+    {
+     "label": "D",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-37d65a40fde34d5eaaa244dff49acb8b.png"
+    },
+    {
+     "label": "E",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-d29a3b9ef8d0fbb835a2efadb128f0f0.png"
+    },
+    {
+     "label": "F",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-1647be3cb98bbaa1feedc66666fd1381.png"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

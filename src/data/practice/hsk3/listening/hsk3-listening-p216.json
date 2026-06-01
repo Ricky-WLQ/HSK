@@ -1,0 +1,532 @@
+{
+ "id": "hsk3-listening-p216",
+ "level": "3",
+ "section": "listening",
+ "partKey": "listening-p2",
+ "title": "HSK3 Listening P2",
+ "titleZh": "听力 第二部分（听对话选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听对话，然后根据对话内容选择正确答案。每题只有一个正确答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "女下午要去做什么？",
+     "correctAnswer": "A",
+     "explanation": "对话中女说自己下午三点要去机场接朋友，所以正确答案是去机场接朋友。",
+     "audio": {
+      "key": "listening/v1/563adee003edbae2c2291e1d551e33830e97b6d79ad40132e261c444ff374565.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "今天天气真好啊，我们一起去公园散步吧？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "好啊，不过我下午三点要去机场接朋友。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "那我们现在就去，两点回来，时间够吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "可以，我们走吧。"
+       }
+      ],
+      "transcript": "今天天气真好啊，我们一起去公园散步吧？ 好啊，不过我下午三点要去机场接朋友。 那我们现在就去，两点回来，时间够吗？ 可以，我们走吧。",
+      "transcriptPinyin": "jīn tiān tiān qì zhēn hǎo a ， wǒ men yì qǐ qù gōng yuán sàn bù ba ？  hǎo a ， bù guò wǒ xià wǔ sān diǎn yào qù jī chǎng jiē péng yǒu 。  nà wǒ men xiàn zài jiù qù ， liǎng diǎn huí lái ， shí jiān gòu ma ？  kě yǐ ， wǒ men zǒu ba 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "去机场接朋友",
+       "pinyin": "qù jī chǎng jiē péng yǒu"
+      },
+      {
+       "label": "B",
+       "text": "去公园散步",
+       "pinyin": "qù gōng yuán sàn bù"
+      },
+      {
+       "label": "C",
+       "text": "回家做饭",
+       "pinyin": "huí jiā zuò fàn"
+      }
+     ],
+     "pinyin": "nǚ xià wǔ yào qù zuò shén me ？"
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "男昨天为什么没来上课？",
+     "correctAnswer": "B",
+     "explanation": "男说自己感冒了，在家休息，所以没来上课是因为生病了。",
+     "audio": {
+      "key": "listening/v1/35d8fcb190ae913f98828e1fc50db2da38493d87f20f5fd3c5d837813cfe9ec3.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你昨天怎么没来上课？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我感冒了，在家休息了一天。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "现在好点了吗？要不要吃药？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "好多了，谢谢关心。"
+       }
+      ],
+      "transcript": "你昨天怎么没来上课？ 我感冒了，在家休息了一天。 现在好点了吗？要不要吃药？ 好多了，谢谢关心。",
+      "transcriptPinyin": "nǐ zuó tiān zěn me méi lái shàng kè ？  wǒ gǎn mào le ， zài jiā xiū xī le yī tiān 。  xiàn zài hǎo diǎn le ma ？ yào bù yào chī yào ？  hǎo duō le ， xiè xiè guān xīn 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "他有事请假",
+       "pinyin": "tā yǒu shì qǐng jià"
+      },
+      {
+       "label": "B",
+       "text": "他生病了",
+       "pinyin": "tā shēng bìng le"
+      },
+      {
+       "label": "C",
+       "text": "他不想上课",
+       "pinyin": "tā bù xiǎng shàng kè"
+      }
+     ],
+     "pinyin": "nán zuó tiān wèi shén me méi lái shàng kè ？"
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "女周末打算做什么？",
+     "correctAnswer": "C",
+     "explanation": "女说想买书然后看电影，所以周末安排是去书店和电影院。",
+     "audio": {
+      "key": "listening/v1/d262e2a64d1f1eb6dd51ed4f948ece46df68ae715f9bd485e68432636e6b0071.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你周末有什么安排吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我想去书店买本书，然后去看电影。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我正好也想看电影，我们一起吧？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "好啊，那周末见。"
+       }
+      ],
+      "transcript": "你周末有什么安排吗？ 我想去书店买本书，然后去看电影。 我正好也想看电影，我们一起吧？ 好啊，那周末见。",
+      "transcriptPinyin": "nǐ zhōu mò yǒu shén me ān pái ma ？  wǒ xiǎng qù shū diàn mǎi běn shū ， rán hòu qù kàn diàn yǐng 。  wǒ zhèng hǎo yě xiǎng kàn diàn yǐng ， wǒ men yì qǐ ba ？  hǎo a ， nà zhōu mò jiàn 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "和朋友吃饭",
+       "pinyin": "hé péng yǒu chī fàn"
+      },
+      {
+       "label": "B",
+       "text": "在家看书",
+       "pinyin": "zài jiā kàn shū"
+      },
+      {
+       "label": "C",
+       "text": "去书店买书和看电影",
+       "pinyin": "qù shū diàn mǎi shū hé kàn diàn yǐng"
+      }
+     ],
+     "pinyin": "nǚ zhōu mò dǎ suàn zuò shén me ？"
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "男喜欢吃什么水果？",
+     "correctAnswer": "B",
+     "explanation": "男说自己喜欢苹果和香蕉，所以正确答案是苹果和香蕉。",
+     "audio": {
+      "key": "listening/v1/01b664a47332c6266dc3cca0c95cbe560634f04c69e6768f687a7dc7d1aeeeae.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你喜欢吃什么水果？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我喜欢苹果和香蕉，你呢？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我最喜欢吃西瓜，夏天吃特别舒服。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "对啊，西瓜很甜。"
+       }
+      ],
+      "transcript": "你喜欢吃什么水果？ 我喜欢苹果和香蕉，你呢？ 我最喜欢吃西瓜，夏天吃特别舒服。 对啊，西瓜很甜。",
+      "transcriptPinyin": "nǐ xǐ huān chī shén me shuǐ guǒ ？  wǒ xǐ huān píng guǒ hé xiāng jiāo ， nǐ ne ？  wǒ zuì xǐ huān chī xī guā ， xià tiān chī tè bié shū fú 。  duì a ， xī guā hěn tián 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "西瓜",
+       "pinyin": "xī guā"
+      },
+      {
+       "label": "B",
+       "text": "苹果和香蕉",
+       "pinyin": "píng guǒ hé xiāng jiāo"
+      },
+      {
+       "label": "C",
+       "text": "葡萄",
+       "pinyin": "pú táo"
+      }
+     ],
+     "pinyin": "nán xǐ huān chī shén me shuǐ guǒ ？"
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "女现在感觉怎么样？",
+     "correctAnswer": "B",
+     "explanation": "女说自己还没有准备好，有点紧张，所以她现在感觉紧张。",
+     "audio": {
+      "key": "listening/v1/5a0a175f8d63c210b9b33cdac41898280123de9a11154ba33bbf654956cfd191.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "明天要考试了，你准备好了吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "还没有，我有点紧张。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "别担心，你平时学习那么认真，一定能考好的。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "希望吧，谢谢你的鼓励。"
+       }
+      ],
+      "transcript": "明天要考试了，你准备好了吗？ 还没有，我有点紧张。 别担心，你平时学习那么认真，一定能考好的。 希望吧，谢谢你的鼓励。",
+      "transcriptPinyin": "míng tiān yào kǎo shì le ， nǐ zhǔn bèi hǎo le ma ？  hái méi yǒu ， wǒ yǒu diǎn jǐn zhāng 。  bié dān xīn ， nǐ píng shí xué xí nà me rèn zhēn ， yí dìng néng kǎo hǎo de 。  xī wàng ba ， xiè xiè nǐ de gǔ lì 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "很自信",
+       "pinyin": "hěn zì xìn"
+      },
+      {
+       "label": "B",
+       "text": "有点紧张",
+       "pinyin": "yǒu diǎn jǐn zhāng"
+      },
+      {
+       "label": "C",
+       "text": "很高兴",
+       "pinyin": "hěn gāo xìng"
+      }
+     ],
+     "pinyin": "nǚ xiàn zài gǎn jué zěn me yàng ？"
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "女的觉得这件衣服有什么问题？",
+     "correctAnswer": "C",
+     "explanation": "女说觉得有点大，所以大小不合适。",
+     "audio": {
+      "key": "listening/v1/cd08eaee3ed49048957672a4287c7b5612438b66fc7a56c4f9ae97364a65faf4.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "这件衣服怎么样？我穿好看吗？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "颜色不错，但是大小好像有点不合适。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我也觉得有点大，那换一件小号的试试吧。"
+       }
+      ],
+      "transcript": "这件衣服怎么样？我穿好看吗？ 颜色不错，但是大小好像有点不合适。 我也觉得有点大，那换一件小号的试试吧。",
+      "transcriptPinyin": "zhè jiàn yī fú zěn me yàng ？ wǒ chuān hǎo kàn ma ？  yán sè bù cuò ， dàn shì dà xiǎo hǎo xiàng yǒu diǎn bù hé shì 。  wǒ yě jué de yǒu diǎn dà ， nà huàn yī jiàn xiǎo hào de shì shì ba 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "颜色不好看",
+       "pinyin": "yán sè bù hǎo kàn"
+      },
+      {
+       "label": "B",
+       "text": "太贵了",
+       "pinyin": "tài guì le"
+      },
+      {
+       "label": "C",
+       "text": "大小不合适",
+       "pinyin": "dà xiǎo bù hé shì"
+      }
+     ],
+     "pinyin": "nǚ de jué de zhè jiàn yī fú yǒu shén me wèn tí ？"
+    },
+    {
+     "id": "q7",
+     "type": "listening-mcq",
+     "prompt": "女上班用什么交通工具？",
+     "correctAnswer": "C",
+     "explanation": "女说她坐地铁上班，因为开车太堵。",
+     "audio": {
+      "key": "listening/v1/f40190edcfdac29b6eefaf70b5a9812d5556b720c5694c63cfa5e89c84db1064.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你平时怎么去上班？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我坐地铁，因为开车太堵了。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "地铁方便多了，我也坐地铁。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "对啊，而且地铁比较准时。"
+       }
+      ],
+      "transcript": "你平时怎么去上班？ 我坐地铁，因为开车太堵了。 地铁方便多了，我也坐地铁。 对啊，而且地铁比较准时。",
+      "transcriptPinyin": "nǐ píng shí zěn me qù shàng bān ？  wǒ zuò dì tiě ， yīn wèi kāi chē tài dǔ le 。  dì tiě fāng biàn duō le ， wǒ yě zuò dì tiě 。  duì a ， ér qiě dì tiě bǐ jiào zhǔn shí 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "骑自行车",
+       "pinyin": "qí zì xíng chē"
+      },
+      {
+       "label": "B",
+       "text": "开车",
+       "pinyin": "kāi chē"
+      },
+      {
+       "label": "C",
+       "text": "坐地铁",
+       "pinyin": "zuò dì tiě"
+      }
+     ],
+     "pinyin": "nǚ shàng bān yòng shén me jiāo tōng gōng jù ？"
+    },
+    {
+     "id": "q8",
+     "type": "listening-mcq",
+     "prompt": "女想学做什么菜？",
+     "correctAnswer": "A",
+     "explanation": "女说想学西红柿炒鸡蛋，所以正确选项是西红柿炒鸡蛋。",
+     "audio": {
+      "key": "listening/v1/eb3781bc72c2a828847239db1b94824513de0fd082a866e33e7ab19f0670ac0c.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我想学做中国菜，你能教我吗？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "当然可以，你想学做什么菜？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "西红柿炒鸡蛋，我觉得很简单。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "好，那我们明天开始吧。"
+       }
+      ],
+      "transcript": "我想学做中国菜，你能教我吗？ 当然可以，你想学做什么菜？ 西红柿炒鸡蛋，我觉得很简单。 好，那我们明天开始吧。",
+      "transcriptPinyin": "wǒ xiǎng xué zuò zhōng guó cài ， nǐ néng jiào wǒ ma ？  dāng rán kě yǐ ， nǐ xiǎng xué zuò shén me cài ？  xī hóng shì chǎo jī dàn ， wǒ jué de hěn jiǎn dān 。  hǎo ， nà wǒ men míng tiān kāi shǐ ba 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "西红柿炒鸡蛋",
+       "pinyin": "xī hóng shì chǎo jī dàn"
+      },
+      {
+       "label": "B",
+       "text": "炒饭",
+       "pinyin": "chǎo fàn"
+      },
+      {
+       "label": "C",
+       "text": "饺子",
+       "pinyin": "jiǎo zi"
+      }
+     ],
+     "pinyin": "nǚ xiǎng xué zuò shén me cài ？"
+    },
+    {
+     "id": "q9",
+     "type": "listening-mcq",
+     "prompt": "为什么他们下周才去爬山？",
+     "correctAnswer": "C",
+     "explanation": "女说明天有雨，所以男说换个时间，下周再去。",
+     "audio": {
+      "key": "listening/v1/269869ce197323f06e44b6f41f6394058b1384af1a24e0037eff0f24982d02fa.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "周末我们去爬山吧？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "好啊，不过天气预报说明天有雨。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "那我们换个时间，下周再去吧。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "好，听你的。"
+       }
+      ],
+      "transcript": "周末我们去爬山吧？ 好啊，不过天气预报说明天有雨。 那我们换个时间，下周再去吧。 好，听你的。",
+      "transcriptPinyin": "zhōu mò wǒ men qù pá shān ba ？  hǎo a ， bù guò tiān qì yù bào shuō míng tiān yǒu yǔ 。  nà wǒ men huàn gè shí jiān ， xià zhōu zài qù ba 。  hǎo ， tīng nǐ de 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "因为不想去",
+       "pinyin": "yīn wèi bù xiǎng qù"
+      },
+      {
+       "label": "B",
+       "text": "因为他们没时间",
+       "pinyin": "yīn wèi tā men méi shí jiān"
+      },
+      {
+       "label": "C",
+       "text": "因为周末要下雨",
+       "pinyin": "yīn wèi zhōu mò yào xià yǔ"
+      }
+     ],
+     "pinyin": "wèi shén me tā men xià zhōu cái qù pá shān ？"
+    },
+    {
+     "id": "q10",
+     "type": "listening-mcq",
+     "prompt": "男的儿子喜欢什么玩具？",
+     "correctAnswer": "B",
+     "explanation": "男说儿子最喜欢小汽车，所以正确答案是小汽车。",
+     "audio": {
+      "key": "listening/v1/7590431c5d3a266f1ff733b9ad85c13e6720af37c3239d22b7733ba39234308d.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你儿子多大了？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "他今年五岁，在上幼儿园。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "真可爱，他喜欢什么玩具？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "他最喜欢小汽车，家里已经有很多了。"
+       }
+      ],
+      "transcript": "你儿子多大了？ 他今年五岁，在上幼儿园。 真可爱，他喜欢什么玩具？ 他最喜欢小汽车，家里已经有很多了。",
+      "transcriptPinyin": "nǐ ér zi duō dà le ？  tā jīn nián wǔ suì ， zài shàng yòu ér yuán 。  zhēn kě ài ， tā xǐ huān shén me wán jù ？  tā zuì xǐ huān xiǎo qì chē ， jiā lǐ yǐ jīng yǒu hěn duō le 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "积木",
+       "pinyin": "jī mù"
+      },
+      {
+       "label": "B",
+       "text": "小汽车",
+       "pinyin": "xiǎo qì chē"
+      },
+      {
+       "label": "C",
+       "text": "布娃娃",
+       "pinyin": "bù wá wá"
+      }
+     ],
+     "pinyin": "nán de ér zi xǐ huān shén me wán jù ？"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

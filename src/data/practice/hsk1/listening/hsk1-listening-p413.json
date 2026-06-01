@@ -1,0 +1,202 @@
+{
+ "id": "hsk1-listening-p413",
+ "level": "1",
+ "section": "listening",
+ "partKey": "listening-p4",
+ "title": "HSK1 Listening P4",
+ "titleZh": "听力 第四部分（听问句选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "下面你将听到5段简短的话，每段话后有一个问题。请从A、B、C三个选项中选择正确答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "小明今年多大？",
+     "correctAnswer": "B",
+     "explanation": "录音中说小明今年二十岁，所以答案是二十岁。",
+     "audio": {
+      "key": "listening/v1/0d0328a36aa28c2a4d426040d2fb374985c140d60d2f3c016116e2681d83205f.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "你好，我叫小明。我是中国人。我今年二十岁。"
+       }
+      ],
+      "transcript": "你好，我叫小明。我是中国人。我今年二十岁。",
+      "transcriptPinyin": "nǐ hǎo ， wǒ jiào xiǎo míng 。 wǒ shì zhōng guó rén 。 wǒ jīn nián èr shí suì 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "十岁",
+       "pinyin": "shí suì"
+      },
+      {
+       "label": "B",
+       "text": "二十岁",
+       "pinyin": "èr shí suì"
+      },
+      {
+       "label": "C",
+       "text": "十二岁",
+       "pinyin": "shí èr suì"
+      }
+     ],
+     "pinyin": "xiǎo míng jīn nián duō dà ？"
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "书是什么颜色的？",
+     "correctAnswer": "C",
+     "explanation": "录音中说书是红色的，所以答案是红色。",
+     "audio": {
+      "key": "listening/v1/b71290a232da4452680c3b92c156eead8dd7cf4c75846c7f9d05b37c9143727f.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "这是一本书。书是红色的。书在桌子上。"
+       }
+      ],
+      "transcript": "这是一本书。书是红色的。书在桌子上。",
+      "transcriptPinyin": "zhè shì yī běn shū 。 shū shì hóng sè de 。 shū zài zhuō zi shàng 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "绿色",
+       "pinyin": "lǜ sè"
+      },
+      {
+       "label": "B",
+       "text": "蓝色",
+       "pinyin": "lán sè"
+      },
+      {
+       "label": "C",
+       "text": "红色",
+       "pinyin": "hóng sè"
+      }
+     ],
+     "pinyin": "shū shì shén me yán sè de ？"
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "妈妈买了什么？",
+     "correctAnswer": "C",
+     "explanation": "录音中说买了一个苹果和一个香蕉，所以答案是两个都买了。",
+     "audio": {
+      "key": "listening/v1/7ddd2bb424e1919eb06e95d7676350d2ba32b9cbdf744dfd10a574bc0c7474bd.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "妈妈去商店。她买了一个苹果和一个香蕉。"
+       }
+      ],
+      "transcript": "妈妈去商店。她买了一个苹果和一个香蕉。",
+      "transcriptPinyin": "mā mā qù shāng diàn 。 tā mǎi le yí gè píng guǒ hé yí gè xiāng jiāo 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "一个苹果",
+       "pinyin": "yí gè píng guǒ"
+      },
+      {
+       "label": "B",
+       "text": "一个香蕉",
+       "pinyin": "yí gè xiāng jiāo"
+      },
+      {
+       "label": "C",
+       "text": "一个苹果和一个香蕉",
+       "pinyin": "yí gè píng guǒ hé yí gè xiāng jiāo"
+      }
+     ],
+     "pinyin": "mā mā mǎi le shén me ？"
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "我家有几口人？",
+     "correctAnswer": "A",
+     "explanation": "录音中说我家有三口人，所以答案是三口人。",
+     "audio": {
+      "key": "listening/v1/55f5faf51279f720ae2010700a77ee84e69f58fa4ed31177d50825dede3300a6.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我家有三口人：爸爸、妈妈和我。我爸爸是医生。"
+       }
+      ],
+      "transcript": "我家有三口人：爸爸、妈妈和我。我爸爸是医生。",
+      "transcriptPinyin": "wǒ jiā yǒu sān kǒu rén ： bà bà 、 mā mā hé wǒ 。 wǒ bà bà shì yī shēng 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "三口人",
+       "pinyin": "sān kǒu rén"
+      },
+      {
+       "label": "B",
+       "text": "四口人",
+       "pinyin": "sì kǒu rén"
+      },
+      {
+       "label": "C",
+       "text": "两口人",
+       "pinyin": "liǎng kǒu rén"
+      }
+     ],
+     "pinyin": "wǒ jiā yǒu jǐ kǒu rén ？"
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "明天星期几？",
+     "correctAnswer": "C",
+     "explanation": "录音中说明天星期二，所以答案是星期二。",
+     "audio": {
+      "key": "listening/v1/cc4237b3c9e2bebe79d73ac6b13940a3eb9a3f7efc3194a1e24a76c7ef09c476.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "今天星期一。明天星期二。"
+       }
+      ],
+      "transcript": "今天星期一。明天星期二。",
+      "transcriptPinyin": "jīn tiān xīng qī yī 。 míng tiān xīng qī èr 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "星期三",
+       "pinyin": "xīng qī sān"
+      },
+      {
+       "label": "B",
+       "text": "星期一",
+       "pinyin": "xīng qī yī"
+      },
+      {
+       "label": "C",
+       "text": "星期二",
+       "pinyin": "xīng qī èr"
+      }
+     ],
+     "pinyin": "míng tiān xīng qī jǐ ？"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

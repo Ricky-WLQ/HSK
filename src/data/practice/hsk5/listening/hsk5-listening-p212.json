@@ -1,0 +1,179 @@
+{
+ "id": "hsk5-listening-p212",
+ "level": "5",
+ "section": "listening",
+ "partKey": "listening-p2",
+ "title": "HSK5 Listening P2",
+ "titleZh": "听力 第二部分（听短文选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "听下面一段独白，然后回答6个问题。每道题有4个选项，请选出最佳答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "说话人为什么选修书法课？",
+     "correctAnswer": "C",
+     "explanation": "说话人从小对书法感兴趣，所以选修了书法课。",
+     "options": [
+      {
+       "label": "A",
+       "text": "课程要求"
+      },
+      {
+       "label": "B",
+       "text": "老师推荐"
+      },
+      {
+       "label": "C",
+       "text": "从小对书法感兴趣"
+      },
+      {
+       "label": "D",
+       "text": "书法很简单"
+      }
+     ]
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "说话人刚开始觉得写毛笔字怎么样？",
+     "correctAnswer": "B",
+     "explanation": "刚开始他以为写毛笔字很简单，但后来发现很难。",
+     "options": [
+      {
+       "label": "A",
+       "text": "很花时间"
+      },
+      {
+       "label": "B",
+       "text": "非常简单"
+      },
+      {
+       "label": "C",
+       "text": "很无聊"
+      },
+      {
+       "label": "D",
+       "text": "非常难"
+      }
+     ]
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "老师对书法有什么看法？",
+     "correctAnswer": "A",
+     "explanation": "老师认为书法不仅是写字，更是一种修身养性的方式。",
+     "options": [
+      {
+       "label": "A",
+       "text": "是修身养性的方式"
+      },
+      {
+       "label": "B",
+       "text": "只是一种写字方式"
+      },
+      {
+       "label": "C",
+       "text": "是一种艺术"
+      },
+      {
+       "label": "D",
+       "text": "是表达情感的方式"
+      }
+     ]
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "练习书法需要什么？",
+     "correctAnswer": "D",
+     "explanation": "练习书法需要耐心和专注，每一笔都要用心去写。",
+     "options": [
+      {
+       "label": "A",
+       "text": "力量和速度"
+      },
+      {
+       "label": "B",
+       "text": "天赋和想象力"
+      },
+      {
+       "label": "C",
+       "text": "创造力和灵活性"
+      },
+      {
+       "label": "D",
+       "text": "耐心和专注"
+      }
+     ]
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "说话人去年取得了什么成绩？",
+     "correctAnswer": "D",
+     "explanation": "他参加了全国大学生书法比赛，获得了二等奖。",
+     "options": [
+      {
+       "label": "A",
+       "text": "获得了一等奖"
+      },
+      {
+       "label": "B",
+       "text": "参加了比赛"
+      },
+      {
+       "label": "C",
+       "text": "获得了三等奖"
+      },
+      {
+       "label": "D",
+       "text": "获得了二等奖"
+      }
+     ]
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "现在书法对说话人来说是什么？",
+     "correctAnswer": "A",
+     "explanation": "书法已经成为他生活中不可缺少的一部分。",
+     "options": [
+      {
+       "label": "A",
+       "text": "生活中重要的一部分"
+      },
+      {
+       "label": "B",
+       "text": "一份工作"
+      },
+      {
+       "label": "C",
+       "text": "一种爱好"
+      },
+      {
+       "label": "D",
+       "text": "一种负担"
+      }
+     ]
+    }
+   ],
+   "audio": {
+    "key": "listening/v1/641cb1965a4cd9aa51591000749ea334f9ba4e843cf87b9ea77a55a9565112a4.mp3",
+    "lines": [
+     {
+      "speaker": "旁白",
+      "voice": "narrator",
+      "text": "我叫李明，从小就对书法感兴趣。上大学后，我选修了书法课。刚开始，我觉得写毛笔字很简单，但真正练习时才发现很难。老师告诉我们，书法不仅是写字，更是一种修身养性的方式。练习书法需要耐心和专注，每一笔都要用心去写。经过两年的学习，我的书法有了很大进步。去年，我参加了全国大学生书法比赛，获得了二等奖。这让我更加热爱书法。现在，我每天都会练习一小时，书法已经成为我生活中不可缺少的一部分。"
+     }
+    ],
+    "transcript": "我叫李明，从小就对书法感兴趣。上大学后，我选修了书法课。刚开始，我觉得写毛笔字很简单，但真正练习时才发现很难。老师告诉我们，书法不仅是写字，更是一种修身养性的方式。练习书法需要耐心和专注，每一笔都要用心去写。经过两年的学习，我的书法有了很大进步。去年，我参加了全国大学生书法比赛，获得了二等奖。这让我更加热爱书法。现在，我每天都会练习一小时，书法已经成为我生活中不可缺少的一部分。",
+    "transcriptPinyin": null
+   }
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

@@ -1,0 +1,64 @@
+{
+ "id": "hsk7-9-listening-p120",
+ "level": "7-9",
+ "section": "listening",
+ "partKey": "listening-p1",
+ "title": "HSK7-9 Listening P1",
+ "titleZh": "听力 第一部分（判断对错）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听一段关于人工智能在医疗领域应用的独白，然后判断后面的5个句子是否与录音内容相符。相符请选“对”，不相符请选“错”。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-statement-true-false",
+     "prompt": "AI辅助诊断系统能够完美地分析医学影像，不会出现误判。",
+     "correctAnswer": "错",
+     "explanation": "录音中提到AI辅助诊断系统并非完美无缺，有时可能会出现误判，因此该句说法与录音不符。"
+    },
+    {
+     "id": "q2",
+     "type": "listening-statement-true-false",
+     "prompt": "人工智能在医疗领域的应用目前只能作为医生的辅助工具。",
+     "correctAnswer": "对",
+     "explanation": "录音明确说人工智能目前仍只能作为医生的辅助工具，而非替代品，因此该句正确。"
+    },
+    {
+     "id": "q3",
+     "type": "listening-statement-true-false",
+     "prompt": "数据隐私和伦理问题已经被完全解决了。",
+     "correctAnswer": "错",
+     "explanation": "录音指出数据隐私和伦理问题是亟需解决的挑战，说明尚未完全解决，因此该句错误。"
+    },
+    {
+     "id": "q4",
+     "type": "listening-statement-true-false",
+     "prompt": "许多专家对AI在医疗领域的前景持悲观态度。",
+     "correctAnswer": "错",
+     "explanation": "录音说许多专家持乐观态度，而非悲观，因此该句错误。"
+    },
+    {
+     "id": "q5",
+     "type": "listening-statement-true-false",
+     "prompt": "专家认为AI有望提高诊疗效率，降低医疗成本。",
+     "correctAnswer": "对",
+     "explanation": "录音明确说专家认为AI有望大幅提高诊疗效率，降低医疗成本，因此该句正确。"
+    }
+   ],
+   "audio": {
+    "key": "listening/v1/ea191e8b7d2363e2d9ad71295fd2430817b2e5c94809d0f676698666100c4459.mp3",
+    "lines": [
+     {
+      "speaker": "旁白",
+      "voice": "narrator",
+      "text": "近年来，人工智能在医疗领域的应用日益广泛。例如，AI辅助诊断系统能够快速分析医学影像，帮助医生发现早期病变。然而，这些系统并非完美无缺，有时可能会出现误判。因此，人工智能目前仍只能作为医生的辅助工具，而非替代品。此外，数据隐私和伦理问题也是亟需解决的挑战。尽管如此，许多专家对AI在医疗领域的前景持乐观态度，认为它有望大幅提高诊疗效率，降低医疗成本。"
+     }
+    ],
+    "transcript": "近年来，人工智能在医疗领域的应用日益广泛。例如，AI辅助诊断系统能够快速分析医学影像，帮助医生发现早期病变。然而，这些系统并非完美无缺，有时可能会出现误判。因此，人工智能目前仍只能作为医生的辅助工具，而非替代品。此外，数据隐私和伦理问题也是亟需解决的挑战。尽管如此，许多专家对AI在医疗领域的前景持乐观态度，认为它有望大幅提高诊疗效率，降低医疗成本。",
+    "transcriptPinyin": null
+   }
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

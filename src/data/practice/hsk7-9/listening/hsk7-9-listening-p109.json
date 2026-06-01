@@ -1,0 +1,64 @@
+{
+ "id": "hsk7-9-listening-p109",
+ "level": "7-9",
+ "section": "listening",
+ "partKey": "listening-p1",
+ "title": "HSK7-9 Listening P1",
+ "titleZh": "听力 第一部分（判断对错）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听一段关于中国高铁发展的新闻，然后判断下列陈述是否正确，正确的选“对”，错误的选“错”。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-statement-true-false",
+     "prompt": "中国高铁运营里程占全球总里程的一半以上。",
+     "correctAnswer": "对",
+     "explanation": "原文提到中国高铁运营里程占全球总里程的三分之二以上，即超过一半，因此陈述正确。"
+    },
+    {
+     "id": "q2",
+     "type": "listening-statement-true-false",
+     "prompt": "与普通铁路相比，高铁的速度更快，但准点率较差。",
+     "correctAnswer": "错",
+     "explanation": "原文明确指出高铁准点率更高，而非较差，因此陈述错误。"
+    },
+    {
+     "id": "q3",
+     "type": "listening-statement-true-false",
+     "prompt": "中国高铁在复杂地质条件下，如高寒和山区，也能稳定运行。",
+     "correctAnswer": "对",
+     "explanation": "原文提到中国高铁在复杂地质条件下，如高寒和山区，也能保持稳定运行，因此陈述正确。"
+    },
+    {
+     "id": "q4",
+     "type": "listening-statement-true-false",
+     "prompt": "高铁网络主要连接大城市，中小城市未被纳入。",
+     "correctAnswer": "错",
+     "explanation": "原文说高铁网络将许多中小城市纳入其中，因此陈述错误。"
+    },
+    {
+     "id": "q5",
+     "type": "listening-statement-true-false",
+     "prompt": "中国未来计划研发时速600公里的高速磁悬浮列车。",
+     "correctAnswer": "对",
+     "explanation": "原文提到未来计划研发时速600公里的高速磁悬浮列车，因此陈述正确。"
+    }
+   ],
+   "audio": {
+    "key": "listening/v1/77ea0ff6ab9f5a0bc109184810ab436073c6eb06cd9bce97c19385865f890892.mp3",
+    "lines": [
+     {
+      "speaker": "旁白",
+      "voice": "narrator",
+      "text": "近年来，中国高铁技术取得了令世界瞩目的成就。截至2023年底，中国高铁运营里程已超过4.5万公里，占全球总里程的三分之二以上。与普通铁路相比，高铁不仅速度更快，而且准点率更高，安全性也更有保障。值得一提的是，中国高铁在复杂地质条件下，如高寒和山区，也能保持稳定运行。此外，高铁网络将许多中小城市纳入其中，促进了区域经济协调发展。未来，中国计划进一步延伸线路，并研发时速600公里的高速磁悬浮列车。"
+     }
+    ],
+    "transcript": "近年来，中国高铁技术取得了令世界瞩目的成就。截至2023年底，中国高铁运营里程已超过4.5万公里，占全球总里程的三分之二以上。与普通铁路相比，高铁不仅速度更快，而且准点率更高，安全性也更有保障。值得一提的是，中国高铁在复杂地质条件下，如高寒和山区，也能保持稳定运行。此外，高铁网络将许多中小城市纳入其中，促进了区域经济协调发展。未来，中国计划进一步延伸线路，并研发时速600公里的高速磁悬浮列车。",
+    "transcriptPinyin": null
+   }
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

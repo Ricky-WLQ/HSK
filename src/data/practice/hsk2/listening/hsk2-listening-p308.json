@@ -1,0 +1,462 @@
+{
+ "id": "hsk2-listening-p308",
+ "level": "2",
+ "section": "listening",
+ "partKey": "listening-p3",
+ "title": "HSK2 Listening P3",
+ "titleZh": "听力 第三部分（听对话选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听对话，然后根据对话内容选择正确答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "女的想做什么？",
+     "correctAnswer": "C",
+     "explanation": "女的先说好，然后说‘我要先回家拿水’，所以她要回家拿水。",
+     "audio": {
+      "key": "listening/v1/dac88c2935955de8e6b486c8ce9061250bbd8a9f48b4c00669581c10e314b803.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "今天天气真好，我们去公园吧。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "好呀，不过我要先回家拿水。"
+       }
+      ],
+      "transcript": "今天天气真好，我们去公园吧。 好呀，不过我要先回家拿水。",
+      "transcriptPinyin": "jīn tiān tiān qì zhēn hǎo ， wǒ men qù gōng yuán ba 。  hǎo ya ， bù guò wǒ yào xiān huí jiā ná shuǐ 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "去公园",
+       "pinyin": "qù gōng yuán"
+      },
+      {
+       "label": "B",
+       "text": "回家拿衣服",
+       "pinyin": "huí jiā ná yī fú"
+      },
+      {
+       "label": "C",
+       "text": "回家拿水",
+       "pinyin": "huí jiā ná shuǐ"
+      }
+     ],
+     "pinyin": "nǚ de xiǎng zuò shén me ？"
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "男的哥哥做什么工作？",
+     "correctAnswer": "A",
+     "explanation": "男的说哥哥在医院工作，是医生。",
+     "audio": {
+      "key": "listening/v1/b7ecfc9a4e07f038efe707cf1ff44de3d3dc102c67f68243a3a81e1af19d9ac1.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你哥哥在哪儿工作？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "他在医院工作，是医生。"
+       }
+      ],
+      "transcript": "你哥哥在哪儿工作？ 他在医院工作，是医生。",
+      "transcriptPinyin": "nǐ gē gē zài nǎ ér gōng zuò ？  tā zài yī yuàn gōng zuò ， shì yī shēng 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "医生",
+       "pinyin": "yī shēng"
+      },
+      {
+       "label": "B",
+       "text": "学生",
+       "pinyin": "xué shēng"
+      },
+      {
+       "label": "C",
+       "text": "老师",
+       "pinyin": "lǎo shī"
+      }
+     ],
+     "pinyin": "nán dī gē gē zuò shén me gōng zuò ？"
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "女的想吃什么？",
+     "correctAnswer": "C",
+     "explanation": "女的说‘不，我想吃香蕉’。",
+     "audio": {
+      "key": "listening/v1/a050ddc1ebf814dc8fabf5db992683f2d66736dbc320fec8261a89716e7028d0.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你吃苹果吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "不，我想吃香蕉。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "好的，我去买香蕉。"
+       }
+      ],
+      "transcript": "你吃苹果吗？ 不，我想吃香蕉。 好的，我去买香蕉。",
+      "transcriptPinyin": "nǐ chī píng guǒ ma ？  bù ， wǒ xiǎng chī xiāng jiāo 。  hǎo de ， wǒ qù mǎi xiāng jiāo 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "橘子",
+       "pinyin": "jú zi"
+      },
+      {
+       "label": "B",
+       "text": "苹果",
+       "pinyin": "píng guǒ"
+      },
+      {
+       "label": "C",
+       "text": "香蕉",
+       "pinyin": "xiāng jiāo"
+      }
+     ],
+     "pinyin": "nǚ de xiǎng chī shén me ？"
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "电影什么时候开始？",
+     "correctAnswer": "C",
+     "explanation": "男的说电影八点半开始。",
+     "audio": {
+      "key": "listening/v1/686ae16a3e087f70c29ab522a29aee46854217d3eef80320d5c295186cc988bf.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "现在几点了？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "八点一刻，电影八点半开始，我们快走吧。"
+       }
+      ],
+      "transcript": "现在几点了？ 八点一刻，电影八点半开始，我们快走吧。",
+      "transcriptPinyin": "xiàn zài jǐ diǎn le ？  bā diǎn yī kè ， diàn yǐng bā diǎn bàn kāi shǐ ， wǒ men kuài zǒu ba 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "九点",
+       "pinyin": "jiǔ diǎn"
+      },
+      {
+       "label": "B",
+       "text": "八点一刻",
+       "pinyin": "bā diǎn yī kè"
+      },
+      {
+       "label": "C",
+       "text": "八点半",
+       "pinyin": "bā diǎn bàn"
+      }
+     ],
+     "pinyin": "diàn yǐng shén me shí hòu kāi shǐ ？"
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "女的怎么去学校？",
+     "correctAnswer": "C",
+     "explanation": "女的说‘我骑车去’。",
+     "audio": {
+      "key": "listening/v1/7d64314012757bbd85e2b7782f4886ebc8d1382099b8435d22ec552cccbf4aa7.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你坐公交车去学校吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "不，我骑车去，因为公交车太慢了。"
+       }
+      ],
+      "transcript": "你坐公交车去学校吗？ 不，我骑车去，因为公交车太慢了。",
+      "transcriptPinyin": "nǐ zuò gōng jiāo chē qù xué xiào ma ？  bù ， wǒ qí chē qù ， yīn wèi gōng jiāo chē tài màn le 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "坐公交车",
+       "pinyin": "zuò gōng jiāo chē"
+      },
+      {
+       "label": "B",
+       "text": "走路",
+       "pinyin": "zǒu lù"
+      },
+      {
+       "label": "C",
+       "text": "骑车",
+       "pinyin": "qí chē"
+      }
+     ],
+     "pinyin": "nǚ de zěn me qù xué xiào ？"
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "男的猫多大？",
+     "correctAnswer": "A",
+     "explanation": "男的说猫两岁了。",
+     "audio": {
+      "key": "listening/v1/e89995d23a105d0ad0e543c7fcb577f010c82af9115fae861b093e44fc50435e.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你的猫几岁了？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "它两岁了，很可爱。"
+       }
+      ],
+      "transcript": "你的猫几岁了？ 它两岁了，很可爱。",
+      "transcriptPinyin": "nǐ de māo jǐ suì le ？  tā liǎng suì le ， hěn kě ài 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "两岁",
+       "pinyin": "liǎng suì"
+      },
+      {
+       "label": "B",
+       "text": "一岁",
+       "pinyin": "yī suì"
+      },
+      {
+       "label": "C",
+       "text": "三岁",
+       "pinyin": "sān suì"
+      }
+     ],
+     "pinyin": "nán de māo duō dà ？"
+    },
+    {
+     "id": "q7",
+     "type": "listening-mcq",
+     "prompt": "女的会什么？",
+     "correctAnswer": "C",
+     "explanation": "女的回答‘会，我游得很快’。",
+     "audio": {
+      "key": "listening/v1/e2db61e9f8b8777ed0dc0496e4d5323aca2e16553e24304e73e434446884d593.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你会游泳吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "会，我游得很快。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "太好了，我们明天一起去游泳吧。"
+       }
+      ],
+      "transcript": "你会游泳吗？ 会，我游得很快。 太好了，我们明天一起去游泳吧。",
+      "transcriptPinyin": "nǐ huì yóu yǒng ma ？  huì ， wǒ yóu dé hěn kuài 。  tài hǎo le ， wǒ men míng tiān yì qǐ qù yóu yǒng ba 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "打球",
+       "pinyin": "dǎ qiú"
+      },
+      {
+       "label": "B",
+       "text": "跑步",
+       "pinyin": "pǎo bù"
+      },
+      {
+       "label": "C",
+       "text": "游泳",
+       "pinyin": "yóu yǒng"
+      }
+     ],
+     "pinyin": "nǚ de huì shén me ？"
+    },
+    {
+     "id": "q8",
+     "type": "listening-mcq",
+     "prompt": "这本书是谁的？",
+     "correctAnswer": "A",
+     "explanation": "男的说‘是姐姐的’。",
+     "audio": {
+      "key": "listening/v1/df13ae3755bb100c590f642b8dc72c5fe47fc973ce42d0463ece42999b3dbebb.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "这本书是你的吗？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "不是，是姐姐的。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "那你能借给我看吗？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "当然可以。"
+       }
+      ],
+      "transcript": "这本书是你的吗？ 不是，是姐姐的。 那你能借给我看吗？ 当然可以。",
+      "transcriptPinyin": "zhè běn shū shì nǐ de ma ？  bú shì ， shì jiě jiě de 。  nà nǐ néng jiè gěi wǒ kàn ma ？  dāng rán kě yǐ 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "姐姐",
+       "pinyin": "jiě jiě"
+      },
+      {
+       "label": "B",
+       "text": "女的",
+       "pinyin": "nǚ de"
+      },
+      {
+       "label": "C",
+       "text": "男的",
+       "pinyin": "nán de"
+      }
+     ],
+     "pinyin": "zhè běn shū shì shéi de ？"
+    },
+    {
+     "id": "q9",
+     "type": "listening-mcq",
+     "prompt": "妈妈在做什么？",
+     "correctAnswer": "B",
+     "explanation": "女的说‘她正在做饭呢’。",
+     "audio": {
+      "key": "listening/v1/bbde4263066e5275d560ee2203b77e2759d83d0b5215a9e3217e0158450dec09.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你妈妈在做什么？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "她正在做饭呢。"
+       }
+      ],
+      "transcript": "你妈妈在做什么？ 她正在做饭呢。",
+      "transcriptPinyin": "nǐ mā mā zài zuò shén me ？  tā zhèng zài zuò fàn ne 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "看书",
+       "pinyin": "kàn shū"
+      },
+      {
+       "label": "B",
+       "text": "做饭",
+       "pinyin": "zuò fàn"
+      },
+      {
+       "label": "C",
+       "text": "睡觉",
+       "pinyin": "shuì jiào"
+      }
+     ],
+     "pinyin": "mā mā zài zuò shén me ？"
+    },
+    {
+     "id": "q10",
+     "type": "listening-mcq",
+     "prompt": "女的喜欢什么颜色？",
+     "correctAnswer": "A",
+     "explanation": "女的说‘我喜欢红色’。",
+     "audio": {
+      "key": "listening/v1/7a3c3c5c5c841770233fcb6842151f5dfb26e3f33ca9a710b835d1109c77c667.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你喜欢什么颜色？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我喜欢蓝色，你呢？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我喜欢红色。"
+       }
+      ],
+      "transcript": "你喜欢什么颜色？ 我喜欢蓝色，你呢？ 我喜欢红色。",
+      "transcriptPinyin": "nǐ xǐ huān shén me yán sè ？  wǒ xǐ huān lán sè ， nǐ ne ？  wǒ xǐ huān hóng sè 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "红色",
+       "pinyin": "hóng sè"
+      },
+      {
+       "label": "B",
+       "text": "蓝色",
+       "pinyin": "lán sè"
+      },
+      {
+       "label": "C",
+       "text": "黄色",
+       "pinyin": "huáng sè"
+      }
+     ],
+     "pinyin": "nǚ de xǐ huān shén me yán sè ？"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

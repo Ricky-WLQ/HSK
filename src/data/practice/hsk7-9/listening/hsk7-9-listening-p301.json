@@ -1,0 +1,161 @@
+{
+ "id": "hsk7-9-listening-p301",
+ "level": "7-9",
+ "section": "listening",
+ "partKey": "listening-p3",
+ "title": "HSK7-9 Listening P3",
+ "titleZh": "听力 第三部分（听讲座选填答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听一段关于人工智能在医疗领域应用的讲座，然后回答6个问题。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "人工智能在医疗领域的哪个方面应用最为突出？",
+     "correctAnswer": "B",
+     "explanation": "讲座第一句明确指出人工智能在影像诊断和个性化治疗方案设计方面潜力巨大，且后续例子均围绕影像诊断，因此影像诊断是最突出的应用。",
+     "options": [
+      {
+       "label": "A",
+       "text": "药物研发"
+      },
+      {
+       "label": "B",
+       "text": "影像诊断"
+      },
+      {
+       "label": "C",
+       "text": "手术机器人"
+      },
+      {
+       "label": "D",
+       "text": "病历管理"
+      }
+     ]
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "文中提到AI在识别肿瘤方面有什么特点？",
+     "correctAnswer": "D",
+     "explanation": "讲座中提到深度学习算法辅助医生识别肿瘤，准确率甚至超过部分资深放射科专家，因此准确率可超过部分专家。",
+     "options": [
+      {
+       "label": "A",
+       "text": "成本高"
+      },
+      {
+       "label": "B",
+       "text": "速度慢"
+      },
+      {
+       "label": "C",
+       "text": "准确率低于人类"
+      },
+      {
+       "label": "D",
+       "text": "准确率可超过部分专家"
+      }
+     ]
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "AI决策过程缺乏透明度被称为什么问题？",
+     "correctAnswer": "D",
+     "explanation": "讲座中明确提到AI决策过程缺乏透明度，即所谓的“黑箱”问题。",
+     "options": [
+      {
+       "label": "A",
+       "text": "数据泄露"
+      },
+      {
+       "label": "B",
+       "text": "算法偏差"
+      },
+      {
+       "label": "C",
+       "text": "伦理困境"
+      },
+      {
+       "label": "D",
+       "text": "黑箱问题"
+      }
+     ]
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "根据讲座，医生在采用AI建议时应保持什么态度？",
+     "correctAnswer": "A",
+     "explanation": "讲座中指出由于AI的“黑箱”问题，医生在采纳AI建议时需保持审慎。",
+     "options": [
+      {
+       "label": "A",
+       "text": "审慎"
+      },
+      {
+       "label": "B",
+       "text": "漠不关心"
+      },
+      {
+       "label": "C",
+       "text": "拒绝"
+      },
+      {
+       "label": "D",
+       "text": "完全信任"
+      }
+     ]
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "讲座提到AI在医疗领域面临的挑战不包括以下哪项？",
+     "correctAnswer": "B",
+     "explanation": "讲座中提到的挑战包括黑箱问题、数据隐私和伦理规范，并未提及算法成本。",
+     "options": [
+      {
+       "label": "A",
+       "text": "数据隐私"
+      },
+      {
+       "label": "B",
+       "text": "算法成本"
+      },
+      {
+       "label": "C",
+       "text": "伦理规范"
+      },
+      {
+       "label": "D",
+       "text": "黑箱问题"
+      }
+     ]
+    },
+    {
+     "id": "q6",
+     "type": "listening-dictation",
+     "prompt": "填空：讲座中认为，随着算法优化和____的深入，AI有望提升医疗服务效率。",
+     "correctAnswer": "跨学科合作",
+     "explanation": "讲座最后一句提到：随着算法不断优化和跨学科合作的深入，AI有望大幅提升医疗服务的效率与质量。因此答案为跨学科合作。"
+    }
+   ],
+   "audio": {
+    "key": "listening/v1/997d72c1706208f883af7d78aacb00f74579d629ab9e8a00051d69154732316c.mp3",
+    "lines": [
+     {
+      "speaker": "旁白",
+      "voice": "narrator",
+      "text": "近年来，人工智能在医疗领域的应用日益广泛，尤其在影像诊断和个性化治疗方案设计方面展现出巨大潜力。例如，深度学习算法能够通过分析大量医学影像数据，辅助医生快速识别肿瘤或病变区域，准确率甚至超过部分资深放射科专家。然而，AI并非万能，其决策过程往往缺乏透明度，即所谓的“黑箱”问题，这使得医生在采纳AI建议时仍需保持审慎。此外，数据隐私和伦理规范也是亟待解决的挑战。尽管如此，随着算法不断优化和跨学科合作的深入，AI有望在未来大幅提升医疗服务的效率与质量。"
+     }
+    ],
+    "transcript": "近年来，人工智能在医疗领域的应用日益广泛，尤其在影像诊断和个性化治疗方案设计方面展现出巨大潜力。例如，深度学习算法能够通过分析大量医学影像数据，辅助医生快速识别肿瘤或病变区域，准确率甚至超过部分资深放射科专家。然而，AI并非万能，其决策过程往往缺乏透明度，即所谓的“黑箱”问题，这使得医生在采纳AI建议时仍需保持审慎。此外，数据隐私和伦理规范也是亟待解决的挑战。尽管如此，随着算法不断优化和跨学科合作的深入，AI有望在未来大幅提升医疗服务的效率与质量。",
+    "transcriptPinyin": null
+   }
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

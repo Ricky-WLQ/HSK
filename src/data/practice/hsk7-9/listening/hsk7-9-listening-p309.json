@@ -1,0 +1,161 @@
+{
+ "id": "hsk7-9-listening-p309",
+ "level": "7-9",
+ "section": "listening",
+ "partKey": "listening-p3",
+ "title": "HSK7-9 Listening P3",
+ "titleZh": "听力 第三部分（听讲座选填答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "第1到6题，请听下面一段独白，然后根据独白内容回答问题。独白只读一遍。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "区块链技术的核心是什么？",
+     "correctAnswer": "A",
+     "explanation": "原文明确指出区块链的核心在于去中心化。",
+     "options": [
+      {
+       "label": "A",
+       "text": "去中心化"
+      },
+      {
+       "label": "B",
+       "text": "智能合约"
+      },
+      {
+       "label": "C",
+       "text": "分布式存储"
+      },
+      {
+       "label": "D",
+       "text": "中心化"
+      }
+     ]
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "区块链的重要应用之一是什么？",
+     "correctAnswer": "C",
+     "explanation": "原文提到智能合约是区块链的重要应用之一。",
+     "options": [
+      {
+       "label": "A",
+       "text": "加密算法"
+      },
+      {
+       "label": "B",
+       "text": "共识机制"
+      },
+      {
+       "label": "C",
+       "text": "智能合约"
+      },
+      {
+       "label": "D",
+       "text": "跨境支付"
+      }
+     ]
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "区块链面临的主要问题是什么？",
+     "correctAnswer": "A",
+     "explanation": "原文指出区块链面临着扩展性不足和能源消耗大的问题，其中扩展性不足是主要问题之一。",
+     "options": [
+      {
+       "label": "A",
+       "text": "扩展性不足"
+      },
+      {
+       "label": "B",
+       "text": "效率低下"
+      },
+      {
+       "label": "C",
+       "text": "安全性低"
+      },
+      {
+       "label": "D",
+       "text": "成本过高"
+      }
+     ]
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "区块链如何影响跨境支付？",
+     "correctAnswer": "D",
+     "explanation": "原文提到跨境支付通过区块链可以大幅降低成本和时间。",
+     "options": [
+      {
+       "label": "A",
+       "text": "提高成本"
+      },
+      {
+       "label": "B",
+       "text": "增加时间"
+      },
+      {
+       "label": "C",
+       "text": "增加安全性"
+      },
+      {
+       "label": "D",
+       "text": "降低成本和时间"
+      }
+     ]
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "关于区块链的未来，以下哪项正确？",
+     "correctAnswer": "B",
+     "explanation": "原文指出未来区块链有望在更多领域发挥重要作用。",
+     "options": [
+      {
+       "label": "A",
+       "text": "将被淘汰"
+      },
+      {
+       "label": "B",
+       "text": "有望在更多领域发挥作用"
+      },
+      {
+       "label": "C",
+       "text": "仅在金融领域应用"
+      },
+      {
+       "label": "D",
+       "text": "无法解决扩展性问题"
+      }
+     ]
+    },
+    {
+     "id": "q6",
+     "type": "listening-dictation",
+     "prompt": "智能合约允许在没有______的情况下进行可信交易。",
+     "correctAnswer": "第三方",
+     "explanation": "原文说智能合约允许在没有第三方的情况下进行可信交易。"
+    }
+   ],
+   "audio": {
+    "key": "listening/v1/de0fc910d36aa0c90d2ed211f7c08b598feb9b69d57273aab79d73b4f49f3c59.mp3",
+    "lines": [
+     {
+      "speaker": "旁白",
+      "voice": "narrator",
+      "text": "各位听众，今天我们来探讨区块链技术。区块链本质上是一种分布式账本技术，其核心在于去中心化。与传统中心化数据库不同，区块链通过共识机制确保数据的一致性和不可篡改性。智能合约则是区块链的重要应用之一，它允许在没有第三方的情况下进行可信交易。然而，区块链也面临着扩展性不足和能源消耗大的问题。尽管如此，它在金融、供应链管理等领域的前景依然广阔。例如，跨境支付通过区块链可以大幅降低成本和时间。未来，随着技术的发展，区块链有望在更多领域发挥重要作用。"
+     }
+    ],
+    "transcript": "各位听众，今天我们来探讨区块链技术。区块链本质上是一种分布式账本技术，其核心在于去中心化。与传统中心化数据库不同，区块链通过共识机制确保数据的一致性和不可篡改性。智能合约则是区块链的重要应用之一，它允许在没有第三方的情况下进行可信交易。然而，区块链也面临着扩展性不足和能源消耗大的问题。尽管如此，它在金融、供应链管理等领域的前景依然广阔。例如，跨境支付通过区块链可以大幅降低成本和时间。未来，随着技术的发展，区块链有望在更多领域发挥重要作用。",
+    "transcriptPinyin": null
+   }
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

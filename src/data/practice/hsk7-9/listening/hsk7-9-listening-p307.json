@@ -1,0 +1,143 @@
+{
+ "id": "hsk7-9-listening-p307",
+ "level": "7-9",
+ "section": "listening",
+ "partKey": "listening-p3",
+ "title": "HSK7-9 Listening P3",
+ "titleZh": "听力 第三部分（听讲座选填答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听一段关于丝绸之路历史意义的讲座，然后回答问题。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "丝绸之路最初是由谁开辟的？",
+     "correctAnswer": "D",
+     "explanation": "讲座明确指出，张骞出使西域，开辟了丝绸之路。",
+     "options": [
+      {
+       "label": "A",
+       "text": "玄奘"
+      },
+      {
+       "label": "B",
+       "text": "郑和"
+      },
+      {
+       "label": "C",
+       "text": "班超"
+      },
+      {
+       "label": "D",
+       "text": "张骞"
+      }
+     ]
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "根据讲座，丝绸之路除了贸易还传播了什么？",
+     "correctAnswer": "A",
+     "explanation": "讲座中提到，沿途不仅交换了商品，还传播了文化、宗教和技术。",
+     "options": [
+      {
+       "label": "A",
+       "text": "文化、宗教和技术"
+      },
+      {
+       "label": "B",
+       "text": "香料"
+      },
+      {
+       "label": "C",
+       "text": "丝绸"
+      },
+      {
+       "label": "D",
+       "text": "货币"
+      }
+     ]
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "佛教通过哪条路线传入中国？",
+     "correctAnswer": "C",
+     "explanation": "讲座举例说明佛教就是通过丝绸之路（即陆上丝绸之路）传入中国的。",
+     "options": [
+      {
+       "label": "A",
+       "text": "茶马古道"
+      },
+      {
+       "label": "B",
+       "text": "草原丝绸之路"
+      },
+      {
+       "label": "C",
+       "text": "陆上丝绸之路"
+      },
+      {
+       "label": "D",
+       "text": "海上丝绸之路"
+      }
+     ]
+    },
+    {
+     "id": "q4",
+     "type": "listening-dictation",
+     "prompt": "讲座中提到，陆上丝绸之路衰落的主要原因是______的兴起。",
+     "correctAnswer": "海上贸易",
+     "explanation": "讲座说“随着海上贸易的兴起，陆上丝绸之路逐渐衰落”。"
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "讲座认为，丝绸之路的现代继承体现在哪个倡议中？",
+     "correctAnswer": "D",
+     "explanation": "讲座提到“一带一路”倡议是对丝绸之路精神的继承与发展。",
+     "options": [
+      {
+       "label": "A",
+       "text": "亚太经合组织"
+      },
+      {
+       "label": "B",
+       "text": "上海合作组织"
+      },
+      {
+       "label": "C",
+       "text": "亚投行"
+      },
+      {
+       "label": "D",
+       "text": "一带一路"
+      }
+     ]
+    },
+    {
+     "id": "q6",
+     "type": "listening-dictation",
+     "prompt": "丝绸之路促进繁荣的两个城市例子是敦煌和______。",
+     "correctAnswer": "撒马尔罕",
+     "explanation": "讲座中列举了敦煌和撒马尔罕作为沿线繁荣城市的例子。"
+    }
+   ],
+   "audio": {
+    "key": "listening/v1/eb70934ee316d2d3a21ba9b0d73802e393df548cf44bf19cbf8984423a78a719.mp3",
+    "lines": [
+     {
+      "speaker": "旁白",
+      "voice": "narrator",
+      "text": "大家好，今天我们来探讨一下丝绸之路的历史意义。丝绸之路不仅仅是一条贸易路线，更是一座连接东西方文明的桥梁。它始于汉代，张骞出使西域，开辟了这条通道。沿途不仅交换了丝绸、香料等商品，还传播了文化、宗教和技术。例如，佛教就是通过丝绸之路传入中国的。此外，丝绸之路促进了沿线城市的繁荣，比如敦煌、撒马尔罕等。然而，随着海上贸易的兴起，陆上丝绸之路逐渐衰落。但它的历史遗产至今仍在影响着我们，比如“一带一路”倡议就是对其精神的继承与发展。所以，理解丝绸之路，有助于我们把握当代全球化趋势。"
+     }
+    ],
+    "transcript": "大家好，今天我们来探讨一下丝绸之路的历史意义。丝绸之路不仅仅是一条贸易路线，更是一座连接东西方文明的桥梁。它始于汉代，张骞出使西域，开辟了这条通道。沿途不仅交换了丝绸、香料等商品，还传播了文化、宗教和技术。例如，佛教就是通过丝绸之路传入中国的。此外，丝绸之路促进了沿线城市的繁荣，比如敦煌、撒马尔罕等。然而，随着海上贸易的兴起，陆上丝绸之路逐渐衰落。但它的历史遗产至今仍在影响着我们，比如“一带一路”倡议就是对其精神的继承与发展。所以，理解丝绸之路，有助于我们把握当代全球化趋势。",
+    "transcriptPinyin": null
+   }
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

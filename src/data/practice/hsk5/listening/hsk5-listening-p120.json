@@ -1,0 +1,437 @@
+{
+ "id": "hsk5-listening-p120",
+ "level": "5",
+ "section": "listening",
+ "partKey": "listening-p1",
+ "title": "HSK5 Listening P1",
+ "titleZh": "听力 第一部分（听对话选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听对话，然后回答问题。每个对话后有一个问题，从四个选项中选出正确答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "女的为什么觉得累？",
+     "correctAnswer": "C",
+     "explanation": "对话中女的说因为新项目赶进度，每天加班到很晚，这属于工作压力大的表现，所以正确答案是工作压力大。",
+     "audio": {
+      "key": "listening/v1/da6b43a1e0549aae20e639932a31aaa5dac134d149a2f7d027107524847c856c.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你最近看起来总是很累，工作太忙了吧？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "是啊，新项目赶进度，每天都要加班到很晚。"
+       }
+      ],
+      "transcript": "你最近看起来总是很累，工作太忙了吧？ 是啊，新项目赶进度，每天都要加班到很晚。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "运动过多"
+      },
+      {
+       "label": "B",
+       "text": "晚上失眠"
+      },
+      {
+       "label": "C",
+       "text": "工作压力大"
+      },
+      {
+       "label": "D",
+       "text": "身体不舒服"
+      }
+     ]
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "男的明天要做什么？",
+     "correctAnswer": "B",
+     "explanation": "对话中男的说要陪妈妈去医院做检查，所以明天要去医院。",
+     "audio": {
+      "key": "listening/v1/c4196ce22c1c1311f730b4d6774a49178b9ffdd10dfcd6a6a7f06ddc6734c293.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "明天周末，我们去看电影吧？最近有部科幻片评分很高。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我倒是想去，但明天要陪妈妈去医院做检查。"
+       }
+      ],
+      "transcript": "明天周末，我们去看电影吧？最近有部科幻片评分很高。 我倒是想去，但明天要陪妈妈去医院做检查。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "看电影"
+      },
+      {
+       "label": "B",
+       "text": "去医院"
+      },
+      {
+       "label": "C",
+       "text": "加班"
+      },
+      {
+       "label": "D",
+       "text": "陪妈妈逛街"
+      }
+     ]
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "女的认为哪科复习有困难？",
+     "correctAnswer": "B",
+     "explanation": "女的说数学和英语还行，但历史知识点太多怕记不住，所以历史复习有困难。",
+     "audio": {
+      "key": "listening/v1/0beae554776d491d253b18b51f58681b40a3c982d91548b9a774c5cbf51bf920.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "这次考试你准备得怎么样？我看你一直在复习。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "数学和英语还行，就是历史知识点太多，怕记不住。"
+       }
+      ],
+      "transcript": "这次考试你准备得怎么样？我看你一直在复习。 数学和英语还行，就是历史知识点太多，怕记不住。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "英语"
+      },
+      {
+       "label": "B",
+       "text": "历史"
+      },
+      {
+       "label": "C",
+       "text": "数学"
+      },
+      {
+       "label": "D",
+       "text": "所有科目"
+      }
+     ]
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "关于男的的情况，下面哪个正确？",
+     "correctAnswer": "C",
+     "explanation": "男的说话已经退烧了，但还有点咳嗽，所以正确选项是还有点咳嗽。",
+     "audio": {
+      "key": "listening/v1/9c129d4b951a48b993513a2d3b62931dafe72ea0581207774987abf517a34483.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你昨天发的高烧，今天感觉好点了吗？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "好多了，已经退烧了，就是还有点咳嗽。"
+       }
+      ],
+      "transcript": "你昨天发的高烧，今天感觉好点了吗？ 好多了，已经退烧了，就是还有点咳嗽。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "已经完全不咳嗽了"
+      },
+      {
+       "label": "B",
+       "text": "还在发高烧"
+      },
+      {
+       "label": "C",
+       "text": "还有点咳嗽"
+      },
+      {
+       "label": "D",
+       "text": "身体基本恢复了"
+      }
+     ]
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "女的觉得这家餐厅有什么问题？",
+     "correctAnswer": "D",
+     "explanation": "女的说服务态度也不太行，上菜慢，所以她认为服务方面有问题。",
+     "audio": {
+      "key": "listening/v1/854973c877363387af802033e0740368e94a6c8d4c97f9ab11592f9ed78edf16.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "这家餐厅的菜味道不错，但价格有点贵。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "是啊，而且服务态度也不太行，上菜太慢了。"
+       }
+      ],
+      "transcript": "这家餐厅的菜味道不错，但价格有点贵。 是啊，而且服务态度也不太行，上菜太慢了。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "价格便宜"
+      },
+      {
+       "label": "B",
+       "text": "环境太吵"
+      },
+      {
+       "label": "C",
+       "text": "菜不好吃"
+      },
+      {
+       "label": "D",
+       "text": "服务态度不好"
+      }
+     ]
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "男的暑假计划是什么？",
+     "correctAnswer": "B",
+     "explanation": "男的说要参加一个编程培训班，所以他的计划是参加培训。",
+     "audio": {
+      "key": "listening/v1/0b02a08af35be306949680674fe5f99aa82290b157197e24030def2d21186170.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你暑假打算做什么？我准备去云南旅游。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我要参加一个编程培训班，提高一下专业技能。"
+       }
+      ],
+      "transcript": "你暑假打算做什么？我准备去云南旅游。 我要参加一个编程培训班，提高一下专业技能。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "在家休息"
+      },
+      {
+       "label": "B",
+       "text": "参加培训"
+      },
+      {
+       "label": "C",
+       "text": "找实习工作"
+      },
+      {
+       "label": "D",
+       "text": "去云南旅游"
+      }
+     ]
+    },
+    {
+     "id": "q7",
+     "type": "listening-mcq",
+     "prompt": "女的在看什么类型的书？",
+     "correctAnswer": "C",
+     "explanation": "女的说是一本幽默小说，所以正在看幽默小说。",
+     "audio": {
+      "key": "listening/v1/44af4a0af132f0cf070dbf616fee870e7dffadbeb1b244765ef836d801785516.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你手里的这本书很有意思吗？我看你一直笑。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "嗯，是一本幽默小说，作者把生活小事写得特别搞笑。"
+       }
+      ],
+      "transcript": "你手里的这本书很有意思吗？我看你一直笑。 嗯，是一本幽默小说，作者把生活小事写得特别搞笑。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "历史书"
+      },
+      {
+       "label": "B",
+       "text": "言情小说"
+      },
+      {
+       "label": "C",
+       "text": "幽默小说"
+      },
+      {
+       "label": "D",
+       "text": "科幻小说"
+      }
+     ]
+    },
+    {
+     "id": "q8",
+     "type": "listening-mcq",
+     "prompt": "男的现在怎么去上班？",
+     "correctAnswer": "A",
+     "explanation": "男的说骑自行车只要十五分钟就到公司，所以他现在骑自行车上班。",
+     "audio": {
+      "key": "listening/v1/ffb026be106d42d6634d97f88f06ac6a2ecd8df8649dffc0309a5b2a8e17bd47.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "听说你搬家了，新家离公司远不远？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "比以前近多了，骑自行车只要十五分钟就到公司了。"
+       }
+      ],
+      "transcript": "听说你搬家了，新家离公司远不远？ 比以前近多了，骑自行车只要十五分钟就到公司了。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "骑自行车"
+      },
+      {
+       "label": "B",
+       "text": "走路"
+      },
+      {
+       "label": "C",
+       "text": "坐公交车"
+      },
+      {
+       "label": "D",
+       "text": "开车"
+      }
+     ]
+    },
+    {
+     "id": "q9",
+     "type": "listening-mcq",
+     "prompt": "女的打算做什么？",
+     "correctAnswer": "A",
+     "explanation": "女的说教男的简单的计算方法，所以她要教方法。",
+     "audio": {
+      "key": "listening/v1/b67eff91a6e749f895855348dc3dc742ca852dd7fd1550d9996fe27b958b3268.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "这道数学题太难了，我算了好久都没算出来。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "别急，我教你一个简单的计算方法，马上就能算出来。"
+       }
+      ],
+      "transcript": "这道数学题太难了，我算了好久都没算出来。 别急，我教你一个简单的计算方法，马上就能算出来。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "教男的方法"
+      },
+      {
+       "label": "B",
+       "text": "帮男的算题"
+      },
+      {
+       "label": "C",
+       "text": "换一道题"
+      },
+      {
+       "label": "D",
+       "text": "让男的多想想"
+      }
+     ]
+    },
+    {
+     "id": "q10",
+     "type": "listening-mcq",
+     "prompt": "关于明天同学聚会，男的什么态度？",
+     "correctAnswer": "B",
+     "explanation": "男的说尽量，但不知道能不能赶得上，说明他还不确定能否参加。",
+     "audio": {
+      "key": "listening/v1/56b959db63550fb72191c8d696b4e5e1f81138def6ea5435b327d4b2ee81ecad.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "明天同学聚会，大家都说好久没见到你了，你一定要来啊。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我尽量吧，但明天下午有个重要会议，不知道能不能赶得上。"
+       }
+      ],
+      "transcript": "明天同学聚会，大家都说好久没见到你了，你一定要来啊。 我尽量吧，但明天下午有个重要会议，不知道能不能赶得上。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "不去"
+      },
+      {
+       "label": "B",
+       "text": "不确定能不能去"
+      },
+      {
+       "label": "C",
+       "text": "一定去"
+      },
+      {
+       "label": "D",
+       "text": "建议改时间"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

@@ -1,0 +1,64 @@
+{
+ "id": "hsk7-9-listening-p117",
+ "level": "7-9",
+ "section": "listening",
+ "partKey": "listening-p1",
+ "title": "HSK7-9 Listening P1",
+ "titleZh": "听力 第一部分（判断对错）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听一段录音，然后判断下列句子是否与录音内容一致。一致的请选“对”，不一致的请选“错”。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-statement-true-false",
+     "prompt": "新垃圾分类管理办法将于2025年1月1日起实施。",
+     "correctAnswer": "对",
+     "explanation": "录音中明确说该办法将于2025年1月1日起正式实施。"
+    },
+    {
+     "id": "q2",
+     "type": "listening-statement-true-false",
+     "prompt": "居民可以在一天中的任何时间投放垃圾。",
+     "correctAnswer": "错",
+     "explanation": "录音规定每天只有早上7点到9点、晚上6点到8点两个时间段可以投放，并非任何时间。"
+    },
+    {
+     "id": "q3",
+     "type": "listening-statement-true-false",
+     "prompt": "对违规投放的罚款金额从200元降低到150元。",
+     "correctAnswer": "错",
+     "explanation": "录音说罚款金额从原来的200元提高到500元，不是降低。"
+    },
+    {
+     "id": "q4",
+     "type": "listening-statement-true-false",
+     "prompt": "新办法鼓励社区建立积分奖励制度，居民可累积积分兑换生活用品。",
+     "correctAnswer": "对",
+     "explanation": "录音提到新办法鼓励社区建立积分奖励制度，居民正确分类可累积积分兑换生活用品。"
+    },
+    {
+     "id": "q5",
+     "type": "listening-statement-true-false",
+     "prompt": "新办法适用于北京市的全部区域。",
+     "correctAnswer": "错",
+     "explanation": "录音指出该办法目前只适用于城区，郊区暂缓执行，并非全部区域。"
+    }
+   ],
+   "audio": {
+    "key": "listening/v1/04625625e2ba4e7c9d7c5cfab6a51b3be5c6c38bc7aef207103a43465b5e7eb4.mp3",
+    "lines": [
+     {
+      "speaker": "旁白",
+      "voice": "narrator",
+      "text": "各位听众，欢迎收听本期新闻观察。近日，北京市政府公布了最新的垃圾分类管理办法，该办法将于2025年1月1日起正式实施。与以往不同的是，新办法对居民投放垃圾的时间做了严格规定，每天只有早上7点到9点、晚上6点到8点两个时间段可以投放。同时，对于不按规定分类投放的行为，罚款金额从原来的200元提高到500元。此外，新办法还鼓励社区建立积分奖励制度，居民正确分类可累积积分兑换生活用品。但值得注意的是，该办法目前只适用于城区，郊区暂缓执行。环保专家表示，这一措施将有助于提高垃圾回收率，减少环境污染。"
+     }
+    ],
+    "transcript": "各位听众，欢迎收听本期新闻观察。近日，北京市政府公布了最新的垃圾分类管理办法，该办法将于2025年1月1日起正式实施。与以往不同的是，新办法对居民投放垃圾的时间做了严格规定，每天只有早上7点到9点、晚上6点到8点两个时间段可以投放。同时，对于不按规定分类投放的行为，罚款金额从原来的200元提高到500元。此外，新办法还鼓励社区建立积分奖励制度，居民正确分类可累积积分兑换生活用品。但值得注意的是，该办法目前只适用于城区，郊区暂缓执行。环保专家表示，这一措施将有助于提高垃圾回收率，减少环境污染。",
+    "transcriptPinyin": null
+   }
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

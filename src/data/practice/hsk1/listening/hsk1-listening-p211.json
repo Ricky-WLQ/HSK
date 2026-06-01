@@ -1,0 +1,202 @@
+{
+ "id": "hsk1-listening-p211",
+ "level": "1",
+ "section": "listening",
+ "partKey": "listening-p2",
+ "title": "HSK1 Listening P2",
+ "titleZh": "听力 第二部分（听句子选答语）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听录音，根据录音内容选择正确的答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "他们去哪里？",
+     "correctAnswer": "A",
+     "explanation": "独白中说‘我们去公园玩’，所以答案是公园。",
+     "audio": {
+      "key": "listening/v1/9cf795a2c7b7cc0c52d242e0b7a1287d08e89940ccb6d45082613d6ed0f38303.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "今天天气很好，我们去公园玩。"
+       }
+      ],
+      "transcript": "今天天气很好，我们去公园玩。",
+      "transcriptPinyin": "jīn tiān tiān qì hěn hǎo ， wǒ men qù gōng yuán wán 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "公园",
+       "pinyin": "gōng yuán"
+      },
+      {
+       "label": "B",
+       "text": "家",
+       "pinyin": "jiā"
+      },
+      {
+       "label": "C",
+       "text": "学校",
+       "pinyin": "xué xiào"
+      }
+     ],
+     "pinyin": "tā men qù nǎ lǐ ？"
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "他有什么？",
+     "correctAnswer": "B",
+     "explanation": "独白中说‘我有一个苹果’，所以是一个苹果。",
+     "audio": {
+      "key": "listening/v1/478a7b2659db536f899cf3e670a8660ed8cfc9531eb2f1485b80585aeff89076.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我有一个苹果，两个香蕉。"
+       }
+      ],
+      "transcript": "我有一个苹果，两个香蕉。",
+      "transcriptPinyin": "wǒ yǒu yí gè píng guǒ ， liǎng gè xiāng jiāo 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "一个香蕉",
+       "pinyin": "yí gè xiāng jiāo"
+      },
+      {
+       "label": "B",
+       "text": "一个苹果",
+       "pinyin": "yí gè píng guǒ"
+      },
+      {
+       "label": "C",
+       "text": "两个苹果",
+       "pinyin": "liǎng gè píng guǒ"
+      }
+     ],
+     "pinyin": "tā yǒu shén me ？"
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "他妈妈做什么工作？",
+     "correctAnswer": "C",
+     "explanation": "独白中说‘妈妈是医生’，所以妈妈是医生。",
+     "audio": {
+      "key": "listening/v1/2a2cd8b4ef1abaf8b2ffc2e3c1aa13a762c90d0f60e69e389ec01fc093a3674d.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我爸爸是老师，妈妈是医生。"
+       }
+      ],
+      "transcript": "我爸爸是老师，妈妈是医生。",
+      "transcriptPinyin": "wǒ bà bà shì lǎo shī ， mā mā shì yī shēng 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "学生",
+       "pinyin": "xué shēng"
+      },
+      {
+       "label": "B",
+       "text": "老师",
+       "pinyin": "lǎo shī"
+      },
+      {
+       "label": "C",
+       "text": "医生",
+       "pinyin": "yī shēng"
+      }
+     ],
+     "pinyin": "tā mā mā zuò shén me gōng zuò ？"
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "他几点上课？",
+     "correctAnswer": "C",
+     "explanation": "独白中说‘我九点上课’，所以上课时间是九点。",
+     "audio": {
+      "key": "listening/v1/9de0e0a46f408d7d0053a37b0fc9655bfe496818e728ad263da1a8d80bc1068d.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "现在八点，我九点上课。"
+       }
+      ],
+      "transcript": "现在八点，我九点上课。",
+      "transcriptPinyin": "xiàn zài bā diǎn ， wǒ jiǔ diǎn shàng kè 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "八点",
+       "pinyin": "bā diǎn"
+      },
+      {
+       "label": "B",
+       "text": "十点",
+       "pinyin": "shí diǎn"
+      },
+      {
+       "label": "C",
+       "text": "九点",
+       "pinyin": "jiǔ diǎn"
+      }
+     ],
+     "pinyin": "tā jǐ diǎn shàng kè ？"
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "他喜欢什么颜色？",
+     "correctAnswer": "A",
+     "explanation": "独白中说‘我喜欢红色’，所以喜欢的颜色是红色。",
+     "audio": {
+      "key": "listening/v1/3fac0052ce52e54aff89b70a8c0f6a148365e7e04651028adc462243d192f5a9.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我喜欢红色，不喜欢蓝色。"
+       }
+      ],
+      "transcript": "我喜欢红色，不喜欢蓝色。",
+      "transcriptPinyin": "wǒ xǐ huān hóng sè ， bù xǐ huān lán sè 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "红色",
+       "pinyin": "hóng sè"
+      },
+      {
+       "label": "B",
+       "text": "黄色",
+       "pinyin": "huáng sè"
+      },
+      {
+       "label": "C",
+       "text": "蓝色",
+       "pinyin": "lán sè"
+      }
+     ],
+     "pinyin": "tā xǐ huān shén me yán sè ？"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

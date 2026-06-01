@@ -1,0 +1,289 @@
+{
+ "id": "hsk2-listening-p219",
+ "level": "2",
+ "section": "listening",
+ "partKey": "listening-p2",
+ "title": "HSK2 Listening P2",
+ "titleZh": "听力 第二部分（看图听对话）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听录音，选出与对话内容相符的图片。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "A",
+     "explanation": "对话中女方说“看一本中文书”，对应图片A中的男人在看书。",
+     "audio": {
+      "key": "listening/v1/b98c1509d88318b364d3a453fbd7080c46e42c16cd7b8b2635e3dfe8beb0321f.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你在看什么？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我在看一本中文书。"
+       }
+      ],
+      "transcript": "你在看什么？ 我在看一本中文书。",
+      "transcriptPinyin": "nǐ zài kàn shén me ？  wǒ zài kàn yī běn zhōng wén shū 。"
+     }
+    },
+    {
+     "id": "q2",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "B",
+     "explanation": "对话提到“打电话”和“说话”，对应图片B中的女人在打电话。",
+     "audio": {
+      "key": "listening/v1/d8965d3eb6442ea9efbd5ed2bedf3286d0252f1df6b28a288eaf91cb2fa20403.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "妈妈在打电话吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "是的，她和朋友说话。"
+       }
+      ],
+      "transcript": "妈妈在打电话吗？ 是的，她和朋友说话。",
+      "transcriptPinyin": "mā mā zài dǎ diàn huà ma ？  shì de ， tā hé péng yǒu shuō huà 。"
+     }
+    },
+    {
+     "id": "q3",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "C",
+     "explanation": "对话说猫在“睡觉”，对应图片C中的猫在睡觉。",
+     "audio": {
+      "key": "listening/v1/b3ce11fdb88e6009631d66860632269fec541d8d91dfa34cec7d336640577306.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "那只猫在做什么？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "它正在睡觉，不要叫它。"
+       }
+      ],
+      "transcript": "那只猫在做什么？ 它正在睡觉，不要叫它。",
+      "transcriptPinyin": "nà zhǐ māo zài zuò shén me ？  tā zhèng zài shuì jiào ， bú yào jiào tā 。"
+     }
+    },
+    {
+     "id": "q4",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "D",
+     "explanation": "对话中提到“骑自行车”，对应图片D中的男孩在骑自行车。",
+     "audio": {
+      "key": "listening/v1/1a11db044b89bda272539ddefcc599586695e4d703c0d133dd4fb752f63a5796.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "那个男孩在骑什么？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "他骑的是新自行车。"
+       }
+      ],
+      "transcript": "那个男孩在骑什么？ 他骑的是新自行车。",
+      "transcriptPinyin": "nà ge nán hái zài qí shén me ？  tā qí de shì xīn zì xíng chē 。"
+     }
+    },
+    {
+     "id": "q5",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "E",
+     "explanation": "对话说“喝水”，对应图片E中的女孩在喝水。",
+     "audio": {
+      "key": "listening/v1/9a708f999dfa4daa2fef804bd3acc4295f1b74f7fd6bbe20f3eca1f8b28a31b5.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "她渴了吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "对，她一直在喝水。"
+       }
+      ],
+      "transcript": "她渴了吗？ 对，她一直在喝水。",
+      "transcriptPinyin": "tā kě le ma ？  duì ， tā yì zhí zài hē shuǐ 。"
+     }
+    },
+    {
+     "id": "q6",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "A",
+     "explanation": "对话提到“看书”“读书”，再次对应图片A中的男人在看书。",
+     "audio": {
+      "key": "listening/v1/4bfefa86acd3e72cf75b37062e70e5056955eee386a654b0e307c71968d79e3c.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你每天都看书吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "是的，我喜欢读书。"
+       }
+      ],
+      "transcript": "你每天都看书吗？ 是的，我喜欢读书。",
+      "transcriptPinyin": "nǐ měi tiān dōu kàn shū ma ？  shì de ， wǒ xǐ huān dú shū 。"
+     }
+    },
+    {
+     "id": "q7",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "B",
+     "explanation": "对话提到“打电话”，对应图片B中的女人在打电话。",
+     "audio": {
+      "key": "listening/v1/55e64298383f5ad047e06dac3ecd3af1f75c3cef1897683c31d4479ad819fc73.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "电话响了，谁在打电话？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "是姐姐。"
+       }
+      ],
+      "transcript": "电话响了，谁在打电话？ 是姐姐。",
+      "transcriptPinyin": "diàn huà xiǎng le ， shuí zài dǎ diàn huà ？  shì jiě jiě 。"
+     }
+    },
+    {
+     "id": "q8",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "C",
+     "explanation": "对话说猫在“睡觉”，对应图片C中的猫在睡觉。",
+     "audio": {
+      "key": "listening/v1/7d0e2ccfae2639f046896e52855c896ab9cc21ac1d25041630483e9e19b6c994.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "猫在哪儿？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "它在沙发上睡觉。"
+       }
+      ],
+      "transcript": "猫在哪儿？ 它在沙发上睡觉。",
+      "transcriptPinyin": "māo zài nǎ ér ？  tā zài shā fā shàng shuì jiào 。"
+     }
+    },
+    {
+     "id": "q9",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "D",
+     "explanation": "对话提到“骑自行车”，对应图片D中的男孩在骑自行车。",
+     "audio": {
+      "key": "listening/v1/d7447f414616ed43119b858940b8c362bd857c830f94589b2bd80be1494b0d00.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你会骑自行车吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "会，我每天都骑。"
+       }
+      ],
+      "transcript": "你会骑自行车吗？ 会，我每天都骑。",
+      "transcriptPinyin": "nǐ huì qí zì xíng chē ma ？  huì ， wǒ měi tiān dōu qí 。"
+     }
+    },
+    {
+     "id": "q10",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "E",
+     "explanation": "对话说“喝水”，对应图片E中的女孩在喝水。",
+     "audio": {
+      "key": "listening/v1/efee169a6fd74c07737d80f8de23243a53bbcd72f7941cc53c18ba48b02d8434.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "她喝的是水吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "对，是水。"
+       }
+      ],
+      "transcript": "她喝的是水吗？ 对，是水。",
+      "transcriptPinyin": "tā hē de shì shuǐ ma ？  duì ， shì shuǐ 。"
+     }
+    }
+   ],
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-cd59031b6f7099487b3f30c81a871e98.png"
+    },
+    {
+     "label": "B",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-4845e5d722ee828da50722ff6de435f2.png"
+    },
+    {
+     "label": "C",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-ef60e8a80e2d8c406c1e471faa28a278.png"
+    },
+    {
+     "label": "D",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-433eb49aad1fbb8c8da33f301766f3a9.png"
+    },
+    {
+     "label": "E",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-75f3c81a613c48151de6e303f9e887f5.png"
+    },
+    {
+     "label": "F",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-bd610c03508292f890f986a040a7917a.png"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

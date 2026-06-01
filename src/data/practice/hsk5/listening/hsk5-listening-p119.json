@@ -1,0 +1,442 @@
+{
+ "id": "hsk5-listening-p119",
+ "level": "5",
+ "section": "listening",
+ "partKey": "listening-p1",
+ "title": "HSK5 Listening P1",
+ "titleZh": "听力 第一部分（听对话选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听对话，然后根据对话内容选择正确答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "女的为什么想买电动车？",
+     "correctAnswer": "D",
+     "explanation": "对话中女的提到地铁挤不上，所以决定买电动车。",
+     "audio": {
+      "key": "listening/v1/e8fccfc2d53857b37cd9cec54377706acce05459a6949a83de701f69d26fc484.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "小王，你最近怎么总是迟到？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "唉，我搬家了，现在住得离公司很远，地铁又挤不上。所以我决定买辆电动车。昨天去看了几个牌子。你觉得哪个好？"
+       }
+      ],
+      "transcript": "小王，你最近怎么总是迟到？ 唉，我搬家了，现在住得离公司很远，地铁又挤不上。所以我决定买辆电动车。昨天去看了几个牌子。你觉得哪个好？",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "因为她搬到了公司附近"
+      },
+      {
+       "label": "B",
+       "text": "因为她喜欢骑车"
+      },
+      {
+       "label": "C",
+       "text": "因为电动车便宜"
+      },
+      {
+       "label": "D",
+       "text": "因为地铁太挤了"
+      }
+     ]
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "女的为什么改时间？",
+     "correctAnswer": "D",
+     "explanation": "对话中女的提到冬天去看雪，所以改到了冬天。",
+     "audio": {
+      "key": "listening/v1/daec2e3df966509023e733b10aa777c4abdf58e438fd606db9bbb2da2a41bc88.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你打算什么时候去北京？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "本来想下个月去，但听说那时候人很多，所以我改到冬天了。反正我是去看雪，顺便爬长城。"
+       }
+      ],
+      "transcript": "你打算什么时候去北京？ 本来想下个月去，但听说那时候人很多，所以我改到冬天了。反正我是去看雪，顺便爬长城。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "因为不喜欢夏天"
+      },
+      {
+       "label": "B",
+       "text": "因为想去故宫"
+      },
+      {
+       "label": "C",
+       "text": "因为下个月人少"
+      },
+      {
+       "label": "D",
+       "text": "因为冬天有雪"
+      }
+     ]
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "女的学做饭的主要原因是什么？",
+     "correctAnswer": "D",
+     "explanation": "对话中女的提到叫外卖不健康，所以学做饭是为了健康。",
+     "audio": {
+      "key": "listening/v1/7a83a0ee8e2997ffaf9aea3c4128d31aefa86758d743a5953066dfe234fbc650.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "听说你最近在学做饭？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "对啊，以前都是叫外卖，但总吃也不健康。现在学会了几个家常菜，虽然味道一般，但至少干净卫生。"
+       }
+      ],
+      "transcript": "听说你最近在学做饭？ 对啊，以前都是叫外卖，但总吃也不健康。现在学会了几个家常菜，虽然味道一般，但至少干净卫生。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "为了请客"
+      },
+      {
+       "label": "B",
+       "text": "为了省钱"
+      },
+      {
+       "label": "C",
+       "text": "因为失业了"
+      },
+      {
+       "label": "D",
+       "text": "为了健康"
+      }
+     ]
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "女的为什么没看完小说？",
+     "correctAnswer": "B",
+     "explanation": "对话中女的提到加班太多没时间，所以没看完。",
+     "audio": {
+      "key": "listening/v1/074ff27295e88c5047af9f88cd764650f0b461c040241a986c7feb811adb3d42.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "这本小说你看完了吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "还没呢，作者写得挺有意思，但我最近加班太多，没时间看。等周末吧。"
+       }
+      ],
+      "transcript": "这本小说你看完了吗？ 还没呢，作者写得挺有意思，但我最近加班太多，没时间看。等周末吧。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "因为小说无聊"
+      },
+      {
+       "label": "B",
+       "text": "因为没时间"
+      },
+      {
+       "label": "C",
+       "text": "因为书太厚"
+      },
+      {
+       "label": "D",
+       "text": "因为不喜欢作者"
+      }
+     ]
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "他们打算什么时候去爬山？",
+     "correctAnswer": "B",
+     "explanation": "对话中女的建议周日去，因为周六有雨。",
+     "audio": {
+      "key": "listening/v1/1feec20295c3030d904e377e90544cd2a76f5b76c202fff83ebfcb69c6f2c702.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "周末一起去爬山吧？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "好啊，不过天气预报说周六有雨，周日才转晴。咱们周日去怎么样？"
+       }
+      ],
+      "transcript": "周末一起去爬山吧？ 好啊，不过天气预报说周六有雨，周日才转晴。咱们周日去怎么样？",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "今天"
+      },
+      {
+       "label": "B",
+       "text": "周日"
+      },
+      {
+       "label": "C",
+       "text": "下周末"
+      },
+      {
+       "label": "D",
+       "text": "周六"
+      }
+     ]
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "关于新工作，女的担心什么？",
+     "correctAnswer": "B",
+     "explanation": "对话中女的提到公司离家太远，这是她担心的原因。",
+     "audio": {
+      "key": "listening/v1/56199d1bca6e941c9944e10eddda5d6e0736adbeab0f91c220309e47fc3adf52.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你找到新工作了吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "找是找到了，但公司离家太远了。我还在考虑要不要去。"
+       }
+      ],
+      "transcript": "你找到新工作了吗？ 找是找到了，但公司离家太远了。我还在考虑要不要去。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "工资太低"
+      },
+      {
+       "label": "B",
+       "text": "距离太远"
+      },
+      {
+       "label": "C",
+       "text": "同事不好相处"
+      },
+      {
+       "label": "D",
+       "text": "工作太累"
+      }
+     ]
+    },
+    {
+     "id": "q7",
+     "type": "listening-mcq",
+     "prompt": "女的为什么不去健身房了？",
+     "correctAnswer": "A",
+     "explanation": "对话中女的提到觉得太累，坚持不下来。",
+     "audio": {
+      "key": "listening/v1/43cff6c93774b85e5a56115ca6b024a303864ffbfe890f7228cea4aadcaaffe9.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你最近怎么没去健身房？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "哎，别提了。我办了年卡，但去了几次就觉得太累，坚持不下来。现在想想真浪费。"
+       }
+      ],
+      "transcript": "你最近怎么没去健身房？ 哎，别提了。我办了年卡，但去了几次就觉得太累，坚持不下来。现在想想真浪费。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "因为坚持不了"
+      },
+      {
+       "label": "B",
+       "text": "因为离家远"
+      },
+      {
+       "label": "C",
+       "text": "因为太贵"
+      },
+      {
+       "label": "D",
+       "text": "因为太忙"
+      }
+     ]
+    },
+    {
+     "id": "q8",
+     "type": "listening-mcq",
+     "prompt": "女的为什么没接电话？",
+     "correctAnswer": "D",
+     "explanation": "对话中女的提到手机没电了，所以没接到。",
+     "audio": {
+      "key": "listening/v1/7e0ca4a61341d1e9de6f8f58b58fe2735c2fc6c1fd3743751998afa878408253.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你昨天晚上怎么没接我电话？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "不好意思，我手机没电了。而且我睡得早，十点就睡了。"
+       }
+      ],
+      "transcript": "你昨天晚上怎么没接我电话？ 不好意思，我手机没电了。而且我睡得早，十点就睡了。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "她生气了"
+      },
+      {
+       "label": "B",
+       "text": "她没听到"
+      },
+      {
+       "label": "C",
+       "text": "她手机坏了"
+      },
+      {
+       "label": "D",
+       "text": "她手机没电了"
+      }
+     ]
+    },
+    {
+     "id": "q9",
+     "type": "listening-mcq",
+     "prompt": "这个周末男的打算做什么？",
+     "correctAnswer": "B",
+     "explanation": "对话中男的提到朋友约他去打球，但可能因雨取消。",
+     "audio": {
+      "key": "listening/v1/3d3e129fe4228a618c78d55cbc7283fe4c2494f0dbead94664ccc1b01eff6b15.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "这个周末你有什么安排？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我打算去图书馆看书，顺便准备下周的考试。你呢？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我朋友约我去打球，但天气预报说周末有雨，可能去不成了。"
+       }
+      ],
+      "transcript": "这个周末你有什么安排？ 我打算去图书馆看书，顺便准备下周的考试。你呢？ 我朋友约我去打球，但天气预报说周末有雨，可能去不成了。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "去看书"
+      },
+      {
+       "label": "B",
+       "text": "去打球"
+      },
+      {
+       "label": "C",
+       "text": "去图书馆"
+      },
+      {
+       "label": "D",
+       "text": "在家复习"
+      }
+     ]
+    },
+    {
+     "id": "q10",
+     "type": "listening-mcq",
+     "prompt": "女的对这次出差有什么感觉？",
+     "correctAnswer": "D",
+     "explanation": "对话中女的提到安排太满，累得腿软。",
+     "audio": {
+      "key": "listening/v1/908ed36e2460bddbed1331fdb225d5e85f2a96c536152fb772959715ac09d3df.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "这次出差去上海，你觉得怎么样？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "挺好的，就是安排太满了，一天跑好几个地方，累得我腿都软了。"
+       }
+      ],
+      "transcript": "这次出差去上海，你觉得怎么样？ 挺好的，就是安排太满了，一天跑好几个地方，累得我腿都软了。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "很无聊"
+      },
+      {
+       "label": "B",
+       "text": "很轻松"
+      },
+      {
+       "label": "C",
+       "text": "很开心"
+      },
+      {
+       "label": "D",
+       "text": "很累"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

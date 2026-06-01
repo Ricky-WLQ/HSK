@@ -1,0 +1,202 @@
+{
+ "id": "hsk1-listening-p213",
+ "level": "1",
+ "section": "listening",
+ "partKey": "listening-p2",
+ "title": "HSK1 Listening P2",
+ "titleZh": "听力 第二部分（听句子选答语）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听录音，根据录音内容选择正确答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "说话的叫什么名字？",
+     "correctAnswer": "A",
+     "explanation": "录音中说自己叫小明，所以说话的人叫小明。",
+     "audio": {
+      "key": "listening/v1/2eae7204babe5adf5826aeab914b9e7e6aac7c69622092302609f0a329ea6026.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我叫小明，你叫什么？"
+       }
+      ],
+      "transcript": "我叫小明，你叫什么？",
+      "transcriptPinyin": "wǒ jiào xiǎo míng ， nǐ jiào shén me ？"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "小明",
+       "pinyin": "xiǎo míng"
+      },
+      {
+       "label": "B",
+       "text": "小刚",
+       "pinyin": "xiǎo gāng"
+      },
+      {
+       "label": "C",
+       "text": "小红",
+       "pinyin": "xiǎo hóng"
+      }
+     ],
+     "pinyin": "shuō huà de jiào shén me míng zì ？"
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "他几岁？",
+     "correctAnswer": "A",
+     "explanation": "录音中说今年十岁，所以他的年龄是十岁。",
+     "audio": {
+      "key": "listening/v1/f9dc4d96160f6a8d371639e6b5ebc6cc717f14a346b6550325f6e4347a77d7a8.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我今年十岁。"
+       }
+      ],
+      "transcript": "我今年十岁。",
+      "transcriptPinyin": "wǒ jīn nián shí suì 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "十岁",
+       "pinyin": "shí suì"
+      },
+      {
+       "label": "B",
+       "text": "九岁",
+       "pinyin": "jiǔ suì"
+      },
+      {
+       "label": "C",
+       "text": "八岁",
+       "pinyin": "bā suì"
+      }
+     ],
+     "pinyin": "tā jǐ suì ？"
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "这是什么？",
+     "correctAnswer": "C",
+     "explanation": "录音中说这是书，所以这个东西是书。",
+     "audio": {
+      "key": "listening/v1/58af19dc1e3960ce4d78eb74785fe05eda14aa5ef642be960dc1949837d6dd43.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "这是我的书。"
+       }
+      ],
+      "transcript": "这是我的书。",
+      "transcriptPinyin": "zhè shì wǒ de shū 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "笔",
+       "pinyin": "bǐ"
+      },
+      {
+       "label": "B",
+       "text": "桌子",
+       "pinyin": "zhuō zi"
+      },
+      {
+       "label": "C",
+       "text": "书",
+       "pinyin": "shū"
+      }
+     ],
+     "pinyin": "zhè shì shén me ？"
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "今天星期几？",
+     "correctAnswer": "C",
+     "explanation": "录音中说今天星期一，所以今天是星期一。",
+     "audio": {
+      "key": "listening/v1/846fffe42cf818cd0c21e6162ff2af3b826091362db745a6ec4d8ca93575cef4.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "今天星期一。"
+       }
+      ],
+      "transcript": "今天星期一。",
+      "transcriptPinyin": "jīn tiān xīng qī yī 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "星期三",
+       "pinyin": "xīng qī sān"
+      },
+      {
+       "label": "B",
+       "text": "星期二",
+       "pinyin": "xīng qī èr"
+      },
+      {
+       "label": "C",
+       "text": "星期一",
+       "pinyin": "xīng qī yī"
+      }
+     ],
+     "pinyin": "jīn tiān xīng qī jǐ ？"
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "他去哪里？",
+     "correctAnswer": "A",
+     "explanation": "录音中说去学校，所以他的目的地是学校。",
+     "audio": {
+      "key": "listening/v1/2933c62e869ec9fa5af39a8b542e3506fb3d0bc6917be17c55bf0f69fe7f3cb1.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我去学校。"
+       }
+      ],
+      "transcript": "我去学校。",
+      "transcriptPinyin": "wǒ qù xué xiào 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "学校",
+       "pinyin": "xué xiào"
+      },
+      {
+       "label": "B",
+       "text": "商店",
+       "pinyin": "shāng diàn"
+      },
+      {
+       "label": "C",
+       "text": "家",
+       "pinyin": "jiā"
+      }
+     ],
+     "pinyin": "tā qù nǎ lǐ ？"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

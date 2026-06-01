@@ -98,12 +98,17 @@ export const messages = {
   practice: {
     title: "Practice",
     subtitle:
-      "AI-generated, official-format HSK 3.0 practice. Reading is available now — listening, writing, and mock tests are coming.",
+      "AI-generated, official-format HSK 3.0 practice. Reading and listening are available now — writing and mock tests are coming.",
     reading: "Reading",
+    listening: "Listening",
+    listenAudio: "Listen",
+    transcript: "Transcript",
+    picture: "Picture",
     sets: "practice sets",
     questions: "questions",
     start: "Start",
     noSets: "No reading practice sets for this level yet — they’re being generated.",
+    noListeningSets: "No listening practice sets for this level yet — they’re being generated.",
     back: "All levels",
     backToSets: "Back to practice sets",
     showPinyin: "Pinyin",

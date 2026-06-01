@@ -1,0 +1,64 @@
+{
+ "id": "hsk7-9-listening-p118",
+ "level": "7-9",
+ "section": "listening",
+ "partKey": "listening-p1",
+ "title": "HSK7-9 Listening P1",
+ "titleZh": "听力 第一部分（判断对错）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "听下面一段新闻报道，然后判断5个句子的正误。正确的写“对”，错误的写“错”。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-statement-true-false",
+     "prompt": "AI在医疗领域的应用主要集中在影像诊断上。",
+     "correctAnswer": "对",
+     "explanation": "原文提到“尤其是在影像诊断方面”，说明AI在医疗领域的应用主要集中在影像诊断上，所以判断为对。"
+    },
+    {
+     "id": "q2",
+     "type": "listening-statement-true-false",
+     "prompt": "AI系统能够通过分析医疗影像准确识别所有类型的肿瘤。",
+     "correctAnswer": "错",
+     "explanation": "原文说“准确识别出早期肿瘤、骨折等病变”，但并未提到“所有类型的肿瘤”，表述过度，所以判断为错。"
+    },
+    {
+     "id": "q3",
+     "type": "listening-statement-true-false",
+     "prompt": "AI诊断的主要挑战包括数据隐私和算法偏见。",
+     "correctAnswer": "对",
+     "explanation": "原文明确提到“数据隐私问题、算法偏见以及缺乏临床验证”，所以数据隐私和算法偏见是挑战之一，因此判断为对。"
+    },
+    {
+     "id": "q4",
+     "type": "listening-statement-true-false",
+     "prompt": "专家认为AI将完全取代医生在医疗决策中的地位。",
+     "correctAnswer": "错",
+     "explanation": "原文说“不会完全取代医生的专业判断”，所以不会完全取代，因此判断为错。"
+    },
+    {
+     "id": "q5",
+     "type": "listening-statement-true-false",
+     "prompt": "AI在影像诊断中的应用已经得到广泛的临床验证。",
+     "correctAnswer": "错",
+     "explanation": "原文提到“缺乏临床验证”是挑战之一，说明尚未得到广泛验证，因此判断为错。"
+    }
+   ],
+   "audio": {
+    "key": "listening/v1/ee48e13fa95672571fb81d74f3ea9dfcd566f9231f5da53755abfd0e9b2d8133.mp3",
+    "lines": [
+     {
+      "speaker": "旁白",
+      "voice": "narrator",
+      "text": "近年来，人工智能在医疗领域的应用取得了显著进展，尤其是在影像诊断方面。通过深度学习算法，AI系统能够分析X光片、CT扫描等医疗影像，准确识别出早期肿瘤、骨折等病变。这不仅提高了诊断效率，还减轻了放射科医生的负担。然而，AI诊断也存在一些挑战，比如数据隐私问题、算法偏见以及缺乏临床验证。尽管有这些困难，专家们普遍认为AI将成为未来医疗的重要辅助工具，但不会完全取代医生的专业判断。"
+     }
+    ],
+    "transcript": "近年来，人工智能在医疗领域的应用取得了显著进展，尤其是在影像诊断方面。通过深度学习算法，AI系统能够分析X光片、CT扫描等医疗影像，准确识别出早期肿瘤、骨折等病变。这不仅提高了诊断效率，还减轻了放射科医生的负担。然而，AI诊断也存在一些挑战，比如数据隐私问题、算法偏见以及缺乏临床验证。尽管有这些困难，专家们普遍认为AI将成为未来医疗的重要辅助工具，但不会完全取代医生的专业判断。",
+    "transcriptPinyin": null
+   }
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

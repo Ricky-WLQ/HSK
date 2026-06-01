@@ -1,0 +1,179 @@
+{
+ "id": "hsk5-listening-p204",
+ "level": "5",
+ "section": "listening",
+ "partKey": "listening-p2",
+ "title": "HSK5 Listening P2",
+ "titleZh": "听力 第二部分（听短文选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听下面一段独白，根据独白内容回答6个问题。每个问题有4个选项，请选择唯一正确的答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "垃圾分类制度首先在哪个城市推行？",
+     "correctAnswer": "B",
+     "explanation": "根据独白中“比如上海，从2019年开始”可知，题目中提到的垃圾分类制度首先在上海推行。",
+     "options": [
+      {
+       "label": "A",
+       "text": "深圳"
+      },
+      {
+       "label": "B",
+       "text": "上海"
+      },
+      {
+       "label": "C",
+       "text": "广州"
+      },
+      {
+       "label": "D",
+       "text": "北京"
+      }
+     ]
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "上海将垃圾分为几类？",
+     "correctAnswer": "A",
+     "explanation": "独白明确提到“居民必须将垃圾分为可回收物、有害垃圾、湿垃圾和干垃圾四类”，因此是四类。",
+     "options": [
+      {
+       "label": "A",
+       "text": "四类"
+      },
+      {
+       "label": "B",
+       "text": "两类"
+      },
+      {
+       "label": "C",
+       "text": "三类"
+      },
+      {
+       "label": "D",
+       "text": "五类"
+      }
+     ]
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "刚开始推行时，居民的主要困难是什么？",
+     "correctAnswer": "A",
+     "explanation": "独白提到“刚开始的时候，很多人觉得麻烦，记不住分类标准”，所以主要困难是记不住分类标准。",
+     "options": [
+      {
+       "label": "A",
+       "text": "分类标准记不住"
+      },
+      {
+       "label": "B",
+       "text": "垃圾太多"
+      },
+      {
+       "label": "C",
+       "text": "政府不支持"
+      },
+      {
+       "label": "D",
+       "text": "没有垃圾桶"
+      }
+     ]
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "垃圾分类实施后，什么指标提高了30%以上？",
+     "correctAnswer": "D",
+     "explanation": "独白中明确说“可回收物回收率提高了30%以上”，因此这一指标提高。",
+     "options": [
+      {
+       "label": "A",
+       "text": "有害垃圾回收率"
+      },
+      {
+       "label": "B",
+       "text": "干垃圾处理量"
+      },
+      {
+       "label": "C",
+       "text": "湿垃圾产量"
+      },
+      {
+       "label": "D",
+       "text": "可回收物回收率"
+      }
+     ]
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "关于垃圾分类，下面哪项说法正确？",
+     "correctAnswer": "C",
+     "explanation": "独白提到“有害垃圾也得到了更安全的处理”，而其他选项与原文矛盾（如有人不配合、分类不准确、政府计划通过教育奖励提高准确率）。",
+     "options": [
+      {
+       "label": "A",
+       "text": "分类准确率已经很高"
+      },
+      {
+       "label": "B",
+       "text": "居民都非常配合"
+      },
+      {
+       "label": "C",
+       "text": "有害垃圾得到了更安全的处理"
+      },
+      {
+       "label": "D",
+       "text": "政府取消了奖励措施"
+      }
+     ]
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "未来政府打算用什么方式来提高分类准确率？",
+     "correctAnswer": "C",
+     "explanation": "独白最后说“政府计划通过教育和奖励措施，进一步提高分类的准确率”，因此方式包括教育。",
+     "options": [
+      {
+       "label": "A",
+       "text": "罚款"
+      },
+      {
+       "label": "B",
+       "text": "增加垃圾桶"
+      },
+      {
+       "label": "C",
+       "text": "教育"
+      },
+      {
+       "label": "D",
+       "text": "减少垃圾"
+      }
+     ]
+    }
+   ],
+   "audio": {
+    "key": "listening/v1/af8fa77fe2e5c7c7d306668ff522ba494517b120a70914326f1228d9927fdd24.mp3",
+    "lines": [
+     {
+      "speaker": "旁白",
+      "voice": "narrator",
+      "text": "近年来，中国许多城市开始推行垃圾分类制度。比如上海，从2019年开始，居民必须将垃圾分为可回收物、有害垃圾、湿垃圾和干垃圾四类。刚开始的时候，很多人觉得麻烦，记不住分类标准。但随着时间的推移，大家慢慢习惯了，也意识到垃圾分类对环境保护的重要性。据统计，实施垃圾分类后，上海的可回收物回收率提高了30%以上，有害垃圾也得到了更安全的处理。不过，垃圾分类也面临一些挑战，比如有些居民不配合，或者分类不准确。未来，政府计划通过教育和奖励措施，进一步提高分类的准确率。"
+     }
+    ],
+    "transcript": "近年来，中国许多城市开始推行垃圾分类制度。比如上海，从2019年开始，居民必须将垃圾分为可回收物、有害垃圾、湿垃圾和干垃圾四类。刚开始的时候，很多人觉得麻烦，记不住分类标准。但随着时间的推移，大家慢慢习惯了，也意识到垃圾分类对环境保护的重要性。据统计，实施垃圾分类后，上海的可回收物回收率提高了30%以上，有害垃圾也得到了更安全的处理。不过，垃圾分类也面临一些挑战，比如有些居民不配合，或者分类不准确。未来，政府计划通过教育和奖励措施，进一步提高分类的准确率。",
+    "transcriptPinyin": null
+   }
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

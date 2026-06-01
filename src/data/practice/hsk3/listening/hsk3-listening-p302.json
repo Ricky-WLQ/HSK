@@ -1,0 +1,387 @@
+{
+ "id": "hsk3-listening-p302",
+ "level": "3",
+ "section": "listening",
+ "partKey": "listening-p3",
+ "title": "HSK3 Listening P3",
+ "titleZh": "听力 第三部分（听短文选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "听录音，根据录音内容选择正确答案。每个录音是一段独白，然后会有一个问题。请从A、B、C三个选项中选择唯一正确的答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "说话人昨天下午做了什么？",
+     "correctAnswer": "C",
+     "explanation": "说话人先去图书馆还书，路上遇到小猫，最后把它送到了宠物医院，所以做了两件事。",
+     "audio": {
+      "key": "listening/v1/3966e2c80e17b942699a2c2bce53b42fb71565344ad94699ce488cc6b779f02f.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "昨天下午我去图书馆还书，路上看到一只小猫，它好像迷路了。我把它送到了附近的宠物医院。"
+       }
+      ],
+      "transcript": "昨天下午我去图书馆还书，路上看到一只小猫，它好像迷路了。我把它送到了附近的宠物医院。",
+      "transcriptPinyin": "zuó tiān xià wǔ wǒ qù tú shū guǎn huán shū ， lù shàng kàn dào yī zhī xiǎo māo ， tā hǎo xiàng mí lù le 。 wǒ bǎ tā sòng dào le fù jìn de chǒng wù yī yuàn 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "去图书馆看书",
+       "pinyin": "qù tú shū guǎn kàn shū"
+      },
+      {
+       "label": "B",
+       "text": "去宠物医院",
+       "pinyin": "qù chǒng wù yī yuàn"
+      },
+      {
+       "label": "C",
+       "text": "去还书并送小猫",
+       "pinyin": "qù huán shū bìng sòng xiǎo māo"
+      }
+     ],
+     "pinyin": "shuō huà rén zuó tiān xià wǔ zuò le shén me ？"
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "他们为什么去公园？",
+     "correctAnswer": "C",
+     "explanation": "说话人说和朋友去公园放风筝，所以去公园的目的是放风筝。",
+     "audio": {
+      "key": "listening/v1/1c5d0b2a0dab21a5aa1416f94a5ff503dd920c8ef1d2dc010f57f5a045701604.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "今天是星期天，天气很好，我和朋友一起去公园放风筝。公园里人很多，大家都玩得很开心。"
+       }
+      ],
+      "transcript": "今天是星期天，天气很好，我和朋友一起去公园放风筝。公园里人很多，大家都玩得很开心。",
+      "transcriptPinyin": "jīn tiān shì xīng qī tiān ， tiān qì hěn hǎo ， wǒ hé péng yǒu yì qǐ qù gōng yuán fàng fēng zhēng 。 gōng yuán lǐ rén hěn duō ， dà jiā dōu wán dé hěn kāi xīn 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "为了看人",
+       "pinyin": "wèi le kàn rén"
+      },
+      {
+       "label": "B",
+       "text": "因为天气不好",
+       "pinyin": "yīn wèi tiān qì bù hǎo"
+      },
+      {
+       "label": "C",
+       "text": "为了放风筝",
+       "pinyin": "wèi le fàng fēng zhēng"
+      }
+     ],
+     "pinyin": "tā men wèi shén me qù gōng yuán ？"
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "说话人的妈妈是什么工作？",
+     "correctAnswer": "A",
+     "explanation": "说话人直接说妈妈是医生，所以答案是医生。",
+     "audio": {
+      "key": "listening/v1/f81ee7d2153187216049354d2d0379eccf520e3f93662f25236386fe45ebc510.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我妈妈是个医生，她每天都很忙。昨天她下班回家后，还给我做了好吃的面条。"
+       }
+      ],
+      "transcript": "我妈妈是个医生，她每天都很忙。昨天她下班回家后，还给我做了好吃的面条。",
+      "transcriptPinyin": "wǒ mā mā shì gè yī shēng ， tā měi tiān dōu hěn máng 。 zuó tiān tā xià bān huí jiā hòu ， huán gěi wǒ zuò le hǎo chī de miàn tiáo 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "医生",
+       "pinyin": "yī shēng"
+      },
+      {
+       "label": "B",
+       "text": "老师",
+       "pinyin": "lǎo shī"
+      },
+      {
+       "label": "C",
+       "text": "厨师",
+       "pinyin": "chú shī"
+      }
+     ],
+     "pinyin": "shuō huà rén de mā mā shì shén me gōng zuò ？"
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "说话人为什么想买新电脑？",
+     "correctAnswer": "A",
+     "explanation": "说话人说电脑坏了，不能上网，所以打算买新的，原因是旧电脑坏了。",
+     "audio": {
+      "key": "listening/v1/69155ba86bbc10d02739274bda875e00790cbd1c38cde70c0f728b607384d931.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我的电脑坏了，不能上网。我打算明天去商店买一个新的。"
+       }
+      ],
+      "transcript": "我的电脑坏了，不能上网。我打算明天去商店买一个新的。",
+      "transcriptPinyin": "wǒ de diàn nǎo huài le ， bù néng shàng wǎng 。 wǒ dǎ suàn míng tiān qù shāng diàn mǎi yí gè xīn de 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "因为旧电脑坏了",
+       "pinyin": "yīn wèi jiù diàn nǎo huài le"
+      },
+      {
+       "label": "B",
+       "text": "因为商店有活动",
+       "pinyin": "yīn wèi shāng diàn yǒu huó dòng"
+      },
+      {
+       "label": "C",
+       "text": "因为想上网",
+       "pinyin": "yīn wèi xiǎng shàng wǎng"
+      }
+     ],
+     "pinyin": "shuō huà rén wéi shén me xiǎng mǎi xīn diàn nǎo ？"
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "说话人的朋友现在住在哪里？",
+     "correctAnswer": "A",
+     "explanation": "说话人说朋友去年搬到了北京，所以朋友现在住在北京。",
+     "audio": {
+      "key": "listening/v1/49b1f646a29bd4ed9c44dfab3867a54077f423d4e9d045a7e3a79fa55a10b64d.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "这个周末我要去北京看我的朋友。他去年搬到了北京，我们很久没见面了。"
+       }
+      ],
+      "transcript": "这个周末我要去北京看我的朋友。他去年搬到了北京，我们很久没见面了。",
+      "transcriptPinyin": "zhè ge zhōu mò wǒ yào qù běi jīng kàn wǒ de péng yǒu 。 tā qù nián bān dào le běi jīng ， wǒ men hěn jiǔ méi jiàn miàn le 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "北京",
+       "pinyin": "běi jīng"
+      },
+      {
+       "label": "B",
+       "text": "广州",
+       "pinyin": "guǎng zhōu"
+      },
+      {
+       "label": "C",
+       "text": "上海",
+       "pinyin": "shàng hǎi"
+      }
+     ],
+     "pinyin": "shuō huà rén de péng yǒu xiàn zài zhù zài nǎ lǐ ？"
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "说话人为什么肚子叫？",
+     "correctAnswer": "A",
+     "explanation": "说话人起晚了没吃早饭，所以上课时肚子饿得叫。",
+     "audio": {
+      "key": "listening/v1/181b3003eb968f05718d8e7bf14b88cc3987d6c1a016ad6bbd58c82a47077460.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "今天早上我起晚了，没吃早饭就跑去学校。结果上课的时候肚子一直叫，很不好意思。"
+       }
+      ],
+      "transcript": "今天早上我起晚了，没吃早饭就跑去学校。结果上课的时候肚子一直叫，很不好意思。",
+      "transcriptPinyin": "jīn tiān zǎo shàng wǒ qǐ wǎn le ， méi chī zǎo fàn jiù pǎo qù xué xiào 。 jié guǒ shàng kè de shí hòu dǔ zi yì zhí jiào ， hěn bù hǎo yì sī 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "因为没吃早饭",
+       "pinyin": "yīn wèi méi chī zǎo fàn"
+      },
+      {
+       "label": "B",
+       "text": "因为生病了",
+       "pinyin": "yīn wèi shēng bìng le"
+      },
+      {
+       "label": "C",
+       "text": "因为太紧张",
+       "pinyin": "yīn wèi tài jǐn zhāng"
+      }
+     ],
+     "pinyin": "shuō huà rén wéi shén me dǔ zi jiào ？"
+    },
+    {
+     "id": "q7",
+     "type": "listening-mcq",
+     "prompt": "说话人昨天收到了什么礼物？",
+     "correctAnswer": "A",
+     "explanation": "爸爸送了书，妈妈送了蛋糕，所以礼物是书和蛋糕。",
+     "audio": {
+      "key": "listening/v1/0e80cec7c1dc943a57d6b736ecab9deb951beef9daed45f66c44c2401c226116.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "昨天是我的生日，爸爸送了我一本书，妈妈送了我一个蛋糕。我特别开心。"
+       }
+      ],
+      "transcript": "昨天是我的生日，爸爸送了我一本书，妈妈送了我一个蛋糕。我特别开心。",
+      "transcriptPinyin": "zuó tiān shì wǒ de shēng rì ， bà bà sòng le wǒ yī běn shū ， mā mā sòng le wǒ yí gè dàn gāo 。 wǒ tè bié kāi xīn 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "一本书和一个蛋糕",
+       "pinyin": "yī běn shū hé yí gè dàn gāo"
+      },
+      {
+       "label": "B",
+       "text": "一个蛋糕和一件衣服",
+       "pinyin": "yí gè dàn gāo hé yī jiàn yī fú"
+      },
+      {
+       "label": "C",
+       "text": "一本书和一支笔",
+       "pinyin": "yī běn shū hé yī zhī bǐ"
+      }
+     ],
+     "pinyin": "shuō huà rén zuó tiān shōu dào le shén me lǐ wù ？"
+    },
+    {
+     "id": "q8",
+     "type": "listening-mcq",
+     "prompt": "今天说话人怎么去上学？",
+     "correctAnswer": "B",
+     "explanation": "因为下雨，说话人没走路，而是坐公交车。",
+     "audio": {
+      "key": "listening/v1/6eebc111dab0929e212c2da3dd76e3c08be5cffc82f6f833821f3f39aea44327.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我家离学校很近，走路只要十分钟。但是今天下雨了，所以我坐公交车去上学。"
+       }
+      ],
+      "transcript": "我家离学校很近，走路只要十分钟。但是今天下雨了，所以我坐公交车去上学。",
+      "transcriptPinyin": "wǒ jiā lí xué xiào hěn jìn ， zǒu lù zhǐ yào shí fēn zhōng 。 dàn shì jīn tiān xià yǔ le ， suǒ yǐ wǒ zuò gōng jiāo chē qù shàng xué 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "走路",
+       "pinyin": "zǒu lù"
+      },
+      {
+       "label": "B",
+       "text": "坐公交车",
+       "pinyin": "zuò gōng jiāo chē"
+      },
+      {
+       "label": "C",
+       "text": "骑自行车",
+       "pinyin": "qí zì xíng chē"
+      }
+     ],
+     "pinyin": "jīn tiān shuō huà rén zěn me qù shàng xué ？"
+    },
+    {
+     "id": "q9",
+     "type": "listening-mcq",
+     "prompt": "说话人周末经常做什么？",
+     "correctAnswer": "C",
+     "explanation": "说话人说爱好是画画，每个周末去公园画风景。",
+     "audio": {
+      "key": "listening/v1/e8c465af1b09a410710ef3376526222357cc7d6a203e9a2ac1daa21dd1d70a6a.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我的爱好是画画，每个周末我都会去公园画风景。我已经画了很多幅画了。"
+       }
+      ],
+      "transcript": "我的爱好是画画，每个周末我都会去公园画风景。我已经画了很多幅画了。",
+      "transcriptPinyin": "wǒ de ài hào shì huà huà ， měi gè zhōu mò wǒ dū huì qù gōng yuán huà fēng jǐng 。 wǒ yǐ jīng huà le hěn duō fú huà le 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "在家休息",
+       "pinyin": "zài jiā xiū xī"
+      },
+      {
+       "label": "B",
+       "text": "去公园跑步",
+       "pinyin": "qù gōng yuán pǎo bù"
+      },
+      {
+       "label": "C",
+       "text": "去公园画画",
+       "pinyin": "qù gōng yuán huà huà"
+      }
+     ],
+     "pinyin": "shuō huà rén zhōu mò jīng cháng zuò shén me ？"
+    },
+    {
+     "id": "q10",
+     "type": "listening-mcq",
+     "prompt": "说话人今天晚上打算做什么？",
+     "correctAnswer": "C",
+     "explanation": "说话人说打算今天晚上把课本再看一遍，即复习。",
+     "audio": {
+      "key": "listening/v1/d66812c93f0fe723cdb3cb288211cf5bec72b5e230a0e116db2fc659f9567e6b.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我们班明天要考试，老师让我们好好复习。我打算今天晚上把课本再看一遍。"
+       }
+      ],
+      "transcript": "我们班明天要考试，老师让我们好好复习。我打算今天晚上把课本再看一遍。",
+      "transcriptPinyin": "wǒ men bān míng tiān yào kǎo shì ， lǎo shī ràng wǒ men hǎo hǎo fù xí 。 wǒ dǎ suàn jīn tiān wǎn shàng bǎ kè běn zài kàn yī biàn 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "睡觉",
+       "pinyin": "shuì jiào"
+      },
+      {
+       "label": "B",
+       "text": "看电视",
+       "pinyin": "kàn diàn shì"
+      },
+      {
+       "label": "C",
+       "text": "复习课本",
+       "pinyin": "fù xí kè běn"
+      }
+     ],
+     "pinyin": "shuō huà rén jīn tiān wǎn shàng dǎ suàn zuò shén me ？"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

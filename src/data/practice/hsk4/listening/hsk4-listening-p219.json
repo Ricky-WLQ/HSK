@@ -1,0 +1,179 @@
+{
+ "id": "hsk4-listening-p219",
+ "level": "4",
+ "section": "listening",
+ "partKey": "listening-p2",
+ "title": "HSK4 Listening P2",
+ "titleZh": "听力 第二部分（听短文选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听下面一段话，然后根据这段话回答第1到6题。每道题有四个选项，请选择唯一正确的答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "说话人和谁一起去旅行的？",
+     "correctAnswer": "A",
+     "explanation": "根据短文第一句，说话人和朋友小王一起旅行，因此答案是朋友。",
+     "options": [
+      {
+       "label": "A",
+       "text": "朋友"
+      },
+      {
+       "label": "B",
+       "text": "同学"
+      },
+      {
+       "label": "C",
+       "text": "家人"
+      },
+      {
+       "label": "D",
+       "text": "同事"
+      }
+     ]
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "他们为什么坐火车？",
+     "correctAnswer": "C",
+     "explanation": "短文中明确提到‘我们坐火车去的，因为火车票比较便宜’，所以原因是便宜。",
+     "options": [
+      {
+       "label": "A",
+       "text": "因为舒服"
+      },
+      {
+       "label": "B",
+       "text": "因为快"
+      },
+      {
+       "label": "C",
+       "text": "因为便宜"
+      },
+      {
+       "label": "D",
+       "text": "因为方便"
+      }
+     ]
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "他们去了哪些地方？",
+     "correctAnswer": "B",
+     "explanation": "短文中依次提到去了天安门广场、故宫和长城，因此这三个地方都去了。",
+     "options": [
+      {
+       "label": "A",
+       "text": "故宫和颐和园"
+      },
+      {
+       "label": "B",
+       "text": "天安门、故宫和长城"
+      },
+      {
+       "label": "C",
+       "text": "天安门和长城"
+      },
+      {
+       "label": "D",
+       "text": "天安门和故宫"
+      }
+     ]
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "说话人觉得北京烤鸭怎么样？",
+     "correctAnswer": "A",
+     "explanation": "短文说‘味道好极了’，说明说话人认为很好吃。",
+     "options": [
+      {
+       "label": "A",
+       "text": "很好吃"
+      },
+      {
+       "label": "B",
+       "text": "太贵"
+      },
+      {
+       "label": "C",
+       "text": "不好吃"
+      },
+      {
+       "label": "D",
+       "text": "一般"
+      }
+     ]
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "他们爬长城的时候感觉怎么样？",
+     "correctAnswer": "A",
+     "explanation": "短文描述长城‘非常长，也很陡’，说明爬的时候不容易，很难爬。",
+     "options": [
+      {
+       "label": "A",
+       "text": "很难爬"
+      },
+      {
+       "label": "B",
+       "text": "很轻松"
+      },
+      {
+       "label": "C",
+       "text": "不好玩"
+      },
+      {
+       "label": "D",
+       "text": "太短了"
+      }
+     ]
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "关于这次旅行，说话人最想表达什么？",
+     "correctAnswer": "D",
+     "explanation": "短文最后说‘让我了解了很多中国的历史和文化’以及‘很值得’，说明这次旅行很有意义。",
+     "options": [
+      {
+       "label": "A",
+       "text": "旅行时间太短"
+      },
+      {
+       "label": "B",
+       "text": "旅行很无聊"
+      },
+      {
+       "label": "C",
+       "text": "旅行太贵了"
+      },
+      {
+       "label": "D",
+       "text": "旅行很有意义"
+      }
+     ]
+    }
+   ],
+   "audio": {
+    "key": "listening/v1/ac807dba51bcfadeddd883db8cbc4f2b6e93c860ffe95fcba049f1e76c116713.mp3",
+    "lines": [
+     {
+      "speaker": "旁白",
+      "voice": "narrator",
+      "text": "上个月，我和朋友小王一起去了北京旅行。北京是中国的大城市，也是首都。我们坐火车去的，因为火车票比较便宜。到了北京以后，我们先去了天安门广场，那里非常热闹。后来我们又去了故宫，故宫很大，我们走了一整天。晚上我们吃了北京烤鸭，这是我第一次吃烤鸭，味道好极了。在北京的第三天，我们爬了长城。长城非常长，也很陡，但是爬到山顶以后，风景美极了。这次旅行让我了解了很多中国的历史和文化。虽然很累，但是我觉得很值得。"
+     }
+    ],
+    "transcript": "上个月，我和朋友小王一起去了北京旅行。北京是中国的大城市，也是首都。我们坐火车去的，因为火车票比较便宜。到了北京以后，我们先去了天安门广场，那里非常热闹。后来我们又去了故宫，故宫很大，我们走了一整天。晚上我们吃了北京烤鸭，这是我第一次吃烤鸭，味道好极了。在北京的第三天，我们爬了长城。长城非常长，也很陡，但是爬到山顶以后，风景美极了。这次旅行让我了解了很多中国的历史和文化。虽然很累，但是我觉得很值得。",
+    "transcriptPinyin": null
+   }
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

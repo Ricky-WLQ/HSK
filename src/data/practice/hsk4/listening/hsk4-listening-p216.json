@@ -1,0 +1,179 @@
+{
+ "id": "hsk4-listening-p216",
+ "level": "4",
+ "section": "listening",
+ "partKey": "listening-p2",
+ "title": "HSK4 Listening P2",
+ "titleZh": "听力 第二部分（听短文选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听一段独白，然后回答以下问题。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "李明以前下班后通常做什么？",
+     "correctAnswer": "D",
+     "explanation": "独白中明确提到“以前我不喜欢运动，每天下班后就看电视或者玩手机”，因此他以前下班后通常是看电视或玩手机。",
+     "options": [
+      {
+       "label": "A",
+       "text": "运动"
+      },
+      {
+       "label": "B",
+       "text": "学习"
+      },
+      {
+       "label": "C",
+       "text": "做饭"
+      },
+      {
+       "label": "D",
+       "text": "看电视或玩手机"
+      }
+     ]
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "李明为什么开始改变生活习惯？",
+     "correctAnswer": "A",
+     "explanation": "独白中他说“后来我的身体出现了问题”，然后朋友建议他运动，但直接原因是身体问题导致他开始改变。",
+     "options": [
+      {
+       "label": "A",
+       "text": "身体出现问题"
+      },
+      {
+       "label": "B",
+       "text": "想减肥"
+      },
+      {
+       "label": "C",
+       "text": "朋友的建议"
+      },
+      {
+       "label": "D",
+       "text": "喜欢运动"
+      }
+     ]
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "李明一开始觉得运动怎么样？",
+     "correctAnswer": "D",
+     "explanation": "独白中他说“一开始我觉得很难”，所以一开始他认为运动很困难。",
+     "options": [
+      {
+       "label": "A",
+       "text": "很有趣"
+      },
+      {
+       "label": "B",
+       "text": "很无聊"
+      },
+      {
+       "label": "C",
+       "text": "很轻松"
+      },
+      {
+       "label": "D",
+       "text": "很困难"
+      }
+     ]
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "李明坚持运动多久后看到了效果？",
+     "correctAnswer": "A",
+     "explanation": "独白中明确说“坚持了一个月后，我发现自己的精神状态好了很多”，所以一个月后看到了效果。",
+     "options": [
+      {
+       "label": "A",
+       "text": "一个月"
+      },
+      {
+       "label": "B",
+       "text": "一周"
+      },
+      {
+       "label": "C",
+       "text": "一年"
+      },
+      {
+       "label": "D",
+       "text": "半年"
+      }
+     ]
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "除了运动，李明还改变了什么？",
+     "correctAnswer": "D",
+     "explanation": "独白中说“现在我不但每天跑步，还开始注意饮食”，所以他还改变了饮食习惯。",
+     "options": [
+      {
+       "label": "A",
+       "text": "朋友"
+      },
+      {
+       "label": "B",
+       "text": "工作"
+      },
+      {
+       "label": "C",
+       "text": "睡眠"
+      },
+      {
+       "label": "D",
+       "text": "饮食"
+      }
+     ]
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "最近一年李明发生了什么事？",
+     "correctAnswer": "C",
+     "explanation": "独白结尾说“最近一年，我一次都没有感冒过”，所以最近一年他一次都没感冒。",
+     "options": [
+      {
+       "label": "A",
+       "text": "变得很胖"
+      },
+      {
+       "label": "B",
+       "text": "经常感冒"
+      },
+      {
+       "label": "C",
+       "text": "一次都没感冒"
+      },
+      {
+       "label": "D",
+       "text": "开始玩手机"
+      }
+     ]
+    }
+   ],
+   "audio": {
+    "key": "listening/v1/d60889938fe3a2cb2eb724f5b08ac796e310bfea6f161551770a42732a52a363.mp3",
+    "lines": [
+     {
+      "speaker": "旁白",
+      "voice": "narrator",
+      "text": "大家好，我叫李明。今天我想和大家分享我改变生活方式的故事。以前我不喜欢运动，每天下班后就看电视或者玩手机。后来我的身体出现了问题，经常感冒，还总是觉得累。一个朋友建议我每天运动半小时。一开始我觉得很难，但坚持了一个月后，我发现自己的精神状态好了很多。现在我不但每天跑步，还开始注意饮食。我不再吃太多油腻的食物，多吃蔬菜和水果。最近一年，我一次都没有感冒过。我觉得健康的生活习惯真的很重要。希望大家也能找到适合自己的健康方式。"
+     }
+    ],
+    "transcript": "大家好，我叫李明。今天我想和大家分享我改变生活方式的故事。以前我不喜欢运动，每天下班后就看电视或者玩手机。后来我的身体出现了问题，经常感冒，还总是觉得累。一个朋友建议我每天运动半小时。一开始我觉得很难，但坚持了一个月后，我发现自己的精神状态好了很多。现在我不但每天跑步，还开始注意饮食。我不再吃太多油腻的食物，多吃蔬菜和水果。最近一年，我一次都没有感冒过。我觉得健康的生活习惯真的很重要。希望大家也能找到适合自己的健康方式。",
+    "transcriptPinyin": null
+   }
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

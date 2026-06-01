@@ -1,0 +1,387 @@
+{
+ "id": "hsk3-listening-p309",
+ "level": "3",
+ "section": "listening",
+ "partKey": "listening-p3",
+ "title": "HSK3 Listening P3",
+ "titleZh": "听力 第三部分（听短文选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "听录音，然后回答问题。每段录音后有一个问题，请从A、B、C三个选项中选择正确答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "他每天早上几点起床？",
+     "correctAnswer": "B",
+     "explanation": "录音中说每天早上七点起床，因此正确答案是七点。",
+     "audio": {
+      "key": "listening/v1/2885ca384cfacdd354ce90172beae550d778cea60bb97fc261d903668b22ad1f.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我每天早上七点起床，八点去上班。中午十二点吃午饭，下午五点下班。晚上我喜欢看电视或者看书。"
+       }
+      ],
+      "transcript": "我每天早上七点起床，八点去上班。中午十二点吃午饭，下午五点下班。晚上我喜欢看电视或者看书。",
+      "transcriptPinyin": "wǒ měi tiān zǎo shàng qī diǎn qǐ chuáng ， bā diǎn qù shàng bān 。 zhōng wǔ shí èr diǎn chī wǔ fàn ， xià wǔ wǔ diǎn xià bān 。 wǎn shàng wǒ xǐ huān kàn diàn shì huò zhě kàn shū 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "八点",
+       "pinyin": "bā diǎn"
+      },
+      {
+       "label": "B",
+       "text": "七点",
+       "pinyin": "qī diǎn"
+      },
+      {
+       "label": "C",
+       "text": "六点",
+       "pinyin": "liù diǎn"
+      }
+     ],
+     "pinyin": "tā měi tiān zǎo shàng jǐ diǎn qǐ chuáng ？"
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "他们明天早上在哪里见面？",
+     "correctAnswer": "B",
+     "explanation": "录音中明确说在公园门口见面，因此答案是公园门口。",
+     "audio": {
+      "key": "listening/v1/ebfb82ff5908de25386524a9e286f4d78d83274bc4f307f2a28fad51974087d2.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "这个周末天气很好，我打算和朋友一起去爬山。我们明天早上八点在公园门口见面。"
+       }
+      ],
+      "transcript": "这个周末天气很好，我打算和朋友一起去爬山。我们明天早上八点在公园门口见面。",
+      "transcriptPinyin": "zhè ge zhōu mò tiān qì hěn hǎo ， wǒ dǎ suàn hé péng yǒu yì qǐ qù pá shān 。 wǒ men míng tiān zǎo shàng bā diǎn zài gōng yuán mén kǒu jiàn miàn 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "学校门口",
+       "pinyin": "xué xiào mén kǒu"
+      },
+      {
+       "label": "B",
+       "text": "公园门口",
+       "pinyin": "gōng yuán mén kǒu"
+      },
+      {
+       "label": "C",
+       "text": "山脚下",
+       "pinyin": "shān jiǎo xià"
+      }
+     ],
+     "pinyin": "tā men míng tiān zǎo shàng zài nǎ lǐ jiàn miàn ？"
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "他不喜欢吃什么水果？",
+     "correctAnswer": "C",
+     "explanation": "录音中说他不喜欢吃西瓜，所以正确答案是西瓜。",
+     "audio": {
+      "key": "listening/v1/61a7bc76d9043205f81a24bf752a957d74eabd47fee25a25898f301bf866edbc.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我喜欢吃水果，比如苹果和香蕉。但是我不喜欢吃西瓜，因为西瓜太大了。"
+       }
+      ],
+      "transcript": "我喜欢吃水果，比如苹果和香蕉。但是我不喜欢吃西瓜，因为西瓜太大了。",
+      "transcriptPinyin": "wǒ xǐ huān chī shuǐ guǒ ， bǐ rú píng guǒ hé xiāng jiāo 。 dàn shì wǒ bù xǐ huān chī xī guā ， yīn wèi xī guā tài dà le 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "香蕉",
+       "pinyin": "xiāng jiāo"
+      },
+      {
+       "label": "B",
+       "text": "苹果",
+       "pinyin": "píng guǒ"
+      },
+      {
+       "label": "C",
+       "text": "西瓜",
+       "pinyin": "xī guā"
+      }
+     ],
+     "pinyin": "tā bù xǐ huān chī shén me shuǐ guǒ ？"
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "图书馆在什么地方？",
+     "correctAnswer": "B",
+     "explanation": "录音说走到路口向右转，图书馆在左边，所以图书馆在路口左边。",
+     "audio": {
+      "key": "listening/v1/774ad7777425d667baf44c313820f1f5bc9c7be87fd7f13ef2ea032422b2cfe0.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "请问，图书馆在哪儿？从这儿一直走，到路口向右转，就看到图书馆了。图书馆在左边。"
+       }
+      ],
+      "transcript": "请问，图书馆在哪儿？从这儿一直走，到路口向右转，就看到图书馆了。图书馆在左边。",
+      "transcriptPinyin": "qǐng wèn ， tú shū guǎn zài nǎ ér ？ cóng zhè ér yì zhí zǒu ， dào lù kǒu xiàng yòu zhuǎn ， jiù kàn dào tú shū guǎn le 。 tú shū guǎn zài zuǒ biān 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "路口右边",
+       "pinyin": "lù kǒu yòu biān"
+      },
+      {
+       "label": "B",
+       "text": "路口左边",
+       "pinyin": "lù kǒu zuǒ biān"
+      },
+      {
+       "label": "C",
+       "text": "一直走",
+       "pinyin": "yì zhí zǒu"
+      }
+     ],
+     "pinyin": "tú shū guǎn zài shén me dì fāng ？"
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "明天天气怎么样？",
+     "correctAnswer": "B",
+     "explanation": "录音说明天可能会下雪，所以答案是下雪。",
+     "audio": {
+      "key": "listening/v1/0d15e2a666786ba60c18eee06e3c7b2a3e3df8c144d4b88668640e6a27fc2e59.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "今天天气很冷，温度只有五度。明天会更冷，可能会下雪。记得多穿衣服。"
+       }
+      ],
+      "transcript": "今天天气很冷，温度只有五度。明天会更冷，可能会下雪。记得多穿衣服。",
+      "transcriptPinyin": "jīn tiān tiān qì hěn lěng ， wēn dù zhǐ yǒu wǔ dù 。 míng tiān huì gèng lěng ， kě néng huì xià xuě 。 jì de duō chuān yī fú 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "很热",
+       "pinyin": "hěn rè"
+      },
+      {
+       "label": "B",
+       "text": "下雪",
+       "pinyin": "xià xuě"
+      },
+      {
+       "label": "C",
+       "text": "下雨",
+       "pinyin": "xià yǔ"
+      }
+     ],
+     "pinyin": "míng tiān tiān qì zěn me yàng ？"
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "这件衣服多少钱？",
+     "correctAnswer": "C",
+     "explanation": "录音中说衣服要三百块钱，所以答案是三百块。",
+     "audio": {
+      "key": "listening/v1/cce18232fd194a81b698fd15b37a5f1b5bccc6f0b6fc5cc2c22b63f3a05ab0a0.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "这件衣服很好看，但是太贵了，要三百块钱。我只有两百块，所以买不了。"
+       }
+      ],
+      "transcript": "这件衣服很好看，但是太贵了，要三百块钱。我只有两百块，所以买不了。",
+      "transcriptPinyin": "zhè jiàn yī fú hěn hǎo kàn ， dàn shì tài guì le ， yào sān bǎi kuài qián 。 wǒ zhǐ yǒu liǎng bǎi kuài ， suǒ yǐ mǎi bù liǎo 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "一百块",
+       "pinyin": "yì bǎi kuài"
+      },
+      {
+       "label": "B",
+       "text": "两百块",
+       "pinyin": "liǎng bǎi kuài"
+      },
+      {
+       "label": "C",
+       "text": "三百块",
+       "pinyin": "sān bǎi kuài"
+      }
+     ],
+     "pinyin": "zhè jiàn yī fú duō shǎo qián ？"
+    },
+    {
+     "id": "q7",
+     "type": "listening-mcq",
+     "prompt": "他什么时候上课？",
+     "correctAnswer": "C",
+     "explanation": "录音说下午两点有课，所以上课时间是两点。",
+     "audio": {
+      "key": "listening/v1/f85cb6349f0495337f311ca6f389494aab72e625b5213cb3eb3ddd037b28168a.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我下午两点有课，现在是一点半。我还有一个小时的时间，可以先吃午饭。"
+       }
+      ],
+      "transcript": "我下午两点有课，现在是一点半。我还有一个小时的时间，可以先吃午饭。",
+      "transcriptPinyin": "wǒ xià wǔ liǎng diǎn yǒu kè ， xiàn zài shì yì diǎn bàn 。 wǒ hái yǒu yí gè xiǎo shí de shí jiān ， kě yǐ xiān chī wǔ fàn 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "三点",
+       "pinyin": "sān diǎn"
+      },
+      {
+       "label": "B",
+       "text": "一点",
+       "pinyin": "yì diǎn"
+      },
+      {
+       "label": "C",
+       "text": "两点",
+       "pinyin": "liǎng diǎn"
+      }
+     ],
+     "pinyin": "tā shén me shí hòu shàng kè ？"
+    },
+    {
+     "id": "q8",
+     "type": "listening-mcq",
+     "prompt": "妹妹喜欢做什么？",
+     "correctAnswer": "A",
+     "explanation": "录音中说妹妹喜欢画画，所以答案是画画。",
+     "audio": {
+      "key": "listening/v1/afbf856309af8289628153f02497a36401b18ecaee667436f5eec34c3f198315.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我家有四个人：爸爸、妈妈、我和妹妹。妹妹今年五岁，她喜欢画画。我在大学读书。"
+       }
+      ],
+      "transcript": "我家有四个人：爸爸、妈妈、我和妹妹。妹妹今年五岁，她喜欢画画。我在大学读书。",
+      "transcriptPinyin": "wǒ jiā yǒu sì gè rén ： bà bà 、 mā mā 、 wǒ hé mèi mèi 。 mèi mèi jīn nián wǔ suì ， tā xǐ huān huà huà 。 wǒ zài dà xué dú shū 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "画画",
+       "pinyin": "huà huà"
+      },
+      {
+       "label": "B",
+       "text": "做饭",
+       "pinyin": "zuò fàn"
+      },
+      {
+       "label": "C",
+       "text": "读书",
+       "pinyin": "dú shū"
+      }
+     ],
+     "pinyin": "mèi mèi xǐ huān zuò shén me ？"
+    },
+    {
+     "id": "q9",
+     "type": "listening-mcq",
+     "prompt": "他每天怎么去上班？",
+     "correctAnswer": "A",
+     "explanation": "录音中说每天坐地铁上班，所以答案是坐地铁。",
+     "audio": {
+      "key": "listening/v1/3ba979f47f857927a0678a98d8fa466743f4c013fb90e0e13f21c3d5e8dc38aa.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "从我家到公司可以坐地铁，也可以坐公共汽车。坐地铁只要二十分钟，坐公共汽车要四十分钟。所以我每天坐地铁上班。"
+       }
+      ],
+      "transcript": "从我家到公司可以坐地铁，也可以坐公共汽车。坐地铁只要二十分钟，坐公共汽车要四十分钟。所以我每天坐地铁上班。",
+      "transcriptPinyin": "cóng wǒ jiā dào gōng sī kě yǐ zuò dì tiě ， yě kě yǐ zuò gōng gòng qì chē 。 zuò dì tiě zhǐ yào èr shí fēn zhōng ， zuò gōng gòng qì chē yào sì shí fēn zhōng 。 suǒ yǐ wǒ měi tiān zuò dì tiě shàng bān 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "坐地铁",
+       "pinyin": "zuò dì tiě"
+      },
+      {
+       "label": "B",
+       "text": "走路",
+       "pinyin": "zǒu lù"
+      },
+      {
+       "label": "C",
+       "text": "坐公共汽车",
+       "pinyin": "zuò gōng gòng qì chē"
+      }
+     ],
+     "pinyin": "tā měi tiān zěn me qù shàng bān ？"
+    },
+    {
+     "id": "q10",
+     "type": "listening-mcq",
+     "prompt": "他的爱好是什么？",
+     "correctAnswer": "A",
+     "explanation": "录音中说爱好是打篮球，所以答案是打篮球。",
+     "audio": {
+      "key": "listening/v1/cf0929c593ebc47af01b47beed27131cf081514360d0881c7a4c3da832365666.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我的爱好是运动，特别是打篮球。每个周末我都和朋友一起打球。我觉得运动对身体很好。"
+       }
+      ],
+      "transcript": "我的爱好是运动，特别是打篮球。每个周末我都和朋友一起打球。我觉得运动对身体很好。",
+      "transcriptPinyin": "wǒ de ài hào shì yùn dòng ， tè bié shì dǎ lán qiú 。 měi gè zhōu mò wǒ dōu hé péng yǒu yì qǐ dǎ qiú 。 wǒ jué de yùn dòng duì shēn tǐ hěn hǎo 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "打篮球",
+       "pinyin": "dǎ lán qiú"
+      },
+      {
+       "label": "B",
+       "text": "跑步",
+       "pinyin": "pǎo bù"
+      },
+      {
+       "label": "C",
+       "text": "游泳",
+       "pinyin": "yóu yǒng"
+      }
+     ],
+     "pinyin": "tā de ài hào shì shén me ？"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

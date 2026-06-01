@@ -1,0 +1,143 @@
+{
+ "id": "hsk7-9-listening-p201",
+ "level": "7-9",
+ "section": "listening",
+ "partKey": "listening-p2",
+ "title": "HSK7-9 Listening P2",
+ "titleZh": "听力 第二部分（听短文选填答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "听下面一段关于量子计算的科技专题报道，然后回答6个问题。其中4个为单选题，2个为填空题。请根据独白内容选择或填写正确答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "传统计算机使用什么进行信息处理？",
+     "correctAnswer": "A",
+     "explanation": "原文明确指出传统计算机使用比特，量子计算机使用量子比特，因此正确答案是比特。",
+     "options": [
+      {
+       "label": "A",
+       "text": "比特"
+      },
+      {
+       "label": "B",
+       "text": "叠加态"
+      },
+      {
+       "label": "C",
+       "text": "量子比特"
+      },
+      {
+       "label": "D",
+       "text": "纠缠效应"
+      }
+     ]
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "量子计算机实现指数级加速的关键原理是什么？",
+     "correctAnswer": "C",
+     "explanation": "原文说量子计算机利用量子比特的叠加态和纠缠效应，从而能实现指数级加速，因此关键原理是叠加态和纠缠。",
+     "options": [
+      {
+       "label": "A",
+       "text": "比特切换"
+      },
+      {
+       "label": "B",
+       "text": "噪声抑制"
+      },
+      {
+       "label": "C",
+       "text": "叠加态和纠缠"
+      },
+      {
+       "label": "D",
+       "text": "经典算法"
+      }
+     ]
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "量子比特面临的主要挑战是什么？",
+     "correctAnswer": "D",
+     "explanation": "文中提到量子比特极易受到环境噪声干扰，导致退相干，这是主要挑战，因此正确答案是环境噪声干扰。",
+     "options": [
+      {
+       "label": "A",
+       "text": "成本高昂"
+      },
+      {
+       "label": "B",
+       "text": "能源消耗大"
+      },
+      {
+       "label": "C",
+       "text": "编程复杂"
+      },
+      {
+       "label": "D",
+       "text": "环境噪声干扰"
+      }
+     ]
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "这段报道主要讨论什么？",
+     "correctAnswer": "B",
+     "explanation": "报道先介绍了量子计算的原理和优势，随后提及面临的挑战，因此主要内容是原理与挑战。",
+     "options": [
+      {
+       "label": "A",
+       "text": "量子计算的前景"
+      },
+      {
+       "label": "B",
+       "text": "量子计算的原理与挑战"
+      },
+      {
+       "label": "C",
+       "text": "量子计算的优势"
+      },
+      {
+       "label": "D",
+       "text": "量子计算的挑战"
+      }
+     ]
+    },
+    {
+     "id": "q5",
+     "type": "listening-dictation",
+     "prompt": "量子比特的叠加态和____效应使其能够处理多种可能性。",
+     "correctAnswer": "纠缠",
+     "explanation": "原文提到量子计算机利用量子比特的叠加态和纠缠效应，因此填空为纠缠。"
+    },
+    {
+     "id": "q6",
+     "type": "listening-dictation",
+     "prompt": "量子计算在密码破译、药物研发和____问题中展现出潜力。",
+     "correctAnswer": "优化",
+     "explanation": "原文列举密码破译、药物研发和优化问题，因此填空为优化。"
+    }
+   ],
+   "audio": {
+    "key": "listening/v1/0408046e0a2bfeedac6007451601ee5be77c4d0f50780e6b704c79d6d566856e.mp3",
+    "lines": [
+     {
+      "speaker": "旁白",
+      "voice": "narrator",
+      "text": "近年来，量子计算作为一项颠覆性技术备受瞩目。与传统计算机使用0或1的比特不同，量子计算机利用量子比特（qubit）的叠加态和纠缠效应，能够同时处理多种可能性，从而在某些特定问题上实现指数级加速。例如，在密码破译、药物研发和优化问题中，量子计算展现出巨大潜力。然而，量子比特极易受到环境噪声干扰，导致退相干，因此量子纠错和硬件稳定性是当前面临的主要挑战。尽管如此，全球科技巨头和科研机构仍在大力投入，试图在“量子霸权”的竞赛中抢占先机。"
+     }
+    ],
+    "transcript": "近年来，量子计算作为一项颠覆性技术备受瞩目。与传统计算机使用0或1的比特不同，量子计算机利用量子比特（qubit）的叠加态和纠缠效应，能够同时处理多种可能性，从而在某些特定问题上实现指数级加速。例如，在密码破译、药物研发和优化问题中，量子计算展现出巨大潜力。然而，量子比特极易受到环境噪声干扰，导致退相干，因此量子纠错和硬件稳定性是当前面临的主要挑战。尽管如此，全球科技巨头和科研机构仍在大力投入，试图在“量子霸权”的竞赛中抢占先机。",
+    "transcriptPinyin": null
+   }
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

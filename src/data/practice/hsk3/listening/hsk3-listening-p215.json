@@ -1,0 +1,502 @@
+{
+ "id": "hsk3-listening-p215",
+ "level": "3",
+ "section": "listening",
+ "partKey": "listening-p2",
+ "title": "HSK3 Listening P2",
+ "titleZh": "听力 第二部分（听对话选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "听对话，选择正确答案。每个对话后有3个选项，只有一个正确。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "根据对话，下面哪个是对的？",
+     "correctAnswer": "B",
+     "explanation": "女人说‘我穿了两件衣服’，所以选项B正确。男人说‘我忘了’带帽子，所以C错。天气很冷，不是暖和，A错。",
+     "audio": {
+      "key": "listening/v1/3451f804f6e8f6c8726f596a026b2092210064cf918b0763aac4c49941f736dc.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "今天天气真冷，外面只有5度。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "是啊，我穿了两件衣服还是觉得冷。你有没有带帽子？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "没有，我忘了。我们快走吧。"
+       }
+      ],
+      "transcript": "今天天气真冷，外面只有5度。 是啊，我穿了两件衣服还是觉得冷。你有没有带帽子？ 没有，我忘了。我们快走吧。",
+      "transcriptPinyin": "jīn tiān tiān qì zhēn lěng ， wài miàn zhǐ yǒu 5 dù 。  shì a ， wǒ chuān le liǎng jiàn yī fú hái shì jué de lěng 。 nǐ yǒu méi yǒu dài mào zi ？  méi yǒu ， wǒ wàng le 。 wǒ men kuài zǒu ba 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "男人带了帽子。",
+       "pinyin": "nán rén dài le mào zi 。"
+      },
+      {
+       "label": "B",
+       "text": "女人穿了两件衣服。",
+       "pinyin": "nǚ rén chuān le liǎng jiàn yī fú 。"
+      },
+      {
+       "label": "C",
+       "text": "今天很暖和。",
+       "pinyin": "jīn tiān hěn nuǎn huo 。"
+      }
+     ],
+     "pinyin": "gēn jù duì huà ， xià miàn nǎ ge shì duì de ？"
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "女人要做什么？",
+     "correctAnswer": "A",
+     "explanation": "女人说‘买一张火车票。去北京的’，所以B正确。不是飞机票，也不是回北京的票，因为没说从哪回。",
+     "audio": {
+      "key": "listening/v1/cf3d5a84acfe2dbc8076d2f68864a51b76dec982f103f5556ada1ef2f69a449d.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你好，我想买一张火车票。去北京的。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "好的，今天下午3点有一趟，要吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "可以，多少钱？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "200块。"
+       }
+      ],
+      "transcript": "你好，我想买一张火车票。去北京的。 好的，今天下午3点有一趟，要吗？ 可以，多少钱？ 200块。",
+      "transcriptPinyin": "nǐ hǎo ， wǒ xiǎng mǎi yī zhāng huǒ chē piào 。 qù běi jīng de 。  hǎo de ， jīn tiān xià wǔ 3 diǎn yǒu yī tàng ， yào ma ？  kě yǐ ， duō shǎo qián ？ 200 kuài 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "买火车票去北京。",
+       "pinyin": "mǎi huǒ chē piào qù běi jīng 。"
+      },
+      {
+       "label": "B",
+       "text": "买回北京的票。",
+       "pinyin": "mǎi huí běi jīng de piào 。"
+      },
+      {
+       "label": "C",
+       "text": "买飞机票。",
+       "pinyin": "mǎi fēi jī piào 。"
+      }
+     ],
+     "pinyin": "nǚ rén yào zuò shén me ？"
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "男人周末打算做什么？",
+     "correctAnswer": "C",
+     "explanation": "男人说‘我打算在家看书’，所以B正确。女人说去跑步，A是女人的计划。C没提到。",
+     "audio": {
+      "key": "listening/v1/e492217b5c0d819a81159227633f38bf027fe9c7122a28fc844474d90c531e5d.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你周末想做什么？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我想去公园跑步。你呢？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我打算在家看书，外面太冷了。"
+       }
+      ],
+      "transcript": "你周末想做什么？ 我想去公园跑步。你呢？ 我打算在家看书，外面太冷了。",
+      "transcriptPinyin": "nǐ zhōu mò xiǎng zuò shén me ？  wǒ xiǎng qù gōng yuán pǎo bù 。 nǐ ne ？  wǒ dǎ suàn zài jiā kàn shū ， wài miàn tài lěng le 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "和朋友玩。",
+       "pinyin": "hé péng yǒu wán 。"
+      },
+      {
+       "label": "B",
+       "text": "去公园跑步。",
+       "pinyin": "qù gōng yuán pǎo bù 。"
+      },
+      {
+       "label": "C",
+       "text": "在家看书。",
+       "pinyin": "zài jiā kàn shū 。"
+      }
+     ],
+     "pinyin": "nán rén zhōu mò dǎ suàn zuò shén me ？"
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "男人今天几点起床？",
+     "correctAnswer": "B",
+     "explanation": "男人说‘我7点起床，但今天因为下雨，晚了半小时’，所以是7点半。A是平时，B正确，C没提到。",
+     "audio": {
+      "key": "listening/v1/5c635c1b299f4897de15d633aa428e123be8c01d65883201ee39ba5ff873c4cf.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你每天几点起床？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我7点起床，但今天因为下雨，晚了半小时。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "那你今天迟到了吗？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "没有，我坐出租车去的。"
+       }
+      ],
+      "transcript": "你每天几点起床？ 我7点起床，但今天因为下雨，晚了半小时。 那你今天迟到了吗？ 没有，我坐出租车去的。",
+      "transcriptPinyin": "nǐ měi tiān jǐ diǎn qǐ chuáng ？  wǒ 7 diǎn qǐ chuáng ， dàn jīn tiān yīn wèi xià yǔ ， wǎn le bàn xiǎo shí 。  nà nǐ jīn tiān chí dào le ma ？  méi yǒu ， wǒ zuò chū zū chē qù de 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "7点。",
+       "pinyin": "7 diǎn 。"
+      },
+      {
+       "label": "B",
+       "text": "7点半。",
+       "pinyin": "7 diǎn bàn 。"
+      },
+      {
+       "label": "C",
+       "text": "8点。",
+       "pinyin": "8 diǎn 。"
+      }
+     ],
+     "pinyin": "nán rén jīn tiān jǐ diǎn qǐ chuáng ？"
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "女人吃了什么？",
+     "correctAnswer": "C",
+     "explanation": "女人说‘我吃了一大碗面条’，所以B正确。A和C没提到。",
+     "audio": {
+      "key": "listening/v1/65d0f2d5c1a9e7edc0ad1ba23e30f1889fcefa1efbfbedf216ca1265b2786705.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你吃晚饭了吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "吃了，我吃了一大碗面条。你呢？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我还没吃，我准备去食堂。"
+       }
+      ],
+      "transcript": "你吃晚饭了吗？ 吃了，我吃了一大碗面条。你呢？ 我还没吃，我准备去食堂。",
+      "transcriptPinyin": "nǐ chī wǎn fàn le ma ？  chī le ， wǒ chī le yī dà wǎn miàn tiáo 。 nǐ ne ？  wǒ hái méi chī ， wǒ zhǔn bèi qù shí táng 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "米饭。",
+       "pinyin": "mǐ fàn 。"
+      },
+      {
+       "label": "B",
+       "text": "饺子。",
+       "pinyin": "jiǎo zi 。"
+      },
+      {
+       "label": "C",
+       "text": "面条。",
+       "pinyin": "miàn tiáo 。"
+      }
+     ],
+     "pinyin": "nǚ rén chī le shén me ？"
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "女人买电脑花了多少钱？",
+     "correctAnswer": "B",
+     "explanation": "男人说‘4000块，但是今天可以打折，便宜200块’，所以实际是3800块。C正确。",
+     "audio": {
+      "key": "listening/v1/77485f30b89e0074eb69dca6f43e4d52a28e76f892625944385cc4560bea05e5.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "这个电脑多少钱？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "4000块，但是今天可以打折，便宜200块。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "那好，我要一个。"
+       }
+      ],
+      "transcript": "这个电脑多少钱？ 4000块，但是今天可以打折，便宜200块。 那好，我要一个。",
+      "transcriptPinyin": "zhè ge diàn nǎo duō shǎo qián ？ 4000 kuài ， dàn shì jīn tiān kě yǐ dǎ zhé ， pián yi 200 kuài 。  nà hǎo ， wǒ yào yí gè 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "4000块。",
+       "pinyin": "4000 kuài 。"
+      },
+      {
+       "label": "B",
+       "text": "3800块。",
+       "pinyin": "3800 kuài 。"
+      },
+      {
+       "label": "C",
+       "text": "4200块。",
+       "pinyin": "4200 kuài 。"
+      }
+     ],
+     "pinyin": "nǚ rén mǎi diàn nǎo huā le duō shǎo qián ？"
+    },
+    {
+     "id": "q7",
+     "type": "listening-mcq",
+     "prompt": "关于女人，下面哪个是对的？",
+     "correctAnswer": "B",
+     "explanation": "女人说‘我去年学的’，所以C正确。她说‘游得不太好’，所以A和B都不对。",
+     "audio": {
+      "key": "listening/v1/ceeee628e13570bd1d24795c81feff16cb509e78b0de9af7d82c353a8a75f732.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你会游泳吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "会，我去年学的。但游得不太好。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "没关系，多练习就好了。"
+       }
+      ],
+      "transcript": "你会游泳吗？ 会，我去年学的。但游得不太好。 没关系，多练习就好了。",
+      "transcriptPinyin": "nǐ huì yóu yǒng ma ？  huì ， wǒ qù nián xué de 。 dàn yóu dé bù tài hǎo 。  méi guān xì ， duō liàn xí jiù hǎo le 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "她不会游泳。",
+       "pinyin": "tā bú huì yóu yǒng 。"
+      },
+      {
+       "label": "B",
+       "text": "她去年学的游泳。",
+       "pinyin": "tā qù nián xué de yóu yǒng 。"
+      },
+      {
+       "label": "C",
+       "text": "她游泳游得很好。",
+       "pinyin": "tā yóu yǒng yóu dé hěn hǎo 。"
+      }
+     ],
+     "pinyin": "guān yú nǚ rén ， xià miàn nǎ ge shì duì de ？"
+    },
+    {
+     "id": "q8",
+     "type": "listening-mcq",
+     "prompt": "他们什么时候去爬山？",
+     "correctAnswer": "A",
+     "explanation": "女人问后天，男人说‘后天是晴天，可以’，所以B正确。明天有雨，所以不去。",
+     "audio": {
+      "key": "listening/v1/dfd018ef88ce73316c32ee2b3e73a2e39c56115fd1b0b8bce1539668e9c1ce64.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我们明天去爬山，好吗？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "明天？天气预报说明天有雨。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "那后天呢？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "后天是晴天，可以。"
+       }
+      ],
+      "transcript": "我们明天去爬山，好吗？ 明天？天气预报说明天有雨。 那后天呢？ 后天是晴天，可以。",
+      "transcriptPinyin": "wǒ men míng tiān qù pá shān ， hǎo ma ？  míng tiān ？ tiān qì yù bào shuō míng tiān yǒu yǔ 。  nà hòu tiān ne ？  hòu tiān shì qíng tiān ， kě yǐ 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "后天。",
+       "pinyin": "hòu tiān 。"
+      },
+      {
+       "label": "B",
+       "text": "今天。",
+       "pinyin": "jīn tiān 。"
+      },
+      {
+       "label": "C",
+       "text": "明天。",
+       "pinyin": "míng tiān 。"
+      }
+     ],
+     "pinyin": "tā men shén me shí hòu qù pá shān ？"
+    },
+    {
+     "id": "q9",
+     "type": "listening-mcq",
+     "prompt": "女人住在哪里？",
+     "correctAnswer": "A",
+     "explanation": "女人说‘我住在学校旁边’，旁边就是附近，所以B正确。A‘里面’不对，C‘对面’没有提到。",
+     "audio": {
+      "key": "listening/v1/f08ef8bed5b266893dcdccbf250ce9b74db783acdb2b7248f98f31cf8f4b867a.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你住在学校里面吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "不，我住在学校旁边，走路10分钟。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "那很方便。"
+       }
+      ],
+      "transcript": "你住在学校里面吗？ 不，我住在学校旁边，走路10分钟。 那很方便。",
+      "transcriptPinyin": "nǐ zhù zài xué xiào lǐ miàn ma ？  bù ， wǒ zhù zài xué xiào páng biān ， zǒu lù 10 fēn zhōng 。  nà hěn fāng biàn 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "学校附近。",
+       "pinyin": "xué xiào fù jìn 。"
+      },
+      {
+       "label": "B",
+       "text": "学校里面。",
+       "pinyin": "xué xiào lǐ miàn 。"
+      },
+      {
+       "label": "C",
+       "text": "学校对面。",
+       "pinyin": "xué xiào duì miàn 。"
+      }
+     ],
+     "pinyin": "nǚ rén zhù zài nǎ lǐ ？"
+    },
+    {
+     "id": "q10",
+     "type": "listening-mcq",
+     "prompt": "男人最近在做什么？",
+     "correctAnswer": "B",
+     "explanation": "男人说‘我在学做菜’，所以B正确。其他没提到。",
+     "audio": {
+      "key": "listening/v1/57cfebb330c10e91c0b12512f3302e9c2ab74a57943dc42e82b8a71cc5b0b8ee.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你最近在忙什么？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我在学做菜，已经学会做两个菜了。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "真不错，哪天让我尝尝。"
+       }
+      ],
+      "transcript": "你最近在忙什么？ 我在学做菜，已经学会做两个菜了。 真不错，哪天让我尝尝。",
+      "transcriptPinyin": "nǐ zuì jìn zài máng shén me ？  wǒ zài xué zuò cài ， yǐ jīng xué huì zuò liǎng gè cài le 。  zhēn bù cuò ， nǎ tiān ràng wǒ cháng cháng 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "学开车。",
+       "pinyin": "xué kāi chē 。"
+      },
+      {
+       "label": "B",
+       "text": "学做菜。",
+       "pinyin": "xué zuò cài 。"
+      },
+      {
+       "label": "C",
+       "text": "学英语。",
+       "pinyin": "xué yīng yǔ 。"
+      }
+     ],
+     "pinyin": "nán rén zuì jìn zài zuò shén me ？"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

@@ -1,0 +1,64 @@
+{
+ "id": "hsk7-9-listening-p101",
+ "level": "7-9",
+ "section": "listening",
+ "partKey": "listening-p1",
+ "title": "HSK7-9 Listening P1",
+ "titleZh": "听力 第一部分（判断对错）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听一段关于中国人工智能发展的新闻报道，然后判断下面5个句子的正误。对的选“对”，错的选“错”。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-statement-true-false",
+     "prompt": "2023年中国人工智能市场规模达到五千亿元人民币。",
+     "correctAnswer": "对",
+     "explanation": "录音中明确提到“2023年中国人工智能市场规模已达到五千亿元人民币”，因此该句正确。"
+    },
+    {
+     "id": "q2",
+     "type": "listening-statement-true-false",
+     "prompt": "预计2025年市场规模将超过一万亿元。",
+     "correctAnswer": "错",
+     "explanation": "录音中说的是“预计到2025年将超过八千亿元”，而非一万亿元，因此该句错误。"
+    },
+    {
+     "id": "q3",
+     "type": "listening-statement-true-false",
+     "prompt": "政府出台了支持人工智能发展的政策。",
+     "correctAnswer": "对",
+     "explanation": "录音中提到“国家陆续出台了一系列扶持政策”，因此该句正确。"
+    },
+    {
+     "id": "q4",
+     "type": "listening-statement-true-false",
+     "prompt": "中国在人工智能基础研究方面已经领先全球。",
+     "correctAnswer": "错",
+     "explanation": "录音指出“在基础研究领域与发达国家相比仍存在一定差距”，并未说领先全球，因此该句错误。"
+    },
+    {
+     "id": "q5",
+     "type": "listening-statement-true-false",
+     "prompt": "中国人工智能企业的数量在不断增加。",
+     "correctAnswer": "对",
+     "explanation": "录音最后提到“国内人工智能企业的数量持续增长”，因此该句正确。"
+    }
+   ],
+   "audio": {
+    "key": "listening/v1/3c9dc4ff5fd30c421d5a578072d36ac6cc0a9d42c1531e5ce044fc9c7f06e13c.mp3",
+    "lines": [
+     {
+      "speaker": "旁白",
+      "voice": "narrator",
+      "text": "近年来，中国人工智能产业呈现出迅猛发展的态势。据统计，2023年中国人工智能市场规模已达到五千亿元人民币，预计到2025年将超过八千亿元。为了推动这一战略性新兴产业，国家陆续出台了一系列扶持政策，鼓励企业加大研发投入。然而，专家指出，尽管中国在应用层面取得了显著成就，但在基础研究领域与发达国家相比仍存在一定差距。同时，国内人工智能企业的数量持续增长，创新生态日益完善。"
+     }
+    ],
+    "transcript": "近年来，中国人工智能产业呈现出迅猛发展的态势。据统计，2023年中国人工智能市场规模已达到五千亿元人民币，预计到2025年将超过八千亿元。为了推动这一战略性新兴产业，国家陆续出台了一系列扶持政策，鼓励企业加大研发投入。然而，专家指出，尽管中国在应用层面取得了显著成就，但在基础研究领域与发达国家相比仍存在一定差距。同时，国内人工智能企业的数量持续增长，创新生态日益完善。",
+    "transcriptPinyin": null
+   }
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

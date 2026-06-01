@@ -1,0 +1,387 @@
+{
+ "id": "hsk3-listening-p310",
+ "level": "3",
+ "section": "listening",
+ "partKey": "listening-p3",
+ "title": "HSK3 Listening P3",
+ "titleZh": "听力 第三部分（听短文选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听下面的短文，然后回答问题。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "那个人明天想做什么？",
+     "correctAnswer": "B",
+     "explanation": "短文中说妈妈喜欢花，所以打算去花店买一束花，因此正确答案是去花店买花。",
+     "audio": {
+      "key": "listening/v1/4d5d9d581e5b2c8fdf508ab4dbceba46341bb1e91a735b5877480827b71ff4e9.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "明天是妈妈的生日，我想给她买一件礼物。她喜欢花，所以我打算去花店买一束花。"
+       }
+      ],
+      "transcript": "明天是妈妈的生日，我想给她买一件礼物。她喜欢花，所以我打算去花店买一束花。",
+      "transcriptPinyin": "míng tiān shì mā mā de shēng rì ， wǒ xiǎng gěi tā mǎi yī jiàn lǐ wù 。 tā xǐ huān huā ， suǒ yǐ wǒ dǎ suàn qù huā diàn mǎi yī shù huā 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "给妈妈买衣服",
+       "pinyin": "gěi mā mā mǎi yī fú"
+      },
+      {
+       "label": "B",
+       "text": "去花店买花",
+       "pinyin": "qù huā diàn mǎi huā"
+      },
+      {
+       "label": "C",
+       "text": "给妈妈做生日蛋糕",
+       "pinyin": "gěi mā mā zuò shēng rì dàn gāo"
+      }
+     ],
+     "pinyin": "nà ge rén míng tiān xiǎng zuò shén me ？"
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "因为天气不好，那个人不能做什么？",
+     "correctAnswer": "C",
+     "explanation": "短文中提到下大雨，不能出去踢足球，所以不能做的事情是出去踢足球。",
+     "audio": {
+      "key": "listening/v1/da0eaa9a1254cc004a123a144f28f54c9aa91b18dfc763037c36148bc17c335d.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "今天天气不好，下着大雨，我不能出去踢足球了。我只好在家里看书。"
+       }
+      ],
+      "transcript": "今天天气不好，下着大雨，我不能出去踢足球了。我只好在家里看书。",
+      "transcriptPinyin": "jīn tiān tiān qì bù hǎo ， xià zhe dà yǔ ， wǒ bù néng chū qù tī zú qiú le 。 wǒ zhǐ hǎo zài jiā lǐ kàn shū 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "在家里睡觉",
+       "pinyin": "zài jiā lǐ shuì jiào"
+      },
+      {
+       "label": "B",
+       "text": "在家里看书",
+       "pinyin": "zài jiā lǐ kàn shū"
+      },
+      {
+       "label": "C",
+       "text": "出去踢足球",
+       "pinyin": "chū qù tī zú qiú"
+      }
+     ],
+     "pinyin": "yīn wèi tiān qì bù hǎo ， nà ge rén bù néng zuò shén me ？"
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "今天早上那个人做了什么事？",
+     "correctAnswer": "A",
+     "explanation": "短文中说今天起晚了，没有吃早饭，所以正确选项是他没吃早饭。",
+     "audio": {
+      "key": "listening/v1/9161486e229b519e8087eb7d8e2e3145f96601bd8a1bf097ffe15d72dd079a53.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我每天早上七点起床，然后吃早饭，八点去学校上课。今天我起晚了，所以没有吃早饭。"
+       }
+      ],
+      "transcript": "我每天早上七点起床，然后吃早饭，八点去学校上课。今天我起晚了，所以没有吃早饭。",
+      "transcriptPinyin": "wǒ měi tiān zǎo shàng qī diǎn qǐ chuáng ， rán hòu chī zǎo fàn ， bā diǎn qù xué xiào shàng kè 。 jīn tiān wǒ qǐ wǎn le ， suǒ yǐ méi yǒu chī zǎo fàn 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "他没吃早饭",
+       "pinyin": "tā méi chī zǎo fàn"
+      },
+      {
+       "label": "B",
+       "text": "他吃了早饭",
+       "pinyin": "tā chī le zǎo fàn"
+      },
+      {
+       "label": "C",
+       "text": "他七点起床",
+       "pinyin": "tā qī diǎn qǐ chuáng"
+      }
+     ],
+     "pinyin": "jīn tiān zǎo shàng nà ge rén zuò le shén me shì ？"
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "关于小张，下面哪个是对的？",
+     "correctAnswer": "B",
+     "explanation": "短文说小张会做中国菜，并且西红柿炒鸡蛋很好吃，所以正确选项是他会做中国菜。",
+     "audio": {
+      "key": "listening/v1/8b1548fbba885c36cbd24d0ee313e8f992c3c407979862ab215ffbe9f42312cd.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我朋友小张会做中国菜，他做的西红柿炒鸡蛋很好吃。他告诉我这个菜不难做。"
+       }
+      ],
+      "transcript": "我朋友小张会做中国菜，他做的西红柿炒鸡蛋很好吃。他告诉我这个菜不难做。",
+      "transcriptPinyin": "wǒ péng yǒu xiǎo zhāng huì zuò zhōng guó cài ， tā zuò de xī hóng shì chǎo jī dàn hěn hǎo chī 。 tā gào sù wǒ zhè ge cài bù nán zuò 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "他觉得做中国菜很难",
+       "pinyin": "tā jué de zuò zhōng guó cài hěn nán"
+      },
+      {
+       "label": "B",
+       "text": "他会做中国菜",
+       "pinyin": "tā huì zuò zhōng guó cài"
+      },
+      {
+       "label": "C",
+       "text": "他不会做西红柿炒鸡蛋",
+       "pinyin": "tā bú huì zuò xī hóng shì chǎo jī dàn"
+      }
+     ],
+     "pinyin": "guān yú xiǎo zhāng ， xià miàn nǎ ge shì duì de ？"
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "昨天他们在公园做了什么？",
+     "correctAnswer": "B",
+     "explanation": "短文中说他们在公园拍照、散步，所以正确选项是拍照和散步。",
+     "audio": {
+      "key": "listening/v1/98c75901e08832db09a76dada763fe2b1b97cfb148f4d521928772874dc9722e.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "昨天我和朋友去公园玩，公园里有很多人。我们在那里拍照、散步，玩得很高兴。"
+       }
+      ],
+      "transcript": "昨天我和朋友去公园玩，公园里有很多人。我们在那里拍照、散步，玩得很高兴。",
+      "transcriptPinyin": "zuó tiān wǒ hé péng yǒu qù gōng yuán wán ， gōng yuán lǐ yǒu hěn duō rén 。 wǒ men zài nà lǐ pāi zhào 、 sàn bù ， wán dé hěn gāo xìng 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "吃饭和唱歌",
+       "pinyin": "chī fàn hé chàng gē"
+      },
+      {
+       "label": "B",
+       "text": "拍照和散步",
+       "pinyin": "pāi zhào hé sàn bù"
+      },
+      {
+       "label": "C",
+       "text": "游泳和跑步",
+       "pinyin": "yóu yǒng hé pǎo bù"
+      }
+     ],
+     "pinyin": "zuó tiān tā men zài gōng yuán zuò le shén me ？"
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "老师为什么表扬李明？",
+     "correctAnswer": "A",
+     "explanation": "短文中说因为李明考试考得很好，老师常常表扬他，所以表扬的原因是考试考得好。",
+     "audio": {
+      "key": "listening/v1/07202ee46d8c9f08594ddc5f414d9e97a0b654a02190bc0ebe0528631b054d8e.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "李明学习很努力，他每天复习两个小时。他考试总是考得很好，老师常常表扬他。"
+       }
+      ],
+      "transcript": "李明学习很努力，他每天复习两个小时。他考试总是考得很好，老师常常表扬他。",
+      "transcriptPinyin": "lǐ míng xué xí hěn nǔ lì ， tā měi tiān fù xí liǎng gè xiǎo shí 。 tā kǎo shì zǒng shì kǎo dé hěn hǎo ， lǎo shī cháng cháng biǎo yáng tā 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "因为他考试考得很好",
+       "pinyin": "yīn wèi tā kǎo shì kǎo dé hěn hǎo"
+      },
+      {
+       "label": "B",
+       "text": "因为他帮助同学",
+       "pinyin": "yīn wèi tā bāng zhù tóng xué"
+      },
+      {
+       "label": "C",
+       "text": "因为他每天复习两个小时",
+       "pinyin": "yīn wèi tā měi tiān fù xí liǎng gè xiǎo shí"
+      }
+     ],
+     "pinyin": "lǎo shī wèi shén me biǎo yáng lǐ míng ？"
+    },
+    {
+     "id": "q7",
+     "type": "listening-mcq",
+     "prompt": "那个人怎么去超市？",
+     "correctAnswer": "B",
+     "explanation": "短文中路人告诉他坐10路公共汽车可以到超市，所以他是坐10路车去的。",
+     "audio": {
+      "key": "listening/v1/da6a0231966cfea32da59326f6dcf98d42436d1e8e87ce414ee107a258aeec18.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我想坐公共汽车去超市，但是不知道坐几路车。我问了一个路人，他告诉我坐10路车可以到。"
+       }
+      ],
+      "transcript": "我想坐公共汽车去超市，但是不知道坐几路车。我问了一个路人，他告诉我坐10路车可以到。",
+      "transcriptPinyin": "wǒ xiǎng zuò gōng gòng qì chē qù chāo shì ， dàn shì bù zhī dào zuò jǐ lù chē 。 wǒ wèn le yí gè lù rén ， tā gào sù wǒ zuò 10 lù chē kě yǐ dào 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "坐出租车去",
+       "pinyin": "zuò chū zū chē qù"
+      },
+      {
+       "label": "B",
+       "text": "坐10路公共汽车",
+       "pinyin": "zuò 10 lù gōng gòng qì chē"
+      },
+      {
+       "label": "C",
+       "text": "走路去超市",
+       "pinyin": "zǒu lù qù chāo shì"
+      }
+     ],
+     "pinyin": "nà ge rén zěn me qù chāo shì ？"
+    },
+    {
+     "id": "q8",
+     "type": "listening-mcq",
+     "prompt": "那个人最喜欢房间里的什么？",
+     "correctAnswer": "B",
+     "explanation": "短文中说最喜欢的是窗户旁边的椅子，所以正确选项是椅子。",
+     "audio": {
+      "key": "listening/v1/4c54e31eaf18e6b91a6d8bb9ef2112a65af8d11414b5920480270882ec2cd5b6.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我的房间不太大，但是很干净。床是白色的，桌子是木头的，我最喜欢的是窗户旁边的椅子。"
+       }
+      ],
+      "transcript": "我的房间不太大，但是很干净。床是白色的，桌子是木头的，我最喜欢的是窗户旁边的椅子。",
+      "transcriptPinyin": "wǒ de fáng jiān bù tài dà ， dàn shì hěn gān jìng 。 chuáng shì bái sè de ， zhuō zi shì mù tou de ， wǒ zuì xǐ huān de shì chuāng hù páng biān de yǐ zi 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "床",
+       "pinyin": "chuáng"
+      },
+      {
+       "label": "B",
+       "text": "椅子",
+       "pinyin": "yǐ zi"
+      },
+      {
+       "label": "C",
+       "text": "桌子",
+       "pinyin": "zhuō zi"
+      }
+     ],
+     "pinyin": "nà ge rén zuì xǐ huān fáng jiān lǐ de shén me ？"
+    },
+    {
+     "id": "q9",
+     "type": "listening-mcq",
+     "prompt": "王老师上课时常常做什么？",
+     "correctAnswer": "C",
+     "explanation": "短文中说王老师常常给我们讲中国故事，所以正确选项是讲中国故事。",
+     "audio": {
+      "key": "listening/v1/2a2be8bb256dbcc5d6e4fe98b061afe55e1eb3fea7271a84c2c1a505d41c5906.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "王老师教我们中文，她上课很有意思，常常给我们讲中国故事。我们都很喜欢她。"
+       }
+      ],
+      "transcript": "王老师教我们中文，她上课很有意思，常常给我们讲中国故事。我们都很喜欢她。",
+      "transcriptPinyin": "wáng lǎo shī jiào wǒ men zhōng wén ， tā shàng kè hěn yǒu yì si ， cháng cháng gěi wǒ men jiǎng zhōng guó gù shì 。 wǒ men dōu hěn xǐ huān tā 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "让学生写汉字",
+       "pinyin": "ràng xué shēng xiě hàn zì"
+      },
+      {
+       "label": "B",
+       "text": "考试",
+       "pinyin": "kǎo shì"
+      },
+      {
+       "label": "C",
+       "text": "讲中国故事",
+       "pinyin": "jiǎng zhōng guó gù shì"
+      }
+     ],
+     "pinyin": "wáng lǎo shī shàng kè shí cháng cháng zuò shén me ？"
+    },
+    {
+     "id": "q10",
+     "type": "listening-mcq",
+     "prompt": "我姐姐在哪里工作？",
+     "correctAnswer": "A",
+     "explanation": "短文中说姐姐在一家医院工作，所以正确选项是在医院。",
+     "audio": {
+      "key": "listening/v1/9054adea7ee879cb6a6cad091446c400c6db39d8c0b42ac6c0276cbe09b21632.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我姐姐在一家医院工作，她是一名医生。她每天都很忙，但是她说她很喜欢她的工作。"
+       }
+      ],
+      "transcript": "我姐姐在一家医院工作，她是一名医生。她每天都很忙，但是她说她很喜欢她的工作。",
+      "transcriptPinyin": "wǒ jiě jiě zài yī jiā yī yuàn gōng zuò ， tā shì yī míng yī shēng 。 tā měi tiān dōu hěn máng ， dàn shì tā shuō tā hěn xǐ huān tā de gōng zuò 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "在医院",
+       "pinyin": "zài yī yuàn"
+      },
+      {
+       "label": "B",
+       "text": "在学校",
+       "pinyin": "zài xué xiào"
+      },
+      {
+       "label": "C",
+       "text": "在商店",
+       "pinyin": "zài shāng diàn"
+      }
+     ],
+     "pinyin": "wǒ jiě jiě zài nǎ lǐ gōng zuò ？"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

@@ -1,0 +1,289 @@
+{
+ "id": "hsk3-listening-p109",
+ "level": "3",
+ "section": "listening",
+ "partKey": "listening-p1",
+ "title": "HSK3 Listening P1",
+ "titleZh": "听力 第一部分（看图听对话）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听对话，然后从A-F六张图片中选择与对话内容相符的一张。注意：每张图片最多被一个对话使用，有一张图片是多余的。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "B",
+     "explanation": "对话中提到了“茶”，所以与B图一杯茶相符。",
+     "audio": {
+      "key": "listening/v1/9bf6de7019b6fb741cbb0e2595084074ddee3c7eaf9282429954efe24c1b6423.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你口渴吗？要不要喝茶？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "好啊，给我一杯茶吧。"
+       }
+      ],
+      "transcript": "你口渴吗？要不要喝茶？ 好啊，给我一杯茶吧。",
+      "transcriptPinyin": "nǐ kǒu kě ma ？ yào bù yào hē chá ？  hǎo a ， gěi wǒ yī bēi chá ba 。"
+     }
+    },
+    {
+     "id": "q2",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "A",
+     "explanation": "对话中提到了“苹果”，所以与A图一个苹果相符。",
+     "audio": {
+      "key": "listening/v1/6aca58dbe07e6f62fe0465f1212a11857d78cf6aa7d6d6cd20cd9714acbf5aa6.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "这个苹果很甜，你吃一个吧。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "好的，我喜欢吃苹果。"
+       }
+      ],
+      "transcript": "这个苹果很甜，你吃一个吧。 好的，我喜欢吃苹果。",
+      "transcriptPinyin": "zhè ge píng guǒ hěn tián ， nǐ chī yí gè ba 。  hǎo de ， wǒ xǐ huān chī píng guǒ 。"
+     }
+    },
+    {
+     "id": "q3",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "D",
+     "explanation": "对话中提到了“跑步”，所以与D图一个人跑步相符。",
+     "audio": {
+      "key": "listening/v1/b388a82f9e1713414dcd4a114a099676a5155bbd972ad8415bc2e1f94904b044.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你每天早上都跑步吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "对，我习惯早上跑一会儿。"
+       }
+      ],
+      "transcript": "你每天早上都跑步吗？ 对，我习惯早上跑一会儿。",
+      "transcriptPinyin": "nǐ měi tiān zǎo shàng dōu pǎo bù ma ？  duì ， wǒ xí guàn zǎo shàng pǎo yī huì er 。"
+     }
+    },
+    {
+     "id": "q4",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "E",
+     "explanation": "对话中提到了“看电影”，所以与E图一个人看电影相符。",
+     "audio": {
+      "key": "listening/v1/b674e6a118de7eefb31482b199cd84bac70fd2143d5efd5c89e697fe372be051.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "周末你做什么？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我喜欢在家看电影。"
+       }
+      ],
+      "transcript": "周末你做什么？ 我喜欢在家看电影。",
+      "transcriptPinyin": "zhōu mò nǐ zuò shén me ？  wǒ xǐ huān zài jiā kàn diàn yǐng 。"
+     }
+    },
+    {
+     "id": "q5",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "C",
+     "explanation": "对话中提到了“书”，所以与C图一本书相符。",
+     "audio": {
+      "key": "listening/v1/e27a0c47dc350f2af7cb57294c2c3c6bc06a7857e0ee18368f3d2e3900982f67.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你最近在看什么书？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我在看一本很有意思的书。"
+       }
+      ],
+      "transcript": "你最近在看什么书？ 我在看一本很有意思的书。",
+      "transcriptPinyin": "nǐ zuì jìn zài kàn shén me shū ？  wǒ zài kàn yī běn hěn yǒu yì si de shū 。"
+     }
+    },
+    {
+     "id": "q6",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "A",
+     "explanation": "对话中再次提到“苹果”，所以与A图相符。",
+     "audio": {
+      "key": "listening/v1/6ce6998fac0dd70f3dd8539ca2e386eaefb26bec399e073de98bc78eeae95faf.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你想吃水果吗？我这里有苹果。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "谢谢，我吃一个苹果就好。"
+       }
+      ],
+      "transcript": "你想吃水果吗？我这里有苹果。 谢谢，我吃一个苹果就好。",
+      "transcriptPinyin": "nǐ xiǎng chī shuǐ guǒ ma ？ wǒ zhè lǐ yǒu píng guǒ 。  xiè xiè ， wǒ chī yí gè píng guǒ jiù hǎo 。"
+     }
+    },
+    {
+     "id": "q7",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "B",
+     "explanation": "对话中提到了“要一杯茶”，所以与B图相符。",
+     "audio": {
+      "key": "listening/v1/d9bd3fa8cc0f6fae099f0146373c0bc414080fbbfd82aca357b840bc97fc86e7.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "服务员，请给我一杯茶。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "好的，请稍等。"
+       }
+      ],
+      "transcript": "服务员，请给我一杯茶。 好的，请稍等。",
+      "transcriptPinyin": "fú wù yuán ， qǐng gěi wǒ yī bēi chá 。  hǎo de ， qǐng shāo děng 。"
+     }
+    },
+    {
+     "id": "q8",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "D",
+     "explanation": "对话中提到了“跑步”，所以与D图相符。",
+     "audio": {
+      "key": "listening/v1/6e58243b9090099e97c190a6621ce41e90dfe051f21d421722d3023b0c4d426d.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你喜欢运动吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "喜欢，我经常跑步。"
+       }
+      ],
+      "transcript": "你喜欢运动吗？ 喜欢，我经常跑步。",
+      "transcriptPinyin": "nǐ xǐ huān yùn dòng ma ？  xǐ huān ， wǒ jīng cháng pǎo bù 。"
+     }
+    },
+    {
+     "id": "q9",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "C",
+     "explanation": "对话中提到了“书”，所以与C图相符。",
+     "audio": {
+      "key": "listening/v1/e153ae06b01f7dff74d796bc556cb8e39e46f438f0d22837754d414c02d50cd6.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "这本书是你借的吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "是的，我从图书馆借的。"
+       }
+      ],
+      "transcript": "这本书是你借的吗？ 是的，我从图书馆借的。",
+      "transcriptPinyin": "zhè běn shū shì nǐ jiè de ma ？  shì de ， wǒ cóng tú shū guǎn jiè de 。"
+     }
+    },
+    {
+     "id": "q10",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "E",
+     "explanation": "对话中提到了“看电影”，所以与E图相符。",
+     "audio": {
+      "key": "listening/v1/283f9e3b1b39595f45597224aae0e4dd4fee5b1e92951f6b37763b69372fbd30.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "晚上我们去看电影吧？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "好啊，我也想去。"
+       }
+      ],
+      "transcript": "晚上我们去看电影吧？ 好啊，我也想去。",
+      "transcriptPinyin": "wǎn shàng wǒ men qù kàn diàn yǐng ba ？  hǎo a ， wǒ yě xiǎng qù 。"
+     }
+    }
+   ],
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-5936f71797fd791dc96a9a10311e6452.png"
+    },
+    {
+     "label": "B",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-4d8f5957aa42b7f219866ee0260ca204.png"
+    },
+    {
+     "label": "C",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-5b2ba70050b96c5129505c2de63586bb.png"
+    },
+    {
+     "label": "D",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-4203ba03b3638e55c7bd33834b81d3b7.png"
+    },
+    {
+     "label": "E",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-5a6b4e68fa9445c0c8bccc2778c2134c.png"
+    },
+    {
+     "label": "F",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-8ffd4bda019c84a3ee00fb06b8dcbd45.png"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

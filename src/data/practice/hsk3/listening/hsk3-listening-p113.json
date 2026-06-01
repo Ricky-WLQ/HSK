@@ -1,0 +1,289 @@
+{
+ "id": "hsk3-listening-p113",
+ "level": "3",
+ "section": "listening",
+ "partKey": "listening-p1",
+ "title": "HSK3 Listening P1",
+ "titleZh": "听力 第一部分（看图听对话）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听对话，然后从A-F六张图片中选择与对话内容最匹配的一张。每段对话只对应一张图片，其中有一张图片是多余的。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "A",
+     "explanation": "对话中提到了“打电话”，与图片A中的人物在打电话一致。",
+     "audio": {
+      "key": "listening/v1/785d9e11e1e30047dcba57012ac3e726a0d13101c51e3a2bb0ceabd8d546c435.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你在给谁打电话？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我在给我妈妈打电话。"
+       }
+      ],
+      "transcript": "你在给谁打电话？ 我在给我妈妈打电话。",
+      "transcriptPinyin": "nǐ zài gěi shuí dǎ diàn huà ？  wǒ zài gěi wǒ mā mā dǎ diàn huà 。"
+     }
+    },
+    {
+     "id": "q2",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "B",
+     "explanation": "对话中提到了“苹果”和“吃”，与图片B中的人物吃苹果一致。",
+     "audio": {
+      "key": "listening/v1/5f5b3517351522c5cd846a96b79d34f791bf938472a1176aea0f1d8e0e8eb5a3.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "这个苹果很好吃。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "是啊，我每天都吃一个。"
+       }
+      ],
+      "transcript": "这个苹果很好吃。 是啊，我每天都吃一个。",
+      "transcriptPinyin": "zhè ge píng guǒ hěn hǎo chī 。  shì a ， wǒ měi tiān dōu chī yí gè 。"
+     }
+    },
+    {
+     "id": "q3",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "C",
+     "explanation": "对话中提到了“骑自行车”，与图片C中的人物骑车一致。",
+     "audio": {
+      "key": "listening/v1/d83cf7463532a4ae694194fca96daa516904fe3637eb56df0cd8c9a6dcd88f5c.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你会骑自行车吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "会，我每天都骑车上学。"
+       }
+      ],
+      "transcript": "你会骑自行车吗？ 会，我每天都骑车上学。",
+      "transcriptPinyin": "nǐ huì qí zì xíng chē ma ？  huì ， wǒ měi tiān dōu qí chē shàng xué 。"
+     }
+    },
+    {
+     "id": "q4",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "D",
+     "explanation": "对话中提到了“看电视”，与图片D中的人物看电视一致。",
+     "audio": {
+      "key": "listening/v1/4010d99aacdbfe76cf89e7f1ef22df5f57046bfdcb606df89c1a0d3ea0462f1d.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "晚上我们看电视吧。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "好啊，我想看新闻。"
+       }
+      ],
+      "transcript": "晚上我们看电视吧。 好啊，我想看新闻。",
+      "transcriptPinyin": "wǎn shàng wǒ men kàn diàn shì ba 。  hǎo a ， wǒ xiǎng kàn xīn wén 。"
+     }
+    },
+    {
+     "id": "q5",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "E",
+     "explanation": "对话中提到了“写信”，与图片E中的人物写信一致。",
+     "audio": {
+      "key": "listening/v1/76a39f79028167b850b9e640c2020a72e3178bcc467d8662399af796158f06fc.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你在写信吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "对，我在给朋友写信。"
+       }
+      ],
+      "transcript": "你在写信吗？ 对，我在给朋友写信。",
+      "transcriptPinyin": "nǐ zài xiě xìn ma ？  duì ， wǒ zài gěi péng yǒu xiě xìn 。"
+     }
+    },
+    {
+     "id": "q6",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "A",
+     "explanation": "对话中提到了“打电话”，与图片A中的人物打电话一致。",
+     "audio": {
+      "key": "listening/v1/c6c7af26bb4f5b24825887fcddaefd2435a01ddc39f01e30ed55c91f298c6a7a.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "请给我打电话。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "好，我马上打。"
+       }
+      ],
+      "transcript": "请给我打电话。 好，我马上打。",
+      "transcriptPinyin": "qǐng gěi wǒ dǎ diàn huà 。  hǎo ， wǒ mǎ shàng dǎ 。"
+     }
+    },
+    {
+     "id": "q7",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "B",
+     "explanation": "对话中提到了“吃苹果”，与图片B中的人物吃苹果一致。",
+     "audio": {
+      "key": "listening/v1/5a326529741b3d8199498512f9b1efa52f45360be399a50a72d49b914b197cdc.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你吃苹果吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "吃，我很喜欢苹果。"
+       }
+      ],
+      "transcript": "你吃苹果吗？ 吃，我很喜欢苹果。",
+      "transcriptPinyin": "nǐ chī píng guǒ ma ？  chī ， wǒ hěn xǐ huān píng guǒ 。"
+     }
+    },
+    {
+     "id": "q8",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "C",
+     "explanation": "对话中提到了“骑自行车”，与图片C中的人物骑车一致。",
+     "audio": {
+      "key": "listening/v1/64aa191b043c96a6d1989910a810864b974e730ae530f1b1ede2dc168d52cdd3.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "他怎么去学校？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "他骑自行车去。"
+       }
+      ],
+      "transcript": "他怎么去学校？ 他骑自行车去。",
+      "transcriptPinyin": "tā zěn me qù xué xiào ？  tā qí zì xíng chē qù 。"
+     }
+    },
+    {
+     "id": "q9",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "D",
+     "explanation": "对话中提到了“看电视”，与图片D中的人物看电视一致。",
+     "audio": {
+      "key": "listening/v1/c9813afbd2d9e5682e0594d00852c48a8e7ee1d2222fe4d504c634e79918caec.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你每天看电视吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "看，我喜欢看电视剧。"
+       }
+      ],
+      "transcript": "你每天看电视吗？ 看，我喜欢看电视剧。",
+      "transcriptPinyin": "nǐ měi tiān kàn diàn shì ma ？  kàn ， wǒ xǐ huān kàn diàn shì jù 。"
+     }
+    },
+    {
+     "id": "q10",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "E",
+     "explanation": "对话中提到了“写信”，与图片E中的人物写信一致。",
+     "audio": {
+      "key": "listening/v1/83db87b8b8d18a4bddaea016397ed83e2f428a782bbc2aeb443984c469318661.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你在做什么？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我在给爸爸写信。"
+       }
+      ],
+      "transcript": "你在做什么？ 我在给爸爸写信。",
+      "transcriptPinyin": "nǐ zài zuò shén me ？  wǒ zài gěi bà bà xiě xìn 。"
+     }
+    }
+   ],
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-64d859011a1d1f89a0de7d4b04cfd574.png"
+    },
+    {
+     "label": "B",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-f474e3d4082a599a79d810dbd7e5dd29.png"
+    },
+    {
+     "label": "C",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-53386d52ed0553b675d0ca7b50d82119.png"
+    },
+    {
+     "label": "D",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-508176ecc6794f4f0a9837a6201f715c.png"
+    },
+    {
+     "label": "E",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-0c8d1c9e2243d828f66c67a601388f0d.png"
+    },
+    {
+     "label": "F",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-c1df976fe8118d1f9911261279b5f731.png"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

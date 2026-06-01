@@ -1,0 +1,202 @@
+{
+ "id": "hsk1-listening-p409",
+ "level": "1",
+ "section": "listening",
+ "partKey": "listening-p4",
+ "title": "HSK1 Listening P4",
+ "titleZh": "听力 第四部分（听问句选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请根据听到的录音，选择正确答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "他是哪国人？",
+     "correctAnswer": "A",
+     "explanation": "旁白说自己是中国人，所以他是中国人。",
+     "audio": {
+      "key": "listening/v1/20e4758182dcaad52151da2b8ef74f90291f18f6fd022a40d82e3e1c8427a396.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "大家好，我是王明。我是中国人。你呢？他是哪国人？"
+       }
+      ],
+      "transcript": "大家好，我是王明。我是中国人。你呢？他是哪国人？",
+      "transcriptPinyin": "dà jiā hǎo ， wǒ shì wáng míng 。 wǒ shì zhōng guó rén 。 nǐ ne ？ tā shì nǎ guó rén ？"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "中国",
+       "pinyin": "zhōng guó"
+      },
+      {
+       "label": "B",
+       "text": "日本",
+       "pinyin": "rì běn"
+      },
+      {
+       "label": "C",
+       "text": "美国",
+       "pinyin": "měi guó"
+      }
+     ],
+     "pinyin": "tā shì nǎ guó rén ？"
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "现在几点？",
+     "correctAnswer": "A",
+     "explanation": "旁白说现在是八点一刻。",
+     "audio": {
+      "key": "listening/v1/8e7b9167a2bf88ac561fd462b22eb3c19ae6221fa76c1eae59548cc91339d8ad.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "现在几点？现在八点一刻。现在几点？"
+       }
+      ],
+      "transcript": "现在几点？现在八点一刻。现在几点？",
+      "transcriptPinyin": "xiàn zài jǐ diǎn ？ xiàn zài bā diǎn yī kè 。 xiàn zài jǐ diǎn ？"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "八点一刻",
+       "pinyin": "bā diǎn yī kè"
+      },
+      {
+       "label": "B",
+       "text": "八点三刻",
+       "pinyin": "bā diǎn sān kè"
+      },
+      {
+       "label": "C",
+       "text": "八点",
+       "pinyin": "bā diǎn"
+      }
+     ],
+     "pinyin": "xiàn zài jǐ diǎn ？"
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "他多大？",
+     "correctAnswer": "C",
+     "explanation": "旁白说自己今年二十岁。",
+     "audio": {
+      "key": "listening/v1/46d7ca4a560ac53524898368200ceb4c726f9e2cb7fde4c0393310692df69f5e.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我今年二十岁。他多大？"
+       }
+      ],
+      "transcript": "我今年二十岁。他多大？",
+      "transcriptPinyin": "wǒ jīn nián èr shí suì 。 tā duō dà ？"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "十二岁",
+       "pinyin": "shí èr suì"
+      },
+      {
+       "label": "B",
+       "text": "十岁",
+       "pinyin": "shí suì"
+      },
+      {
+       "label": "C",
+       "text": "二十岁",
+       "pinyin": "èr shí suì"
+      }
+     ],
+     "pinyin": "tā duō dà ？"
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "书在哪儿？",
+     "correctAnswer": "A",
+     "explanation": "旁白说书在桌子上。",
+     "audio": {
+      "key": "listening/v1/8dcf44bfd20d807d6c0ec4b1432ff708e45eecb8e780dd2ec9d2a72e78a1f7cd.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我的书在桌子上。书在哪儿？"
+       }
+      ],
+      "transcript": "我的书在桌子上。书在哪儿？",
+      "transcriptPinyin": "wǒ de shū zài zhuō zi shàng 。 shū zài nǎ ér ？"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "桌子上",
+       "pinyin": "zhuō zi shàng"
+      },
+      {
+       "label": "B",
+       "text": "桌子下",
+       "pinyin": "zhuō zi xià"
+      },
+      {
+       "label": "C",
+       "text": "桌子后",
+       "pinyin": "zhuō zi hòu"
+      }
+     ],
+     "pinyin": "shū zài nǎ ér ？"
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "他喜欢吃什么？",
+     "correctAnswer": "C",
+     "explanation": "旁白说喜欢吃苹果，不喜欢香蕉。",
+     "audio": {
+      "key": "listening/v1/70ced2232f8203951887d2ae2df76827d297b1cca8a7dbe138a943888fa23d85.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我喜欢吃苹果，不喜欢吃香蕉。他喜欢吃什么？"
+       }
+      ],
+      "transcript": "我喜欢吃苹果，不喜欢吃香蕉。他喜欢吃什么？",
+      "transcriptPinyin": "wǒ xǐ huān chī píng guǒ ， bù xǐ huān chī xiāng jiāo 。 tā xǐ huān chī shén me ？"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "香蕉",
+       "pinyin": "xiāng jiāo"
+      },
+      {
+       "label": "B",
+       "text": "苹果和香蕉",
+       "pinyin": "píng guǒ hé xiāng jiāo"
+      },
+      {
+       "label": "C",
+       "text": "苹果",
+       "pinyin": "píng guǒ"
+      }
+     ],
+     "pinyin": "tā xǐ huān chī shén me ？"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

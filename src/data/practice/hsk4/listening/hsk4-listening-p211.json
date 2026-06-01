@@ -1,0 +1,179 @@
+{
+ "id": "hsk4-listening-p211",
+ "level": "4",
+ "section": "listening",
+ "partKey": "listening-p2",
+ "title": "HSK4 Listening P2",
+ "titleZh": "听力 第二部分（听短文选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听一段独白，然后回答以下问题。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "李华为什么开始学习做饭？",
+     "correctAnswer": "B",
+     "explanation": "旁白中提到'现在自己住了，李华决定学习做饭'，所以原因是她开始独立生活。",
+     "options": [
+      {
+       "label": "A",
+       "text": "因为妈妈要求她做"
+      },
+      {
+       "label": "B",
+       "text": "因为自己租房住了"
+      },
+      {
+       "label": "C",
+       "text": "因为想当厨师"
+      },
+      {
+       "label": "D",
+       "text": "因为喜欢去餐厅吃饭"
+      }
+     ]
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "李华做的第一道菜是什么？",
+     "correctAnswer": "B",
+     "explanation": "旁白明确说'她先试了最简单的炒鸡蛋'，所以第一道菜是炒鸡蛋。",
+     "options": [
+      {
+       "label": "A",
+       "text": "鱼香肉丝"
+      },
+      {
+       "label": "B",
+       "text": "炒鸡蛋"
+      },
+      {
+       "label": "C",
+       "text": "炒青菜"
+      },
+      {
+       "label": "D",
+       "text": "红烧肉"
+      }
+     ]
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "李华第一次做菜时出现了什么问题？",
+     "correctAnswer": "A",
+     "explanation": "旁白提到'但盐放多了，非常咸'，所以她第一次做菜的问题是盐放太多。",
+     "options": [
+      {
+       "label": "A",
+       "text": "盐放太多"
+      },
+      {
+       "label": "B",
+       "text": "忘记放油"
+      },
+      {
+       "label": "C",
+       "text": "火太大烧焦了"
+      },
+      {
+       "label": "D",
+       "text": "鸡蛋没炒熟"
+      }
+     ]
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "李华是通过什么方法提高做饭水平的？",
+     "correctAnswer": "D",
+     "explanation": "旁白说'她看了很多做饭视频，又向朋友请教'，所以她通过看视频和请教朋友提高水平。",
+     "options": [
+      {
+       "label": "A",
+       "text": "买了很多菜谱书"
+      },
+      {
+       "label": "B",
+       "text": "上了烹饪培训班"
+      },
+      {
+       "label": "C",
+       "text": "每天练习炒鸡蛋"
+      },
+      {
+       "label": "D",
+       "text": "看视频和问朋友"
+      }
+     ]
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "现在李华喜欢做什么？",
+     "correctAnswer": "D",
+     "explanation": "旁白提到'现在她特别喜欢请朋友来家里吃饭'，所以她喜欢请朋友吃饭。",
+     "options": [
+      {
+       "label": "A",
+       "text": "一个人安静地吃饭"
+      },
+      {
+       "label": "B",
+       "text": "在网上写做饭日记"
+      },
+      {
+       "label": "C",
+       "text": "和妈妈比赛做饭"
+      },
+      {
+       "label": "D",
+       "text": "请朋友来家里吃饭"
+      }
+     ]
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "李华对做饭有什么看法？",
+     "correctAnswer": "C",
+     "explanation": "旁白最后说'李华觉得做饭不仅有趣，还能让生活更充实'，所以她认为做饭有趣且充实生活。",
+     "options": [
+      {
+       "label": "A",
+       "text": "做饭只是为了填饱肚子"
+      },
+      {
+       "label": "B",
+       "text": "做饭不如叫外卖方便"
+      },
+      {
+       "label": "C",
+       "text": "做饭很有趣，让生活充实"
+      },
+      {
+       "label": "D",
+       "text": "做饭又累又麻烦"
+      }
+     ]
+    }
+   ],
+   "audio": {
+    "key": "listening/v1/7d551dfd10a703e10a02ade5df954807b3b6376efd232bc835019b7b20c13dc0.mp3",
+    "lines": [
+     {
+      "speaker": "旁白",
+      "voice": "narrator",
+      "text": "李华今年刚大学毕业，为了工作方便，她搬到了公司附近租房住。以前在家里，妈妈总是不让她做饭，担心她弄伤自己。现在自己住了，李华决定学习做饭。她先试了最简单的炒鸡蛋，但盐放多了，非常咸。后来她看了很多做饭视频，又向朋友请教，慢慢学会了做很多菜。现在她特别喜欢请朋友来家里吃饭，大家都夸她手艺好。李华觉得做饭不仅有趣，还能让生活更充实。"
+     }
+    ],
+    "transcript": "李华今年刚大学毕业，为了工作方便，她搬到了公司附近租房住。以前在家里，妈妈总是不让她做饭，担心她弄伤自己。现在自己住了，李华决定学习做饭。她先试了最简单的炒鸡蛋，但盐放多了，非常咸。后来她看了很多做饭视频，又向朋友请教，慢慢学会了做很多菜。现在她特别喜欢请朋友来家里吃饭，大家都夸她手艺好。李华觉得做饭不仅有趣，还能让生活更充实。",
+    "transcriptPinyin": null
+   }
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

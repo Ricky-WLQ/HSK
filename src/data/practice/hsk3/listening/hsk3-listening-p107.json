@@ -1,0 +1,289 @@
+{
+ "id": "hsk3-listening-p107",
+ "level": "3",
+ "section": "listening",
+ "partKey": "listening-p1",
+ "title": "HSK3 Listening P1",
+ "titleZh": "听力 第一部分（看图听对话）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听对话，然后选出与对话内容相符的图片。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "A",
+     "explanation": "对话中女生说她在看书，所以对应图片是正在看书的场景。",
+     "audio": {
+      "key": "listening/v1/d1ca9452d028fd184aba3076681957775c3a702950e288966ccc5420d548dc28.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你在做什么？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我在看书，这本书很有意思。"
+       }
+      ],
+      "transcript": "你在做什么？ 我在看书，这本书很有意思。",
+      "transcriptPinyin": "nǐ zài zuò shén me ？  wǒ zài kàn shū ， zhè běn shū hěn yǒu yì si 。"
+     }
+    },
+    {
+     "id": "q2",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "B",
+     "explanation": "对话中女生说她在给妈妈打电话，所以对应图片是打电话的场景。",
+     "audio": {
+      "key": "listening/v1/9b1bc49519511d82e54083bad4e29681c7ff64b2889b8e8dadef0cabcd85015e.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你给谁打电话？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我在给我妈妈打电话。"
+       }
+      ],
+      "transcript": "你给谁打电话？ 我在给我妈妈打电话。",
+      "transcriptPinyin": "nǐ gěi shuí dǎ diàn huà ？  wǒ zài gěi wǒ mā mā dǎ diàn huà 。"
+     }
+    },
+    {
+     "id": "q3",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "C",
+     "explanation": "对话中女生说她每天早上跑步，所以对应图片是跑步的场景。",
+     "audio": {
+      "key": "listening/v1/7d6d85fc9cd21159d45cf17e458bf5ed79595ec499b9594fd4102ecade622ed6.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你每天早上都跑步吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "是的，跑步对身体好。"
+       }
+      ],
+      "transcript": "你每天早上都跑步吗？ 是的，跑步对身体好。",
+      "transcriptPinyin": "nǐ měi tiān zǎo shàng dōu pǎo bù ma ？  shì de ， pǎo bù duì shēn tǐ hǎo 。"
+     }
+    },
+    {
+     "id": "q4",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "D",
+     "explanation": "对话中女生说她在吃饭，所以对应图片是吃饭的场景。",
+     "audio": {
+      "key": "listening/v1/20352b625a051cdbdfddb8c872cc16cc43c7022c749d2559d07b10491b05f64f.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你吃饭了吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "正在吃，今天的菜很好吃。"
+       }
+      ],
+      "transcript": "你吃饭了吗？ 正在吃，今天的菜很好吃。",
+      "transcriptPinyin": "nǐ chī fàn le ma ？  zhèng zài chī ， jīn tiān de cài hěn hǎo chī 。"
+     }
+    },
+    {
+     "id": "q5",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "E",
+     "explanation": "对话中女生说她还在睡觉，所以对应图片是睡觉的场景。",
+     "audio": {
+      "key": "listening/v1/f4e7e5268a5e8e88d9ff2a931fc1baf1fe12c873eb6fc82b091746ca60c0ae56.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你怎么还在睡觉？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我昨晚睡得晚，现在困。"
+       }
+      ],
+      "transcript": "你怎么还在睡觉？ 我昨晚睡得晚，现在困。",
+      "transcriptPinyin": "nǐ zěn me hái zài shuì jiào ？  wǒ zuó wǎn shuì dé wǎn ， xiàn zài kùn 。"
+     }
+    },
+    {
+     "id": "q6",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "A",
+     "explanation": "对话中女生说她喜欢看书，所以对应图片是看书的场景。",
+     "audio": {
+      "key": "listening/v1/53aa3c35b7fe0cd72f7297b6a5b54b66445052cd1f0873e031e6591af06f3142.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你喜欢看书吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "很喜欢，我每天都看书。"
+       }
+      ],
+      "transcript": "你喜欢看书吗？ 很喜欢，我每天都看书。",
+      "transcriptPinyin": "nǐ xǐ huān kàn shū ma ？  hěn xǐ huān ， wǒ měi tiān dōu kàn shū 。"
+     }
+    },
+    {
+     "id": "q7",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "B",
+     "explanation": "对话中女生在打电话说约朋友见面，所以对应图片是打电话的场景。",
+     "audio": {
+      "key": "listening/v1/7ae0b82f79702c8c5a8cf6bedc039185344b45ff6a998e9397eb0e3ecc516bb9.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你打电话有什么事？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我约朋友明天见面。"
+       }
+      ],
+      "transcript": "你打电话有什么事？ 我约朋友明天见面。",
+      "transcriptPinyin": "nǐ dǎ diàn huà yǒu shén me shì ？  wǒ yuē péng yǒu míng tiān jiàn miàn 。"
+     }
+    },
+    {
+     "id": "q8",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "C",
+     "explanation": "对话中女生说她练习跑步，所以对应图片是跑步的场景。",
+     "audio": {
+      "key": "listening/v1/984b7a8852e9f955e190d896e8814db7a7c5326d75e7ad4d43eebcedb89ef751.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你跑得真快！"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我每天都练习跑步。"
+       }
+      ],
+      "transcript": "你跑得真快！ 我每天都练习跑步。",
+      "transcriptPinyin": "nǐ pǎo dé zhēn kuài ！  wǒ měi tiān dōu liàn xí pǎo bù 。"
+     }
+    },
+    {
+     "id": "q9",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "D",
+     "explanation": "对话中女生说她还没吃饭，所以对应图片是吃饭的场景。",
+     "audio": {
+      "key": "listening/v1/77cd0ff3c3f2a23c43d89bac2a5e02e92a773720dd0283a5b24862c6771e248e.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你要不要一起吃？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "好啊，我还没吃饭。"
+       }
+      ],
+      "transcript": "你要不要一起吃？ 好啊，我还没吃饭。",
+      "transcriptPinyin": "nǐ yào bù yào yì qǐ chī ？  hǎo a ， wǒ hái méi chī fàn 。"
+     }
+    },
+    {
+     "id": "q10",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "E",
+     "explanation": "对话中女生说她睡觉睡得很好，所以对应图片是睡觉的场景。",
+     "audio": {
+      "key": "listening/v1/5a8762071adbb64417ccef43d2964ba25d55ac50cf0d27e4a58a631506854002.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你睡得好吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "睡得很好，现在精神多了。"
+       }
+      ],
+      "transcript": "你睡得好吗？ 睡得很好，现在精神多了。",
+      "transcriptPinyin": "nǐ shuì dé hǎo ma ？  shuì dé hěn hǎo ， xiàn zài jīng shén duō le 。"
+     }
+    }
+   ],
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-94d29931fc8e0a8ddf84afd14a3c4474.png"
+    },
+    {
+     "label": "B",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-4d38aa6842e45eb00a2ad98f4df83ed6.png"
+    },
+    {
+     "label": "C",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-8f05f1f662d3259d73723b4480934ef2.png"
+    },
+    {
+     "label": "D",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-397fbfbc2483e165ca589b5128e4368c.png"
+    },
+    {
+     "label": "E",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-82dc75eb264ba7cb80459da953fa11fd.png"
+    },
+    {
+     "label": "F",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-c9651856ae965e9921834cb90e111c18.png"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

@@ -1,0 +1,437 @@
+{
+ "id": "hsk5-listening-p117",
+ "level": "5",
+ "section": "listening",
+ "partKey": "listening-p1",
+ "title": "HSK5 Listening P1",
+ "titleZh": "听力 第一部分（听对话选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听对话，然后根据对话内容选择正确答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "女的为什么没参加聚会？",
+     "correctAnswer": "A",
+     "explanation": "女士明确说临时接到通知要去机场接一个客户，所以是去接客户导致她没参加聚会。",
+     "audio": {
+      "key": "listening/v1/81ff3fa00050dd44f5315a7a9b2254f3e0dd8478469e079557150d8964a18bcc.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你昨天怎么没来参加聚会？大家都等着你呢。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "真不好意思，我临时接到通知，要去机场接一个客户。"
+       }
+      ],
+      "transcript": "你昨天怎么没来参加聚会？大家都等着你呢。 真不好意思，我临时接到通知，要去机场接一个客户。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "要去接客户"
+      },
+      {
+       "label": "B",
+       "text": "不喜欢聚会"
+      },
+      {
+       "label": "C",
+       "text": "忘了时间"
+      },
+      {
+       "label": "D",
+       "text": "身体不舒服"
+      }
+     ]
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "男的对这次面试的看法是什么？",
+     "correctAnswer": "D",
+     "explanation": "男士说觉得挺好的，问题都回答上来了，说明他对面试感觉不错。",
+     "audio": {
+      "key": "listening/v1/09213ecb4b0e8be56c8f87b2290abe1bfc40d7c9fe4ffdc920ca17f39d8c144c.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你觉得这次面试怎么样？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我觉得挺好的，面试官问的问题我都回答上来了，应该有机会。"
+       }
+      ],
+      "transcript": "你觉得这次面试怎么样？ 我觉得挺好的，面试官问的问题我都回答上来了，应该有机会。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "没有把握"
+      },
+      {
+       "label": "B",
+       "text": "很紧张"
+      },
+      {
+       "label": "C",
+       "text": "问题太难"
+      },
+      {
+       "label": "D",
+       "text": "感觉不错"
+      }
+     ]
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "女的决定这个周末做什么？",
+     "correctAnswer": "A",
+     "explanation": "女士说妈妈过生日，得回家陪她，所以这个周末她要回家陪妈妈过生日。",
+     "audio": {
+      "key": "listening/v1/0ec64121a712058533af01fefe1be96bc1a77e60d42ddc9fbbbfd501ee79a21d.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "这个周末我们一起去爬山吧？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我倒是想去，不过我妈妈这周末过生日，我得回家陪她。"
+       }
+      ],
+      "transcript": "这个周末我们一起去爬山吧？ 我倒是想去，不过我妈妈这周末过生日，我得回家陪她。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "陪妈妈过生日"
+      },
+      {
+       "label": "B",
+       "text": "加班工作"
+      },
+      {
+       "label": "C",
+       "text": "在家休息"
+      },
+      {
+       "label": "D",
+       "text": "和男的去爬山"
+      }
+     ]
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "男的推荐女的做什么？",
+     "correctAnswer": "B",
+     "explanation": "男士推荐说你也看看，是劝女士也看那本历史小说。",
+     "audio": {
+      "key": "listening/v1/6b72449c84e1af256cd55f99fdb16b81a598b4e8667a55c96d5012ce828f2606.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你最近在看什么书？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我在看一本关于历史的小说，挺有意思的，推荐你也看看。"
+       }
+      ],
+      "transcript": "你最近在看什么书？ 我在看一本关于历史的小说，挺有意思的，推荐你也看看。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "看历史电影"
+      },
+      {
+       "label": "B",
+       "text": "也看那本小说"
+      },
+      {
+       "label": "C",
+       "text": "写历史小说"
+      },
+      {
+       "label": "D",
+       "text": "一起去看小说"
+      }
+     ]
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "女的为什么学做饭？",
+     "correctAnswer": "D",
+     "explanation": "女士说自己做饭比较健康而且可以省钱，这是她学做饭的原因。",
+     "audio": {
+      "key": "listening/v1/0d71202ff241949686c7cafd98ea4fbac34ec55881a39fc1f487974636916ec1.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "听说你最近在学做饭？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "是啊，我觉得自己做饭比较健康，而且可以省钱。"
+       }
+      ],
+      "transcript": "听说你最近在学做饭？ 是啊，我觉得自己做饭比较健康，而且可以省钱。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "因为喜欢做菜"
+      },
+      {
+       "label": "B",
+       "text": "因为无聊"
+      },
+      {
+       "label": "C",
+       "text": "为了给别人做饭"
+      },
+      {
+       "label": "D",
+       "text": "为了健康和省钱"
+      }
+     ]
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "男的明天要做什么？",
+     "correctAnswer": "C",
+     "explanation": "男士说明天要去医院看牙，已经预约好了。",
+     "audio": {
+      "key": "listening/v1/8f2b90c748e48df54a6960335daa636eadc1b4131f9da9367ecd23ba2b660a6a.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你明天有空吗？我想请你帮我个忙。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "不好意思，我明天要去医院看牙，已经预约好了。"
+       }
+      ],
+      "transcript": "你明天有空吗？我想请你帮我个忙。 不好意思，我明天要去医院看牙，已经预约好了。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "帮女士的忙"
+      },
+      {
+       "label": "B",
+       "text": "在家休息"
+      },
+      {
+       "label": "C",
+       "text": "去医院看牙"
+      },
+      {
+       "label": "D",
+       "text": "去上班"
+      }
+     ]
+    },
+    {
+     "id": "q7",
+     "type": "listening-mcq",
+     "prompt": "关于女士的工作情况，下面哪个是正确的？",
+     "correctAnswer": "B",
+     "explanation": "女士说还没有找到，但有一家让她下周去第二次面试，因此下周去第二次面试是正确的。",
+     "audio": {
+      "key": "listening/v1/18ec6517fc1755a86b0b4dffd7ea029ce3be71894afd4f059d441922979e71bd.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你找到新工作了吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "还没有呢，不过我已经面试了几家公司，有一家让我下周去第二次面试。"
+       }
+      ],
+      "transcript": "你找到新工作了吗？ 还没有呢，不过我已经面试了几家公司，有一家让我下周去第二次面试。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "已经找到新工作"
+      },
+      {
+       "label": "B",
+       "text": "下周去第二次面试"
+      },
+      {
+       "label": "C",
+       "text": "放弃了找工作"
+      },
+      {
+       "label": "D",
+       "text": "没有参加任何面试"
+      }
+     ]
+    },
+    {
+     "id": "q8",
+     "type": "listening-mcq",
+     "prompt": "男的对这件衣服的看法是什么？",
+     "correctAnswer": "B",
+     "explanation": "男士说颜色挺好看的，但款式简单不太适合婚礼，所以是颜色好看但款式不合适。",
+     "audio": {
+      "key": "listening/v1/d6b1c94d903cea2aee16ce65a7877f1a8bb0076ccc607bb374bfefdc217d9bf4.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你觉得这件衣服怎么样？我打算买来参加朋友的婚礼。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "颜色挺好看的，不过款式好像有点简单，不太适合婚礼这种场合。"
+       }
+      ],
+      "transcript": "你觉得这件衣服怎么样？我打算买来参加朋友的婚礼。 颜色挺好看的，不过款式好像有点简单，不太适合婚礼这种场合。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "颜色和款式都很好"
+      },
+      {
+       "label": "B",
+       "text": "颜色好看但款式不合适"
+      },
+      {
+       "label": "C",
+       "text": "完全不合适"
+      },
+      {
+       "label": "D",
+       "text": "款式好看但颜色不好"
+      }
+     ]
+    },
+    {
+     "id": "q9",
+     "type": "listening-mcq",
+     "prompt": "女的下班后的第一件事是什么？",
+     "correctAnswer": "A",
+     "explanation": "女士说一般会去健身房锻炼一个小时，然后回家做饭，所以第一件事是去健身房锻炼。",
+     "audio": {
+      "key": "listening/v1/aa5312efcce5134e8b6135c3ab6eaba5e4151640e5e24473498d1c8d3dab8b92.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你平时下班后都做些什么？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我一般会去健身房锻炼一个小时，然后回家做饭。"
+       }
+      ],
+      "transcript": "你平时下班后都做些什么？ 我一般会去健身房锻炼一个小时，然后回家做饭。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "去健身房锻炼"
+      },
+      {
+       "label": "B",
+       "text": "和朋友逛街"
+      },
+      {
+       "label": "C",
+       "text": "看电视"
+      },
+      {
+       "label": "D",
+       "text": "回家做饭"
+      }
+     ]
+    },
+    {
+     "id": "q10",
+     "type": "listening-mcq",
+     "prompt": "男的什么时候回来？",
+     "correctAnswer": "D",
+     "explanation": "男士说下周五才能回来，所以回来时间是下周五。",
+     "audio": {
+      "key": "listening/v1/962e36bdd564d2c43cc4e626948d39d379113ecafaf819b9f762f323928427e2.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你这次出差要去多久？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "大概一个星期，下周五才能回来。"
+       }
+      ],
+      "transcript": "你这次出差要去多久？ 大概一个星期，下周五才能回来。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "一个星期后"
+      },
+      {
+       "label": "B",
+       "text": "下周一开始"
+      },
+      {
+       "label": "C",
+       "text": "这周五"
+      },
+      {
+       "label": "D",
+       "text": "下周五"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

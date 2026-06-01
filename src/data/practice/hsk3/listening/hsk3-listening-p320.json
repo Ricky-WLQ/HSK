@@ -1,0 +1,387 @@
+{
+ "id": "hsk3-listening-p320",
+ "level": "3",
+ "section": "listening",
+ "partKey": "listening-p3",
+ "title": "HSK3 Listening P3",
+ "titleZh": "听力 第三部分（听短文选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "听下面的对话或独白，然后回答问题。每题有三个选项，请选出正确答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "他们打算什么时候去公园？",
+     "correctAnswer": "B",
+     "explanation": "旁白一开始就说“明天是星期六，我和朋友约好去公园玩”，所以他们是计划明天去。虽然担心下雨可能改期，但原计划是明天。",
+     "audio": {
+      "key": "listening/v1/665146266ffb5859181350809da93dc11617d451513492a481ec096d20ff2e33.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "明天是星期六，我和朋友约好去公园玩。但是天气预报说明天会下雨，所以我有点担心。我们计划早上九点出发，如果下雨的话，可能就改到下个星期六了。"
+       }
+      ],
+      "transcript": "明天是星期六，我和朋友约好去公园玩。但是天气预报说明天会下雨，所以我有点担心。我们计划早上九点出发，如果下雨的话，可能就改到下个星期六了。",
+      "transcriptPinyin": "míng tiān shì xīng qī liù ， wǒ hé péng yǒu yuē hǎo qù gōng yuán wán 。 dàn shì tiān qì yù bào shuō míng tiān huì xià yǔ ， suǒ yǐ wǒ yǒu diǎn dān xīn 。 wǒ men jì huà zǎo shàng jiǔ diǎn chū fā ， rú guǒ xià yǔ de huà ， kě néng jiù gǎi dào xià gè xīng qī liù le 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "下个星期六",
+       "pinyin": "xià gè xīng qī liù"
+      },
+      {
+       "label": "B",
+       "text": "明天",
+       "pinyin": "míng tiān"
+      },
+      {
+       "label": "C",
+       "text": "今天",
+       "pinyin": "jīn tiān"
+      }
+     ],
+     "pinyin": "tā men dǎ suàn shén me shí hòu qù gōng yuán ？"
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "哥哥在哪里工作？",
+     "correctAnswer": "B",
+     "explanation": "旁白明确说“我哥哥在一家医院工作”，所以是在医院工作。",
+     "audio": {
+      "key": "listening/v1/626e9181699a2c89e4119a179999cf577309edbafa170a038ce47ca7492a4a77.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我哥哥在一家医院工作，他是医生。他每天都很忙，有时候晚上还要加班。他喜欢帮助别人，所以虽然很累，但是很开心。"
+       }
+      ],
+      "transcript": "我哥哥在一家医院工作，他是医生。他每天都很忙，有时候晚上还要加班。他喜欢帮助别人，所以虽然很累，但是很开心。",
+      "transcriptPinyin": "wǒ gē gē zài yī jiā yī yuàn gōng zuò ， tā shì yī shēng 。 tā měi tiān dōu hěn máng ， yǒu shí hòu wǎn shàng hái yào jiā bān 。 tā xǐ huān bāng zhù bié rén ， suǒ yǐ suī rán hěn lèi ， dàn shì hěn kāi xīn 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "学校",
+       "pinyin": "xué xiào"
+      },
+      {
+       "label": "B",
+       "text": "医院",
+       "pinyin": "yī yuàn"
+      },
+      {
+       "label": "C",
+       "text": "公司",
+       "pinyin": "gōng sī"
+      }
+     ],
+     "pinyin": "gē gē zài nǎ lǐ gōng zuò ？"
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "小李买的书是关于什么的？",
+     "correctAnswer": "C",
+     "explanation": "旁白说小李买的书是“关于中国历史的”，所以答案是中国历史。",
+     "audio": {
+      "key": "listening/v1/8a0be0a163f8a6a805daaeb4efd8b2fde30a8ee80a838aa36aa19996f2e2d836.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "小李昨天买了一本书，是关于中国历史的。他非常喜欢看历史书，特别是中国古代的故事。他打算这个周末看完这本书，然后写一篇读后感。"
+       }
+      ],
+      "transcript": "小李昨天买了一本书，是关于中国历史的。他非常喜欢看历史书，特别是中国古代的故事。他打算这个周末看完这本书，然后写一篇读后感。",
+      "transcriptPinyin": "xiǎo lǐ zuó tiān mǎi le yī běn shū ， shì guān yú zhōng guó lì shǐ de 。 tā fēi cháng xǐ huān kàn lì shǐ shū ， tè bié shì zhōng guó gǔ dài de gù shì 。 tā dǎ suàn zhè ge zhōu mò kàn wán zhè běn shū ， rán hòu xiě yī piān dú hòu gǎn 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "中国地理",
+       "pinyin": "zhōng guó dì lǐ"
+      },
+      {
+       "label": "B",
+       "text": "中国文学",
+       "pinyin": "zhōng guó wén xué"
+      },
+      {
+       "label": "C",
+       "text": "中国历史",
+       "pinyin": "zhōng guó lì shǐ"
+      }
+     ],
+     "pinyin": "xiǎo lǐ mǎi de shū shì guān yú shén me de ？"
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "今天天气怎么样？",
+     "correctAnswer": "A",
+     "explanation": "旁白第一句就说“今天天气很热，有三十五度”，所以天气很热。",
+     "audio": {
+      "key": "listening/v1/2445d685115a266443194e9f357380d2120df219a40c08b2cb4ad3b404e7229c.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "今天天气很热，有三十五度。妈妈让我不要出去，在家里开空调。我吃了两块西瓜，喝了一杯冰水，感觉好多了。"
+       }
+      ],
+      "transcript": "今天天气很热，有三十五度。妈妈让我不要出去，在家里开空调。我吃了两块西瓜，喝了一杯冰水，感觉好多了。",
+      "transcriptPinyin": "jīn tiān tiān qì hěn rè ， yǒu sān shí wǔ dù 。 mā mā ràng wǒ bú yào chū qù ， zài jiā lǐ kāi kōng tiáo 。 wǒ chī le liǎng kuài xī guā ， hē le yī bēi bīng shuǐ ， gǎn jué hǎo duō le 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "很热",
+       "pinyin": "hěn rè"
+      },
+      {
+       "label": "B",
+       "text": "很冷",
+       "pinyin": "hěn lěng"
+      },
+      {
+       "label": "C",
+       "text": "很凉快",
+       "pinyin": "hěn liáng kuài"
+      }
+     ],
+     "pinyin": "jīn tiān tiān qì zěn me yàng ？"
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "说话人为什么买新手机？",
+     "correctAnswer": "C",
+     "explanation": "旁白说“我的手机坏了，不能打电话了。所以我去商店买了一个新手机”，所以原因是旧手机坏了。",
+     "audio": {
+      "key": "listening/v1/a7f963b3563d3a2d6868cd69b82354ce8c76e6fe0969ead640d9cd9183797230.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我的手机坏了，不能打电话了。所以我去商店买了一个新手机。这个新手机很便宜，只要一千块钱，而且功能很多，我很喜欢。"
+       }
+      ],
+      "transcript": "我的手机坏了，不能打电话了。所以我去商店买了一个新手机。这个新手机很便宜，只要一千块钱，而且功能很多，我很喜欢。",
+      "transcriptPinyin": "wǒ de shǒu jī huài le ， bù néng dǎ diàn huà le 。 suǒ yǐ wǒ qù shāng diàn mǎi le yí gè xīn shǒu jī 。 zhè ge xīn shǒu jī hěn pián yi ， zhǐ yào yī qiān kuài qián ， ér qiě gōng néng hěn duō ， wǒ hěn xǐ huān 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "新手机很漂亮",
+       "pinyin": "xīn shǒu jī hěn piào liàng"
+      },
+      {
+       "label": "B",
+       "text": "旧手机丢了",
+       "pinyin": "jiù shǒu jī diū le"
+      },
+      {
+       "label": "C",
+       "text": "旧手机坏了",
+       "pinyin": "jiù shǒu jī huài le"
+      }
+     ],
+     "pinyin": "shuō huà rén wéi shén me mǎi xīn shǒu jī ？"
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "王老师为什么没有继续上课？",
+     "correctAnswer": "B",
+     "explanation": "旁白最后说“这个学期她生病了，所以换了一个新老师”，所以是因为生病。",
+     "audio": {
+      "key": "listening/v1/aca763e2acbb44c282853b5bad824e03fd399887715a0e1f6a8190ea7b0b6d44.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "王老师是我们的语文老师，她教了我们两年了。她上课很有意思，经常给我们讲故事。同学们都很喜欢她。这个学期她生病了，所以换了一个新老师。"
+       }
+      ],
+      "transcript": "王老师是我们的语文老师，她教了我们两年了。她上课很有意思，经常给我们讲故事。同学们都很喜欢她。这个学期她生病了，所以换了一个新老师。",
+      "transcriptPinyin": "wáng lǎo shī shì wǒ men de yǔ wén lǎo shī ， tā jiào le wǒ men liǎng nián le 。 tā shàng kè hěn yǒu yì si ， jīng cháng gěi wǒ men jiǎng gù shì 。 tóng xué men dōu hěn xǐ huān tā 。 zhè ge xué qī tā shēng bìng le ， suǒ yǐ huàn le yí gè xīn lǎo shī 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "她去旅行了",
+       "pinyin": "tā qù lǚ xíng le"
+      },
+      {
+       "label": "B",
+       "text": "她生病了",
+       "pinyin": "tā shēng bìng le"
+      },
+      {
+       "label": "C",
+       "text": "她退休了",
+       "pinyin": "tā tuì xiū le"
+      }
+     ],
+     "pinyin": "wáng lǎo shī wèi shén me méi yǒu jì xù shàng kè ？"
+    },
+    {
+     "id": "q7",
+     "type": "listening-mcq",
+     "prompt": "说话人做了什么事？",
+     "correctAnswer": "C",
+     "explanation": "旁白说“我马上站起来把座位让给了他”，所以是让座。",
+     "audio": {
+      "key": "listening/v1/5d940a4428f2bcfcab8ad9b863ff6ab195db0b1b4f5af792e04c61a104899f18.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "晚上七点，我坐公交车回家。车上有许多人，很挤。我旁边站着一个老人，我马上站起来把座位让给了他。老人很高兴，对我说谢谢。"
+       }
+      ],
+      "transcript": "晚上七点，我坐公交车回家。车上有许多人，很挤。我旁边站着一个老人，我马上站起来把座位让给了他。老人很高兴，对我说谢谢。",
+      "transcriptPinyin": "wǎn shàng qī diǎn ， wǒ zuò gōng jiāo chē huí jiā 。 chē shàng yǒu xǔ duō rén ， hěn jǐ 。 wǒ páng biān zhàn zhe yí gè lǎo rén ， wǒ mǎ shàng zhàn qǐ lái bǎ zuò wèi ràng gěi le tā 。 lǎo rén hěn gāo xìng ， duì wǒ shuō xiè xiè 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "他帮老人拿东西",
+       "pinyin": "tā bāng lǎo rén ná dōng xī"
+      },
+      {
+       "label": "B",
+       "text": "他给老人指路",
+       "pinyin": "tā gěi lǎo rén zhǐ lù"
+      },
+      {
+       "label": "C",
+       "text": "他给老人让座",
+       "pinyin": "tā gěi lǎo rén ràng zuò"
+      }
+     ],
+     "pinyin": "shuō huà rén zuò le shén me shì ？"
+    },
+    {
+     "id": "q8",
+     "type": "listening-mcq",
+     "prompt": "姐姐打算什么时候结婚？",
+     "correctAnswer": "B",
+     "explanation": "旁白说“我姐姐明年要结婚了，她打算在春天结婚”，所以是明年春天。",
+     "audio": {
+      "key": "listening/v1/a768c162ab8fdce19421dce2a72f6f8e56d70ea4721f094e2a8040986f3d6827.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我姐姐明年要结婚了，她打算在春天结婚，因为那时候天气最好，不冷不热。她邀请我做她的伴娘，我很高兴地答应了。"
+       }
+      ],
+      "transcript": "我姐姐明年要结婚了，她打算在春天结婚，因为那时候天气最好，不冷不热。她邀请我做她的伴娘，我很高兴地答应了。",
+      "transcriptPinyin": "wǒ jiě jiě míng nián yào jié hūn le ， tā dǎ suàn zài chūn tiān jié hūn ， yīn wèi nà shí hòu tiān qì zuì hǎo ， bù lěng bù rè 。 tā yāo qǐng wǒ zuò tā de bàn niáng ， wǒ hěn gāo xìng dì dā yìng le 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "明年冬天",
+       "pinyin": "míng nián dōng tiān"
+      },
+      {
+       "label": "B",
+       "text": "明年春天",
+       "pinyin": "míng nián chūn tiān"
+      },
+      {
+       "label": "C",
+       "text": "今年秋天",
+       "pinyin": "jīn nián qiū tiān"
+      }
+     ],
+     "pinyin": "jiě jiě dǎ suàn shén me shí hòu jié hūn ？"
+    },
+    {
+     "id": "q9",
+     "type": "listening-mcq",
+     "prompt": "说话人为什么下次不来了？",
+     "correctAnswer": "A",
+     "explanation": "旁白说“价格太贵了”以及“我的工资不高，吃不起”，所以原因是太贵。",
+     "audio": {
+      "key": "listening/v1/1e5849d279e4896c55d2651880cc1052c2405a176189ae62649ddf96e12ee6b4.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "这家饭馆的菜很好吃，但是价格太贵了。我们三个人吃了五百块钱，每个人花了差不多一百七十块。下次我不来了，因为我的工资不高，吃不起。"
+       }
+      ],
+      "transcript": "这家饭馆的菜很好吃，但是价格太贵了。我们三个人吃了五百块钱，每个人花了差不多一百七十块。下次我不来了，因为我的工资不高，吃不起。",
+      "transcriptPinyin": "zhè jiā fàn guǎn de cài hěn hǎo chī ， dàn shì jià gé tài guì le 。 wǒ men sān gè rén chī le wǔ bǎi kuài qián ， měi gè rén huā le chà bu duō yì bǎi qī shí kuài 。 xià cì wǒ bù lái le ， yīn wèi wǒ de gōng zī bù gāo ， chī bù qǐ 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "价格太贵",
+       "pinyin": "jià gé tài guì"
+      },
+      {
+       "label": "B",
+       "text": "菜不好吃",
+       "pinyin": "cài bù hǎo chī"
+      },
+      {
+       "label": "C",
+       "text": "服务不好",
+       "pinyin": "fú wù bù hǎo"
+      }
+     ],
+     "pinyin": "shuō huà rén wéi shén me xià cì bù lái le ？"
+    },
+    {
+     "id": "q10",
+     "type": "listening-mcq",
+     "prompt": "说话人怎么去上班？",
+     "correctAnswer": "B",
+     "explanation": "旁白说“公司离我家不远，走路只要二十分钟。所以我每天都走路去”，所以是走路。",
+     "audio": {
+      "key": "listening/v1/93ddf417cfea721506bf6f15de9dfd5215432141eb6029c351474debad27b719.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我每天早上七点起床，然后刷牙洗脸，吃早饭。八点出门去上班。公司离我家不远，走路只要二十分钟。所以我每天都走路去。"
+       }
+      ],
+      "transcript": "我每天早上七点起床，然后刷牙洗脸，吃早饭。八点出门去上班。公司离我家不远，走路只要二十分钟。所以我每天都走路去。",
+      "transcriptPinyin": "wǒ měi tiān zǎo shàng qī diǎn qǐ chuáng ， rán hòu shuā yá xǐ liǎn ， chī zǎo fàn 。 bā diǎn chū mén qù shàng bān 。 gōng sī lí wǒ jiā bù yuǎn ， zǒu lù zhǐ yào èr shí fēn zhōng 。 suǒ yǐ wǒ měi tiān dōu zǒu lù qù 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "开车",
+       "pinyin": "kāi chē"
+      },
+      {
+       "label": "B",
+       "text": "走路",
+       "pinyin": "zǒu lù"
+      },
+      {
+       "label": "C",
+       "text": "坐公交车",
+       "pinyin": "zuò gōng jiāo chē"
+      }
+     ],
+     "pinyin": "shuō huà rén zěn me qù shàng bān ？"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

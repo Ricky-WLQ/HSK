@@ -1,0 +1,605 @@
+{
+ "id": "hsk4-listening-p106",
+ "level": "4",
+ "section": "listening",
+ "partKey": "listening-p1",
+ "title": "HSK4 Listening P1",
+ "titleZh": "听力 第一部分（听对话选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听下面的对话，然后根据对话内容选择正确的答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "女的昨天去超市做了什么？",
+     "correctAnswer": "D",
+     "explanation": "对话中女的明确说‘忘记买牛奶了’，因此正确答案是忘记买牛奶。",
+     "audio": {
+      "key": "listening/v1/2fb718e28151fac7d79170191d1b9f1a55ccfdbf3026b6ae078c79ae59b5fb60.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你昨天去超市了吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "去了，但是我忘记买牛奶了。"
+       }
+      ],
+      "transcript": "你昨天去超市了吗？ 去了，但是我忘记买牛奶了。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "没去超市"
+      },
+      {
+       "label": "B",
+       "text": "买了牛奶"
+      },
+      {
+       "label": "C",
+       "text": "买了其他东西"
+      },
+      {
+       "label": "D",
+       "text": "忘记买牛奶"
+      }
+     ]
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "男的学汉语多久了？",
+     "correctAnswer": "C",
+     "explanation": "男的说‘学了一年多了’，所以时间是一年多。",
+     "audio": {
+      "key": "listening/v1/8b0dc345f9ef00cc2f09e04da903d2d46963a16177fa20600d10175d03a20c13.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你的汉语说得真不错！"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "哪里哪里，我学了一年多了，但是还不太流利。"
+       }
+      ],
+      "transcript": "你的汉语说得真不错！ 哪里哪里，我学了一年多了，但是还不太流利。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "不到一年"
+      },
+      {
+       "label": "B",
+       "text": "两年"
+      },
+      {
+       "label": "C",
+       "text": "一年多"
+      },
+      {
+       "label": "D",
+       "text": "一年"
+      }
+     ]
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "关于明天的考试，女的怎么样？",
+     "correctAnswer": "A",
+     "explanation": "女的说‘复习了两遍’，因此她复习了两次。",
+     "audio": {
+      "key": "listening/v1/a39df0324b3703db2eff43a452c42dfd5b35b777b1720bca52a2a88456f44e06.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "明天的考试你准备得怎么样？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我复习了两遍，但是有些地方还是不太明白。"
+       }
+      ],
+      "transcript": "明天的考试你准备得怎么样？ 我复习了两遍，但是有些地方还是不太明白。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "复习了两次"
+      },
+      {
+       "label": "B",
+       "text": "不想参加"
+      },
+      {
+       "label": "C",
+       "text": "完全不会"
+      },
+      {
+       "label": "D",
+       "text": "没有复习"
+      }
+     ]
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "男的担心什么？",
+     "correctAnswer": "C",
+     "explanation": "男的说‘周末会下雨’，表示他担心天气不好。",
+     "audio": {
+      "key": "listening/v1/facaeaca9c1d338c990bca25b8aa0bcdcb56aac0355df27088c28d91a24814fd.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "周末我们一起去爬山吧？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "好啊，不过我听说周末会下雨。"
+       }
+      ],
+      "transcript": "周末我们一起去爬山吧？ 好啊，不过我听说周末会下雨。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "周末没时间"
+      },
+      {
+       "label": "B",
+       "text": "不想去"
+      },
+      {
+       "label": "C",
+       "text": "天气不好"
+      },
+      {
+       "label": "D",
+       "text": "爬山太累"
+      }
+     ]
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "女的现在经常运动吗？",
+     "correctAnswer": "D",
+     "explanation": "女的说‘最近工作太忙，很少去了’，所以她现在很少运动。",
+     "audio": {
+      "key": "listening/v1/a88fd709e5bdd5956cab0e2e7af5ddaae17c7bfb86b9b33cd5af8ede8fe94ac8.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你平时喜欢做什么运动？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我喜欢跑步和游泳，不过最近工作太忙，很少去了。"
+       }
+      ],
+      "transcript": "你平时喜欢做什么运动？ 我喜欢跑步和游泳，不过最近工作太忙，很少去了。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "不做运动"
+      },
+      {
+       "label": "B",
+       "text": "经常游泳"
+      },
+      {
+       "label": "C",
+       "text": "经常跑步"
+      },
+      {
+       "label": "D",
+       "text": "很少运动"
+      }
+     ]
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "这个手机现在多少钱？",
+     "correctAnswer": "B",
+     "explanation": "男的说‘现在打折，只要两千五’，所以当前价格是两千五。",
+     "audio": {
+      "key": "listening/v1/491224f53e2c7f791a92b20a3c38c01605129b12460c3657c8acac3360cc4423.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "这个手机多少钱？我想买一个。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "这个原价三千，现在打折，只要两千五。"
+       }
+      ],
+      "transcript": "这个手机多少钱？我想买一个。 这个原价三千，现在打折，只要两千五。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "三千"
+      },
+      {
+       "label": "B",
+       "text": "两千五"
+      },
+      {
+       "label": "C",
+       "text": "两千"
+      },
+      {
+       "label": "D",
+       "text": "三千五"
+      }
+     ]
+    },
+    {
+     "id": "q7",
+     "type": "listening-mcq",
+     "prompt": "女的吃过几次北京烤鸭？",
+     "correctAnswer": "C",
+     "explanation": "女的说‘吃过一次’，所以只吃过一次。",
+     "audio": {
+      "key": "listening/v1/f33e876c6b55e3b92d0b37ead3947379edf8595839e2fb4085ebc3143e85549f.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你吃过北京烤鸭吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "吃过一次，是在一个朋友请客的时候。"
+       }
+      ],
+      "transcript": "你吃过北京烤鸭吗？ 吃过一次，是在一个朋友请客的时候。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "没吃过"
+      },
+      {
+       "label": "B",
+       "text": "两次"
+      },
+      {
+       "label": "C",
+       "text": "一次"
+      },
+      {
+       "label": "D",
+       "text": "很多次"
+      }
+     ]
+    },
+    {
+     "id": "q8",
+     "type": "listening-mcq",
+     "prompt": "男的明天怎么去机场？",
+     "correctAnswer": "C",
+     "explanation": "男的说‘我坐地铁来接你’，所以他是坐地铁。",
+     "audio": {
+      "key": "listening/v1/c32bad07f3058ffe6de5180bdc917ca210bf2290f817ed996d918727a2a1b629.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你明天早上能来机场接我吗？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "可以的,不过我的车坏了,我坐地铁来接你。"
+       }
+      ],
+      "transcript": "你明天早上能来机场接我吗？ 可以的,不过我的车坏了,我坐地铁来接你。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "坐出租车"
+      },
+      {
+       "label": "B",
+       "text": "走路"
+      },
+      {
+       "label": "C",
+       "text": "坐地铁"
+      },
+      {
+       "label": "D",
+       "text": "开车"
+      }
+     ]
+    },
+    {
+     "id": "q9",
+     "type": "listening-mcq",
+     "prompt": "女的看完这本书了吗？",
+     "correctAnswer": "D",
+     "explanation": "女的说‘才看到一半’，所以只读了一半。",
+     "audio": {
+      "key": "listening/v1/0da8b1b4e2ca4a4384e1970d507c2807c261484629e954ee86284297f7e2894c.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "这本书很有意思，你看完了吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "还没有，我才看到一半。"
+       }
+      ],
+      "transcript": "这本书很有意思，你看完了吗？ 还没有，我才看到一半。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "不想看了"
+      },
+      {
+       "label": "B",
+       "text": "看完了"
+      },
+      {
+       "label": "C",
+       "text": "还没开始看"
+      },
+      {
+       "label": "D",
+       "text": "看了一半"
+      }
+     ]
+    },
+    {
+     "id": "q10",
+     "type": "listening-mcq",
+     "prompt": "男的学钢琴多长时间了？",
+     "correctAnswer": "A",
+     "explanation": "男的说‘已经学了三个月了’，所以是三个月。",
+     "audio": {
+      "key": "listening/v1/73952d18a3a0bf3b550b16e5b520d7034bb488fb255bf94929748f9333ca25b6.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你最近在学钢琴吗？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "是的,我每个周末去上课,已经学了三个月了。"
+       }
+      ],
+      "transcript": "你最近在学钢琴吗？ 是的,我每个周末去上课,已经学了三个月了。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "三个月"
+      },
+      {
+       "label": "B",
+       "text": "两个月"
+      },
+      {
+       "label": "C",
+       "text": "四个月"
+      },
+      {
+       "label": "D",
+       "text": "一年"
+      }
+     ]
+    },
+    {
+     "id": "q11",
+     "type": "listening-mcq",
+     "prompt": "女的想吃什么锅？",
+     "correctAnswer": "C",
+     "explanation": "女的说‘我们点鸳鸯锅吧’，所以她想要鸳鸯锅。",
+     "audio": {
+      "key": "listening/v1/77f86e68dfceb2114c1969d4ac4c05e91871fce3ade16d873e447a3947d58efd.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我们晚上去吃火锅吧？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "好啊，但是我不能吃太辣的，我们点鸳鸯锅吧。"
+       }
+      ],
+      "transcript": "我们晚上去吃火锅吧？ 好啊，但是我不能吃太辣的，我们点鸳鸯锅吧。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "不辣的"
+      },
+      {
+       "label": "B",
+       "text": "清汤锅"
+      },
+      {
+       "label": "C",
+       "text": "鸳鸯锅"
+      },
+      {
+       "label": "D",
+       "text": "辣的"
+      }
+     ]
+    },
+    {
+     "id": "q12",
+     "type": "listening-mcq",
+     "prompt": "男的昨天为什么没参加聚会？",
+     "correctAnswer": "D",
+     "explanation": "男的说‘临时出差了，去上海了’，所以原因就是去上海出差。",
+     "audio": {
+      "key": "listening/v1/b4287630ec4fa5bdeb6f3d43e170622303842080fb28137ae1fc7d3cb06ca919.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你昨天为什么没来参加聚会？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "因为我临时出差了，去上海了。"
+       }
+      ],
+      "transcript": "你昨天为什么没来参加聚会？ 因为我临时出差了，去上海了。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "忘记了"
+      },
+      {
+       "label": "B",
+       "text": "不喜欢聚会"
+      },
+      {
+       "label": "C",
+       "text": "生病了"
+      },
+      {
+       "label": "D",
+       "text": "去上海出差"
+      }
+     ]
+    },
+    {
+     "id": "q13",
+     "type": "listening-mcq",
+     "prompt": "猫是怎么来的？",
+     "correctAnswer": "A",
+     "explanation": "女的说‘是朋友送给我的’，所以猫是朋友送的。",
+     "audio": {
+      "key": "listening/v1/1468b83b8c436420f6b44d309d39c2eb08b4820c6056dca2b15a4e579192b021.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你家的猫真可爱，它多大了？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "谢谢，它今年两岁了，是朋友送给我的。"
+       }
+      ],
+      "transcript": "你家的猫真可爱，它多大了？ 谢谢，它今年两岁了，是朋友送给我的。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "朋友送的"
+      },
+      {
+       "label": "B",
+       "text": "自己养的"
+      },
+      {
+       "label": "C",
+       "text": "捡的"
+      },
+      {
+       "label": "D",
+       "text": "买的"
+      }
+     ]
+    },
+    {
+     "id": "q14",
+     "type": "listening-mcq",
+     "prompt": "男的觉得衣服怎么了？",
+     "correctAnswer": "D",
+     "explanation": "男的说‘号有点大’‘应该穿小号’，所以他认为尺码太大。",
+     "audio": {
+      "key": "listening/v1/db733fe689def998c99a7d2d3e33ed4bd5a8b14bc3aff1fd5c6b967548de59b1.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你觉得这件衣服怎么样？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "颜色很好看，但是号有点大，你穿小号应该更合适。"
+       }
+      ],
+      "transcript": "你觉得这件衣服怎么样？ 颜色很好看，但是号有点大，你穿小号应该更合适。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "质量不好"
+      },
+      {
+       "label": "B",
+       "text": "颜色不好看"
+      },
+      {
+       "label": "C",
+       "text": "价格太贵"
+      },
+      {
+       "label": "D",
+       "text": "尺码太大"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

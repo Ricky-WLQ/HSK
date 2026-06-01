@@ -1,0 +1,610 @@
+{
+ "id": "hsk4-listening-p117",
+ "level": "4",
+ "section": "listening",
+ "partKey": "listening-p1",
+ "title": "HSK4 Listening P1",
+ "titleZh": "听力 第一部分（听对话选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听下列对话，然后根据对话内容选择正确答案。每个对话后有一个问题，四个选项，选择唯一正确的答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "女的周末要做什么？",
+     "correctAnswer": "B",
+     "explanation": "女方说周末要加班，所以不能去爬山。因此正确答案是加班。",
+     "audio": {
+      "key": "listening/v1/aa26ff6c82173e107ab8c7811da0f34b7991118e86b06e4373cb29e6c8372193.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你周末有没有空？我们一起去爬山吧。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我周末要加班，恐怕去不了。下次吧。"
+       }
+      ],
+      "transcript": "你周末有没有空？我们一起去爬山吧。 我周末要加班，恐怕去不了。下次吧。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "去旅游"
+      },
+      {
+       "label": "B",
+       "text": "加班"
+      },
+      {
+       "label": "C",
+       "text": "在家休息"
+      },
+      {
+       "label": "D",
+       "text": "爬山"
+      }
+     ]
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "男的为什么迟到？",
+     "correctAnswer": "C",
+     "explanation": "男方解释迟到是因为地铁修路，需要绕路。所以原因不是起晚、堵车或生病，而是地铁施工。",
+     "audio": {
+      "key": "listening/v1/f6428ceb26f8b3753adf1fb7dd22d1e4bec860363d639734670d01061e301945.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你最近怎么总是迟到？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "因为地铁修路，每次都要绕很远的路。"
+       }
+      ],
+      "transcript": "你最近怎么总是迟到？ 因为地铁修路，每次都要绕很远的路。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "路上堵车"
+      },
+      {
+       "label": "B",
+       "text": "生病了"
+      },
+      {
+       "label": "C",
+       "text": "地铁修路"
+      },
+      {
+       "label": "D",
+       "text": "起晚了"
+      }
+     ]
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "关于女的新工作，下列哪项正确？",
+     "correctAnswer": "B",
+     "explanation": "女方说新工作不错但是离家远，每天要坐两小时车，所以距离远是正确描述。工资、离家近、同事好都未提及。",
+     "audio": {
+      "key": "listening/v1/378336f89eac56782fcafb48548533e0585db4a83670359a895ffbd2e30a5411.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你的新工作怎么样？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "还不错，就是离家太远了，每天要坐两个小时公交车。"
+       }
+      ],
+      "transcript": "你的新工作怎么样？ 还不错，就是离家太远了，每天要坐两个小时公交车。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "同事很好"
+      },
+      {
+       "label": "B",
+       "text": "距离远"
+      },
+      {
+       "label": "C",
+       "text": "离家很近"
+      },
+      {
+       "label": "D",
+       "text": "工资很高"
+      }
+     ]
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "男的想吃什么？",
+     "correctAnswer": "B",
+     "explanation": "男方明确说想吃辣的，提议吃火锅，所以他想吃火锅。中餐和西餐是女方给的选项，男方选择了火锅。",
+     "audio": {
+      "key": "listening/v1/d45f8ef7ddb29fb52c0acf5439918591c6e1df4fad1ff7134bc9714f7790b3f0.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你晚饭想吃中餐还是西餐？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "今天特别想吃辣的，我们吃火锅吧。"
+       }
+      ],
+      "transcript": "你晚饭想吃中餐还是西餐？ 今天特别想吃辣的，我们吃火锅吧。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "面条"
+      },
+      {
+       "label": "B",
+       "text": "火锅"
+      },
+      {
+       "label": "C",
+       "text": "西餐"
+      },
+      {
+       "label": "D",
+       "text": "中餐"
+      }
+     ]
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "女的复习情况怎么样？",
+     "correctAnswer": "C",
+     "explanation": "女方说下午才开始看书，说明她刚开始复习，并非已经复习得很好或完全没开始。",
+     "audio": {
+      "key": "listening/v1/e800a9b26aa0647078cb7747655505dc6a8d25d80a804c5fa089eb941abe29e6.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "明天考试，你复习好了吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "还没有，今天下午才开始看书，心里没底。"
+       }
+      ],
+      "transcript": "明天考试，你复习好了吗？ 还没有，今天下午才开始看书，心里没底。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "复习得很好"
+      },
+      {
+       "label": "B",
+       "text": "还没开始复习"
+      },
+      {
+       "label": "C",
+       "text": "刚开始复习"
+      },
+      {
+       "label": "D",
+       "text": "不打算复习"
+      }
+     ]
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "关于这件衣服，下列哪项正确？",
+     "correctAnswer": "A",
+     "explanation": "男方说这是新款，已经打折了，不能再便宜。所以衣服是打折的新款，不是旧款，也不能再便宜。",
+     "audio": {
+      "key": "listening/v1/e90db6d488b1dfedf8e83af46042b700e7f9294643eb45f6980044ee95ad9c13.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "这件衣服太贵了，能不能便宜点？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "这是新款，已经打折了，不能再便宜了。"
+       }
+      ],
+      "transcript": "这件衣服太贵了，能不能便宜点？ 这是新款，已经打折了，不能再便宜了。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "已经打折"
+      },
+      {
+       "label": "B",
+       "text": "没有打折"
+      },
+      {
+       "label": "C",
+       "text": "可以再便宜"
+      },
+      {
+       "label": "D",
+       "text": "是旧款"
+      }
+     ]
+    },
+    {
+     "id": "q7",
+     "type": "listening-mcq",
+     "prompt": "女的昨天为什么没去聚会？",
+     "correctAnswer": "D",
+     "explanation": "女方解释昨天发烧了，所以在家休息。原因不是工作忙、忘记时间或不想去，而是身体不舒服。",
+     "audio": {
+      "key": "listening/v1/91d429ee8ba363744f89d3b05b2f005b55de5f7c0ff3eaa2e0c95ab04ef9625e.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你昨天怎么没来参加聚会？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我昨天突然发烧了，只能在家休息。"
+       }
+      ],
+      "transcript": "你昨天怎么没来参加聚会？ 我昨天突然发烧了，只能在家休息。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "忘了时间"
+      },
+      {
+       "label": "B",
+       "text": "工作太忙"
+      },
+      {
+       "label": "C",
+       "text": "不想去"
+      },
+      {
+       "label": "D",
+       "text": "身体不舒服"
+      }
+     ]
+    },
+    {
+     "id": "q8",
+     "type": "listening-mcq",
+     "prompt": "男的每周锻炼几次？",
+     "correctAnswer": "C",
+     "explanation": "男方说每周去健身房两次，周末还常游泳，但未明确游泳频率，因此至少两次。选项中最接近的是两次。",
+     "audio": {
+      "key": "listening/v1/b6629adde42cecb169a69b15dd065e835fb681d6fbb2cfe3ab79fb7d71f3d02f.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你平时喜欢锻炼吗？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "喜欢，我每周都去健身房两次，周末还常去游泳。"
+       }
+      ],
+      "transcript": "你平时喜欢锻炼吗？ 喜欢，我每周都去健身房两次，周末还常去游泳。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "三次"
+      },
+      {
+       "label": "B",
+       "text": "一次"
+      },
+      {
+       "label": "C",
+       "text": "两次"
+      },
+      {
+       "label": "D",
+       "text": "四次"
+      }
+     ]
+    },
+    {
+     "id": "q9",
+     "type": "listening-mcq",
+     "prompt": "周末的天气情况是什么？",
+     "correctAnswer": "A",
+     "explanation": "女方说预报周六有雨，周日晴，但会降温。所以天气是周六雨周日晴。",
+     "audio": {
+      "key": "listening/v1/12e4ce31e0c6dd7460beebe3e5f3364804e6db3525c9fb65c4ba17c6bc5b1d13.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "这个周末的天气怎么样？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "预报说周六有雨，周日晴，但会降温。"
+       }
+      ],
+      "transcript": "这个周末的天气怎么样？ 预报说周六有雨，周日晴，但会降温。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "周六有雨周日晴"
+      },
+      {
+       "label": "B",
+       "text": "两天都有雨"
+      },
+      {
+       "label": "C",
+       "text": "两天都晴"
+      },
+      {
+       "label": "D",
+       "text": "周末降温不多"
+      }
+     ]
+    },
+    {
+     "id": "q10",
+     "type": "listening-mcq",
+     "prompt": "男的想怎么办？",
+     "correctAnswer": "B",
+     "explanation": "男方说还没看完，要求再借一周，所以他想继续借书，不是今天还、买新的或不还。",
+     "audio": {
+      "key": "listening/v1/3d34857c03a690223976c4f22e163dc5df116efe9282b694ed84e67845607da4.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "这本书你什么时候还给我？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我还没看完，再借我一周吧。"
+       }
+      ],
+      "transcript": "这本书你什么时候还给我？ 我还没看完，再借我一周吧。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "买一本新的"
+      },
+      {
+       "label": "B",
+       "text": "再借一周"
+      },
+      {
+       "label": "C",
+       "text": "今天还书"
+      },
+      {
+       "label": "D",
+       "text": "不还了"
+      }
+     ]
+    },
+    {
+     "id": "q11",
+     "type": "listening-mcq",
+     "prompt": "女的女儿几岁？",
+     "correctAnswer": "A",
+     "explanation": "女方说女儿今年六岁，九月份上一年级，所以年龄是六岁。",
+     "audio": {
+      "key": "listening/v1/c3fd3f2edcf6f640475c12ee9913c9452af3eda54513f3d9e13b6e300d246957.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你女儿多大了？上小学了吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "她今年六岁，九月份就要上一年级了。"
+       }
+      ],
+      "transcript": "你女儿多大了？上小学了吗？ 她今年六岁，九月份就要上一年级了。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "六岁"
+      },
+      {
+       "label": "B",
+       "text": "五岁"
+      },
+      {
+       "label": "C",
+       "text": "七岁"
+      },
+      {
+       "label": "D",
+       "text": "八岁"
+      }
+     ]
+    },
+    {
+     "id": "q12",
+     "type": "listening-mcq",
+     "prompt": "男的选择了什么交通工具？",
+     "correctAnswer": "D",
+     "explanation": "男方说出租车太贵，坐公交车便宜，所以他选的是公交车。",
+     "audio": {
+      "key": "listening/v1/59119fd8ac34e79f0091a806123e0843a828ef7ef3a845c6bf15bb2676e37829.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你为什么不坐出租车来？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "出租车太贵了，坐公交车便宜，只是时间长一点。"
+       }
+      ],
+      "transcript": "你为什么不坐出租车来？ 出租车太贵了，坐公交车便宜，只是时间长一点。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "自行车"
+      },
+      {
+       "label": "B",
+       "text": "出租车"
+      },
+      {
+       "label": "C",
+       "text": "地铁"
+      },
+      {
+       "label": "D",
+       "text": "公交车"
+      }
+     ]
+    },
+    {
+     "id": "q13",
+     "type": "listening-mcq",
+     "prompt": "女的最近在做什么？",
+     "correctAnswer": "C",
+     "explanation": "女方说她在学做蛋糕，并且上周做了一个，所以最近的活动是学做蛋糕。",
+     "audio": {
+      "key": "listening/v1/a52916e14e357d6d822a97333728a4144f6c6ea6f37466023a2e14b84c1d4542.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你最近在忙什么？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我在学做蛋糕，上周刚做了一个，味道还不错。"
+       }
+      ],
+      "transcript": "你最近在忙什么？ 我在学做蛋糕，上周刚做了一个，味道还不错。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "学画画"
+      },
+      {
+       "label": "B",
+       "text": "学游泳"
+      },
+      {
+       "label": "C",
+       "text": "学做蛋糕"
+      },
+      {
+       "label": "D",
+       "text": "学做饭"
+      }
+     ]
+    },
+    {
+     "id": "q14",
+     "type": "listening-mcq",
+     "prompt": "关于公司新地址，下列说法正确的是？",
+     "correctAnswer": "C",
+     "explanation": "女方说新地址在市中心，交通方便，所以市中心是正确的。其他选项：远非近，交通方便，下个月搬不是开始搬家，而是搬到新地址。",
+     "audio": {
+      "key": "listening/v1/e36c0eac895c3acceadd25f20a55fdd841b96f715388035a98d0d8b4b15f7b31.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我们公司下个月要搬到新地址了。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "是吗？离这儿远不远？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "挺远的，在市中心那边，不过交通很方便。"
+       }
+      ],
+      "transcript": "我们公司下个月要搬到新地址了。 是吗？离这儿远不远？ 挺远的，在市中心那边，不过交通很方便。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "交通不方便"
+      },
+      {
+       "label": "B",
+       "text": "下个月开始搬家"
+      },
+      {
+       "label": "C",
+       "text": "在市中心"
+      },
+      {
+       "label": "D",
+       "text": "离现在的地方很近"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

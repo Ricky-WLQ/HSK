@@ -1,0 +1,179 @@
+{
+ "id": "hsk5-listening-p201",
+ "level": "5",
+ "section": "listening",
+ "partKey": "listening-p2",
+ "title": "HSK5 Listening P2",
+ "titleZh": "听力 第二部分（听短文选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听下面的短文，然后回答问题。短文只读一遍。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "李先生两年前为什么搬到了上海？",
+     "correctAnswer": "D",
+     "explanation": "原文明确提到李先生搬到了上海工作，所以是为了工作。",
+     "options": [
+      {
+       "label": "A",
+       "text": "为了结婚"
+      },
+      {
+       "label": "B",
+       "text": "为了旅游"
+      },
+      {
+       "label": "C",
+       "text": "为了上学"
+      },
+      {
+       "label": "D",
+       "text": "为了工作"
+      }
+     ]
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "李先生一开始对上海的生活感觉怎么样？",
+     "correctAnswer": "D",
+     "explanation": "原文说一开始他对大城市的生活很不适应，所以感觉不太适应。",
+     "options": [
+      {
+       "label": "A",
+       "text": "完全习惯"
+      },
+      {
+       "label": "B",
+       "text": "非常满意"
+      },
+      {
+       "label": "C",
+       "text": "很喜欢"
+      },
+      {
+       "label": "D",
+       "text": "不太适应"
+      }
+     ]
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "李先生觉得上海的地铁怎么样？",
+     "correctAnswer": "A",
+     "explanation": "原文提到每天早上挤地铁让他感到非常疲惫，所以他认为地铁人很多很累。",
+     "options": [
+      {
+       "label": "A",
+       "text": "人很多很累"
+      },
+      {
+       "label": "B",
+       "text": "非常方便"
+      },
+      {
+       "label": "C",
+       "text": "速度很慢"
+      },
+      {
+       "label": "D",
+       "text": "票价很便宜"
+      }
+     ]
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "李先生现在对上海的生活态度是什么？",
+     "correctAnswer": "B",
+     "explanation": "原文说他已经喜欢上了上海的生活，说明已经习惯了且喜欢。",
+     "options": [
+      {
+       "label": "A",
+       "text": "想搬回老家"
+      },
+      {
+       "label": "B",
+       "text": "已经习惯了"
+      },
+      {
+       "label": "C",
+       "text": "仍然不喜欢"
+      },
+      {
+       "label": "D",
+       "text": "觉得无所谓"
+      }
+     ]
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "李先生在上海交了什么朋友？",
+     "correctAnswer": "D",
+     "explanation": "原文说他还交了一些新朋友，所以是新朋友。",
+     "options": [
+      {
+       "label": "A",
+       "text": "同事"
+      },
+      {
+       "label": "B",
+       "text": "老同学"
+      },
+      {
+       "label": "C",
+       "text": "邻居"
+      },
+      {
+       "label": "D",
+       "text": "新朋友"
+      }
+     ]
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "李先生周末和朋友做什么？",
+     "correctAnswer": "A",
+     "explanation": "原文说周末一起吃饭、看电影，所以是一起吃饭看电影。",
+     "options": [
+      {
+       "label": "A",
+       "text": "一起吃饭看电影"
+      },
+      {
+       "label": "B",
+       "text": "一起工作"
+      },
+      {
+       "label": "C",
+       "text": "一起旅游"
+      },
+      {
+       "label": "D",
+       "text": "一起学习"
+      }
+     ]
+    }
+   ],
+   "audio": {
+    "key": "listening/v1/83962bf9382368720059b0015660c9204bf5c1191d18ed47329ff0bf74ed1089.mp3",
+    "lines": [
+     {
+      "speaker": "旁白",
+      "voice": "narrator",
+      "text": "李先生今年三十岁，两年前他从家乡的小城市搬到了上海工作。一开始，他对大城市的生活很不适应。比如，每天早上挤地铁让他感到非常疲惫，而且上海的房价很高，他只能租一个很小的房间。但是，渐渐地，他发现了上海的好处。这里有很多机会，他的工作也变得越来越顺利。他还交了一些新朋友，周末一起吃饭、看电影。现在，他已经喜欢上了上海的生活，觉得当初的决定是正确的。"
+     }
+    ],
+    "transcript": "李先生今年三十岁，两年前他从家乡的小城市搬到了上海工作。一开始，他对大城市的生活很不适应。比如，每天早上挤地铁让他感到非常疲惫，而且上海的房价很高，他只能租一个很小的房间。但是，渐渐地，他发现了上海的好处。这里有很多机会，他的工作也变得越来越顺利。他还交了一些新朋友，周末一起吃饭、看电影。现在，他已经喜欢上了上海的生活，觉得当初的决定是正确的。",
+    "transcriptPinyin": null
+   }
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

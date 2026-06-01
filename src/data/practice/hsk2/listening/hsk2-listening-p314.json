@@ -1,0 +1,547 @@
+{
+ "id": "hsk2-listening-p314",
+ "level": "2",
+ "section": "listening",
+ "partKey": "listening-p3",
+ "title": "HSK2 Listening P3",
+ "titleZh": "听力 第三部分（听对话选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "以下是10个HSK2听力理解题。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "女的买了什么？",
+     "correctAnswer": "B",
+     "explanation": "对话中女的说想买一件红色的毛衣，最后说买了，所以买了红色毛衣。",
+     "audio": {
+      "key": "listening/v1/03e8e18b54b93fba7e3a9db4fa740083ff24881dcf0daf2058089f6e508bd313.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你想买什么？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我想买一件红色的毛衣。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "这件红色的怎么样？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我喜欢，多少钱？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "一百五十元。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "好的，我买了。"
+       }
+      ],
+      "transcript": "你想买什么？ 我想买一件红色的毛衣。 这件红色的怎么样？ 我喜欢，多少钱？ 一百五十元。 好的，我买了。",
+      "transcriptPinyin": "nǐ xiǎng mǎi shén me ？  wǒ xiǎng mǎi yī jiàn hóng sè de máo yī 。  zhè jiàn hóng sè de zěn me yàng ？  wǒ xǐ huān ， duō shǎo qián ？  yì bǎi wǔ shí yuán 。  hǎo de ， wǒ mǎi le 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "黑色毛衣",
+       "pinyin": "hēi sè máo yī"
+      },
+      {
+       "label": "B",
+       "text": "红色毛衣",
+       "pinyin": "hóng sè máo yī"
+      },
+      {
+       "label": "C",
+       "text": "蓝色毛衣",
+       "pinyin": "lán sè máo yī"
+      }
+     ],
+     "pinyin": "nǚ de mǎi le shén me ？"
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "现在几点？",
+     "correctAnswer": "C",
+     "explanation": "女的说现在是八点十五分。",
+     "audio": {
+      "key": "listening/v1/7d2c05af30b2346d12a5e44ac5f79795f5b80b17ec3e74cd2766fddda08015dc.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "现在几点了？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "八点十五分。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我们九点上课，还有时间。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "是的，我们可以慢慢走。"
+       }
+      ],
+      "transcript": "现在几点了？ 八点十五分。 我们九点上课，还有时间。 是的，我们可以慢慢走。",
+      "transcriptPinyin": "xiàn zài jǐ diǎn le ？  bā diǎn shí wǔ fēn 。  wǒ men jiǔ diǎn shàng kè ， hái yǒu shí jiān 。  shì de ， wǒ men kě yǐ màn màn zǒu 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "八点",
+       "pinyin": "bā diǎn"
+      },
+      {
+       "label": "B",
+       "text": "九点",
+       "pinyin": "jiǔ diǎn"
+      },
+      {
+       "label": "C",
+       "text": "八点十五分",
+       "pinyin": "bā diǎn shí wǔ fēn"
+      }
+     ],
+     "pinyin": "xiàn zài jǐ diǎn ？"
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "今天天气怎么样？",
+     "correctAnswer": "C",
+     "explanation": "男的说今天很热，有三十度。",
+     "audio": {
+      "key": "listening/v1/3c5a22cb5d927dc633ba5b433cf9f1c1ca4d9e5957708cff43d9d036ba1c2f94.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "今天天气怎么样？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "今天很热，有三十度。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我们下午去游泳吧。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "好主意。"
+       }
+      ],
+      "transcript": "今天天气怎么样？ 今天很热，有三十度。 我们下午去游泳吧。 好主意。",
+      "transcriptPinyin": "jīn tiān tiān qì zěn me yàng ？  jīn tiān hěn rè ， yǒu sān shí dù 。  wǒ men xià wǔ qù yóu yǒng ba 。  hǎo zhǔ yì 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "很冷",
+       "pinyin": "hěn lěng"
+      },
+      {
+       "label": "B",
+       "text": "下雨",
+       "pinyin": "xià yǔ"
+      },
+      {
+       "label": "C",
+       "text": "很热",
+       "pinyin": "hěn rè"
+      }
+     ],
+     "pinyin": "jīn tiān tiān qì zěn me yàng ？"
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "女的家里有谁？",
+     "correctAnswer": "B",
+     "explanation": "女的说家里有爸爸、妈妈、她和弟弟，所以有爸爸、妈妈和弟弟。",
+     "audio": {
+      "key": "listening/v1/7b92f9e684404650bc480985632d8487fa83404cb6d8226740f9c06ff281afe0.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你家有几口人？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我家有四口人，爸爸、妈妈、我和弟弟。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你弟弟几岁了？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "他十岁。"
+       }
+      ],
+      "transcript": "你家有几口人？ 我家有四口人，爸爸、妈妈、我和弟弟。 你弟弟几岁了？ 他十岁。",
+      "transcriptPinyin": "nǐ jiā yǒu jǐ kǒu rén ？  wǒ jiā yǒu sì kǒu rén ， bà bà 、 mā mā 、 wǒ hé dì di 。  nǐ dì di jǐ suì le ？  tā shí suì 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "爸爸、妈妈、姐姐",
+       "pinyin": "bà bà 、 mā mā 、 jiě jiě"
+      },
+      {
+       "label": "B",
+       "text": "爸爸、妈妈、弟弟",
+       "pinyin": "bà bà 、 mā mā 、 dì di"
+      },
+      {
+       "label": "C",
+       "text": "爸爸、妈妈、妹妹",
+       "pinyin": "bà bà 、 mā mā 、 mèi mèi"
+      }
+     ],
+     "pinyin": "nǚ de jiā lǐ yǒu shuí ？"
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "他们要去吃什么？",
+     "correctAnswer": "C",
+     "explanation": "男的说想吃面条，女的也同意，所以他们要去吃面条。",
+     "audio": {
+      "key": "listening/v1/b71dee45060f8f1835217bd61464f9ea75f858f2e6c128c69fb811ea4e2bf20f.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你想吃什么？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我想吃面条。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我也喜欢吃面条，我们去那家店吧。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "好，走吧。"
+       }
+      ],
+      "transcript": "你想吃什么？ 我想吃面条。 我也喜欢吃面条，我们去那家店吧。 好，走吧。",
+      "transcriptPinyin": "nǐ xiǎng chī shén me ？  wǒ xiǎng chī miàn tiáo 。  wǒ yě xǐ huān chī miàn tiáo ， wǒ men qù nà jiā diàn ba 。  hǎo ， zǒu ba 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "米饭",
+       "pinyin": "mǐ fàn"
+      },
+      {
+       "label": "B",
+       "text": "饺子",
+       "pinyin": "jiǎo zi"
+      },
+      {
+       "label": "C",
+       "text": "面条",
+       "pinyin": "miàn tiáo"
+      }
+     ],
+     "pinyin": "tā men yào qù chī shén me ？"
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "女的怎么来学校？",
+     "correctAnswer": "A",
+     "explanation": "女的说她坐地铁来的。",
+     "audio": {
+      "key": "listening/v1/ed0d8e208f8e1f1232bd5df398b6810f98a198ceea5d751d406cacd5381c2c4e.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你怎么来学校的？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我坐地铁来的。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "地铁快吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "很快，只要二十分钟。"
+       }
+      ],
+      "transcript": "你怎么来学校的？ 我坐地铁来的。 地铁快吗？ 很快，只要二十分钟。",
+      "transcriptPinyin": "nǐ zěn me lái xué xiào de ？  wǒ zuò dì tiě lái de 。  dì tiě kuài ma ？  hěn kuài ， zhǐ yào èr shí fēn zhōng 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "坐地铁",
+       "pinyin": "zuò dì tiě"
+      },
+      {
+       "label": "B",
+       "text": "走路",
+       "pinyin": "zǒu lù"
+      },
+      {
+       "label": "C",
+       "text": "坐公交车",
+       "pinyin": "zuò gōng jiāo chē"
+      }
+     ],
+     "pinyin": "nǚ de zěn me lái xué xiào ？"
+    },
+    {
+     "id": "q7",
+     "type": "listening-mcq",
+     "prompt": "男的喜欢做什么？",
+     "correctAnswer": "C",
+     "explanation": "男的说他喜欢看书和听音乐。",
+     "audio": {
+      "key": "listening/v1/2ea1a973a494a407efb8a2bdf13c6d904271eb4b824e1d1112ea721c2aa6ae25.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你喜欢做什么？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我喜欢看书和听音乐。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我也喜欢听音乐，你喜欢听什么音乐？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我喜欢流行音乐。"
+       }
+      ],
+      "transcript": "你喜欢做什么？ 我喜欢看书和听音乐。 我也喜欢听音乐，你喜欢听什么音乐？ 我喜欢流行音乐。",
+      "transcriptPinyin": "nǐ xǐ huān zuò shén me ？  wǒ xǐ huān kàn shū hé tīng yīn yuè 。  wǒ yě xǐ huān tīng yīn yuè ， nǐ xǐ huān tīng shén me yīn yuè ？  wǒ xǐ huān liú xíng yīn yuè 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "运动",
+       "pinyin": "yùn dòng"
+      },
+      {
+       "label": "B",
+       "text": "唱歌和跳舞",
+       "pinyin": "chàng gē hé tiào wǔ"
+      },
+      {
+       "label": "C",
+       "text": "看书和听音乐",
+       "pinyin": "kàn shū hé tīng yīn yuè"
+      }
+     ],
+     "pinyin": "nán de xǐ huān zuò shén me ？"
+    },
+    {
+     "id": "q8",
+     "type": "listening-mcq",
+     "prompt": "女的学中文多长时间了？",
+     "correctAnswer": "B",
+     "explanation": "女的说她学了一年中文了。",
+     "audio": {
+      "key": "listening/v1/15f550ffc8275e93eb7f378a9787faa04550b35396fe86ddb4928e9af82b6adb.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你在学中文吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "是的，我学了一年中文了。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你觉得中文难吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "有点难，但是很有意思。"
+       }
+      ],
+      "transcript": "你在学中文吗？ 是的，我学了一年中文了。 你觉得中文难吗？ 有点难，但是很有意思。",
+      "transcriptPinyin": "nǐ zài xué zhōng wén ma ？  shì de ， wǒ xué le yī nián zhōng wén le 。  nǐ jué de zhōng wén nán ma ？  yǒu diǎn nán ， dàn shì hěn yǒu yì si 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "三个月",
+       "pinyin": "sān gè yuè"
+      },
+      {
+       "label": "B",
+       "text": "一年",
+       "pinyin": "yī nián"
+      },
+      {
+       "label": "C",
+       "text": "两年",
+       "pinyin": "liǎng nián"
+      }
+     ],
+     "pinyin": "nǚ de xué zhōng wén duō zhǎng shí jiān le ？"
+    },
+    {
+     "id": "q9",
+     "type": "listening-mcq",
+     "prompt": "男的工作是什么？",
+     "correctAnswer": "A",
+     "explanation": "男的说他是医生。",
+     "audio": {
+      "key": "listening/v1/43addad70d90a8b7d6f4f1dcbfcb0a8595b55062d66b900d8fd92884536f959d.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你在哪里工作？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我在一家医院工作，我是医生。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你工作忙吗？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "很忙，但是我喜欢我的工作。"
+       }
+      ],
+      "transcript": "你在哪里工作？ 我在一家医院工作，我是医生。 你工作忙吗？ 很忙，但是我喜欢我的工作。",
+      "transcriptPinyin": "nǐ zài nǎ lǐ gōng zuò ？  wǒ zài yī jiā yī yuàn gōng zuò ， wǒ shì yī shēng 。  nǐ gōng zuò máng ma ？  hěn máng ， dàn shì wǒ xǐ huān wǒ de gōng zuò 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "医生",
+       "pinyin": "yī shēng"
+      },
+      {
+       "label": "B",
+       "text": "学生",
+       "pinyin": "xué shēng"
+      },
+      {
+       "label": "C",
+       "text": "老师",
+       "pinyin": "lǎo shī"
+      }
+     ],
+     "pinyin": "nán de gōng zuò shì shén me ？"
+    },
+    {
+     "id": "q10",
+     "type": "listening-mcq",
+     "prompt": "女的为什么开心？",
+     "correctAnswer": "C",
+     "explanation": "女的说她找到新工作了，所以很开心。",
+     "audio": {
+      "key": "listening/v1/0f2657a903df89721206993bbfe901ced8590e50dca12be12b352137098a1327.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你好，好久不见。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你好，你最近怎么样？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我很好，谢谢。你看起来很开心。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "是的，我找到新工作了。"
+       }
+      ],
+      "transcript": "你好，好久不见。 你好，你最近怎么样？ 我很好，谢谢。你看起来很开心。 是的，我找到新工作了。",
+      "transcriptPinyin": "nǐ hǎo ， hǎo jiǔ bú jiàn 。  nǐ hǎo ， nǐ zuì jìn zěn me yàng ？  wǒ hěn hǎo ， xiè xiè 。 nǐ kàn qǐ lái hěn kāi xīn 。  shì de ， wǒ zhǎo dào xīn gōng zuò le 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "吃了好吃的东西",
+       "pinyin": "chī le hǎo chī de dōng xī"
+      },
+      {
+       "label": "B",
+       "text": "买了新衣服",
+       "pinyin": "mǎi le xīn yī fú"
+      },
+      {
+       "label": "C",
+       "text": "找到新工作",
+       "pinyin": "zhǎo dào xīn gōng zuò"
+      }
+     ],
+     "pinyin": "nǚ de wèi shén me kāi xīn ？"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

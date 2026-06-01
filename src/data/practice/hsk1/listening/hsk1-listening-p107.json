@@ -1,0 +1,117 @@
+{
+ "id": "hsk1-listening-p107",
+ "level": "1",
+ "section": "listening",
+ "partKey": "listening-p1",
+ "title": "HSK1 Listening P1",
+ "titleZh": "听力 第一部分（看图判断）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "听句子，判断图片与句子内容是否一致。一致选“对”，不一致选“错”。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "对",
+     "explanation": "句子说他在看书，图片显示他在看书，内容一致。",
+     "audio": {
+      "key": "listening/v1/7318ea0dc2137fa427d38433371a44eaf2da442fe62f92d73c3dcce8f7c51de3.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "他在看书。"
+       }
+      ],
+      "transcript": "他在看书。",
+      "transcriptPinyin": "tā zài kàn shū 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-aaf923faa1bb4935c61443c5db865bc1.png"
+    },
+    {
+     "id": "q2",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "错",
+     "explanation": "句子说桌子上有一个苹果，但图片中是香蕉，没有苹果，所以不一致。",
+     "audio": {
+      "key": "listening/v1/3a23894d5ed4c0169e66fe85ef0931cd5f77d7eed67876b660e212670e57e65b.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "桌子上有一个苹果。"
+       }
+      ],
+      "transcript": "桌子上有一个苹果。",
+      "transcriptPinyin": "zhuō zi shàng yǒu yí gè píng guǒ 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-5214eaba81a55eff7bd124f06a7f1a58.png"
+    },
+    {
+     "id": "q3",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "错",
+     "explanation": "句子说猫在椅子下面，图片显示猫在椅子下面，内容一致。",
+     "audio": {
+      "key": "listening/v1/78a8f148fdd11110bb2359a59462ba2209583d649fa4acb25c3bef125910eeff.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "猫在椅子下面。"
+       }
+      ],
+      "transcript": "猫在椅子下面。",
+      "transcriptPinyin": "māo zài yǐ zi xià miàn 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-9d253842d1947afe862eb3f28ed0f3b2.png"
+    },
+    {
+     "id": "q4",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "错",
+     "explanation": "句子说她正在喝水，但图片中她在吃饭，不是喝水，所以不一致。",
+     "audio": {
+      "key": "listening/v1/817aa2d85a3ab2fd386a1314dd5f82f734b0d7ac32c6b3523b9764c9aaabccff.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "她正在喝水。"
+       }
+      ],
+      "transcript": "她正在喝水。",
+      "transcriptPinyin": "tā zhèng zài hē shuǐ 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-8411e9dcbb02761ed60246374bd933eb.png"
+    },
+    {
+     "id": "q5",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "错",
+     "explanation": "句子说今天天气不好，但图片显示天气很好（晴天），所以不一致。",
+     "audio": {
+      "key": "listening/v1/56d1ccf74702f8cf1ad8ce58528516b259365479409478df9e22a6b4e8a17adf.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "今天天气不好。"
+       }
+      ],
+      "transcript": "今天天气不好。",
+      "transcriptPinyin": "jīn tiān tiān qì bù hǎo 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-cbf0078b323a743231661057657241ca.png"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

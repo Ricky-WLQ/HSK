@@ -1,0 +1,143 @@
+{
+ "id": "hsk7-9-listening-p206",
+ "level": "7-9",
+ "section": "listening",
+ "partKey": "listening-p2",
+ "title": "HSK7-9 Listening P2",
+ "titleZh": "听力 第二部分（听短文选填答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听一段关于人工智能在医学影像诊断中应用的独白，然后回答下列问题。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "人工智能在医学影像诊断中主要应用了哪种技术？",
+     "correctAnswer": "B",
+     "explanation": "原文明确提到“通过深度学习算法”，因此主要应用的是深度学习技术。",
+     "options": [
+      {
+       "label": "A",
+       "text": "云计算"
+      },
+      {
+       "label": "B",
+       "text": "深度学习"
+      },
+      {
+       "label": "C",
+       "text": "物联网"
+      },
+      {
+       "label": "D",
+       "text": "大数据"
+      }
+     ]
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "根据文本，AI可以在哪种影像中自动检测结节？",
+     "correctAnswer": "C",
+     "explanation": "原文提到“在肺部CT影像中，AI可以自动检测结节”，因此答案是肺部CT。",
+     "options": [
+      {
+       "label": "A",
+       "text": "骨骼X光"
+      },
+      {
+       "label": "B",
+       "text": "脑部MRI"
+      },
+      {
+       "label": "C",
+       "text": "肺部CT"
+      },
+      {
+       "label": "D",
+       "text": "心脏超声"
+      }
+     ]
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "AI在医学影像诊断中面临的一个挑战是什么？",
+     "correctAnswer": "A",
+     "explanation": "原文指出挑战之一“对罕见病例的识别能力有限”，因此A正确。",
+     "options": [
+      {
+       "label": "A",
+       "text": "对罕见病例的识别能力有限"
+      },
+      {
+       "label": "B",
+       "text": "图像分辨率低"
+      },
+      {
+       "label": "C",
+       "text": "患者不配合"
+      },
+      {
+       "label": "D",
+       "text": "成本过高"
+      }
+     ]
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "说话人对AI在医疗领域应用的态度是什么？",
+     "correctAnswer": "C",
+     "explanation": "原文既提及进展也提到挑战，最后说“AI仍然被认为是未来医疗领域的重要工具”，体现出乐观但客观的态度。",
+     "options": [
+      {
+       "label": "A",
+       "text": "完全悲观"
+      },
+      {
+       "label": "B",
+       "text": "极度怀疑"
+      },
+      {
+       "label": "C",
+       "text": "乐观但客观"
+      },
+      {
+       "label": "D",
+       "text": "漠不关心"
+      }
+     ]
+    },
+    {
+     "id": "q5",
+     "type": "listening-dictation",
+     "prompt": "填空：AI的灵敏度甚至超过______。",
+     "correctAnswer": "人类专家",
+     "explanation": "原文为“其灵敏度甚至超过人类专家”，因此填空答案为“人类专家”。"
+    },
+    {
+     "id": "q6",
+     "type": "listening-dictation",
+     "prompt": "填空：AI被认为是未来医疗领域的______。",
+     "correctAnswer": "重要工具",
+     "explanation": "原文为“AI仍然被认为是未来医疗领域的重要工具”，因此填空答案为“重要工具”。"
+    }
+   ],
+   "audio": {
+    "key": "listening/v1/2d0c2b3f171c8f16bf4c3db3acd94ca8d0643eafb815e8b5e003e56139976a82.mp3",
+    "lines": [
+     {
+      "speaker": "旁白",
+      "voice": "narrator",
+      "text": "近年来，人工智能在医学影像诊断中的应用取得了显著进展。通过深度学习算法，AI能够辅助医生识别病变，提高诊断效率和准确性。例如，在肺部CT影像中，AI可以自动检测结节，其灵敏度甚至超过人类专家。然而，AI也面临挑战，比如对罕见病例的识别能力有限，以及数据隐私问题。尽管如此，AI仍然被认为是未来医疗领域的重要工具。"
+     }
+    ],
+    "transcript": "近年来，人工智能在医学影像诊断中的应用取得了显著进展。通过深度学习算法，AI能够辅助医生识别病变，提高诊断效率和准确性。例如，在肺部CT影像中，AI可以自动检测结节，其灵敏度甚至超过人类专家。然而，AI也面临挑战，比如对罕见病例的识别能力有限，以及数据隐私问题。尽管如此，AI仍然被认为是未来医疗领域的重要工具。",
+    "transcriptPinyin": null
+   }
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

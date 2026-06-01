@@ -1,0 +1,615 @@
+{
+ "id": "hsk4-listening-p101",
+ "level": "4",
+ "section": "listening",
+ "partKey": "listening-p1",
+ "title": "HSK4 Listening P1",
+ "titleZh": "听力 第一部分（听对话选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "下面你将听到14段对话，每段对话后有一个问题，请从A、B、C、D四个选项中选择正确答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "女的周末原本计划做什么？",
+     "correctAnswer": "A",
+     "explanation": "对话中女的提到“本来想去爬山”，所以原本计划是爬山。",
+     "audio": {
+      "key": "listening/v1/ea193c3e6f7b4b525b825c6bb58e58d6f3e24a14ac6236f008d4e91ccddfe057.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "周末有什么计划吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "本来想去爬山，但是天气预报说周末会下雨，所以可能不去了。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "那不如在家看电影吧。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "好主意。"
+       }
+      ],
+      "transcript": "周末有什么计划吗？ 本来想去爬山，但是天气预报说周末会下雨，所以可能不去了。 那不如在家看电影吧。 好主意。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "去爬山"
+      },
+      {
+       "label": "B",
+       "text": "去购物"
+      },
+      {
+       "label": "C",
+       "text": "在家休息"
+      },
+      {
+       "label": "D",
+       "text": "看电影"
+      }
+     ]
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "女的建议怎么去机场？",
+     "correctAnswer": "C",
+     "explanation": "女的直接建议坐地铁，说方便又便宜，所以正确选项是坐地铁。",
+     "audio": {
+      "key": "listening/v1/569ec3b1634d4d8fd0a4bdd98534e7a90bb478c36749e0a25ead5259b32ae699.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "明天我要去机场，你说怎么去比较好？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "坐地铁吧，方便又便宜，打车太贵了。"
+       }
+      ],
+      "transcript": "明天我要去机场，你说怎么去比较好？ 坐地铁吧，方便又便宜，打车太贵了。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "坐公交"
+      },
+      {
+       "label": "B",
+       "text": "自己开车"
+      },
+      {
+       "label": "C",
+       "text": "坐地铁"
+      },
+      {
+       "label": "D",
+       "text": "打车"
+      }
+     ]
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "男觉得这种水果怎么样？",
+     "correctAnswer": "B",
+     "explanation": "男说“看起来很奇怪”，所以他认为这种水果很奇怪。",
+     "audio": {
+      "key": "listening/v1/836ebe31789ff4d077f988371ea1b5f16eb44bc99772a5884aba251e51955617.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你吃过这种水果吗？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "没有，看起来很奇怪，我不敢尝。"
+       }
+      ],
+      "transcript": "你吃过这种水果吗？ 没有，看起来很奇怪，我不敢尝。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "很常见"
+      },
+      {
+       "label": "B",
+       "text": "很奇怪"
+      },
+      {
+       "label": "C",
+       "text": "很好吃"
+      },
+      {
+       "label": "D",
+       "text": "很便宜"
+      }
+     ]
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "女为什么学做菜？",
+     "correctAnswer": "C",
+     "explanation": "女明确说“想给父母一个惊喜”，所以学做菜的原因是这个。",
+     "audio": {
+      "key": "listening/v1/7f9a2c7c04f7e3f507b24477ce75de1a721a973508d85beb94096332b6b676cf.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "最近在学什么？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我在学做菜，因为想给父母一个惊喜。"
+       }
+      ],
+      "transcript": "最近在学什么？ 我在学做菜，因为想给父母一个惊喜。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "朋友邀请"
+      },
+      {
+       "label": "B",
+       "text": "父母要求"
+      },
+      {
+       "label": "C",
+       "text": "想给父母惊喜"
+      },
+      {
+       "label": "D",
+       "text": "想当厨师"
+      }
+     ]
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "男对考试的感觉是什么？",
+     "correctAnswer": "B",
+     "explanation": "男说“还是很紧张”，所以他对考试的感觉是紧张。",
+     "audio": {
+      "key": "listening/v1/e34e6777f37db7454b773e1ab8007a9127d96a6231a2df7cda48dedcf4a67480.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "考试准备得怎么样了？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "复习了很多，但是还是很紧张。"
+       }
+      ],
+      "transcript": "考试准备得怎么样了？ 复习了很多，但是还是很紧张。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "完全没准备"
+      },
+      {
+       "label": "B",
+       "text": "很紧张"
+      },
+      {
+       "label": "C",
+       "text": "不想参加"
+      },
+      {
+       "label": "D",
+       "text": "很有把握"
+      }
+     ]
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "女对餐厅的评价是什么？",
+     "correctAnswer": "C",
+     "explanation": "女说“味道不错，但服务一般”，所以评价是味道好服务一般。",
+     "audio": {
+      "key": "listening/v1/0e9164c870715547eb6512acf4f870882e545a86d373f4d7af866d5da2f141d2.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "那家餐厅怎么样？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "味道不错，但服务一般。"
+       }
+      ],
+      "transcript": "那家餐厅怎么样？ 味道不错，但服务一般。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "都不好"
+      },
+      {
+       "label": "B",
+       "text": "味道和服务都好"
+      },
+      {
+       "label": "C",
+       "text": "味道好服务一般"
+      },
+      {
+       "label": "D",
+       "text": "味道一般服务好"
+      }
+     ]
+    },
+    {
+     "id": "q7",
+     "type": "listening-mcq",
+     "prompt": "男最近工作怎么样？",
+     "correctAnswer": "C",
+     "explanation": "男说“很忙，经常加班”，所以工作状态是忙且经常加班。",
+     "audio": {
+      "key": "listening/v1/4feb102dd521bd7bdebed6ed44d9c4c6a0369f3bcff436286d6e9ab8a827bed8.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "最近工作忙不忙？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "很忙，经常加班到很晚。"
+       }
+      ],
+      "transcript": "最近工作忙不忙？ 很忙，经常加班到很晚。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "很轻松"
+      },
+      {
+       "label": "B",
+       "text": "换工作了"
+      },
+      {
+       "label": "C",
+       "text": "很忙经常加班"
+      },
+      {
+       "label": "D",
+       "text": "请假休息"
+      }
+     ]
+    },
+    {
+     "id": "q8",
+     "type": "listening-mcq",
+     "prompt": "女的假期计划是什么？",
+     "correctAnswer": "C",
+     "explanation": "女说想去海边，因为喜欢游泳，所以计划是去海边。",
+     "audio": {
+      "key": "listening/v1/2cea27a3cf6232ab8bf7af116ca64c15c57b046bbfdb70ac983d1fb538afe83e.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "假期想去哪里旅游？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我想去海边，因为我喜欢游泳。"
+       }
+      ],
+      "transcript": "假期想去哪里旅游？ 我想去海边，因为我喜欢游泳。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "在家学习"
+      },
+      {
+       "label": "B",
+       "text": "去朋友家"
+      },
+      {
+       "label": "C",
+       "text": "去海边"
+      },
+      {
+       "label": "D",
+       "text": "爬山"
+      }
+     ]
+    },
+    {
+     "id": "q9",
+     "type": "listening-mcq",
+     "prompt": "男觉得衣服有什么问题？",
+     "correctAnswer": "B",
+     "explanation": "男说“尺寸太大了”，所以问题是尺寸太大。",
+     "audio": {
+      "key": "listening/v1/62bc9e615649219ba0482278eb1dd9ec5750feef22edfdecd94a2007bf8444b6.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "这件衣服怎么样？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "颜色很合适，但是尺寸太大了。"
+       }
+      ],
+      "transcript": "这件衣服怎么样？ 颜色很合适，但是尺寸太大了。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "颜色不好"
+      },
+      {
+       "label": "B",
+       "text": "尺寸太大"
+      },
+      {
+       "label": "C",
+       "text": "不好看"
+      },
+      {
+       "label": "D",
+       "text": "太贵了"
+      }
+     ]
+    },
+    {
+     "id": "q10",
+     "type": "listening-mcq",
+     "prompt": "女为什么迟到？",
+     "correctAnswer": "B",
+     "explanation": "女直接回答因为路上堵车，所以迟到原因是堵车。",
+     "audio": {
+      "key": "listening/v1/521d4751a4022f6a381d8b90f30e1d3cd137f23740f116e143f5b0bcca9dfe05.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "最近为什么总是迟到？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "因为路上堵车。"
+       }
+      ],
+      "transcript": "最近为什么总是迟到？ 因为路上堵车。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "生病了"
+      },
+      {
+       "label": "B",
+       "text": "路上堵车"
+      },
+      {
+       "label": "C",
+       "text": "忘了时间"
+      },
+      {
+       "label": "D",
+       "text": "起床晚了"
+      }
+     ]
+    },
+    {
+     "id": "q11",
+     "type": "listening-mcq",
+     "prompt": "男对那部电影的看法是什么？",
+     "correctAnswer": "D",
+     "explanation": "男说“听说很好看”，所以他的看法是听说很好看。",
+     "audio": {
+      "key": "listening/v1/cf403e6310dcc7365aabb49cf096d9f32223136bbd6db171c28dc7bb9651c016.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你看过那部新电影吗？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "还没看，但是听说很好看。"
+       }
+      ],
+      "transcript": "你看过那部新电影吗？ 还没看，但是听说很好看。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "已经看过了"
+      },
+      {
+       "label": "B",
+       "text": "打算周末看"
+      },
+      {
+       "label": "C",
+       "text": "不喜欢恐怖片"
+      },
+      {
+       "label": "D",
+       "text": "听说很好看"
+      }
+     ]
+    },
+    {
+     "id": "q12",
+     "type": "listening-mcq",
+     "prompt": "女为什么不能打球？",
+     "correctAnswer": "B",
+     "explanation": "女说膝盖疼，不能剧烈运动，所以原因是膝盖疼。",
+     "audio": {
+      "key": "listening/v1/f265bd106dc2126cc96f0f773c1233053ab501ed406d662b086f5ddd2b0ee4ba.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "周末要不要一起去打球？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我倒是想去，但是最近膝盖疼，不能剧烈运动。"
+       }
+      ],
+      "transcript": "周末要不要一起去打球？ 我倒是想去，但是最近膝盖疼，不能剧烈运动。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "没时间"
+      },
+      {
+       "label": "B",
+       "text": "膝盖疼"
+      },
+      {
+       "label": "C",
+       "text": "不喜欢打球"
+      },
+      {
+       "label": "D",
+       "text": "要加班"
+      }
+     ]
+    },
+    {
+     "id": "q13",
+     "type": "listening-mcq",
+     "prompt": "男觉得那本书怎么样？",
+     "correctAnswer": "A",
+     "explanation": "男说“很有意思”，所以他对书的评价是很有意思。",
+     "audio": {
+      "key": "listening/v1/ace03dcc2d98b644597198474b36dd3239381a736ac101a09734ec39c350bc74.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "那本书你看完了吗？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "看完了，很有意思，我推荐你也看看。"
+       }
+      ],
+      "transcript": "那本书你看完了吗？ 看完了，很有意思，我推荐你也看看。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "很有意思"
+      },
+      {
+       "label": "B",
+       "text": "太长了"
+      },
+      {
+       "label": "C",
+       "text": "很无聊"
+      },
+      {
+       "label": "D",
+       "text": "太难了"
+      }
+     ]
+    },
+    {
+     "id": "q14",
+     "type": "listening-mcq",
+     "prompt": "他们明天早上要做什么？",
+     "correctAnswer": "A",
+     "explanation": "女说要赶飞机，所以明天早上的事情是赶飞机。",
+     "audio": {
+      "key": "listening/v1/a7e1732d220cec42215c4aa1bee33b64a25930a9d56c790974def98fa6fec436.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "明天什么时候出发？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "早上八点，因为要赶飞机。"
+       }
+      ],
+      "transcript": "明天什么时候出发？ 早上八点，因为要赶飞机。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "赶飞机"
+      },
+      {
+       "label": "B",
+       "text": "逛街"
+      },
+      {
+       "label": "C",
+       "text": "上课"
+      },
+      {
+       "label": "D",
+       "text": "开会"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

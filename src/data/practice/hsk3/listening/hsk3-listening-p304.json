@@ -1,0 +1,387 @@
+{
+ "id": "hsk3-listening-p304",
+ "level": "3",
+ "section": "listening",
+ "partKey": "listening-p3",
+ "title": "HSK3 Listening P3",
+ "titleZh": "听力 第三部分（听短文选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听一段录音，然后根据录音内容选择正确的答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "明天王明要去哪里？",
+     "correctAnswer": "A",
+     "explanation": "录音中说因为下雨，他们决定去图书馆看书，所以正确答案是图书馆。",
+     "audio": {
+      "key": "listening/v1/be20a09446f150bfedb5e472a7b2ffef05ce756abec1bd1be38e6467891fbd66.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "明天是星期六，王明想和朋友一起去公园玩。但是天气预报说明天会下雨，所以他们决定去图书馆看书。"
+       }
+      ],
+      "transcript": "明天是星期六，王明想和朋友一起去公园玩。但是天气预报说明天会下雨，所以他们决定去图书馆看书。",
+      "transcriptPinyin": "míng tiān shì xīng qī liù ， wáng míng xiǎng hé péng yǒu yì qǐ qù gōng yuán wán 。 dàn shì tiān qì yù bào shuō míng tiān huì xià yǔ ， suǒ yǐ tā men jué dìng qù tú shū guǎn kàn shū 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "图书馆",
+       "pinyin": "tú shū guǎn"
+      },
+      {
+       "label": "B",
+       "text": "家里",
+       "pinyin": "jiā lǐ"
+      },
+      {
+       "label": "C",
+       "text": "公园",
+       "pinyin": "gōng yuán"
+      }
+     ],
+     "pinyin": "míng tiān wáng míng yào qù nǎ lǐ ？"
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "小红的妈妈做什么工作？",
+     "correctAnswer": "A",
+     "explanation": "录音中明确说小红的妈妈是医生，所以正确答案是医生。",
+     "audio": {
+      "key": "listening/v1/40c0d2cea31138d44aba34f3f5e4c1d69cc87496694e8dd72d0ba62fc0b0a7c9.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "小红的妈妈是一位医生，她每天都要工作到很晚。小红很爱她的妈妈，她希望妈妈能早点回家陪她。"
+       }
+      ],
+      "transcript": "小红的妈妈是一位医生，她每天都要工作到很晚。小红很爱她的妈妈，她希望妈妈能早点回家陪她。",
+      "transcriptPinyin": "xiǎo hóng de mā mā shì yī wèi yī shēng ， tā měi tiān dōu yào gōng zuò dào hěn wǎn 。 xiǎo hóng hěn ài tā de mā mā ， tā xī wàng mā mā néng zǎo diǎn huí jiā péi tā 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "医生",
+       "pinyin": "yī shēng"
+      },
+      {
+       "label": "B",
+       "text": "老师",
+       "pinyin": "lǎo shī"
+      },
+      {
+       "label": "C",
+       "text": "护士",
+       "pinyin": "hù shì"
+      }
+     ],
+     "pinyin": "xiǎo hóng de mā mā zuò shén me gōng zuò ？"
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "说话人怎么去学校的？",
+     "correctAnswer": "B",
+     "explanation": "录音中说自行车坏了，所以坐公交车去学校，正确答案是坐公交车。",
+     "audio": {
+      "key": "listening/v1/4e676a6485f8879465360fea42a11d89c100a4f78566b05efe98e4b96ba32852.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "今天早上，我去学校的时候发现我的自行车坏了。所以我就坐公交车去了学校。下车的时候，我把书包忘在车上了。"
+       }
+      ],
+      "transcript": "今天早上，我去学校的时候发现我的自行车坏了。所以我就坐公交车去了学校。下车的时候，我把书包忘在车上了。",
+      "transcriptPinyin": "jīn tiān zǎo shàng ， wǒ qù xué xiào de shí hòu fā xiàn wǒ de zì xíng chē huài le 。 suǒ yǐ wǒ jiù zuò gōng jiāo chē qù le xué xiào 。 xià chē de shí hòu ， wǒ bǎ shū bāo wàng zài chē shàng le 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "走路",
+       "pinyin": "zǒu lù"
+      },
+      {
+       "label": "B",
+       "text": "坐公交车",
+       "pinyin": "zuò gōng jiāo chē"
+      },
+      {
+       "label": "C",
+       "text": "骑自行车",
+       "pinyin": "qí zì xíng chē"
+      }
+     ],
+     "pinyin": "shuō huà rén zěn me qù xué xiào de ？"
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "弟弟最喜欢吃什么？",
+     "correctAnswer": "C",
+     "explanation": "录音中说弟弟最喜欢吃苹果，所以正确答案是苹果。",
+     "audio": {
+      "key": "listening/v1/fa28a7a84af8804e7240273cdc4092fbf84f31a0fc93918be643e0f2d093dede.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我的弟弟今年五岁，他最喜欢吃苹果。但是他不喜欢喝牛奶，每次喝牛奶都会哭。"
+       }
+      ],
+      "transcript": "我的弟弟今年五岁，他最喜欢吃苹果。但是他不喜欢喝牛奶，每次喝牛奶都会哭。",
+      "transcriptPinyin": "wǒ de dì di jīn nián wǔ suì ， tā zuì xǐ huān chī píng guǒ 。 dàn shì tā bù xǐ huān hē niú nǎi ， měi cì hē niú nǎi dū huì kū 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "蛋糕",
+       "pinyin": "dàn gāo"
+      },
+      {
+       "label": "B",
+       "text": "牛奶",
+       "pinyin": "niú nǎi"
+      },
+      {
+       "label": "C",
+       "text": "苹果",
+       "pinyin": "píng guǒ"
+      }
+     ],
+     "pinyin": "dì di zuì xǐ huān chī shén me ？"
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "他们昨天做了什么？",
+     "correctAnswer": "A",
+     "explanation": "录音中说去了电影院看电影，所以正确答案是看了电影。",
+     "audio": {
+      "key": "listening/v1/bb0038255e06e4606dbb73aebb3199af9ff689744a663a0e90bb4854349bacbc.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "昨天下午，我和小明一起去了电影院。我们看了一部关于动物的电影，电影很好看，我们都很喜欢。"
+       }
+      ],
+      "transcript": "昨天下午，我和小明一起去了电影院。我们看了一部关于动物的电影，电影很好看，我们都很喜欢。",
+      "transcriptPinyin": "zuó tiān xià wǔ ， wǒ hé xiǎo míng yì qǐ qù le diàn yǐng yuàn 。 wǒ men kàn le yī bù guān yú dòng wù de diàn yǐng ， diàn yǐng hěn hǎo kàn ， wǒ men dōu hěn xǐ huān 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "看了电影",
+       "pinyin": "kàn le diàn yǐng"
+      },
+      {
+       "label": "B",
+       "text": "去了图书馆",
+       "pinyin": "qù le tú shū guǎn"
+      },
+      {
+       "label": "C",
+       "text": "去了公园",
+       "pinyin": "qù le gōng yuán"
+      }
+     ],
+     "pinyin": "tā men zuó tiān zuò le shén me ？"
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "说话人忘了买什么？",
+     "correctAnswer": "B",
+     "explanation": "录音最后妈妈说我忘了买牛奶，所以正确答案是牛奶。",
+     "audio": {
+      "key": "listening/v1/de666d16e2a5844a5717c4d5c898bfebd4e3c1b93ec58e63c0c70e3427075ca8.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "妈妈让我去超市买一些水果和蔬菜。我买了苹果、香蕉、西红柿和鸡蛋。回到家，妈妈说我忘了买牛奶。"
+       }
+      ],
+      "transcript": "妈妈让我去超市买一些水果和蔬菜。我买了苹果、香蕉、西红柿和鸡蛋。回到家，妈妈说我忘了买牛奶。",
+      "transcriptPinyin": "mā mā ràng wǒ qù chāo shì mǎi yī xiē shuǐ guǒ hé shū cài 。 wǒ mǎi le píng guǒ 、 xiāng jiāo 、 xī hóng shì hé jī dàn 。 huí dào jiā ， mā mā shuō wǒ wàng le mǎi niú nǎi 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "水果",
+       "pinyin": "shuǐ guǒ"
+      },
+      {
+       "label": "B",
+       "text": "牛奶",
+       "pinyin": "niú nǎi"
+      },
+      {
+       "label": "C",
+       "text": "蔬菜",
+       "pinyin": "shū cài"
+      }
+     ],
+     "pinyin": "shuō huà rén wàng le mǎi shén me ？"
+    },
+    {
+     "id": "q7",
+     "type": "listening-mcq",
+     "prompt": "桌子上有什么？",
+     "correctAnswer": "A",
+     "explanation": "录音中说桌子上放着电脑和一些书，所以正确答案是电脑和书。",
+     "audio": {
+      "key": "listening/v1/01446aaa685fa52781f8282b218476f77334667cf4f7aaac58ea063caa7c2fa7.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我的房间里有一张床、一张桌子和一个书柜。桌子上放着我的电脑和一些书。我最喜欢在房间里看书。"
+       }
+      ],
+      "transcript": "我的房间里有一张床、一张桌子和一个书柜。桌子上放着我的电脑和一些书。我最喜欢在房间里看书。",
+      "transcriptPinyin": "wǒ de fáng jiān lǐ yǒu yī zhāng chuáng 、 yī zhāng zhuō zi hé yí gè shū guì 。 zhuō zi shàng fàng zhe wǒ de diàn nǎo hé yī xiē shū 。 wǒ zuì xǐ huān zài fáng jiān lǐ kàn shū 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "电脑和书",
+       "pinyin": "diàn nǎo hé shū"
+      },
+      {
+       "label": "B",
+       "text": "书柜",
+       "pinyin": "shū guì"
+      },
+      {
+       "label": "C",
+       "text": "床",
+       "pinyin": "chuáng"
+      }
+     ],
+     "pinyin": "zhuō zi shàng yǒu shén me ？"
+    },
+    {
+     "id": "q8",
+     "type": "listening-mcq",
+     "prompt": "小张在大学学什么？",
+     "correctAnswer": "A",
+     "explanation": "录音中说他学习英语，所以正确答案是英语。",
+     "audio": {
+      "key": "listening/v1/cc5094c7da8fbe1f5abde5a5ab33ed1405843309894e9978a5ca0b4a19c9c76d.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "小张今年二十岁，他在大学学习英语。他每天都要背很多单词，他觉得学习英语很有意思。"
+       }
+      ],
+      "transcript": "小张今年二十岁，他在大学学习英语。他每天都要背很多单词，他觉得学习英语很有意思。",
+      "transcriptPinyin": "xiǎo zhāng jīn nián èr shí suì ， tā zài dà xué xué xí yīng yǔ 。 tā měi tiān dōu yào bèi hěn duō dān cí ， tā jué de xué xí yīng yǔ hěn yǒu yì si 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "英语",
+       "pinyin": "yīng yǔ"
+      },
+      {
+       "label": "B",
+       "text": "法语",
+       "pinyin": "fǎ yǔ"
+      },
+      {
+       "label": "C",
+       "text": "汉语",
+       "pinyin": "hàn yǔ"
+      }
+     ],
+     "pinyin": "xiǎo zhāng zài dà xué xué shén me ？"
+    },
+    {
+     "id": "q9",
+     "type": "listening-mcq",
+     "prompt": "今天天气怎么样？",
+     "correctAnswer": "C",
+     "explanation": "录音中说天气很冷，温度只有五度，所以正确答案是很冷。",
+     "audio": {
+      "key": "listening/v1/cab6e00bda9907f1598b60f8e8a637e0b106764677307214c192ddd6b1a5d4af.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "今天天气很冷，温度只有五度。我穿了一件厚衣服，还戴了帽子和手套。但是我还是觉得很冷。"
+       }
+      ],
+      "transcript": "今天天气很冷，温度只有五度。我穿了一件厚衣服，还戴了帽子和手套。但是我还是觉得很冷。",
+      "transcriptPinyin": "jīn tiān tiān qì hěn lěng ， wēn dù zhǐ yǒu wǔ dù 。 wǒ chuān le yī jiàn hòu yī fú ， hái dài le mào zi hé shǒu tào 。 dàn shì wǒ hái shì jué de hěn lěng 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "很暖和",
+       "pinyin": "hěn nuǎn huo"
+      },
+      {
+       "label": "B",
+       "text": "很热",
+       "pinyin": "hěn rè"
+      },
+      {
+       "label": "C",
+       "text": "很冷",
+       "pinyin": "hěn lěng"
+      }
+     ],
+     "pinyin": "jīn tiān tiān qì zěn me yàng ？"
+    },
+    {
+     "id": "q10",
+     "type": "listening-mcq",
+     "prompt": "李老师教什么？",
+     "correctAnswer": "A",
+     "explanation": "录音中说李老师教数学，所以正确答案是数学。",
+     "audio": {
+      "key": "listening/v1/02a0ed09bbd2a7438e73c80265430a9619c91eb1c043a4eaeee9e76bdc78bb7d.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "李老师教我们数学，他的课很有意思。他经常给我们讲一些有趣的故事。我们都很喜欢他。"
+       }
+      ],
+      "transcript": "李老师教我们数学，他的课很有意思。他经常给我们讲一些有趣的故事。我们都很喜欢他。",
+      "transcriptPinyin": "lǐ lǎo shī jiào wǒ men shù xué ， tā de kè hěn yǒu yì si 。 tā jīng cháng gěi wǒ men jiǎng yī xiē yǒu qù de gù shì 。 wǒ men dōu hěn xǐ huān tā 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "数学",
+       "pinyin": "shù xué"
+      },
+      {
+       "label": "B",
+       "text": "语文",
+       "pinyin": "yǔ wén"
+      },
+      {
+       "label": "C",
+       "text": "英语",
+       "pinyin": "yīng yǔ"
+      }
+     ],
+     "pinyin": "lǐ lǎo shī jiào shén me ？"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

@@ -1,0 +1,605 @@
+{
+ "id": "hsk4-listening-p105",
+ "level": "4",
+ "section": "listening",
+ "partKey": "listening-p1",
+ "title": "HSK4 Listening P1",
+ "titleZh": "听力 第一部分（听对话选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "听对话，选择正确答案。每题对话后有四个选项，请选出唯一正确的答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "他们什么时候去打球？",
+     "correctAnswer": "C",
+     "explanation": "对话中女的说‘明天下午我要去图书馆看书，不如晚上去’，意思是建议改为晚上去，所以他们决定明天晚上去打球。",
+     "audio": {
+      "key": "listening/v1/b50b4816716a7be7802dbe7f9926972caec51173c18b9afcf829a2287e5fa337.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你明天下午有空吗？我们一起去打球吧。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "明天下午我要去图书馆看书，不如晚上去？"
+       }
+      ],
+      "transcript": "你明天下午有空吗？我们一起去打球吧。 明天下午我要去图书馆看书，不如晚上去？",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "今天晚上"
+      },
+      {
+       "label": "B",
+       "text": "今天下午"
+      },
+      {
+       "label": "C",
+       "text": "明天晚上"
+      },
+      {
+       "label": "D",
+       "text": "明天下午"
+      }
+     ]
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "男的在忙什么？",
+     "correctAnswer": "D",
+     "explanation": "男的说‘我在学做饭’，所以正确答案是学做饭。",
+     "audio": {
+      "key": "listening/v1/84cd690194464bf3f527db4c095235762241e5892b729b5ef192bee3c69d1d63.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你最近在忙什么？好久没见你了。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我在学做饭，觉得很有意思。你周末有空吗？来我家尝尝我的手艺。"
+       }
+      ],
+      "transcript": "你最近在忙什么？好久没见你了。 我在学做饭，觉得很有意思。你周末有空吗？来我家尝尝我的手艺。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "学开车"
+      },
+      {
+       "label": "B",
+       "text": "学游泳"
+      },
+      {
+       "label": "C",
+       "text": "学画画"
+      },
+      {
+       "label": "D",
+       "text": "学做饭"
+      }
+     ]
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "女的对新工作有什么不满意的地方？",
+     "correctAnswer": "B",
+     "explanation": "女的说‘每天要坐一个小时的公交车，有点累’，说明上班距离远，所以不满意的是上班太远。",
+     "audio": {
+      "key": "listening/v1/f18794513e28e327d53d9307a77d674f49b27a55e4b2751ccf4e1ef3a6aa3cf8.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你的新工作怎么样？还习惯吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "挺好的，同事都很热情，就是每天要坐一个小时的公交车，有点累。"
+       }
+      ],
+      "transcript": "你的新工作怎么样？还习惯吗？ 挺好的，同事都很热情，就是每天要坐一个小时的公交车，有点累。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "同事不友好"
+      },
+      {
+       "label": "B",
+       "text": "上班太远"
+      },
+      {
+       "label": "C",
+       "text": "工资太低"
+      },
+      {
+       "label": "D",
+       "text": "工作太忙"
+      }
+     ]
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "男认为什么颜色的手机更好看？",
+     "correctAnswer": "C",
+     "explanation": "男的说‘我觉得白色的更好看’，所以他认为白色更好看。",
+     "audio": {
+      "key": "listening/v1/103d3527cfa85e8e8172fce0a52e7040c42ac9f7454f22bbd9eb0b54b4c25e9d.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你的手机是什么颜色的？我打算买一部新的。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我的是黑色的，不过我觉得白色的更好看。"
+       }
+      ],
+      "transcript": "你的手机是什么颜色的？我打算买一部新的。 我的是黑色的，不过我觉得白色的更好看。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "黑色"
+      },
+      {
+       "label": "B",
+       "text": "红色"
+      },
+      {
+       "label": "C",
+       "text": "白色"
+      },
+      {
+       "label": "D",
+       "text": "蓝色"
+      }
+     ]
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "明天天气如何？",
+     "correctAnswer": "C",
+     "explanation": "女的说‘天气预报说明天有小雨’，所以明天会下雨。",
+     "audio": {
+      "key": "listening/v1/645c9e9404af676aafa347418f433ed90437b1bdfe9fcc5ac378b74417551a87.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "明天天气怎么样？要不要带伞？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "天气预报说明天有小雨，最好带上。"
+       }
+      ],
+      "transcript": "明天天气怎么样？要不要带伞？ 天气预报说明天有小雨，最好带上。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "下雪"
+      },
+      {
+       "label": "B",
+       "text": "多云"
+      },
+      {
+       "label": "C",
+       "text": "下雨"
+      },
+      {
+       "label": "D",
+       "text": "晴天"
+      }
+     ]
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "男想要什么生日礼物？",
+     "correctAnswer": "C",
+     "explanation": "男的说‘你送我一个篮球吧’，所以他想要篮球。",
+     "audio": {
+      "key": "listening/v1/2e7dd8034317b363ac7948e06ec567f4511772b40ef3ceb66844cea322e6e4be.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你生日快到了，想要什么礼物？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我最近迷上了打篮球，你送我一个篮球吧。"
+       }
+      ],
+      "transcript": "你生日快到了，想要什么礼物？ 我最近迷上了打篮球，你送我一个篮球吧。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "一本书"
+      },
+      {
+       "label": "B",
+       "text": "一块手表"
+      },
+      {
+       "label": "C",
+       "text": "一个篮球"
+      },
+      {
+       "label": "D",
+       "text": "一双鞋"
+      }
+     ]
+    },
+    {
+     "id": "q7",
+     "type": "listening-mcq",
+     "prompt": "女对这家饭店有什么看法？",
+     "correctAnswer": "A",
+     "explanation": "女的说‘菜的味道不错，但是价格有点贵’，所以觉得好吃但贵。",
+     "audio": {
+      "key": "listening/v1/342934f6431eef372e08af56982bdd4da52354217c39bea2e4325a30593cec18.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你觉得这家饭店怎么样？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "菜的味道不错，但是价格有点贵。"
+       }
+      ],
+      "transcript": "你觉得这家饭店怎么样？ 菜的味道不错，但是价格有点贵。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "好吃但贵"
+      },
+      {
+       "label": "B",
+       "text": "不好吃但便宜"
+      },
+      {
+       "label": "C",
+       "text": "又好吃又便宜"
+      },
+      {
+       "label": "D",
+       "text": "不好吃又贵"
+      }
+     ]
+    },
+    {
+     "id": "q8",
+     "type": "listening-mcq",
+     "prompt": "男昨天为什么没来上课？",
+     "correctAnswer": "D",
+     "explanation": "男的说‘我感冒了，头痛得厉害，所以请假了’，所以是因为生病没来上课。",
+     "audio": {
+      "key": "listening/v1/5128398de195a14cf8e3cd16d2fb886da8b7ff8c55306092f19b41243a0d7b4a.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你昨天怎么没来上课？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我感冒了，头痛得厉害，所以请假了。"
+       }
+      ],
+      "transcript": "你昨天怎么没来上课？ 我感冒了，头痛得厉害，所以请假了。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "他不想上课"
+      },
+      {
+       "label": "B",
+       "text": "他太忙了"
+      },
+      {
+       "label": "C",
+       "text": "他忘了时间"
+      },
+      {
+       "label": "D",
+       "text": "他生病了"
+      }
+     ]
+    },
+    {
+     "id": "q9",
+     "type": "listening-mcq",
+     "prompt": "女建议周末做什么？",
+     "correctAnswer": "D",
+     "explanation": "女的说‘我们去爬山怎么样’，所以她建议爬山。",
+     "audio": {
+      "key": "listening/v1/0dd324a23164902040a3204c027f569f3d0ed39bfec0bfc3946c507c16938407.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "周末我们去看电影吧？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我不太喜欢看电影，我们去爬山怎么样？"
+       }
+      ],
+      "transcript": "周末我们去看电影吧？ 我不太喜欢看电影，我们去爬山怎么样？",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "逛街"
+      },
+      {
+       "label": "B",
+       "text": "在家休息"
+      },
+      {
+       "label": "C",
+       "text": "看电影"
+      },
+      {
+       "label": "D",
+       "text": "爬山"
+      }
+     ]
+    },
+    {
+     "id": "q10",
+     "type": "listening-mcq",
+     "prompt": "穿红衣服的女孩是谁？",
+     "correctAnswer": "D",
+     "explanation": "男的说‘她是我们班的班长’，所以她是学生。",
+     "audio": {
+      "key": "listening/v1/9b99de90d476e1e86fb107fcc15149c72444c881ca52d37ad1e8a7383739f16a.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你认识那个穿红衣服的女孩吗？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "认识，她是我们班的班长，学习非常好。"
+       }
+      ],
+      "transcript": "你认识那个穿红衣服的女孩吗？ 认识，她是我们班的班长，学习非常好。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "男的同事"
+      },
+      {
+       "label": "B",
+       "text": "老师的女儿"
+      },
+      {
+       "label": "C",
+       "text": "男的姐姐"
+      },
+      {
+       "label": "D",
+       "text": "学校的学生"
+      }
+     ]
+    },
+    {
+     "id": "q11",
+     "type": "listening-mcq",
+     "prompt": "女为什么不喜欢这本书？",
+     "correctAnswer": "B",
+     "explanation": "女的说‘太长了，读起来很累’，所以是因为篇幅太长而不喜欢。",
+     "audio": {
+      "key": "listening/v1/66e8e45f9a92b16e08bcf9ae49c02b312de3dde74e603f46f35f13f23e969615.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "这本书你看了吗？我觉得很有意思。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "看了，但是我不太喜欢，我觉得太长了，读起来很累。"
+       }
+      ],
+      "transcript": "这本书你看了吗？我觉得很有意思。 看了，但是我不太喜欢，我觉得太长了，读起来很累。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "价格太贵"
+      },
+      {
+       "label": "B",
+       "text": "篇幅太长"
+      },
+      {
+       "label": "C",
+       "text": "封面不好看"
+      },
+      {
+       "label": "D",
+       "text": "内容太难"
+      }
+     ]
+    },
+    {
+     "id": "q12",
+     "type": "listening-mcq",
+     "prompt": "男的弟弟现在做什么？",
+     "correctAnswer": "D",
+     "explanation": "男的说‘现在在一家医院工作，当医生’，所以弟弟现在是医生。",
+     "audio": {
+      "key": "listening/v1/824b80fe2b4facaa6d83a5ffc04b755810326d51a7df8815cc7708281fc090c9.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你弟弟现在在哪儿？还在上学吗？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "他去年已经毕业了，现在在一家医院工作，当医生。"
+       }
+      ],
+      "transcript": "你弟弟现在在哪儿？还在上学吗？ 他去年已经毕业了，现在在一家医院工作，当医生。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "上学"
+      },
+      {
+       "label": "B",
+       "text": "当护士"
+      },
+      {
+       "label": "C",
+       "text": "当老师"
+      },
+      {
+       "label": "D",
+       "text": "当医生"
+      }
+     ]
+    },
+    {
+     "id": "q13",
+     "type": "listening-mcq",
+     "prompt": "女这周跑步情况如何？",
+     "correctAnswer": "D",
+     "explanation": "女的说‘只跑了两天’，所以这周跑步两天。",
+     "audio": {
+      "key": "listening/v1/2e7bf06b13d7dc0537379ca42db51893adba9981b2f64b4d91fd8e00bd6055ca.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你每天都跑步吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "以前是，但这周太忙了，只跑了两天。"
+       }
+      ],
+      "transcript": "你每天都跑步吗？ 以前是，但这周太忙了，只跑了两天。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "只跑了一天"
+      },
+      {
+       "label": "B",
+       "text": "每天都跑"
+      },
+      {
+       "label": "C",
+       "text": "一天都没跑"
+      },
+      {
+       "label": "D",
+       "text": "只跑了两天"
+      }
+     ]
+    },
+    {
+     "id": "q14",
+     "type": "listening-mcq",
+     "prompt": "男学汉语多长时间了？",
+     "correctAnswer": "B",
+     "explanation": "男的说‘我学了两年了’，所以学汉语两年了。",
+     "audio": {
+      "key": "listening/v1/6426c43bdd3ba3ba5acb2da4235394bc3806acd4e2727da24d5e8268207b0afe.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你的汉语说得真好，学多久了？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "谢谢，我学了两年了，不过说的时候还会出错。"
+       }
+      ],
+      "transcript": "你的汉语说得真好，学多久了？ 谢谢，我学了两年了，不过说的时候还会出错。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "一年"
+      },
+      {
+       "label": "B",
+       "text": "两年"
+      },
+      {
+       "label": "C",
+       "text": "三年"
+      },
+      {
+       "label": "D",
+       "text": "半年"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

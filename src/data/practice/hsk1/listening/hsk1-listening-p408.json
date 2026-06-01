@@ -1,0 +1,202 @@
+{
+ "id": "hsk1-listening-p408",
+ "level": "1",
+ "section": "listening",
+ "partKey": "listening-p4",
+ "title": "HSK1 Listening P4",
+ "titleZh": "听力 第四部分（听问句选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "下面是5道HSK1听力题，每道题包含一段独白和一个问题。请先听录音，然后选择正确的选项。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "小明几岁？",
+     "correctAnswer": "C",
+     "explanation": "小明说他今年十岁，因此他十岁。",
+     "audio": {
+      "key": "listening/v1/36849d5897191dd37f48ce0ee685efa4fbb2a2526a71d71ce8a494da024f767d.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我叫小明，今年十岁。"
+       }
+      ],
+      "transcript": "我叫小明，今年十岁。",
+      "transcriptPinyin": "wǒ jiào xiǎo míng ， jīn nián shí suì 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "九岁",
+       "pinyin": "jiǔ suì"
+      },
+      {
+       "label": "B",
+       "text": "十一岁",
+       "pinyin": "shí yī suì"
+      },
+      {
+       "label": "C",
+       "text": "十岁",
+       "pinyin": "shí suì"
+      }
+     ],
+     "pinyin": "xiǎo míng jǐ suì ？"
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "他去了哪里？",
+     "correctAnswer": "A",
+     "explanation": "他说去公园玩，所以他去了公园。",
+     "audio": {
+      "key": "listening/v1/2087bba3f6a8bf0810a29993ffe06053326c6ffa80e4cc3aede3667dcac50d53.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "今天天气很好，我去公园玩。"
+       }
+      ],
+      "transcript": "今天天气很好，我去公园玩。",
+      "transcriptPinyin": "jīn tiān tiān qì hěn hǎo ， wǒ qù gōng yuán wán 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "公园",
+       "pinyin": "gōng yuán"
+      },
+      {
+       "label": "B",
+       "text": "学校",
+       "pinyin": "xué xiào"
+      },
+      {
+       "label": "C",
+       "text": "家",
+       "pinyin": "jiā"
+      }
+     ],
+     "pinyin": "tā qù le nǎ lǐ ？"
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "苹果是什么颜色？",
+     "correctAnswer": "B",
+     "explanation": "他说苹果是红色的，所以颜色是红色。",
+     "audio": {
+      "key": "listening/v1/1086abd23296d89e7698157c217bb54fe2c66660b57c321a8d5ad83fa63454cd.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我有一个红色的苹果。"
+       }
+      ],
+      "transcript": "我有一个红色的苹果。",
+      "transcriptPinyin": "wǒ yǒu yí gè hóng sè de píng guǒ 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "绿色",
+       "pinyin": "lǜ sè"
+      },
+      {
+       "label": "B",
+       "text": "红色",
+       "pinyin": "hóng sè"
+      },
+      {
+       "label": "C",
+       "text": "黄色",
+       "pinyin": "huáng sè"
+      }
+     ],
+     "pinyin": "píng guǒ shì shén me yán sè ？"
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "桌子上有几本书？",
+     "correctAnswer": "A",
+     "explanation": "他说桌子上有三本书，因此是三本。",
+     "audio": {
+      "key": "listening/v1/1716353118721c0d2369eb199e31cbb60779ce5e03a22dc41f9525db21240999.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "桌子上有三本书。"
+       }
+      ],
+      "transcript": "桌子上有三本书。",
+      "transcriptPinyin": "zhuō zi shàng yǒu sān běn shū 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "三本",
+       "pinyin": "sān běn"
+      },
+      {
+       "label": "B",
+       "text": "四本",
+       "pinyin": "sì běn"
+      },
+      {
+       "label": "C",
+       "text": "两本",
+       "pinyin": "liǎng běn"
+      }
+     ],
+     "pinyin": "zhuō zi shàng yǒu jǐ běn shū ？"
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "谁是一名老师？",
+     "correctAnswer": "C",
+     "explanation": "他说妈妈是老师，因此妈妈是老师。",
+     "audio": {
+      "key": "listening/v1/e87ea3d3c9ecb6b1fae40adc7f56a50d7f3927e3017cd116c9eaa4986aa9427b.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我的妈妈是老师。"
+       }
+      ],
+      "transcript": "我的妈妈是老师。",
+      "transcriptPinyin": "wǒ de mā mā shì lǎo shī 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "哥哥",
+       "pinyin": "gē gē"
+      },
+      {
+       "label": "B",
+       "text": "爸爸",
+       "pinyin": "bà bà"
+      },
+      {
+       "label": "C",
+       "text": "妈妈",
+       "pinyin": "mā mā"
+      }
+     ],
+     "pinyin": "shuí shì yī míng lǎo shī ？"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

@@ -1,0 +1,117 @@
+{
+ "id": "hsk2-listening-p105",
+ "level": "2",
+ "section": "listening",
+ "partKey": "listening-p1",
+ "title": "HSK2 Listening P1",
+ "titleZh": "听力 第一部分（看图判断）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听句子，判断图片是否与句子内容相符。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "对",
+     "explanation": "句子说他在看书，图片中的人正在看书，内容一致，所以正确。",
+     "audio": {
+      "key": "listening/v1/7318ea0dc2137fa427d38433371a44eaf2da442fe62f92d73c3dcce8f7c51de3.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "他在看书。"
+       }
+      ],
+      "transcript": "他在看书。",
+      "transcriptPinyin": "tā zài kàn shū 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-aaf923faa1bb4935c61443c5db865bc1.png"
+    },
+    {
+     "id": "q2",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "对",
+     "explanation": "句子说猫在桌子上，但图片中猫在桌子下面，位置不同，所以错误。",
+     "audio": {
+      "key": "listening/v1/07a084230348fc3a4fa757443b2deb2f1cb25363d92a326091117d34d50eaa14.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "猫在桌子上。"
+       }
+      ],
+      "transcript": "猫在桌子上。",
+      "transcriptPinyin": "māo zài zhuō zi shàng 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-35df4140df54655bd5524e71c78cfc50.png"
+    },
+    {
+     "id": "q3",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "对",
+     "explanation": "句子说妈妈在做饭，图片中妈妈在厨房炒菜，内容相符，所以正确。",
+     "audio": {
+      "key": "listening/v1/c528f91aff3ccb5fa56b2b0f4ffd3ebb93deca475d911fd91b169c3abc29e017.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "妈妈在做饭。"
+       }
+      ],
+      "transcript": "妈妈在做饭。",
+      "transcriptPinyin": "mā mā zài zuò fàn 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-e52bace0a188f7691e648c286054797b.png"
+    },
+    {
+     "id": "q4",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "错",
+     "explanation": "句子说外面下雨了，但图片中是晴天无雨，天气状况不符，所以错误。",
+     "audio": {
+      "key": "listening/v1/e23f0f62e167bd698112c0e49fda0b857f3478d50692ecfe3291ab9c720493a9.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "外面下雨了。"
+       }
+      ],
+      "transcript": "外面下雨了。",
+      "transcriptPinyin": "wài miàn xià yǔ le 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-b8ee91e62741f37097a8308138beea7d.png"
+    },
+    {
+     "id": "q5",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "对",
+     "explanation": "句子说小朋友在唱歌，图片中小朋友正在唱歌，动作一致，所以正确。",
+     "audio": {
+      "key": "listening/v1/709d7f9f1e20ee78c2c36ad67a858427d02339dae19d02e4635c03c509e0777b.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "小朋友在唱歌。"
+       }
+      ],
+      "transcript": "小朋友在唱歌。",
+      "transcriptPinyin": "xiǎo péng yǒu zài chàng gē 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-248c435d5ac8db52c8d01c830e969a76.png"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

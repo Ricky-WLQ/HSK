@@ -1,0 +1,313 @@
+{
+ "id": "hsk6-listening-p119",
+ "level": "6",
+ "section": "listening",
+ "partKey": "listening-p1",
+ "title": "HSK6 Listening P1",
+ "titleZh": "听力 第一部分（听新闻选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请根据所听到的新闻段落，从四个选项中选择最符合段落内容的一项。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "这项研究主要说明了什么？",
+     "correctAnswer": "B",
+     "explanation": "研究指出全球变暖导致冰川融化、海平面上升，因此核心是阐述全球变暖对海平面的影响，而其他选项只是部分推论或过于宽泛。",
+     "audio": {
+      "key": "listening/v1/0c5155ad5605e1ea8ddce35efb942c535efcfe232c488ca67ef455425cba8603.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "一项最新研究显示，全球变暖导致北极冰川融化速度加快，预计到本世纪末，海平面将上升一米。这不仅会威胁沿海城市，还会影响全球气候模式。"
+       }
+      ],
+      "transcript": "一项最新研究显示，全球变暖导致北极冰川融化速度加快，预计到本世纪末，海平面将上升一米。这不仅会威胁沿海城市，还会影响全球气候模式。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "气候变化影响全球"
+      },
+      {
+       "label": "B",
+       "text": "全球变暖对海平面有影响"
+      },
+      {
+       "label": "C",
+       "text": "北极冰川正在融化"
+      },
+      {
+       "label": "D",
+       "text": "沿海城市面临威胁"
+      }
+     ]
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "调查结果主要反映了什么？",
+     "correctAnswer": "D",
+     "explanation": "调查显示大多数人持怀疑态度，即担忧安全性，而其他选项过于绝对或片面。",
+     "audio": {
+      "key": "listening/v1/036e48b29060e1008f3a056f318a2b7b6d05c68605ae43ec09352d5d8fe8570e.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "随着人工智能技术的发展，智能汽车已经能够实现自动驾驶。然而，最近的一项调查显示，大多数人对智能汽车的安全性仍持怀疑态度，他们认为技术还不够成熟，难以应对复杂的路况。"
+       }
+      ],
+      "transcript": "随着人工智能技术的发展，智能汽车已经能够实现自动驾驶。然而，最近的一项调查显示，大多数人对智能汽车的安全性仍持怀疑态度，他们认为技术还不够成熟，难以应对复杂的路况。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "智能汽车不安全"
+      },
+      {
+       "label": "B",
+       "text": "智能汽车无法应对复杂路况"
+      },
+      {
+       "label": "C",
+       "text": "智能汽车技术已经成熟"
+      },
+      {
+       "label": "D",
+       "text": "人们对智能汽车感到担忧"
+      }
+     ]
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "这段新闻主要讨论了什么？",
+     "correctAnswer": "A",
+     "explanation": "新闻从留学和演出两方面介绍了中非文化交流的双向现状，而其他选项只涉及其中一个方面或笼统的意义。",
+     "audio": {
+      "key": "listening/v1/345faf6f6c4eecc7dbc1fea76d3b8b390149dda8672a6522421ee8a83bcd73ef.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "近年来，中国与非洲国家的文化交流日益频繁。越来越多的非洲学生选择到中国留学，学习中国文化和技术。同时，中国的艺术家也经常赴非洲演出，展示中国传统文化。这种双向交流促进了双方的相互理解。"
+       }
+      ],
+      "transcript": "近年来，中国与非洲国家的文化交流日益频繁。越来越多的非洲学生选择到中国留学，学习中国文化和技术。同时，中国的艺术家也经常赴非洲演出，展示中国传统文化。这种双向交流促进了双方的相互理解。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "中非文化交流的现状"
+      },
+      {
+       "label": "B",
+       "text": "文化交流的重要性"
+      },
+      {
+       "label": "C",
+       "text": "中国艺术家在非洲演出"
+      },
+      {
+       "label": "D",
+       "text": "非洲学生在中国学习"
+      }
+     ]
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "关于这款新型电池，哪项说法是正确的？",
+     "correctAnswer": "A",
+     "explanation": "新闻明确说电池仍处于试验阶段，其他选项与原文信息不符。",
+     "audio": {
+      "key": "listening/v1/438e05e7395a5b18f6852101c94ae7fd02a4ee2d16fb2a699a4309128190c2e1.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "某科技公司近日发布了一款新型电池，可以在一分钟内充满电，且使用寿命是传统电池的两倍。这项突破有望彻底改变电动汽车行业，解决续航焦虑问题。不过，该电池目前仍处于试验阶段，大规模生产尚需时日。"
+       }
+      ],
+      "transcript": "某科技公司近日发布了一款新型电池，可以在一分钟内充满电，且使用寿命是传统电池的两倍。这项突破有望彻底改变电动汽车行业，解决续航焦虑问题。不过，该电池目前仍处于试验阶段，大规模生产尚需时日。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "仍处于实验阶段"
+      },
+      {
+       "label": "B",
+       "text": "充电速度很快但寿命不长"
+      },
+      {
+       "label": "C",
+       "text": "已经可以大规模生产"
+      },
+      {
+       "label": "D",
+       "text": "能解决电动汽车的问题"
+      }
+     ]
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "调查结果显示什么？",
+     "correctAnswer": "D",
+     "explanation": "调查明确显示超过半数学生压力来自家长期望，其他选项是专家建议或无关内容。",
+     "audio": {
+      "key": "listening/v1/c91840858a27178fa928c2839f03093ad71ed5e897aa97303e163a221020059a.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "一项针对中学生的调查显示，超过半数的学生表示他们的压力主要来自家长的期望。专家指出，家长应该多关注孩子的心理健康，而不是一味追求成绩。同时，学校也应提供更多的心理辅导资源。"
+       }
+      ],
+      "transcript": "一项针对中学生的调查显示，超过半数的学生表示他们的压力主要来自家长的期望。专家指出，家长应该多关注孩子的心理健康，而不是一味追求成绩。同时，学校也应提供更多的心理辅导资源。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "学校需要提供心理辅导"
+      },
+      {
+       "label": "B",
+       "text": "专家建议关注成绩"
+      },
+      {
+       "label": "C",
+       "text": "学生压力来自学业"
+      },
+      {
+       "label": "D",
+       "text": "家长期望是主要压力源"
+      }
+     ]
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "关于该城市垃圾分类，下列说法正确的是？",
+     "correctAnswer": "B",
+     "explanation": "新闻指出效果显著，但仍有部分居民不了解，因此改进空间存在。",
+     "audio": {
+      "key": "listening/v1/5feab55378261f5ceda6f73309f9964d28653b8156624cb06a134d5eaa8b8584.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "某城市推行垃圾分类政策已有两年，效果显著。居民的分类意识大幅提高，垃圾回收利用率上升了30%。然而，仍有部分居民对分类标准不够了解，需要加强宣传。"
+       }
+      ],
+      "transcript": "某城市推行垃圾分类政策已有两年，效果显著。居民的分类意识大幅提高，垃圾回收利用率上升了30%。然而，仍有部分居民对分类标准不够了解，需要加强宣传。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "回收利用率下降"
+      },
+      {
+       "label": "B",
+       "text": "效果显著但仍有改进空间"
+      },
+      {
+       "label": "C",
+       "text": "居民完全不配合"
+      },
+      {
+       "label": "D",
+       "text": "已经完美实施"
+      }
+     ]
+    },
+    {
+     "id": "q7",
+     "type": "listening-mcq",
+     "prompt": "医生对喝咖啡的建议是什么？",
+     "correctAnswer": "C",
+     "explanation": "医生建议每天不超过三杯，即控制摄入量，其他选项与建议不符。",
+     "audio": {
+      "key": "listening/v1/0dd7e483a268abb46bfba26621aadd65405253ef5a5972db27df08a9093c5c5c.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "有研究表明，每天喝适量咖啡有助于降低患心脏病的风险。但医生提醒，过量饮用咖啡可能导致失眠和焦虑，建议每天不超过三杯。"
+       }
+      ],
+      "transcript": "有研究表明，每天喝适量咖啡有助于降低患心脏病的风险。但医生提醒，过量饮用咖啡可能导致失眠和焦虑，建议每天不超过三杯。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "咖啡有害健康"
+      },
+      {
+       "label": "B",
+       "text": "每天多喝咖啡"
+      },
+      {
+       "label": "C",
+       "text": "应控制摄入量"
+      },
+      {
+       "label": "D",
+       "text": "咖啡能预防心脏病"
+      }
+     ]
+    },
+    {
+     "id": "q8",
+     "type": "listening-mcq",
+     "prompt": "关于这些机器人，哪项描述正确？",
+     "correctAnswer": "A",
+     "explanation": "新闻明确提到机器人能识别手势指令，其他选项与原文信息相反或片面。",
+     "audio": {
+      "key": "listening/v1/4ca6411e39968821d63ed1a10e71d3e67570ae6c30c25882b05ed22a4c1cd49c.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "最新一代的机器人可以在复杂环境中自主导航，完成送货、清洁等任务。它们的传感器精度大幅提升，能避开障碍物，甚至识别手势指令。不过，这些机器人目前只能在室内使用，受限于电池续航。"
+       }
+      ],
+      "transcript": "最新一代的机器人可以在复杂环境中自主导航，完成送货、清洁等任务。它们的传感器精度大幅提升，能避开障碍物，甚至识别手势指令。不过，这些机器人目前只能在室内使用，受限于电池续航。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "能识别手势指令"
+      },
+      {
+       "label": "B",
+       "text": "电池续航无限制"
+      },
+      {
+       "label": "C",
+       "text": "可以在任何环境下工作"
+      },
+      {
+       "label": "D",
+       "text": "只能完成清洁任务"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

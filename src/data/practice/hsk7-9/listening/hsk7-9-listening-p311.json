@@ -1,0 +1,143 @@
+{
+ "id": "hsk7-9-listening-p311",
+ "level": "7-9",
+ "section": "listening",
+ "partKey": "listening-p3",
+ "title": "HSK7-9 Listening P3",
+ "titleZh": "听力 第三部分（听讲座选填答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "你将听到一段关于丝绸之路的独白。请根据内容回答6个问题，其中4个为选择题，2个为填空题。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "丝绸之路在哪个朝代达到鼎盛？",
+     "correctAnswer": "B",
+     "explanation": "文本中提到“至唐代达到鼎盛时期”，因此答案为唐代。",
+     "options": [
+      {
+       "label": "A",
+       "text": "宋代"
+      },
+      {
+       "label": "B",
+       "text": "唐代"
+      },
+      {
+       "label": "C",
+       "text": "元代"
+      },
+      {
+       "label": "D",
+       "text": "汉代"
+      }
+     ]
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "以下哪项不是从西方传入中国的？",
+     "correctAnswer": "D",
+     "explanation": "文本中提到丝绸是中国运往西方的商品，而葡萄和苜蓿是从西域传入的。佛教虽未在文中提及，但并非从西方传入，不过根据问题，丝绸是中国的输出品，因此正确选项为丝绸。",
+     "options": [
+      {
+       "label": "A",
+       "text": "葡萄"
+      },
+      {
+       "label": "B",
+       "text": "苜蓿"
+      },
+      {
+       "label": "C",
+       "text": "佛教"
+      },
+      {
+       "label": "D",
+       "text": "丝绸"
+      }
+     ]
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "唐代僧人玄奘沿着丝绸之路前往印度取经，他的见闻被记载在哪本书中？",
+     "correctAnswer": "B",
+     "explanation": "文本中明确提到玄奘的见闻被记载在《大唐西域记》中。",
+     "options": [
+      {
+       "label": "A",
+       "text": "《西游记》"
+      },
+      {
+       "label": "B",
+       "text": "《大唐西域记》"
+      },
+      {
+       "label": "C",
+       "text": "《大唐三藏法师传》"
+      },
+      {
+       "label": "D",
+       "text": "《佛国记》"
+      }
+     ]
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "根据文段，丝绸之路衰落的主要原因是什么？",
+     "correctAnswer": "D",
+     "explanation": "文本中提到“海上贸易的兴起以及政治动荡导致丝绸之路逐渐衰落”，选项中只有A是文段中明确提及的原因。",
+     "options": [
+      {
+       "label": "A",
+       "text": "战争破坏"
+      },
+      {
+       "label": "B",
+       "text": "文化冲突"
+      },
+      {
+       "label": "C",
+       "text": "气候变化"
+      },
+      {
+       "label": "D",
+       "text": "海上贸易的兴起"
+      }
+     ]
+    },
+    {
+     "id": "q5",
+     "type": "listening-dictation",
+     "prompt": "丝绸之路兴起于____代。",
+     "correctAnswer": "汉",
+     "explanation": "文本第一句提到“丝绸之路兴起于汉代”，因此答案为“汉”。"
+    },
+    {
+     "id": "q6",
+     "type": "listening-dictation",
+     "prompt": "唐代僧人玄奘前往____取经。",
+     "correctAnswer": "印度",
+     "explanation": "文本中明确说“前往印度取经”，因此答案为“印度”。"
+    }
+   ],
+   "audio": {
+    "key": "listening/v1/fe9f9c002fea130a5e5d5c9c3045daa83df77bc3700d6c2c74f9719c2dccf73a.mp3",
+    "lines": [
+     {
+      "speaker": "旁白",
+      "voice": "narrator",
+      "text": "丝绸之路兴起于汉代，至唐代达到鼎盛时期。商队络绎不绝，不仅交易商品，更传播了文化。中国的丝绸、瓷器、茶叶通过这条路线运往西方，而葡萄、苜蓿等农作物也从西域传入中原。唐代僧人玄奘曾沿着丝绸之路前往印度取经，他的见闻被记载在《大唐西域记》中。然而，海上贸易的兴起以及政治动荡导致丝绸之路逐渐衰落，最终被遗忘在历史的长河中。"
+     }
+    ],
+    "transcript": "丝绸之路兴起于汉代，至唐代达到鼎盛时期。商队络绎不绝，不仅交易商品，更传播了文化。中国的丝绸、瓷器、茶叶通过这条路线运往西方，而葡萄、苜蓿等农作物也从西域传入中原。唐代僧人玄奘曾沿着丝绸之路前往印度取经，他的见闻被记载在《大唐西域记》中。然而，海上贸易的兴起以及政治动荡导致丝绸之路逐渐衰落，最终被遗忘在历史的长河中。",
+    "transcriptPinyin": null
+   }
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

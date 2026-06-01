@@ -1,0 +1,117 @@
+{
+ "id": "hsk1-listening-p114",
+ "level": "1",
+ "section": "listening",
+ "partKey": "listening-p1",
+ "title": "HSK1 Listening P1",
+ "titleZh": "听力 第一部分（看图判断）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听句子并看图片，判断图片是否与句子内容一致（对/错）。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "对",
+     "explanation": "图片展示了一个红色苹果在桌子上，与句子描述完全一致。",
+     "audio": {
+      "key": "listening/v1/e441ded2c84102be7187c0da4d3fb45cdab0cd5708323cbf14d48c55c5ea5ca4.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "桌子上有一个红色的苹果。"
+       }
+      ],
+      "transcript": "桌子上有一个红色的苹果。",
+      "transcriptPinyin": "zhuō zi shàng yǒu yí gè hóng sè de píng guǒ 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-e53d6ae5560a04482dd4ce7aff618ee7.png"
+    },
+    {
+     "id": "q2",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "错",
+     "explanation": "句子说猫在椅子下面，但图片中猫在椅子上面，位置不同。",
+     "audio": {
+      "key": "listening/v1/78a8f148fdd11110bb2359a59462ba2209583d649fa4acb25c3bef125910eeff.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "猫在椅子下面。"
+       }
+      ],
+      "transcript": "猫在椅子下面。",
+      "transcriptPinyin": "māo zài yǐ zi xià miàn 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-bfc6eb1faf610c29acd9087db4759de6.png"
+    },
+    {
+     "id": "q3",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "对",
+     "explanation": "图片显示一个男人在喝水，与句子描述相符。",
+     "audio": {
+      "key": "listening/v1/a18970bce5e3fc7fdad5583208954c5d166bbf98e609f06a2de3b8bf457c97cd.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "他喝水。"
+       }
+      ],
+      "transcript": "他喝水。",
+      "transcriptPinyin": "tā hē shuǐ 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-5ef4c592efe4356daeefc982c83c7f6d.png"
+    },
+    {
+     "id": "q4",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "对",
+     "explanation": "句子说这是一本大书，但图片中的书很小，大小不符。",
+     "audio": {
+      "key": "listening/v1/8d3d1c227946d62fc57367a00ea5624f80124dc4b6f306913c256aa3004e01f1.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "这是一本大书。"
+       }
+      ],
+      "transcript": "这是一本大书。",
+      "transcriptPinyin": "zhè shì yī běn dà shū 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-a36427d8b3dd4c9c31c1b1618d1ac8cc.png"
+    },
+    {
+     "id": "q5",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "错",
+     "explanation": "句子说她看猫，但图片中她看的是狗，动物不同。",
+     "audio": {
+      "key": "listening/v1/07db036e04fb979c5ed8833c437b8c86aa520c6fa6ebceec3cc801d22332ec70.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "她看猫。"
+       }
+      ],
+      "transcript": "她看猫。",
+      "transcriptPinyin": "tā kàn māo 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-547f5dc65c2d96e24c4143517d370286.png"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

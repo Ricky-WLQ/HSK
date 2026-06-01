@@ -1,0 +1,143 @@
+{
+ "id": "hsk7-9-listening-p208",
+ "level": "7-9",
+ "section": "listening",
+ "partKey": "listening-p2",
+ "title": "HSK7-9 Listening P2",
+ "titleZh": "听力 第二部分（听短文选填答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听下面一段关于人工智能在医疗诊断中应用的科技报道，然后回答第1至第6题。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "人工智能在医疗领域哪方面的应用表现最为突出？",
+     "correctAnswer": "A",
+     "explanation": "文中明确指出人工智能在医学影像诊断方面表现卓越。",
+     "options": [
+      {
+       "label": "A",
+       "text": "医学影像诊断"
+      },
+      {
+       "label": "B",
+       "text": "药物研发"
+      },
+      {
+       "label": "C",
+       "text": "手术机器人"
+      },
+      {
+       "label": "D",
+       "text": "基因测序"
+      }
+     ]
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "根据文本，AI在肺部结节检测中的准确率是多少？",
+     "correctAnswer": "A",
+     "explanation": "文中提到一项研究中AI的准确率达到了96%。",
+     "options": [
+      {
+       "label": "A",
+       "text": "96%"
+      },
+      {
+       "label": "B",
+       "text": "88%"
+      },
+      {
+       "label": "C",
+       "text": "92%"
+      },
+      {
+       "label": "D",
+       "text": "99%"
+      }
+     ]
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "AI在医疗应用中存在的“黑箱”问题是指什么？",
+     "correctAnswer": "B",
+     "explanation": "文中解释“黑箱”问题即决策过程难以解释。",
+     "options": [
+      {
+       "label": "A",
+       "text": "数据容易被黑客攻击"
+      },
+      {
+       "label": "B",
+       "text": "决策过程难以解释"
+      },
+      {
+       "label": "C",
+       "text": "只能用于影像诊断"
+      },
+      {
+       "label": "D",
+       "text": "诊断结果总是错误"
+      }
+     ]
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "对于AI与医生的关系，专家强调什么？",
+     "correctAnswer": "B",
+     "explanation": "文中提到专家强调AI应与医生协同工作，而非取代人类。",
+     "options": [
+      {
+       "label": "A",
+       "text": "医生应完全依赖AI"
+      },
+      {
+       "label": "B",
+       "text": "AI与医生协同工作"
+      },
+      {
+       "label": "C",
+       "text": "AI将完全取代医生"
+      },
+      {
+       "label": "D",
+       "text": "AI只适用于辅助学习"
+      }
+     ]
+    },
+    {
+     "id": "q5",
+     "type": "listening-dictation",
+     "prompt": "AI在医疗应用中面临的一个主要挑战是罕见病诊断中________不足。",
+     "correctAnswer": "数据",
+     "explanation": "文中提到其在罕见病诊断中数据不足。"
+    },
+    {
+     "id": "q6",
+     "type": "listening-dictation",
+     "prompt": "未来有望保护患者数据隐私的技术是________。",
+     "correctAnswer": "联邦学习",
+     "explanation": "文中最后一句提到随着联邦学习等隐私保护技术的发展。"
+    }
+   ],
+   "audio": {
+    "key": "listening/v1/44fc002beca8ec8ed3ca2518fca52518810f0023cc6aff32bfea35375746dd67.mp3",
+    "lines": [
+     {
+      "speaker": "旁白",
+      "voice": "narrator",
+      "text": "近年来，人工智能在医疗领域的应用取得了突破性进展，尤其在医学影像诊断方面表现卓越。通过深度学习算法，AI系统能够快速分析X光片、CT扫描等影像数据，敏感度甚至超过经验丰富的放射科医生。例如，一项针对肺部结节的检测研究中，AI的准确率达到了96%，而人工诊断的平均准确率仅为88%。此外，AI还能辅助病理切片分析，大幅缩短诊断时间。然而，AI并非万能，其在罕见病诊断中数据不足，且存在“黑箱”问题，即决策过程难以解释。因此，专家强调，AI应与医生协同工作，而非取代人类。未来，随着联邦学习等隐私保护技术的发展，AI有望在保护患者数据的同时提升诊断能力。"
+     }
+    ],
+    "transcript": "近年来，人工智能在医疗领域的应用取得了突破性进展，尤其在医学影像诊断方面表现卓越。通过深度学习算法，AI系统能够快速分析X光片、CT扫描等影像数据，敏感度甚至超过经验丰富的放射科医生。例如，一项针对肺部结节的检测研究中，AI的准确率达到了96%，而人工诊断的平均准确率仅为88%。此外，AI还能辅助病理切片分析，大幅缩短诊断时间。然而，AI并非万能，其在罕见病诊断中数据不足，且存在“黑箱”问题，即决策过程难以解释。因此，专家强调，AI应与医生协同工作，而非取代人类。未来，随着联邦学习等隐私保护技术的发展，AI有望在保护患者数据的同时提升诊断能力。",
+    "transcriptPinyin": null
+   }
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

@@ -1,0 +1,143 @@
+{
+ "id": "hsk7-9-listening-p219",
+ "level": "7-9",
+ "section": "listening",
+ "partKey": "listening-p2",
+ "title": "HSK7-9 Listening P2",
+ "titleZh": "听力 第二部分（听短文选填答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听一段关于脑机接口技术的短文，然后回答以下问题。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "脑机接口技术通过什么实现人脑与外部设备的通信？",
+     "correctAnswer": "C",
+     "explanation": "短文明确指出“这项技术通过解读大脑神经信号，实现人脑与外部设备的直接通信”，因此A正确。",
+     "options": [
+      {
+       "label": "A",
+       "text": "植入芯片"
+      },
+      {
+       "label": "B",
+       "text": "磁场感应"
+      },
+      {
+       "label": "C",
+       "text": "解读大脑神经信号"
+      },
+      {
+       "label": "D",
+       "text": "电刺激"
+      }
+     ]
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "目前脑机接口已帮助哪类病人？",
+     "correctAnswer": "A",
+     "explanation": "文中提到“目前，它已帮助瘫痪病人操控机械臂”，因此正确选项为B。",
+     "options": [
+      {
+       "label": "A",
+       "text": "瘫痪病人"
+      },
+      {
+       "label": "B",
+       "text": "语言障碍者"
+      },
+      {
+       "label": "C",
+       "text": "听力障碍者"
+      },
+      {
+       "label": "D",
+       "text": "失明患者"
+      }
+     ]
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "关于新型柔性电极，下列哪项说法正确？",
+     "correctAnswer": "B",
+     "explanation": "文中说“研究人员正在开发新型柔性电极，以提高信号采集精度”，信号采集精度即信号分辨率，因此B正确。",
+     "options": [
+      {
+       "label": "A",
+       "text": "替代了传统电极"
+      },
+      {
+       "label": "B",
+       "text": "可提高信号分辨率"
+      },
+      {
+       "label": "C",
+       "text": "成本低廉"
+      },
+      {
+       "label": "D",
+       "text": "已广泛应用"
+      }
+     ]
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "这段文字主要介绍了什么？",
+     "correctAnswer": "C",
+     "explanation": "短文先介绍了脑机接口的原理，然后说明了当前应用和挑战，最后展望未来，因此B最全面。",
+     "options": [
+      {
+       "label": "A",
+       "text": "电极技术的发展"
+      },
+      {
+       "label": "B",
+       "text": "神经康复的前景"
+      },
+      {
+       "label": "C",
+       "text": "脑机接口的原理和应用"
+      },
+      {
+       "label": "D",
+       "text": "脑机接口的挑战"
+      }
+     ]
+    },
+    {
+     "id": "q5",
+     "type": "listening-dictation",
+     "prompt": "脑机接口目前面临的一个挑战是什么？",
+     "correctAnswer": "信号分辨率低",
+     "explanation": "文中明确提到“脑机接口仍面临信号分辨率低、长期植入安全性等挑战”，其中“信号分辨率低”是挑战之一。"
+    },
+    {
+     "id": "q6",
+     "type": "listening-dictation",
+     "prompt": "研究人员开发新型柔性电极的目的是什么？",
+     "correctAnswer": "提高信号精度",
+     "explanation": "原文为“以提高信号采集精度”，简化为“提高信号精度”，不可改变原意。"
+    }
+   ],
+   "audio": {
+    "key": "listening/v1/55cf9f073c5aef8c843920d60db52eeba4ed0943ae4c4a4f085ebce589cb086a.mp3",
+    "lines": [
+     {
+      "speaker": "旁白",
+      "voice": "narrator",
+      "text": "近年来，脑机接口技术取得了突破性进展。这项技术通过解读大脑神经信号，实现人脑与外部设备的直接通信。目前，它已帮助瘫痪病人操控机械臂，甚至恢复部分触觉。然而，脑机接口仍面临信号分辨率低、长期植入安全性等挑战。研究人员正在开发新型柔性电极，以提高信号采集精度。未来，这项技术有望在神经康复、智能假肢等领域发挥更大作用。"
+     }
+    ],
+    "transcript": "近年来，脑机接口技术取得了突破性进展。这项技术通过解读大脑神经信号，实现人脑与外部设备的直接通信。目前，它已帮助瘫痪病人操控机械臂，甚至恢复部分触觉。然而，脑机接口仍面临信号分辨率低、长期植入安全性等挑战。研究人员正在开发新型柔性电极，以提高信号采集精度。未来，这项技术有望在神经康复、智能假肢等领域发挥更大作用。",
+    "transcriptPinyin": null
+   }
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

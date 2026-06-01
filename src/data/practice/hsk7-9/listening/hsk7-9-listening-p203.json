@@ -1,0 +1,143 @@
+{
+ "id": "hsk7-9-listening-p203",
+ "level": "7-9",
+ "section": "listening",
+ "partKey": "listening-p2",
+ "title": "HSK7-9 Listening P2",
+ "titleZh": "听力 第二部分（听短文选填答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听一段关于人工智能在医疗领域应用的独白，然后回答6个问题。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "人工智能在医疗领域的主要应用不包括什么？",
+     "correctAnswer": "A",
+     "explanation": "文中明确指出AI目前主要作为辅助工具，而非替代者，因此不包括替代医生。",
+     "options": [
+      {
+       "label": "A",
+       "text": "替代医生"
+      },
+      {
+       "label": "B",
+       "text": "分析医学影像"
+      },
+      {
+       "label": "C",
+       "text": "诊断肿瘤"
+      },
+      {
+       "label": "D",
+       "text": "辅助药物研发"
+      }
+     ]
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "关于AI诊断的特点，下列哪项是正确的？",
+     "correctAnswer": "D",
+     "explanation": "原文提到AI的判读速度更快，因此D正确。",
+     "options": [
+      {
+       "label": "A",
+       "text": "对罕见病例识别能力强"
+      },
+      {
+       "label": "B",
+       "text": "AI判读速度慢"
+      },
+      {
+       "label": "C",
+       "text": "准确率总是高于人类"
+      },
+      {
+       "label": "D",
+       "text": "判读速度比人类快"
+      }
+     ]
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "根据文段，AI在药物研发中的作用是什么？",
+     "correctAnswer": "A",
+     "explanation": "文中提到AI能够加速新药筛选过程，将周期缩短约30%，因此作用是缩短研发周期。",
+     "options": [
+      {
+       "label": "A",
+       "text": "缩短研发周期"
+      },
+      {
+       "label": "B",
+       "text": "替代临床试验"
+      },
+      {
+       "label": "C",
+       "text": "消除数据隐私风险"
+      },
+      {
+       "label": "D",
+       "text": "解决所有伦理问题"
+      }
+     ]
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "文段最后提到的阻碍AI医疗发展的主要挑战是什么？",
+     "correctAnswer": "D",
+     "explanation": "原文最后一句明确指出“数据隐私和伦理问题仍是阻碍AI医疗发展的主要挑战”。",
+     "options": [
+      {
+       "label": "A",
+       "text": "医生反对"
+      },
+      {
+       "label": "B",
+       "text": "技术成本高"
+      },
+      {
+       "label": "C",
+       "text": "法律不完善"
+      },
+      {
+       "label": "D",
+       "text": "数据隐私和伦理问题"
+      }
+     ]
+    },
+    {
+     "id": "q5",
+     "type": "listening-dictation",
+     "prompt": "AI诊断与人类医生相比，判读速度______。",
+     "correctAnswer": "更快",
+     "explanation": "原文中直接有“AI的判读速度更快”，因此答案为“更快”。"
+    },
+    {
+     "id": "q6",
+     "type": "listening-dictation",
+     "prompt": "使用AI技术可以将药物研发周期缩短约______。",
+     "correctAnswer": "30%",
+     "explanation": "原文明确提到“使用AI技术可以将药物研发周期缩短约30%”。"
+    }
+   ],
+   "audio": {
+    "key": "listening/v1/fad292114ef66a61eb0f9221d5779cbcefd8aa961b66cb696c437d5298d1443c.mp3",
+    "lines": [
+     {
+      "speaker": "旁白",
+      "voice": "narrator",
+      "text": "近年来，人工智能技术在医疗领域的应用日益广泛。例如，通过深度学习算法，AI能够分析医学影像，辅助医生诊断肿瘤、骨折等疾病。与人类医生相比，AI的判读速度更快，且在某些情况下准确率更高。不过，AI诊断仍存在局限性，比如对罕见病例的识别能力不足。因此，目前AI主要作为医生的辅助工具，而非替代者。此外，AI在药物研发中也发挥着重要作用，能够加速新药筛选过程。据统计，使用AI技术可以将药物研发周期缩短约30%。然而，数据隐私和伦理问题仍是阻碍AI医疗发展的主要挑战。"
+     }
+    ],
+    "transcript": "近年来，人工智能技术在医疗领域的应用日益广泛。例如，通过深度学习算法，AI能够分析医学影像，辅助医生诊断肿瘤、骨折等疾病。与人类医生相比，AI的判读速度更快，且在某些情况下准确率更高。不过，AI诊断仍存在局限性，比如对罕见病例的识别能力不足。因此，目前AI主要作为医生的辅助工具，而非替代者。此外，AI在药物研发中也发挥着重要作用，能够加速新药筛选过程。据统计，使用AI技术可以将药物研发周期缩短约30%。然而，数据隐私和伦理问题仍是阻碍AI医疗发展的主要挑战。",
+    "transcriptPinyin": null
+   }
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

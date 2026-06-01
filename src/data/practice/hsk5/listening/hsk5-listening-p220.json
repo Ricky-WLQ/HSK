@@ -1,0 +1,179 @@
+{
+ "id": "hsk5-listening-p220",
+ "level": "5",
+ "section": "listening",
+ "partKey": "listening-p2",
+ "title": "HSK5 Listening P2",
+ "titleZh": "听力 第二部分（听短文选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "你将听到一段关于云南旅行和学习烹饪经历的叙述。请根据这段独白回答下面6个问题。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "说话人去年夏天去了哪里？",
+     "correctAnswer": "B",
+     "explanation": "从说话人第一句话可知他去了云南旅行。",
+     "options": [
+      {
+       "label": "A",
+       "text": "北京"
+      },
+      {
+       "label": "B",
+       "text": "云南"
+      },
+      {
+       "label": "C",
+       "text": "四川"
+      },
+      {
+       "label": "D",
+       "text": "上海"
+      }
+     ]
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "说话人参加了什么活动？",
+     "correctAnswer": "A",
+     "explanation": "说话人提到参加了一个烹饪课程学习制作过桥米线。",
+     "options": [
+      {
+       "label": "A",
+       "text": "烹饪课程"
+      },
+      {
+       "label": "B",
+       "text": "爬山比赛"
+      },
+      {
+       "label": "C",
+       "text": "音乐节"
+      },
+      {
+       "label": "D",
+       "text": "摄影展览"
+      }
+     ]
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "过桥米线有多少年历史？",
+     "correctAnswer": "A",
+     "explanation": "老师说过桥米线有上百年历史。",
+     "options": [
+      {
+       "label": "A",
+       "text": "上百年"
+      },
+      {
+       "label": "B",
+       "text": "上千年"
+      },
+      {
+       "label": "C",
+       "text": "几十年"
+      },
+      {
+       "label": "D",
+       "text": "几百年"
+      }
+     ]
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "关于说话人的学习过程，下面哪个说法正确？",
+     "correctAnswer": "C",
+     "explanation": "说话人说随着练习逐渐熟练起来，而不是一开始就容易。",
+     "options": [
+      {
+       "label": "A",
+       "text": "最后没有成功"
+      },
+      {
+       "label": "B",
+       "text": "老师讲得很快"
+      },
+      {
+       "label": "C",
+       "text": "后来逐渐熟练起来"
+      },
+      {
+       "label": "D",
+       "text": "从一开始就很容易"
+      }
+     ]
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "说话人从这次经历中明白了什么？",
+     "correctAnswer": "B",
+     "explanation": "说话人明白学习新技能需要耐心和坚持。",
+     "options": [
+      {
+       "label": "A",
+       "text": "旅行要带很多钱"
+      },
+      {
+       "label": "B",
+       "text": "学习新技能需要耐心"
+      },
+      {
+       "label": "C",
+       "text": "美食文化不重要"
+      },
+      {
+       "label": "D",
+       "text": "云南米线不好吃"
+      }
+     ]
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "说话人觉得美食还有什么作用？",
+     "correctAnswer": "C",
+     "explanation": "说话人提到美食能让人感受到文化的魅力。",
+     "options": [
+      {
+       "label": "A",
+       "text": "让人感到孤独"
+      },
+      {
+       "label": "B",
+       "text": "让人变得更胖"
+      },
+      {
+       "label": "C",
+       "text": "让人感受文化魅力"
+      },
+      {
+       "label": "D",
+       "text": "让人忘记烦恼"
+      }
+     ]
+    }
+   ],
+   "audio": {
+    "key": "listening/v1/c72e44b05d4b4b6c2e325ed240ab678143ac06463caf120e3bef9ac080d1fac9.mp3",
+    "lines": [
+     {
+      "speaker": "旁白",
+      "voice": "narrator",
+      "text": "去年夏天我去云南旅行，不仅欣赏了美丽的风景，还体验了当地的饮食文化。我参加了一个烹饪课程，学习制作云南传统的过桥米线。老师告诉我们，过桥米线已经有上百年的历史了，它的制作过程非常讲究。一开始，我觉得切菜、煮汤这些步骤很麻烦，但是随着练习，我逐渐熟练起来。最后，我成功地做出了属于自己的米线，心里特别有成就感。这次经历让我明白，学习新技能需要耐心和坚持，而美食不仅能填饱肚子，还能让人感受到文化的魅力。"
+     }
+    ],
+    "transcript": "去年夏天我去云南旅行，不仅欣赏了美丽的风景，还体验了当地的饮食文化。我参加了一个烹饪课程，学习制作云南传统的过桥米线。老师告诉我们，过桥米线已经有上百年的历史了，它的制作过程非常讲究。一开始，我觉得切菜、煮汤这些步骤很麻烦，但是随着练习，我逐渐熟练起来。最后，我成功地做出了属于自己的米线，心里特别有成就感。这次经历让我明白，学习新技能需要耐心和坚持，而美食不仅能填饱肚子，还能让人感受到文化的魅力。",
+    "transcriptPinyin": null
+   }
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

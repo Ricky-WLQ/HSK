@@ -1,0 +1,161 @@
+{
+ "id": "hsk7-9-listening-p303",
+ "level": "7-9",
+ "section": "listening",
+ "partKey": "listening-p3",
+ "title": "HSK7-9 Listening P3",
+ "titleZh": "听力 第三部分（听讲座选填答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听一段关于人工智能在医疗领域应用的讲话，然后回答以下问题。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "根据上文，人工智能在医疗领域的哪个方面被认为可能超过资深专家？",
+     "correctAnswer": "A",
+     "explanation": "文中明确指出深度学习算法通过分析医学影像辅助诊断，其准确率在某些情况下甚至超过了资深专家，因此是影像诊断的准确率。",
+     "options": [
+      {
+       "label": "A",
+       "text": "影像诊断的准确率"
+      },
+      {
+       "label": "B",
+       "text": "药物研发"
+      },
+      {
+       "label": "C",
+       "text": "病理预测"
+      },
+      {
+       "label": "D",
+       "text": "基因分析"
+      }
+     ]
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "关于AI医疗面临的挑战，文中特别强调的是什么？",
+     "correctAnswer": "D",
+     "explanation": "文中提到“数据隐私问题尤为突出”，因此特别强调了数据隐私这一挑战。",
+     "options": [
+      {
+       "label": "A",
+       "text": "算法偏见"
+      },
+      {
+       "label": "B",
+       "text": "伦理监管"
+      },
+      {
+       "label": "C",
+       "text": "技术成本"
+      },
+      {
+       "label": "D",
+       "text": "数据隐私"
+      }
+     ]
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "文中提到AI医疗对于哪类地区具有特别的意义？",
+     "correctAnswer": "C",
+     "explanation": "文中指出“尤其在资源匮乏的地区，AI可以弥补医疗人才不足的短板”，因此是资源匮乏地区。",
+     "options": [
+      {
+       "label": "A",
+       "text": "人口稠密地区"
+      },
+      {
+       "label": "B",
+       "text": "老龄化地区"
+      },
+      {
+       "label": "C",
+       "text": "资源匮乏地区"
+      },
+      {
+       "label": "D",
+       "text": "经济发达地区"
+      }
+     ]
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "作者对AI在医疗领域的未来持什么态度？",
+     "correctAnswer": "B",
+     "explanation": "文中既承认存在挑战，又指出AI的巨大潜力和未来有望成为不可或缺的一部分，因此是谨慎乐观的态度。",
+     "options": [
+      {
+       "label": "A",
+       "text": "悲观"
+      },
+      {
+       "label": "B",
+       "text": "谨慎乐观"
+      },
+      {
+       "label": "C",
+       "text": "无所谓"
+      },
+      {
+       "label": "D",
+       "text": "完全否定"
+      }
+     ]
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "下列哪项不是文中提到的AI在医疗中的应用？",
+     "correctAnswer": "B",
+     "explanation": "文中提到了影像诊断、药物研发、基因分析和病理预测，但没有提及手术操作。",
+     "options": [
+      {
+       "label": "A",
+       "text": "药物研发"
+      },
+      {
+       "label": "B",
+       "text": "手术操作"
+      },
+      {
+       "label": "C",
+       "text": "影像诊断"
+      },
+      {
+       "label": "D",
+       "text": "基因分析"
+      }
+     ]
+    },
+    {
+     "id": "q6",
+     "type": "listening-dictation",
+     "prompt": "文中认为，AI医疗的数据隐私问题之所以突出，是因为医疗数据涉及患者的什么信息？",
+     "correctAnswer": "个人隐私",
+     "explanation": "文中明确提到“医疗数据涉及患者的个人隐私和敏感信息”，因此答案为“个人隐私”。"
+    }
+   ],
+   "audio": {
+    "key": "listening/v1/5cb35a46c7dbda164150ee3d9717828ca1db6f61ccc89089d3f9acad7e43f639.mp3",
+    "lines": [
+     {
+      "speaker": "旁白",
+      "voice": "narrator",
+      "text": "近年来，人工智能在医疗领域的应用取得了突破性进展。从影像诊断到药物研发，从基因分析到病理预测，AI技术正在逐步改变传统的医疗模式。例如，深度学习算法可以通过分析大量医学影像，辅助医生发现早期肿瘤，其准确率在某些情况下甚至超过了资深专家。然而，AI医疗也面临着数据隐私、算法偏见和伦理监管等挑战。其中，数据隐私问题尤为突出，因为医疗数据涉及患者的个人隐私和敏感信息。尽管存在这些挑战，但不可否认的是，AI技术为医疗行业带来了巨大的潜力，尤其在资源匮乏的地区，AI可以弥补医疗人才不足的短板。未来，随着技术的不断成熟和相关法规的完善，AI有望成为医疗系统中不可或缺的一部分。"
+     }
+    ],
+    "transcript": "近年来，人工智能在医疗领域的应用取得了突破性进展。从影像诊断到药物研发，从基因分析到病理预测，AI技术正在逐步改变传统的医疗模式。例如，深度学习算法可以通过分析大量医学影像，辅助医生发现早期肿瘤，其准确率在某些情况下甚至超过了资深专家。然而，AI医疗也面临着数据隐私、算法偏见和伦理监管等挑战。其中，数据隐私问题尤为突出，因为医疗数据涉及患者的个人隐私和敏感信息。尽管存在这些挑战，但不可否认的是，AI技术为医疗行业带来了巨大的潜力，尤其在资源匮乏的地区，AI可以弥补医疗人才不足的短板。未来，随着技术的不断成熟和相关法规的完善，AI有望成为医疗系统中不可或缺的一部分。",
+    "transcriptPinyin": null
+   }
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

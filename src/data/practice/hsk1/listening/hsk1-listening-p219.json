@@ -1,0 +1,202 @@
+{
+ "id": "hsk1-listening-p219",
+ "level": "1",
+ "section": "listening",
+ "partKey": "listening-p2",
+ "title": "HSK1 Listening P2",
+ "titleZh": "听力 第二部分（听句子选答语）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听录音，然后选出正确的答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "这个人说什么？",
+     "correctAnswer": "A",
+     "explanation": "这个人问的是名字，所以是询问名字。",
+     "audio": {
+      "key": "listening/v1/dee75706636fd59d23579253b1aee11905313b90cd1057594844aa060b3f8b2c.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "你好，你叫什么名字？"
+       }
+      ],
+      "transcript": "你好，你叫什么名字？",
+      "transcriptPinyin": "nǐ hǎo ， nǐ jiào shén me míng zì ？"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "他问名字",
+       "pinyin": "tā wèn míng zì"
+      },
+      {
+       "label": "B",
+       "text": "他问年龄",
+       "pinyin": "tā wèn nián líng"
+      },
+      {
+       "label": "C",
+       "text": "他问好",
+       "pinyin": "tā wèn hǎo"
+      }
+     ],
+     "pinyin": "zhè ge rén shuō shén me ？"
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "这个人想做什么？",
+     "correctAnswer": "B",
+     "explanation": "这个人说去公园，所以想去公园。",
+     "audio": {
+      "key": "listening/v1/ea6a8e4f3940c60bbd314ade34cf78e6e14c3d18dab3bf25cd739f306a1d77b6.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "今天天气很好，我们去公园吧。"
+       }
+      ],
+      "transcript": "今天天气很好，我们去公园吧。",
+      "transcriptPinyin": "jīn tiān tiān qì hěn hǎo ， wǒ men qù gōng yuán ba 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "在家学习",
+       "pinyin": "zài jiā xué xí"
+      },
+      {
+       "label": "B",
+       "text": "去公园",
+       "pinyin": "qù gōng yuán"
+      },
+      {
+       "label": "C",
+       "text": "睡觉",
+       "pinyin": "shuì jiào"
+      }
+     ],
+     "pinyin": "zhè ge rén xiǎng zuò shén me ？"
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "这个人想做什么？",
+     "correctAnswer": "A",
+     "explanation": "这个人说“喝水”，所以想喝水。",
+     "audio": {
+      "key": "listening/v1/0db9402ddc874ace02cdef54ff56867172f951bca5e4f3eb3750ee614a4eb6b3.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "妈妈，我要喝水。"
+       }
+      ],
+      "transcript": "妈妈，我要喝水。",
+      "transcriptPinyin": "mā mā ， wǒ yào hē shuǐ 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "喝水",
+       "pinyin": "hē shuǐ"
+      },
+      {
+       "label": "B",
+       "text": "睡觉",
+       "pinyin": "shuì jiào"
+      },
+      {
+       "label": "C",
+       "text": "吃饭",
+       "pinyin": "chī fàn"
+      }
+     ],
+     "pinyin": "zhè ge rén xiǎng zuò shén me ？"
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "这本书是谁的？",
+     "correctAnswer": "A",
+     "explanation": "这本书是我的，所以是我的。",
+     "audio": {
+      "key": "listening/v1/eb4809e9e3fabce8302144a0401efa23a3187209915ea6c7ad03347ca4f819c9.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "这本书是我的，不是你的。"
+       }
+      ],
+      "transcript": "这本书是我的，不是你的。",
+      "transcriptPinyin": "zhè běn shū shì wǒ de ， bú shì nǐ de 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "我的",
+       "pinyin": "wǒ de"
+      },
+      {
+       "label": "B",
+       "text": "你的",
+       "pinyin": "nǐ de"
+      },
+      {
+       "label": "C",
+       "text": "他的",
+       "pinyin": "tā de"
+      }
+     ],
+     "pinyin": "zhè běn shū shì shéi de ？"
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "这个人问什么？",
+     "correctAnswer": "A",
+     "explanation": "这个人问你去不去北京，所以是询问是否去北京。",
+     "audio": {
+      "key": "listening/v1/3b499c867f16cf3182773ed1981875afde57460dd3b973ee8e6002b9ed99e5d5.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我明天去北京，你去吗？"
+       }
+      ],
+      "transcript": "我明天去北京，你去吗？",
+      "transcriptPinyin": "wǒ míng tiān qù běi jīng ， nǐ qù ma ？"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "你去不去北京",
+       "pinyin": "nǐ qù bù qù běi jīng"
+      },
+      {
+       "label": "B",
+       "text": "你叫什么",
+       "pinyin": "nǐ jiào shén me"
+      },
+      {
+       "label": "C",
+       "text": "你几岁",
+       "pinyin": "nǐ jǐ suì"
+      }
+     ],
+     "pinyin": "zhè ge rén wèn shén me ？"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

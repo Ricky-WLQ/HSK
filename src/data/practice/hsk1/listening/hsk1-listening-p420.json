@@ -1,0 +1,202 @@
+{
+ "id": "hsk1-listening-p420",
+ "level": "1",
+ "section": "listening",
+ "partKey": "listening-p4",
+ "title": "HSK1 Listening P4",
+ "titleZh": "听力 第四部分（听问句选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听录音，然后根据录音内容选择正确答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "这个人在问什么？",
+     "correctAnswer": "A",
+     "explanation": "录音中的人先介绍自己的名字，然后问对方的名字，所以他在问对方叫什么名字。",
+     "audio": {
+      "key": "listening/v1/51b3c76be806bd1f5ed0cf9852ccbc0ddb24898534bd4e79857bf00614d49251.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "你好，我叫王明。你叫什么名字？"
+       }
+      ],
+      "transcript": "你好，我叫王明。你叫什么名字？",
+      "transcriptPinyin": "nǐ hǎo ， wǒ jiào wáng míng 。 nǐ jiào shén me míng zì ？"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "你叫什么名字",
+       "pinyin": "nǐ jiào shén me míng zì"
+      },
+      {
+       "label": "B",
+       "text": "你好",
+       "pinyin": "nǐ hǎo"
+      },
+      {
+       "label": "C",
+       "text": "我叫王明",
+       "pinyin": "wǒ jiào wáng míng"
+      }
+     ],
+     "pinyin": "zhè ge rén zài wèn shén me ？"
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "这个人多大了？",
+     "correctAnswer": "C",
+     "explanation": "录音中说自己今年六岁，所以这个人是六岁。",
+     "audio": {
+      "key": "listening/v1/757256f8d42d25107df431e65a7980b754afe509a1133f841e73fbd932ad5368.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我今年六岁。你多大了？"
+       }
+      ],
+      "transcript": "我今年六岁。你多大了？",
+      "transcriptPinyin": "wǒ jīn nián liù suì 。 nǐ duō dà le ？"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "不知道",
+       "pinyin": "bù zhī dào"
+      },
+      {
+       "label": "B",
+       "text": "七岁",
+       "pinyin": "qī suì"
+      },
+      {
+       "label": "C",
+       "text": "六岁",
+       "pinyin": "liù suì"
+      }
+     ],
+     "pinyin": "zhè ge rén duō dà le ？"
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "现在几点？",
+     "correctAnswer": "C",
+     "explanation": "录音一开始说现在八点，所以现在是八点。",
+     "audio": {
+      "key": "listening/v1/806b69bf5ccbaefafbab982b939ab17179ed0380924c0f081e0fb4861e2f0f5e.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "现在八点。我们九点上课。"
+       }
+      ],
+      "transcript": "现在八点。我们九点上课。",
+      "transcriptPinyin": "xiàn zài bā diǎn 。 wǒ men jiǔ diǎn shàng kè 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "九点",
+       "pinyin": "jiǔ diǎn"
+      },
+      {
+       "label": "B",
+       "text": "十点",
+       "pinyin": "shí diǎn"
+      },
+      {
+       "label": "C",
+       "text": "八点",
+       "pinyin": "bā diǎn"
+      }
+     ],
+     "pinyin": "xiàn zài jǐ diǎn ？"
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "书在哪里？",
+     "correctAnswer": "C",
+     "explanation": "录音说书在桌子上，所以书在桌子上。",
+     "audio": {
+      "key": "listening/v1/3d8948b640849b33cea07c5a2c8a57a6aa13d19d544b46767e7d7cfc1375a3c3.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我的书在桌子上。"
+       }
+      ],
+      "transcript": "我的书在桌子上。",
+      "transcriptPinyin": "wǒ de shū zài zhuō zi shàng 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "椅子上",
+       "pinyin": "yǐ zi shàng"
+      },
+      {
+       "label": "B",
+       "text": "床上",
+       "pinyin": "chuáng shàng"
+      },
+      {
+       "label": "C",
+       "text": "桌子上",
+       "pinyin": "zhuō zi shàng"
+      }
+     ],
+     "pinyin": "shū zài nǎ lǐ ？"
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "这个人说的是谁？",
+     "correctAnswer": "C",
+     "explanation": "录音说这是我妈妈，所以说的是妈妈。",
+     "audio": {
+      "key": "listening/v1/4b1807673da1361e3ee7a82fbfb8e777611b6d7f3ceb09dd4b1d02552b0df31a.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "这是我妈妈，她很高兴。"
+       }
+      ],
+      "transcript": "这是我妈妈，她很高兴。",
+      "transcriptPinyin": "zhè shì wǒ mā mā ， tā hěn gāo xìng 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "爸爸",
+       "pinyin": "bà bà"
+      },
+      {
+       "label": "B",
+       "text": "哥哥",
+       "pinyin": "gē gē"
+      },
+      {
+       "label": "C",
+       "text": "妈妈",
+       "pinyin": "mā mā"
+      }
+     ],
+     "pinyin": "zhè ge rén shuō de shì shuí ？"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

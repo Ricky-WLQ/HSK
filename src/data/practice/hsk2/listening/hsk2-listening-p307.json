@@ -1,0 +1,487 @@
+{
+ "id": "hsk2-listening-p307",
+ "level": "2",
+ "section": "listening",
+ "partKey": "listening-p3",
+ "title": "HSK2 Listening P3",
+ "titleZh": "听力 第三部分（听对话选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听对话，然后根据对话内容选择正确答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "女想吃什么？",
+     "correctAnswer": "C",
+     "explanation": "对话中女的说想吃面条，所以正确答案是面条。",
+     "audio": {
+      "key": "listening/v1/04a7ca22245b578664a32c07c2e2e5aa27f6181d8215d588205ee68653554f31.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "今天吃什么？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我想吃面条。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "好的，那我们去吃面条吧。"
+       }
+      ],
+      "transcript": "今天吃什么？ 我想吃面条。 好的，那我们去吃面条吧。",
+      "transcriptPinyin": "jīn tiān chī shén me ？  wǒ xiǎng chī miàn tiáo 。  hǎo de ， nà wǒ men qù chī miàn tiáo ba 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "饺子",
+       "pinyin": "jiǎo zi"
+      },
+      {
+       "label": "B",
+       "text": "米饭",
+       "pinyin": "mǐ fàn"
+      },
+      {
+       "label": "C",
+       "text": "面条",
+       "pinyin": "miàn tiáo"
+      }
+     ],
+     "pinyin": "nǚ xiǎng chī shén me ？"
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "男周末去哪里？",
+     "correctAnswer": "B",
+     "explanation": "对话中男的说去公园玩，所以正确答案是公园。",
+     "audio": {
+      "key": "listening/v1/274b7dddca2f455432803ab20398425554db183259c5df280d0bc4c927f61cec.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "周末你做什么？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我去公园玩。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我也想去，我们一起去吧。"
+       }
+      ],
+      "transcript": "周末你做什么？ 我去公园玩。 我也想去，我们一起去吧。",
+      "transcriptPinyin": "zhōu mò nǐ zuò shén me ？  wǒ qù gōng yuán wán 。  wǒ yě xiǎng qù ， wǒ men yì qǐ qù ba 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "商店",
+       "pinyin": "shāng diàn"
+      },
+      {
+       "label": "B",
+       "text": "公园",
+       "pinyin": "gōng yuán"
+      },
+      {
+       "label": "C",
+       "text": "学校",
+       "pinyin": "xué xiào"
+      }
+     ],
+     "pinyin": "nán zhōu mò qù nǎ lǐ ？"
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "衣服多少钱？",
+     "correctAnswer": "B",
+     "explanation": "对话中女的说衣服一百块钱，所以正确答案是一百块。",
+     "audio": {
+      "key": "listening/v1/eed322b77f411b0e13ee86bbb4c2a62d28874c9064cdbac52935235698caf7b9.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "这件衣服多少钱？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "一百块钱。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "太贵了。"
+       }
+      ],
+      "transcript": "这件衣服多少钱？ 一百块钱。 太贵了。",
+      "transcriptPinyin": "zhè jiàn yī fú duō shǎo qián ？  yì bǎi kuài qián 。  tài guì le 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "十块",
+       "pinyin": "shí kuài"
+      },
+      {
+       "label": "B",
+       "text": "一百块",
+       "pinyin": "yì bǎi kuài"
+      },
+      {
+       "label": "C",
+       "text": "一千块",
+       "pinyin": "yī qiān kuài"
+      }
+     ],
+     "pinyin": "yī fú duō shǎo qián ？"
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "现在几点？",
+     "correctAnswer": "B",
+     "explanation": "对话中男的说十二点，所以正确答案是十二点。",
+     "audio": {
+      "key": "listening/v1/7b0e7d4460f6eb783ce6a0444f90727c8060038c03b64035defece4325c7b620.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "现在几点了？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "十二点。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我们该吃饭了。"
+       }
+      ],
+      "transcript": "现在几点了？ 十二点。 我们该吃饭了。",
+      "transcriptPinyin": "xiàn zài jǐ diǎn le ？  shí èr diǎn 。  wǒ men gāi chī fàn le 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "一点",
+       "pinyin": "yì diǎn"
+      },
+      {
+       "label": "B",
+       "text": "十二点",
+       "pinyin": "shí èr diǎn"
+      },
+      {
+       "label": "C",
+       "text": "十一点",
+       "pinyin": "shí yì diǎn"
+      }
+     ],
+     "pinyin": "xiàn zài jǐ diǎn ？"
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "女的叫什么？",
+     "correctAnswer": "B",
+     "explanation": "对话中女的说自己叫小红，所以正确答案是小红。",
+     "audio": {
+      "key": "listening/v1/964eeb1bab751f6eb48a0e2aa344feb0256e8dd58c8d6c46d395e0a40d40c93e.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你叫什么名字？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我叫小红。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你好，小红。"
+       }
+      ],
+      "transcript": "你叫什么名字？ 我叫小红。 你好，小红。",
+      "transcriptPinyin": "nǐ jiào shén me míng zì ？  wǒ jiào xiǎo hóng 。  nǐ hǎo ， xiǎo hóng 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "小明",
+       "pinyin": "xiǎo míng"
+      },
+      {
+       "label": "B",
+       "text": "小红",
+       "pinyin": "xiǎo hóng"
+      },
+      {
+       "label": "C",
+       "text": "小李",
+       "pinyin": "xiǎo lǐ"
+      }
+     ],
+     "pinyin": "nǚ de jiào shén me ？"
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "男的会什么？",
+     "correctAnswer": "B",
+     "explanation": "对话中女问会不会汉语，男的说会一点，所以正确答案是汉语。",
+     "audio": {
+      "key": "listening/v1/a0211f37de481a702a3dabb55cae87ba1502f384bfb1d542a7792d4dca553f1e.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你会说汉语吗？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "会一点。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你说得很好。"
+       }
+      ],
+      "transcript": "你会说汉语吗？ 会一点。 你说得很好。",
+      "transcriptPinyin": "nǐ huì shuō hàn yǔ ma ？  huì yì diǎn 。  nǐ shuō dé hěn hǎo 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "日语",
+       "pinyin": "rì yǔ"
+      },
+      {
+       "label": "B",
+       "text": "汉语",
+       "pinyin": "hàn yǔ"
+      },
+      {
+       "label": "C",
+       "text": "英语",
+       "pinyin": "yīng yǔ"
+      }
+     ],
+     "pinyin": "nán de huì shén me ？"
+    },
+    {
+     "id": "q7",
+     "type": "listening-mcq",
+     "prompt": "女的家在哪儿？",
+     "correctAnswer": "B",
+     "explanation": "对话中女的说家在北京，所以正确答案是北京。",
+     "audio": {
+      "key": "listening/v1/076e88499141cad8bb95d85c077689b76a328265ecfd80351eab3e8369e5308c.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你的家在哪儿？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "在北京。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "北京很好。"
+       }
+      ],
+      "transcript": "你的家在哪儿？ 在北京。 北京很好。",
+      "transcriptPinyin": "nǐ de jiā zài nǎ ér ？  zài běi jīng 。  běi jīng hěn hǎo 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "上海",
+       "pinyin": "shàng hǎi"
+      },
+      {
+       "label": "B",
+       "text": "北京",
+       "pinyin": "běi jīng"
+      },
+      {
+       "label": "C",
+       "text": "广州",
+       "pinyin": "guǎng zhōu"
+      }
+     ],
+     "pinyin": "nǚ de jiā zài nǎ ér ？"
+    },
+    {
+     "id": "q8",
+     "type": "listening-mcq",
+     "prompt": "男的几岁？",
+     "correctAnswer": "C",
+     "explanation": "对话中男的说自己二十五岁，所以正确答案是二十五。",
+     "audio": {
+      "key": "listening/v1/f7a132ab09ad5242c282e3437825d6f2fbb6c34c0b2ce250a9887b89cb77b831.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你多大？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "二十五岁。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你很年轻。"
+       }
+      ],
+      "transcript": "你多大？ 二十五岁。 你很年轻。",
+      "transcriptPinyin": "nǐ duō dà ？  èr shí wǔ suì 。  nǐ hěn nián qīng 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "三十",
+       "pinyin": "sān shí"
+      },
+      {
+       "label": "B",
+       "text": "二十",
+       "pinyin": "èr shí"
+      },
+      {
+       "label": "C",
+       "text": "二十五",
+       "pinyin": "èr shí wǔ"
+      }
+     ],
+     "pinyin": "nán de jǐ suì ？"
+    },
+    {
+     "id": "q9",
+     "type": "listening-mcq",
+     "prompt": "女要喝什么？",
+     "correctAnswer": "C",
+     "explanation": "对话中女的说自己喝茶，所以正确答案是茶。",
+     "audio": {
+      "key": "listening/v1/23ee5d9f543cd39a9a4829c43ced942ae7cbf929f58c1d0e8f4a4d719dd66714.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你喝茶还是咖啡？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我喝茶。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "好，我也喝茶。"
+       }
+      ],
+      "transcript": "你喝茶还是咖啡？ 我喝茶。 好，我也喝茶。",
+      "transcriptPinyin": "nǐ hē chá hái shì kā fēi ？  wǒ hē chá 。  hǎo ， wǒ yě hē chá 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "果汁",
+       "pinyin": "guǒ zhī"
+      },
+      {
+       "label": "B",
+       "text": "咖啡",
+       "pinyin": "kā fēi"
+      },
+      {
+       "label": "C",
+       "text": "茶",
+       "pinyin": "chá"
+      }
+     ],
+     "pinyin": "nǚ yào hē shén me ？"
+    },
+    {
+     "id": "q10",
+     "type": "listening-mcq",
+     "prompt": "谁来了？",
+     "correctAnswer": "B",
+     "explanation": "对话中男的说朋友小李来了，所以正确答案是小李。",
+     "audio": {
+      "key": "listening/v1/548655dcefd1ef0e2217301b7900bd5f13536624767f2544ec794518415510a8.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "谁来了？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我的朋友小李来了。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "请他进来吧。"
+       }
+      ],
+      "transcript": "谁来了？ 我的朋友小李来了。 请他进来吧。",
+      "transcriptPinyin": "shuí lái le ？  wǒ de péng yǒu xiǎo lǐ lái le 。  qǐng tā jìn lái ba 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "小张",
+       "pinyin": "xiǎo zhāng"
+      },
+      {
+       "label": "B",
+       "text": "小李",
+       "pinyin": "xiǎo lǐ"
+      },
+      {
+       "label": "C",
+       "text": "小王",
+       "pinyin": "xiǎo wáng"
+      }
+     ],
+     "pinyin": "shuí lái le ？"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

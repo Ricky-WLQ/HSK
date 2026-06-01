@@ -1,0 +1,387 @@
+{
+ "id": "hsk3-listening-p308",
+ "level": "3",
+ "section": "listening",
+ "partKey": "listening-p3",
+ "title": "HSK3 Listening P3",
+ "titleZh": "听力 第三部分（听短文选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "下面你将听到10段独白，每段独白后有一个问题。请从每题给出的三个选项中选出正确答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "说话人明天要做什么？",
+     "correctAnswer": "A",
+     "explanation": "从独白中知道，说话人打算请朋友来家里吃晚饭，并且妈妈做菜，买蛋糕，这是在家过生日的安排。",
+     "audio": {
+      "key": "listening/v1/2a5ca9c58fceb79aaa06c04601b4d74d226c77549d695ee9ce3c2e5ac6a058be.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "明天是我的生日，我打算请几个朋友来我家吃晚饭。妈妈会做很多好吃的菜，我还会买一个大蛋糕。"
+       }
+      ],
+      "transcript": "明天是我的生日，我打算请几个朋友来我家吃晚饭。妈妈会做很多好吃的菜，我还会买一个大蛋糕。",
+      "transcriptPinyin": "míng tiān shì wǒ de shēng rì ， wǒ dǎ suàn qǐng jǐ gè péng yǒu lái wǒ jiā chī wǎn fàn 。 mā mā huì zuò hěn duō hǎo chī de cài ， wǒ hái huì mǎi yí gè dà dàn gāo 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "在家里过生日",
+       "pinyin": "zài jiā lǐ guò shēng rì"
+      },
+      {
+       "label": "B",
+       "text": "去商店买蛋糕",
+       "pinyin": "qù shāng diàn mǎi dàn gāo"
+      },
+      {
+       "label": "C",
+       "text": "去朋友家吃饭",
+       "pinyin": "qù péng yǒu jiā chī fàn"
+      }
+     ],
+     "pinyin": "shuō huà rén míng tiān yào zuò shén me ？"
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "说话人昨天买了什么？",
+     "correctAnswer": "A",
+     "explanation": "独白中提到'买了一本书，是关于如何学英语的'，所以是一本学英语的书。",
+     "audio": {
+      "key": "listening/v1/40ebfab0601300967e2a10c3355c6504a1841bc1a32ce2f67c3781934fcb4709.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "昨天我去书店买了一本书，是关于如何学英语的。这本书很便宜，只要二十块钱。我打算今天晚上开始看。"
+       }
+      ],
+      "transcript": "昨天我去书店买了一本书，是关于如何学英语的。这本书很便宜，只要二十块钱。我打算今天晚上开始看。",
+      "transcriptPinyin": "zuó tiān wǒ qù shū diàn mǎi le yī běn shū ， shì guān yú rú hé xué yīng yǔ de 。 zhè běn shū hěn pián yi ， zhǐ yào èr shí kuài qián 。 wǒ dǎ suàn jīn tiān wǎn shàng kāi shǐ kàn 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "一本学英语的书",
+       "pinyin": "yī běn xué yīng yǔ de shū"
+      },
+      {
+       "label": "B",
+       "text": "一本便宜的小说",
+       "pinyin": "yī běn pián yi de xiǎo shuō"
+      },
+      {
+       "label": "C",
+       "text": "一本学汉语的书",
+       "pinyin": "yī běn xué hàn yǔ de shū"
+      }
+     ],
+     "pinyin": "shuō huà rén zuó tiān mǎi le shén me ？"
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "小张每天怎么去上班？",
+     "correctAnswer": "B",
+     "explanation": "独白中清楚说明'坐地铁去公司上班'，所以是坐地铁。",
+     "audio": {
+      "key": "listening/v1/bbf089f4936300b5024cc3216a2db4456b65834006c2af5f989a2e4139ce6f46.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "小张每天早上七点起床，然后坐地铁去公司上班。他一般八点半到公司，路上要花一个多小时。"
+       }
+      ],
+      "transcript": "小张每天早上七点起床，然后坐地铁去公司上班。他一般八点半到公司，路上要花一个多小时。",
+      "transcriptPinyin": "xiǎo zhāng měi tiān zǎo shàng qī diǎn qǐ chuáng ， rán hòu zuò dì tiě qù gōng sī shàng bān 。 tā yì bān bā diǎn bàn dào gōng sī ， lù shàng yào huā yí gè duō xiǎo shí 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "走路",
+       "pinyin": "zǒu lù"
+      },
+      {
+       "label": "B",
+       "text": "坐地铁",
+       "pinyin": "zuò dì tiě"
+      },
+      {
+       "label": "C",
+       "text": "骑自行车",
+       "pinyin": "qí zì xíng chē"
+      }
+     ],
+     "pinyin": "xiǎo zhāng měi tiān zěn me qù shàng bān ？"
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "说话人今天要去哪里？",
+     "correctAnswer": "A",
+     "explanation": "独白中说'我和朋友决定去公园放风筝'，所以是去公园。",
+     "audio": {
+      "key": "listening/v1/6ba1e7aaccc6280e30432609f06d07d0c715abd09acd7c4fcfa1d47c96f3068a.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "今天天气非常好，天空很蓝，太阳很大。我和朋友决定去公园放风筝。公园里有很多人在跑步和散步。"
+       }
+      ],
+      "transcript": "今天天气非常好，天空很蓝，太阳很大。我和朋友决定去公园放风筝。公园里有很多人在跑步和散步。",
+      "transcriptPinyin": "jīn tiān tiān qì fēi cháng hǎo ， tiān kōng hěn lán ， tài yáng hěn dà 。 wǒ hé péng yǒu jué dìng qù gōng yuán fàng fēng zhēng 。 gōng yuán lǐ yǒu hěn duō rén zài pǎo bù hé sàn bù 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "去公园放风筝",
+       "pinyin": "qù gōng yuán fàng fēng zhēng"
+      },
+      {
+       "label": "B",
+       "text": "去山里跑步",
+       "pinyin": "qù shān lǐ pǎo bù"
+      },
+      {
+       "label": "C",
+       "text": "去海边散步",
+       "pinyin": "qù hǎi biān sàn bù"
+      }
+     ],
+     "pinyin": "shuō huà rén jīn tiān yào qù nǎ lǐ ？"
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "说话人晚上要做什么？",
+     "correctAnswer": "A",
+     "explanation": "独白明确说'去机场接我妈妈'，所以是去机场接人。",
+     "audio": {
+      "key": "listening/v1/95c2b42bc457079ddd515766eed8a0462e794a5c891527073f133337fffaa895.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "晚上我要去机场接我妈妈，她从上海坐飞机过来。飞机晚上八点到，我打算开车去接她。"
+       }
+      ],
+      "transcript": "晚上我要去机场接我妈妈，她从上海坐飞机过来。飞机晚上八点到，我打算开车去接她。",
+      "transcriptPinyin": "wǎn shàng wǒ yào qù jī chǎng jiē wǒ mā mā ， tā cóng shàng hǎi zuò fēi jī guò lái 。 fēi jī wǎn shàng bā diǎn dào ， wǒ dǎ suàn kāi chē qù jiē tā 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "去机场接妈妈",
+       "pinyin": "qù jī chǎng jiē mā mā"
+      },
+      {
+       "label": "B",
+       "text": "在家等妈妈回来",
+       "pinyin": "zài jiā děng mā mā huí lái"
+      },
+      {
+       "label": "C",
+       "text": "坐飞机去上海",
+       "pinyin": "zuò fēi jī qù shàng hǎi"
+      }
+     ],
+     "pinyin": "shuō huà rén wǎn shàng yào zuò shén me ？"
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "朋友建议说话人做什么？",
+     "correctAnswer": "A",
+     "explanation": "朋友建议'去图书馆看书或者去爬山'，所以是这两个活动之一。",
+     "audio": {
+      "key": "listening/v1/bc5e19f563a9679c7f3d8feea6574ade58491f9ea9a19b6ee5a15eb856acb50f.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "这个周末我想去看电影，但是朋友说最近上映的电影不好看。他建议我去图书馆看书或者去爬山。"
+       }
+      ],
+      "transcript": "这个周末我想去看电影，但是朋友说最近上映的电影不好看。他建议我去图书馆看书或者去爬山。",
+      "transcriptPinyin": "zhè ge zhōu mò wǒ xiǎng qù kàn diàn yǐng ， dàn shì péng yǒu shuō zuì jìn shàng yìng de diàn yǐng bù hǎo kàn 。 tā jiàn yì wǒ qù tú shū guǎn kàn shū huò zhě qù pá shān 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "去图书馆或爬山",
+       "pinyin": "qù tú shū guǎn huò pá shān"
+      },
+      {
+       "label": "B",
+       "text": "去看电影",
+       "pinyin": "qù kàn diàn yǐng"
+      },
+      {
+       "label": "C",
+       "text": "在家休息",
+       "pinyin": "zài jiā xiū xī"
+      }
+     ],
+     "pinyin": "péng yǒu jiàn yì shuō huà rén zuò shén me ？"
+    },
+    {
+     "id": "q7",
+     "type": "listening-mcq",
+     "prompt": "王老师是教什么课的老师？",
+     "correctAnswer": "A",
+     "explanation": "独白第一句就说'王老师是教中文的老师'，所以是中文老师。",
+     "audio": {
+      "key": "listening/v1/bcf6a9b5ea791772c59bf706a922f03ddc0b217784f99511d3b3cd9b051225a2.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "王老师是教中文的老师，他上课很有意思。今天他教我们写汉字，还让我们练习读课文。同学们都很喜欢他。"
+       }
+      ],
+      "transcript": "王老师是教中文的老师，他上课很有意思。今天他教我们写汉字，还让我们练习读课文。同学们都很喜欢他。",
+      "transcriptPinyin": "wáng lǎo shī shì jiāo zhōng wén de lǎo shī ， tā shàng kè hěn yǒu yì si 。 jīn tiān tā jiào wǒ men xiě hàn zì ， hái ràng wǒ men liàn xí dú kè wén 。 tóng xué men dōu hěn xǐ huān tā 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "中文",
+       "pinyin": "zhōng wén"
+      },
+      {
+       "label": "B",
+       "text": "英语",
+       "pinyin": "yīng yǔ"
+      },
+      {
+       "label": "C",
+       "text": "数学",
+       "pinyin": "shù xué"
+      }
+     ],
+     "pinyin": "wáng lǎo shī shì jiào shén me kè de lǎo shī ？"
+    },
+    {
+     "id": "q8",
+     "type": "listening-mcq",
+     "prompt": "说话人昨天怎么了？",
+     "correctAnswer": "A",
+     "explanation": "独白中提到头痛、发烧，医生说是感冒，所以是发烧去医院。",
+     "audio": {
+      "key": "listening/v1/eacb7435d81b38a890a711d45e6508aa9e7c037bb8a00b073ad20b7f60ce35fe.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "昨天我觉得不舒服，头痛得厉害，还发烧了。妈妈带我去医院看了医生，医生说我感冒了，给我开了药。"
+       }
+      ],
+      "transcript": "昨天我觉得不舒服，头痛得厉害，还发烧了。妈妈带我去医院看了医生，医生说我感冒了，给我开了药。",
+      "transcriptPinyin": "zuó tiān wǒ jué de bù shū fú ， tóu tòng dé lì hài ， hái fā shāo le 。 mā mā dài wǒ qù yī yuàn kàn le yī shēng ， yī shēng shuō wǒ gǎn mào le ， gěi wǒ kāi le yào 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "发烧了，所以去医院",
+       "pinyin": "fā shāo le ， suǒ yǐ qù yī yuàn"
+      },
+      {
+       "label": "B",
+       "text": "牙痛，看了牙医",
+       "pinyin": "yá tòng ， kàn le yá yī"
+      },
+      {
+       "label": "C",
+       "text": "肚子痛，吃了药",
+       "pinyin": "dù zi tòng ， chī le yào"
+      }
+     ],
+     "pinyin": "shuō huà rén zuó tiān zěn me le ？"
+    },
+    {
+     "id": "q9",
+     "type": "listening-mcq",
+     "prompt": "说话人为什么没有买那件衣服？",
+     "correctAnswer": "A",
+     "explanation": "独白说'价钱太贵了，我决定不买了'，所以是因为太贵。",
+     "audio": {
+      "key": "listening/v1/06d3a06d7bfacd31be2d6dc67784c9fc59cd17022ee756b5cb33362256c67b58.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我在商店里看到一件蓝色的衣服，很漂亮，但是价钱太贵了，要五百块。我决定不买了，等打折的时候再说。"
+       }
+      ],
+      "transcript": "我在商店里看到一件蓝色的衣服，很漂亮，但是价钱太贵了，要五百块。我决定不买了，等打折的时候再说。",
+      "transcriptPinyin": "wǒ zài shāng diàn lǐ kàn dào yī jiàn lán sè de yī fú ， hěn piào liàng ， dàn shì jià qián tài guì le ， yào wǔ bǎi kuài 。 wǒ jué dìng bù mǎi le ， děng dǎ zhé de shí hòu zài shuō 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "因为太贵了",
+       "pinyin": "yīn wèi tài guì le"
+      },
+      {
+       "label": "B",
+       "text": "因为颜色不好看",
+       "pinyin": "yīn wèi yán sè bù hǎo kàn"
+      },
+      {
+       "label": "C",
+       "text": "因为不喜欢衣服",
+       "pinyin": "yīn wèi bù xǐ huān yī fú"
+      }
+     ],
+     "pinyin": "shuō huà rén wéi shén me méi yǒu mǎi nà jiàn yī fú ？"
+    },
+    {
+     "id": "q10",
+     "type": "listening-mcq",
+     "prompt": "说话人这个周末打算做什么？",
+     "correctAnswer": "C",
+     "explanation": "独白中明确说'不能出去玩，要在家好好复习'，所以是在家复习。",
+     "audio": {
+      "key": "listening/v1/b606481b77659185dcfaa12d56fc52a7ac1271b4e91f66e1268450a671c13b99.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "下个星期有一个重要的考试，所以我这个周末不能出去玩，要在家好好复习。我打算每天早上背单词，下午做练习。"
+       }
+      ],
+      "transcript": "下个星期有一个重要的考试，所以我这个周末不能出去玩，要在家好好复习。我打算每天早上背单词，下午做练习。",
+      "transcriptPinyin": "xià gè xīng qī yǒu yí gè zhòng yào de kǎo shì ， suǒ yǐ wǒ zhè ge zhōu mò bù néng chū qù wán ， yào zài jiā hǎo hǎo fù xí 。 wǒ dǎ suàn měi tiān zǎo shàng bèi dān cí ， xià wǔ zuò liàn xí 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "出去玩",
+       "pinyin": "chū qù wán"
+      },
+      {
+       "label": "B",
+       "text": "去图书馆借书",
+       "pinyin": "qù tú shū guǎn jiè shū"
+      },
+      {
+       "label": "C",
+       "text": "在家复习",
+       "pinyin": "zài jiā fù xí"
+      }
+     ],
+     "pinyin": "shuō huà rén zhè ge zhōu mò dǎ suàn zuò shén me ？"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

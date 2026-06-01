@@ -1,0 +1,472 @@
+{
+ "id": "hsk5-listening-p108",
+ "level": "5",
+ "section": "listening",
+ "partKey": "listening-p1",
+ "title": "HSK5 Listening P1",
+ "titleZh": "听力 第一部分（听对话选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "听下面的对话，然后根据对话内容选择正确答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "女的最近在忙什么？",
+     "correctAnswer": "A",
+     "explanation": "对话中女的说刚买了二手房，想把厨房和卫生间重新装修，所以她在忙装修房子。",
+     "audio": {
+      "key": "listening/v1/0102b30023e4d84612e67af07725ab5e2cae96aeb4d862773eb97450e2cdb082.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你最近是不是在准备搬家？我看你总是往建材市场跑。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "是啊，刚买了套二手房，想把厨房和卫生间重新装修一下。不过工人说至少要一个月才能完工。"
+       }
+      ],
+      "transcript": "你最近是不是在准备搬家？我看你总是往建材市场跑。 是啊，刚买了套二手房，想把厨房和卫生间重新装修一下。不过工人说至少要一个月才能完工。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "装修房子"
+      },
+      {
+       "label": "B",
+       "text": "找工人"
+      },
+      {
+       "label": "C",
+       "text": "卖房子"
+      },
+      {
+       "label": "D",
+       "text": "买家具"
+      }
+     ]
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "关于明天的会议，我们可以知道什么？",
+     "correctAnswer": "C",
+     "explanation": "男的说会议提前到九点了，因为王经理十点有事，所以会议提前了。",
+     "audio": {
+      "key": "listening/v1/e299591f271aea15759bd83f97eeead19d00b9bc7b9356877a72aafd7ea01b49.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "明天的会议提前到九点了，你知道吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "啊？我没收到通知啊。是临时改的吗？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "对，王经理说上午十点他有别的安排，所以提前了。"
+       }
+      ],
+      "transcript": "明天的会议提前到九点了，你知道吗？ 啊？我没收到通知啊。是临时改的吗？ 对，王经理说上午十点他有别的安排，所以提前了。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "推迟了"
+      },
+      {
+       "label": "B",
+       "text": "取消了"
+      },
+      {
+       "label": "C",
+       "text": "提前了"
+      },
+      {
+       "label": "D",
+       "text": "时间没变"
+      }
+     ]
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "男的为什么没参加小组讨论？",
+     "correctAnswer": "B",
+     "explanation": "男的说他儿子发高烧，他带儿子去医院了，所以没参加讨论。",
+     "audio": {
+      "key": "listening/v1/2d21556ec45ee904c27c9d01a41ed9c837e495d22c7515ebb05f535cd5f73fd8.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你昨天怎么没来参加小组讨论？大家都等着你呢。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "真不好意思，我儿子突然发高烧，我带他去医院了，忙得忘了请假。"
+       }
+      ],
+      "transcript": "你昨天怎么没来参加小组讨论？大家都等着你呢。 真不好意思，我儿子突然发高烧，我带他去医院了，忙得忘了请假。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "他请假了"
+      },
+      {
+       "label": "B",
+       "text": "他儿子生病了"
+      },
+      {
+       "label": "C",
+       "text": "他忘了时间"
+      },
+      {
+       "label": "D",
+       "text": "他生病了"
+      }
+     ]
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "女的认为今天应该怎么做？",
+     "correctAnswer": "B",
+     "explanation": "女的说今天是朋友生日，难得一次，别计较价格，所以认为不要太在意价格。",
+     "audio": {
+      "key": "listening/v1/31408c49c3135299a1bfa7431abe963499d6f13ea28abe6c4fe248f6855bb225.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "这家餐厅的菜味道不错，就是价格有点贵。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "是啊，不过今天是朋友的生日，难得一次，就别计较了。"
+       }
+      ],
+      "transcript": "这家餐厅的菜味道不错，就是价格有点贵。 是啊，不过今天是朋友的生日，难得一次，就别计较了。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "跟老板讲价"
+      },
+      {
+       "label": "B",
+       "text": "不要在意价格"
+      },
+      {
+       "label": "C",
+       "text": "以后不来这家了"
+      },
+      {
+       "label": "D",
+       "text": "换一家便宜的餐厅"
+      }
+     ]
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "关于这件外套，下列哪项正确？",
+     "correctAnswer": "B",
+     "explanation": "男的说外套是他妈妈自己做的，所以是手工做的。",
+     "audio": {
+      "key": "listening/v1/d3cb76d47360154c0a85f890db982cbeed0ba00292bcfd0b5dbf7a0c571c5c96.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你这件外套在哪儿买的？看起来质量很好。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "不是买的，是我妈自己做的。她以前是裁缝。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "真厉害！怪不得这么合身。"
+       }
+      ],
+      "transcript": "你这件外套在哪儿买的？看起来质量很好。 不是买的，是我妈自己做的。她以前是裁缝。 真厉害！怪不得这么合身。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "是别人送的"
+      },
+      {
+       "label": "B",
+       "text": "是手工做的"
+      },
+      {
+       "label": "C",
+       "text": "是租的"
+      },
+      {
+       "label": "D",
+       "text": "是买的"
+      }
+     ]
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "他们什么时候去爬山？",
+     "correctAnswer": "B",
+     "explanation": "女的说周六不行，提议周日，男的说周日也行，所以初步定在周日。",
+     "audio": {
+      "key": "listening/v1/7310457dd71a4ee4d93e28d5efe5245ff46226cf1a8df4ef35add419d776db8f.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "周末咱们去爬山吧？我查了天气预报，说周六晴天。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "周六不行，我约了牙医。周日怎么样？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "周日也行，不过我得先确认一下车票。"
+       }
+      ],
+      "transcript": "周末咱们去爬山吧？我查了天气预报，说周六晴天。 周六不行，我约了牙医。周日怎么样？ 周日也行，不过我得先确认一下车票。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "周六"
+      },
+      {
+       "label": "B",
+       "text": "周日"
+      },
+      {
+       "label": "C",
+       "text": "还没确定"
+      },
+      {
+       "label": "D",
+       "text": "周末都不行"
+      }
+     ]
+    },
+    {
+     "id": "q7",
+     "type": "listening-mcq",
+     "prompt": "关于男的论文，下列哪项正确？",
+     "correctAnswer": "C",
+     "explanation": "男的说导师说第三章数据分析不够深入，让他修改，所以论文还需要修改。",
+     "audio": {
+      "key": "listening/v1/f202f54da7a136dd8aeb7895bc4cd4a34adb104553279708da485920cb91d7cd.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你的毕业论文写得怎么样了？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "初稿已经完成了，但导师说第三章的数据分析不够深入，让我修改。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "那得抓紧时间了，下个月就要交终稿了。"
+       }
+      ],
+      "transcript": "你的毕业论文写得怎么样了？ 初稿已经完成了，但导师说第三章的数据分析不够深入，让我修改。 那得抓紧时间了，下个月就要交终稿了。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "数据分析没问题"
+      },
+      {
+       "label": "B",
+       "text": "导师很满意"
+      },
+      {
+       "label": "C",
+       "text": "还需要修改"
+      },
+      {
+       "label": "D",
+       "text": "已经交终稿了"
+      }
+     ]
+    },
+    {
+     "id": "q8",
+     "type": "listening-mcq",
+     "prompt": "女的脸色不好的主要原因是什么？",
+     "correctAnswer": "A",
+     "explanation": "女的说因为项目多经常加班到半夜，睡眠不足，所以主要原因加班太多。",
+     "audio": {
+      "key": "listening/v1/edbad7269bd2291bb015d6a6832a15de82cfcf06be16c8daf36f1d315d35e8a1.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你最近脸色不太好，是不是工作太累了？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "唉，最近项目多，经常加班到半夜，睡眠严重不足。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "身体要紧，还是得注意休息。"
+       }
+      ],
+      "transcript": "你最近脸色不太好，是不是工作太累了？ 唉，最近项目多，经常加班到半夜，睡眠严重不足。 身体要紧，还是得注意休息。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "加班太多"
+      },
+      {
+       "label": "B",
+       "text": "心情不好"
+      },
+      {
+       "label": "C",
+       "text": "失眠"
+      },
+      {
+       "label": "D",
+       "text": "生病了"
+      }
+     ]
+    },
+    {
+     "id": "q9",
+     "type": "listening-mcq",
+     "prompt": "关于男的儿子，我们可以知道什么？",
+     "correctAnswer": "D",
+     "explanation": "男的说他儿子想学计算机但被调剂到了中文系，所以被调剂了专业。",
+     "audio": {
+      "key": "listening/v1/e8f562e392a78369d59d12acbca1d1640c13ae14d8bc1ce04208d9ad02f7fb8b.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "听说你儿子考上了北京大学，真了不起！"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "谢谢。不过他自己倒是不太满意，说想学计算机，但被调剂到了中文系。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "中文系也不错啊，再说以后还能转专业。"
+       }
+      ],
+      "transcript": "听说你儿子考上了北京大学，真了不起！ 谢谢。不过他自己倒是不太满意，说想学计算机，但被调剂到了中文系。 中文系也不错啊，再说以后还能转专业。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "考上了清华"
+      },
+      {
+       "label": "B",
+       "text": "想学中文"
+      },
+      {
+       "label": "C",
+       "text": "对录取结果很满意"
+      },
+      {
+       "label": "D",
+       "text": "被调剂了专业"
+      }
+     ]
+    },
+    {
+     "id": "q10",
+     "type": "listening-mcq",
+     "prompt": "男的建议女的怎么做？",
+     "correctAnswer": "D",
+     "explanation": "男的说应该带伞，小心为好，建议女的带伞。",
+     "audio": {
+      "key": "listening/v1/62d94f6bb73ec838fe9d03bff71fb27efd1e6c5355676122cde98c12b112cafa.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你带伞了吗？天气预报说下午有雷阵雨。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "没带。不过我看现在天气挺好的，应该不会下吧？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "还是小心点好，夏天的雨说下就下。"
+       }
+      ],
+      "transcript": "你带伞了吗？天气预报说下午有雷阵雨。 没带。不过我看现在天气挺好的，应该不会下吧？ 还是小心点好，夏天的雨说下就下。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "别出门"
+      },
+      {
+       "label": "B",
+       "text": "相信天气预报"
+      },
+      {
+       "label": "C",
+       "text": "赶紧回家"
+      },
+      {
+       "label": "D",
+       "text": "带把伞"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

@@ -1,0 +1,179 @@
+{
+ "id": "hsk5-listening-p210",
+ "level": "5",
+ "section": "listening",
+ "partKey": "listening-p2",
+ "title": "HSK5 Listening P2",
+ "titleZh": "听力 第二部分（听短文选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听下面一段话，然后回答问题。这段话只读一遍。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "说话人主要谈论什么？",
+     "correctAnswer": "C",
+     "explanation": "整段话围绕垃圾分类展开，介绍了分类的原因、方法、好处以及社区的变化，因此主要谈论的是垃圾分类。",
+     "options": [
+      {
+       "label": "A",
+       "text": "城市发展"
+      },
+      {
+       "label": "B",
+       "text": "学校教育"
+      },
+      {
+       "label": "C",
+       "text": "垃圾分类"
+      },
+      {
+       "label": "D",
+       "text": "资源浪费"
+      }
+     ]
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "社区从什么时候开始实行垃圾分类？",
+     "correctAnswer": "A",
+     "explanation": "说话人明确提到‘我们社区从去年开始实行垃圾分类’，所以开始时间是去年。",
+     "options": [
+      {
+       "label": "A",
+       "text": "去年"
+      },
+      {
+       "label": "B",
+       "text": "前年"
+      },
+      {
+       "label": "C",
+       "text": "最近"
+      },
+      {
+       "label": "D",
+       "text": "今年"
+      }
+     ]
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "垃圾分类中，哪一类可以用来生产肥料？",
+     "correctAnswer": "B",
+     "explanation": "说话人指出‘厨余垃圾可以用来生产肥料’，因此可以生产肥料的是厨余垃圾。",
+     "options": [
+      {
+       "label": "A",
+       "text": "可回收物"
+      },
+      {
+       "label": "B",
+       "text": "厨余垃圾"
+      },
+      {
+       "label": "C",
+       "text": "其他垃圾"
+      },
+      {
+       "label": "D",
+       "text": "有害垃圾"
+      }
+     ]
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "垃圾分类实行一年后，垃圾量减少了多少？",
+     "correctAnswer": "D",
+     "explanation": "文中明确说‘经过一年的努力，我们社区的垃圾量减少了30%’。",
+     "options": [
+      {
+       "label": "A",
+       "text": "20%"
+      },
+      {
+       "label": "B",
+       "text": "50%"
+      },
+      {
+       "label": "C",
+       "text": "40%"
+      },
+      {
+       "label": "D",
+       "text": "30%"
+      }
+     ]
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "说话人提到，孩子们在学校学到了什么？",
+     "correctAnswer": "C",
+     "explanation": "说话人说‘孩子们在学校也学到了垃圾分类的知识’，垃圾分类属于环保知识。",
+     "options": [
+      {
+       "label": "A",
+       "text": "历史知识"
+      },
+      {
+       "label": "B",
+       "text": "数学知识"
+      },
+      {
+       "label": "C",
+       "text": "环保知识"
+      },
+      {
+       "label": "D",
+       "text": "语文知识"
+      }
+     ]
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "说话人希望什么？",
+     "correctAnswer": "D",
+     "explanation": "文章最后一句‘希望将来有更多的社区加入我们’表明说话人希望更多社区参与垃圾分类。",
+     "options": [
+      {
+       "label": "A",
+       "text": "停止垃圾分类"
+      },
+      {
+       "label": "B",
+       "text": "减少垃圾量"
+      },
+      {
+       "label": "C",
+       "text": "学习更多知识"
+      },
+      {
+       "label": "D",
+       "text": "更多社区加入垃圾分类"
+      }
+     ]
+    }
+   ],
+   "audio": {
+    "key": "listening/v1/9e780bd6d45ae909437b67a2b3153d43b1ab9f0d34b034fadc5c4cddd1742967.mp3",
+    "lines": [
+     {
+      "speaker": "旁白",
+      "voice": "narrator",
+      "text": "大家好，今天我想和大家聊聊垃圾分类的话题。大家都知道，随着城市的发展，垃圾越来越多，对环境造成了很大压力。我们社区从去年开始实行垃圾分类，把垃圾分为可回收物、厨余垃圾、有害垃圾和其他垃圾。刚开始很多人不习惯，觉得麻烦。但通过宣传和培训，大家逐渐认识到了垃圾分类的好处。比如，可回收物可以循环利用，减少资源浪费；厨余垃圾可以用来生产肥料；有害垃圾需要特殊处理，避免污染土壤和水源。经过一年的努力，我们社区的垃圾量减少了30%，环境也变得更干净了。我还注意到，孩子们在学校也学到了垃圾分类的知识，他们回家后还会提醒父母。这说明，环保意识需要从小培养。希望将来有更多的社区加入我们，一起保护地球。"
+     }
+    ],
+    "transcript": "大家好，今天我想和大家聊聊垃圾分类的话题。大家都知道，随着城市的发展，垃圾越来越多，对环境造成了很大压力。我们社区从去年开始实行垃圾分类，把垃圾分为可回收物、厨余垃圾、有害垃圾和其他垃圾。刚开始很多人不习惯，觉得麻烦。但通过宣传和培训，大家逐渐认识到了垃圾分类的好处。比如，可回收物可以循环利用，减少资源浪费；厨余垃圾可以用来生产肥料；有害垃圾需要特殊处理，避免污染土壤和水源。经过一年的努力，我们社区的垃圾量减少了30%，环境也变得更干净了。我还注意到，孩子们在学校也学到了垃圾分类的知识，他们回家后还会提醒父母。这说明，环保意识需要从小培养。希望将来有更多的社区加入我们，一起保护地球。",
+    "transcriptPinyin": null
+   }
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

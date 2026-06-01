@@ -1,0 +1,605 @@
+{
+ "id": "hsk4-listening-p104",
+ "level": "4",
+ "section": "listening",
+ "partKey": "listening-p1",
+ "title": "HSK4 Listening P1",
+ "titleZh": "听力 第一部分（听对话选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听对话，然后根据对话内容选择正确答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "男的主要在问什么？",
+     "correctAnswer": "A",
+     "explanation": "男人问这个周末的电影票还有没有，女人回答只剩下晚上九点的了，所以男人是在问有没有周末的电影票。",
+     "audio": {
+      "key": "listening/v1/bfcf22f82dec4b7a7d099c5db790e21f376ea284d61675373b31b9256c73cdcf.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你好，我想问一下，这个周末的电影票还有吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "周末的票很紧张，只剩下晚上九点那场了。你要买吗？"
+       }
+      ],
+      "transcript": "你好，我想问一下，这个周末的电影票还有吗？ 周末的票很紧张，只剩下晚上九点那场了。你要买吗？",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "有没有周末的电影票"
+      },
+      {
+       "label": "B",
+       "text": "电影几点开始"
+      },
+      {
+       "label": "C",
+       "text": "电影好不好看"
+      },
+      {
+       "label": "D",
+       "text": "电影票多少钱"
+      }
+     ]
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "男人为什么没去上课？",
+     "correctAnswer": "C",
+     "explanation": "男人说感冒了，头疼得厉害，所以请假在家休息，说明他因为生病没去上课。",
+     "audio": {
+      "key": "listening/v1/5b45e6aa3a8461f7cbfc99680a614ade9ffdeec4659d966db89839f51bb33f9d.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你昨天怎么没来上课？老师点名了。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我感冒了，头疼得厉害，就请假在家休息了。"
+       }
+      ],
+      "transcript": "你昨天怎么没来上课？老师点名了。 我感冒了，头疼得厉害，就请假在家休息了。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "他起晚了"
+      },
+      {
+       "label": "B",
+       "text": "老师没点名"
+      },
+      {
+       "label": "C",
+       "text": "他生病了"
+      },
+      {
+       "label": "D",
+       "text": "他不想上课"
+      }
+     ]
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "关于这件衣服，女人认为什么？",
+     "correctAnswer": "C",
+     "explanation": "女人说颜色不错，但尺寸好像有点小，担心男人的妈妈穿不合适，所以认为尺寸可能太小。",
+     "audio": {
+      "key": "listening/v1/18d624864a300afff58946a33ee0d01f50756f8b980d7176bd47c2a72ad6177a.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "这件衣服你觉得怎么样？我打算买给妈妈做生日礼物。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "颜色不错，但尺寸好像有点小，你妈妈穿可能不合适。"
+       }
+      ],
+      "transcript": "这件衣服你觉得怎么样？我打算买给妈妈做生日礼物。 颜色不错，但尺寸好像有点小，你妈妈穿可能不合适。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "样式很流行"
+      },
+      {
+       "label": "B",
+       "text": "价格太贵了"
+      },
+      {
+       "label": "C",
+       "text": "尺寸可能太小"
+      },
+      {
+       "label": "D",
+       "text": "颜色不好看"
+      }
+     ]
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "男人为什么要坐地铁？",
+     "correctAnswer": "A",
+     "explanation": "男人说坐公交车时间更长，怕赶不上火车，所以选择坐地铁，说明他认为地铁更快。",
+     "audio": {
+      "key": "listening/v1/f66821b3ec8b2438d048f18291a5278e68d1d4cfb094462898179ed7efd37836.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我们坐公交车去火车站吧，比坐地铁便宜一点。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "但是坐公交车时间更长，我怕赶不上火车，还是坐地铁吧。"
+       }
+      ],
+      "transcript": "我们坐公交车去火车站吧，比坐地铁便宜一点。 但是坐公交车时间更长，我怕赶不上火车，还是坐地铁吧。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "地铁更快"
+      },
+      {
+       "label": "B",
+       "text": "公交车没座位"
+      },
+      {
+       "label": "C",
+       "text": "地铁更便宜"
+      },
+      {
+       "label": "D",
+       "text": "火车站很远"
+      }
+     ]
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "女人周末要做什么？",
+     "correctAnswer": "C",
+     "explanation": "女人说周末要加班，所以去不了爬山，说明她周末要加班工作。",
+     "audio": {
+      "key": "listening/v1/e649b5008962b5fe3383313485ab98afc59405c2abdc393cb52c01a6898807f7.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你周末有什么安排？要不要一起去爬山？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我周末要加班，去不了，下次吧。"
+       }
+      ],
+      "transcript": "你周末有什么安排？要不要一起去爬山？ 我周末要加班，去不了，下次吧。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "在家休息"
+      },
+      {
+       "label": "B",
+       "text": "去爬山"
+      },
+      {
+       "label": "C",
+       "text": "加班工作"
+      },
+      {
+       "label": "D",
+       "text": "和朋友玩"
+      }
+     ]
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "男人学中文多久了？",
+     "correctAnswer": "A",
+     "explanation": "男人说学了三年了，所以学中文已经三年了。",
+     "audio": {
+      "key": "listening/v1/ecb754aebcc12c0b7c534612a0c52a6cdf2fc5b06ed9dad6d9e6e56e65a943e5.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你什么时候开始学中文的？说得真流利！"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "谢谢，我学了三年了，但是口语还需要多练习。"
+       }
+      ],
+      "transcript": "你什么时候开始学中文的？说得真流利！ 谢谢，我学了三年了，但是口语还需要多练习。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "三年"
+      },
+      {
+       "label": "B",
+       "text": "一年"
+      },
+      {
+       "label": "C",
+       "text": "两年"
+      },
+      {
+       "label": "D",
+       "text": "四年"
+      }
+     ]
+    },
+    {
+     "id": "q7",
+     "type": "listening-mcq",
+     "prompt": "关于这家餐厅，两个人同意什么？",
+     "correctAnswer": "C",
+     "explanation": "男人说菜味道不错但价格贵，女人表示同意，所以说他们觉得味道好但价格贵。",
+     "audio": {
+      "key": "listening/v1/e94a0c77a28aa4cbeadc25454a7967346dbae42fbaf17ea3864622b55406d8f0.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "这家餐厅的菜味道不错，但是价格有点贵。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "是啊，不过偶尔来一次还可以接受。"
+       }
+      ],
+      "transcript": "这家餐厅的菜味道不错，但是价格有点贵。 是啊，不过偶尔来一次还可以接受。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "味道很差"
+      },
+      {
+       "label": "B",
+       "text": "菜很有特色"
+      },
+      {
+       "label": "C",
+       "text": "味道好但价格贵"
+      },
+      {
+       "label": "D",
+       "text": "价格便宜"
+      }
+     ]
+    },
+    {
+     "id": "q8",
+     "type": "listening-mcq",
+     "prompt": "男人为什么定闹钟？",
+     "correctAnswer": "A",
+     "explanation": "男人说定了下午三点的提醒，要去银行办事，所以闹钟是为了提醒自己去银行。",
+     "audio": {
+      "key": "listening/v1/8442671184fadf174a3a6ef1f2bfe3129171e701d0e8ad528dca1077b715f0d5.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你的手机怎么了？一直响。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "没关系，是闹钟，我定了下午三点的提醒，要去银行办事。"
+       }
+      ],
+      "transcript": "你的手机怎么了？一直响。 没关系，是闹钟，我定了下午三点的提醒，要去银行办事。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "为了提醒自己去银行"
+      },
+      {
+       "label": "B",
+       "text": "为了提醒自己吃药"
+      },
+      {
+       "label": "C",
+       "text": "为了和同事开会"
+      },
+      {
+       "label": "D",
+       "text": "为了叫自己起床"
+      }
+     ]
+    },
+    {
+     "id": "q9",
+     "type": "listening-mcq",
+     "prompt": "女人建议男人什么？",
+     "correctAnswer": "C",
+     "explanation": "女人说明天会下雨，建议男人改天去，所以是换个时间去。",
+     "audio": {
+      "key": "listening/v1/c8e1e996eefdd0cb3491d339d877b5b05efcb1aa8cbd4273c430118344b3d103.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "明天天气怎么样？我想去海边散步。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "天气预报说明天会下雨，你还是改天去吧。"
+       }
+      ],
+      "transcript": "明天天气怎么样？我想去海边散步。 天气预报说明天会下雨，你还是改天去吧。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "明天去海边"
+      },
+      {
+       "label": "B",
+       "text": "在家休息"
+      },
+      {
+       "label": "C",
+       "text": "换个时间去"
+      },
+      {
+       "label": "D",
+       "text": "带伞出门"
+      }
+     ]
+    },
+    {
+     "id": "q10",
+     "type": "listening-mcq",
+     "prompt": "男人瘦的原因是什么？",
+     "correctAnswer": "A",
+     "explanation": "男人说工作太忙，经常忘记吃饭，所以瘦的原因是工作忙常不吃饭。",
+     "audio": {
+      "key": "listening/v1/eea4de8e0acd193ed8dfcfd773f3e004333325003ac03bd33a703dc54c735e81.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你最近怎么瘦了那么多？是不是在减肥？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "没有，我最近工作太忙，经常忘记吃饭。"
+       }
+      ],
+      "transcript": "你最近怎么瘦了那么多？是不是在减肥？ 没有，我最近工作太忙，经常忘记吃饭。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "他工作忙常不吃饭"
+      },
+      {
+       "label": "B",
+       "text": "他生病了"
+      },
+      {
+       "label": "C",
+       "text": "他在减肥"
+      },
+      {
+       "label": "D",
+       "text": "他运动太多"
+      }
+     ]
+    },
+    {
+     "id": "q11",
+     "type": "listening-mcq",
+     "prompt": "地址有什么问题？",
+     "correctAnswer": "C",
+     "explanation": "女人说街道和门牌号都对，但邮编少写了一位，说明邮编写错了。",
+     "audio": {
+      "key": "listening/v1/5871aed59bdaf1813f6b108224be2d519c9681ecf143ba9d8e413fd173170bfa.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你帮我看看这个地址对不对？我想寄封信给朋友。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "没问题，我看看……街道和门牌号都对，但邮编少写了一位。"
+       }
+      ],
+      "transcript": "你帮我看看这个地址对不对？我想寄封信给朋友。 没问题，我看看……街道和门牌号都对，但邮编少写了一位。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "街道写错了"
+      },
+      {
+       "label": "B",
+       "text": "门牌号不对"
+      },
+      {
+       "label": "C",
+       "text": "邮编写错了"
+      },
+      {
+       "label": "D",
+       "text": "城市写错了"
+      }
+     ]
+    },
+    {
+     "id": "q12",
+     "type": "listening-mcq",
+     "prompt": "男人对新工作有什么不满意的地方？",
+     "correctAnswer": "C",
+     "explanation": "男人说工作挺好的，同事友好，就是离家太远，每天花两小时在路上，所以不满意的是离家太远。",
+     "audio": {
+      "key": "listening/v1/ed371cae1f89f91c8a67024c2536d39e1d563c0addffbd136b202022f9220928.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你的新工作怎么样？还顺利吗？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "挺好的，同事都很友好，就是离家太远，每天要花两个小时在路上。"
+       }
+      ],
+      "transcript": "你的新工作怎么样？还顺利吗？ 挺好的，同事都很友好，就是离家太远，每天要花两个小时在路上。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "工资不高"
+      },
+      {
+       "label": "B",
+       "text": "工作太难"
+      },
+      {
+       "label": "C",
+       "text": "离家太远"
+      },
+      {
+       "label": "D",
+       "text": "同事不友好"
+      }
+     ]
+    },
+    {
+     "id": "q13",
+     "type": "listening-mcq",
+     "prompt": "女人为什么觉得浪费？",
+     "correctAnswer": "D",
+     "explanation": "女人说办了卡，但只去了两次，所以觉得浪费，因为去得少。",
+     "audio": {
+      "key": "listening/v1/3a07a706e94eb508b61a874c86ee53a9cfd25095df78456e666a3a4adfa852bc.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你最近还去健身房吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "不去了，我办了卡，但只去了两次，太浪费了。"
+       }
+      ],
+      "transcript": "你最近还去健身房吗？ 不去了，我办了卡，但只去了两次，太浪费了。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "健身卡太贵了"
+      },
+      {
+       "label": "B",
+       "text": "她不喜欢运动"
+      },
+      {
+       "label": "C",
+       "text": "健身房关门了"
+      },
+      {
+       "label": "D",
+       "text": "她只去了两次"
+      }
+     ]
+    },
+    {
+     "id": "q14",
+     "type": "listening-mcq",
+     "prompt": "男人昨天没接电话的原因是什么？",
+     "correctAnswer": "A",
+     "explanation": "男人说手机没电了，所以没接电话，看到后马上回电了。",
+     "audio": {
+      "key": "listening/v1/111c3a18252571d435e274e79ed6608722b3958e1d6d8c19948ad958fb750499.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你昨天怎么没接我电话？我找你有急事。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "对不起，手机没电了，我看到后马上回你了。"
+       }
+      ],
+      "transcript": "你昨天怎么没接我电话？我找你有急事。 对不起，手机没电了，我看到后马上回你了。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "手机没电了"
+      },
+      {
+       "label": "B",
+       "text": "电话坏了"
+      },
+      {
+       "label": "C",
+       "text": "他在开会"
+      },
+      {
+       "label": "D",
+       "text": "他不想接"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

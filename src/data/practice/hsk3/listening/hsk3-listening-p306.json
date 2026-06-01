@@ -1,0 +1,387 @@
+{
+ "id": "hsk3-listening-p306",
+ "level": "3",
+ "section": "listening",
+ "partKey": "listening-p3",
+ "title": "HSK3 Listening P3",
+ "titleZh": "听力 第三部分（听短文选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听下面的独白，然后根据内容选择正确答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "他下午三点要做什么？",
+     "correctAnswer": "A",
+     "explanation": "旁白说在图书馆等你一起复习汉语，所以是要和朋友复习汉语。",
+     "audio": {
+      "key": "listening/v1/60504a2da10ca4a2011036850413dae7c9d52cf30e21d951c8592c1f4b902d7d.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "今天下午三点，我在图书馆等你，我们一起复习汉语。"
+       }
+      ],
+      "transcript": "今天下午三点，我在图书馆等你，我们一起复习汉语。",
+      "transcriptPinyin": "jīn tiān xià wǔ sān diǎn ， wǒ zài tú shū guǎn děng nǐ ， wǒ men yì qǐ fù xí hàn yǔ 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "和朋友复习汉语",
+       "pinyin": "hé péng yǒu fù xí hàn yǔ"
+      },
+      {
+       "label": "B",
+       "text": "去上课",
+       "pinyin": "qù shàng kè"
+      },
+      {
+       "label": "C",
+       "text": "在图书馆看书",
+       "pinyin": "zài tú shū guǎn kàn shū"
+      }
+     ],
+     "pinyin": "tā xià wǔ sān diǎn yào zuò shén me ？"
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "他对这件衣服是什么态度？",
+     "correctAnswer": "C",
+     "explanation": "旁白说衣服很好，但太贵买不起，说明觉得好看但价格高。",
+     "audio": {
+      "key": "listening/v1/1d726bee14cb7b1506d51b99717e2207990eaf303cc5e3329cbe09d703e43b1b.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "这件衣服很好，但是太贵了，我买不起。"
+       }
+      ],
+      "transcript": "这件衣服很好，但是太贵了，我买不起。",
+      "transcriptPinyin": "zhè jiàn yī fú hěn hǎo ， dàn shì tài guì le ， wǒ mǎi bù qǐ 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "不喜欢，因为太贵",
+       "pinyin": "bù xǐ huān ， yīn wèi tài guì"
+      },
+      {
+       "label": "B",
+       "text": "很喜欢，所以买了",
+       "pinyin": "hěn xǐ huān ， suǒ yǐ mǎi le"
+      },
+      {
+       "label": "C",
+       "text": "觉得很好看，但价格高",
+       "pinyin": "jué de hěn hǎo kàn ， dàn jià gé gāo"
+      }
+     ],
+     "pinyin": "tā duì zhè jiàn yī fú shì shén me tài dù ？"
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "明天天气怎么样？",
+     "correctAnswer": "C",
+     "explanation": "旁白直接说明天天气很好。",
+     "audio": {
+      "key": "listening/v1/8f1eaa8946880ff5cc604dea7bc7baae47880eae33942236a6bc559a0bd08371.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "明天天气很好，我们去爬山吧。"
+       }
+      ],
+      "transcript": "明天天气很好，我们去爬山吧。",
+      "transcriptPinyin": "míng tiān tiān qì hěn hǎo ， wǒ men qù pá shān ba 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "不好",
+       "pinyin": "bù hǎo"
+      },
+      {
+       "label": "B",
+       "text": "下雨",
+       "pinyin": "xià yǔ"
+      },
+      {
+       "label": "C",
+       "text": "很好",
+       "pinyin": "hěn hǎo"
+      }
+     ],
+     "pinyin": "míng tiān tiān qì zěn me yàng ？"
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "他怎么了？",
+     "correctAnswer": "B",
+     "explanation": "旁白说自己头疼，所以是头疼。",
+     "audio": {
+      "key": "listening/v1/23021e4ecd8bbc5a39b2bd72e6e204f5dbbf11240df8ad53042234b7124df1eb.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我头疼，不想吃饭。"
+       }
+      ],
+      "transcript": "我头疼，不想吃饭。",
+      "transcriptPinyin": "wǒ tóu téng ， bù xiǎng chī fàn 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "饿了",
+       "pinyin": "è le"
+      },
+      {
+       "label": "B",
+       "text": "头疼",
+       "pinyin": "tóu téng"
+      },
+      {
+       "label": "C",
+       "text": "高兴",
+       "pinyin": "gāo xìng"
+      }
+     ],
+     "pinyin": "tā zěn me le ？"
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "电影几点开始？",
+     "correctAnswer": "A",
+     "explanation": "旁白说电影九点开始。",
+     "audio": {
+      "key": "listening/v1/21b7a988a22bc5de925efe504f2407eb4a95d4fd34682dd782b626b680828c00.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "现在八点，电影九点开始，我们还有一个小时。"
+       }
+      ],
+      "transcript": "现在八点，电影九点开始，我们还有一个小时。",
+      "transcriptPinyin": "xiàn zài bā diǎn ， diàn yǐng jiǔ diǎn kāi shǐ ， wǒ men hái yǒu yí gè xiǎo shí 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "九点",
+       "pinyin": "jiǔ diǎn"
+      },
+      {
+       "label": "B",
+       "text": "八点",
+       "pinyin": "bā diǎn"
+      },
+      {
+       "label": "C",
+       "text": "十点",
+       "pinyin": "shí diǎn"
+      }
+     ],
+     "pinyin": "diàn yǐng jǐ diǎn kāi shǐ ？"
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "笔在哪儿？",
+     "correctAnswer": "A",
+     "explanation": "旁白说笔在书包里。",
+     "audio": {
+      "key": "listening/v1/cd292c3e337b3ebd6837446a27d8fa79eece9d8afb2483a157f2ffa549a6e274.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我的书在桌子上，笔在书包里。"
+       }
+      ],
+      "transcript": "我的书在桌子上，笔在书包里。",
+      "transcriptPinyin": "wǒ de shū zài zhuō zi shàng ， bǐ zài shū bāo lǐ 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "书包里",
+       "pinyin": "shū bāo lǐ"
+      },
+      {
+       "label": "B",
+       "text": "椅子上",
+       "pinyin": "yǐ zi shàng"
+      },
+      {
+       "label": "C",
+       "text": "桌子上",
+       "pinyin": "zhuō zi shàng"
+      }
+     ],
+     "pinyin": "bǐ zài nǎ ér ？"
+    },
+    {
+     "id": "q7",
+     "type": "listening-mcq",
+     "prompt": "他汉语怎么样？",
+     "correctAnswer": "A",
+     "explanation": "旁白说会汉语但写得慢。",
+     "audio": {
+      "key": "listening/v1/254013c3751a0a769870d13e646687c748dd71bc49741a6723d634669d6dee6f.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我会说汉语，但是写得很慢。"
+       }
+      ],
+      "transcript": "我会说汉语，但是写得很慢。",
+      "transcriptPinyin": "wǒ huì shuō hàn yǔ ， dàn shì xiě dé hěn màn 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "会说，但写得慢",
+       "pinyin": "huì shuō ， dàn xiě dé màn"
+      },
+      {
+       "label": "B",
+       "text": "不会说汉语",
+       "pinyin": "bú huì shuō hàn yǔ"
+      },
+      {
+       "label": "C",
+       "text": "说得很好，写得也快",
+       "pinyin": "shuō dé hěn hǎo ， xiě dé yě kuài"
+      }
+     ],
+     "pinyin": "tā hàn yǔ zěn me yàng ？"
+    },
+    {
+     "id": "q8",
+     "type": "listening-mcq",
+     "prompt": "班上有多少个女生？",
+     "correctAnswer": "B",
+     "explanation": "总人数二十，男生十五，所以女生五个。",
+     "audio": {
+      "key": "listening/v1/9b26fc44ea40a93fb169fe22886f1eb6435accddb9d47f611ffe638dba241ce6.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我们班有二十个学生，十五个是男生。"
+       }
+      ],
+      "transcript": "我们班有二十个学生，十五个是男生。",
+      "transcriptPinyin": "wǒ men bān yǒu èr shí gè xué shēng ， shí wǔ gè shì nán shēng 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "十五个",
+       "pinyin": "shí wǔ gè"
+      },
+      {
+       "label": "B",
+       "text": "五个",
+       "pinyin": "wǔ gè"
+      },
+      {
+       "label": "C",
+       "text": "二十个",
+       "pinyin": "èr shí gè"
+      }
+     ],
+     "pinyin": "bān shàng yǒu duō shǎo gè nǚ shēng ？"
+    },
+    {
+     "id": "q9",
+     "type": "listening-mcq",
+     "prompt": "医生建议他做什么？",
+     "correctAnswer": "C",
+     "explanation": "旁白建议多喝热水，不要吃辣的。",
+     "audio": {
+      "key": "listening/v1/b1944893f4c62056af3e7ccdb622936f53128cfc33ef62bffc0a0221e8c63563.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "你感冒了，多喝热水，不要吃辣的。"
+       }
+      ],
+      "transcript": "你感冒了，多喝热水，不要吃辣的。",
+      "transcriptPinyin": "nǐ gǎn mào le ， duō hē rè shuǐ ， bú yào chī là de 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "多运动",
+       "pinyin": "duō yùn dòng"
+      },
+      {
+       "label": "B",
+       "text": "多吃辣的",
+       "pinyin": "duō chī là de"
+      },
+      {
+       "label": "C",
+       "text": "喝热水",
+       "pinyin": "hē rè shuǐ"
+      }
+     ],
+     "pinyin": "yī shēng jiàn yì tā zuò shén me ？"
+    },
+    {
+     "id": "q10",
+     "type": "listening-mcq",
+     "prompt": "电影院在哪儿？",
+     "correctAnswer": "C",
+     "explanation": "旁白说电影院在医院的北边。",
+     "audio": {
+      "key": "listening/v1/499c44f444f77128503b52b6d4cf4cf4206beddbd7ac9af3d6ba77a1427272c2.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "电影院在医院的北边，学校在医院的南边。"
+       }
+      ],
+      "transcript": "电影院在医院的北边，学校在医院的南边。",
+      "transcriptPinyin": "diàn yǐng yuàn zài yī yuàn de běi biān ， xué xiào zài yī yuàn de nán biān 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "医院的南边",
+       "pinyin": "yī yuàn de nán biān"
+      },
+      {
+       "label": "B",
+       "text": "学校旁边",
+       "pinyin": "xué xiào páng biān"
+      },
+      {
+       "label": "C",
+       "text": "医院的北边",
+       "pinyin": "yī yuàn de běi biān"
+      }
+     ],
+     "pinyin": "diàn yǐng yuàn zài nǎ ér ？"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

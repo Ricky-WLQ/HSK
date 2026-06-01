@@ -1,0 +1,209 @@
+{
+ "id": "hsk1-listening-p306",
+ "level": "1",
+ "section": "listening",
+ "partKey": "listening-p3",
+ "title": "HSK1 Listening P3",
+ "titleZh": "听力 第三部分（看图听对话）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "听对话，选择正确的图片。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "A",
+     "explanation": "对话中提到了红色的苹果，所以选择苹果的图片。",
+     "audio": {
+      "key": "listening/v1/3450eef580ce0cf6826b833046d5801fa058e582c1e527b9da4e244d4728e19b.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "这是什么？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "这是一个苹果。它是红色的。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "苹果很好吃。"
+       }
+      ],
+      "transcript": "这是什么？ 这是一个苹果。它是红色的。 苹果很好吃。",
+      "transcriptPinyin": "zhè shì shén me ？  zhè shì yí gè píng guǒ 。 tā shì hóng sè de 。  píng guǒ hěn hǎo chī 。"
+     }
+    },
+    {
+     "id": "q2",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "B",
+     "explanation": "对话中提到了猫，并且是白色的，所以选择猫的图片。",
+     "audio": {
+      "key": "listening/v1/b9e126c0af1b4f82b6b285a1576399a996444d3dfeadd9a005251c95c45fa5f7.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你家有猫吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "有，我有一只猫。它很小。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "它是什么颜色的？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "它是白色的。"
+       }
+      ],
+      "transcript": "你家有猫吗？ 有，我有一只猫。它很小。 它是什么颜色的？ 它是白色的。",
+      "transcriptPinyin": "nǐ jiā yǒu māo ma ？  yǒu ， wǒ yǒu yī zhī māo 。 tā hěn xiǎo 。  tā shì shén me yán sè de ？  tā shì bái sè de 。"
+     }
+    },
+    {
+     "id": "q3",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "C",
+     "explanation": "对话中提到了喝水和一杯水，所以选择水的图片。",
+     "audio": {
+      "key": "listening/v1/7b11f49382fb0c6f0de19aa0f2a25262c91223e7ec887d6a5b5ba35f91ec8632.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你想喝什么？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我想喝水。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "这里有水吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "有，这里有一杯水。"
+       }
+      ],
+      "transcript": "你想喝什么？ 我想喝水。 这里有水吗？ 有，这里有一杯水。",
+      "transcriptPinyin": "nǐ xiǎng hē shén me ？  wǒ xiǎng hē shuǐ 。  zhè lǐ yǒu shuǐ ma ？  yǒu ， zhè lǐ yǒu yī bēi shuǐ 。"
+     }
+    },
+    {
+     "id": "q4",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "D",
+     "explanation": "对话中提到了看书和书，所以选择书的图片。",
+     "audio": {
+      "key": "listening/v1/3335d724ae2c466c3bdcded926e46f54bf6b509021e1f65abd8bcf2572530280.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你在看什么？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我在看一本书。这是中文书。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "书好吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "很好。"
+       }
+      ],
+      "transcript": "你在看什么？ 我在看一本书。这是中文书。 书好吗？ 很好。",
+      "transcriptPinyin": "nǐ zài kàn shén me ？  wǒ zài kàn yī běn shū 。 zhè shì zhōng wén shū 。  shū hǎo ma ？  hěn hǎo 。"
+     }
+    },
+    {
+     "id": "q5",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "E",
+     "explanation": "对话中提到了汽车和黑色的汽车，所以选择汽车的图片。",
+     "audio": {
+      "key": "listening/v1/db2af9170c5f407b09b3ee6232916ac650ee7192819a8e719cde2fe0506a53f2.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你爸爸有车吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "有，他有一辆汽车。是黑色的。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "汽车很大。"
+       }
+      ],
+      "transcript": "你爸爸有车吗？ 有，他有一辆汽车。是黑色的。 汽车很大。",
+      "transcriptPinyin": "nǐ bà bà yǒu chē ma ？  yǒu ， tā yǒu yī liàng qì chē 。 shì hēi sè de 。  qì chē hěn dà 。"
+     }
+    }
+   ],
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-c0c74b7a9019def6defa7d500b52ec76.png"
+    },
+    {
+     "label": "B",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-f6a7f8a35981b74ebe0261c789d2cd77.png"
+    },
+    {
+     "label": "C",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-fcb959a4f31f2c66450f2ec45c89a1f6.png"
+    },
+    {
+     "label": "D",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-ae35964219d1b24bba10a2fba9551a06.png"
+    },
+    {
+     "label": "E",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-5fab10d6ad435e584eaa5791aeac30d0.png"
+    },
+    {
+     "label": "F",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-7dbdf68ac0bb3482a281e2672b08773f.png"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

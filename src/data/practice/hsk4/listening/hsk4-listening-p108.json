@@ -1,0 +1,680 @@
+{
+ "id": "hsk4-listening-p108",
+ "level": "4",
+ "section": "listening",
+ "partKey": "listening-p1",
+ "title": "HSK4 Listening P1",
+ "titleZh": "听力 第一部分（听对话选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听对话，然后根据对话内容选择正确答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "他们首先要去哪里？",
+     "correctAnswer": "A",
+     "explanation": "对话中女士说先去图书馆借书，然后去公园，所以首先去的是图书馆。",
+     "audio": {
+      "key": "listening/v1/f206273a562544c45c0132403c2267b3905cc717424b055143ecd0d295bf0b2c.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "今天下午我们去哪儿？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我想去图书馆借几本书，然后去公园散步。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "好的，那我们先去图书馆吧。"
+       }
+      ],
+      "transcript": "今天下午我们去哪儿？ 我想去图书馆借几本书，然后去公园散步。 好的，那我们先去图书馆吧。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "图书馆"
+      },
+      {
+       "label": "B",
+       "text": "公园"
+      },
+      {
+       "label": "C",
+       "text": "餐厅"
+      },
+      {
+       "label": "D",
+       "text": "学校"
+      }
+     ]
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "女士想给妈妈买什么？",
+     "correctAnswer": "C",
+     "explanation": "对话中女士明确说买一束花，认为妈妈会喜欢。",
+     "audio": {
+      "key": "listening/v1/864808005349decee5635491854568bfe8d83115b5f6f70bf2f55e222b0e6eef.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "明天是妈妈的生日，我想给她买件礼物。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "买什么好呢？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我觉得买一束花不错，她一定喜欢。"
+       }
+      ],
+      "transcript": "明天是妈妈的生日，我想给她买件礼物。 买什么好呢？ 我觉得买一束花不错，她一定喜欢。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "一块表"
+      },
+      {
+       "label": "B",
+       "text": "一个蛋糕"
+      },
+      {
+       "label": "C",
+       "text": "一束花"
+      },
+      {
+       "label": "D",
+       "text": "一本书"
+      }
+     ]
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "现在天气怎么样？",
+     "correctAnswer": "A",
+     "explanation": "女士说现在开始下雨了，所以天气是下雨。",
+     "audio": {
+      "key": "listening/v1/79050bdeefd1d697af1c3a98392a9c6fe5c608e4bde80a014c764142b659a32e.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "今天天气怎么样？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "早上还是晴天，现在开始下雨了，而且风很大。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "那我们还是带伞吧。"
+       }
+      ],
+      "transcript": "今天天气怎么样？ 早上还是晴天，现在开始下雨了，而且风很大。 那我们还是带伞吧。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "下雨"
+      },
+      {
+       "label": "B",
+       "text": "多云"
+      },
+      {
+       "label": "C",
+       "text": "晴天"
+      },
+      {
+       "label": "D",
+       "text": "下雪"
+      }
+     ]
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "他们打算怎么去机场？",
+     "correctAnswer": "C",
+     "explanation": "男士建议坐出租车，女士同意并要叫车，所以是打车。",
+     "audio": {
+      "key": "listening/v1/c21e3c001da29d36f725d23e68340f2f1aaa66303462b85df9aad13e07427212.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我们怎么去机场？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "坐出租车吧，虽然贵一些，但是比较快。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "好，那我现在叫一辆。"
+       }
+      ],
+      "transcript": "我们怎么去机场？ 坐出租车吧，虽然贵一些，但是比较快。 好，那我现在叫一辆。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "坐公交"
+      },
+      {
+       "label": "B",
+       "text": "坐地铁"
+      },
+      {
+       "label": "C",
+       "text": "打车"
+      },
+      {
+       "label": "D",
+       "text": "骑自行车"
+      }
+     ]
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "他们最后决定吃什么？",
+     "correctAnswer": "A",
+     "explanation": "男士提议换日本料理，女士同意，所以最后决定吃日本菜。",
+     "audio": {
+      "key": "listening/v1/6740140f8b06e6ac9539098a287dfebb663f46982622bff4fb7713b44652fdca.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "晚上我们吃什么？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我想吃中国菜，附近有一家不错的川菜馆。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "川菜太辣了，我们换日本料理怎么样？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "好吧，日本料理也不错。"
+       }
+      ],
+      "transcript": "晚上我们吃什么？ 我想吃中国菜，附近有一家不错的川菜馆。 川菜太辣了，我们换日本料理怎么样？ 好吧，日本料理也不错。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "日本菜"
+      },
+      {
+       "label": "B",
+       "text": "法国菜"
+      },
+      {
+       "label": "C",
+       "text": "中国菜"
+      },
+      {
+       "label": "D",
+       "text": "意大利菜"
+      }
+     ]
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "电影什么时候开始？",
+     "correctAnswer": "A",
+     "explanation": "男士说七点半开始，所以电影在7:30开始。",
+     "audio": {
+      "key": "listening/v1/1e4ac749003edae7cdff93f8fd6968f684279bc27831dda7ceba6652501d0e7a.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "电影几点开始？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "七点半，我们还有半个小时。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "那我们先去买点吃的吧。"
+       }
+      ],
+      "transcript": "电影几点开始？ 七点半，我们还有半个小时。 那我们先去买点吃的吧。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "7:30"
+      },
+      {
+       "label": "B",
+       "text": "7:00"
+      },
+      {
+       "label": "C",
+       "text": "8:30"
+      },
+      {
+       "label": "D",
+       "text": "8:00"
+      }
+     ]
+    },
+    {
+     "id": "q7",
+     "type": "listening-mcq",
+     "prompt": "男孩为什么担心？",
+     "correctAnswer": "D",
+     "explanation": "男孩说题目太难了，所以担心是因为作业太难。",
+     "audio": {
+      "key": "listening/v1/f90e5ef656e0f1a234e296bc21a6a44b6109b074dabb31d873d0689b947b0dcf.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你的作业做完了吗？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "还没有，这次的题目太难了，我有些担心。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "别着急，慢慢来，我可以帮你。"
+       }
+      ],
+      "transcript": "你的作业做完了吗？ 还没有，这次的题目太难了，我有些担心。 别着急，慢慢来，我可以帮你。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "没有时间"
+      },
+      {
+       "label": "B",
+       "text": "老师很严格"
+      },
+      {
+       "label": "C",
+       "text": "忘了做作业"
+      },
+      {
+       "label": "D",
+       "text": "作业太难"
+      }
+     ]
+    },
+    {
+     "id": "q8",
+     "type": "listening-mcq",
+     "prompt": "女士建议男士做什么运动？",
+     "correctAnswer": "B",
+     "explanation": "女士建议男士试试游泳，说对减重有效。",
+     "audio": {
+      "key": "listening/v1/3076f13eaaa81f23e6980f1c1236dfebbf09bdb24f8a033809f642921ad7d409.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我最近胖了不少，想运动减肥。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "那你可以试试游泳，对减重很有效。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "好主意，我明天就去办张卡。"
+       }
+      ],
+      "transcript": "我最近胖了不少，想运动减肥。 那你可以试试游泳，对减重很有效。 好主意，我明天就去办张卡。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "打篮球"
+      },
+      {
+       "label": "B",
+       "text": "游泳"
+      },
+      {
+       "label": "C",
+       "text": "跑步"
+      },
+      {
+       "label": "D",
+       "text": "瑜伽"
+      }
+     ]
+    },
+    {
+     "id": "q9",
+     "type": "listening-mcq",
+     "prompt": "男士想去哪里度假？",
+     "correctAnswer": "C",
+     "explanation": "男士说想去海边，晒太阳游泳，所以是海边。",
+     "audio": {
+      "key": "listening/v1/0d2ced41b22323d50e15edbcaafdc6b1c8f2d536e75f68f60e49f88debf1e9ec.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "假期你想去什么地方？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我想去海边，晒太阳、游泳，多舒服啊。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我也想去海边，那我们一起去吧。"
+       }
+      ],
+      "transcript": "假期你想去什么地方？ 我想去海边，晒太阳、游泳，多舒服啊。 我也想去海边，那我们一起去吧。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "乡村"
+      },
+      {
+       "label": "B",
+       "text": "山里"
+      },
+      {
+       "label": "C",
+       "text": "海边"
+      },
+      {
+       "label": "D",
+       "text": "城市"
+      }
+     ]
+    },
+    {
+     "id": "q10",
+     "type": "listening-mcq",
+     "prompt": "女士正在做什么？",
+     "correctAnswer": "A",
+     "explanation": "女士说正在打电话给客户，所以她在打电话。",
+     "audio": {
+      "key": "listening/v1/d50db4d80ec0bccea3ece9714048dc3805d3cdbe77efd1dc107b50a5f088594d.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你在做什么？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我正在打电话给客户，讨论合同的事。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "那我不打扰你了，一会儿再说。"
+       }
+      ],
+      "transcript": "你在做什么？ 我正在打电话给客户，讨论合同的事。 那我不打扰你了，一会儿再说。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "打电话"
+      },
+      {
+       "label": "B",
+       "text": "开会"
+      },
+      {
+       "label": "C",
+       "text": "看书"
+      },
+      {
+       "label": "D",
+       "text": "写报告"
+      }
+     ]
+    },
+    {
+     "id": "q11",
+     "type": "listening-mcq",
+     "prompt": "男人可能在哪里丢了钥匙？",
+     "correctAnswer": "D",
+     "explanation": "男士说可能在办公室或车上，但女士提议回办公室找，所以更可能是在办公室。",
+     "audio": {
+      "key": "listening/v1/046d2e73a707198d6edfb501c678694818977b8dbd527f2dd66d9b37088c3990.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你的钥匙找到了吗？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "还没有，我记不起来掉在哪里了。可能在办公室，也可能在车上。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "那我们回办公室找找吧。"
+       }
+      ],
+      "transcript": "你的钥匙找到了吗？ 还没有，我记不起来掉在哪里了。可能在办公室，也可能在车上。 那我们回办公室找找吧。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "车里"
+      },
+      {
+       "label": "B",
+       "text": "家里"
+      },
+      {
+       "label": "C",
+       "text": "餐厅"
+      },
+      {
+       "label": "D",
+       "text": "办公室"
+      }
+     ]
+    },
+    {
+     "id": "q12",
+     "type": "listening-mcq",
+     "prompt": "女士学汉语的困难是什么？",
+     "correctAnswer": "A",
+     "explanation": "女士说写汉字很难，记不住，所以困难是写字。",
+     "audio": {
+      "key": "listening/v1/0825309561df54d1c2f28fb910a82d0f369e5a2d14996077dca341b33b47edf8.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你汉语学得怎么样了？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "口语进步了不少，但是写汉字还是很难，很多字记不住。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "多练习就好了，坚持写日记会有帮助。"
+       }
+      ],
+      "transcript": "你汉语学得怎么样了？ 口语进步了不少，但是写汉字还是很难，很多字记不住。 多练习就好了，坚持写日记会有帮助。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "写字"
+      },
+      {
+       "label": "B",
+       "text": "发音"
+      },
+      {
+       "label": "C",
+       "text": "语法"
+      },
+      {
+       "label": "D",
+       "text": "听力"
+      }
+     ]
+    },
+    {
+     "id": "q13",
+     "type": "listening-mcq",
+     "prompt": "这件衬衫现在多少钱？",
+     "correctAnswer": "A",
+     "explanation": "男士说打五折后一百块，所以现在是100元。",
+     "audio": {
+      "key": "listening/v1/c42cd02433e41d92cb352e4c97286dcc80724b0f0f7982a36352f6a68659c5fe.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "这件衬衫多少钱？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "原价两百，现在打五折，只要一百块。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "那很划算，我要一件。"
+       }
+      ],
+      "transcript": "这件衬衫多少钱？ 原价两百，现在打五折，只要一百块。 那很划算，我要一件。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "100"
+      },
+      {
+       "label": "B",
+       "text": "200"
+      },
+      {
+       "label": "C",
+       "text": "150"
+      },
+      {
+       "label": "D",
+       "text": "50"
+      }
+     ]
+    },
+    {
+     "id": "q14",
+     "type": "listening-mcq",
+     "prompt": "生日派对准时开始？",
+     "correctAnswer": "B",
+     "explanation": "女士说这个星期六晚上七点，所以是周六晚上。",
+     "audio": {
+      "key": "listening/v1/133e742743bf37f3f293e9db937b3fd08f94f4d2849191ed696d59c63b7c4adb.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你的生日派对是什么时候？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "这个星期六晚上七点，在我家。你能来吗？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "当然，我一定到。"
+       }
+      ],
+      "transcript": "你的生日派对是什么时候？ 这个星期六晚上七点，在我家。你能来吗？ 当然，我一定到。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "周日上午"
+      },
+      {
+       "label": "B",
+       "text": "周六晚上"
+      },
+      {
+       "label": "C",
+       "text": "周日晚上"
+      },
+      {
+       "label": "D",
+       "text": "周六上午"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

@@ -1,0 +1,64 @@
+{
+ "id": "hsk7-9-listening-p113",
+ "level": "7-9",
+ "section": "listening",
+ "partKey": "listening-p1",
+ "title": "HSK7-9 Listening P1",
+ "titleZh": "听力 第一部分（判断对错）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请根据你听到的录音，判断下列句子是否正确。正确的请选择“对”，错误的请选择“错”。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-statement-true-false",
+     "prompt": "天和核心舱于2021年发射。",
+     "correctAnswer": "对",
+     "explanation": "录音明确说“天和核心舱于2021年发射”，因此正确。"
+    },
+    {
+     "id": "q2",
+     "type": "listening-statement-true-false",
+     "prompt": "问天实验舱于2022年7月成功对接。",
+     "correctAnswer": "对",
+     "explanation": "录音提到“问天实验舱于2022年7月成功对接”，因此正确。"
+    },
+    {
+     "id": "q3",
+     "type": "listening-statement-true-false",
+     "prompt": "梦天实验舱已于2022年10月发射。",
+     "correctAnswer": "错",
+     "explanation": "录音说“梦天实验舱将于2022年10月发射”，说明尚未发射，因此错误。"
+    },
+    {
+     "id": "q4",
+     "type": "listening-statement-true-false",
+     "prompt": "空间站设计寿命为10年。",
+     "correctAnswer": "对",
+     "explanation": "录音明确说“空间站设计寿命10年”，因此正确。"
+    },
+    {
+     "id": "q5",
+     "type": "listening-statement-true-false",
+     "prompt": "空间站开展的科学实验不超过百项。",
+     "correctAnswer": "错",
+     "explanation": "录音说“将开展数百项科学实验”，因此超过百项，所以错误。"
+    }
+   ],
+   "audio": {
+    "key": "listening/v1/bfa29d68792b6ed17be99d9ab2f6aba939965bb8da120564eed6bea302c53c64.mp3",
+    "lines": [
+     {
+      "speaker": "旁白",
+      "voice": "narrator",
+      "text": "中国空间站天和核心舱于2021年发射，问天实验舱于2022年7月成功对接。梦天实验舱将于2022年10月发射。空间站设计寿命10年，可长期驻留3名航天员。目前航天员正在进行舱外活动训练。空间站将开展数百项科学实验。"
+     }
+    ],
+    "transcript": "中国空间站天和核心舱于2021年发射，问天实验舱于2022年7月成功对接。梦天实验舱将于2022年10月发射。空间站设计寿命10年，可长期驻留3名航天员。目前航天员正在进行舱外活动训练。空间站将开展数百项科学实验。",
+    "transcriptPinyin": null
+   }
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

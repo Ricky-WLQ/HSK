@@ -1,0 +1,289 @@
+{
+ "id": "hsk2-listening-p210",
+ "level": "2",
+ "section": "listening",
+ "partKey": "listening-p2",
+ "title": "HSK2 Listening P2",
+ "titleZh": "听力 第二部分（看图听对话）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听对话，选出与对话内容相符的图片。注意每段对话对应一张图片，图片可以重复使用。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "B",
+     "explanation": "对话中女方说每天跑步，所以对应的图片是跑步的图片。",
+     "audio": {
+      "key": "listening/v1/e01a96e58d228a38080ad3aa14f0166cb31d44bfa4c7a40092190dd4dad8d889.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你每天早上都做什么运动？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我每天跑步。"
+       }
+      ],
+      "transcript": "你每天早上都做什么运动？ 我每天跑步。",
+      "transcriptPinyin": "nǐ měi tiān zǎo shàng dōu zuò shén me yùn dòng ？  wǒ měi tiān pǎo bù 。"
+     }
+    },
+    {
+     "id": "q2",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "A",
+     "explanation": "对话中女方说在看书，所以对应的图片是看书的图片。",
+     "audio": {
+      "key": "listening/v1/ae525e7891bdd000fc054831047bf056e32761c5f2504b7f7fecde9d29433659.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你在房间做什么？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我在看书。"
+       }
+      ],
+      "transcript": "你在房间做什么？ 我在看书。",
+      "transcriptPinyin": "nǐ zài fáng jiān zuò shén me ？  wǒ zài kàn shū 。"
+     }
+    },
+    {
+     "id": "q3",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "C",
+     "explanation": "对话中女方提议去吃饭，所以对应的图片是吃饭的图片。",
+     "audio": {
+      "key": "listening/v1/a789ef1c6791235db2c173bc8d16fdc0d032fa90733812a4ad580f94870c1688.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我们中午吃什么？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "去餐厅吃饭吧。"
+       }
+      ],
+      "transcript": "我们中午吃什么？ 去餐厅吃饭吧。",
+      "transcriptPinyin": "wǒ men zhōng wǔ chī shén me ？  qù cān tīng chī fàn ba 。"
+     }
+    },
+    {
+     "id": "q4",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "D",
+     "explanation": "对话中女方想喝水，所以对应的图片是喝水的图片。",
+     "audio": {
+      "key": "listening/v1/42532da0a7de776ebec4c4e362b6c0b06991d54ce92cdd0bec3240c39eb93e0b.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你渴吗？这里有一杯水。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "谢谢，我正想喝水。"
+       }
+      ],
+      "transcript": "你渴吗？这里有一杯水。 谢谢，我正想喝水。",
+      "transcriptPinyin": "nǐ kě ma ？ zhè lǐ yǒu yī bēi shuǐ 。  xiè xiè ， wǒ zhèng xiǎng hē shuǐ 。"
+     }
+    },
+    {
+     "id": "q5",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "E",
+     "explanation": "对话中女方说孩子马上睡觉，所以对应的图片是睡觉的图片。",
+     "audio": {
+      "key": "listening/v1/dcef705fcb12530c31c874ecbf26a7773deb77115fb56de25d8a8255b72f5711.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "孩子怎么还不睡？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "他马上睡觉。"
+       }
+      ],
+      "transcript": "孩子怎么还不睡？ 他马上睡觉。",
+      "transcriptPinyin": "hái zi zěn me hái bù shuì ？  tā mǎ shàng shuì jiào 。"
+     }
+    },
+    {
+     "id": "q6",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "B",
+     "explanation": "对话中女方想去跑步，所以对应的图片是跑步的图片。",
+     "audio": {
+      "key": "listening/v1/1d095615e8d8b4a14e452c70d4564532da76bafffb53a4c6087e5cd61e2828c7.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "周末我们去公园玩吧。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "好啊，我想去跑步。"
+       }
+      ],
+      "transcript": "周末我们去公园玩吧。 好啊，我想去跑步。",
+      "transcriptPinyin": "zhōu mò wǒ men qù gōng yuán wán ba 。  hǎo a ， wǒ xiǎng qù pǎo bù 。"
+     }
+    },
+    {
+     "id": "q7",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "A",
+     "explanation": "对话中女方说在家看书，所以对应的图片是看书的图片。",
+     "audio": {
+      "key": "listening/v1/cc6c31d3d6a32da6123c2ccf10527ac8d46587c86e6d414c246cd04f760ccec5.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你晚上有时间吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "有，我打算在家看书。"
+       }
+      ],
+      "transcript": "你晚上有时间吗？ 有，我打算在家看书。",
+      "transcriptPinyin": "nǐ wǎn shàng yǒu shí jiān ma ？  yǒu ， wǒ dǎ suàn zài jiā kàn shū 。"
+     }
+    },
+    {
+     "id": "q8",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "D",
+     "explanation": "对话中女方说每天喝很多水，所以对应的图片是喝水的图片。",
+     "audio": {
+      "key": "listening/v1/2208b231d36617478f89de1ac9f28fed1e8e5ad230a3e759d1d4e5891643a4e1.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "天气太热了，你要多喝水。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我知道，我每天喝很多水。"
+       }
+      ],
+      "transcript": "天气太热了，你要多喝水。 我知道，我每天喝很多水。",
+      "transcriptPinyin": "tiān qì tài rè le ， nǐ yào duō hē shuǐ 。  wǒ zhī dào ， wǒ měi tiān hē hěn duō shuǐ 。"
+     }
+    },
+    {
+     "id": "q9",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "C",
+     "explanation": "对话中女方提议去吃饭，所以对应的图片是吃饭的图片。",
+     "audio": {
+      "key": "listening/v1/61666fa99d69f4e9ebe31359c16cef10f08cf4c98f8770ecdeb9e46a047cb109.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你饿了吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "饿了，我们去吃饭。"
+       }
+      ],
+      "transcript": "你饿了吗？ 饿了，我们去吃饭。",
+      "transcriptPinyin": "nǐ è le ma ？  è le ， wǒ men qù chī fàn 。"
+     }
+    },
+    {
+     "id": "q10",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "E",
+     "explanation": "对话中女方说马上睡觉，所以对应的图片是睡觉的图片。",
+     "audio": {
+      "key": "listening/v1/f988b67677d27478f4a0b3dbb61acf655ecc65d4f238a8840286ca69599fb981.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "已经很晚了，你还不睡吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我马上就睡觉。"
+       }
+      ],
+      "transcript": "已经很晚了，你还不睡吗？ 我马上就睡觉。",
+      "transcriptPinyin": "yǐ jīng hěn wǎn le ， nǐ hái bù shuì ma ？  wǒ mǎ shàng jiù shuì jiào 。"
+     }
+    }
+   ],
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-34e9a39a069fec56b3cc8ad5c87b883d.png"
+    },
+    {
+     "label": "B",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-01d1341f71784b5bbbaaa9237432c8bf.png"
+    },
+    {
+     "label": "C",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-ecc841d4e947c990b780544fd0e723d0.png"
+    },
+    {
+     "label": "D",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-f3c67f75c65f89286abf1d6fdfafccbe.png"
+    },
+    {
+     "label": "E",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-cd55b1d3675562678292581f2757602c.png"
+    },
+    {
+     "label": "F",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-05e6755606d7a9ec216a5c76b6f36e96.png"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

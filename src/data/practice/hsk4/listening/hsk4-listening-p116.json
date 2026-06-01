@@ -1,0 +1,605 @@
+{
+ "id": "hsk4-listening-p116",
+ "level": "4",
+ "section": "listening",
+ "partKey": "listening-p1",
+ "title": "HSK4 Listening P1",
+ "titleZh": "听力 第一部分（听对话选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听对话，然后根据对话内容选择正确答案。每段对话后有一个问题，四个选项，请选出最恰当的一项。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "女的明天要做什么？",
+     "correctAnswer": "D",
+     "explanation": "对话中女的说‘明天我得去医院看牙’，所以她的计划是看牙。",
+     "audio": {
+      "key": "listening/v1/9fefd88e1e174fe595691b0257cac5d3c055cd21bc5da469cc4be317c1b7255f.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你明天有空吗？我们一起去爬山吧。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "明天我得去医院看牙，改天再约吧。"
+       }
+      ],
+      "transcript": "你明天有空吗？我们一起去爬山吧。 明天我得去医院看牙，改天再约吧。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "上班"
+      },
+      {
+       "label": "B",
+       "text": "休息"
+      },
+      {
+       "label": "C",
+       "text": "爬山"
+      },
+      {
+       "label": "D",
+       "text": "看牙"
+      }
+     ]
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "男的为什么没去聚会？",
+     "correctAnswer": "B",
+     "explanation": "男的说他临时要加班，因此无法参加聚会。",
+     "audio": {
+      "key": "listening/v1/22f3fbb00ad3f5ced9c23fd9ae090f605cddf1bd78e8787f164684aa9ad0f222.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你昨天晚上怎么没来参加聚会？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "对不起，我临时要加班，一直到晚上九点才结束。"
+       }
+      ],
+      "transcript": "你昨天晚上怎么没来参加聚会？ 对不起，我临时要加班，一直到晚上九点才结束。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "不想去"
+      },
+      {
+       "label": "B",
+       "text": "要加班"
+      },
+      {
+       "label": "C",
+       "text": "生病了"
+      },
+      {
+       "label": "D",
+       "text": "忘了时间"
+      }
+     ]
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "他们打算周末做什么？",
+     "correctAnswer": "B",
+     "explanation": "男的提议去图书馆，女的同意了，所以他们的计划是去图书馆。",
+     "audio": {
+      "key": "listening/v1/e6441fedd4c86f77c8b9d215ad24bfaf168256589d53d374480a3642f21fe006.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "这个周末我想去图书馆借几本书，你要一起去吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "好啊，我也正好想找一些关于旅行的小说。"
+       }
+      ],
+      "transcript": "这个周末我想去图书馆借几本书，你要一起去吗？ 好啊，我也正好想找一些关于旅行的小说。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "买书"
+      },
+      {
+       "label": "B",
+       "text": "去图书馆"
+      },
+      {
+       "label": "C",
+       "text": "看小说"
+      },
+      {
+       "label": "D",
+       "text": "去旅行"
+      }
+     ]
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "男的这件衣服怎么样？",
+     "correctAnswer": "D",
+     "explanation": "男的提到衣服价格很便宜，只要一百块。",
+     "audio": {
+      "key": "listening/v1/a508666e0c238c97a531f10196fb1644c84e4a25ab481dae39fe9a1243790733.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你这件新衣服真漂亮，在哪里买的？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "在网上买的，而且价格很便宜，只要一百块。"
+       }
+      ],
+      "transcript": "你这件新衣服真漂亮，在哪里买的？ 在网上买的，而且价格很便宜，只要一百块。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "不好看"
+      },
+      {
+       "label": "B",
+       "text": "质量差"
+      },
+      {
+       "label": "C",
+       "text": "很贵"
+      },
+      {
+       "label": "D",
+       "text": "很便宜"
+      }
+     ]
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "关于天气，男的在提醒什么？",
+     "correctAnswer": "C",
+     "explanation": "男的说天气越来越冷了，提醒多穿衣服。",
+     "audio": {
+      "key": "listening/v1/3b6feea7c6d9321375f37ba706feb68cc65a5c01fece8d26dc49cdd79abfe8c5.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "最近天气越来越冷了，你注意多穿点衣服。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "谢谢，我已经准备好冬天的衣服了。"
+       }
+      ],
+      "transcript": "最近天气越来越冷了，你注意多穿点衣服。 谢谢，我已经准备好冬天的衣服了。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "要下雨了"
+      },
+      {
+       "label": "B",
+       "text": "天气变热了"
+      },
+      {
+       "label": "C",
+       "text": "天气变冷了"
+      },
+      {
+       "label": "D",
+       "text": "要刮风了"
+      }
+     ]
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "男的什么时候跑步？",
+     "correctAnswer": "B",
+     "explanation": "男的说除了周末以外每天跑步，所以是周一至周五的早上。",
+     "audio": {
+      "key": "listening/v1/a3283681cb89b7f3525036433fecac829268b450192b5cc29ce0848002917772.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你每天早上都跑步吗？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "是的，除了周末以外，我每天都会跑半小时。"
+       }
+      ],
+      "transcript": "你每天早上都跑步吗？ 是的，除了周末以外，我每天都会跑半小时。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "每天早上"
+      },
+      {
+       "label": "B",
+       "text": "除了周末每天"
+      },
+      {
+       "label": "C",
+       "text": "晚上"
+      },
+      {
+       "label": "D",
+       "text": "周末"
+      }
+     ]
+    },
+    {
+     "id": "q7",
+     "type": "listening-mcq",
+     "prompt": "女的什么时间可以帮男的修手机？",
+     "correctAnswer": "D",
+     "explanation": "女的说下午才有时间，所以下午可以帮忙。",
+     "audio": {
+      "key": "listening/v1/d95044d6d756f04b7e68a29d9889b117c1a9c3b098a84455c197c07ac59dda99.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我的手机坏了，你能帮我看看吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "可以啊，不过我现在很忙，下午才有时间。"
+       }
+      ],
+      "transcript": "我的手机坏了，你能帮我看看吗？ 可以啊，不过我现在很忙，下午才有时间。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "上午"
+      },
+      {
+       "label": "B",
+       "text": "现在"
+      },
+      {
+       "label": "C",
+       "text": "明天"
+      },
+      {
+       "label": "D",
+       "text": "下午"
+      }
+     ]
+    },
+    {
+     "id": "q8",
+     "type": "listening-mcq",
+     "prompt": "男的坐地铁去公司需要多久？",
+     "correctAnswer": "C",
+     "explanation": "男的说坐地铁二十分钟就到了。",
+     "audio": {
+      "key": "listening/v1/ac4245ab2621c2d3b44345ff093b137023d8f97ca388b4b5270eea07bdc577f1.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你家离公司远不远？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "不远，坐地铁只要二十分钟就到了。"
+       }
+      ],
+      "transcript": "你家离公司远不远？ 不远，坐地铁只要二十分钟就到了。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "十分钟"
+      },
+      {
+       "label": "B",
+       "text": "半小时"
+      },
+      {
+       "label": "C",
+       "text": "二十分钟"
+      },
+      {
+       "label": "D",
+       "text": "一小时"
+      }
+     ]
+    },
+    {
+     "id": "q9",
+     "type": "listening-mcq",
+     "prompt": "女的吃午饭了吗？",
+     "correctAnswer": "C",
+     "explanation": "女的说她已经吃过了。",
+     "audio": {
+      "key": "listening/v1/76c1ccb225217360cdd11c3495de54b3a37da56310625fd9bade6bfc048f03e2.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你吃饭了吗？我们一起去食堂吧。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我已经吃过了，你自己去吧。"
+       }
+      ],
+      "transcript": "你吃饭了吗？我们一起去食堂吧。 我已经吃过了，你自己去吧。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "不想吃"
+      },
+      {
+       "label": "B",
+       "text": "正在吃"
+      },
+      {
+       "label": "C",
+       "text": "吃了"
+      },
+      {
+       "label": "D",
+       "text": "没吃"
+      }
+     ]
+    },
+    {
+     "id": "q10",
+     "type": "listening-mcq",
+     "prompt": "男的哥哥的职业是什么？",
+     "correctAnswer": "B",
+     "explanation": "男的说他哥哥是医生。",
+     "audio": {
+      "key": "listening/v1/ac49a112174e3a16c982e71a204172c148290f0a7bd1f99bd25aa629dbe9f9f6.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你哥哥是做什么工作的？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "他是一名医生，在一家医院工作。"
+       }
+      ],
+      "transcript": "你哥哥是做什么工作的？ 他是一名医生，在一家医院工作。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "老师"
+      },
+      {
+       "label": "B",
+       "text": "医生"
+      },
+      {
+       "label": "C",
+       "text": "律师"
+      },
+      {
+       "label": "D",
+       "text": "工程师"
+      }
+     ]
+    },
+    {
+     "id": "q11",
+     "type": "listening-mcq",
+     "prompt": "女的考试结果可能怎么样？",
+     "correctAnswer": "B",
+     "explanation": "女的说及格都难，说明可能不及格。",
+     "audio": {
+      "key": "listening/v1/6ed4eb701034c0a7e7586373ba53010d6675e253d1f33ad18e04b4dc7971dbee.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "这次考试你考得怎么样？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "不太理想，很多题目都不会做，可能及格都难。"
+       }
+      ],
+      "transcript": "这次考试你考得怎么样？ 不太理想，很多题目都不会做，可能及格都难。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "很好"
+      },
+      {
+       "label": "B",
+       "text": "不及格"
+      },
+      {
+       "label": "C",
+       "text": "满分"
+      },
+      {
+       "label": "D",
+       "text": "优秀"
+      }
+     ]
+    },
+    {
+     "id": "q12",
+     "type": "listening-mcq",
+     "prompt": "他们明天打算做什么？",
+     "correctAnswer": "D",
+     "explanation": "女的提议逛街，男的同意，所以他们的计划是逛街。",
+     "audio": {
+      "key": "listening/v1/d2850be4659e3b574eb10f5a7e3cf3f8e415d6c3fa5efe3557feae98f1e195e7.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我们明天去逛街吧，我想买双新鞋。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "好主意，我也想买一件外套。"
+       }
+      ],
+      "transcript": "我们明天去逛街吧，我想买双新鞋。 好主意，我也想买一件外套。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "买外套"
+      },
+      {
+       "label": "B",
+       "text": "吃饭"
+      },
+      {
+       "label": "C",
+       "text": "买鞋"
+      },
+      {
+       "label": "D",
+       "text": "逛街"
+      }
+     ]
+    },
+    {
+     "id": "q13",
+     "type": "listening-mcq",
+     "prompt": "女的喜欢什么音乐？",
+     "correctAnswer": "A",
+     "explanation": "女的说她比较喜欢流行音乐。",
+     "audio": {
+      "key": "listening/v1/558130815ffe519753b392df862289c2bba945b0afd56b72035f887846db64d6.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你平时喜欢听什么音乐？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我比较喜欢流行音乐，尤其是周杰伦的歌。"
+       }
+      ],
+      "transcript": "你平时喜欢听什么音乐？ 我比较喜欢流行音乐，尤其是周杰伦的歌。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "流行音乐"
+      },
+      {
+       "label": "B",
+       "text": "民族音乐"
+      },
+      {
+       "label": "C",
+       "text": "古典音乐"
+      },
+      {
+       "label": "D",
+       "text": "摇滚音乐"
+      }
+     ]
+    },
+    {
+     "id": "q14",
+     "type": "listening-mcq",
+     "prompt": "男的自行车是什么颜色的？",
+     "correctAnswer": "B",
+     "explanation": "男的说他的自行车是蓝色的。",
+     "audio": {
+      "key": "listening/v1/1409d2a90c72044ce3aab31a8e9c3dfbaa5644a3b3e1959a8acc76e55e9fe449.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你的自行车是什么颜色的？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "是蓝色的，我昨天刚买了一辆。"
+       }
+      ],
+      "transcript": "你的自行车是什么颜色的？ 是蓝色的，我昨天刚买了一辆。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "绿色"
+      },
+      {
+       "label": "B",
+       "text": "蓝色"
+      },
+      {
+       "label": "C",
+       "text": "红色"
+      },
+      {
+       "label": "D",
+       "text": "黑色"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

@@ -1,0 +1,179 @@
+{
+ "id": "hsk4-listening-p213",
+ "level": "4",
+ "section": "listening",
+ "partKey": "listening-p2",
+ "title": "HSK4 Listening P2",
+ "titleZh": "听力 第二部分（听短文选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "听下面一段独白，然后回答第1到第6题。每段对话或独白后有几个小题，从题中所给的A、B、C三个选项中选出最佳选项。听完后，你有10秒钟的时间回答有关小题。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "说话人最开始会做什么菜？",
+     "correctAnswer": "B",
+     "explanation": "独白中提到'刚开始我只会做最简单的菜，比如煮面条'，因此最开始会做的是煮面条。",
+     "options": [
+      {
+       "label": "A",
+       "text": "炒青菜"
+      },
+      {
+       "label": "B",
+       "text": "煮面条"
+      },
+      {
+       "label": "C",
+       "text": "煎鱼"
+      },
+      {
+       "label": "D",
+       "text": "红烧肉"
+      }
+     ]
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "说话人第一次做红烧肉时遇到了什么问题？",
+     "correctAnswer": "C",
+     "explanation": "独白说'第一次做红烧肉时，我把糖放多了，结果肉变得很甜'，所以问题就是糖放太多导致太甜。",
+     "options": [
+      {
+       "label": "A",
+       "text": "火太大，肉糊了"
+      },
+      {
+       "label": "B",
+       "text": "水放太少，肉没熟"
+      },
+      {
+       "label": "C",
+       "text": "糖放太多，太甜了"
+      },
+      {
+       "label": "D",
+       "text": "盐放太多，太咸了"
+      }
+     ]
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "说话人是怎么提高厨艺的？",
+     "correctAnswer": "C",
+     "explanation": "独白明确提到'上网看视频学习，还问了妈妈很多问题'，因此是通过网络视频和向妈妈请教来提高的。",
+     "options": [
+      {
+       "label": "A",
+       "text": "去学校学习"
+      },
+      {
+       "label": "B",
+       "text": "买了很多菜谱书"
+      },
+      {
+       "label": "C",
+       "text": "上网看视频和问妈妈"
+      },
+      {
+       "label": "D",
+       "text": "请朋友来家里教他"
+      }
+     ]
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "说话人现在对做饭的态度是什么？",
+     "correctAnswer": "A",
+     "explanation": "独白中说'现在我很喜欢做饭'，说明态度是喜欢并经常做。",
+     "options": [
+      {
+       "label": "A",
+       "text": "很喜欢，经常做"
+      },
+      {
+       "label": "B",
+       "text": "只喜欢做简单的菜"
+      },
+      {
+       "label": "C",
+       "text": "还是觉得很麻烦"
+      },
+      {
+       "label": "D",
+       "text": "认为很难，不想学"
+      }
+     ]
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "说话人周末经常做什么？",
+     "correctAnswer": "B",
+     "explanation": "独白提到'周末经常请朋友来家里吃'，所以是请朋友来家里吃饭。",
+     "options": [
+      {
+       "label": "A",
+       "text": "在家看电视"
+      },
+      {
+       "label": "B",
+       "text": "请朋友来家里吃饭"
+      },
+      {
+       "label": "C",
+       "text": "一个人出去吃饭"
+      },
+      {
+       "label": "D",
+       "text": "去朋友家吃饭"
+      }
+     ]
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "朋友们觉得说话人做的菜怎么样？",
+     "correctAnswer": "A",
+     "explanation": "独白最后说'他们都说我做的菜味道不错'，因此朋友们评价很好。",
+     "options": [
+      {
+       "label": "A",
+       "text": "味道不错"
+      },
+      {
+       "label": "B",
+       "text": "太甜了"
+      },
+      {
+       "label": "C",
+       "text": "味道不太好"
+      },
+      {
+       "label": "D",
+       "text": "味道一般"
+      }
+     ]
+    }
+   ],
+   "audio": {
+    "key": "listening/v1/3b2a900bcb75a4d804ca520338e8375c7779aaa8d02178fea3804145fbedfb24.mp3",
+    "lines": [
+     {
+      "speaker": "旁白",
+      "voice": "narrator",
+      "text": "我以前不会做饭，觉得很难。后来因为一个人住，不得不学。刚开始我只会做最简单的菜，比如煮面条。第一次做红烧肉时，我把糖放多了，结果肉变得很甜，没法吃。我没有放弃，上网看视频学习，还问了妈妈很多问题。慢慢地，我掌握了调味的方法。现在我很喜欢做饭，周末经常请朋友来家里吃。他们都说我做的菜味道不错。"
+     }
+    ],
+    "transcript": "我以前不会做饭，觉得很难。后来因为一个人住，不得不学。刚开始我只会做最简单的菜，比如煮面条。第一次做红烧肉时，我把糖放多了，结果肉变得很甜，没法吃。我没有放弃，上网看视频学习，还问了妈妈很多问题。慢慢地，我掌握了调味的方法。现在我很喜欢做饭，周末经常请朋友来家里吃。他们都说我做的菜味道不错。",
+    "transcriptPinyin": null
+   }
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

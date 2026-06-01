@@ -1,0 +1,64 @@
+{
+ "id": "hsk7-9-listening-p103",
+ "level": "7-9",
+ "section": "listening",
+ "partKey": "listening-p1",
+ "title": "HSK7-9 Listening P1",
+ "titleZh": "听力 第一部分（判断对错）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "听录音，判断下列句子是否与录音内容相符，相符请选“对”，不相符请选“错”。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-statement-true-false",
+     "prompt": "神舟十八号载人飞船于2024年4月成功发射。",
+     "correctAnswer": "对",
+     "explanation": "录音明确提到神舟十八号于2024年4月25日成功发射，因此该句正确。"
+    },
+    {
+     "id": "q2",
+     "type": "listening-statement-true-false",
+     "prompt": "这次任务的主要目的是建设空间站。",
+     "correctAnswer": "错",
+     "explanation": "录音指出任务标志着空间站进入应用与发展阶段，而非建设阶段；主要目的是开展科学实验和技术验证，并非建设空间站本身。"
+    },
+    {
+     "id": "q3",
+     "type": "listening-statement-true-false",
+     "prompt": "航天员在轨期间进行了太空植物种植实验。",
+     "correctAnswer": "对",
+     "explanation": "录音提到首次在太空进行植物全生命周期培养实验，属于植物种植实验，因此该句正确。"
+    },
+    {
+     "id": "q4",
+     "type": "listening-statement-true-false",
+     "prompt": "所有实验都由中国独立完成，没有国际合作。",
+     "correctAnswer": "错",
+     "explanation": "录音明确提到任务涉及与联合国外层空间事务办公室的合作项目，且部分数据与全球机构共享，因此存在国际合作，该句错误。"
+    },
+    {
+     "id": "q5",
+     "type": "listening-statement-true-false",
+     "prompt": "任务圆满成功，航天员已安全返回地球。",
+     "correctAnswer": "对",
+     "explanation": "录音指出航天员于2024年10月顺利返回东风着陆场，任务取得圆满成功，因此该句正确。"
+    }
+   ],
+   "audio": {
+    "key": "listening/v1/a44a5d15b99015158e49cb47d1d7e2e5c850c0eefb8d30342f5cd6574fc9f88f.mp3",
+    "lines": [
+     {
+      "speaker": "旁白",
+      "voice": "narrator",
+      "text": "2024年4月25日，神舟十八号载人飞船在酒泉卫星发射中心成功发射，将三名航天员送入中国空间站。此次任务标志着中国载人航天工程进入空间站应用与发展阶段。航天员在轨期间，开展了多项科学实验和技术验证，包括首次在太空进行植物全生命周期培养实验，以及机械臂操作和舱外维修等任务。此外，任务还涉及与联合国外层空间事务办公室合作的项目，部分实验数据已与全球科研机构共享。经过约六个月的飞行，航天员于2024年10月顺利返回东风着陆场，任务取得圆满成功。"
+     }
+    ],
+    "transcript": "2024年4月25日，神舟十八号载人飞船在酒泉卫星发射中心成功发射，将三名航天员送入中国空间站。此次任务标志着中国载人航天工程进入空间站应用与发展阶段。航天员在轨期间，开展了多项科学实验和技术验证，包括首次在太空进行植物全生命周期培养实验，以及机械臂操作和舱外维修等任务。此外，任务还涉及与联合国外层空间事务办公室合作的项目，部分实验数据已与全球科研机构共享。经过约六个月的飞行，航天员于2024年10月顺利返回东风着陆场，任务取得圆满成功。",
+    "transcriptPinyin": null
+   }
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

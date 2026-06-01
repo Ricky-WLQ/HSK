@@ -1,0 +1,143 @@
+{
+ "id": "hsk7-9-listening-p207",
+ "level": "7-9",
+ "section": "listening",
+ "partKey": "listening-p2",
+ "title": "HSK7-9 Listening P2",
+ "titleZh": "听力 第二部分（听短文选填答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "你将听到一段关于人工智能在医疗诊断中应用的科技专题报道。请根据听到的内容回答后面的问题。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "根据报道，人工智能在医疗诊断中的准确率如何？",
+     "correctAnswer": "B",
+     "explanation": "报道中提到AI在特定疾病的检测上准确率甚至超过了资深放射科医生，因此B正确。",
+     "options": [
+      {
+       "label": "A",
+       "text": "与普通医生相当"
+      },
+      {
+       "label": "B",
+       "text": "在特定疾病上超过资深医生"
+      },
+      {
+       "label": "C",
+       "text": "尚未得到临床验证"
+      },
+      {
+       "label": "D",
+       "text": "始终低于人类医生"
+      }
+     ]
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "报道中提到了哪些人工智能在医疗中面临的挑战？",
+     "correctAnswer": "C",
+     "explanation": "报道明确列出了数据隐私、算法偏见以及临床验证等挑战，故B正确。",
+     "options": [
+      {
+       "label": "A",
+       "text": "患者接受度低和法律障碍"
+      },
+      {
+       "label": "B",
+       "text": "数据不足和算法过时"
+      },
+      {
+       "label": "C",
+       "text": "数据隐私、算法偏见和临床验证"
+      },
+      {
+       "label": "D",
+       "text": "计算成本过高和人才短缺"
+      }
+     ]
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "专家认为AI系统存在的主要缺陷是什么？",
+     "correctAnswer": "D",
+     "explanation": "报道中专家指出AI系统缺乏对疾病全貌的认知，可能忽略细微的病理特征，因此B正确。",
+     "options": [
+      {
+       "label": "A",
+       "text": "难以整合多种数据"
+      },
+      {
+       "label": "B",
+       "text": "运算速度太慢"
+      },
+      {
+       "label": "C",
+       "text": "容易误诊罕见病"
+      },
+      {
+       "label": "D",
+       "text": "缺乏对疾病全貌的认知"
+      }
+     ]
+    },
+    {
+     "id": "q4",
+     "type": "listening-dictation",
+     "prompt": "报道中提到AI在分析医学影像时，其准确率在某种检测上超过了人类医生，请问这种检测的准确率指标是什么？",
+     "correctAnswer": "准确率",
+     "explanation": "填空题答案从原文中提取，文中提及“准确率在某些特定疾病的检测上甚至超过了资深放射科医生”，因此答案为“准确率”。"
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "根据报道，哪两种技术的发展将有助于AI成为医生的得力助手？",
+     "correctAnswer": "B",
+     "explanation": "报道明确提到“随着联邦学习和多模态数据融合技术的发展，AI有望成为医生的得力助手”，因此B正确。",
+     "options": [
+      {
+       "label": "A",
+       "text": "自然语言处理和计算机视觉"
+      },
+      {
+       "label": "B",
+       "text": "联邦学习和多模态数据融合"
+      },
+      {
+       "label": "C",
+       "text": "云计算和边缘计算"
+      },
+      {
+       "label": "D",
+       "text": "深度学习和强化学习"
+      }
+     ]
+    },
+    {
+     "id": "q6",
+     "type": "listening-dictation",
+     "prompt": "报道中提到的未来医疗模式是什么？",
+     "correctAnswer": "人机协同诊疗",
+     "explanation": "报道最后说“人机协同诊疗模式将大幅提升医疗效率与诊断准确性”，因此答案为“人机协同诊疗”。"
+    }
+   ],
+   "audio": {
+    "key": "listening/v1/a7fef00670c521cc515dcfe79ec1d897e52524a035ae9fb6eae30241667e354b.mp3",
+    "lines": [
+     {
+      "speaker": "旁白",
+      "voice": "narrator",
+      "text": "近年来，人工智能在医疗诊断领域取得了突破性进展。以深度学习为核心的算法能够分析医学影像，如X光片和CT扫描，其准确率在某些特定疾病的检测上甚至超过了资深放射科医生。然而，这项技术并非完美无缺。它面临着数据隐私、算法偏见以及临床验证等挑战。此外，专家指出，AI系统缺乏对疾病全貌的认知，可能忽略细微的病理特征。不过，随着联邦学习和多模态数据融合技术的发展，AI有望成为医生的得力助手，而非替代者。未来，人机协同诊疗模式将大幅提升医疗效率与诊断准确性。"
+     }
+    ],
+    "transcript": "近年来，人工智能在医疗诊断领域取得了突破性进展。以深度学习为核心的算法能够分析医学影像，如X光片和CT扫描，其准确率在某些特定疾病的检测上甚至超过了资深放射科医生。然而，这项技术并非完美无缺。它面临着数据隐私、算法偏见以及临床验证等挑战。此外，专家指出，AI系统缺乏对疾病全貌的认知，可能忽略细微的病理特征。不过，随着联邦学习和多模态数据融合技术的发展，AI有望成为医生的得力助手，而非替代者。未来，人机协同诊疗模式将大幅提升医疗效率与诊断准确性。",
+    "transcriptPinyin": null
+   }
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

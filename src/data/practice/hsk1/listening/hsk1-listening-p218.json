@@ -1,0 +1,202 @@
+{
+ "id": "hsk1-listening-p218",
+ "level": "1",
+ "section": "listening",
+ "partKey": "listening-p2",
+ "title": "HSK1 Listening P2",
+ "titleZh": "听力 第二部分（听句子选答语）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听录音，然后根据录音内容选择正确的答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "那个人说了什么？",
+     "correctAnswer": "C",
+     "explanation": "那个人问“你叫什么名字？”意思是问名字，所以答案是“他问你的名字”。",
+     "audio": {
+      "key": "listening/v1/dee75706636fd59d23579253b1aee11905313b90cd1057594844aa060b3f8b2c.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "你好，你叫什么名字？"
+       }
+      ],
+      "transcript": "你好，你叫什么名字？",
+      "transcriptPinyin": "nǐ hǎo ， nǐ jiào shén me míng zì ？"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "他问你好。",
+       "pinyin": "tā wèn nǐ hǎo 。"
+      },
+      {
+       "label": "B",
+       "text": "他问你几岁了。",
+       "pinyin": "tā wèn nǐ jǐ suì le 。"
+      },
+      {
+       "label": "C",
+       "text": "他问你的名字。",
+       "pinyin": "tā wèn nǐ de míng zì 。"
+      }
+     ],
+     "pinyin": "nà ge rén shuō le shén me ？"
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "现在几点？",
+     "correctAnswer": "C",
+     "explanation": "录音说“现在八点”，所以现在的时刻是八点。",
+     "audio": {
+      "key": "listening/v1/10fac9552ead1a6b21e7eb6e1e9483dbf44b1ace5e3b6a06efd30dee10e6d66d.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "现在几点了？现在八点。"
+       }
+      ],
+      "transcript": "现在几点了？现在八点。",
+      "transcriptPinyin": "xiàn zài jǐ diǎn le ？ xiàn zài bā diǎn 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "现在九点。",
+       "pinyin": "xiàn zài jiǔ diǎn 。"
+      },
+      {
+       "label": "B",
+       "text": "现在七点。",
+       "pinyin": "xiàn zài qī diǎn 。"
+      },
+      {
+       "label": "C",
+       "text": "现在八点。",
+       "pinyin": "xiàn zài bā diǎn 。"
+      }
+     ],
+     "pinyin": "xiàn zài jǐ diǎn ？"
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "他今年多大？",
+     "correctAnswer": "B",
+     "explanation": "录音说“他今年十岁”，所以他的年龄是十岁。",
+     "audio": {
+      "key": "listening/v1/9db8c18881d35a320705774b9731bf1249a07180f41c0f08d8080da753cb0167.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "他多大？他今年十岁。"
+       }
+      ],
+      "transcript": "他多大？他今年十岁。",
+      "transcriptPinyin": "tā duō dà ？ tā jīn nián shí suì 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "他今年十一岁。",
+       "pinyin": "tā jīn nián shí yī suì 。"
+      },
+      {
+       "label": "B",
+       "text": "他今年十岁。",
+       "pinyin": "tā jīn nián shí suì 。"
+      },
+      {
+       "label": "C",
+       "text": "他今年九岁。",
+       "pinyin": "tā jīn nián jiǔ suì 。"
+      }
+     ],
+     "pinyin": "tā jīn nián duō dà ？"
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "他是哪国人？",
+     "correctAnswer": "A",
+     "explanation": "录音说“我是中国人”，所以他是中国人。",
+     "audio": {
+      "key": "listening/v1/7ad9c9457dfdff6b0e7872dbbd40ddf1d0164a4338ad73816b0268efe18be829.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "你是中国人吗？是，我是中国人。"
+       }
+      ],
+      "transcript": "你是中国人吗？是，我是中国人。",
+      "transcriptPinyin": "nǐ shì zhōng guó rén ma ？ shì ， wǒ shì zhōng guó rén 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "他是中国人。",
+       "pinyin": "tā shì zhōng guó rén 。"
+      },
+      {
+       "label": "B",
+       "text": "他是日本人。",
+       "pinyin": "tā shì rì běn rén 。"
+      },
+      {
+       "label": "C",
+       "text": "他是美国人。",
+       "pinyin": "tā shì měi guó rén 。"
+      }
+     ],
+     "pinyin": "tā shì nǎ guó rén ？"
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "那个人吃什么水果？",
+     "correctAnswer": "B",
+     "explanation": "录音说“我吃香蕉”，所以他吃香蕉。",
+     "audio": {
+      "key": "listening/v1/0067134978ca9ec63e02cc255bda246616caa32f1aa84da9d05ccef3ab2928f0.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "你吃苹果吗？不吃，我吃香蕉。"
+       }
+      ],
+      "transcript": "你吃苹果吗？不吃，我吃香蕉。",
+      "transcriptPinyin": "nǐ chī píng guǒ ma ？ bù chī ， wǒ chī xiāng jiāo 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "他吃苹果。",
+       "pinyin": "tā chī píng guǒ 。"
+      },
+      {
+       "label": "B",
+       "text": "他吃香蕉。",
+       "pinyin": "tā chī xiāng jiāo 。"
+      },
+      {
+       "label": "C",
+       "text": "他吃橘子。",
+       "pinyin": "tā chī jú zi 。"
+      }
+     ],
+     "pinyin": "nà ge rén chī shén me shuǐ guǒ ？"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

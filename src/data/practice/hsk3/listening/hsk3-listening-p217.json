@@ -1,0 +1,437 @@
+{
+ "id": "hsk3-listening-p217",
+ "level": "3",
+ "section": "listening",
+ "partKey": "listening-p2",
+ "title": "HSK3 Listening P2",
+ "titleZh": "听力 第二部分（听对话选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听对话，然后根据对话内容选择正确答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "小明的生日礼物是什么？",
+     "correctAnswer": "C",
+     "explanation": "对话中女孩说明天是她的生日，她想要一本汉语词典，所以礼物是一本书。",
+     "audio": {
+      "key": "listening/v1/64c97d0940d2b1b5ccb6d7ab7f839710ed0f837e2c3267c79c2cf4a910b283db.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "小明，明天是你的生日，你想要什么礼物？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "爸爸，我想要一本汉语词典。"
+       }
+      ],
+      "transcript": "小明，明天是你的生日，你想要什么礼物？ 爸爸，我想要一本汉语词典。",
+      "transcriptPinyin": "xiǎo míng ， míng tiān shì nǐ de shēng rì ， nǐ xiǎng yào shén me lǐ wù ？  bà bà ， wǒ xiǎng yào yī běn hàn yǔ cí diǎn 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "一个蛋糕",
+       "pinyin": "yí gè dàn gāo"
+      },
+      {
+       "label": "B",
+       "text": "一个玩具",
+       "pinyin": "yí gè wán jù"
+      },
+      {
+       "label": "C",
+       "text": "一本书",
+       "pinyin": "yī běn shū"
+      }
+     ],
+     "pinyin": "xiǎo míng de shēng rì lǐ wù shì shén me ？"
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "他们要去哪里？",
+     "correctAnswer": "A",
+     "explanation": "对话中男人问去火车站的公共汽车，女人回答坐123路在火车站下车，所以他们要去火车站。",
+     "audio": {
+      "key": "listening/v1/69c94cb27c73efc78749031ff89b9871e8ea2372557e95ec524043e5a0ea8902.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你好，请问这里有没有去火车站的公共汽车？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "有，你可以坐123路，在火车站下车。"
+       }
+      ],
+      "transcript": "你好，请问这里有没有去火车站的公共汽车？ 有，你可以坐123路，在火车站下车。",
+      "transcriptPinyin": "nǐ hǎo ， qǐng wèn zhè lǐ yǒu méi yǒu qù huǒ chē zhàn de gōng gòng qì chē ？  yǒu ， nǐ kě yǐ zuò 123 lù ， zài huǒ chē zhàn xià chē 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "火车站",
+       "pinyin": "huǒ chē zhàn"
+      },
+      {
+       "label": "B",
+       "text": "学校",
+       "pinyin": "xué xiào"
+      },
+      {
+       "label": "C",
+       "text": "商店",
+       "pinyin": "shāng diàn"
+      }
+     ],
+     "pinyin": "tā men yào qù nǎ lǐ ？"
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "今天天气怎么样？",
+     "correctAnswer": "A",
+     "explanation": "对话中男人说今天天气真冷，女人也说穿了大衣，所以天气很冷。",
+     "audio": {
+      "key": "listening/v1/7407b02c7c40ca92f44de82b2b5fe0782dc54f1c436ee2e5ae31ab5ac6bf4356.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "今天天气真冷，你要多穿点衣服。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我知道，我已经穿上大衣了。你也要注意保暖。"
+       }
+      ],
+      "transcript": "今天天气真冷，你要多穿点衣服。 我知道，我已经穿上大衣了。你也要注意保暖。",
+      "transcriptPinyin": "jīn tiān tiān qì zhēn lěng ， nǐ yào duō chuān diǎn yī fú 。  wǒ zhī dào ， wǒ yǐ jīng chuān shàng dà yī le 。 nǐ yě yào zhù yì bǎo nuǎn 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "很冷",
+       "pinyin": "hěn lěng"
+      },
+      {
+       "label": "B",
+       "text": "很暖和",
+       "pinyin": "hěn nuǎn huo"
+      },
+      {
+       "label": "C",
+       "text": "很热",
+       "pinyin": "hěn rè"
+      }
+     ],
+     "pinyin": "jīn tiān tiān qì zěn me yàng ？"
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "男人昨天下午在做什么？",
+     "correctAnswer": "A",
+     "explanation": "对话中男人说他在图书馆看书，手机静音了，所以他在图书馆看书。",
+     "audio": {
+      "key": "listening/v1/8ebf028f39907408521ac36495ab418e28a710cdc9de64638873215081afa65a.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你昨天下午去哪儿了？我打电话你也没接。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我在图书馆看书，手机静音了，没听到。"
+       }
+      ],
+      "transcript": "你昨天下午去哪儿了？我打电话你也没接。 我在图书馆看书，手机静音了，没听到。",
+      "transcriptPinyin": "nǐ zuó tiān xià wǔ qù nǎ ér le ？ wǒ dǎ diàn huà nǐ yě méi jiē 。  wǒ zài tú shū guǎn kàn shū ， shǒu jī jìng yīn le ， méi tīng dào 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "在图书馆看书",
+       "pinyin": "zài tú shū guǎn kàn shū"
+      },
+      {
+       "label": "B",
+       "text": "在超市购物",
+       "pinyin": "zài chāo shì gòu wù"
+      },
+      {
+       "label": "C",
+       "text": "在家睡觉",
+       "pinyin": "zài jiā shuì jiào"
+      }
+     ],
+     "pinyin": "nán rén zuó tiān xià wǔ zài zuò shén me ？"
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "他们周末打算做什么？",
+     "correctAnswer": "B",
+     "explanation": "对话中男人建议去公园散步，女人同意并说可以喂鱼，所以他们打算去公园。",
+     "audio": {
+      "key": "listening/v1/649a032259bbd869821ab83485dc6d4c7c227c4fa93ec8fd99c678eb1ab27666.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "周末我们去公园散步吧，那里的花都开了。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "好啊，我们还可以带些面包去喂鱼。"
+       }
+      ],
+      "transcript": "周末我们去公园散步吧，那里的花都开了。 好啊，我们还可以带些面包去喂鱼。",
+      "transcriptPinyin": "zhōu mò wǒ men qù gōng yuán sàn bù ba ， nà lǐ de huā dōu kāi le 。  hǎo a ， wǒ men hái kě yǐ dài xiē miàn bāo qù wèi yú 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "去游泳",
+       "pinyin": "qù yóu yǒng"
+      },
+      {
+       "label": "B",
+       "text": "去公园",
+       "pinyin": "qù gōng yuán"
+      },
+      {
+       "label": "C",
+       "text": "去电影院",
+       "pinyin": "qù diàn yǐng yuàn"
+      }
+     ],
+     "pinyin": "tā men zhōu mò dǎ suàn zuò shén me ？"
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "男人学汉语多长时间了？",
+     "correctAnswer": "A",
+     "explanation": "对话中男人说从去年开始学，已经一年了，所以学了一年。",
+     "audio": {
+      "key": "listening/v1/ee2bb9a2bd733f8ddac282303619685731a82c8e9ce4257848afb3db173c8321.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你的汉语说得越来越好了，学了多长时间了？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我从去年开始学，已经一年了。"
+       }
+      ],
+      "transcript": "你的汉语说得越来越好了，学了多长时间了？ 我从去年开始学，已经一年了。",
+      "transcriptPinyin": "nǐ de hàn yǔ shuō dé yuè lái yuè hǎo le ， xué le duō zhǎng shí jiān le ？  wǒ cóng qù nián kāi shǐ xué ， yǐ jīng yī nián le 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "一年",
+       "pinyin": "yī nián"
+      },
+      {
+       "label": "B",
+       "text": "两年",
+       "pinyin": "liǎng nián"
+      },
+      {
+       "label": "C",
+       "text": "一个月",
+       "pinyin": "yí gè yuè"
+      }
+     ],
+     "pinyin": "nán rén xué hàn yǔ duō zhǎng shí jiān le ？"
+    },
+    {
+     "id": "q7",
+     "type": "listening-mcq",
+     "prompt": "苹果多少钱一斤？",
+     "correctAnswer": "A",
+     "explanation": "对话中女人回答苹果五块钱一斤，所以是五元。",
+     "audio": {
+      "key": "listening/v1/fb35192d8933c96ab4b5a32e9facbf6c1d795dcf978059f1f17dbb16d7a13ff3.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "请问，这个苹果多少钱一斤？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "五块钱一斤，你要多少？"
+       }
+      ],
+      "transcript": "请问，这个苹果多少钱一斤？ 五块钱一斤，你要多少？",
+      "transcriptPinyin": "qǐng wèn ， zhè ge píng guǒ duō shǎo qián yī jīn ？  wǔ kuài qián yī jīn ， nǐ yào duō shǎo ？"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "五元",
+       "pinyin": "wǔ yuán"
+      },
+      {
+       "label": "B",
+       "text": "三元",
+       "pinyin": "sān yuán"
+      },
+      {
+       "label": "C",
+       "text": "四元",
+       "pinyin": "sì yuán"
+      }
+     ],
+     "pinyin": "píng guǒ duō shǎo qián yī jīn ？"
+    },
+    {
+     "id": "q8",
+     "type": "listening-mcq",
+     "prompt": "男人每天早上做什么？",
+     "correctAnswer": "C",
+     "explanation": "对话中男人说六点半起床后去操场跑步，所以他每天早上跑步。",
+     "audio": {
+      "key": "listening/v1/97b765297017675ab6e1b6852cdcce91fd5c800a6b7517f9c8554f4eb6add0d2.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你每天早上几点起床？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我一般六点半起床，然后去操场跑步。"
+       }
+      ],
+      "transcript": "你每天早上几点起床？ 我一般六点半起床，然后去操场跑步。",
+      "transcriptPinyin": "nǐ měi tiān zǎo shàng jǐ diǎn qǐ chuáng ？  wǒ yì bān liù diǎn bàn qǐ chuáng ， rán hòu qù cāo chǎng pǎo bù 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "游泳",
+       "pinyin": "yóu yǒng"
+      },
+      {
+       "label": "B",
+       "text": "打球",
+       "pinyin": "dǎ qiú"
+      },
+      {
+       "label": "C",
+       "text": "跑步",
+       "pinyin": "pǎo bù"
+      }
+     ],
+     "pinyin": "nán rén měi tiān zǎo shàng zuò shén me ？"
+    },
+    {
+     "id": "q9",
+     "type": "listening-mcq",
+     "prompt": "他们现在在做什么？",
+     "correctAnswer": "B",
+     "explanation": "对话中男人说桌子太重让女人帮忙抬，女人同意，所以他们正在搬桌子。",
+     "audio": {
+      "key": "listening/v1/2ef83ee800d149066f66e5300a1e3915b224d4d43318355bf30c39a8723bdff8.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "这张桌子太重了，你帮我抬一下好吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "好的，我帮你抬另一边。"
+       }
+      ],
+      "transcript": "这张桌子太重了，你帮我抬一下好吗？ 好的，我帮你抬另一边。",
+      "transcriptPinyin": "zhè zhāng zhuō zi tài zhòng le ， nǐ bāng wǒ tái yī xià hǎo ma ？  hǎo de ， wǒ bāng nǐ tái lìng yī biān 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "看书",
+       "pinyin": "kàn shū"
+      },
+      {
+       "label": "B",
+       "text": "搬桌子",
+       "pinyin": "bān zhuō zi"
+      },
+      {
+       "label": "C",
+       "text": "吃饭",
+       "pinyin": "chī fàn"
+      }
+     ],
+     "pinyin": "tā men xiàn zài zài zuò shén me ？"
+    },
+    {
+     "id": "q10",
+     "type": "listening-mcq",
+     "prompt": "男人要喝什么？",
+     "correctAnswer": "C",
+     "explanation": "对话中男人回答要一杯茶，所以他要喝茶。",
+     "audio": {
+      "key": "listening/v1/3ce412ed6e5ffb2bf3cc839030cf30c3f473e8f649df07bc5c786d47a6b4b48e.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你喝咖啡还是茶？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我要一杯茶，谢谢。"
+       }
+      ],
+      "transcript": "你喝咖啡还是茶？ 我要一杯茶，谢谢。",
+      "transcriptPinyin": "nǐ hē kā fēi hái shì chá ？  wǒ yào yī bēi chá ， xiè xiè 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "果汁",
+       "pinyin": "guǒ zhī"
+      },
+      {
+       "label": "B",
+       "text": "咖啡",
+       "pinyin": "kā fēi"
+      },
+      {
+       "label": "C",
+       "text": "茶",
+       "pinyin": "chá"
+      }
+     ],
+     "pinyin": "nán rén yào hē shén me ？"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

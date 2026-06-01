@@ -1,0 +1,537 @@
+{
+ "id": "hsk5-listening-p109",
+ "level": "5",
+ "section": "listening",
+ "partKey": "listening-p1",
+ "title": "HSK5 Listening P1",
+ "titleZh": "听力 第一部分（听对话选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听对话，然后根据对话内容选择正确答案。每段对话后有一个问题，请从A、B、C、D四个选项中选出唯一正确的答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "关于这部电影，女的是什么看法？",
+     "correctAnswer": "C",
+     "explanation": "女士提到电影结局有点出乎意料，也就是很意外，因此选项C正确。",
+     "audio": {
+      "key": "listening/v1/a40c28f8dc687318a2b03fd0b1774cef9c1410249886296f8b7de001c065d581.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你昨天去看电影了吗？听说那部新片子不错。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "去了，但是人太多了，排了半个小时才买到票。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "那电影怎么样？值得看吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "情节很吸引人，就是结局有点出乎意料。"
+       }
+      ],
+      "transcript": "你昨天去看电影了吗？听说那部新片子不错。 去了，但是人太多了，排了半个小时才买到票。 那电影怎么样？值得看吗？ 情节很吸引人，就是结局有点出乎意料。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "电影情节一般"
+      },
+      {
+       "label": "B",
+       "text": "电影票很难买"
+      },
+      {
+       "label": "C",
+       "text": "电影结局很意外"
+      },
+      {
+       "label": "D",
+       "text": "电影不值得看"
+      }
+     ]
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "女士认为减肥需要什么？",
+     "correctAnswer": "B",
+     "explanation": "女士说要坚持才行，强调坚持的重要性，所以选项C正确。",
+     "audio": {
+      "key": "listening/v1/8a0931a00d1d5b34ec773b75f9a0e424157403719db23d44628baffb29fe4a5f.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你最近好像瘦了不少，在减肥吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "是啊，我每周去三次健身房，还控制饮食。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "效果明显吗？我也想尝试一下。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "还不错，两个月减了五公斤，不过要坚持才行。"
+       }
+      ],
+      "transcript": "你最近好像瘦了不少，在减肥吗？ 是啊，我每周去三次健身房，还控制饮食。 效果明显吗？我也想尝试一下。 还不错，两个月减了五公斤，不过要坚持才行。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "多休息"
+      },
+      {
+       "label": "B",
+       "text": "坚持努力"
+      },
+      {
+       "label": "C",
+       "text": "只去健身房"
+      },
+      {
+       "label": "D",
+       "text": "控制饮食"
+      }
+     ]
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "小王昨天为什么没参加聚会？",
+     "correctAnswer": "B",
+     "explanation": "小王说他临时有急事加班，也就是有工作要处理，因此选项B正确。",
+     "audio": {
+      "key": "listening/v1/d212325c4cc27a59d2da0de625fadc4e97be21e8892adf69eb47a1f5ee1a1471.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "小王，你昨天怎么没来参加聚会？大家都等你呢。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "真不好意思，我临时有急事，加班到晚上十点。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "这么辛苦啊，那下次一定要来哦。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "一定一定，下次我请大家吃饭赔罪。"
+       }
+      ],
+      "transcript": "小王，你昨天怎么没来参加聚会？大家都等你呢。 真不好意思，我临时有急事，加班到晚上十点。 这么辛苦啊，那下次一定要来哦。 一定一定，下次我请大家吃饭赔罪。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "他生病了"
+      },
+      {
+       "label": "B",
+       "text": "他有工作要处理"
+      },
+      {
+       "label": "C",
+       "text": "他忘了时间"
+      },
+      {
+       "label": "D",
+       "text": "他不喜欢聚会"
+      }
+     ]
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "女士对这套房子最大的担心是什么？",
+     "correctAnswer": "A",
+     "explanation": "女士说租金太高，一个月工资都不够付，说明她担心租金太贵，选项C正确。",
+     "audio": {
+      "key": "listening/v1/1cded5b45f9414244fe286870a128af842deb863aeb40c288a2153a215b43b72.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "这套房子你看怎么样？交通方便，附近还有超市。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "房子是不错，但租金太高了，我一个月工资都不够付。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "那再找找别的吧，别太勉强。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "嗯，我想再考虑一下。"
+       }
+      ],
+      "transcript": "这套房子你看怎么样？交通方便，附近还有超市。 房子是不错，但租金太高了，我一个月工资都不够付。 那再找找别的吧，别太勉强。 嗯，我想再考虑一下。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "租金太贵了"
+      },
+      {
+       "label": "B",
+       "text": "附近没有超市"
+      },
+      {
+       "label": "C",
+       "text": "交通不方便"
+      },
+      {
+       "label": "D",
+       "text": "房子质量不好"
+      }
+     ]
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "男士这次出差有什么遗憾？",
+     "correctAnswer": "B",
+     "explanation": "男士说连外滩都没时间去看，女士说可惜，说明遗憾是没有去外滩，选项B正确。",
+     "audio": {
+      "key": "listening/v1/c0ebe6d78283c52ab4bf50a972c8837ca7ed4e8fcefecfadfdaaf80e9e7a2b83.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你这次出差去上海，感觉怎么样？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "工作很顺利，就是太忙了，连外滩都没时间去看。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "那太可惜了，外滩夜景特别美。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "是啊，下次去一定抽空逛逛。"
+       }
+      ],
+      "transcript": "你这次出差去上海，感觉怎么样？ 工作很顺利，就是太忙了，连外滩都没时间去看。 那太可惜了，外滩夜景特别美。 是啊，下次去一定抽空逛逛。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "工作不顺利"
+      },
+      {
+       "label": "B",
+       "text": "没有去外滩"
+      },
+      {
+       "label": "C",
+       "text": "时间太多"
+      },
+      {
+       "label": "D",
+       "text": "错过了会议"
+      }
+     ]
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "关于女儿学钢琴，女士打算怎么做？",
+     "correctAnswer": "C",
+     "explanation": "女士说打算让她放松一段时间，也就是休息一下，所以选项B正确。",
+     "audio": {
+      "key": "listening/v1/9a31428db7121bb24d02a673145a4e9e0963d748f6d0390d1d68746609b8c7e5.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你女儿钢琴考过六级了吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "考过了，但她不太开心，说压力太大了。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "孩子这么小，别给太多压力，兴趣最重要。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你说得对，我打算让她放松一段时间。"
+       }
+      ],
+      "transcript": "你女儿钢琴考过六级了吗？ 考过了，但她不太开心，说压力太大了。 孩子这么小，别给太多压力，兴趣最重要。 你说得对，我打算让她放松一段时间。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "继续逼她练习"
+      },
+      {
+       "label": "B",
+       "text": "放弃钢琴"
+      },
+      {
+       "label": "C",
+       "text": "让她休息一下"
+      },
+      {
+       "label": "D",
+       "text": "给她报更高级的班"
+      }
+     ]
+    },
+    {
+     "id": "q7",
+     "type": "listening-mcq",
+     "prompt": "明天天气会怎样？",
+     "correctAnswer": "C",
+     "explanation": "女士说大降温可能下雪，所以天气变冷并可能下雪，选项C正确。",
+     "audio": {
+      "key": "listening/v1/052a9f162fe03bb59ccb95733a4243dc6b144a226b938492c0f6d02462eaa143.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你看新闻了吗？明天要大降温，可能下雪。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "真的吗？那我得赶紧把厚衣服找出来。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "对，还有出门注意路滑，别摔着了。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "好的，谢谢你提醒。"
+       }
+      ],
+      "transcript": "你看新闻了吗？明天要大降温，可能下雪。 真的吗？那我得赶紧把厚衣服找出来。 对，还有出门注意路滑，别摔着了。 好的，谢谢你提醒。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "升温"
+      },
+      {
+       "label": "B",
+       "text": "下雨"
+      },
+      {
+       "label": "C",
+       "text": "变冷并可能下雪"
+      },
+      {
+       "label": "D",
+       "text": "刮风"
+      }
+     ]
+    },
+    {
+     "id": "q8",
+     "type": "listening-mcq",
+     "prompt": "女士正在做什么？",
+     "correctAnswer": "B",
+     "explanation": "女士说第一次尝试做红烧肉，所以选项B正确。",
+     "audio": {
+      "key": "listening/v1/e853d21eaf485f78bc8c27d70b482a69bcbfdb10aea2a13379e3d63d959b1d49.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你最近在学做饭吗？我闻到了很香的菜味。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "是啊，我在网上学做红烧肉，第一次尝试，不知道味道怎么样。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "看起来颜色不错，肯定好吃。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "但愿吧，你等会儿尝尝，给我提点意见。"
+       }
+      ],
+      "transcript": "你最近在学做饭吗？我闻到了很香的菜味。 是啊，我在网上学做红烧肉，第一次尝试，不知道味道怎么样。 看起来颜色不错，肯定好吃。 但愿吧，你等会儿尝尝，给我提点意见。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "在网上买菜"
+      },
+      {
+       "label": "B",
+       "text": "第一次做红烧肉"
+      },
+      {
+       "label": "C",
+       "text": "学习炒菜技巧"
+      },
+      {
+       "label": "D",
+       "text": "邀请男士吃饭"
+      }
+     ]
+    },
+    {
+     "id": "q9",
+     "type": "listening-mcq",
+     "prompt": "关于面试，男士下周需要做什么？",
+     "correctAnswer": "A",
+     "explanation": "男士说通知他下周去复试，所以需要参加复试，选项A正确。",
+     "audio": {
+      "key": "listening/v1/16728e2a5e06575bc495578c90b40a0a220afbcf1bfde632cf7c9313d52c6cab.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你上周去面试的那家公司有消息了吗？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "有，他们通知我下周去复试。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "太好了！那你要好好准备，尤其是英语部分。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "嗯，我知道，我每天都在练习口语。"
+       }
+      ],
+      "transcript": "你上周去面试的那家公司有消息了吗？ 有，他们通知我下周去复试。 太好了！那你要好好准备，尤其是英语部分。 嗯，我知道，我每天都在练习口语。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "参加复试"
+      },
+      {
+       "label": "B",
+       "text": "参加培训"
+      },
+      {
+       "label": "C",
+       "text": "练习口语"
+      },
+      {
+       "label": "D",
+       "text": "等待通知"
+      }
+     ]
+    },
+    {
+     "id": "q10",
+     "type": "listening-mcq",
+     "prompt": "这周末女士要做什么？",
+     "correctAnswer": "C",
+     "explanation": "女士说这周末要去机场接她妈妈，所以选项B正确。",
+     "audio": {
+      "key": "listening/v1/adeebd6e8f130fd62c4e9212173e0731f38997cf321c37bb9b0a55dd0cad0d0a.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你周末有空吗？我们一起去爬山吧。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "这周末不行，我要去机场接我妈，她来北京看我。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "那下周末呢？天气应该也不错。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "下周末可以，到时候联系你。"
+       }
+      ],
+      "transcript": "你周末有空吗？我们一起去爬山吧。 这周末不行，我要去机场接我妈，她来北京看我。 那下周末呢？天气应该也不错。 下周末可以，到时候联系你。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "在家休息"
+      },
+      {
+       "label": "B",
+       "text": "去爬山"
+      },
+      {
+       "label": "C",
+       "text": "去机场接人"
+      },
+      {
+       "label": "D",
+       "text": "出差"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

@@ -1,0 +1,387 @@
+{
+ "id": "hsk3-listening-p303",
+ "level": "3",
+ "section": "listening",
+ "partKey": "listening-p3",
+ "title": "HSK3 Listening P3",
+ "titleZh": "听力 第三部分（听短文选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听录音，然后回答问题。每个问题有三个选项，选择正确的答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "说话人下午两点要去做什么？",
+     "correctAnswer": "A",
+     "explanation": "说话人说下午两点要去机场接朋友，所以是去机场接朋友。",
+     "audio": {
+      "key": "listening/v1/063f4c6dc47bd8f0de624c8960920ae1c535afa38d6a50449c507b5a686b8c6e.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "今天下午两点，我要去机场接我的朋友。他坐飞机从上海来。现在我先去超市买东西。"
+       }
+      ],
+      "transcript": "今天下午两点，我要去机场接我的朋友。他坐飞机从上海来。现在我先去超市买东西。",
+      "transcriptPinyin": "jīn tiān xià wǔ liǎng diǎn ， wǒ yào qù jī chǎng jiē wǒ de péng yǒu 。 tā zuò fēi jī cóng shàng hǎi lái 。 xiàn zài wǒ xiān qù chāo shì mǎi dōng xī 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "去机场接朋友",
+       "pinyin": "qù jī chǎng jiē péng yǒu"
+      },
+      {
+       "label": "B",
+       "text": "去上海",
+       "pinyin": "qù shàng hǎi"
+      },
+      {
+       "label": "C",
+       "text": "去超市",
+       "pinyin": "qù chāo shì"
+      }
+     ],
+     "pinyin": "shuō huà rén xià wǔ liǎng diǎn yào qù zuò shén me ？"
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "说话人中午在哪里吃饭？",
+     "correctAnswer": "C",
+     "explanation": "说话人说中午在公司附近的餐厅吃饭，所以选公司附近的餐厅。",
+     "audio": {
+      "key": "listening/v1/a564df51995657a3343e244389824a495a0f35f4367aea0ef7ea4645be49dd27.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我的家离公司很远，每天早上我坐地铁上班，大概要一个小时。中午我通常在公司附近的餐厅吃饭。"
+       }
+      ],
+      "transcript": "我的家离公司很远，每天早上我坐地铁上班，大概要一个小时。中午我通常在公司附近的餐厅吃饭。",
+      "transcriptPinyin": "wǒ de jiā lí gōng sī hěn yuǎn ， měi tiān zǎo shàng wǒ zuò dì tiě shàng bān ， dà gài yào yí gè xiǎo shí 。 zhōng wǔ wǒ tōng cháng zài gōng sī fù jìn de cān tīng chī fàn 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "在公司",
+       "pinyin": "zài gōng sī"
+      },
+      {
+       "label": "B",
+       "text": "在家里",
+       "pinyin": "zài jiā lǐ"
+      },
+      {
+       "label": "C",
+       "text": "在公司附近的餐厅",
+       "pinyin": "zài gōng sī fù jìn de cān tīng"
+      }
+     ],
+     "pinyin": "shuō huà rén zhōng wǔ zài nǎ lǐ chī fàn ？"
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "说话人买的书是关于什么的？",
+     "correctAnswer": "A",
+     "explanation": "书是关于中国历史的，所以选中国历史。",
+     "audio": {
+      "key": "listening/v1/5ba0b96f3a2d00fd97866c75f969c5f886aa84b0de336df1d053db788f92f18c.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "昨天我在网上买了一本书，是中文的，关于中国历史。今天早上快递员就把书送来了，真快。"
+       }
+      ],
+      "transcript": "昨天我在网上买了一本书，是中文的，关于中国历史。今天早上快递员就把书送来了，真快。",
+      "transcriptPinyin": "zuó tiān wǒ zài wǎng shàng mǎi le yī běn shū ， shì zhōng wén de ， guān yú zhōng guó lì shǐ 。 jīn tiān zǎo shàng kuài dì yuán jiù bǎ shū sòng lái le ， zhēn kuài 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "中国历史",
+       "pinyin": "zhōng guó lì shǐ"
+      },
+      {
+       "label": "B",
+       "text": "中国旅游",
+       "pinyin": "zhōng guó lǚ yóu"
+      },
+      {
+       "label": "C",
+       "text": "中国美食",
+       "pinyin": "zhōng guó měi shí"
+      }
+     ],
+     "pinyin": "shuō huà rén mǎi de shū shì guān yú shén me de ？"
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "说话人昨天做了什么运动？",
+     "correctAnswer": "B",
+     "explanation": "说话人说昨天跑了五公里，所以是跑步。",
+     "audio": {
+      "key": "listening/v1/069b1f78cb81a9dd5c1c3781c51c6a653b88c0fde870ab649888e8a4123e3da3.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我喜欢运动，每个周末都去跑步。昨天我跑了五公里，我觉得很累，但是很开心。"
+       }
+      ],
+      "transcript": "我喜欢运动，每个周末都去跑步。昨天我跑了五公里，我觉得很累，但是很开心。",
+      "transcriptPinyin": "wǒ xǐ huān yùn dòng ， měi gè zhōu mò dōu qù pǎo bù 。 zuó tiān wǒ pǎo le wǔ gōng lǐ ， wǒ jué de hěn lèi ， dàn shì hěn kāi xīn 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "打篮球",
+       "pinyin": "dǎ lán qiú"
+      },
+      {
+       "label": "B",
+       "text": "跑步",
+       "pinyin": "pǎo bù"
+      },
+      {
+       "label": "C",
+       "text": "游泳",
+       "pinyin": "yóu yǒng"
+      }
+     ],
+     "pinyin": "shuō huà rén zuó tiān zuò le shén me yùn dòng ？"
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "明天是谁的生日？",
+     "correctAnswer": "B",
+     "explanation": "说话人说“明天是我的生日”，所以是说话人的生日。",
+     "audio": {
+      "key": "listening/v1/0f34579f6a977a7ab49a56b9662ae145a2c8cf52615d33392f164c62da5dafd3.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "明天是我的生日，我打算请几个好朋友来家里吃饭。我妈妈会做很多好吃的菜。"
+       }
+      ],
+      "transcript": "明天是我的生日，我打算请几个好朋友来家里吃饭。我妈妈会做很多好吃的菜。",
+      "transcriptPinyin": "míng tiān shì wǒ de shēng rì ， wǒ dǎ suàn qǐng jǐ gè hǎo péng yǒu lái jiā lǐ chī fàn 。 wǒ mā mā huì zuò hěn duō hǎo chī de cài 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "说话人的妈妈",
+       "pinyin": "shuō huà rén de mā mā"
+      },
+      {
+       "label": "B",
+       "text": "说话人",
+       "pinyin": "shuō huà rén"
+      },
+      {
+       "label": "C",
+       "text": "说话人的朋友",
+       "pinyin": "shuō huà rén de péng yǒu"
+      }
+     ],
+     "pinyin": "míng tiān shì shéi de shēng rì ？"
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "说话人明天要去做什么？",
+     "correctAnswer": "A",
+     "explanation": "说话人说打算去买一个新的电脑，所以是买新电脑。",
+     "audio": {
+      "key": "listening/v1/096400e8441e6d23361eb73ddb86ad9bbc2a6af355679287018f22f542cc6d35.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我的电脑坏了，不能用了。我打算明天去商店买一个新的。那个商店离我家不远。"
+       }
+      ],
+      "transcript": "我的电脑坏了，不能用了。我打算明天去商店买一个新的。那个商店离我家不远。",
+      "transcriptPinyin": "wǒ de diàn nǎo huài le ， bù néng yòng le 。 wǒ dǎ suàn míng tiān qù shāng diàn mǎi yí gè xīn de 。 nà ge shāng diàn lí wǒ jiā bù yuǎn 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "买新电脑",
+       "pinyin": "mǎi xīn diàn nǎo"
+      },
+      {
+       "label": "B",
+       "text": "去朋友家",
+       "pinyin": "qù péng yǒu jiā"
+      },
+      {
+       "label": "C",
+       "text": "修电脑",
+       "pinyin": "xiū diàn nǎo"
+      }
+     ],
+     "pinyin": "shuō huà rén míng tiān yào qù zuò shén me ？"
+    },
+    {
+     "id": "q7",
+     "type": "listening-mcq",
+     "prompt": "这件衣服是谁送的？",
+     "correctAnswer": "B",
+     "explanation": "衣服是姐姐送的，所以选姐姐。",
+     "audio": {
+      "key": "listening/v1/3c65a494b4f5b4ca61e3295c0cb90abbdbfe209b041beaa17ff53bc7332ccc94.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "这件衣服是我姐姐送给我的，我很喜欢。今天天气很冷，我穿着它去上班。"
+       }
+      ],
+      "transcript": "这件衣服是我姐姐送给我的，我很喜欢。今天天气很冷，我穿着它去上班。",
+      "transcriptPinyin": "zhè jiàn yī fú shì wǒ jiě jiě sòng gěi wǒ de ， wǒ hěn xǐ huān 。 jīn tiān tiān qì hěn lěng ， wǒ chuān zhe tā qù shàng bān 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "朋友",
+       "pinyin": "péng yǒu"
+      },
+      {
+       "label": "B",
+       "text": "姐姐",
+       "pinyin": "jiě jiě"
+      },
+      {
+       "label": "C",
+       "text": "妈妈",
+       "pinyin": "mā mā"
+      }
+     ],
+     "pinyin": "zhè jiàn yī fú shì shuí sòng de ？"
+    },
+    {
+     "id": "q8",
+     "type": "listening-mcq",
+     "prompt": "说话人周末打算做什么？",
+     "correctAnswer": "B",
+     "explanation": "说话人说想去看电影，所以是看电影。",
+     "audio": {
+      "key": "listening/v1/0bf74c457ae0ea9dce43e422328cc94bd1213b502c98c7731e0087095132ef8f.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "这个周末我想去看电影。听说最近有一个新的电影很好看，是关于一个老师的。我还不知道那个电影的名字。"
+       }
+      ],
+      "transcript": "这个周末我想去看电影。听说最近有一个新的电影很好看，是关于一个老师的。我还不知道那个电影的名字。",
+      "transcriptPinyin": "zhè ge zhōu mò wǒ xiǎng qù kàn diàn yǐng 。 tīng shuō zuì jìn yǒu yí gè xīn de diàn yǐng hěn hǎo kàn ， shì guān yú yí gè lǎo shī de 。 wǒ hái bù zhī dào nà ge diàn yǐng de míng zì 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "见老师",
+       "pinyin": "jiàn lǎo shī"
+      },
+      {
+       "label": "B",
+       "text": "看电影",
+       "pinyin": "kàn diàn yǐng"
+      },
+      {
+       "label": "C",
+       "text": "看书",
+       "pinyin": "kàn shū"
+      }
+     ],
+     "pinyin": "shuō huà rén zhōu mò dǎ suàn zuò shén me ？"
+    },
+    {
+     "id": "q9",
+     "type": "listening-mcq",
+     "prompt": "说话人昨天在图书馆做了什么？",
+     "correctAnswer": "A",
+     "explanation": "说话人说昨天借了三本中文小说，所以是借书。",
+     "audio": {
+      "key": "listening/v1/05c2fe98f1249ce0e0cc598563650238a4fc090f0ee69803da3ad0d11a78b9f3.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我们学校有一个很大的图书馆，里面有很多书。我常常去那里借书看。昨天我借了三本中文小说。"
+       }
+      ],
+      "transcript": "我们学校有一个很大的图书馆，里面有很多书。我常常去那里借书看。昨天我借了三本中文小说。",
+      "transcriptPinyin": "wǒ men xué xiào yǒu yí gè hěn dà de tú shū guǎn ， lǐ miàn yǒu hěn duō shū 。 wǒ cháng cháng qù nà lǐ jiè shū kàn 。 zuó tiān wǒ jiè le sān běn zhōng wén xiǎo shuō 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "借书",
+       "pinyin": "jiè shū"
+      },
+      {
+       "label": "B",
+       "text": "还书",
+       "pinyin": "huán shū"
+      },
+      {
+       "label": "C",
+       "text": "看书",
+       "pinyin": "kàn shū"
+      }
+     ],
+     "pinyin": "shuō huà rén zuó tiān zài tú shū guǎn zuò le shén me ？"
+    },
+    {
+     "id": "q10",
+     "type": "listening-mcq",
+     "prompt": "说话人打算送同事什么礼物？",
+     "correctAnswer": "C",
+     "explanation": "说话人说送一个茶壶不错，所以是茶壶。",
+     "audio": {
+      "key": "listening/v1/07accd74ee6e62a3a3e9b99a83b6ffb4800784a368c22cee64f5da7ef6d2b281.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我的一个同事下个月要结婚了。我们打算一起送他一个礼物。我觉得送一个茶壶不错，因为中国人喜欢喝茶。"
+       }
+      ],
+      "transcript": "我的一个同事下个月要结婚了。我们打算一起送他一个礼物。我觉得送一个茶壶不错，因为中国人喜欢喝茶。",
+      "transcriptPinyin": "wǒ de yí gè tóng shì xià gè yuè yào jié hūn le 。 wǒ men dǎ suàn yì qǐ sòng tā yí gè lǐ wù 。 wǒ jué de sòng yí gè chá hú bù cuò ， yīn wèi zhōng guó rén xǐ huān hē chá 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "书",
+       "pinyin": "shū"
+      },
+      {
+       "label": "B",
+       "text": "花",
+       "pinyin": "huā"
+      },
+      {
+       "label": "C",
+       "text": "茶壶",
+       "pinyin": "chá hú"
+      }
+     ],
+     "pinyin": "shuō huà rén dǎ suàn sòng tóng shì shén me lǐ wù ？"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

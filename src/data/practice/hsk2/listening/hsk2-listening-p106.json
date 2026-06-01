@@ -1,0 +1,117 @@
+{
+ "id": "hsk2-listening-p106",
+ "level": "2",
+ "section": "listening",
+ "partKey": "listening-p1",
+ "title": "HSK2 Listening P1",
+ "titleZh": "听力 第一部分（看图判断）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听句子，然后看图片，判断句子描述是否与图片内容一致。一致的选“对”，不一致的选“错”。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "对",
+     "explanation": "句子说他在看书，图片中的人正在看书，内容一致。",
+     "audio": {
+      "key": "listening/v1/7318ea0dc2137fa427d38433371a44eaf2da442fe62f92d73c3dcce8f7c51de3.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "他在看书。"
+       }
+      ],
+      "transcript": "他在看书。",
+      "transcriptPinyin": "tā zài kàn shū 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-aaf923faa1bb4935c61443c5db865bc1.png"
+    },
+    {
+     "id": "q2",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "错",
+     "explanation": "句子说桌子上有一个苹果，但图片中桌子上放的是香蕉，不是苹果。",
+     "audio": {
+      "key": "listening/v1/3a23894d5ed4c0169e66fe85ef0931cd5f77d7eed67876b660e212670e57e65b.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "桌子上有一个苹果。"
+       }
+      ],
+      "transcript": "桌子上有一个苹果。",
+      "transcriptPinyin": "zhuō zi shàng yǒu yí gè píng guǒ 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-82ffdfd0283228347009d4ed76c73137.png"
+    },
+    {
+     "id": "q3",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "对",
+     "explanation": "句子说她正在跑步，图片中的女子在跑步，内容一致。",
+     "audio": {
+      "key": "listening/v1/e52bc66bdbb7acbd6061621a682ef012c0bb73b1c8efb387b1f20497e737e4dc.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "她正在跑步。"
+       }
+      ],
+      "transcript": "她正在跑步。",
+      "transcriptPinyin": "tā zhèng zài pǎo bù 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-aac9e64f10fa4fa5667f0336e777640b.png"
+    },
+    {
+     "id": "q4",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "错",
+     "explanation": "句子说猫在椅子下面，但图片中猫在椅子上面，位置不同。",
+     "audio": {
+      "key": "listening/v1/78a8f148fdd11110bb2359a59462ba2209583d649fa4acb25c3bef125910eeff.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "猫在椅子下面。"
+       }
+      ],
+      "transcript": "猫在椅子下面。",
+      "transcriptPinyin": "māo zài yǐ zi xià miàn 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-bfc6eb1faf610c29acd9087db4759de6.png"
+    },
+    {
+     "id": "q5",
+     "type": "listening-picture-true-false",
+     "prompt": "",
+     "correctAnswer": "错",
+     "explanation": "句子说他喝咖啡，图片中的男子正在喝东西，且杯子里的液体颜色像咖啡，内容一致。",
+     "audio": {
+      "key": "listening/v1/40bcc53c9c297ebf8cf551783e26d806eebe66fd482ddf0ca8050c35bf140d0b.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "他喝咖啡。"
+       }
+      ],
+      "transcript": "他喝咖啡。",
+      "transcriptPinyin": "tā hē kā fēi 。"
+     },
+     "imageUrl": "/api/practice-image?key=images/v1/scene-89b6a8482b3668ada52fc469602f7dfe.png"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

@@ -1,0 +1,507 @@
+{
+ "id": "hsk5-listening-p116",
+ "level": "5",
+ "section": "listening",
+ "partKey": "listening-p1",
+ "title": "HSK5 Listening P1",
+ "titleZh": "听力 第一部分（听对话选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "下面是10个HSK5听力题，每个题包含一段男女对话和一个问题，请从四个选项中选出正确答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "关于旅行计划，两个人主要讨论了什么？",
+     "correctAnswer": "B",
+     "explanation": "对话中两人在讨论暑假旅行目的地，男想去云南，女推荐新疆，最终又说到云南的大理和丽江，所以主要讨论的是去哪里旅行。",
+     "audio": {
+      "key": "listening/v1/de370af2a3604090cc92890cd6f8d9deee6e13669e337764b944c62f7257b5de.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你暑假打算去哪儿旅行？我正考虑去云南，听说那边风景很美。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "云南确实不错，但我觉得新疆更有特色，而且现在机票也便宜。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "新疆太远了，我怕时间不够。云南离得近，可以多玩几天。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "那倒也是。不过你要是去云南，一定要去大理和丽江，别错过。"
+       }
+      ],
+      "transcript": "你暑假打算去哪儿旅行？我正考虑去云南，听说那边风景很美。 云南确实不错，但我觉得新疆更有特色，而且现在机票也便宜。 新疆太远了，我怕时间不够。云南离得近，可以多玩几天。 那倒也是。不过你要是去云南，一定要去大理和丽江，别错过。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "旅行的交通方式"
+      },
+      {
+       "label": "B",
+       "text": "去哪里旅行"
+      },
+      {
+       "label": "C",
+       "text": "旅行的时间安排"
+      },
+      {
+       "label": "D",
+       "text": "旅行的预算"
+      }
+     ]
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "女人给男人什么建议？",
+     "correctAnswer": "B",
+     "explanation": "女人说“我建议你准备几个问题，面试的时候可以主动问一下”，所以建议是准备问题主动提问。",
+     "audio": {
+      "key": "listening/v1/d4ac87b59e2b889540534531f2defa3027f99b32e9cd03a77d52796d693151f9.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "听说你明天要去参加一个面试，准备得怎么样了？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "还行吧，我把自我介绍背熟了，还了解了一下那家公司的背景。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "那很好，不过我建议你准备几个问题，面试的时候可以主动问一下。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "有道理，比如问公司的培训机会或者职业发展路径？"
+       }
+      ],
+      "transcript": "听说你明天要去参加一个面试，准备得怎么样了？ 还行吧，我把自我介绍背熟了，还了解了一下那家公司的背景。 那很好，不过我建议你准备几个问题，面试的时候可以主动问一下。 有道理，比如问公司的培训机会或者职业发展路径？",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "把自我介绍背熟"
+      },
+      {
+       "label": "B",
+       "text": "准备几个问题主动问"
+      },
+      {
+       "label": "C",
+       "text": "问公司文化和氛围"
+      },
+      {
+       "label": "D",
+       "text": "了解公司背景"
+      }
+     ]
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "男人对那套房子最不满意的是什么？",
+     "correctAnswer": "C",
+     "explanation": "男人说“装修很旧，而且租金太高了”，后来女人提到装修可以自己弄，但房东不肯降价，所以最不满意的是租金太高。",
+     "audio": {
+      "key": "listening/v1/0955c1fe3d2f51b90822cd455ff0d2479b2f524ddc8053a7b1899412dd21f6bb.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我昨天去看了一套房子，位置不错，但装修很旧，而且租金太高了。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "那你怎么考虑的？我觉得装修可以自己简单弄一下，关键是位置和价格。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我也这么想，但房东不肯降价，所以我还在犹豫。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "要不再看看别的？毕竟租房不能着急，多比较几家。"
+       }
+      ],
+      "transcript": "我昨天去看了一套房子，位置不错，但装修很旧，而且租金太高了。 那你怎么考虑的？我觉得装修可以自己简单弄一下，关键是位置和价格。 我也这么想，但房东不肯降价，所以我还在犹豫。 要不再看看别的？毕竟租房不能着急，多比较几家。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "位置不好"
+      },
+      {
+       "label": "B",
+       "text": "装修太旧"
+      },
+      {
+       "label": "C",
+       "text": "租金太高"
+      },
+      {
+       "label": "D",
+       "text": "房东态度差"
+      }
+     ]
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "女人目前为什么失眠？",
+     "correctAnswer": "A",
+     "explanation": "女人只说最近失眠，但没有说明原因；男人给了建议，但女人没有提到失眠的原因，所以对话中没有说明。",
+     "audio": {
+      "key": "listening/v1/6f8ea11a6a62c9c72989ba71da53ef9440bff06fabe56a9bebb4cf948e250d23.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "最近我老是失眠，白天没精神，你有什么好办法吗？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你试试睡前喝杯热牛奶，或者做做瑜伽，放松一下。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我试过喝牛奶，没什么用。瑜伽倒是没试过。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "那你可以找个老师学一下，另外睡前别玩手机了，那东西太影响睡眠。"
+       }
+      ],
+      "transcript": "最近我老是失眠，白天没精神，你有什么好办法吗？ 你试试睡前喝杯热牛奶，或者做做瑜伽，放松一下。 我试过喝牛奶，没什么用。瑜伽倒是没试过。 那你可以找个老师学一下，另外睡前别玩手机了，那东西太影响睡眠。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "对话中没有说明"
+      },
+      {
+       "label": "B",
+       "text": "睡前喝牛奶"
+      },
+      {
+       "label": "C",
+       "text": "工作压力太大"
+      },
+      {
+       "label": "D",
+       "text": "白天睡多了"
+      }
+     ]
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "女人的兴趣爱好是什么？",
+     "correctAnswer": "C",
+     "explanation": "女人说自己喜欢画画，周末去写生，也和朋友爬山，所以她的兴趣爱好是画画和爬山。",
+     "audio": {
+      "key": "listening/v1/7e92e64b66ad0eb98b3f3f9b109be05ebfe7d0a41b0366d43295916fa9a0713e.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你周末一般都干什么？我最近迷上了摄影，经常出去拍照。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我比较喜欢画画，周末会去公园写生。有时候也和朋友一起爬山。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "那很不错啊，摄影和画画都是艺术，什么时候我帮你拍几张照片？"
+       }
+      ],
+      "transcript": "你周末一般都干什么？我最近迷上了摄影，经常出去拍照。 我比较喜欢画画，周末会去公园写生。有时候也和朋友一起爬山。 那很不错啊，摄影和画画都是艺术，什么时候我帮你拍几张照片？",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "爬山和摄影"
+      },
+      {
+       "label": "B",
+       "text": "写生和拍照"
+      },
+      {
+       "label": "C",
+       "text": "画画和爬山"
+      },
+      {
+       "label": "D",
+       "text": "摄影"
+      }
+     ]
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "男人对那件衣服有什么不满意？",
+     "correctAnswer": "A",
+     "explanation": "男人说“我觉得有点紧了”，所以不满意的是穿着太紧。",
+     "audio": {
+      "key": "listening/v1/75848cd9536c64a0d58b6f109334cd0f00959b9cb2f3dc44a6ca017fe3785e19.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "这件衣服你穿着真好看，颜色也很衬你的皮肤。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "是吗？我觉得有点紧了，而且价格也不便宜，五百多块呢。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "现在商场都在打折，你可以试试别的品牌，也许有更合适的。"
+       }
+      ],
+      "transcript": "这件衣服你穿着真好看，颜色也很衬你的皮肤。 是吗？我觉得有点紧了，而且价格也不便宜，五百多块呢。 现在商场都在打折，你可以试试别的品牌，也许有更合适的。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "穿着太紧"
+      },
+      {
+       "label": "B",
+       "text": "没有折扣"
+      },
+      {
+       "label": "C",
+       "text": "价格太贵"
+      },
+      {
+       "label": "D",
+       "text": "颜色不好看"
+      }
+     ]
+    },
+    {
+     "id": "q7",
+     "type": "listening-mcq",
+     "prompt": "女人建议男人做什么？",
+     "correctAnswer": "B",
+     "explanation": "女人说“你多看看错题本，别再看新题了”，所以建议男人看错题本。",
+     "audio": {
+      "key": "listening/v1/bc17f14cf268c4c35baa0d83b70bfb4729583d0dc114dfde81b6524e563234d8.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你准备得怎么样了？明天就考试了，我有点紧张。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "别紧张，我复习了好几遍，应该没问题。你多看看错题本，别再看新题了。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "好的，我今晚早点睡，明天精神好一些。"
+       }
+      ],
+      "transcript": "你准备得怎么样了？明天就考试了，我有点紧张。 别紧张，我复习了好几遍，应该没问题。你多看看错题本，别再看新题了。 好的，我今晚早点睡，明天精神好一些。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "放松紧张"
+      },
+      {
+       "label": "B",
+       "text": "看错题本"
+      },
+      {
+       "label": "C",
+       "text": "早点睡觉"
+      },
+      {
+       "label": "D",
+       "text": "多做新题"
+      }
+     ]
+    },
+    {
+     "id": "q8",
+     "type": "listening-mcq",
+     "prompt": "女人打算怎么解决上班交通问题？",
+     "correctAnswer": "C",
+     "explanation": "女人说“我还是考虑早点出门吧”，所以她的解决办法是早点出门。",
+     "audio": {
+      "key": "listening/v1/220f2d954745d289535da0c1931de10ff044482ec571c779bec51fce7184e92c.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "地铁又晚点了，我上班快迟到了。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "唉，最近总是这样。要不你以后换个交通工具，比如骑共享单车？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "骑单车太远了，要四十分钟呢。我还是考虑早点出门吧。"
+       }
+      ],
+      "transcript": "地铁又晚点了，我上班快迟到了。 唉，最近总是这样。要不你以后换个交通工具，比如骑共享单车？ 骑单车太远了，要四十分钟呢。我还是考虑早点出门吧。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "换工作"
+      },
+      {
+       "label": "B",
+       "text": "换乘公交车"
+      },
+      {
+       "label": "C",
+       "text": "早点出门"
+      },
+      {
+       "label": "D",
+       "text": "骑共享单车"
+      }
+     ]
+    },
+    {
+     "id": "q9",
+     "type": "listening-mcq",
+     "prompt": "如果明天下暴雨，他们打算做什么？",
+     "correctAnswer": "B",
+     "explanation": "女人建议改去室内的博物馆，男人同意了，所以他们打算去博物馆。",
+     "audio": {
+      "key": "listening/v1/f69bf3f2982f3fdad877a2a3a87828f8a14ac1c8cea06b82fc300aef3a721280.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "明天天气预报说有暴雨，我们计划的户外活动可能要取消了。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "是啊，安全第一。要不我们改去室内的博物馆？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "好主意，我查一下博物馆的开放时间。"
+       }
+      ],
+      "transcript": "明天天气预报说有暴雨，我们计划的户外活动可能要取消了。 是啊，安全第一。要不我们改去室内的博物馆？ 好主意，我查一下博物馆的开放时间。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "继续户外活动"
+      },
+      {
+       "label": "B",
+       "text": "去博物馆"
+      },
+      {
+       "label": "C",
+       "text": "取消活动"
+      },
+      {
+       "label": "D",
+       "text": "查天气预报"
+      }
+     ]
+    },
+    {
+     "id": "q10",
+     "type": "listening-mcq",
+     "prompt": "男人给女人什么建议？",
+     "correctAnswer": "D",
+     "explanation": "男人说“你不如也试试飞机，有时候特价机票比高铁还便宜”，所以建议买特价机票。",
+     "audio": {
+      "key": "listening/v1/13f35e88de83772cbaab0c87091116ed7c1ce71e1c9e894a23cb3bccd3f94bd4.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "春节你回家吗？我抢不到火车票，正发愁呢。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我今年不回去了，打算跟朋友一起自驾游。你不如也试试飞机，有时候特价机票比高铁还便宜。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "真的吗？那我查查有没有合适的航班。"
+       }
+      ],
+      "transcript": "春节你回家吗？我抢不到火车票，正发愁呢。 我今年不回去了，打算跟朋友一起自驾游。你不如也试试飞机，有时候特价机票比高铁还便宜。 真的吗？那我查查有没有合适的航班。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "跟朋友一起回"
+      },
+      {
+       "label": "B",
+       "text": "自驾游"
+      },
+      {
+       "label": "C",
+       "text": "坐火车回家"
+      },
+      {
+       "label": "D",
+       "text": "买特价机票"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

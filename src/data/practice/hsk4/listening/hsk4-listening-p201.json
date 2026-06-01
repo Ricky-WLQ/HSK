@@ -1,0 +1,179 @@
+{
+ "id": "hsk4-listening-p201",
+ "level": "4",
+ "section": "listening",
+ "partKey": "listening-p2",
+ "title": "HSK4 Listening P2",
+ "titleZh": "听力 第二部分（听短文选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听下面一段独白，然后根据独白内容选择正确答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "李明的大学在哪个城市？",
+     "correctAnswer": "D",
+     "explanation": "独白中明确提到'我的大学在北京'，所以大学在北京。",
+     "options": [
+      {
+       "label": "A",
+       "text": "上海"
+      },
+      {
+       "label": "B",
+       "text": "深圳"
+      },
+      {
+       "label": "C",
+       "text": "广州"
+      },
+      {
+       "label": "D",
+       "text": "北京"
+      }
+     ]
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "李明最喜欢的地方是哪里？",
+     "correctAnswer": "C",
+     "explanation": "独白中说'我最喜欢的地方是图书馆'，所以答案是图书馆。",
+     "options": [
+      {
+       "label": "A",
+       "text": "食堂"
+      },
+      {
+       "label": "B",
+       "text": "操场"
+      },
+      {
+       "label": "C",
+       "text": "图书馆"
+      },
+      {
+       "label": "D",
+       "text": "宿舍"
+      }
+     ]
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "李明和几个同学一起住宿舍？",
+     "correctAnswer": "D",
+     "explanation": "独白中说'和三个同学一起住'，所以是三个同学。",
+     "options": [
+      {
+       "label": "A",
+       "text": "四个"
+      },
+      {
+       "label": "B",
+       "text": "五个"
+      },
+      {
+       "label": "C",
+       "text": "两个"
+      },
+      {
+       "label": "D",
+       "text": "三个"
+      }
+     ]
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "李明每个周末会做什么？",
+     "correctAnswer": "A",
+     "explanation": "独白中提到'每个周末，我会参加学校的志愿者活动'，所以是做志愿者。",
+     "options": [
+      {
+       "label": "A",
+       "text": "做志愿者"
+      },
+      {
+       "label": "B",
+       "text": "学习"
+      },
+      {
+       "label": "C",
+       "text": "打篮球"
+      },
+      {
+       "label": "D",
+       "text": "看电影"
+      }
+     ]
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "李明觉得大学生活怎么样？",
+     "correctAnswer": "C",
+     "explanation": "独白最后说'我觉得大学生活很充实'，所以答案是很充实。",
+     "options": [
+      {
+       "label": "A",
+       "text": "很累"
+      },
+      {
+       "label": "B",
+       "text": "很轻松"
+      },
+      {
+       "label": "C",
+       "text": "很充实"
+      },
+      {
+       "label": "D",
+       "text": "很无聊"
+      }
+     ]
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "关于图书馆，下面哪个说法正确？",
+     "correctAnswer": "A",
+     "explanation": "独白中描述图书馆'那里很安静'，所以正确的说法是图书馆很安静。",
+     "options": [
+      {
+       "label": "A",
+       "text": "很安静"
+      },
+      {
+       "label": "B",
+       "text": "可以打篮球"
+      },
+      {
+       "label": "C",
+       "text": "饭菜好吃"
+      },
+      {
+       "label": "D",
+       "text": "人很多"
+      }
+     ]
+    }
+   ],
+   "audio": {
+    "key": "listening/v1/27ce8349d5b439f4eaa66ac6c0bb4253fe151b8e96510240e3f1420825e01d9e.mp3",
+    "lines": [
+     {
+      "speaker": "旁白",
+      "voice": "narrator",
+      "text": "大家好，我是李明。今天我想跟大家分享我的大学生活。我的大学在北京，校园很大，有各种设施。我最喜欢的地方是图书馆，那里很安静，学习气氛很好。食堂的饭菜也不错，价格不贵。我住在学校宿舍，和三个同学一起住，关系很好。我们经常一起打篮球或者看电影。每个周末，我会参加学校的志愿者活动，帮助社区的老人。我觉得大学生活很充实，也学到了很多知识。"
+     }
+    ],
+    "transcript": "大家好，我是李明。今天我想跟大家分享我的大学生活。我的大学在北京，校园很大，有各种设施。我最喜欢的地方是图书馆，那里很安静，学习气氛很好。食堂的饭菜也不错，价格不贵。我住在学校宿舍，和三个同学一起住，关系很好。我们经常一起打篮球或者看电影。每个周末，我会参加学校的志愿者活动，帮助社区的老人。我觉得大学生活很充实，也学到了很多知识。",
+    "transcriptPinyin": null
+   }
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

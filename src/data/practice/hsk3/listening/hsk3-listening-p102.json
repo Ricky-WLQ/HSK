@@ -1,0 +1,289 @@
+{
+ "id": "hsk3-listening-p102",
+ "level": "3",
+ "section": "listening",
+ "partKey": "listening-p1",
+ "title": "HSK3 Listening P1",
+ "titleZh": "听力 第一部分（看图听对话）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听下面的对话，然后从A-F的六张图片中选出与每个对话内容相符的图片。每张图片可以被多次选择，但有一张图片不会被用到。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "A",
+     "explanation": "对话中说到‘我在看书’，与图片A中男人在沙发上看书相符。",
+     "audio": {
+      "key": "listening/v1/49feb401e659459c1a28c83e607397e0f0a9ae3ebff7992f4b971a84e5e95461.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你在干什么？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我在看书，这本书很有意思。"
+       }
+      ],
+      "transcript": "你在干什么？ 我在看书，这本书很有意思。",
+      "transcriptPinyin": "nǐ zài gàn shén me ？  wǒ zài kàn shū ， zhè běn shū hěn yǒu yì si 。"
+     }
+    },
+    {
+     "id": "q2",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "A",
+     "explanation": "对话提到坐在沙发上的人正在看书，与图片A一致。",
+     "audio": {
+      "key": "listening/v1/3a2f1f226a0d6eaea7dd1423c36d75681f097b7df5acf25511620b0344be5d00.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你看，他坐在沙发上。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "对，他正在看书。"
+       }
+      ],
+      "transcript": "你看，他坐在沙发上。 对，他正在看书。",
+      "transcriptPinyin": "nǐ kàn ， tā zuò zài shā fā shàng 。  duì ， tā zhèng zài kàn shū 。"
+     }
+    },
+    {
+     "id": "q3",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "B",
+     "explanation": "对话提到‘煮面条’和‘厨房’，与图片B中女人在厨房煮面条相符。",
+     "audio": {
+      "key": "listening/v1/af3ff08eac03d60a54452c427c060bcbc22b8d0bcd079f296aaa54cbf0982c2a.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "厨房里谁在做饭？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "妈妈在煮面条。"
+       }
+      ],
+      "transcript": "厨房里谁在做饭？ 妈妈在煮面条。",
+      "transcriptPinyin": "chú fáng lǐ shuí zài zuò fàn ？  mā mā zài zhǔ miàn tiáo 。"
+     }
+    },
+    {
+     "id": "q4",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "B",
+     "explanation": "对话说自己在煮面条，与图片B女人煮面条一致。",
+     "audio": {
+      "key": "listening/v1/78d628c1c05808f9aaf99d778bcbaf1dcf10cda85786fc3df081da9f029a0451.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你闻到了吗？好香啊！"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "是的，我正在煮面条呢。"
+       }
+      ],
+      "transcript": "你闻到了吗？好香啊！ 是的，我正在煮面条呢。",
+      "transcriptPinyin": "nǐ wén dào le ma ？ hǎo xiāng a ！  shì de ， wǒ zhèng zài zhǔ miàn tiáo ne 。"
+     }
+    },
+    {
+     "id": "q5",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "C",
+     "explanation": "对话提到男孩在打篮球，与图片C中男孩打篮球相符。",
+     "audio": {
+      "key": "listening/v1/43850e1679160863da7c4c232d8dbdd9601ddbed527ba4c30e8f21e56ba693ce.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "外面那个男孩在做什么？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "他在打篮球。"
+       }
+      ],
+      "transcript": "外面那个男孩在做什么？ 他在打篮球。",
+      "transcriptPinyin": "wài miàn nà ge nán hái zài zuò shén me ？  tā zài dǎ lán qiú 。"
+     }
+    },
+    {
+     "id": "q6",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "C",
+     "explanation": "对话谈论男孩打篮球，与图片C一致。",
+     "audio": {
+      "key": "listening/v1/22a93aae40f91602bd69ff9638a184bc6f06798f37f86a7aac47aa3cdc6e4f26.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你会打篮球吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我不会，但那个男孩打得很好。"
+       }
+      ],
+      "transcript": "你会打篮球吗？ 我不会，但那个男孩打得很好。",
+      "transcriptPinyin": "nǐ huì dǎ lán qiú ma ？  wǒ bú huì ， dàn nà ge nán hái dǎ dé hěn hǎo 。"
+     }
+    },
+    {
+     "id": "q7",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "D",
+     "explanation": "对话说自己在写信，与图片D中女孩在写信相符。",
+     "audio": {
+      "key": "listening/v1/8d67b7040ecb2a928295dba3defe0f204c693862369e6072a4c15d28553d3f20.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你在写什么？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我在给朋友写信。"
+       }
+      ],
+      "transcript": "你在写什么？ 我在给朋友写信。",
+      "transcriptPinyin": "nǐ zài xiě shén me ？  wǒ zài gěi péng yǒu xiě xìn 。"
+     }
+    },
+    {
+     "id": "q8",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "D",
+     "explanation": "对话提到在桌子前写信，与图片D一致。",
+     "audio": {
+      "key": "listening/v1/bb3230d90a9fdacc1b3939e85a625c696c3e1ec813ab04e8c66897e7499c7883.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "她正在桌子前写东西。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "是的，她在写信。"
+       }
+      ],
+      "transcript": "她正在桌子前写东西。 是的，她在写信。",
+      "transcriptPinyin": "tā zhèng zài zhuō zi qián xiě dōng xī 。  shì de ， tā zài xiě xìn 。"
+     }
+    },
+    {
+     "id": "q9",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "E",
+     "explanation": "对话说猫在椅子上睡觉，与图片E中猫在椅子上睡觉相符。",
+     "audio": {
+      "key": "listening/v1/42021df847c05edddab0f42420b5a910f90716c5a1c5898a6550d0903e1ccb05.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "那只猫在哪儿？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "它正在椅子上睡觉。"
+       }
+      ],
+      "transcript": "那只猫在哪儿？ 它正在椅子上睡觉。",
+      "transcriptPinyin": "nà zhǐ māo zài nǎ ér ？  tā zhèng zài yǐ zi shàng shuì jiào 。"
+     }
+    },
+    {
+     "id": "q10",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "E",
+     "explanation": "对话再次确认猫在椅子上睡觉，与图片E一致。",
+     "audio": {
+      "key": "listening/v1/85973455a9fdcf7942868ff770fe2e2b5dcdb2262881e0de13d6bd750b652d28.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你看那只猫，它睡得很香。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "是的，它在椅子上睡觉呢。"
+       }
+      ],
+      "transcript": "你看那只猫，它睡得很香。 是的，它在椅子上睡觉呢。",
+      "transcriptPinyin": "nǐ kàn nà zhǐ māo ， tā shuì dé hěn xiāng 。  shì de ， tā zài yǐ zi shàng shuì jiào ne 。"
+     }
+    }
+   ],
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-2ae9e735cd25f06c07d9341f76394fc9.png"
+    },
+    {
+     "label": "B",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-21592d6b9394e15740b05dd44c1bd1c2.png"
+    },
+    {
+     "label": "C",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-845bf37102ba11bae762fc1e322d9c64.png"
+    },
+    {
+     "label": "D",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-2b976b64ed9e8b043460203ded9802bf.png"
+    },
+    {
+     "label": "E",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-bfaaf384903ffcf66d87902221fa7b31.png"
+    },
+    {
+     "label": "F",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-515f91b6c90dcc78c8025747b3e074c4.png"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

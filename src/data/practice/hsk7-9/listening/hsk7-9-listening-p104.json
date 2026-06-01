@@ -1,0 +1,64 @@
+{
+ "id": "hsk7-9-listening-p104",
+ "level": "7-9",
+ "section": "listening",
+ "partKey": "listening-p1",
+ "title": "HSK7-9 Listening P1",
+ "titleZh": "听力 第一部分（判断对错）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请根据录音内容判断下列句子的对错。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-statement-true-false",
+     "prompt": "每年流入海洋的塑料垃圾超过1100万吨。",
+     "correctAnswer": "对",
+     "explanation": "录音中明确提到“全球每年有超过1100万吨塑料垃圾流入海洋”，所以这句话正确。"
+    },
+    {
+     "id": "q2",
+     "type": "listening-statement-true-false",
+     "prompt": "微塑料不会通过食物链影响人类健康。",
+     "correctAnswer": "错",
+     "explanation": "录音中指出“微塑料可以通过食物链进入人体，对健康造成潜在危害”，因此这句话与录音内容相反。"
+    },
+    {
+     "id": "q3",
+     "type": "listening-statement-true-false",
+     "prompt": "各国政府已经有效地解决了塑料污染问题。",
+     "correctAnswer": "错",
+     "explanation": "录音中说“各国政府已采取措施限制一次性塑料制品的使用，但目前的减排速度远不足以应对危机”，因此并未有效解决，所以错误。"
+    },
+    {
+     "id": "q4",
+     "type": "listening-statement-true-false",
+     "prompt": "科学家只建议从源头减少塑料生产。",
+     "correctAnswer": "错",
+     "explanation": "录音中科学家呼吁“从源头减少塑料生产，并推广可降解材料的应用”，是两个方面，不仅仅是源头减少，所以“只”字使这句话错误。"
+    },
+    {
+     "id": "q5",
+     "type": "listening-statement-true-false",
+     "prompt": "塑料垃圾在海洋中会分解成微塑料。",
+     "correctAnswer": "对",
+     "explanation": "录音中明确说“这些塑料在海洋中分解成微塑料”，所以正确。"
+    }
+   ],
+   "audio": {
+    "key": "listening/v1/425ed5626f6fee4d8e8ef04336b27e6f1f80c6015fdea0e6e1735daa18ad6ea9.mp3",
+    "lines": [
+     {
+      "speaker": "旁白",
+      "voice": "narrator",
+      "text": "一项新的研究报告指出，全球每年有超过1100万吨塑料垃圾流入海洋，这些塑料在海洋中分解成微塑料，对海洋生态系统构成严重威胁。微塑料可以通过食物链进入人体，对健康造成潜在危害。报告强调，尽管各国政府已采取措施限制一次性塑料制品的使用，但目前的减排速度远不足以应对危机。科学家呼吁加强国际合作，从源头减少塑料生产，并推广可降解材料的应用。"
+     }
+    ],
+    "transcript": "一项新的研究报告指出，全球每年有超过1100万吨塑料垃圾流入海洋，这些塑料在海洋中分解成微塑料，对海洋生态系统构成严重威胁。微塑料可以通过食物链进入人体，对健康造成潜在危害。报告强调，尽管各国政府已采取措施限制一次性塑料制品的使用，但目前的减排速度远不足以应对危机。科学家呼吁加强国际合作，从源头减少塑料生产，并推广可降解材料的应用。",
+    "transcriptPinyin": null
+   }
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

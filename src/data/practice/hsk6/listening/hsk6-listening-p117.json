@@ -1,0 +1,313 @@
+{
+ "id": "hsk6-listening-p117",
+ "level": "6",
+ "section": "listening",
+ "partKey": "listening-p1",
+ "title": "HSK6 Listening P1",
+ "titleZh": "听力 第一部分（听新闻选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听以下新闻片段，然后回答问题。每段录音只播放一遍。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "根据录音，下列哪项是导致睡眠不足的主要原因？",
+     "correctAnswer": "A",
+     "explanation": "录音明确提到工作压力大和电子设备使用过度是影响睡眠的主要因素。",
+     "audio": {
+      "key": "listening/v1/8a8e1c058d165859d50e42545a09a68e9983d5b9e118f59cbf78f5b8c367c7ba.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "近日，一项关于城市居民睡眠质量的调查显示，超过六成受访者表示存在睡眠不足的问题。其中，工作压力大和电子设备使用过度被列为影响睡眠的主要因素。专家建议，成年人应保证每晚七到九小时的睡眠时间，并建议在睡前减少电子设备的使用。"
+       }
+      ],
+      "transcript": "近日，一项关于城市居民睡眠质量的调查显示，超过六成受访者表示存在睡眠不足的问题。其中，工作压力大和电子设备使用过度被列为影响睡眠的主要因素。专家建议，成年人应保证每晚七到九小时的睡眠时间，并建议在睡前减少电子设备的使用。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "工作压力和电子设备使用"
+      },
+      {
+       "label": "B",
+       "text": "缺乏体育锻炼"
+      },
+      {
+       "label": "C",
+       "text": "饮食不规律"
+      },
+      {
+       "label": "D",
+       "text": "居住环境嘈杂"
+      }
+     ]
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "根据录音，新能源汽车销量增长的主要推动因素是什么？",
+     "correctAnswer": "D",
+     "explanation": "录音指出销量增长主要得益于技术进步和充电基础设施的完善。",
+     "audio": {
+      "key": "listening/v1/91719bdd83a74e4d4c38f10236967e29d83c7b958895599ba0d4430fd45ef78d.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "国家统计局发布的最新数据显示，今年上半年，我国新能源汽车销量同比增长超过百分之五十，市场占有率首次突破百分之三十。分析人士指出，这主要得益于技术进步和充电基础设施的完善。"
+       }
+      ],
+      "transcript": "国家统计局发布的最新数据显示，今年上半年，我国新能源汽车销量同比增长超过百分之五十，市场占有率首次突破百分之三十。分析人士指出，这主要得益于技术进步和充电基础设施的完善。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "政府补贴增加"
+      },
+      {
+       "label": "B",
+       "text": "油价持续上涨"
+      },
+      {
+       "label": "C",
+       "text": "消费者环保意识提高"
+      },
+      {
+       "label": "D",
+       "text": "技术进步和充电设施完善"
+      }
+     ]
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "关于这场强降雨，以下哪项表述准确？",
+     "correctAnswer": "C",
+     "explanation": "录音提到未来三天强降雨仍将持续。",
+     "audio": {
+      "key": "listening/v1/6d182aa39b7e68b33be5e306ff1ce967d4e5fc9db3a5165b8da9bd58e691dbff.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "一场强降雨昨晚袭击了南方多个省份，导致部分地区出现内涝和交通中断。当地政府已启动应急响应，组织救援力量转移受灾群众。气象部门预测，未来三天强降雨仍将持续，需防范次生灾害。"
+       }
+      ],
+      "transcript": "一场强降雨昨晚袭击了南方多个省份，导致部分地区出现内涝和交通中断。当地政府已启动应急响应，组织救援力量转移受灾群众。气象部门预测，未来三天强降雨仍将持续，需防范次生灾害。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "没有造成任何交通影响"
+      },
+      {
+       "label": "B",
+       "text": "仅影响了一个省份"
+      },
+      {
+       "label": "C",
+       "text": "强降雨在未来几天内仍将持续"
+      },
+      {
+       "label": "D",
+       "text": "降雨已经结束，天气转晴"
+      }
+     ]
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "根据录音，“天眼”望远镜的新发现是什么？",
+     "correctAnswer": "D",
+     "explanation": "录音明确指出成功探测到一批新的快速射电暴。",
+     "audio": {
+      "key": "listening/v1/68320896dadf5279aca7f4adae9ddf647e7dc8462b31c69ff5f7d616e229b4b3.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "由中国科学院牵头研制的“天眼”望远镜再次取得重要发现，成功探测到一批新的快速射电暴。这些信号来自数十亿光年外的星系，有助于科学家进一步理解宇宙的演化。该成果已于今日在国际权威期刊上发表。"
+       }
+      ],
+      "transcript": "由中国科学院牵头研制的“天眼”望远镜再次取得重要发现，成功探测到一批新的快速射电暴。这些信号来自数十亿光年外的星系，有助于科学家进一步理解宇宙的演化。该成果已于今日在国际权威期刊上发表。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "拍摄到黑洞的照片"
+      },
+      {
+       "label": "B",
+       "text": "发现了外星生命信号"
+      },
+      {
+       "label": "C",
+       "text": "测量了银河系的大小"
+      },
+      {
+       "label": "D",
+       "text": "探测到新的快速射电暴"
+      }
+     ]
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "录音中提到的“双减”政策主要涉及哪方面？",
+     "correctAnswer": "D",
+     "explanation": "录音提到全面规范校外培训行为，符合“双减”政策内涵。",
+     "audio": {
+      "key": "listening/v1/925ab4b0a3cd33af65f3ff945c333818034e1bf0590a6c086e805eeb941db1b2.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "教育部近日印发通知，要求各地中小学严格落实“双减”政策，全面规范校外培训行为。同时，鼓励学校开展课后服务，满足学生多样化需求。该通知强调，对违规培训将进行严肃查处。"
+       }
+      ],
+      "transcript": "教育部近日印发通知，要求各地中小学严格落实“双减”政策，全面规范校外培训行为。同时，鼓励学校开展课后服务，满足学生多样化需求。该通知强调，对违规培训将进行严肃查处。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "提高教师薪资待遇"
+      },
+      {
+       "label": "B",
+       "text": "扩大招生规模"
+      },
+      {
+       "label": "C",
+       "text": "增加校内考试次数"
+      },
+      {
+       "label": "D",
+       "text": "减少学生课业负担和校外培训"
+      }
+     ]
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "关于这次招聘会，下列哪项描述正确？",
+     "correctAnswer": "D",
+     "explanation": "录音明确指出招聘会全程在线进行。",
+     "audio": {
+      "key": "listening/v1/383053ca348b4d11ae4720b2ab416f389a5730e9a722d8252db34f4e89025e23.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "今天上午，一场别开生面的“云上”招聘会在某高校举行，超过两百家企业参与，提供了近万个岗位。与传统招聘会不同，此次招聘会全程在线进行，求职者可通过视频与面试官交流。据统计，首日参与的学生人数已超过五千。"
+       }
+      ],
+      "transcript": "今天上午，一场别开生面的“云上”招聘会在某高校举行，超过两百家企业参与，提供了近万个岗位。与传统招聘会不同，此次招聘会全程在线进行，求职者可通过视频与面试官交流。据统计，首日参与的学生人数已超过五千。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "提供了少于一万个岗位"
+      },
+      {
+       "label": "B",
+       "text": "招聘会在线下举办"
+      },
+      {
+       "label": "C",
+       "text": "共有两百名学生参加"
+      },
+      {
+       "label": "D",
+       "text": "招聘会全程在线进行"
+      }
+     ]
+    },
+    {
+     "id": "q7",
+     "type": "listening-mcq",
+     "prompt": "根据录音，关于明年奥运会，以下哪项说法正确？",
+     "correctAnswer": "B",
+     "explanation": "录音提到对筹备工作充满信心，场馆已基本建成，志愿者招募接近尾声，表明进展顺利。",
+     "audio": {
+      "key": "listening/v1/f03b594af6f43cc5bfd27a2862005dbac962cfe458aafb9c78391ecf882a4ec8.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "国际奥委会主席近日表示，对明年夏季奥运会的筹备工作充满信心。尽管面临疫情挑战，但主办方已制定了周密的防疫方案。目前，大部分场馆已建设完毕，志愿者招募工作也接近尾声。"
+       }
+      ],
+      "transcript": "国际奥委会主席近日表示，对明年夏季奥运会的筹备工作充满信心。尽管面临疫情挑战，但主办方已制定了周密的防疫方案。目前，大部分场馆已建设完毕，志愿者招募工作也接近尾声。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "场馆建设尚未启动"
+      },
+      {
+       "label": "B",
+       "text": "筹备工作进展顺利"
+      },
+      {
+       "label": "C",
+       "text": "因疫情已宣布取消"
+      },
+      {
+       "label": "D",
+       "text": "志愿者招募刚刚开始"
+      }
+     ]
+    },
+    {
+     "id": "q8",
+     "type": "listening-mcq",
+     "prompt": "这项研究得出了什么结论？",
+     "correctAnswer": "B",
+     "explanation": "录音指出冥想练习能够有效改变大脑结构。",
+     "audio": {
+      "key": "listening/v1/6b661996030400e129a5a0565aa80488ef7fc4c05d7fa99456f087bab1a447b5.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "一项最新研究显示，长期坚持冥想练习能够有效改变大脑结构，特别是在注意力和情绪调节相关的区域。研究人员通过对比发现，冥想者的大脑皮层厚度明显大于非冥想者。该成果为改善心理健康提供了新的思路。"
+       }
+      ],
+      "transcript": "一项最新研究显示，长期坚持冥想练习能够有效改变大脑结构，特别是在注意力和情绪调节相关的区域。研究人员通过对比发现，冥想者的大脑皮层厚度明显大于非冥想者。该成果为改善心理健康提供了新的思路。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "冥想会损害大脑健康"
+      },
+      {
+       "label": "B",
+       "text": "冥想可以改变大脑结构"
+      },
+      {
+       "label": "C",
+       "text": "冥想对注意力没有影响"
+      },
+      {
+       "label": "D",
+       "text": "冥想只对情绪调节有效"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

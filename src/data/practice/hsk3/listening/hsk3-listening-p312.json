@@ -1,0 +1,387 @@
+{
+ "id": "hsk3-listening-p312",
+ "level": "3",
+ "section": "listening",
+ "partKey": "listening-p3",
+ "title": "HSK3 Listening P3",
+ "titleZh": "听力 第三部分（听短文选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听录音，然后回答问题。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "小王喜欢做什么？",
+     "correctAnswer": "C",
+     "explanation": "独白中提到小王喜欢跑步和游泳，没有提到打篮球或看电视。",
+     "audio": {
+      "key": "listening/v1/75852bf3c7a00aeecc28054b2f645f80dae4706d783fd5e9fc5783acbe75ec26.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我朋友小王很喜欢运动，他每天早上都跑步，周末还去游泳。"
+       }
+      ],
+      "transcript": "我朋友小王很喜欢运动，他每天早上都跑步，周末还去游泳。",
+      "transcriptPinyin": "wǒ péng yǒu xiǎo wáng hěn xǐ huān yùn dòng ， tā měi tiān zǎo shàng dōu pǎo bù ， zhōu mò hái qù yóu yǒng 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "打篮球",
+       "pinyin": "dǎ lán qiú"
+      },
+      {
+       "label": "B",
+       "text": "看电视",
+       "pinyin": "kàn diàn shì"
+      },
+      {
+       "label": "C",
+       "text": "跑步和游泳",
+       "pinyin": "pǎo bù hé yóu yǒng"
+      }
+     ],
+     "pinyin": "xiǎo wáng xǐ huān zuò shén me ？"
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "手表显示几点？",
+     "correctAnswer": "A",
+     "explanation": "独白明确说手表显示十点半。",
+     "audio": {
+      "key": "listening/v1/40f0134d21c576f07212c6d1b589b6bed66bc02ac34686d0dc50b6997a69845a.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "现在几点？我的手表显示十点半，但我觉得可能快了。"
+       }
+      ],
+      "transcript": "现在几点？我的手表显示十点半，但我觉得可能快了。",
+      "transcriptPinyin": "xiàn zài jǐ diǎn ？ wǒ de shǒu biǎo xiǎn shì shí diǎn bàn ， dàn wǒ jué de kě néng kuài le 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "十点半",
+       "pinyin": "shí diǎn bàn"
+      },
+      {
+       "label": "B",
+       "text": "十点",
+       "pinyin": "shí diǎn"
+      },
+      {
+       "label": "C",
+       "text": "十一点",
+       "pinyin": "shí yì diǎn"
+      }
+     ],
+     "pinyin": "shǒu biǎo xiǎn shì jǐ diǎn ？"
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "书店在哪里？",
+     "correctAnswer": "C",
+     "explanation": "独白说书店在学校的东边。",
+     "audio": {
+      "key": "listening/v1/9c3b5a7fa50fcd701711ffca8ea22acc0843338d818288beedccf1f2f23ff51c.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我昨天去书店买书，然后去咖啡店喝咖啡。书店在学校的东边。"
+       }
+      ],
+      "transcript": "我昨天去书店买书，然后去咖啡店喝咖啡。书店在学校的东边。",
+      "transcriptPinyin": "wǒ zuó tiān qù shū diàn mǎi shū ， rán hòu qù kā fēi diàn hē kā fēi 。 shū diàn zài xué xiào de dōng biān 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "咖啡店旁边",
+       "pinyin": "kā fēi diàn páng biān"
+      },
+      {
+       "label": "B",
+       "text": "学校西边",
+       "pinyin": "xué xiào xī biān"
+      },
+      {
+       "label": "C",
+       "text": "学校东边",
+       "pinyin": "xué xiào dōng biān"
+      }
+     ],
+     "pinyin": "shū diàn zài nǎ lǐ ？"
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "为什么不去公园？",
+     "correctAnswer": "A",
+     "explanation": "独白给出的原因是天气不好下雨了。",
+     "audio": {
+      "key": "listening/v1/674cf712b1ddf2fcfe320abe9870a4d882a7a18ef897cc3c559e97adf6cec682.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "今天我不去公园了，因为天气不好，下雨了。"
+       }
+      ],
+      "transcript": "今天我不去公园了，因为天气不好，下雨了。",
+      "transcriptPinyin": "jīn tiān wǒ bù qù gōng yuán le ， yīn wèi tiān qì bù hǎo ， xià yǔ le 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "下雨了",
+       "pinyin": "xià yǔ le"
+      },
+      {
+       "label": "B",
+       "text": "太累了",
+       "pinyin": "tài lèi le"
+      },
+      {
+       "label": "C",
+       "text": "没时间",
+       "pinyin": "méi shí jiān"
+      }
+     ],
+     "pinyin": "wèi shén me bù qù gōng yuán ？"
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "今天来了多少个学生？",
+     "correctAnswer": "A",
+     "explanation": "独白说今天来了十八个学生。",
+     "audio": {
+      "key": "listening/v1/a544cc91f88dfd9dffb0496c002411727b972d1647e408e30514f8c0c35e7a7a.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我们班有二十个学生，十个男生，十个女生。今天来了十八个。"
+       }
+      ],
+      "transcript": "我们班有二十个学生，十个男生，十个女生。今天来了十八个。",
+      "transcriptPinyin": "wǒ men bān yǒu èr shí gè xué shēng ， shí gè nán shēng ， shí gè nǚ shēng 。 jīn tiān lái le shí bā gè 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "十八个",
+       "pinyin": "shí bā gè"
+      },
+      {
+       "label": "B",
+       "text": "二十个",
+       "pinyin": "èr shí gè"
+      },
+      {
+       "label": "C",
+       "text": "十个",
+       "pinyin": "shí gè"
+      }
+     ],
+     "pinyin": "jīn tiān lái le duō shǎo gè xué shēng ？"
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "妹妹喜欢做什么？",
+     "correctAnswer": "B",
+     "explanation": "独白明确提到妹妹喜欢画画。",
+     "audio": {
+      "key": "listening/v1/5b950326edd5d00ace78650eb7ea182e12288730df486a1b449648c7a5c6c60b.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "我妹妹喜欢画画，她每天放学后都画一个小时。"
+       }
+      ],
+      "transcript": "我妹妹喜欢画画，她每天放学后都画一个小时。",
+      "transcriptPinyin": "wǒ mèi mèi xǐ huān huà huà ， tā měi tiān fàng xué hòu dōu huà yí gè xiǎo shí 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "跳舞",
+       "pinyin": "tiào wǔ"
+      },
+      {
+       "label": "B",
+       "text": "画画",
+       "pinyin": "huà huà"
+      },
+      {
+       "label": "C",
+       "text": "唱歌",
+       "pinyin": "chàng gē"
+      }
+     ],
+     "pinyin": "mèi mèi xǐ huān zuò shén me ？"
+    },
+    {
+     "id": "q7",
+     "type": "listening-mcq",
+     "prompt": "明天下午做什么？",
+     "correctAnswer": "A",
+     "explanation": "独白说下午要去医院看牙。",
+     "audio": {
+      "key": "listening/v1/890f1f393ceb2dfecee91848c9c1b5b5bafa3ed8241ec53993d45e5aa5412778.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "明天上午我有课，下午要去医院看牙。"
+       }
+      ],
+      "transcript": "明天上午我有课，下午要去医院看牙。",
+      "transcriptPinyin": "míng tiān shàng wǔ wǒ yǒu kè ， xià wǔ yào qù yī yuàn kàn yá 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "去医院",
+       "pinyin": "qù yī yuàn"
+      },
+      {
+       "label": "B",
+       "text": "上课",
+       "pinyin": "shàng kè"
+      },
+      {
+       "label": "C",
+       "text": "在家休息",
+       "pinyin": "zài jiā xiū xī"
+      }
+     ],
+     "pinyin": "míng tiān xià wǔ zuò shén me ？"
+    },
+    {
+     "id": "q8",
+     "type": "listening-mcq",
+     "prompt": "衣服多少钱？",
+     "correctAnswer": "C",
+     "explanation": "独白说衣服只要五十块钱。",
+     "audio": {
+      "key": "listening/v1/16e8a5e430c6c531e10ca4d0be4467dd094655312602f4afb232c549ac70fa2b.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "这件衣服很便宜，只要五十块钱。我想买一件。"
+       }
+      ],
+      "transcript": "这件衣服很便宜，只要五十块钱。我想买一件。",
+      "transcriptPinyin": "zhè jiàn yī fú hěn pián yi ， zhǐ yào wǔ shí kuài qián 。 wǒ xiǎng mǎi yī jiàn 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "五块",
+       "pinyin": "wǔ kuài"
+      },
+      {
+       "label": "B",
+       "text": "十五块",
+       "pinyin": "shí wǔ kuài"
+      },
+      {
+       "label": "C",
+       "text": "五十块",
+       "pinyin": "wǔ shí kuài"
+      }
+     ],
+     "pinyin": "yī fú duō shǎo qián ？"
+    },
+    {
+     "id": "q9",
+     "type": "listening-mcq",
+     "prompt": "李老师是谁？",
+     "correctAnswer": "B",
+     "explanation": "独白明确说李老师是我的中文老师。",
+     "audio": {
+      "key": "listening/v1/4b83eab6b08cc473b7529f8a63e83312c2c68650882f241f32ac2f6a2d3e2754.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "李老师是我的中文老师，她教我们两年了。"
+       }
+      ],
+      "transcript": "李老师是我的中文老师，她教我们两年了。",
+      "transcriptPinyin": "lǐ lǎo shī shì wǒ de zhōng wén lǎo shī ， tā jiào wǒ men liǎng nián le 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "我的朋友",
+       "pinyin": "wǒ de péng yǒu"
+      },
+      {
+       "label": "B",
+       "text": "我的中文老师",
+       "pinyin": "wǒ de zhōng wén lǎo shī"
+      },
+      {
+       "label": "C",
+       "text": "我的妈妈",
+       "pinyin": "wǒ de mā mā"
+      }
+     ],
+     "pinyin": "lǐ lǎo shī shì shuí ？"
+    },
+    {
+     "id": "q10",
+     "type": "listening-mcq",
+     "prompt": "建议做什么？",
+     "correctAnswer": "A",
+     "explanation": "独白建议多喝水、多休息，没有建议跑步或吃辣的。",
+     "audio": {
+      "key": "listening/v1/c3a0898fea292db23d1111e0c5e003152ffb508e63a27a7e637cc031c78b2be8.mp3",
+      "lines": [
+       {
+        "speaker": "旁白",
+        "voice": "narrator",
+        "text": "你感冒了，应该多喝水，多休息。"
+       }
+      ],
+      "transcript": "你感冒了，应该多喝水，多休息。",
+      "transcriptPinyin": "nǐ gǎn mào le ， yīng gāi duō hē shuǐ ， duō xiū xī 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "多喝水",
+       "pinyin": "duō hē shuǐ"
+      },
+      {
+       "label": "B",
+       "text": "吃辣的",
+       "pinyin": "chī là de"
+      },
+      {
+       "label": "C",
+       "text": "去跑步",
+       "pinyin": "qù pǎo bù"
+      }
+     ],
+     "pinyin": "jiàn yì zuò shén me ？"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

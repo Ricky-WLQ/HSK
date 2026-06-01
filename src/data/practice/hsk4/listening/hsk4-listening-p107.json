@@ -1,0 +1,735 @@
+{
+ "id": "hsk4-listening-p107",
+ "level": "4",
+ "section": "listening",
+ "partKey": "listening-p1",
+ "title": "HSK4 Listening P1",
+ "titleZh": "听力 第一部分（听对话选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听对话，然后选择正确答案。每个对话后有一个问题，请从A、B、C、D四个选项中选择最佳答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "男周末打算做什么？",
+     "correctAnswer": "B",
+     "explanation": "男说不太喜欢科幻片，提出一起去吃饭，女同意，所以男的打算是吃饭。",
+     "audio": {
+      "key": "listening/v1/ca76e1c921cf26a4fc119105ac30bc9c93371ad747e6d9f28e03622951338811.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "这个周末你有什么计划？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我打算去看电影，听说新上映了一部科幻片。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "是吗？我不太喜欢科幻片，不如我们一起去吃饭吧。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "好主意，那我们先吃饭再看电影？"
+       }
+      ],
+      "transcript": "这个周末你有什么计划？ 我打算去看电影，听说新上映了一部科幻片。 是吗？我不太喜欢科幻片，不如我们一起去吃饭吧。 好主意，那我们先吃饭再看电影？",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "唱歌"
+      },
+      {
+       "label": "B",
+       "text": "吃饭"
+      },
+      {
+       "label": "C",
+       "text": "打球"
+      },
+      {
+       "label": "D",
+       "text": "看电影"
+      }
+     ]
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "女最后买了什么颜色的裙子？",
+     "correctAnswer": "B",
+     "explanation": "女试了红色觉得太大，男说没有小号，但白色有她的尺码，所以女最后买了白色。",
+     "audio": {
+      "key": "listening/v1/b2f935bdf170beeec5f5bfd06a3f55b2a1c5ceb61c5735554df3f92ee1607aaa.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "请问有蓝色的裙子吗？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "不好意思，蓝色的卖完了，现在只有红色和白色。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "那我试一下红色的吧。太大了，有小的吗？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "没有小号了，不过白色还有您的尺码。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "好吧，那我就买白色的。"
+       }
+      ],
+      "transcript": "请问有蓝色的裙子吗？ 不好意思，蓝色的卖完了，现在只有红色和白色。 那我试一下红色的吧。太大了，有小的吗？ 没有小号了，不过白色还有您的尺码。 好吧，那我就买白色的。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "蓝色"
+      },
+      {
+       "label": "B",
+       "text": "白色"
+      },
+      {
+       "label": "C",
+       "text": "黑色"
+      },
+      {
+       "label": "D",
+       "text": "红色"
+      }
+     ]
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "女为什么不想去海边？",
+     "correctAnswer": "D",
+     "explanation": "女一开始就说海边太远了，后来虽然提到贵，但最后还是强调太远，所以主要原因是远。",
+     "audio": {
+      "key": "listening/v1/1c85b36d47ef6fa3b3afe1e75851b01408836a06b960c0433bb7e1ccc68a98f9.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "放假我们去海边玩吧？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "海边太远了，坐飞机去的话又太贵。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我们可以坐火车，虽然慢一点，但便宜。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "坐火车要很久，我还是觉得太远了。"
+       }
+      ],
+      "transcript": "放假我们去海边玩吧？ 海边太远了，坐飞机去的话又太贵。 我们可以坐火车，虽然慢一点，但便宜。 坐火车要很久，我还是觉得太远了。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "太贵"
+      },
+      {
+       "label": "B",
+       "text": "太热"
+      },
+      {
+       "label": "C",
+       "text": "太冷"
+      },
+      {
+       "label": "D",
+       "text": "太远"
+      }
+     ]
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "他们点了什么菜？",
+     "correctAnswer": "C",
+     "explanation": "女想吃辣的，男推荐麻婆豆腐，女同意了，所以点了麻婆豆腐。",
+     "audio": {
+      "key": "listening/v1/e4e0fc05459d1547e7142a40efa265756d72b31d49af867261d2a35f9aeb98a6.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你想吃什么菜？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我想吃辣的，有什么推荐吗？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "这家店的麻婆豆腐非常有名，要试试吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "好啊，那就点这个。还需要点凉菜吗？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "不用了，够了。"
+       }
+      ],
+      "transcript": "你想吃什么菜？ 我想吃辣的，有什么推荐吗？ 这家店的麻婆豆腐非常有名，要试试吗？ 好啊，那就点这个。还需要点凉菜吗？ 不用了，够了。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "辣子鸡"
+      },
+      {
+       "label": "B",
+       "text": "凉菜"
+      },
+      {
+       "label": "C",
+       "text": "麻婆豆腐"
+      },
+      {
+       "label": "D",
+       "text": "鱼香肉丝"
+      }
+     ]
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "女为什么紧张？",
+     "correctAnswer": "D",
+     "explanation": "女说数学部分很难，所以紧张，男也提到复习好了，所以直接原因是数学难。",
+     "audio": {
+      "key": "listening/v1/5365dc03d956c294c378b48bddd9850bf32a379d5668893f53326421e456e5a1.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "明天的考试我好紧张。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "别担心，你已经复习得很好了。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "可是数学部分很难，我怕考不好。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "多做练习就好了，你肯定没问题的。"
+       }
+      ],
+      "transcript": "明天的考试我好紧张。 别担心，你已经复习得很好了。 可是数学部分很难，我怕考不好。 多做练习就好了，你肯定没问题的。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "因为考试"
+      },
+      {
+       "label": "B",
+       "text": "因为没复习"
+      },
+      {
+       "label": "C",
+       "text": "因为生病"
+      },
+      {
+       "label": "D",
+       "text": "因为数学难"
+      }
+     ]
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "女现在在什么地方？",
+     "correctAnswer": "B",
+     "explanation": "女说她坐出租车呢，所以她现在在出租车上。",
+     "audio": {
+      "key": "listening/v1/939911bd23cb745e2e4301e1bbfafe531c888a0d5dc29a57a2e33e9aabc4406a.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你现在在哪儿？什么时候能到？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我坐出租车呢，大概十分钟就能到。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "好的，我在门口等你。"
+       }
+      ],
+      "transcript": "你现在在哪儿？什么时候能到？ 我坐出租车呢，大概十分钟就能到。 好的，我在门口等你。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "在公司"
+      },
+      {
+       "label": "B",
+       "text": "在出租车上"
+      },
+      {
+       "label": "C",
+       "text": "在门口"
+      },
+      {
+       "label": "D",
+       "text": "在家"
+      }
+     ]
+    },
+    {
+     "id": "q7",
+     "type": "listening-mcq",
+     "prompt": "女喜欢什么运动？",
+     "correctAnswer": "A",
+     "explanation": "女明确说喜欢游泳，所以正确答案是游泳。",
+     "audio": {
+      "key": "listening/v1/dad98af5ba287abb1c7e78534d2dfc721cae38aa85179807475755da2714a0a5.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你平时喜欢做什么运动？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我喜欢游泳，你呢？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我喜欢跑步，跑步能锻炼身体。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "游泳也能减肥，效果很好。"
+       }
+      ],
+      "transcript": "你平时喜欢做什么运动？ 我喜欢游泳，你呢？ 我喜欢跑步，跑步能锻炼身体。 游泳也能减肥，效果很好。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "游泳"
+      },
+      {
+       "label": "B",
+       "text": "瑜伽"
+      },
+      {
+       "label": "C",
+       "text": "羽毛球"
+      },
+      {
+       "label": "D",
+       "text": "跑步"
+      }
+     ]
+    },
+    {
+     "id": "q8",
+     "type": "listening-mcq",
+     "prompt": "他们最后决定看什么电影？",
+     "correctAnswer": "A",
+     "explanation": "女说看喜剧片，男同意了，所以最后决定看喜剧片。",
+     "audio": {
+      "key": "listening/v1/3644e1703ef5fc03344800f7de088534e9d5488744367645901b8b0bcdc955ef.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "这部动作片看起来很精彩，我们看这个吧？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我不喜欢动作片，太吵了，我们看喜剧片吧。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "那好吧，就听你的。"
+       }
+      ],
+      "transcript": "这部动作片看起来很精彩，我们看这个吧？ 我不喜欢动作片，太吵了，我们看喜剧片吧。 那好吧，就听你的。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "喜剧片"
+      },
+      {
+       "label": "B",
+       "text": "恐怖片"
+      },
+      {
+       "label": "C",
+       "text": "动作片"
+      },
+      {
+       "label": "D",
+       "text": "爱情片"
+      }
+     ]
+    },
+    {
+     "id": "q9",
+     "type": "listening-mcq",
+     "prompt": "明天的天气怎么样？",
+     "correctAnswer": "C",
+     "explanation": "男说明天会更冷，所以明天天气更冷。",
+     "audio": {
+      "key": "listening/v1/da0191d4f177ff93aebf5316fde03e0e576cc335e003c53657b3c199d5556a2d.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "今天真冷啊，气温降到零下了。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "还好吧，明天会更冷，你要多穿点衣服。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "嗯，我知道了。"
+       }
+      ],
+      "transcript": "今天真冷啊，气温降到零下了。 还好吧，明天会更冷，你要多穿点衣服。 嗯，我知道了。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "暖和"
+      },
+      {
+       "label": "B",
+       "text": "有风"
+      },
+      {
+       "label": "C",
+       "text": "更冷"
+      },
+      {
+       "label": "D",
+       "text": "下雨"
+      }
+     ]
+    },
+    {
+     "id": "q10",
+     "type": "listening-mcq",
+     "prompt": "男买的书是什么类型的？",
+     "correctAnswer": "A",
+     "explanation": "男一开始就说想买历史书，后来也买了女推荐的那本，所以是历史书。",
+     "audio": {
+      "key": "listening/v1/0e835327acb5ce3ba8b06982c4a62205aff0d832c938cc50c674cb29385fa20e.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我想买一本历史书，你有什么推荐吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "这本不错，内容很全面，就是有点儿厚。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "厚没关系，内容好就行，我买了。"
+       }
+      ],
+      "transcript": "我想买一本历史书，你有什么推荐吗？ 这本不错，内容很全面，就是有点儿厚。 厚没关系，内容好就行，我买了。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "历史"
+      },
+      {
+       "label": "B",
+       "text": "科学"
+      },
+      {
+       "label": "C",
+       "text": "艺术"
+      },
+      {
+       "label": "D",
+       "text": "小说"
+      }
+     ]
+    },
+    {
+     "id": "q11",
+     "type": "listening-mcq",
+     "prompt": "男什么时候加班？",
+     "correctAnswer": "A",
+     "explanation": "男说周六要加班，所以男加班时间是周六。",
+     "audio": {
+      "key": "listening/v1/807e02693535c800bf5ea8e5de03db2a95d837f514421b4a134311de7e3b3c60.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "周六我要加班，不能陪你去玩了。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "周日我也要加班，看来我们周末都忙。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "是啊，为了赚钱，没办法。"
+       }
+      ],
+      "transcript": "周六我要加班，不能陪你去玩了。 周日我也要加班，看来我们周末都忙。 是啊，为了赚钱，没办法。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "周六"
+      },
+      {
+       "label": "B",
+       "text": "不加班"
+      },
+      {
+       "label": "C",
+       "text": "周末两天"
+      },
+      {
+       "label": "D",
+       "text": "周日"
+      }
+     ]
+    },
+    {
+     "id": "q12",
+     "type": "listening-mcq",
+     "prompt": "男在做什么？",
+     "correctAnswer": "B",
+     "explanation": "男问去火车站怎么走，女指路，所以男在问路。",
+     "audio": {
+      "key": "listening/v1/b9129ab58551fa30fd5a69737f10e8a6e012801c3cf86bba3297717b2064698d.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "请问，去火车站怎么走？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你一直往前走，到第二个路口右转就到了。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "谢谢您。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "不客气。"
+       }
+      ],
+      "transcript": "请问，去火车站怎么走？ 你一直往前走，到第二个路口右转就到了。 谢谢您。 不客气。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "打车"
+      },
+      {
+       "label": "B",
+       "text": "问路"
+      },
+      {
+       "label": "C",
+       "text": "买票"
+      },
+      {
+       "label": "D",
+       "text": "等人"
+      }
+     ]
+    },
+    {
+     "id": "q13",
+     "type": "listening-mcq",
+     "prompt": "女建议男做什么？",
+     "correctAnswer": "D",
+     "explanation": "女说应该早点睡觉，多休息，所以建议早睡。",
+     "audio": {
+      "key": "listening/v1/8e38af9b9ea730de387978dcd532651865f4b2ae046af075e7d404f2b0b202a8.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你最近脸色不好，怎么了？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "最近总是头疼，可能是没休息好。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "那你应该早点睡觉，多休息。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "好的，我试试。"
+       }
+      ],
+      "transcript": "你最近脸色不好，怎么了？ 最近总是头疼，可能是没休息好。 那你应该早点睡觉，多休息。 好的，我试试。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "多运动"
+      },
+      {
+       "label": "B",
+       "text": "吃药"
+      },
+      {
+       "label": "C",
+       "text": "去医院"
+      },
+      {
+       "label": "D",
+       "text": "早睡"
+      }
+     ]
+    },
+    {
+     "id": "q14",
+     "type": "listening-mcq",
+     "prompt": "男最后决定送什么礼物？",
+     "correctAnswer": "B",
+     "explanation": "男先想送花，女说花会谢，男就改送围巾，女赞同，所以最后决定送围巾。",
+     "audio": {
+      "key": "listening/v1/9ad3a1fc98ead9dd586081095dd7e368b415ce6d73b835513362f64f7b2a8c5e.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "妈妈的生日快到了，你打算送什么礼物？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我想送花，你觉得怎么样？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "花虽然好看，但很快就会谢。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "那送一条围巾吧，冬天正好用。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "这个主意不错，妈妈一定喜欢。"
+       }
+      ],
+      "transcript": "妈妈的生日快到了，你打算送什么礼物？ 我想送花，你觉得怎么样？ 花虽然好看，但很快就会谢。 那送一条围巾吧，冬天正好用。 这个主意不错，妈妈一定喜欢。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "书"
+      },
+      {
+       "label": "B",
+       "text": "围巾"
+      },
+      {
+       "label": "C",
+       "text": "花"
+      },
+      {
+       "label": "D",
+       "text": "蛋糕"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

@@ -1,0 +1,517 @@
+{
+ "id": "hsk3-listening-p208",
+ "level": "3",
+ "section": "listening",
+ "partKey": "listening-p2",
+ "title": "HSK3 Listening P2",
+ "titleZh": "听力 第二部分（听对话选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听下面的对话，然后回答问题。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "他们打算做什么？",
+     "correctAnswer": "B",
+     "explanation": "对话中女士提议去公园散步，男士同意了，所以他们打算去公园散步。",
+     "audio": {
+      "key": "listening/v1/a3a0f732dc2c805db0b3bc1495a6d63c79718c3bc99e74b4c509a0b2bd01dbad.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "今天天气真好啊！"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "是啊，我们去公园散步吧。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "好的，我带上相机。"
+       }
+      ],
+      "transcript": "今天天气真好啊！ 是啊，我们去公园散步吧。 好的，我带上相机。",
+      "transcriptPinyin": "jīn tiān tiān qì zhēn hǎo a ！  shì a ， wǒ men qù gōng yuán sàn bù ba 。  hǎo de ， wǒ dài shàng xiàng jī 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "在家做饭",
+       "pinyin": "zài jiā zuò fàn"
+      },
+      {
+       "label": "B",
+       "text": "去公园散步",
+       "pinyin": "qù gōng yuán sàn bù"
+      },
+      {
+       "label": "C",
+       "text": "去图书馆",
+       "pinyin": "qù tú shū guǎn"
+      }
+     ],
+     "pinyin": "tā men dǎ suàn zuò shén me ？"
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "他们周末打算做什么？",
+     "correctAnswer": "A",
+     "explanation": "女士邀请男士一起去看电影，男士答应了，所以他们打算看电影。",
+     "audio": {
+      "key": "listening/v1/71904c4aa10047d5523941dcd82614bf3a42a7f5cac7f44edbbb20f9c1e954e4.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你周末有空吗？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "有空，怎么了？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我想去看电影，一起吗？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "好，几点？"
+       }
+      ],
+      "transcript": "你周末有空吗？ 有空，怎么了？ 我想去看电影，一起吗？ 好，几点？",
+      "transcriptPinyin": "nǐ zhōu mò yǒu kòng ma ？  yǒu kòng ， zěn me le ？  wǒ xiǎng qù kàn diàn yǐng ， yì qǐ ma ？  hǎo ， jǐ diǎn ？"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "看电影",
+       "pinyin": "kàn diàn yǐng"
+      },
+      {
+       "label": "B",
+       "text": "去逛街",
+       "pinyin": "qù guàng jiē"
+      },
+      {
+       "label": "C",
+       "text": "去吃饭",
+       "pinyin": "qù chī fàn"
+      }
+     ],
+     "pinyin": "tā men zhōu mò dǎ suàn zuò shén me ？"
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "女生的手机多少钱？",
+     "correctAnswer": "A",
+     "explanation": "女生明确说手机一千八百块，所以价格是一千八百块。",
+     "audio": {
+      "key": "listening/v1/ca5c5221723a9b2e781fbd464502319c102269ba3012904ef7b0c959042fa762.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你的手机多少钱？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "一千八百块。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "不贵，我也想买一个。"
+       }
+      ],
+      "transcript": "你的手机多少钱？ 一千八百块。 不贵，我也想买一个。",
+      "transcriptPinyin": "nǐ de shǒu jī duō shǎo qián ？  yī qiān bā bǎi kuài 。  bù guì ， wǒ yě xiǎng mǎi yí gè 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "一千八百块",
+       "pinyin": "yī qiān bā bǎi kuài"
+      },
+      {
+       "label": "B",
+       "text": "八百块",
+       "pinyin": "bā bǎi kuài"
+      },
+      {
+       "label": "C",
+       "text": "一千块",
+       "pinyin": "yī qiān kuài"
+      }
+     ],
+     "pinyin": "nǚ shēng de shǒu jī duō shǎo qián ？"
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "男的去学校用什么交通工具？",
+     "correctAnswer": "C",
+     "explanation": "男士说他不坐公交车，他骑自行车去学校。",
+     "audio": {
+      "key": "listening/v1/a24a6aea23833ea422e64d43e2ab3883c880619c07bfcbddb0cb4e3e472aba4a.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你坐公交车去学校吗？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "不，我骑自行车。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "骑自行车要多久？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "半小时。"
+       }
+      ],
+      "transcript": "你坐公交车去学校吗？ 不，我骑自行车。 骑自行车要多久？ 半小时。",
+      "transcriptPinyin": "nǐ zuò gōng jiāo chē qù xué xiào ma ？  bù ， wǒ qí zì xíng chē 。  qí zì xíng chē yào duō jiǔ ？  bàn xiǎo shí 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "公交车",
+       "pinyin": "gōng jiāo chē"
+      },
+      {
+       "label": "B",
+       "text": "走路",
+       "pinyin": "zǒu lù"
+      },
+      {
+       "label": "C",
+       "text": "自行车",
+       "pinyin": "zì xíng chē"
+      }
+     ],
+     "pinyin": "nán de qù xué xiào yòng shén me jiāo tōng gōng jù ？"
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "女生做饭做得怎么样？",
+     "correctAnswer": "C",
+     "explanation": "女生说自己会一点但做得不好，所以是做得不好。",
+     "audio": {
+      "key": "listening/v1/3e0e7310e2d5a7d70bc4468fa08632f158642be4f5b953dba631df8e63edc8bc.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你会做饭吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "会一点，但是做得不好。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "没关系，我们一起学。"
+       }
+      ],
+      "transcript": "你会做饭吗？ 会一点，但是做得不好。 没关系，我们一起学。",
+      "transcriptPinyin": "nǐ huì zuò fàn ma ？  huì yì diǎn ， dàn shì zuò dé bù hǎo 。  méi guān xì ， wǒ men yì qǐ xué 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "做得很好",
+       "pinyin": "zuò dé hěn hǎo"
+      },
+      {
+       "label": "B",
+       "text": "不会做",
+       "pinyin": "bú huì zuò"
+      },
+      {
+       "label": "C",
+       "text": "做得不好",
+       "pinyin": "zuò dé bù hǎo"
+      }
+     ],
+     "pinyin": "nǚ shēng zuò fàn zuò dé zěn me yàng ？"
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "男士最喜欢什么水果？",
+     "correctAnswer": "C",
+     "explanation": "男士说最喜欢吃苹果，所以答案是苹果。",
+     "audio": {
+      "key": "listening/v1/bb60f21765f8e81f54c81346533f2ca82ce7e2f99e993d39513d5be91fbefe2a.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你最喜欢什么水果？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我最喜欢吃苹果。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我也是，苹果又甜又好吃。"
+       }
+      ],
+      "transcript": "你最喜欢什么水果？ 我最喜欢吃苹果。 我也是，苹果又甜又好吃。",
+      "transcriptPinyin": "nǐ zuì xǐ huān shén me shuǐ guǒ ？  wǒ zuì xǐ huān chī píng guǒ 。  wǒ yě shì ， píng guǒ yòu tián yòu hǎo chī 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "香蕉",
+       "pinyin": "xiāng jiāo"
+      },
+      {
+       "label": "B",
+       "text": "橘子",
+       "pinyin": "jú zi"
+      },
+      {
+       "label": "C",
+       "text": "苹果",
+       "pinyin": "píng guǒ"
+      }
+     ],
+     "pinyin": "nán shì zuì xǐ huān shén me shuǐ guǒ ？"
+    },
+    {
+     "id": "q7",
+     "type": "listening-mcq",
+     "prompt": "他们明天什么时候见面？",
+     "correctAnswer": "B",
+     "explanation": "女士提议下午两点，男士同意，所以见面时间是下午两点。",
+     "audio": {
+      "key": "listening/v1/6ac67586dab74a91d88da26eee5b7d1afb25338cca77fa07304ee8f9d82108cc.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "明天几点见面？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "下午两点可以吗？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "可以，在学校门口见。"
+       }
+      ],
+      "transcript": "明天几点见面？ 下午两点可以吗？ 可以，在学校门口见。",
+      "transcriptPinyin": "míng tiān jǐ diǎn jiàn miàn ？  xià wǔ liǎng diǎn kě yǐ ma ？  kě yǐ ， zài xué xiào mén kǒu jiàn 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "上午两点",
+       "pinyin": "shàng wǔ liǎng diǎn"
+      },
+      {
+       "label": "B",
+       "text": "下午两点",
+       "pinyin": "xià wǔ liǎng diǎn"
+      },
+      {
+       "label": "C",
+       "text": "晚上两点",
+       "pinyin": "wǎn shàng liǎng diǎn"
+      }
+     ],
+     "pinyin": "tā men míng tiān shén me shí hòu jiàn miàn ？"
+    },
+    {
+     "id": "q8",
+     "type": "listening-mcq",
+     "prompt": "男士的作业做完了吗？",
+     "correctAnswer": "A",
+     "explanation": "男士说还没有做完，所以作业没做完。",
+     "audio": {
+      "key": "listening/v1/523d5340bc864fdb386ce352d39932e30700fe41206b1d7a01965879dca2f9c3.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你作业做完了吗？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "还没有，太难了。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "需要我帮忙吗？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "谢谢，不用了。"
+       }
+      ],
+      "transcript": "你作业做完了吗？ 还没有，太难了。 需要我帮忙吗？ 谢谢，不用了。",
+      "transcriptPinyin": "nǐ zuò yè zuò wán le ma ？  hái méi yǒu ， tài nán le 。  xū yào wǒ bāng máng ma ？  xiè xiè ， bù yòng le 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "没做完",
+       "pinyin": "méi zuò wán"
+      },
+      {
+       "label": "B",
+       "text": "做完了",
+       "pinyin": "zuò wán le"
+      },
+      {
+       "label": "C",
+       "text": "不知道",
+       "pinyin": "bù zhī dào"
+      }
+     ],
+     "pinyin": "nán shì de zuò yè zuò wán le ma ？"
+    },
+    {
+     "id": "q9",
+     "type": "listening-mcq",
+     "prompt": "男士想买什么？",
+     "correctAnswer": "C",
+     "explanation": "男士一开始就说想买一件衬衫，所以他想买衬衫。",
+     "audio": {
+      "key": "listening/v1/7e5a1a956d606c815740c780242e888f16eb952f916d2c1187a915990229dfe8.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你好，我想买一件衬衫。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你喜欢什么颜色？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "白色。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "这件怎么样？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "很好，多少钱？"
+       }
+      ],
+      "transcript": "你好，我想买一件衬衫。 你喜欢什么颜色？ 白色。 这件怎么样？ 很好，多少钱？",
+      "transcriptPinyin": "nǐ hǎo ， wǒ xiǎng mǎi yī jiàn chèn shān 。  nǐ xǐ huān shén me yán sè ？  bái sè 。  zhè jiàn zěn me yàng ？  hěn hǎo ， duō shǎo qián ？"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "一条裤子",
+       "pinyin": "yī tiáo kù zi"
+      },
+      {
+       "label": "B",
+       "text": "一双鞋",
+       "pinyin": "yī shuāng xié"
+      },
+      {
+       "label": "C",
+       "text": "一件衬衫",
+       "pinyin": "yī jiàn chèn shān"
+      }
+     ],
+     "pinyin": "nán shì xiǎng mǎi shén me ？"
+    },
+    {
+     "id": "q10",
+     "type": "listening-mcq",
+     "prompt": "男士昨天去了哪里？",
+     "correctAnswer": "B",
+     "explanation": "男士说他昨天去了图书馆，所以答案是图书馆。",
+     "audio": {
+      "key": "listening/v1/904253681b6739fbf1b4169ac77d2b5adbc90878a136f370f81ed925b58038ad.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你昨天去哪儿了？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我去了图书馆。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你每天都去图书馆吗？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "不是，有时候去。"
+       }
+      ],
+      "transcript": "你昨天去哪儿了？ 我去了图书馆。 你每天都去图书馆吗？ 不是，有时候去。",
+      "transcriptPinyin": "nǐ zuó tiān qù nǎ ér le ？  wǒ qù le tú shū guǎn 。  nǐ měi tiān dōu qù tú shū guǎn ma ？  bú shì ， yǒu shí hòu qù 。"
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "公园",
+       "pinyin": "gōng yuán"
+      },
+      {
+       "label": "B",
+       "text": "图书馆",
+       "pinyin": "tú shū guǎn"
+      },
+      {
+       "label": "C",
+       "text": "商店",
+       "pinyin": "shāng diàn"
+      }
+     ],
+     "pinyin": "nán shì zuó tiān qù le nǎ lǐ ？"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

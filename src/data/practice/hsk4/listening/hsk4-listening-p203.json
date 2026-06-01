@@ -1,0 +1,179 @@
+{
+ "id": "hsk4-listening-p203",
+ "level": "4",
+ "section": "listening",
+ "partKey": "listening-p2",
+ "title": "HSK4 Listening P2",
+ "titleZh": "听力 第二部分（听短文选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "你将听到一段独白，请根据独白内容回答6个问题。每个问题有4个选项，选择唯一正确的答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "共享单车怎么使用？",
+     "correctAnswer": "A",
+     "explanation": "文中明确提到“用手机扫一下二维码就能骑走”，所以使用方法是扫描二维码。",
+     "options": [
+      {
+       "label": "A",
+       "text": "用手机扫二维码"
+      },
+      {
+       "label": "B",
+       "text": "用身份证"
+      },
+      {
+       "label": "C",
+       "text": "用钥匙"
+      },
+      {
+       "label": "D",
+       "text": "用现金"
+      }
+     ]
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "共享单车带来了什么问题？",
+     "correctAnswer": "D",
+     "explanation": "文中说“有些人把车随便停在路边，影响了交通”，停车混乱是直接提到的问题。",
+     "options": [
+      {
+       "label": "A",
+       "text": "不好骑"
+      },
+      {
+       "label": "B",
+       "text": "车太少"
+      },
+      {
+       "label": "C",
+       "text": "价格太贵"
+      },
+      {
+       "label": "D",
+       "text": "停车混乱影响交通"
+      }
+     ]
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "文中提到骑车的人要注意什么？",
+     "correctAnswer": "A",
+     "explanation": "文中提到“还有的人骑车不注意安全，很容易发生事故”，因此要注意安全。",
+     "options": [
+      {
+       "label": "A",
+       "text": "安全"
+      },
+      {
+       "label": "B",
+       "text": "速度"
+      },
+      {
+       "label": "C",
+       "text": "环境"
+      },
+      {
+       "label": "D",
+       "text": "价格"
+      }
+     ]
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "共享单车损坏率高的原因是什么？",
+     "correctAnswer": "C",
+     "explanation": "文中说“很多车都坏了没人修”，所以损坏后缺乏修理是主要原因。",
+     "options": [
+      {
+       "label": "A",
+       "text": "使用的人太多"
+      },
+      {
+       "label": "B",
+       "text": "制造质量差"
+      },
+      {
+       "label": "C",
+       "text": "没人修理"
+      },
+      {
+       "label": "D",
+       "text": "政府不管理"
+      }
+     ]
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "作者对共享单车持什么态度？",
+     "correctAnswer": "C",
+     "explanation": "文末说“共享单车虽然方便，但还需要更好地管理”，体现了作者肯定方便但也承认问题。",
+     "options": [
+      {
+       "label": "A",
+       "text": "完全反对"
+      },
+      {
+       "label": "B",
+       "text": "非常支持"
+      },
+      {
+       "label": "C",
+       "text": "觉得方便但也有问题"
+      },
+      {
+       "label": "D",
+       "text": "无所谓"
+      }
+     ]
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "文中提到共享单车需要什么？",
+     "correctAnswer": "D",
+     "explanation": "文末明确说“还需要更好地管理”，因此需要更好的管理。",
+     "options": [
+      {
+       "label": "A",
+       "text": "更低的价格"
+      },
+      {
+       "label": "B",
+       "text": "更多的车"
+      },
+      {
+       "label": "C",
+       "text": "更漂亮的外形"
+      },
+      {
+       "label": "D",
+       "text": "更好的管理"
+      }
+     ]
+    }
+   ],
+   "audio": {
+    "key": "listening/v1/6cd0fd02555b7ce0b6a20866e77f9d1ef9ed2663db1b6f4eeeb58d9aa7c851a7.mp3",
+    "lines": [
+     {
+      "speaker": "旁白",
+      "voice": "narrator",
+      "text": "大家好，今天我想说说共享单车。现在很多城市都有共享单车，用手机扫一下二维码就能骑走，非常方便。但是也带来了一些问题。比如，有些人把车随便停在路边，影响了交通。还有的人骑车不注意安全，很容易发生事故。另外，共享单车的损坏率也比较高，很多车都坏了没人修。总的来说，共享单车虽然方便，但还需要更好地管理。"
+     }
+    ],
+    "transcript": "大家好，今天我想说说共享单车。现在很多城市都有共享单车，用手机扫一下二维码就能骑走，非常方便。但是也带来了一些问题。比如，有些人把车随便停在路边，影响了交通。还有的人骑车不注意安全，很容易发生事故。另外，共享单车的损坏率也比较高，很多车都坏了没人修。总的来说，共享单车虽然方便，但还需要更好地管理。",
+    "transcriptPinyin": null
+   }
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

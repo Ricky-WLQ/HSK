@@ -1,0 +1,64 @@
+{
+ "id": "hsk7-9-listening-p102",
+ "level": "7-9",
+ "section": "listening",
+ "partKey": "listening-p1",
+ "title": "HSK7-9 Listening P1",
+ "titleZh": "听力 第一部分（判断对错）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听一段关于人工智能在医疗领域应用的新闻报道，然后判断以下5个陈述是否正确。正确的请选“对”，错误的请选“错”。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-statement-true-false",
+     "prompt": "AI在医学影像诊断方面已经能够完全取代医生。",
+     "correctAnswer": "错",
+     "explanation": "原文明确指出AI不能完全取代医生，目前只是辅助工具，帮助提高效率和准确性。"
+    },
+    {
+     "id": "q2",
+     "type": "listening-statement-true-false",
+     "prompt": "AI可以在偏远地区协助基层医生进行初步筛查。",
+     "correctAnswer": "对",
+     "explanation": "原文提到在一些偏远地区，AI可以协助基层医生进行初步筛查，缓解医疗资源不足的问题。"
+    },
+    {
+     "id": "q3",
+     "type": "listening-statement-true-false",
+     "prompt": "AI对罕见病例的识别能力与常见病例一样强。",
+     "correctAnswer": "错",
+     "explanation": "原文指出AI存在局限性，对罕见病例的识别能力较弱。"
+    },
+    {
+     "id": "q4",
+     "type": "listening-statement-true-false",
+     "prompt": "专家认为AI与医生的协作是未来医疗发展的方向。",
+     "correctAnswer": "对",
+     "explanation": "原文结尾强调专家认为AI与医生的协作才是未来医疗发展的方向。"
+    },
+    {
+     "id": "q5",
+     "type": "listening-statement-true-false",
+     "prompt": "AI在临床决策中能够提供与医生同等水平的人文关怀。",
+     "correctAnswer": "错",
+     "explanation": "原文提到AI缺乏临床决策中的人文关怀，因此无法提供与医生同等水平的人文关怀。"
+    }
+   ],
+   "audio": {
+    "key": "listening/v1/a08a3a1beb950863ecf6703e2512071bb2b1fcb61c303858c014074c9f157203.mp3",
+    "lines": [
+     {
+      "speaker": "旁白",
+      "voice": "narrator",
+      "text": "近年来，人工智能在医疗领域的应用越来越广泛，尤其是在医学影像诊断方面，AI已经能够以极高的准确率识别出早期肿瘤。然而，这并不意味着AI可以完全取代医生。实际上，目前的AI系统更多是作为辅助工具，帮助医生提高诊断效率和准确性。例如，在一些偏远地区，AI可以协助基层医生进行初步筛查，从而缓解医疗资源不足的问题。但AI也存在局限性，比如对罕见病例的识别能力较弱，以及缺乏临床决策中的人文关怀。因此，专家强调，AI与医生的协作才是未来医疗发展的方向。"
+     }
+    ],
+    "transcript": "近年来，人工智能在医疗领域的应用越来越广泛，尤其是在医学影像诊断方面，AI已经能够以极高的准确率识别出早期肿瘤。然而，这并不意味着AI可以完全取代医生。实际上，目前的AI系统更多是作为辅助工具，帮助医生提高诊断效率和准确性。例如，在一些偏远地区，AI可以协助基层医生进行初步筛查，从而缓解医疗资源不足的问题。但AI也存在局限性，比如对罕见病例的识别能力较弱，以及缺乏临床决策中的人文关怀。因此，专家强调，AI与医生的协作才是未来医疗发展的方向。",
+    "transcriptPinyin": null
+   }
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

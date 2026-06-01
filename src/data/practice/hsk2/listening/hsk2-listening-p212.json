@@ -1,0 +1,289 @@
+{
+ "id": "hsk2-listening-p212",
+ "level": "2",
+ "section": "listening",
+ "partKey": "listening-p2",
+ "title": "HSK2 Listening P2",
+ "titleZh": "听力 第二部分（看图听对话）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听对话，然后选择与对话内容相符的图片。有六张图片A到F，每个对话对应一张图片。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "A",
+     "explanation": "对话中提到了“吃米饭”，与图片A相符。",
+     "audio": {
+      "key": "listening/v1/8e228c6a70cf67067e46fd05490c73d0d3a77d73efd30d94ab9e994fce584ad1.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你吃饭了吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "吃了，我在吃米饭。"
+       }
+      ],
+      "transcript": "你吃饭了吗？ 吃了，我在吃米饭。",
+      "transcriptPinyin": "nǐ chī fàn le ma ？  chī le ， wǒ zài chī mǐ fàn 。"
+     }
+    },
+    {
+     "id": "q2",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "B",
+     "explanation": "对话中女的说“看书”，与图片B相符。",
+     "audio": {
+      "key": "listening/v1/dffaf0e07bbd6f2e8fbefd9ba6c9ebdd503bcfe963f7227ca0e7eddc711a0d35.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你在做什么？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我在看书。"
+       }
+      ],
+      "transcript": "你在做什么？ 我在看书。",
+      "transcriptPinyin": "nǐ zài zuò shén me ？  wǒ zài kàn shū 。"
+     }
+    },
+    {
+     "id": "q3",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "C",
+     "explanation": "对话中提到“睡觉”，与图片C相符。",
+     "audio": {
+      "key": "listening/v1/8ca20487edaca5a777eca37c56242fb0320f05160d5b7cb52d52344ca84d8976.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "孩子呢？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "他在睡觉。"
+       }
+      ],
+      "transcript": "孩子呢？ 他在睡觉。",
+      "transcriptPinyin": "hái zi ne ？  tā zài shuì jiào 。"
+     }
+    },
+    {
+     "id": "q4",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "D",
+     "explanation": "对话中谈到“跑步”，与图片D相符。",
+     "audio": {
+      "key": "listening/v1/8aec73fffc5e5c31463567096682770c8eed48a5377043c7bef3179d643f9136.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你每天跑步吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "对，我早上跑步。"
+       }
+      ],
+      "transcript": "你每天跑步吗？ 对，我早上跑步。",
+      "transcriptPinyin": "nǐ měi tiān pǎo bù ma ？  duì ， wǒ zǎo shàng pǎo bù 。"
+     }
+    },
+    {
+     "id": "q5",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "E",
+     "explanation": "对话中猫在“喝牛奶”，与图片E相符。",
+     "audio": {
+      "key": "listening/v1/fb067e90500271f9b1c38fe0a13240e80eb313b70ef92a7d1c8d66ad7b1be119.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你的猫在做什么？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "它在喝牛奶。"
+       }
+      ],
+      "transcript": "你的猫在做什么？ 它在喝牛奶。",
+      "transcriptPinyin": "nǐ de māo zài zuò shén me ？  tā zài hē niú nǎi 。"
+     }
+    },
+    {
+     "id": "q6",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "A",
+     "explanation": "提到“吃米饭”，对应图片A。",
+     "audio": {
+      "key": "listening/v1/bbbc09b2abbf68b681d2d0b01d4ed9c12d7fddb0f5ff88baaf94c667b54fbe7e.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你想吃什么？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我想吃米饭。"
+       }
+      ],
+      "transcript": "你想吃什么？ 我想吃米饭。",
+      "transcriptPinyin": "nǐ xiǎng chī shén me ？  wǒ xiǎng chī mǐ fàn 。"
+     }
+    },
+    {
+     "id": "q7",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "B",
+     "explanation": "提到“看书”，对应图片B。",
+     "audio": {
+      "key": "listening/v1/8c2702fbbdf351a39e81ad7d2f012c0b6a15125256b89e36de50ef6fefc18594.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "这本书好看吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "很好看，我正在看。"
+       }
+      ],
+      "transcript": "这本书好看吗？ 很好看，我正在看。",
+      "transcriptPinyin": "zhè běn shū hǎo kàn ma ？  hěn hǎo kàn ， wǒ zhèng zài kàn 。"
+     }
+    },
+    {
+     "id": "q8",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "C",
+     "explanation": "提到“睡觉”，对应图片C。",
+     "audio": {
+      "key": "listening/v1/6e9083cadeb187da19867d8a27d0e01e6204b4d3a116731546271a04366a729b.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "晚上几点睡觉？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "我十点睡觉。"
+       }
+      ],
+      "transcript": "晚上几点睡觉？ 我十点睡觉。",
+      "transcriptPinyin": "wǎn shàng jǐ diǎn shuì jiào ？  wǒ shí diǎn shuì jiào 。"
+     }
+    },
+    {
+     "id": "q9",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "D",
+     "explanation": "提到“跑步”，对应图片D。",
+     "audio": {
+      "key": "listening/v1/b2ac50a21f56e7114f94d4d200c3ef5d4a67d6c70c983d4e613eaf0e3f4e4870.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "他呢？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "他在跑步。"
+       }
+      ],
+      "transcript": "他呢？ 他在跑步。",
+      "transcriptPinyin": "tā ne ？  tā zài pǎo bù 。"
+     }
+    },
+    {
+     "id": "q10",
+     "type": "listening-picture-match",
+     "prompt": "",
+     "correctAnswer": "E",
+     "explanation": "提到“喝牛奶”，对应图片E。",
+     "audio": {
+      "key": "listening/v1/e35823fdbcf80bdd0f3d3942dfef764daa23e8c937d9df718fa40b7ee9fc8434.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "猫喜欢喝什么？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "它喜欢喝牛奶。"
+       }
+      ],
+      "transcript": "猫喜欢喝什么？ 它喜欢喝牛奶。",
+      "transcriptPinyin": "māo xǐ huān hē shén me ？  tā xǐ huān hē niú nǎi 。"
+     }
+    }
+   ],
+   "sharedBank": [
+    {
+     "label": "A",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-0acfdb61dd16472defb89c3bcc5aee15.png"
+    },
+    {
+     "label": "B",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-27add2bd8931793e0ebb68ddf20ab469.png"
+    },
+    {
+     "label": "C",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-81e456f560a4c3c5184701c2cadafa9e.png"
+    },
+    {
+     "label": "D",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-23e259f89a290fa4027ff1f904e8f1e3.png"
+    },
+    {
+     "label": "E",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-fa7397bc64a2b521d5341f4cb6b795e7.png"
+    },
+    {
+     "label": "F",
+     "text": "",
+     "imageUrl": "/api/practice-image?key=images/v1/scene-c25936d1670fe7eefcf08e7b1930ef48.png"
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}

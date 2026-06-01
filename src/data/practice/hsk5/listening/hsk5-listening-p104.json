@@ -1,0 +1,512 @@
+{
+ "id": "hsk5-listening-p104",
+ "level": "5",
+ "section": "listening",
+ "partKey": "listening-p1",
+ "title": "HSK5 Listening P1",
+ "titleZh": "听力 第一部分（听对话选答案）",
+ "groups": [
+  {
+   "id": "g1",
+   "instruction": "请听对话，然后根据对话内容选择正确答案。",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "listening-mcq",
+     "prompt": "关于女的，可以知道什么？",
+     "correctAnswer": "C",
+     "explanation": "对话中女士说项目期限快到了，需要加班，说明工作压力大。",
+     "audio": {
+      "key": "listening/v1/85bc6485e89cca1d62ade3d334a4cf8ce8a849213d46f899cf742f64911ce8e0.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你最近总加班，身体吃得消吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "没办法，项目期限快到了，再坚持两周吧。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "别太拼了，健康最重要。"
+       }
+      ],
+      "transcript": "你最近总加班，身体吃得消吗？ 没办法，项目期限快到了，再坚持两周吧。 别太拼了，健康最重要。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "她准备辞职"
+      },
+      {
+       "label": "B",
+       "text": "她最近在休假"
+      },
+      {
+       "label": "C",
+       "text": "她工作压力很大"
+      },
+      {
+       "label": "D",
+       "text": "她身体很健康"
+      }
+     ]
+    },
+    {
+     "id": "q2",
+     "type": "listening-mcq",
+     "prompt": "关于这部电影，男人和女人有什么不同？",
+     "correctAnswer": "A",
+     "explanation": "男士说结局意外不太喜欢，女士说觉得有创意，说明女士喜欢而男士不喜欢。",
+     "audio": {
+      "key": "listening/v1/1b49c4dff5d468cab75b7d7e664aa7d780c0f88d41c0da47da25d4406b5cce12.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你觉得这部电影怎么样？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "情节很精彩，但结局有点意外，不太喜欢。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我倒觉得结局很有创意。"
+       }
+      ],
+      "transcript": "你觉得这部电影怎么样？ 情节很精彩，但结局有点意外，不太喜欢。 我倒觉得结局很有创意。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "女人喜欢结局，男人不喜欢"
+      },
+      {
+       "label": "B",
+       "text": "两人都觉得情节一般"
+      },
+      {
+       "label": "C",
+       "text": "男人喜欢结局，女人不喜欢"
+      },
+      {
+       "label": "D",
+       "text": "两人都喜欢结局"
+      }
+     ]
+    },
+    {
+     "id": "q3",
+     "type": "listening-mcq",
+     "prompt": "他们什么时候去爬山？",
+     "correctAnswer": "B",
+     "explanation": "女士说明天开会后天有空，男士同意改到后天，所以是后天去爬山。",
+     "audio": {
+      "key": "listening/v1/fa4cbaffad7785d239c53050110dce55a5f0fc32e396b68dffd4e11bbaf7e480.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "明天去爬山吧？天气预报说天气不错。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "可是我明天要开会，后天才有空。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "那改到后天，你觉得呢？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "行，那就后天见。"
+       }
+      ],
+      "transcript": "明天去爬山吧？天气预报说天气不错。 可是我明天要开会，后天才有空。 那改到后天，你觉得呢？ 行，那就后天见。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "明天"
+      },
+      {
+       "label": "B",
+       "text": "后天"
+      },
+      {
+       "label": "C",
+       "text": "今天"
+      },
+      {
+       "label": "D",
+       "text": "下个周末"
+      }
+     ]
+    },
+    {
+     "id": "q4",
+     "type": "listening-mcq",
+     "prompt": "关于男人的工作，下面哪个是正确的？",
+     "correctAnswer": "A",
+     "explanation": "男士说已收到一家录取但薪水不理想，并且还要参加另一家公司的复试，说明他还在考虑其他机会。",
+     "audio": {
+      "key": "listening/v1/436affe316e8260d930b10ca6d42c31bc68c0f98aaba32723a53746d0d666f50.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你的新工作找得怎么样了？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "面试了几家，有一家已经给我录取通知了，但薪水不太理想。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "那你在等更好的机会？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "对，还有一家明天复试，希望能成功。"
+       }
+      ],
+      "transcript": "你的新工作找得怎么样了？ 面试了几家，有一家已经给我录取通知了，但薪水不太理想。 那你在等更好的机会？ 对，还有一家明天复试，希望能成功。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "他还在考虑其他机会"
+      },
+      {
+       "label": "B",
+       "text": "他已经确定去那家公司了"
+      },
+      {
+       "label": "C",
+       "text": "他对薪水很满意"
+      },
+      {
+       "label": "D",
+       "text": "他放弃了找工作"
+      }
+     ]
+    },
+    {
+     "id": "q5",
+     "type": "listening-mcq",
+     "prompt": "关于女人做饭的水平，可以知道什么？",
+     "correctAnswer": "A",
+     "explanation": "女士说现在能做几个家常菜了，以前只会煮面条，说明有进步。",
+     "audio": {
+      "key": "listening/v1/a5f548aeeecdb02c74c57aed23c437b73a2144f687a92fad16449cfe993f98a1.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "听说你最近在学做饭，进步大吗？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "还行，至少现在能做几个家常菜了，以前只会煮面条。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "那很不错了，改天尝尝你的手艺。"
+       }
+      ],
+      "transcript": "听说你最近在学做饭，进步大吗？ 还行，至少现在能做几个家常菜了，以前只会煮面条。 那很不错了，改天尝尝你的手艺。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "她已经能做几个菜了"
+      },
+      {
+       "label": "B",
+       "text": "她还只会煮面条"
+      },
+      {
+       "label": "C",
+       "text": "她不想让别人尝"
+      },
+      {
+       "label": "D",
+       "text": "她完全没有进步"
+      }
+     ]
+    },
+    {
+     "id": "q6",
+     "type": "listening-mcq",
+     "prompt": "男人为什么现在不打篮球了？",
+     "correctAnswer": "B",
+     "explanation": "男士说最近膝盖受了伤，所以不打篮球了，改去游泳。",
+     "audio": {
+      "key": "listening/v1/77ac95a8d28d69a7ce1bc4189d7d643151cfe9ad2207155b967f80b144d345ca.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你平时周末都做什么运动？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "以前经常打篮球，但最近膝盖受了伤，只能去游泳了。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "游泳也不错，对关节伤害小。"
+       }
+      ],
+      "transcript": "你平时周末都做什么运动？ 以前经常打篮球，但最近膝盖受了伤，只能去游泳了。 游泳也不错，对关节伤害小。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "因为他讨厌篮球"
+      },
+      {
+       "label": "B",
+       "text": "因为他膝盖受伤了"
+      },
+      {
+       "label": "C",
+       "text": "因为他找不到球场"
+      },
+      {
+       "label": "D",
+       "text": "因为他更喜欢游泳"
+      }
+     ]
+    },
+    {
+     "id": "q7",
+     "type": "listening-mcq",
+     "prompt": "女人建议男人怎么做？",
+     "correctAnswer": "A",
+     "explanation": "女士建议先杀毒，然后删除不常用的程序。",
+     "audio": {
+      "key": "listening/v1/0c5664b7639b9fb4cbe63f75f1f8f8bd612e972e785b4f4113d3fe648cbb1296.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你帮我看看这个电脑怎么这么慢？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你装太多软件了，而且可能中了病毒。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "有没有什么办法解决？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "最好先杀毒，然后删除不常用的程序。"
+       }
+      ],
+      "transcript": "你帮我看看这个电脑怎么这么慢？ 你装太多软件了，而且可能中了病毒。 有没有什么办法解决？ 最好先杀毒，然后删除不常用的程序。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "杀毒并删除部分程序"
+      },
+      {
+       "label": "B",
+       "text": "只杀毒不删除程序"
+      },
+      {
+       "label": "C",
+       "text": "重新买一台电脑"
+      },
+      {
+       "label": "D",
+       "text": "重装系统"
+      }
+     ]
+    },
+    {
+     "id": "q8",
+     "type": "listening-mcq",
+     "prompt": "关于给妈妈的礼物，他们最终决定买什么？",
+     "correctAnswer": "C",
+     "explanation": "男士提议买按摩椅，女士说按摩椅太占地方，建议买按摩披肩，男士没有反对，所以决定买按摩披肩。",
+     "audio": {
+      "key": "listening/v1/f0b7067f76dfc90b49a6cb3ab10454796aba1b97a072105653daec0777fb1f6b.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "明天是妈妈生日，我们送什么礼物好？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "她最近老说肩膀疼，不如买个按摩椅？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "主意不错，但按摩椅太占地方，还是买个按摩披肩吧，实用。"
+       }
+      ],
+      "transcript": "明天是妈妈生日，我们送什么礼物好？ 她最近老说肩膀疼，不如买个按摩椅？ 主意不错，但按摩椅太占地方，还是买个按摩披肩吧，实用。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "蛋糕"
+      },
+      {
+       "label": "B",
+       "text": "鲜花"
+      },
+      {
+       "label": "C",
+       "text": "按摩披肩"
+      },
+      {
+       "label": "D",
+       "text": "按摩椅"
+      }
+     ]
+    },
+    {
+     "id": "q9",
+     "type": "listening-mcq",
+     "prompt": "关于那本书，下面哪个是对的？",
+     "correctAnswer": "B",
+     "explanation": "女士说书是关于提高效率的，也就是时间管理。",
+     "audio": {
+      "key": "listening/v1/0408dd6899e0592ef6cd30a507c1d9b03e560829d43435c088f995e3110738fd.mp3",
+      "lines": [
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "你在看什么书？"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "一本关于时间的书，讲怎么提高效率的。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "有效果吗？我总觉得时间不够用。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "我才看了一半，不过里面的方法挺实用的。"
+       }
+      ],
+      "transcript": "你在看什么书？ 一本关于时间的书，讲怎么提高效率的。 有效果吗？我总觉得时间不够用。 我才看了一半，不过里面的方法挺实用的。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "已经全部看完了"
+      },
+      {
+       "label": "B",
+       "text": "讲时间管理的"
+      },
+      {
+       "label": "C",
+       "text": "男士也看过那本书"
+      },
+      {
+       "label": "D",
+       "text": "是小说"
+      }
+     ]
+    },
+    {
+     "id": "q10",
+     "type": "listening-mcq",
+     "prompt": "男人为什么愿意再去那家餐厅？",
+     "correctAnswer": "A",
+     "explanation": "女士提到有优惠券打八折，男士说可以再去，说明是因为优惠。",
+     "audio": {
+      "key": "listening/v1/4d0a33af8906870a6e0f398a72042c29ebf96a7e81233a603291048d6b453402.mp3",
+      "lines": [
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "你记得我们上周去的那家餐厅吗？"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "记得，环境不错，但价格太贵了。"
+       },
+       {
+        "speaker": "女",
+        "voice": "female",
+        "text": "是啊，不过他们最近推出了优惠券，打八折。"
+       },
+       {
+        "speaker": "男",
+        "voice": "male",
+        "text": "那我们可以再去一次。"
+       }
+      ],
+      "transcript": "你记得我们上周去的那家餐厅吗？ 记得，环境不错，但价格太贵了。 是啊，不过他们最近推出了优惠券，打八折。 那我们可以再去一次。",
+      "transcriptPinyin": null
+     },
+     "options": [
+      {
+       "label": "A",
+       "text": "因为现在有优惠"
+      },
+      {
+       "label": "B",
+       "text": "因为服务员很热情"
+      },
+      {
+       "label": "C",
+       "text": "因为味道很好"
+      },
+      {
+       "label": "D",
+       "text": "因为环境很好"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "source": "AI-generated (DeepSeek + Edge-TTS + SiliconFlow), HSK 3.0 new format"
+}
