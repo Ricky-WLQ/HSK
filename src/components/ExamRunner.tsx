@@ -272,7 +272,12 @@ export default function ExamRunner({ exam }: { exam: AssembledExam }) {
             {t.exam.pinyin}
           </button>
           <span
-            className={`flex items-center gap-1 font-mono font-bold ${timeLeft <= 30 ? "text-error" : "text-foreground"}`}
+            role="timer"
+            aria-label={timeLeft <= 30 ? t.exam.timeAlmostUp : undefined}
+            title={timeLeft <= 30 ? t.exam.timeAlmostUp : undefined}
+            className={`flex items-center gap-1 font-mono font-bold ${
+              timeLeft <= 30 ? "text-error animate-pulse" : "text-foreground"
+            }`}
           >
             <Clock className="h-4 w-4" /> {fmt(timeLeft)}
           </span>
@@ -348,7 +353,13 @@ export default function ExamRunner({ exam }: { exam: AssembledExam }) {
       )}
 
       <div className="mb-10 flex justify-end">
-        <button onClick={advance} className="btn-solid btn-solid-primary">
+        <button
+          onClick={() => {
+            const isLast = sectionIdx + 1 >= exam.sections.length;
+            if (confirm(isLast ? t.exam.confirmFinish : t.exam.confirmSubmitSection)) advance();
+          }}
+          className="btn-solid btn-solid-primary"
+        >
           {sectionIdx + 1 < exam.sections.length ? t.exam.submitSection : t.exam.finish}
         </button>
       </div>

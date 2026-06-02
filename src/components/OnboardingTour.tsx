@@ -67,6 +67,13 @@ export default function OnboardingTour() {
       /* ignore */
     }
     if (firstRun) {
+      // Mark as seen the moment it opens, so a refresh mid-tour doesn't reopen it.
+      // Users can still replay it from the dashboard button.
+      try {
+        localStorage.setItem(KEY, "1");
+      } catch {
+        /* ignore */
+      }
       setStep(0);
       setActive(true);
     }
@@ -162,7 +169,7 @@ export default function OnboardingTour() {
               <button
                 onClick={dismiss}
                 aria-label={t.tour.skip}
-                className="absolute right-3 top-3 text-foreground/65 hover:text-foreground"
+                className="absolute right-2 top-2 flex h-11 w-11 items-center justify-center rounded-lg text-foreground/65 hover:bg-surface hover:text-foreground"
               >
                 <X className="h-5 w-5" />
               </button>

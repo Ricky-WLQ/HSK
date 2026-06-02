@@ -28,6 +28,7 @@ export default function WritingRunner({ set }: { set: HskPracticeSet }) {
   const [checked, setChecked] = useState<Set<string>>(new Set());
   const [grades, setGrades] = useState<Record<string, Grade>>({});
   const [grading, setGrading] = useState<Set<string>>(new Set());
+  const [gradeError, setGradeError] = useState<Record<string, string>>({});
   const savedRef = useRef(false);
   const abortRef = useRef<AbortController[]>([]);
 
@@ -95,6 +96,12 @@ export default function WritingRunner({ set }: { set: HskPracticeSet }) {
   const submitGrade = useCallback(
     async (q: HskQuestion) => {
       if (checked.has(q.id) || grading.has(q.id) || !(answers[q.id] ?? "").trim()) return;
+      setGradeError((m) => {
+        if (!(q.id in m)) return m;
+        const n = { ...m };
+        delete n[q.id];
+        return n;
+      });
       setGrading((s) => new Set(s).add(q.id));
       const controller = new AbortController();
       abortRef.current.push(controller);
@@ -120,9 +127,14 @@ export default function WritingRunner({ set }: { set: HskPracticeSet }) {
           const next = new Set(checked).add(q.id);
           setChecked(next);
           finishIfDone(next, q);
+        } else {
+          setGradeError((m) => ({ ...m, [q.id]: t.practice.gradeFailed }));
         }
-      } catch {
-        /* aborted or error */
+      } catch (err) {
+        // Ignore aborts (component unmount); surface real failures so grading isn't silent.
+        if (!(err instanceof DOMException && err.name === "AbortError")) {
+          setGradeError((m) => ({ ...m, [q.id]: t.practice.gradeFailed }));
+        }
       } finally {
         setGrading((s) => {
           const n = new Set(s);
@@ -226,23 +238,34 @@ export default function WritingRunner({ set }: { set: HskPracticeSet }) {
                   )}
 
                   {!isChecked ? (
-                    <button
-                      onClick={() => (isFill ? checkFillChar(q) : submitGrade(q))}
-                      disabled={!(answers[q.id] ?? "").trim() || grading.has(q.id)}
-                      className="btn-solid btn-solid-primary mt-3 disabled:opacity-40"
-                    >
-                      {grading.has(q.id) ? (
-                        <>
-                          <Loader2 className="h-4 w-4 animate-spin" /> {t.practice.grading}
-                        </>
-                      ) : isFill ? (
-                        t.practice.check
-                      ) : (
-                        <>
-                          <Sparkles className="h-4 w-4" /> {t.practice.submitGrade}
-                        </>
+                    <>
+                      <button
+                        onClick={() => (isFill ? checkFillChar(q) : submitGrade(q))}
+                        disabled={!(answers[q.id] ?? "").trim() || grading.has(q.id)}
+                        className="btn-solid btn-solid-primary mt-3 disabled:opacity-40"
+                      >
+                        {grading.has(q.id) ? (
+                          <>
+                            <Loader2 className="h-4 w-4 animate-spin" /> {t.practice.grading}
+                          </>
+                        ) : isFill ? (
+                          t.practice.check
+                        ) : gradeError[q.id] ? (
+                          <>
+                            <Sparkles className="h-4 w-4" /> {t.practice.retry}
+                          </>
+                        ) : (
+                          <>
+                            <Sparkles className="h-4 w-4" /> {t.practice.submitGrade}
+                          </>
+                        )}
+                      </button>
+                      {gradeError[q.id] && (
+                        <p role="alert" className="mt-2 text-sm font-semibold text-error">
+                          {gradeError[q.id]}
+                        </p>
                       )}
-                    </button>
+                    </>
                   ) : (
                     <div className="mt-3 animate-scale-in">
                       {isFill ? (

@@ -198,6 +198,7 @@ body {
   background: var(--background);
   color: var(--foreground);
   font-family: var(--font-sans), "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+  line-height: 1.6; /* comfortable default for body text (WCAG/readability) */
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -736,45 +737,49 @@ body {
   border-color: var(--primary-light);
 }
 
+/* Badge TEXT colors are darkened (~700/800 level) so they meet WCAG AA (≥4.5:1) on
+   their light tint/pastel backgrounds; the saturated hue is kept on the 2px border + in
+   dark mode (see `.dark .badge-*` overrides below). All ratios computed against the real
+   composited background — see commit notes. */
 .badge-secondary {
   background: rgba(249, 115, 22, 0.1);
-  color: var(--secondary);
+  color: #9A3412; /* 6.30:1 on tint */
   border-color: var(--secondary);
 }
 
 .badge-accent {
   background: rgba(139, 92, 246, 0.1);
-  color: var(--accent);
+  color: #6D28D9; /* 5.96:1 */
   border-color: var(--accent-light);
 }
 
 .badge-coral {
   background: rgba(251, 113, 133, 0.1);
-  color: var(--coral);
+  color: #BE123C; /* 5.47:1 */
   border-color: var(--coral);
 }
 
 .badge-success {
   background: rgba(34, 197, 94, 0.1);
-  color: var(--success);
+  color: #166534; /* 6.24:1 */
   border-color: var(--success);
 }
 
 .badge-warning {
   background: rgba(245, 158, 11, 0.12);
-  color: var(--warning);
+  color: #92400E; /* 6.17:1 */
   border-color: var(--warning);
 }
 
 .badge-error {
   background: rgba(239, 68, 68, 0.1);
-  color: var(--error);
+  color: #B91C1C; /* 5.41:1 */
   border-color: var(--error);
 }
 
 .badge-info {
   background: var(--info-light);
-  color: var(--info);
+  color: #1D4ED8; /* 5.49:1 on #DBEAFE */
   border-color: var(--info);
 }
 
@@ -784,13 +789,29 @@ body {
   border-color: var(--navy-light);
 }
 
-/* Section badges */
-.badge-listening { background: var(--listening-light); color: var(--listening); border-color: var(--listening); }
-.badge-reading { background: var(--reading-light); color: var(--reading); border-color: var(--reading); }
-.badge-writing { background: var(--writing-light); color: var(--writing); border-color: var(--writing); }
-.badge-translation { background: var(--translation-light); color: var(--translation); border-color: var(--translation); }
-.badge-vocab { background: var(--vocab-light); color: var(--vocab); border-color: var(--vocab); }
-.badge-grammar { background: var(--grammar-light); color: var(--grammar); border-color: var(--grammar); }
+/* Section badges — darkened text for AA on the solid pastel backgrounds */
+.badge-listening { background: var(--listening-light); color: #1D4ED8; border-color: var(--listening); }
+.badge-reading { background: var(--reading-light); color: #047857; border-color: var(--reading); }
+.badge-writing { background: var(--writing-light); color: #6D28D9; border-color: var(--writing); }
+.badge-translation { background: var(--translation-light); color: #92400E; border-color: var(--translation); }
+.badge-vocab { background: var(--vocab-light); color: #0F766E; border-color: var(--vocab); }
+.badge-grammar { background: var(--grammar-light); color: #BE123C; border-color: var(--grammar); }
+
+/* Dark mode: badge backgrounds become dark tints, so text reverts to a bright shade.
+   Lighter (300/400-level) for hues that fail AA at 500 on the dark composite. */
+.dark .badge-secondary { color: #F97316; }   /* 5.68:1 */
+.dark .badge-accent { color: #A78BFA; }       /* 5.93:1 */
+.dark .badge-coral { color: #FB7185; }        /* 5.82:1 */
+.dark .badge-success { color: #22C55E; }      /* 6.73:1 */
+.dark .badge-warning { color: #F59E0B; }      /* 6.88:1 */
+.dark .badge-error { color: #F87171; }        /* 5.92:1 */
+.dark .badge-info { color: #60A5FA; }          /* 5.81:1 */
+.dark .badge-listening { color: #60A5FA; }     /* 6.07:1 */
+.dark .badge-reading { color: #10B981; }       /* 5.91:1 */
+.dark .badge-writing { color: #A78BFA; }       /* 5.80:1 */
+.dark .badge-translation { color: #F59E0B; }   /* 6.88:1 */
+.dark .badge-vocab { color: #14B8A6; }         /* 5.97:1 */
+.dark .badge-grammar { color: #FB7185; }       /* 5.97:1 */
 
 /* ==========================================
    CHIP / FILTER PILL SYSTEM

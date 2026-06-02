@@ -1,12 +1,12 @@
 "use client";
 
 import { useState } from "react";
-import { Users, Trophy, CheckCircle2, XCircle, Hourglass } from "lucide-react";
+import { Users, Trophy, CheckCircle2, XCircle, Hourglass, Loader2 } from "lucide-react";
 import { useLiveState } from "@/components/useLiveState";
 import { t } from "@/i18n";
 
 export default function LivePlayer({ sessionId }: { sessionId: string }) {
-  const state = useLiveState(sessionId);
+  const { state, connecting, notJoined } = useLiveState(sessionId);
   const [busy, setBusy] = useState(false);
 
   async function answer(idx: number) {
@@ -24,7 +24,15 @@ export default function LivePlayer({ sessionId }: { sessionId: string }) {
   }
 
   if (state === null) {
-    // either still connecting, or not a participant (SSE 404 → no messages)
+    // Still opening the stream — don't show the "not joined" error prematurely.
+    if (connecting && !notJoined) {
+      return (
+        <p className="card-flat flex items-center justify-center gap-2 px-5 py-8 text-center text-foreground/75">
+          <Loader2 className="h-5 w-5 animate-spin" aria-hidden /> {t.live.connecting}
+        </p>
+      );
+    }
+    // Stream closed without data → not a participant (SSE 404).
     return (
       <p className="card-flat px-5 py-8 text-center text-foreground/75">{t.live.notJoined}</p>
     );

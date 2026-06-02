@@ -6,7 +6,7 @@ import { useLiveState } from "@/components/useLiveState";
 import { t } from "@/i18n";
 
 export default function LiveHost({ sessionId }: { sessionId: string }) {
-  const state = useLiveState(sessionId);
+  const { state } = useLiveState(sessionId);
   const [busy, setBusy] = useState(false);
 
   async function control(action: string) {
