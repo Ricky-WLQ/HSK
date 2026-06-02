@@ -317,6 +317,17 @@ export const messages = {
     joinFailed: "That invite code didn't work. Check it and try again.",
     notEnrolled: "You haven't joined any classes yet. Ask your teacher for an invite code.",
     taughtBy: "Teacher",
+    // become a teacher (secret access-code signup)
+    becomePrompt: "Are you a teacher? Enter your access code",
+    becomeTitle: "Become a teacher",
+    becomeSubtitle:
+      "Have a teacher access code? Enter it to unlock the teacher portal — create classes, assign practice, and track your students.",
+    accessCode: "Teacher access code",
+    accessCodePlaceholder: "Enter your access code",
+    claim: "Unlock teacher tools",
+    claiming: "Verifying…",
+    claimInvalid: "That code didn't work. Check it and try again.",
+    claimUnavailable: "Teacher signup isn't available right now. Please contact your administrator.",
   },
 } as const;
 

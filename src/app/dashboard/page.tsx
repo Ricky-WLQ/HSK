@@ -182,6 +182,16 @@ export default async function DashboardPage() {
             {t.dashboard.roleLabel}: {role}
           </span>
         </div>
+
+        {role === "student" && (
+          <Link
+            href="/become-teacher"
+            className="mt-6 inline-flex items-center gap-1 text-sm font-semibold text-primary hover:underline"
+          >
+            {t.teacher.becomePrompt}
+            <ArrowRight className="h-4 w-4" />
+          </Link>
+        )}
       </main>
     </div>
   );
