@@ -9,6 +9,7 @@ import SignOutButton from "@/components/SignOutButton";
 import ThemeToggle from "@/components/ThemeToggle";
 import FontSizeControl from "@/components/FontSizeControl";
 import JoinClassForm from "@/components/JoinClassForm";
+import JoinLive from "@/components/JoinLive";
 import { t } from "@/i18n";
 
 export const dynamic = "force-dynamic";
@@ -74,8 +75,9 @@ export default async function StudentClassesPage() {
         <h1 className="font-heading text-3xl font-extrabold">{t.teacher.myClasses}</h1>
         <p className="mt-1 text-foreground/60">{t.teacher.myClassesDesc}</p>
 
-        <div className="mt-8">
+        <div className="mt-8 grid gap-4 sm:grid-cols-2">
           <JoinClassForm />
+          <JoinLive />
         </div>
 
         {assignments.length > 0 && (
