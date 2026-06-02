@@ -128,6 +128,7 @@ export default async function ProgressPage() {
               </section>
             )}
 
+            {s.recent.length > 0 && (
             <section className="card-elevated mt-6 mb-10 p-6">
               <h2 className="mb-3 font-heading text-lg font-bold">{t.progress.recent}</h2>
               <ul className="divide-y divide-card-border">
@@ -143,6 +144,7 @@ export default async function ProgressPage() {
                 ))}
               </ul>
             </section>
+            )}
           </>
         )}
       </main>

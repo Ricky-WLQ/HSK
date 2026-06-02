@@ -2,7 +2,7 @@
 
 import { useState } from "react";
 import Link from "next/link";
-import { Check, RotateCcw } from "lucide-react";
+import { Check, RotateCcw, X } from "lucide-react";
 import { t } from "@/i18n";
 import type { MistakeItem } from "@/lib/progress";
 
@@ -104,6 +104,16 @@ export default function MistakeList({ mistakes }: { mistakes: MistakeItem[] }) {
                       <div key={o.label} className={`flex items-start gap-2 rounded-lg border-2 p-2 text-sm ${cls}`}>
                         <span className="font-bold text-primary">{o.label}</span>
                         <span>{o.text}</span>
+                        {isCorrect && (
+                          <span className="ml-auto flex shrink-0 items-center gap-1 text-xs font-bold text-success">
+                            <Check className="h-3.5 w-3.5" /> {t.practice.correct}
+                          </span>
+                        )}
+                        {isYours && !isCorrect && (
+                          <span className="ml-auto flex shrink-0 items-center gap-1 text-xs font-bold text-error">
+                            <X className="h-3.5 w-3.5" /> {t.mistakes.yourAnswer}
+                          </span>
+                        )}
                       </div>
                     );
                   })}
