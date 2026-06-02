@@ -39,7 +39,7 @@ export default function FontSizeControl() {
         <span className="text-xs leading-none">A</span>
         <span className="leading-none">−</span>
       </button>
-      <span aria-hidden className="px-1 text-xs font-semibold text-foreground/65">
+      <span aria-hidden className="hidden px-1 text-xs font-semibold text-foreground/65 sm:inline">
         {mounted ? `${FONT_SCALES[idx]}%` : "A"}
       </span>
       <button

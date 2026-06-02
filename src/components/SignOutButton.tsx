@@ -22,9 +22,10 @@ export default function SignOutButton() {
           setLoading(false);
         }
       }}
-      className="btn-solid btn-solid-outline disabled:opacity-50"
+      aria-label="Sign out"
+      className="btn-solid btn-solid-outline min-w-11 disabled:opacity-50"
     >
-      <LogOut className="h-4 w-4" /> Sign out
+      <LogOut className="h-4 w-4" /> <span className="hidden sm:inline">Sign out</span>
     </button>
   );
 }
