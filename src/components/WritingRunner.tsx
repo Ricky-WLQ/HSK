@@ -139,7 +139,7 @@ export default function WritingRunner({ set }: { set: HskPracticeSet }) {
       <div className="mb-4 flex items-center justify-between">
         <Link
           href={`/practice/${set.level}/${set.section}`}
-          className="text-sm text-foreground/60 hover:underline"
+          className="text-sm text-foreground/75 hover:underline"
         >
           ← {t.practice.backToSets}
         </Link>
@@ -150,7 +150,7 @@ export default function WritingRunner({ set }: { set: HskPracticeSet }) {
 
       {set.groups.map((group) => (
         <div key={group.id} className="card-elevated mb-6 p-6">
-          <p className="mb-4 text-sm text-foreground/60">{group.instruction}</p>
+          <p className="mb-4 text-sm text-foreground/75">{group.instruction}</p>
 
           <div className="space-y-7">
             {group.questions.map((q, qi) => {
@@ -161,7 +161,7 @@ export default function WritingRunner({ set }: { set: HskPracticeSet }) {
               return (
                 <div key={q.id} className="border-t border-card-border pt-4 first:border-t-0 first:pt-0">
                   <div className="mb-2 flex gap-2">
-                    <span className="font-semibold text-foreground/50">{qi + 1}.</span>
+                    <span className="font-semibold text-foreground/70">{qi + 1}.</span>
                     <div className="flex-1">
                       {q.prompt && <div className="leading-relaxed">{q.prompt}</div>}
                       {q.pinyin && <div className="text-xs text-primary/80">{q.pinyin}</div>}
@@ -174,7 +174,7 @@ export default function WritingRunner({ set }: { set: HskPracticeSet }) {
                         <div className="mt-2 rounded-xl bg-surface p-3 text-sm leading-relaxed">{q.sourceText}</div>
                       )}
                       {q.minChars ? (
-                        <div className="mt-1 text-xs text-foreground/50">≥ {q.minChars} {t.practice.chars}</div>
+                        <div className="mt-1 text-xs text-foreground/70">≥ {q.minChars} {t.practice.chars}</div>
                       ) : null}
                     </div>
                   </div>
@@ -220,7 +220,7 @@ export default function WritingRunner({ set }: { set: HskPracticeSet }) {
                     />
                   )}
                   {!isFill && (
-                    <div className="mt-1 text-right text-xs text-foreground/40">
+                    <div className="mt-1 text-right text-xs text-foreground/65">
                       {(answers[q.id] ?? "").length} {t.practice.chars}
                     </div>
                   )}
@@ -257,7 +257,7 @@ export default function WritingRunner({ set }: { set: HskPracticeSet }) {
                         <div className="rounded-xl bg-surface p-4">
                           <div className="flex items-baseline gap-3">
                             <span className="font-heading text-3xl font-extrabold text-primary">{g.score}</span>
-                            <span className="text-sm text-foreground/50">/ 100</span>
+                            <span className="text-sm text-foreground/70">/ 100</span>
                             {g.band && <span className="badge badge-primary">{g.band}</span>}
                           </div>
                           {g.dimensions.length > 0 && (
@@ -265,7 +265,7 @@ export default function WritingRunner({ set }: { set: HskPracticeSet }) {
                               {g.dimensions.map((d, i) => (
                                 <div key={i} className="text-sm">
                                   <span className="font-semibold">{d.name}</span>
-                                  <span className="ml-2 text-foreground/50">{d.score}</span>
+                                  <span className="ml-2 text-foreground/70">{d.score}</span>
                                   <span className="ml-2 text-foreground/70">{d.comment}</span>
                                 </div>
                               ))}

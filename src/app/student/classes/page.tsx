@@ -78,7 +78,7 @@ export default async function StudentClassesPage() {
           <ArrowLeft className="h-4 w-4" /> {t.nav.dashboard}
         </Link>
         <h1 className="font-heading text-3xl font-extrabold">{t.teacher.myClasses}</h1>
-        <p className="mt-1 text-foreground/60">{t.teacher.myClassesDesc}</p>
+        <p className="mt-1 text-foreground/75">{t.teacher.myClassesDesc}</p>
 
         <div className="mt-8 grid gap-4 sm:grid-cols-2">
           <JoinClassForm />
@@ -101,7 +101,7 @@ export default async function StudentClassesPage() {
                         {t.assignments.statusNames[a.status]}
                       </span>
                     </div>
-                    <div className="mt-0.5 flex flex-wrap gap-x-4 text-sm text-foreground/50">
+                    <div className="mt-0.5 flex flex-wrap gap-x-4 text-sm text-foreground/70">
                       <span>{t.assignments.fromClass}: {a.className}</span>
                       <span>{t.assignments.dueLabel}: {a.dueDate ? new Date(a.dueDate).toISOString().slice(0, 10) : t.assignments.noDue}</span>
                       {a.status === "completed" && a.score != null && (
@@ -139,7 +139,7 @@ export default async function StudentClassesPage() {
                       <CalendarClock className="h-4 w-4 shrink-0 text-primary" />
                       <LocalTime iso={s.startAt} />
                     </div>
-                    <div className="text-sm text-foreground/50">
+                    <div className="text-sm text-foreground/70">
                       {s.className}
                       {s.title ? ` · ${s.title}` : ""} · {s.durationMin} {t.schedule.min}
                       {s.maxParticipants > 1 ? ` · ${s.booked}/${s.maxParticipants} ${t.schedule.booked}` : " · 1:1"}
@@ -160,7 +160,7 @@ export default async function StudentClassesPage() {
         )}
 
         {classes.length === 0 ? (
-          <p className="card-flat mt-8 px-5 py-8 text-center text-foreground/60">{t.teacher.notEnrolled}</p>
+          <p className="card-flat mt-8 px-5 py-8 text-center text-foreground/75">{t.teacher.notEnrolled}</p>
         ) : (
           <div className="mt-8 grid gap-4 sm:grid-cols-2">
             {classes.map((c) => (
@@ -171,8 +171,8 @@ export default async function StudentClassesPage() {
                     <span className="badge badge-primary shrink-0">{levelLabel(c.level)}</span>
                   )}
                 </div>
-                {c.description && <p className="text-sm text-foreground/60">{c.description}</p>}
-                <div className="flex flex-wrap gap-4 text-sm text-foreground/60">
+                {c.description && <p className="text-sm text-foreground/75">{c.description}</p>}
+                <div className="flex flex-wrap gap-4 text-sm text-foreground/75">
                   <span className="flex items-center gap-1.5">
                     <GraduationCap className="h-4 w-4" /> {t.teacher.taughtBy}: {c.teacher.name}
                   </span>

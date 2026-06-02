@@ -61,7 +61,7 @@ export default function MistakeList({ mistakes }: { mistakes: MistakeItem[] }) {
           return (
             <div key={m.id} className="card-elevated p-6">
               <div className="mb-2 flex items-center justify-between">
-                <span className="text-xs font-semibold text-foreground/50">
+                <span className="text-xs font-semibold text-foreground/70">
                   HSK {m.level} · {sectionLabel(m.section)}
                 </span>
                 <span className={`badge ${statusCls}`}>{statusLabel(m.status)}</span>

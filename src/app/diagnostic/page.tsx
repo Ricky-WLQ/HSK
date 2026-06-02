@@ -13,7 +13,7 @@ export default async function DiagnosticHub() {
       <SiteHeader />
       <main className="container-app py-12">
         <h1 className="font-heading text-3xl font-extrabold">{t.exam.diagnosticHubTitle}</h1>
-        <p className="mb-8 max-w-2xl text-foreground/60">{t.exam.diagnosticHubSubtitle}</p>
+        <p className="mb-8 max-w-2xl text-foreground/75">{t.exam.diagnosticHubSubtitle}</p>
         <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
           {HSK_LEVELS.map((lv, i) => (
             <Link
@@ -25,7 +25,7 @@ export default async function DiagnosticHub() {
                 <span className="font-heading text-2xl font-extrabold">HSK {lv}</span>
                 <span className="badge badge-primary">{levelBand(lv)}</span>
               </div>
-              <p className="mt-2 text-foreground/60">{t.exam.diagnosticTitle}</p>
+              <p className="mt-2 text-foreground/75">{t.exam.diagnosticTitle}</p>
             </Link>
           ))}
         </div>

@@ -77,7 +77,7 @@ export default function VocabBrowser({ words }: { words: VocabWord[] }) {
       </div>
 
       {shown.length === 0 ? (
-        <p className="text-foreground/60">{t.vocab.noResults}</p>
+        <p className="text-foreground/75">{t.vocab.noResults}</p>
       ) : (
         <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
           {shown.map((w) => (
@@ -148,7 +148,7 @@ function WordCard({
         (w.definition ? (
           <p className="mt-1 text-sm text-foreground/70">{w.definition}</p>
         ) : (
-          <p className="mt-1 text-xs italic text-foreground/40">{t.vocab.definitionComing}</p>
+          <p className="mt-1 text-xs italic text-foreground/65">{t.vocab.definitionComing}</p>
         ))}
     </div>
   );

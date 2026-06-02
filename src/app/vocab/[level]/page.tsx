@@ -24,13 +24,13 @@ export default async function VocabLevelPage({
       <main className="container-app py-10">
         <div className="mb-6 flex flex-wrap items-end justify-between gap-4">
           <div>
-            <Link href="/vocab" className="text-sm text-foreground/60 hover:underline">
+            <Link href="/vocab" className="text-sm text-foreground/75 hover:underline">
               ← {t.vocab.back}
             </Link>
             <h1 className="font-heading text-3xl font-extrabold">
               HSK {level} {t.vocab.title}
             </h1>
-            <p className="text-foreground/60">
+            <p className="text-foreground/75">
               {levelBand(level)} · {words.length.toLocaleString()} {t.vocab.words}
             </p>
           </div>

@@ -15,7 +15,7 @@ export default async function GrammarHub() {
       <SiteHeader />
       <main className="container-app py-12">
         <h1 className="font-heading text-3xl font-extrabold">{t.grammar.title}</h1>
-        <p className="mb-8 max-w-2xl text-foreground/60">{t.grammar.subtitle}</p>
+        <p className="mb-8 max-w-2xl text-foreground/75">{t.grammar.subtitle}</p>
 
         <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
           {index.levels.map((lv, i) => (
@@ -28,14 +28,14 @@ export default async function GrammarHub() {
                 <span className="font-heading text-2xl font-extrabold">HSK {lv.level}</span>
                 <span className="badge badge-primary">{levelBand(lv.level)}</span>
               </div>
-              <p className="mt-2 text-foreground/60">
+              <p className="mt-2 text-foreground/75">
                 {lv.points} {t.grammar.points} · {lv.drills} {t.grammar.drills}
               </p>
             </Link>
           ))}
         </div>
 
-        <p className="mt-8 text-xs text-foreground/40">{index.standard} · {index.source}</p>
+        <p className="mt-8 text-xs text-foreground/65">{index.standard} · {index.source}</p>
       </main>
     </div>
   );

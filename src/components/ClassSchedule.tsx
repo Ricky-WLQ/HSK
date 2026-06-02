@@ -97,7 +97,7 @@ export default function ClassSchedule({ classId, initial }: { classId: string; i
           <div>
             <label className="mb-1 block text-sm font-semibold" htmlFor="s-cap">{t.schedule.capacity}</label>
             <input id="s-cap" type="number" min={1} max={100} className="input-clay" value={capacity} onChange={(e) => setCapacity(Number(e.target.value) || 1)} />
-            <span className="mt-1 block text-xs text-foreground/50">{t.schedule.oneOnOne}</span>
+            <span className="mt-1 block text-xs text-foreground/70">{t.schedule.oneOnOne}</span>
           </div>
           <label className="flex items-center gap-2 self-end text-sm font-semibold">
             <input type="checkbox" className="h-5 w-5" checked={recording} onChange={(e) => setRecording(e.target.checked)} />
@@ -111,7 +111,7 @@ export default function ClassSchedule({ classId, initial }: { classId: string; i
       </form>
 
       {rows.length === 0 ? (
-        <p className="card-flat px-5 py-6 text-center text-foreground/60">{t.schedule.none}</p>
+        <p className="card-flat px-5 py-6 text-center text-foreground/75">{t.schedule.none}</p>
       ) : (
         <ul className="space-y-2">
           {rows.map((s) => (
@@ -121,7 +121,7 @@ export default function ClassSchedule({ classId, initial }: { classId: string; i
                   <CalendarClock className="h-4 w-4 shrink-0 text-primary" />
                   <LocalTime iso={s.startAt} />
                 </div>
-                <div className="text-sm text-foreground/50">
+                <div className="text-sm text-foreground/70">
                   {s.title ? `${s.title} · ` : ""}
                   {s.durationMin} {t.schedule.min} · {s.maxParticipants === 1 ? "1:1" : `${t.schedule.capacity} ${s.maxParticipants}`}
                 </div>

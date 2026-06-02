@@ -53,7 +53,7 @@ export default async function TeacherClassMessagesPage({
         <h1 className="font-heading flex items-center gap-2 text-3xl font-extrabold">
           <MessagesSquare className="h-7 w-7 text-primary" /> {cls.name}
         </h1>
-        <p className="mt-1 text-foreground/60">{t.messages.title}</p>
+        <p className="mt-1 text-foreground/75">{t.messages.title}</p>
 
         <div className="mt-8">
           <TeacherMessages classId={classId} students={students} />

@@ -56,7 +56,7 @@ export default function LoginPage() {
         <h1 className="font-heading mb-1 text-center text-2xl font-extrabold">
           {mode === "signin" ? t.auth.welcomeBack : t.auth.createAccount}
         </h1>
-        <p className="mb-6 text-center text-sm text-foreground/60">
+        <p className="mb-6 text-center text-sm text-foreground/75">
           {mode === "signin" ? t.auth.signInSubtitle : t.auth.signUpSubtitle}
         </p>
 
@@ -123,7 +123,7 @@ export default function LoginPage() {
           </button>
         </form>
 
-        <p className="mt-6 text-center text-sm text-foreground/60">
+        <p className="mt-6 text-center text-sm text-foreground/75">
           {mode === "signin" ? t.auth.newHere : t.auth.haveAccount}{" "}
           <button
             type="button"

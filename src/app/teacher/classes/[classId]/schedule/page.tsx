@@ -45,8 +45,8 @@ export default async function ClassSchedulePage({
         <h1 className="font-heading flex items-center gap-2 text-3xl font-extrabold">
           <CalendarClock className="h-7 w-7 text-primary" /> {cls.name}
         </h1>
-        <p className="mt-1 text-foreground/60">{t.schedule.subtitle}</p>
-        <p className="mt-1 text-sm text-foreground/40">{t.schedule.videoSoon}</p>
+        <p className="mt-1 text-foreground/75">{t.schedule.subtitle}</p>
+        <p className="mt-1 text-sm text-foreground/65">{t.schedule.videoSoon}</p>
 
         <div className="mt-8">
           <ClassSchedule classId={classId} initial={sessions as ScheduleRow[]} />

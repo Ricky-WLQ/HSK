@@ -26,13 +26,13 @@ export default function LivePlayer({ sessionId }: { sessionId: string }) {
   if (state === null) {
     // either still connecting, or not a participant (SSE 404 → no messages)
     return (
-      <p className="card-flat px-5 py-8 text-center text-foreground/60">{t.live.notJoined}</p>
+      <p className="card-flat px-5 py-8 text-center text-foreground/75">{t.live.notJoined}</p>
     );
   }
 
   return (
     <div className="space-y-6">
-      <div className="flex flex-wrap items-center gap-3 text-sm text-foreground/60">
+      <div className="flex flex-wrap items-center gap-3 text-sm text-foreground/75">
         <span className="flex items-center gap-1.5">
           <Users className="h-4 w-4" /> {state.participantCount} {t.live.participants}
         </span>
@@ -53,7 +53,7 @@ export default function LivePlayer({ sessionId }: { sessionId: string }) {
       {state.status === "running" && state.question && (
         <div className="card-elevated p-6">
           <h2 className="font-heading text-2xl font-extrabold">{state.question.q}</h2>
-          {state.question.pinyin && <p className="mt-1 text-foreground/50">{state.question.pinyin}</p>}
+          {state.question.pinyin && <p className="mt-1 text-foreground/70">{state.question.pinyin}</p>}
 
           <div className="mt-5 grid gap-3 sm:grid-cols-2">
             {state.question.options.map((opt, i) => {
@@ -83,14 +83,14 @@ export default function LivePlayer({ sessionId }: { sessionId: string }) {
           <div className="mt-4 text-sm">
             {state.revealed ? (
               state.myAnswer == null ? (
-                <span className="text-foreground/50">{t.live.locked}</span>
+                <span className="text-foreground/70">{t.live.locked}</span>
               ) : state.myCorrect ? (
                 <span className="font-semibold text-success">{t.live.correct}</span>
               ) : (
                 <span className="font-semibold text-error">{t.live.incorrect}</span>
               )
             ) : state.myAnswer != null ? (
-              <span className="text-foreground/60">
+              <span className="text-foreground/75">
                 {t.live.yourAnswer}: {state.question.options[state.myAnswer]}
               </span>
             ) : null}

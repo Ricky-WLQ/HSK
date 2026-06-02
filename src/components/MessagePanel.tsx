@@ -73,9 +73,9 @@ export default function MessagePanel({
     <div className="card-flat flex flex-col p-0">
       <div className="max-h-96 min-h-40 space-y-2 overflow-y-auto p-4" aria-live="polite">
         {loading ? (
-          <p className="text-sm text-foreground/50">…</p>
+          <p className="text-sm text-foreground/70">…</p>
         ) : msgs.length === 0 ? (
-          <p className="text-sm text-foreground/50">{emptyText}</p>
+          <p className="text-sm text-foreground/70">{emptyText}</p>
         ) : (
           msgs.map((m) => (
             <div key={m.id} className={`flex ${m.mine ? "justify-end" : "justify-start"}`}>
@@ -86,7 +86,7 @@ export default function MessagePanel({
               >
                 {!m.mine && <div className="text-xs font-semibold opacity-70">{m.authorName}</div>}
                 <div className="whitespace-pre-wrap break-words text-sm">{m.body}</div>
-                <div className={`mt-0.5 text-[10px] ${m.mine ? "text-white/70" : "text-foreground/40"}`}>
+                <div className={`mt-0.5 text-[10px] ${m.mine ? "text-white/70" : "text-foreground/65"}`}>
                   {new Date(m.createdAt).toISOString().slice(0, 16).replace("T", " ")}
                 </div>
               </div>

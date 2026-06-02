@@ -107,7 +107,7 @@ export default function GrammarLevel({
 
       {groups.map(([category, pts]) => (
         <section key={category} className="mb-8">
-          <h2 className="mb-3 text-xs font-bold uppercase tracking-wide text-foreground/40">
+          <h2 className="mb-3 text-xs font-bold uppercase tracking-wide text-foreground/65">
             {category}
           </h2>
           <div className="space-y-5">
@@ -117,7 +117,7 @@ export default function GrammarLevel({
                   <h3 className="font-heading text-xl font-extrabold">
                     {p.nameZh}
                     {p.nameEn && (
-                      <span className="ml-2 text-sm font-semibold text-foreground/50">
+                      <span className="ml-2 text-sm font-semibold text-foreground/70">
                         {p.nameEn}
                       </span>
                     )}
@@ -141,7 +141,7 @@ export default function GrammarLevel({
                           <div className="text-xs text-primary/80">{e.pinyin}</div>
                         )}
                         {showEn && e.en && (
-                          <div className="text-xs text-foreground/50">{e.en}</div>
+                          <div className="text-xs text-foreground/70">{e.en}</div>
                         )}
                       </li>
                     ))}
@@ -150,7 +150,7 @@ export default function GrammarLevel({
 
                 {p.drills.length > 0 && (
                   <div className="mt-4 border-t border-card-border pt-4">
-                    <div className="mb-2 text-xs font-semibold uppercase text-foreground/50">
+                    <div className="mb-2 text-xs font-semibold uppercase text-foreground/70">
                       {t.grammar.practice}
                     </div>
                     <div className="space-y-4">
@@ -162,7 +162,7 @@ export default function GrammarLevel({
                         return (
                           <div key={key}>
                             <div className="mb-2 flex gap-2 text-[15px] leading-relaxed">
-                              <span className="font-semibold text-foreground/40">{di + 1}.</span>
+                              <span className="font-semibold text-foreground/65">{di + 1}.</span>
                               <span>{d.prompt}</span>
                             </div>
                             <div className="grid gap-2 sm:grid-cols-2" role="radiogroup">

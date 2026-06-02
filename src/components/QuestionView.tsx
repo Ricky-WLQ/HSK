@@ -53,7 +53,7 @@ export default function QuestionView({
   return (
     <div className="border-t border-card-border pt-4 first:border-t-0 first:pt-0">
       <div className="mb-2 flex gap-2">
-        <span className="font-semibold text-foreground/50">{index}.</span>
+        <span className="font-semibold text-foreground/70">{index}.</span>
         <div className="flex-1">
           {q.prompt && <div className="leading-relaxed">{q.prompt}</div>}
           {showPinyin && q.pinyin && <div className="text-xs text-primary/80">{q.pinyin}</div>}
@@ -83,7 +83,7 @@ export default function QuestionView({
       )}
       {q.givenWord && (
         <div className="my-2 text-sm">
-          <span className="text-foreground/50">{t.practice.givenWord}: </span>
+          <span className="text-foreground/70">{t.practice.givenWord}: </span>
           <span className="font-bold text-primary">{q.givenWord}</span>
         </div>
       )}

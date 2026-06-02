@@ -163,7 +163,7 @@ export default function ClassAssignments({
           </div>
         </div>
         {needsSet && setsForChoice.length === 0 && (
-          <p className="text-sm text-foreground/50">{t.assignments.noSets}</p>
+          <p className="text-sm text-foreground/70">{t.assignments.noSets}</p>
         )}
         {error && <p className="badge badge-error w-full justify-center py-2">{error}</p>}
         <button type="submit" disabled={!canSubmit} className="btn-solid btn-solid-primary">
@@ -173,7 +173,7 @@ export default function ClassAssignments({
 
       {/* List */}
       {rows.length === 0 ? (
-        <p className="card-flat mt-4 px-5 py-6 text-center text-foreground/60">{t.assignments.none}</p>
+        <p className="card-flat mt-4 px-5 py-6 text-center text-foreground/75">{t.assignments.none}</p>
       ) : (
         <ul className="mt-4 space-y-2">
           {rows.map((a) => (
@@ -184,7 +184,7 @@ export default function ClassAssignments({
                   <span className="truncate">{a.title}</span>
                 </div>
                 {a.dueDate && (
-                  <div className="text-sm text-foreground/50">
+                  <div className="text-sm text-foreground/70">
                     {t.assignments.dueLabel}: {new Date(a.dueDate).toISOString().slice(0, 16).replace("T", " ")}
                   </div>
                 )}

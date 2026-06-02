@@ -43,7 +43,7 @@ export default async function NewLiveQuizPage({
         <h1 className="font-heading flex items-center gap-2 text-3xl font-extrabold">
           <Radio className="h-7 w-7 text-primary" /> {t.live.create}
         </h1>
-        <p className="mt-1 text-foreground/60">{t.live.composerHint}</p>
+        <p className="mt-1 text-foreground/75">{t.live.composerHint}</p>
         <div className="mt-8">
           <QuizComposer classId={classId} />
         </div>

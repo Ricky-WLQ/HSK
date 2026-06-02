@@ -20,7 +20,7 @@ export default function InviteCodeBadge({ code }: { code: string }) {
 
   return (
     <div className="flex flex-wrap items-center gap-2">
-      <span className="text-xs font-semibold uppercase tracking-wide text-foreground/50">
+      <span className="text-xs font-semibold uppercase tracking-wide text-foreground/70">
         {t.teacher.inviteCode}
       </span>
       <code className="select-all rounded-lg border-2 border-card-border bg-surface px-2.5 py-1 font-mono text-base font-bold tracking-[0.2em]">

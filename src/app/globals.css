@@ -495,21 +495,23 @@ body {
 
 /* Button color variants */
 .btn-solid-primary {
-  background: var(--primary);
+  /* emerald-700 so WHITE button text meets WCAG AA (emerald-600 was 3.76:1) */
+  background: var(--primary-hover);
   color: white;
   border-color: var(--primary-shadow);
 }
 .btn-solid-primary:hover:not(:disabled) {
-  background: var(--primary-hover);
+  background: var(--primary-shadow);
 }
 
 .btn-solid-secondary {
-  background: var(--secondary);
+  /* darker orange so WHITE button text meets WCAG AA (orange-500 was ~2.4:1) */
+  background: var(--secondary-shadow);
   color: white;
   border-color: var(--secondary-shadow);
 }
 .btn-solid-secondary:hover:not(:disabled) {
-  background: var(--secondary-hover);
+  background: #9a3412;
 }
 
 .btn-solid-success {

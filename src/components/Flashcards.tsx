@@ -66,7 +66,7 @@ export default function Flashcards({
 
   return (
     <div className="mx-auto max-w-xl">
-      <div className="mb-4 flex items-center justify-between text-sm text-foreground/60">
+      <div className="mb-4 flex items-center justify-between text-sm text-foreground/75">
         <Link href={`/vocab/${level}`} className="hover:underline">
           ← {t.vocab.back}
         </Link>
@@ -95,7 +95,7 @@ export default function Flashcards({
                 <div className="mt-4 rounded-xl bg-surface p-3 text-left text-sm">
                   <div className="font-medium">{w.examples[0].hanzi}</div>
                   <div className="text-primary">{w.examples[0].pinyin}</div>
-                  <div className="text-foreground/60">{w.examples[0].english}</div>
+                  <div className="text-foreground/75">{w.examples[0].english}</div>
                 </div>
               )}
             </div>
@@ -125,7 +125,7 @@ export default function Flashcards({
           {t.vocab.next} <ChevronRight className="h-4 w-4" />
         </button>
       </div>
-      <p className="mt-3 text-center text-xs text-foreground/40">{t.vocab.hint}</p>
+      <p className="mt-3 text-center text-xs text-foreground/65">{t.vocab.hint}</p>
     </div>
   );
 }

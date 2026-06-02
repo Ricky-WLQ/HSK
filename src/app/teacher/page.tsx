@@ -54,7 +54,7 @@ export default async function TeacherPage() {
           </span>
           {t.teacher.dashboardTitle}
         </h1>
-        <p className="mt-1 text-foreground/60">{t.teacher.dashboardSubtitle}</p>
+        <p className="mt-1 text-foreground/75">{t.teacher.dashboardSubtitle}</p>
 
         <div className="mt-8">
           <TeacherClasses initialClasses={initialClasses} />

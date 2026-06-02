@@ -24,7 +24,7 @@ export default function TeacherMessages({ classId, students }: { classId: string
           <MessagesSquare className="h-5 w-5" /> {t.messages.directMessages}
         </h2>
         {students.length === 0 ? (
-          <p className="card-flat px-5 py-6 text-center text-foreground/60">{t.messages.noStudents}</p>
+          <p className="card-flat px-5 py-6 text-center text-foreground/75">{t.messages.noStudents}</p>
         ) : (
           <div className="grid gap-4 lg:grid-cols-[220px_1fr]">
             <ul className="space-y-1">

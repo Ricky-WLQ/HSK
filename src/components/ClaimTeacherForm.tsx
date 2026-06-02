@@ -46,7 +46,7 @@ export default function ClaimTeacherForm() {
       <h2 className="font-heading flex items-center gap-2 text-lg font-bold">
         <KeyRound className="h-5 w-5 text-primary" /> {t.teacher.becomeTitle}
       </h2>
-      <p className="text-sm text-foreground/60">{t.teacher.becomeSubtitle}</p>
+      <p className="text-sm text-foreground/75">{t.teacher.becomeSubtitle}</p>
       <div className="flex flex-col gap-3 sm:flex-row">
         <label htmlFor="teacher-code" className="sr-only">
           {t.teacher.accessCode}

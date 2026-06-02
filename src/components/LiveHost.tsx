@@ -23,13 +23,13 @@ export default function LiveHost({ sessionId }: { sessionId: string }) {
     }
   }
 
-  if (!state) return <p className="text-foreground/50">…</p>;
+  if (!state) return <p className="text-foreground/70">…</p>;
 
   const total = state.tally ? state.tally.reduce((a, b) => a + b, 0) : 0;
 
   return (
     <div className="space-y-6">
-      <div className="flex flex-wrap items-center gap-3 text-sm text-foreground/60">
+      <div className="flex flex-wrap items-center gap-3 text-sm text-foreground/75">
         <span className="flex items-center gap-1.5">
           <Users className="h-4 w-4" /> {state.participantCount} {t.live.participants}
         </span>
@@ -42,13 +42,13 @@ export default function LiveHost({ sessionId }: { sessionId: string }) {
 
       {state.status === "waiting" && (
         <div className="card-elevated p-8 text-center">
-          <div className="text-sm font-semibold uppercase tracking-wide text-foreground/50">
+          <div className="text-sm font-semibold uppercase tracking-wide text-foreground/70">
             {t.live.joinCodeLabel}
           </div>
           <div className="font-heading my-2 select-all text-5xl font-extrabold tracking-[0.3em] text-gradient-hero">
             {state.joinCode}
           </div>
-          <p className="mb-6 text-sm text-foreground/60">{t.live.shareCode}</p>
+          <p className="mb-6 text-sm text-foreground/75">{t.live.shareCode}</p>
           <button onClick={() => control("start")} disabled={busy} className="btn-solid btn-solid-primary mx-auto">
             <Play className="h-4 w-4" /> {t.live.start}
           </button>
@@ -58,7 +58,7 @@ export default function LiveHost({ sessionId }: { sessionId: string }) {
       {state.status === "running" && state.question && (
         <div className="card-elevated p-6">
           <h2 className="font-heading text-2xl font-extrabold">{state.question.q}</h2>
-          {state.question.pinyin && <p className="mt-1 text-foreground/50">{state.question.pinyin}</p>}
+          {state.question.pinyin && <p className="mt-1 text-foreground/70">{state.question.pinyin}</p>}
 
           <div className="mt-5 space-y-2">
             {state.question.options.map((opt, i) => {
@@ -82,7 +82,7 @@ export default function LiveHost({ sessionId }: { sessionId: string }) {
                       {isCorrect && <CheckCircle2 className="h-4 w-4 text-success" />}
                       {opt}
                     </span>
-                    <span className="text-sm text-foreground/60">{count}</span>
+                    <span className="text-sm text-foreground/75">{count}</span>
                   </div>
                 </div>
               );
@@ -90,7 +90,7 @@ export default function LiveHost({ sessionId }: { sessionId: string }) {
           </div>
 
           <div className="mt-4 flex flex-wrap items-center gap-3">
-            <span className="text-sm text-foreground/60">
+            <span className="text-sm text-foreground/75">
               {state.answeredCount}/{state.participantCount} {t.live.answered}
             </span>
             <div className="flex-1" />

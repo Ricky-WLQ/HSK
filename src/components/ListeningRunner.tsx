@@ -140,7 +140,7 @@ export default function ListeningRunner({ set }: { set: HskPracticeSet }) {
       <div className="mb-4 flex items-center justify-between">
         <Link
           href={`/practice/${set.level}/listening`}
-          className="text-sm text-foreground/60 hover:underline"
+          className="text-sm text-foreground/75 hover:underline"
         >
           ← {t.practice.backToSets}
         </Link>
@@ -160,7 +160,7 @@ export default function ListeningRunner({ set }: { set: HskPracticeSet }) {
 
       {set.groups.map((group) => (
         <div key={group.id} className="card-elevated mb-6 p-6">
-          <p className="mb-3 text-sm text-foreground/60">{group.instruction}</p>
+          <p className="mb-3 text-sm text-foreground/75">{group.instruction}</p>
 
           {/* Shared passage/interview audio (clustered listening). */}
           {group.audio && (
@@ -202,7 +202,7 @@ export default function ListeningRunner({ set }: { set: HskPracticeSet }) {
               return (
                 <div key={q.id} className="border-t border-card-border pt-4 first:border-t-0 first:pt-0">
                   <div className="mb-2 flex gap-2">
-                    <span className="font-semibold text-foreground/50">{qi + 1}.</span>
+                    <span className="font-semibold text-foreground/70">{qi + 1}.</span>
                     <div className="flex-1">
                       {q.prompt && (
                         <div className="leading-relaxed">{q.prompt}</div>
@@ -350,7 +350,7 @@ export default function ListeningRunner({ set }: { set: HskPracticeSet }) {
                       {/* Transcript revealed only after answering. */}
                       {transcript && (
                         <div className="mt-2 rounded-xl bg-surface p-3 text-sm">
-                          <div className="text-xs font-semibold uppercase text-foreground/50">
+                          <div className="text-xs font-semibold uppercase text-foreground/70">
                             {t.practice.transcript}
                           </div>
                           <div className="mt-1 leading-relaxed">{transcript}</div>
@@ -365,7 +365,7 @@ export default function ListeningRunner({ set }: { set: HskPracticeSet }) {
                         </p>
                       )}
                       {analyzing.has(q.id) && (
-                        <p className="mt-1 flex items-center gap-1 text-sm text-foreground/50">
+                        <p className="mt-1 flex items-center gap-1 text-sm text-foreground/70">
                           <Loader2 className="h-3.5 w-3.5 animate-spin" /> {t.practice.analyzing}
                         </p>
                       )}

@@ -167,12 +167,12 @@ export default function ExamRunner({ exam }: { exam: AssembledExam }) {
           <h1 className="font-heading text-2xl font-extrabold">
             HSK {exam.level} {isDiagnostic ? t.exam.diagnosticTitle : t.exam.title}
           </h1>
-          <p className="mt-1 text-foreground/60">{isDiagnostic ? t.exam.diagnosticIntro : t.exam.intro}</p>
+          <p className="mt-1 text-foreground/75">{isDiagnostic ? t.exam.diagnosticIntro : t.exam.intro}</p>
           <ul className="mt-4 divide-y divide-card-border">
             {exam.sections.map((s) => (
               <li key={s.section} className="flex items-center justify-between py-2">
                 <span className="font-semibold">{s.labelEn}</span>
-                <span className="text-sm text-foreground/60">
+                <span className="text-sm text-foreground/75">
                   {s.questionCount} {t.exam.questions} · {s.minutes} {t.exam.minutes}
                 </span>
               </li>
@@ -184,7 +184,7 @@ export default function ExamRunner({ exam }: { exam: AssembledExam }) {
               {exam.totalQuestions} {t.exam.questions} · {exam.totalMinutes} {t.exam.minutes}
             </span>
           </div>
-          <p className="mt-4 text-xs text-foreground/50">{t.exam.lockNote}</p>
+          <p className="mt-4 text-xs text-foreground/70">{t.exam.lockNote}</p>
           <button onClick={startExam} className="btn-solid btn-solid-primary mt-5 w-full">
             {t.exam.start}
           </button>
@@ -201,7 +201,7 @@ export default function ExamRunner({ exam }: { exam: AssembledExam }) {
       <div className="mx-auto max-w-2xl">
         <h1 className="font-heading text-2xl font-extrabold">{t.exam.results}</h1>
         {grading && (
-          <p className="mt-2 flex items-center gap-2 text-foreground/60">
+          <p className="mt-2 flex items-center gap-2 text-foreground/75">
             <Loader2 className="h-4 w-4 animate-spin" /> {t.exam.grading}
           </p>
         )}
@@ -211,7 +211,7 @@ export default function ExamRunner({ exam }: { exam: AssembledExam }) {
               <div className="text-4xl font-extrabold text-primary">
                 {totalAutoCorrect} / {totalAuto}
               </div>
-              <div className="text-sm text-foreground/60">{t.exam.objectiveScore}</div>
+              <div className="text-sm text-foreground/75">{t.exam.objectiveScore}</div>
             </div>
             {results.map((s) => (
               <div key={s.labelEn} className="card-elevated mt-4 p-6">
@@ -225,7 +225,7 @@ export default function ExamRunner({ exam }: { exam: AssembledExam }) {
                 </div>
                 {s.ai.map(({ q, answer, grade }, i) => (
                   <div key={i} className="mt-3 rounded-xl bg-surface p-4">
-                    <div className="text-sm text-foreground/60">{q.prompt || q.sourceText}</div>
+                    <div className="text-sm text-foreground/75">{q.prompt || q.sourceText}</div>
                     <div className="mt-1 whitespace-pre-wrap text-sm">{answer || "—"}</div>
                     {grade ? (
                       <div className="mt-2 text-sm">
@@ -236,7 +236,7 @@ export default function ExamRunner({ exam }: { exam: AssembledExam }) {
                         {grade.feedback && <p className="mt-1 text-foreground/70">{grade.feedback}</p>}
                       </div>
                     ) : (
-                      <p className="mt-2 text-xs text-foreground/40">{t.exam.notGraded}</p>
+                      <p className="mt-2 text-xs text-foreground/65">{t.exam.notGraded}</p>
                     )}
                   </div>
                 ))}
@@ -259,7 +259,7 @@ export default function ExamRunner({ exam }: { exam: AssembledExam }) {
       <div className="sticky top-16 z-10 mb-4 flex items-center justify-between rounded-xl bg-background/90 px-3 py-2 backdrop-blur">
         <div className="text-sm font-semibold">
           {section.labelEn}
-          <span className="ml-2 text-foreground/40">
+          <span className="ml-2 text-foreground/65">
             {sectionIdx + 1}/{exam.sections.length}
           </span>
         </div>
@@ -284,7 +284,7 @@ export default function ExamRunner({ exam }: { exam: AssembledExam }) {
           let n = 0;
           return (
             <div key={`${set.id}-${group.id}`} className="card-elevated mb-6 p-6">
-              <p className="mb-3 text-sm text-foreground/60">{group.instruction}</p>
+              <p className="mb-3 text-sm text-foreground/75">{group.instruction}</p>
               {group.audio && (
                 <div className="mb-5 rounded-xl bg-surface p-4">
                   <div className="flex items-center gap-2 text-sm font-semibold text-primary">
@@ -313,7 +313,7 @@ export default function ExamRunner({ exam }: { exam: AssembledExam }) {
                 </div>
               ) : group.sharedBank ? (
                 <div className="mb-5 rounded-xl border border-card-border p-3">
-                  <div className="mb-2 text-xs font-semibold uppercase text-foreground/50">{t.practice.wordBank}</div>
+                  <div className="mb-2 text-xs font-semibold uppercase text-foreground/70">{t.practice.wordBank}</div>
                   <div className="grid gap-1.5 sm:grid-cols-2">
                     {group.sharedBank.map((o) => (
                       <div key={o.label} className="flex items-baseline gap-2 text-sm">

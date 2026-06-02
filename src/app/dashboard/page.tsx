@@ -49,17 +49,17 @@ export default async function DashboardPage() {
         <h1 className="font-heading text-3xl font-extrabold">
           {t.dashboard.welcome}, {user.name || user.email} 👋
         </h1>
-        <p className="mt-1 text-foreground/60">{t.dashboard.subtitle}</p>
+        <p className="mt-1 text-foreground/75">{t.dashboard.subtitle}</p>
         <div className="mt-1"><OnboardingTour /></div>
 
         <div className="mt-6 flex flex-wrap gap-3">
           <div className="card-flat px-5 py-3">
             <div className="text-2xl font-extrabold text-primary">{mastered.toLocaleString()}</div>
-            <div className="text-xs text-foreground/60">{t.dashboard.masteredWords}</div>
+            <div className="text-xs text-foreground/75">{t.dashboard.masteredWords}</div>
           </div>
           <div className="card-flat px-5 py-3">
             <div className="text-2xl font-extrabold text-secondary">{practiceDone.toLocaleString()}</div>
-            <div className="text-xs text-foreground/60">{t.dashboard.practiceDone}</div>
+            <div className="text-xs text-foreground/75">{t.dashboard.practiceDone}</div>
           </div>
         </div>
 
@@ -76,7 +76,7 @@ export default async function DashboardPage() {
                 {t.dashboard.vocabTitle}
                 <ArrowRight className="h-4 w-4 opacity-0 transition group-hover:opacity-100" />
               </div>
-              <p className="mt-1 text-sm text-foreground/60">{t.dashboard.vocabDesc}</p>
+              <p className="mt-1 text-sm text-foreground/75">{t.dashboard.vocabDesc}</p>
             </div>
           </Link>
 
@@ -89,7 +89,7 @@ export default async function DashboardPage() {
                 {t.dashboard.grammarTitle}
                 <ArrowRight className="h-4 w-4 opacity-0 transition group-hover:opacity-100" />
               </div>
-              <p className="mt-1 text-sm text-foreground/60">{t.dashboard.grammarDesc}</p>
+              <p className="mt-1 text-sm text-foreground/75">{t.dashboard.grammarDesc}</p>
             </div>
           </Link>
 
@@ -102,7 +102,7 @@ export default async function DashboardPage() {
                 {t.dashboard.practiceTitle}
                 <ArrowRight className="h-4 w-4 opacity-0 transition group-hover:opacity-100" />
               </div>
-              <p className="mt-1 text-sm text-foreground/60">{t.dashboard.practiceDesc}</p>
+              <p className="mt-1 text-sm text-foreground/75">{t.dashboard.practiceDesc}</p>
             </div>
           </Link>
 
@@ -115,7 +115,7 @@ export default async function DashboardPage() {
                 {t.dashboard.mockTitle}
                 <ArrowRight className="h-4 w-4 opacity-0 transition group-hover:opacity-100" />
               </div>
-              <p className="mt-1 text-sm text-foreground/60">{t.dashboard.mockDesc}</p>
+              <p className="mt-1 text-sm text-foreground/75">{t.dashboard.mockDesc}</p>
             </div>
           </Link>
 
@@ -128,7 +128,7 @@ export default async function DashboardPage() {
                 {t.dashboard.statsCardTitle}
                 <ArrowRight className="h-4 w-4 opacity-0 transition group-hover:opacity-100" />
               </div>
-              <p className="mt-1 text-sm text-foreground/60">{t.dashboard.statsCardDesc}</p>
+              <p className="mt-1 text-sm text-foreground/75">{t.dashboard.statsCardDesc}</p>
             </div>
           </Link>
 
@@ -141,7 +141,7 @@ export default async function DashboardPage() {
                 {t.dashboard.mistakesCardTitle}
                 <ArrowRight className="h-4 w-4 opacity-0 transition group-hover:opacity-100" />
               </div>
-              <p className="mt-1 text-sm text-foreground/60">{t.dashboard.mistakesCardDesc}</p>
+              <p className="mt-1 text-sm text-foreground/75">{t.dashboard.mistakesCardDesc}</p>
             </div>
           </Link>
 
@@ -154,7 +154,7 @@ export default async function DashboardPage() {
                 {t.teacher.myClasses}
                 <ArrowRight className="h-4 w-4 opacity-0 transition group-hover:opacity-100" />
               </div>
-              <p className="mt-1 text-sm text-foreground/60">{t.teacher.myClassesDesc}</p>
+              <p className="mt-1 text-sm text-foreground/75">{t.teacher.myClassesDesc}</p>
             </div>
           </Link>
 
@@ -168,7 +168,7 @@ export default async function DashboardPage() {
                   {t.teacher.portal}
                   <ArrowRight className="h-4 w-4 opacity-0 transition group-hover:opacity-100" />
                 </div>
-                <p className="mt-1 text-sm text-foreground/60">{t.teacher.portalDesc}</p>
+                <p className="mt-1 text-sm text-foreground/75">{t.teacher.portalDesc}</p>
               </div>
             </Link>
           )}

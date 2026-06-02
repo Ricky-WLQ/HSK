@@ -22,7 +22,7 @@ export default async function WritingSetList({
     <div className="min-h-screen">
       <SiteHeader />
       <main className="container-app py-10">
-        <Link href="/practice" className="text-sm text-foreground/60 hover:underline">
+        <Link href="/practice" className="text-sm text-foreground/75 hover:underline">
           ← {t.practice.back}
         </Link>
         <h1 className="font-heading mt-1 text-3xl font-extrabold">
@@ -30,7 +30,7 @@ export default async function WritingSetList({
         </h1>
 
         {sets.length === 0 ? (
-          <p className="mt-6 text-foreground/60">{t.practice.noWritingSets}</p>
+          <p className="mt-6 text-foreground/75">{t.practice.noWritingSets}</p>
         ) : (
           <div className="mt-6 grid gap-3 sm:grid-cols-2">
             {sets.map((s) => (
@@ -40,7 +40,7 @@ export default async function WritingSetList({
                 className="card-interactive p-5"
               >
                 <div className="font-semibold">{s.titleZh}</div>
-                <div className="text-sm text-foreground/60">
+                <div className="text-sm text-foreground/75">
                   {s.title} · {s.questionCount} {t.practice.questions}
                 </div>
               </Link>

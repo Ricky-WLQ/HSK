@@ -13,7 +13,7 @@ export default async function PracticeHub() {
       <SiteHeader />
       <main className="container-app py-12">
         <h1 className="font-heading text-3xl font-extrabold">{t.practice.title}</h1>
-        <p className="mb-8 max-w-2xl text-foreground/60">{t.practice.subtitle}</p>
+        <p className="mb-8 max-w-2xl text-foreground/75">{t.practice.subtitle}</p>
 
         <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
           {HSK_LEVELS.map((lv, i) => (

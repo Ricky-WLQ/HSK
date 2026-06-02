@@ -62,38 +62,38 @@ export default async function AssignmentDetailPage({
                 </span>
               )}
             </div>
-            {a.description && <p className="mt-2 text-foreground/60">{a.description}</p>}
+            {a.description && <p className="mt-2 text-foreground/75">{a.description}</p>}
           </div>
           <div className="card-flat px-5 py-3 text-center">
             <div className="text-2xl font-extrabold text-success">
               {a.completed}/{a.total}
             </div>
-            <div className="text-xs text-foreground/60">{t.assignments.completed}</div>
+            <div className="text-xs text-foreground/75">{t.assignments.completed}</div>
           </div>
         </div>
 
         <h2 className="font-heading mt-8 text-lg font-bold text-foreground/70">{t.teacher.roster}</h2>
         {a.rows.length === 0 ? (
-          <p className="card-flat mt-3 px-5 py-8 text-center text-foreground/60">{t.assignments.noOne}</p>
+          <p className="card-flat mt-3 px-5 py-8 text-center text-foreground/75">{t.assignments.noOne}</p>
         ) : (
           <ul className="mt-3 space-y-2">
             {a.rows.map((r) => (
               <li key={r.studentId} className="card-flat flex flex-wrap items-center justify-between gap-3 px-5 py-3">
                 <div className="min-w-0">
                   <div className="font-semibold">{r.name || r.email}</div>
-                  <div className="truncate text-sm text-foreground/50">{r.email}</div>
+                  <div className="truncate text-sm text-foreground/70">{r.email}</div>
                 </div>
                 <div className="flex items-center gap-3 text-sm">
                   {r.status === "completed" && r.score != null && (
                     <span className="font-semibold text-success">
                       {t.assignments.score}: {r.score}%
                       {r.correctCount != null && r.totalQuestions != null && (
-                        <span className="text-foreground/50"> ({r.correctCount}/{r.totalQuestions})</span>
+                        <span className="text-foreground/70"> ({r.correctCount}/{r.totalQuestions})</span>
                       )}
                     </span>
                   )}
                   {r.completedAt && (
-                    <span className="text-foreground/50">
+                    <span className="text-foreground/70">
                       {t.assignments.completedOn} {new Date(r.completedAt).toISOString().slice(0, 10)}
                     </span>
                   )}

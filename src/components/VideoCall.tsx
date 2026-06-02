@@ -31,7 +31,7 @@ export default function VideoCall({ sessionId }: { sessionId: string }) {
   }, [sessionId]);
 
   if (error) return <p className="card-flat px-5 py-10 text-center text-foreground/70">{error}</p>;
-  if (!conn) return <p className="card-flat px-5 py-10 text-center text-foreground/60">{t.call.connecting}</p>;
+  if (!conn) return <p className="card-flat px-5 py-10 text-center text-foreground/75">{t.call.connecting}</p>;
 
   return (
     <div

@@ -29,7 +29,7 @@ export default async function QuizPage({
           HSK {level} · {t.vocab.quiz}
         </h1>
         {words.length < 4 ? (
-          <p className="text-center text-foreground/60">{t.vocab.noQuizYet}</p>
+          <p className="text-center text-foreground/75">{t.vocab.noQuizYet}</p>
         ) : (
           <VocabQuiz words={words} level={level} />
         )}

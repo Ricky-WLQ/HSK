@@ -107,7 +107,7 @@ export default function OnboardingTour() {
           setStep(0);
           setActive(true);
         }}
-        className="btn-ghost text-sm text-foreground/60"
+        className="btn-ghost text-sm text-foreground/75"
       >
         {t.tour.replay}
       </button>
@@ -162,7 +162,7 @@ export default function OnboardingTour() {
               <button
                 onClick={dismiss}
                 aria-label={t.tour.skip}
-                className="absolute right-3 top-3 text-foreground/40 hover:text-foreground"
+                className="absolute right-3 top-3 text-foreground/65 hover:text-foreground"
               >
                 <X className="h-5 w-5" />
               </button>

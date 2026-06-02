@@ -24,13 +24,13 @@ export default async function GrammarLevelPage({
       <SiteHeader />
       <main className="container-app py-10">
         <div className="mb-6">
-          <Link href="/grammar" className="text-sm text-foreground/60 hover:underline">
+          <Link href="/grammar" className="text-sm text-foreground/75 hover:underline">
             ← {t.grammar.back}
           </Link>
           <h1 className="font-heading text-3xl font-extrabold">
             HSK {level} {t.grammar.title}
           </h1>
-          <p className="text-foreground/60">
+          <p className="text-foreground/75">
             {levelBand(level)} · {points.length} {t.grammar.points} · {drills} {t.grammar.drills}
           </p>
         </div>

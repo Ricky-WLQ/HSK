@@ -34,28 +34,28 @@ export default async function ProgressPage() {
       <SiteHeader />
       <main className="container-app py-10">
         <h1 className="font-heading text-3xl font-extrabold">{t.progress.title}</h1>
-        <p className="mb-8 max-w-2xl text-foreground/60">{t.progress.subtitle}</p>
+        <p className="mb-8 max-w-2xl text-foreground/75">{t.progress.subtitle}</p>
 
         {s.totalAttempts === 0 ? (
-          <div className="card-elevated p-8 text-center text-foreground/60">{t.progress.noData}</div>
+          <div className="card-elevated p-8 text-center text-foreground/75">{t.progress.noData}</div>
         ) : (
           <>
             <div className="grid gap-3 sm:grid-cols-4">
               <div className="card-flat px-5 py-4">
                 <div className="text-3xl font-extrabold text-primary">{pct(s.overallAccuracy)}%</div>
-                <div className="text-xs text-foreground/60">{t.progress.overall}</div>
+                <div className="text-xs text-foreground/75">{t.progress.overall}</div>
               </div>
               <div className="card-flat px-5 py-4">
                 <div className="text-3xl font-extrabold text-secondary">{s.totalAttempts}</div>
-                <div className="text-xs text-foreground/60">{t.progress.attempts}</div>
+                <div className="text-xs text-foreground/75">{t.progress.attempts}</div>
               </div>
               <div className="card-flat px-5 py-4">
                 <div className="text-3xl font-extrabold text-primary">{s.vocabMastered}</div>
-                <div className="text-xs text-foreground/60">{t.progress.vocabMastered}</div>
+                <div className="text-xs text-foreground/75">{t.progress.vocabMastered}</div>
               </div>
               <Link href="/mistakes" className="card-interactive px-5 py-4">
                 <div className="text-3xl font-extrabold text-error">{s.mistakes.total}</div>
-                <div className="text-xs text-foreground/60">{t.mistakes.title}</div>
+                <div className="text-xs text-foreground/75">{t.mistakes.title}</div>
               </Link>
             </div>
 
@@ -66,7 +66,7 @@ export default async function ProgressPage() {
                   <div className="mt-1 font-heading text-xl font-extrabold">
                     {sectionLabel(s.weakest.section)} · {pct(s.weakest.accuracy)}%
                   </div>
-                  <p className="text-sm text-foreground/60">{t.progress.weakSpotDesc}</p>
+                  <p className="text-sm text-foreground/75">{t.progress.weakSpotDesc}</p>
                 </div>
                 <Link href={sectionLink(s.weakest.section)} className="btn-solid btn-solid-primary">
                   {t.progress.practiceNow}
@@ -82,7 +82,7 @@ export default async function ProgressPage() {
                     <div key={sec.section}>
                       <div className="mb-1 flex justify-between text-sm">
                         <span className="font-semibold">{sectionLabel(sec.section)}</span>
-                        <span className="text-foreground/60">
+                        <span className="text-foreground/75">
                           {pct(sec.accuracy)}% · {sec.correct}/{sec.questions}
                         </span>
                       </div>
@@ -101,7 +101,7 @@ export default async function ProgressPage() {
                         <span className="font-semibold">HSK {lv.level}</span>
                         <span className="ml-2 badge badge-info">{levelBand(lv.level)}</span>
                       </div>
-                      <span className="text-sm text-foreground/60">
+                      <span className="text-sm text-foreground/75">
                         {lv.attempts} {t.progress.attempts} · {pct(lv.accuracy)}%
                       </span>
                     </div>
@@ -119,7 +119,7 @@ export default async function ProgressPage() {
                       <span className="font-semibold">
                         HSK {a.level} {sectionLabel(a.section)}
                       </span>
-                      <span className="text-foreground/60">
+                      <span className="text-foreground/75">
                         {a.correctCount ?? 0}/{a.totalQuestions} {t.progress.score.toLowerCase()}
                       </span>
                     </li>
@@ -136,7 +136,7 @@ export default async function ProgressPage() {
                     <span className="font-semibold">
                       HSK {a.level} {sectionLabel(a.section)}
                     </span>
-                    <span className="text-foreground/60">
+                    <span className="text-foreground/75">
                       {a.correctCount ?? 0}/{a.totalQuestions}
                     </span>
                   </li>

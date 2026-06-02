@@ -71,8 +71,8 @@ export default async function ClassRosterPage({
         <div className="flex flex-wrap items-start justify-between gap-3">
           <div>
             <h1 className="font-heading text-3xl font-extrabold">{cls.name}</h1>
-            {cls.description && <p className="mt-1 text-foreground/60">{cls.description}</p>}
-            <div className="mt-2 flex flex-wrap gap-4 text-sm text-foreground/60">
+            {cls.description && <p className="mt-1 text-foreground/75">{cls.description}</p>}
+            <div className="mt-2 flex flex-wrap gap-4 text-sm text-foreground/75">
               <span className="flex items-center gap-1.5">
                 <Users className="h-4 w-4" /> {cls.members.length} {t.teacher.students}
               </span>
@@ -102,16 +102,16 @@ export default async function ClassRosterPage({
 
         <h2 className="font-heading mt-10 text-lg font-bold text-foreground/70">{t.teacher.roster}</h2>
         {cls.members.length === 0 ? (
-          <p className="card-flat mt-3 px-5 py-8 text-center text-foreground/60">{t.teacher.noStudents}</p>
+          <p className="card-flat mt-3 px-5 py-8 text-center text-foreground/75">{t.teacher.noStudents}</p>
         ) : (
           <ul className="mt-3 space-y-2">
             {cls.members.map((m) => (
               <li key={m.id} className="card-flat flex flex-wrap items-center justify-between gap-2 px-5 py-3">
                 <div className="min-w-0">
                   <div className="font-semibold">{m.student.name || m.student.email}</div>
-                  <div className="truncate text-sm text-foreground/50">{m.student.email}</div>
+                  <div className="truncate text-sm text-foreground/70">{m.student.email}</div>
                 </div>
-                <span className="text-sm text-foreground/50">
+                <span className="text-sm text-foreground/70">
                   {t.teacher.joined} {new Date(m.joinedAt).toISOString().slice(0, 10)}
                 </span>
               </li>

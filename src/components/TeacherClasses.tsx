@@ -125,7 +125,7 @@ export default function TeacherClasses({ initialClasses }: { initialClasses: Cla
 
       {/* Class list */}
       {classes.length === 0 ? (
-        <p className="card-flat px-5 py-8 text-center text-foreground/60">{t.teacher.noClasses}</p>
+        <p className="card-flat px-5 py-8 text-center text-foreground/75">{t.teacher.noClasses}</p>
       ) : (
         <div className="grid gap-4 sm:grid-cols-2">
           {classes.map((c) => (
@@ -134,8 +134,8 @@ export default function TeacherClasses({ initialClasses }: { initialClasses: Cla
                 <h3 className="font-heading text-xl font-extrabold">{c.name}</h3>
                 {levelLabel(c.level) && <span className="badge badge-primary shrink-0">{levelLabel(c.level)}</span>}
               </div>
-              {c.description && <p className="text-sm text-foreground/60">{c.description}</p>}
-              <div className="flex flex-wrap gap-4 text-sm text-foreground/60">
+              {c.description && <p className="text-sm text-foreground/75">{c.description}</p>}
+              <div className="flex flex-wrap gap-4 text-sm text-foreground/75">
                 <span className="flex items-center gap-1.5">
                   <Users className="h-4 w-4" /> {c.members} {t.teacher.students}
                 </span>

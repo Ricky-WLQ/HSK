@@ -14,7 +14,7 @@ export default async function ExamHub() {
       <SiteHeader />
       <main className="container-app py-12">
         <h1 className="font-heading text-3xl font-extrabold">{t.exam.hubTitle}</h1>
-        <p className="mb-8 max-w-2xl text-foreground/60">{t.exam.hubSubtitle}</p>
+        <p className="mb-8 max-w-2xl text-foreground/75">{t.exam.hubSubtitle}</p>
         <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
           {HSK_LEVELS.map((lv, i) => {
             const specs = MOCK_STRUCTURE[lv] ?? [];
@@ -30,10 +30,10 @@ export default async function ExamHub() {
                   <span className="font-heading text-2xl font-extrabold">HSK {lv}</span>
                   <span className="badge badge-primary">{levelBand(lv)}</span>
                 </div>
-                <p className="mt-2 text-foreground/60">
+                <p className="mt-2 text-foreground/75">
                   {q} {t.exam.questions} · {min} {t.exam.minutes}
                 </p>
-                <p className="mt-1 text-xs text-foreground/40">{specs.map((s) => s.labelEn).join(" · ")}</p>
+                <p className="mt-1 text-xs text-foreground/65">{specs.map((s) => s.labelEn).join(" · ")}</p>
               </Link>
             );
           })}

@@ -89,7 +89,7 @@ export default function VocabQuiz({
 
   return (
     <div className="mx-auto max-w-md">
-      <div className="mb-3 flex items-center justify-between text-sm text-foreground/60">
+      <div className="mb-3 flex items-center justify-between text-sm text-foreground/75">
         <span>
           {qi + 1} / {questions.length}
         </span>
@@ -98,7 +98,7 @@ export default function VocabQuiz({
         </span>
       </div>
       <div className="card-elevated p-6">
-        <p className="text-sm text-foreground/60">{t.vocab.quizPrompt}</p>
+        <p className="text-sm text-foreground/75">{t.vocab.quizPrompt}</p>
         <p className="mt-1 text-xl font-semibold">{q.word.definition}</p>
 
         <div className="mt-5 grid grid-cols-2 gap-3" role="group" aria-label={t.vocab.quizPrompt}>

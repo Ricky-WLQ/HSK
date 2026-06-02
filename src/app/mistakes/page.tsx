@@ -15,9 +15,9 @@ export default async function MistakesPage() {
       <SiteHeader />
       <main className="container-app py-10">
         <h1 className="font-heading text-3xl font-extrabold">{t.mistakes.title}</h1>
-        <p className="mb-8 max-w-2xl text-foreground/60">{t.mistakes.subtitle}</p>
+        <p className="mb-8 max-w-2xl text-foreground/75">{t.mistakes.subtitle}</p>
         {mistakes.length === 0 ? (
-          <div className="card-elevated p-8 text-center text-foreground/60">{t.mistakes.empty}</div>
+          <div className="card-elevated p-8 text-center text-foreground/75">{t.mistakes.empty}</div>
         ) : (
           <MistakeList mistakes={mistakes} />
         )}

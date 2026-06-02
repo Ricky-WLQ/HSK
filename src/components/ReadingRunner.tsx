@@ -124,7 +124,7 @@ export default function ReadingRunner({ set }: { set: HskPracticeSet }) {
       <div className="mb-4 flex items-center justify-between">
         <Link
           href={`/practice/${set.level}/reading`}
-          className="text-sm text-foreground/60 hover:underline"
+          className="text-sm text-foreground/75 hover:underline"
         >
           ← {t.practice.backToSets}
         </Link>
@@ -144,7 +144,7 @@ export default function ReadingRunner({ set }: { set: HskPracticeSet }) {
 
       {set.groups.map((group) => (
         <div key={group.id} className="card-elevated mb-6 p-6">
-          <p className="mb-4 text-sm text-foreground/60">{group.instruction}</p>
+          <p className="mb-4 text-sm text-foreground/75">{group.instruction}</p>
 
           {group.passage && (
             <div className="mb-5 rounded-xl bg-surface p-4">
@@ -171,7 +171,7 @@ export default function ReadingRunner({ set }: { set: HskPracticeSet }) {
             </div>
           ) : group.sharedBank ? (
             <div className="mb-5 rounded-xl border border-card-border p-3">
-              <div className="mb-2 text-xs font-semibold uppercase text-foreground/50">
+              <div className="mb-2 text-xs font-semibold uppercase text-foreground/70">
                 {t.practice.wordBank}
               </div>
               <div className="grid gap-2 sm:grid-cols-2">
@@ -198,7 +198,7 @@ export default function ReadingRunner({ set }: { set: HskPracticeSet }) {
               return (
                 <div key={q.id} className="border-t border-card-border pt-4 first:border-t-0 first:pt-0">
                   <div className="mb-2 flex gap-2">
-                    <span className="font-semibold text-foreground/50">{qi + 1}.</span>
+                    <span className="font-semibold text-foreground/70">{qi + 1}.</span>
                     <div>
                       <div className="leading-relaxed">{q.prompt}</div>
                       {showPinyin && q.pinyin && (
@@ -303,7 +303,7 @@ export default function ReadingRunner({ set }: { set: HskPracticeSet }) {
                         </p>
                       )}
                       {analyzing.has(q.id) && (
-                        <p className="mt-1 flex items-center gap-1 text-sm text-foreground/50">
+                        <p className="mt-1 flex items-center gap-1 text-sm text-foreground/70">
                           <Loader2 className="h-3.5 w-3.5 animate-spin" /> {t.practice.analyzing}
                         </p>
                       )}
