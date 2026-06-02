@@ -150,7 +150,7 @@ export default function ReadingRunner({ set }: { set: HskPracticeSet }) {
             <div className="mb-5 rounded-xl bg-surface p-4">
               <div className="text-[15px] leading-relaxed">{group.passage}</div>
               {showPinyin && group.passagePinyin && (
-                <div className="mt-1 text-xs text-primary">{group.passagePinyin}</div>
+                <div className="mt-1 text-sm text-primary">{group.passagePinyin}</div>
               )}
             </div>
           )}
@@ -181,7 +181,7 @@ export default function ReadingRunner({ set }: { set: HskPracticeSet }) {
                     <span>
                       {o.text}
                       {showPinyin && o.pinyin && (
-                        <span className="ml-1 text-xs text-primary">{o.pinyin}</span>
+                        <span className="ml-1 text-sm text-primary">{o.pinyin}</span>
                       )}
                     </span>
                   </div>
@@ -202,7 +202,7 @@ export default function ReadingRunner({ set }: { set: HskPracticeSet }) {
                     <div>
                       <div className="leading-relaxed">{q.prompt}</div>
                       {showPinyin && q.pinyin && (
-                        <div className="text-xs text-primary">{q.pinyin}</div>
+                        <div className="text-sm text-primary">{q.pinyin}</div>
                       )}
                     </div>
                   </div>
@@ -269,7 +269,7 @@ export default function ReadingRunner({ set }: { set: HskPracticeSet }) {
                             <span>
                               {o.text}
                               {showPinyin && o.pinyin && (
-                                <span className="ml-1 text-xs text-primary">{o.pinyin}</span>
+                                <span className="ml-1 text-sm text-primary">{o.pinyin}</span>
                               )}
                             </span>
                           </button>

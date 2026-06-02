@@ -90,7 +90,7 @@ export default function MessagePanel({
                   m.mine ? "bg-primary-shadow text-white" : "bg-surface"
                 }`}
               >
-                {!m.mine && <div className="text-xs font-semibold opacity-70">{m.authorName}</div>}
+                {!m.mine && <div className="text-sm font-semibold opacity-80">{m.authorName}</div>}
                 <div className="whitespace-pre-wrap break-words text-sm">{m.body}</div>
                 <div className={`mt-0.5 text-xs ${m.mine ? "text-white/80" : "text-foreground/65"}`}>
                   {new Date(m.createdAt).toISOString().slice(0, 16).replace("T", " ")}

@@ -208,7 +208,7 @@ export default function ListeningRunner({ set }: { set: HskPracticeSet }) {
                         <div className="leading-relaxed">{q.prompt}</div>
                       )}
                       {showPinyin && q.pinyin && (
-                        <div className="text-xs text-primary">{q.pinyin}</div>
+                        <div className="text-sm text-primary">{q.pinyin}</div>
                       )}
                     </div>
                   </div>
@@ -319,7 +319,7 @@ export default function ListeningRunner({ set }: { set: HskPracticeSet }) {
                             <span>
                               {o.text}
                               {showPinyin && o.pinyin && (
-                                <span className="ml-1 text-xs text-primary">{o.pinyin}</span>
+                                <span className="ml-1 text-sm text-primary">{o.pinyin}</span>
                               )}
                             </span>
                           </button>
@@ -355,7 +355,7 @@ export default function ListeningRunner({ set }: { set: HskPracticeSet }) {
                           </div>
                           <div className="mt-1 leading-relaxed">{transcript}</div>
                           {showPinyin && transcriptPinyin && (
-                            <div className="mt-1 text-xs text-primary">{transcriptPinyin}</div>
+                            <div className="mt-1 text-sm text-primary">{transcriptPinyin}</div>
                           )}
                         </div>
                       )}

@@ -176,7 +176,7 @@ export default function WritingRunner({ set }: { set: HskPracticeSet }) {
                     <span className="font-semibold text-foreground/70">{qi + 1}.</span>
                     <div className="flex-1">
                       {q.prompt && <div className="leading-relaxed">{q.prompt}</div>}
-                      {q.pinyin && <div className="text-xs text-primary">{q.pinyin}</div>}
+                      {q.pinyin && <div className="text-sm text-primary">{q.pinyin}</div>}
                       {q.givenWord && (
                         <div className="mt-1 text-sm">
                           {t.practice.givenWord}: <span className="font-bold text-primary">{q.givenWord}</span>
@@ -186,7 +186,7 @@ export default function WritingRunner({ set }: { set: HskPracticeSet }) {
                         <div className="mt-2 rounded-xl bg-surface p-3 text-sm leading-relaxed">{q.sourceText}</div>
                       )}
                       {q.minChars ? (
-                        <div className="mt-1 text-xs text-foreground/70">≥ {q.minChars} {t.practice.chars}</div>
+                        <div className="mt-1 text-sm text-foreground/70">≥ {q.minChars} {t.practice.chars}</div>
                       ) : null}
                     </div>
                   </div>
@@ -232,7 +232,7 @@ export default function WritingRunner({ set }: { set: HskPracticeSet }) {
                     />
                   )}
                   {!isFill && (
-                    <div className="mt-1 text-right text-xs text-foreground/65">
+                    <div className="mt-1 text-right text-sm text-foreground/65">
                       {(answers[q.id] ?? "").length} {t.practice.chars}
                     </div>
                   )}

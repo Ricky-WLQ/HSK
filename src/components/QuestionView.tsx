@@ -56,7 +56,7 @@ export default function QuestionView({
         <span className="font-semibold text-foreground/70">{index}.</span>
         <div className="flex-1">
           {q.prompt && <div className="leading-relaxed">{q.prompt}</div>}
-          {showPinyin && q.pinyin && <div className="text-xs text-primary">{q.pinyin}</div>}
+          {showPinyin && q.pinyin && <div className="text-sm text-primary">{q.pinyin}</div>}
           {q.sourceText && (
             <div className="mt-1 rounded-lg bg-surface p-3 text-sm leading-relaxed">{q.sourceText}</div>
           )}
@@ -150,7 +150,7 @@ export default function QuestionView({
               <span className="font-bold text-primary">{o.label}</span>
               <span>
                 {o.text}
-                {showPinyin && o.pinyin && <span className="ml-1 text-xs text-primary">{o.pinyin}</span>}
+                {showPinyin && o.pinyin && <span className="ml-1 text-sm text-primary">{o.pinyin}</span>}
               </span>
             </button>
           ))}

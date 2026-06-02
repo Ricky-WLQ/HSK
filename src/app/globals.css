@@ -825,10 +825,13 @@ body {
 .text-error { color: #B91C1C; }
 .text-warning { color: #92400E; }
 .text-info { color: #1D4ED8; }
+.text-secondary { color: #C2410C; } /* orange-700 — 5.18:1 on white (KPI numbers, section icons) */
 .dark .text-success { color: #4ADE80; }
 .dark .text-error { color: #F87171; }
 .dark .text-warning { color: #FBBF24; }
 .dark .text-info { color: #60A5FA; }
+.dark .text-secondary { color: #F97316; } /* 5.68:1 on dark card */
+.dark .text-accent { color: #A78BFA; }    /* 5.93:1 — theme-toggle moon in dark */
 
 /* ==========================================
    CHIP / FILTER PILL SYSTEM

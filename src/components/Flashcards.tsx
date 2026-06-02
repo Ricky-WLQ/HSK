@@ -125,7 +125,7 @@ export default function Flashcards({
           {t.vocab.next} <ChevronRight className="h-4 w-4" />
         </button>
       </div>
-      <p className="mt-3 text-center text-xs text-foreground/65">{t.vocab.hint}</p>
+      <p className="mt-3 text-center text-sm text-foreground/65">{t.vocab.hint}</p>
     </div>
   );
 }

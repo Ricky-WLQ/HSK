@@ -61,7 +61,7 @@ export default function MistakeList({ mistakes }: { mistakes: MistakeItem[] }) {
           return (
             <div key={m.id} className="card-elevated p-6">
               <div className="mb-2 flex items-center justify-between">
-                <span className="text-xs font-semibold text-foreground/70">
+                <span className="text-sm font-semibold text-foreground/70">
                   HSK {m.level} · {sectionLabel(m.section)}
                 </span>
                 <span className={`badge ${statusCls}`}>{statusLabel(m.status)}</span>
@@ -106,7 +106,7 @@ export default function MistakeList({ mistakes }: { mistakes: MistakeItem[] }) {
                   {m.analysis.summary && <div className="font-semibold">{m.analysis.summary}</div>}
                   {m.analysis.analysis && <div className="mt-1 text-foreground/70">{m.analysis.analysis}</div>}
                   {(m.analysis.relatedVocab?.length ?? 0) > 0 && (
-                    <div className="mt-1 text-xs text-primary">
+                    <div className="mt-1 text-sm text-primary">
                       {t.mistakes.relatedVocab}: {m.analysis.relatedVocab.join("、")}
                     </div>
                   )}

@@ -43,19 +43,19 @@ export default async function ProgressPage() {
             <div className="grid gap-3 sm:grid-cols-4">
               <div className="card-flat px-5 py-4">
                 <div className="text-3xl font-extrabold text-primary">{pct(s.overallAccuracy)}%</div>
-                <div className="text-xs text-foreground/75">{t.progress.overall}</div>
+                <div className="text-sm text-foreground/75">{t.progress.overall}</div>
               </div>
               <div className="card-flat px-5 py-4">
                 <div className="text-3xl font-extrabold text-secondary">{s.totalAttempts}</div>
-                <div className="text-xs text-foreground/75">{t.progress.attempts}</div>
+                <div className="text-sm text-foreground/75">{t.progress.attempts}</div>
               </div>
               <div className="card-flat px-5 py-4">
                 <div className="text-3xl font-extrabold text-primary">{s.vocabMastered}</div>
-                <div className="text-xs text-foreground/75">{t.progress.vocabMastered}</div>
+                <div className="text-sm text-foreground/75">{t.progress.vocabMastered}</div>
               </div>
               <Link href="/mistakes" className="card-interactive px-5 py-4">
                 <div className="text-3xl font-extrabold text-error">{s.mistakes.total}</div>
-                <div className="text-xs text-foreground/75">{t.mistakes.title}</div>
+                <div className="text-sm text-foreground/75">{t.mistakes.title}</div>
               </Link>
             </div>
 
