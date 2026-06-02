@@ -2,8 +2,9 @@
 
 import { useState } from "react";
 import { useRouter } from "next/navigation";
-import { LogOut } from "lucide-react";
+import { LogOut, Loader2 } from "lucide-react";
 import { authClient } from "@/lib/auth-client";
+import { t } from "@/i18n";
 
 export default function SignOutButton() {
   const router = useRouter();
@@ -22,10 +23,11 @@ export default function SignOutButton() {
           setLoading(false);
         }
       }}
-      aria-label="Sign out"
+      aria-label={t.nav.signOut}
       className="btn-solid btn-solid-outline min-w-11 disabled:opacity-50"
     >
-      <LogOut className="h-4 w-4" /> <span className="hidden sm:inline">Sign out</span>
+      {loading ? <Loader2 className="h-4 w-4 animate-spin" /> : <LogOut className="h-4 w-4" />}
+      <span className="hidden sm:inline">{loading ? t.nav.signingOut : t.nav.signOut}</span>
     </button>
   );
 }

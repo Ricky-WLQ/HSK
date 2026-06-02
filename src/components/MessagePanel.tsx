@@ -1,7 +1,7 @@
 "use client";
 
 import { useCallback, useEffect, useRef, useState } from "react";
-import { Send } from "lucide-react";
+import { Send, Loader2 } from "lucide-react";
 import { t } from "@/i18n";
 
 type Msg = { id: string; body: string; authorId: string; authorName: string; mine: boolean; createdAt: string };
@@ -44,6 +44,9 @@ export default function MessagePanel({
   useEffect(() => {
     setLoading(true);
     void load();
+    // Poll so a teacher↔student reply appears without a manual reload.
+    const id = setInterval(() => void load(), 12000);
+    return () => clearInterval(id);
   }, [load]);
 
   useEffect(() => {
@@ -79,7 +82,9 @@ export default function MessagePanel({
     <div className="card-flat flex flex-col p-0">
       <div className="max-h-96 min-h-40 space-y-2 overflow-y-auto p-4" aria-live="polite">
         {loading ? (
-          <p className="text-sm text-foreground/70">…</p>
+          <p className="flex items-center gap-2 text-sm text-foreground/70" role="status">
+            <Loader2 className="h-4 w-4 animate-spin" aria-hidden /> {t.messages.loading}
+          </p>
         ) : msgs.length === 0 ? (
           <p className="text-sm text-foreground/70">{emptyText}</p>
         ) : (

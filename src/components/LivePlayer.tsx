@@ -8,16 +8,21 @@ import { t } from "@/i18n";
 export default function LivePlayer({ sessionId }: { sessionId: string }) {
   const { state, connecting, notJoined } = useLiveState(sessionId);
   const [busy, setBusy] = useState(false);
+  const [answerError, setAnswerError] = useState(false);
 
   async function answer(idx: number) {
     if (busy || !state || state.revealed) return;
     setBusy(true);
+    setAnswerError(false);
     try {
-      await fetch(`/api/live/${sessionId}/answer`, {
+      const res = await fetch(`/api/live/${sessionId}/answer`, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ questionIdx: state.currentQIdx, answer: idx }),
       });
+      if (!res.ok) setAnswerError(true);
+    } catch {
+      setAnswerError(true);
     } finally {
       setBusy(false);
     }
@@ -103,6 +108,11 @@ export default function LivePlayer({ sessionId }: { sessionId: string }) {
               </span>
             ) : null}
           </div>
+          {answerError && (
+            <p role="alert" className="mt-2 text-sm font-semibold text-error">
+              {t.live.answerError}
+            </p>
+          )}
         </div>
       )}
 

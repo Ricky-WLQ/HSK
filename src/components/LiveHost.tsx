@@ -1,7 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import { Play, Eye, SkipForward, Square, Users, Trophy, CheckCircle2 } from "lucide-react";
+import { Play, Eye, SkipForward, Square, Users, Trophy, CheckCircle2, Loader2 } from "lucide-react";
 import { useLiveState } from "@/components/useLiveState";
 import { t } from "@/i18n";
 
@@ -23,7 +23,12 @@ export default function LiveHost({ sessionId }: { sessionId: string }) {
     }
   }
 
-  if (!state) return <p className="text-foreground/70">…</p>;
+  if (!state)
+    return (
+      <p className="flex items-center gap-2 text-foreground/70" role="status">
+        <Loader2 className="h-5 w-5 animate-spin" aria-hidden /> {t.common.loading}
+      </p>
+    );
 
   const total = state.tally ? state.tally.reduce((a, b) => a + b, 0) : 0;
 

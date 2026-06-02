@@ -49,6 +49,7 @@ export default function ExamRunner({ exam }: { exam: AssembledExam }) {
   const [grading, setGrading] = useState(false);
   const [results, setResults] = useState<SectionResult[] | null>(null);
   const savedRef = useRef(false);
+  const finishingRef = useRef(false);
   const advanceRef = useRef<() => void>(() => {});
 
   const section = exam.sections[sectionIdx];
@@ -59,6 +60,8 @@ export default function ExamRunner({ exam }: { exam: AssembledExam }) {
   );
 
   const finish = useCallback(async () => {
+    if (finishingRef.current) return; // guard against a double-tap firing duplicate grade fetches
+    finishingRef.current = true;
     setPhase("results");
     if (typeof window !== "undefined") window.scrollTo(0, 0);
     setGrading(true);

@@ -15,18 +15,31 @@ type Filter = "all" | "new" | "reviewed" | "mastered";
 export default function MistakeList({ mistakes }: { mistakes: MistakeItem[] }) {
   const [items, setItems] = useState(mistakes);
   const [filter, setFilter] = useState<Filter>("all");
+  const [pending, setPending] = useState<string | null>(null);
+  const [error, setError] = useState(false);
   const shown = filter === "all" ? items : items.filter((m) => m.status === filter);
 
   async function setStatus(id: string, status: string) {
-    setItems((prev) => prev.map((m) => (m.id === id ? { ...m, status } : m)));
+    if (pending) return;
+    const prev = items;
+    setError(false);
+    setPending(id);
+    setItems((p) => p.map((m) => (m.id === id ? { ...m, status } : m)));
     try {
-      await fetch("/api/mistakes", {
+      const res = await fetch("/api/mistakes", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ id, status }),
       });
+      if (!res.ok) {
+        setItems(prev); // roll back so the UI doesn't claim work that wasn't saved
+        setError(true);
+      }
     } catch {
-      /* optimistic; best-effort */
+      setItems(prev);
+      setError(true);
+    } finally {
+      setPending(null);
     }
   }
 
@@ -53,6 +66,11 @@ export default function MistakeList({ mistakes }: { mistakes: MistakeItem[] }) {
           </button>
         ))}
       </div>
+      {error && (
+        <p role="alert" className="mb-4 text-sm font-semibold text-error">
+          {t.mistakes.saveError}
+        </p>
+      )}
 
       <div className="space-y-4">
         {shown.map((m) => {
@@ -115,12 +133,12 @@ export default function MistakeList({ mistakes }: { mistakes: MistakeItem[] }) {
 
               <div className="mt-3 flex flex-wrap items-center gap-2">
                 {m.status !== "reviewed" && m.status !== "mastered" && (
-                  <button onClick={() => setStatus(m.id, "reviewed")} className="btn-ghost text-sm">
+                  <button onClick={() => setStatus(m.id, "reviewed")} disabled={pending === m.id} className="btn-ghost text-sm disabled:opacity-50">
                     {t.mistakes.markReviewed}
                   </button>
                 )}
                 {m.status !== "mastered" && (
-                  <button onClick={() => setStatus(m.id, "mastered")} className="btn-ghost flex items-center gap-1 text-sm">
+                  <button onClick={() => setStatus(m.id, "mastered")} disabled={pending === m.id} className="btn-ghost flex items-center gap-1 text-sm disabled:opacity-50">
                     <Check className="h-3.5 w-3.5" /> {t.mistakes.markMastered}
                   </button>
                 )}
