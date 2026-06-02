@@ -814,6 +814,23 @@ body {
 .dark .badge-grammar { color: #FB7185; }       /* 5.97:1 */
 
 /* ==========================================
+   SEMANTIC TEXT COLORS (mode-aware)
+   --success/--error/--warning/--info read fine as BUTTON/BADGE *fills* (white text
+   on them) but fail WCAG AA as *text/icons* on light or dark surfaces. Override the
+   text utilities only (bg-*, badges, buttons untouched): dark-on-light in light mode,
+   light-on-dark in dark mode. All values verified ≥4.5:1 on white/surface/cream and
+   on the dark card/bg. Unlayered → wins over Tailwind's layered utility.
+   ========================================== */
+.text-success { color: #166534; }
+.text-error { color: #B91C1C; }
+.text-warning { color: #92400E; }
+.text-info { color: #1D4ED8; }
+.dark .text-success { color: #4ADE80; }
+.dark .text-error { color: #F87171; }
+.dark .text-warning { color: #FBBF24; }
+.dark .text-info { color: #60A5FA; }
+
+/* ==========================================
    CHIP / FILTER PILL SYSTEM
    ========================================== */
 
@@ -841,14 +858,16 @@ body {
 }
 
 .chip-active {
-  background: var(--primary);
+  /* emerald-700 (not --primary, which flips to light green in dark mode where white
+     text would fail) so the active pill keeps white text AA in both modes */
+  background: var(--primary-hover);
   color: white;
   border-color: var(--primary-shadow);
   font-weight: 700;
 }
 
 .chip-active:hover {
-  background: var(--primary-hover);
+  background: var(--primary-shadow);
   border-color: var(--primary-shadow);
   transform: translateY(-1px);
 }
