@@ -2,7 +2,7 @@
 
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import Link from "next/link";
-import { Check, X, Languages, Loader2, Volume2 } from "lucide-react";
+import { Check, X, Languages, Loader2, Volume2, RotateCcw } from "lucide-react";
 import { t } from "@/i18n";
 import type { HskPracticeSet, HskQuestion, HskGroup } from "@/lib/exam";
 
@@ -48,6 +48,7 @@ export default function ListeningRunner({ set }: { set: HskPracticeSet }) {
   const [checked, setChecked] = useState<Set<string>>(new Set());
   const [analysis, setAnalysis] = useState<Record<string, Analysis>>({});
   const [analyzing, setAnalyzing] = useState<Set<string>>(new Set());
+  const [analyzeError, setAnalyzeError] = useState<Set<string>>(new Set());
   const [showPinyin, setShowPinyin] = useState(true);
   const savedRef = useRef(false);
   const abortRef = useRef<AbortController[]>([]);
@@ -83,6 +84,57 @@ export default function ListeningRunner({ set }: { set: HskPracticeSet }) {
     [set, total, answers],
   );
 
+  const runAnalyze = useCallback(
+    async (q: HskQuestion, group: HskGroup) => {
+      setAnalyzeError((s) => {
+        if (!s.has(q.id)) return s;
+        const n = new Set(s);
+        n.delete(q.id);
+        return n;
+      });
+      setAnalyzing((s) => new Set(s).add(q.id));
+      const controller = new AbortController();
+      abortRef.current.push(controller);
+      let failed = false;
+      try {
+        const transcript = group.audio?.transcript ?? q.audio?.transcript ?? "";
+        const res = await fetch("/api/practice/analyze", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          signal: controller.signal,
+          body: JSON.stringify({
+            level: set.level,
+            section: set.section,
+            contentId: set.id,
+            questionId: q.id,
+            passage: transcript,
+            prompt: q.prompt,
+            options: q.options ?? null,
+            userAnswer: answers[q.id],
+            correctAnswer: q.correctAnswer,
+          }),
+        });
+        if (res.ok) {
+          const data = (await res.json()) as Analysis;
+          if (data.summary || data.analysis) setAnalysis((a) => ({ ...a, [q.id]: data }));
+          else failed = true;
+        } else {
+          failed = true;
+        }
+      } catch (err) {
+        if (!(err instanceof DOMException && err.name === "AbortError")) failed = true;
+      } finally {
+        setAnalyzing((s) => {
+          const n = new Set(s);
+          n.delete(q.id);
+          return n;
+        });
+        if (failed) setAnalyzeError((s) => new Set(s).add(q.id));
+      }
+    },
+    [set, answers],
+  );
+
   const check = useCallback(
     async (q: HskQuestion, group: HskGroup) => {
       if (checked.has(q.id) || answers[q.id] == null || answers[q.id] === "") return;
@@ -95,43 +147,10 @@ export default function ListeningRunner({ set }: { set: HskPracticeSet }) {
 
       // AI explanation for wrong MCQ items (not true/false or dictation).
       if (!isCorrect(q, answers[q.id]) && q.type === "listening-mcq") {
-        setAnalyzing((s) => new Set(s).add(q.id));
-        const controller = new AbortController();
-        abortRef.current.push(controller);
-        try {
-          const transcript = group.audio?.transcript ?? q.audio?.transcript ?? "";
-          const res = await fetch("/api/practice/analyze", {
-            method: "POST",
-            headers: { "Content-Type": "application/json" },
-            signal: controller.signal,
-            body: JSON.stringify({
-              level: set.level,
-              section: set.section,
-              contentId: set.id,
-              questionId: q.id,
-              passage: transcript,
-              prompt: q.prompt,
-              options: q.options ?? null,
-              userAnswer: answers[q.id],
-              correctAnswer: q.correctAnswer,
-            }),
-          });
-          if (res.ok) {
-            const data = (await res.json()) as Analysis;
-            if (data.summary || data.analysis) setAnalysis((a) => ({ ...a, [q.id]: data }));
-          }
-        } catch {
-          /* aborted or best-effort */
-        } finally {
-          setAnalyzing((s) => {
-            const n = new Set(s);
-            n.delete(q.id);
-            return n;
-          });
-        }
+        void runAnalyze(q, group);
       }
     },
-    [checked, answers, allQuestions, total, set, saveAttempt],
+    [checked, answers, allQuestions, total, saveAttempt, runAnalyze],
   );
 
   return (
@@ -367,6 +386,15 @@ export default function ListeningRunner({ set }: { set: HskPracticeSet }) {
                         <p className="mt-1 flex items-center gap-1 text-sm text-foreground/70">
                           <Loader2 className="h-3.5 w-3.5 animate-spin" /> {t.practice.analyzing}
                         </p>
+                      )}
+                      {analyzeError.has(q.id) && !analyzing.has(q.id) && (
+                        <button
+                          type="button"
+                          onClick={() => runAnalyze(q, group)}
+                          className="mt-1 flex items-center gap-1 text-sm font-semibold text-error"
+                        >
+                          <RotateCcw className="h-3.5 w-3.5" /> {t.practice.analyzeError}
+                        </button>
                       )}
                       {analysis[q.id] && (
                         <div className="mt-2 rounded-xl bg-surface p-3 text-sm">
