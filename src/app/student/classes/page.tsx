@@ -1,7 +1,8 @@
 import Link from "next/link";
-import { ArrowLeft, Users, GraduationCap } from "lucide-react";
+import { ArrowLeft, Users, GraduationCap, ClipboardList, CheckCircle2, ArrowRight } from "lucide-react";
 import { requireSession } from "@/lib/session";
 import { getStudentClasses } from "@/lib/classes";
+import { getStudentAssignments } from "@/lib/assignments";
 import { levelLabel } from "@/lib/levels";
 import SignOutButton from "@/components/SignOutButton";
 import ThemeToggle from "@/components/ThemeToggle";
@@ -24,11 +25,21 @@ export default async function StudentClassesPage() {
   const session = await requireSession();
 
   let classes: StudentClass[] = [];
+  let assignments: Awaited<ReturnType<typeof getStudentAssignments>> = [];
   try {
-    classes = (await getStudentClasses(session.user.id)) as StudentClass[];
+    [classes, assignments] = await Promise.all([
+      getStudentClasses(session.user.id) as Promise<StudentClass[]>,
+      getStudentAssignments(session.user.id),
+    ]);
   } catch {
     // best-effort: still render the join form
   }
+
+  const statusBadge: Record<string, string> = {
+    completed: "badge-success",
+    overdue: "badge-error",
+    not_started: "badge-info",
+  };
 
   return (
     <div className="min-h-screen">
@@ -55,6 +66,47 @@ export default async function StudentClassesPage() {
         <div className="mt-8">
           <JoinClassForm />
         </div>
+
+        {assignments.length > 0 && (
+          <section className="mt-10">
+            <h2 className="font-heading flex items-center gap-2 text-lg font-bold text-foreground/70">
+              <ClipboardList className="h-5 w-5" /> {t.assignments.yourAssignments}
+            </h2>
+            <ul className="mt-3 space-y-2">
+              {assignments.map((a) => (
+                <li key={a.id} className="card-flat flex flex-wrap items-center justify-between gap-3 px-5 py-3">
+                  <div className="min-w-0">
+                    <div className="flex flex-wrap items-center gap-2 font-semibold">
+                      <span className="badge badge-info shrink-0">{t.assignments.typeNames[a.type]}</span>
+                      <span className="truncate">{a.title}</span>
+                      <span className={`badge ${statusBadge[a.status]} shrink-0`}>
+                        {t.assignments.statusNames[a.status]}
+                      </span>
+                    </div>
+                    <div className="mt-0.5 flex flex-wrap gap-x-4 text-sm text-foreground/50">
+                      <span>{t.assignments.fromClass}: {a.className}</span>
+                      <span>{t.assignments.dueLabel}: {a.dueDate ? new Date(a.dueDate).toISOString().slice(0, 10) : t.assignments.noDue}</span>
+                      {a.status === "completed" && a.score != null && (
+                        <span className="font-semibold text-success">{t.assignments.score}: {a.score}%</span>
+                      )}
+                    </div>
+                  </div>
+                  <Link href={a.startUrl} className="btn-solid btn-solid-outline shrink-0">
+                    {a.status === "completed" ? (
+                      <>
+                        <CheckCircle2 className="h-4 w-4" /> {t.assignments.review}
+                      </>
+                    ) : (
+                      <>
+                        {t.assignments.start} <ArrowRight className="h-4 w-4" />
+                      </>
+                    )}
+                  </Link>
+                </li>
+              ))}
+            </ul>
+          </section>
+        )}
 
         {classes.length === 0 ? (
           <p className="card-flat mt-8 px-5 py-8 text-center text-foreground/60">{t.teacher.notEnrolled}</p>

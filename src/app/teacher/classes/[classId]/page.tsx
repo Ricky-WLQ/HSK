@@ -3,11 +3,14 @@ import { notFound } from "next/navigation";
 import { ArrowLeft, Users, ClipboardList } from "lucide-react";
 import { requireTeacher } from "@/lib/session";
 import { getClassWithRoster } from "@/lib/classes";
+import { getClassAssignmentsWithStats } from "@/lib/assignments";
+import { getPracticeIndex } from "@/lib/exam";
 import { levelLabel } from "@/lib/levels";
 import SignOutButton from "@/components/SignOutButton";
 import ThemeToggle from "@/components/ThemeToggle";
 import FontSizeControl from "@/components/FontSizeControl";
 import InviteCodeBadge from "@/components/InviteCodeBadge";
+import ClassAssignments, { type AssignmentRow, type SetMeta } from "@/components/ClassAssignments";
 import { t } from "@/i18n";
 
 export const dynamic = "force-dynamic";
@@ -22,6 +25,26 @@ export default async function ClassRosterPage({
 
   const cls = await getClassWithRoster(classId, session.user.id);
   if (!cls) notFound();
+
+  const [assignmentStats, practiceIndex] = await Promise.all([
+    getClassAssignmentsWithStats(classId, session.user.id),
+    getPracticeIndex(),
+  ]);
+  const assignmentRows: AssignmentRow[] = (assignmentStats ?? []).map((a) => ({
+    id: a.id,
+    type: a.type,
+    title: a.title,
+    dueDate: a.dueDate ? a.dueDate.toISOString() : null,
+    completed: a.completed,
+    total: a.total,
+  }));
+  const practiceSets: SetMeta[] = practiceIndex.sets.map((s) => ({
+    id: s.id,
+    level: s.level,
+    section: s.section,
+    title: s.title,
+    questionCount: s.questionCount,
+  }));
 
   return (
     <div className="min-h-screen">
@@ -81,6 +104,13 @@ export default async function ClassRosterPage({
             ))}
           </ul>
         )}
+
+        <ClassAssignments
+          classId={cls.id}
+          memberCount={cls.members.length}
+          initialAssignments={assignmentRows}
+          practiceSets={practiceSets}
+        />
       </main>
     </div>
   );
