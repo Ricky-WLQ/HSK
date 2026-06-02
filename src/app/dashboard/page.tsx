@@ -5,6 +5,7 @@ import { getSession } from "@/lib/session";
 import { prisma } from "@/lib/prisma";
 import SignOutButton from "@/components/SignOutButton";
 import ThemeToggle from "@/components/ThemeToggle";
+import OnboardingTour from "@/components/OnboardingTour";
 import { t } from "@/i18n";
 
 export const dynamic = "force-dynamic";
@@ -47,6 +48,7 @@ export default async function DashboardPage() {
           {t.dashboard.welcome}, {user.name || user.email} 👋
         </h1>
         <p className="mt-1 text-foreground/60">{t.dashboard.subtitle}</p>
+        <div className="mt-1"><OnboardingTour /></div>
 
         <div className="mt-6 flex flex-wrap gap-3">
           <div className="card-flat px-5 py-3">

@@ -242,6 +242,45 @@ export const messages = {
     all: "All",
     filterStatus: "Status",
   },
+  tour: {
+    skip: "Skip",
+    back: "Back",
+    next: "Next",
+    getStarted: "Get started",
+    replay: "Take a quick tour",
+    step: "Step",
+    of: "of",
+    steps: [
+      {
+        title: "Welcome to HSK Online 👋",
+        body: "Your all-in-one prep for the new HSK 3.0 — levels 1 to 9. Here's a 30-second tour.",
+      },
+      {
+        title: "Vocabulary",
+        body: "10,000+ official words with pinyin and audio — browse, flashcards, and quizzes that track what you've mastered.",
+      },
+      {
+        title: "Practice",
+        body: "Official-format listening, reading, writing, and translation with instant feedback and AI explanations on what you miss.",
+      },
+      {
+        title: "Grammar",
+        body: "Every official grammar point with structural patterns, examples, and exam-style drills — across all 9 levels.",
+      },
+      {
+        title: "Mock exams & diagnostic",
+        body: "Full timed mock exams in the real HSK structure with per-section timers, plus a quick diagnostic to find your level.",
+      },
+      {
+        title: "Track your progress",
+        body: "See your accuracy by section, spot your weak areas, and review every mistake — with explanations — in your notebook.",
+      },
+      {
+        title: "You're all set!",
+        body: "Pick a level and start learning. You can replay this tour any time from your dashboard.",
+      },
+    ],
+  },
 } as const;
 
 export const t = messages;
