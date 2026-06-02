@@ -15,7 +15,7 @@ export default function VocabBrowser({ words }: { words: VocabWord[] }) {
   const [limit, setLimit] = useState(PAGE);
   const [mastery, setMastery] = useState<Record<string, number>>({});
   // One shared audio player for all cards so only one clip plays at a time.
-  const { play, loading } = useAudioPlayer();
+  const { play, loading, error: audioError } = useAudioPlayer();
   const [activeText, setActiveText] = useState<string | null>(null);
   const onPlay = useCallback(
     (text: string) => {
@@ -77,6 +77,12 @@ export default function VocabBrowser({ words }: { words: VocabWord[] }) {
           {t.vocab.showDefinition}
         </button>
       </div>
+
+      {audioError && (
+        <p role="alert" className="mb-3 text-sm font-semibold text-error">
+          {t.vocab.audioError}
+        </p>
+      )}
 
       {shown.length === 0 ? (
         <p className="text-foreground/75">{t.vocab.noResults}</p>

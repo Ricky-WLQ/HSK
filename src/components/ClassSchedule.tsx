@@ -1,6 +1,6 @@
 "use client";
 
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import Link from "next/link";
 import { CalendarClock, Plus, Users, Trash2, Video } from "lucide-react";
 import LocalTime from "@/components/LocalTime";
@@ -26,6 +26,14 @@ export default function ClassSchedule({ classId, initial }: { classId: string; i
   const [recording, setRecording] = useState(false);
   const [busy, setBusy] = useState(false);
   const [error, setError] = useState<string | null>(null);
+  // Client-only "now" (null on SSR → matches first client render, no hydration mismatch)
+  // so the Join room only opens around class time, not for cancelled/far-off sessions.
+  const [now, setNow] = useState<number | null>(null);
+  useEffect(() => {
+    setNow(Date.now());
+    const id = setInterval(() => setNow(Date.now()), 30000);
+    return () => clearInterval(id);
+  }, []);
 
   async function create(e: React.FormEvent) {
     e.preventDefault();
@@ -130,9 +138,21 @@ export default function ClassSchedule({ classId, initial }: { classId: string; i
                 <span className="badge badge-primary flex items-center gap-1">
                   <Users className="h-3.5 w-3.5" /> {s.booked}/{s.maxParticipants}
                 </span>
-                <Link href={`/call/${s.id}`} className="btn-solid btn-solid-primary shrink-0">
-                  <Video className="h-4 w-4" /> {t.schedule.join}
-                </Link>
+                {s.status !== "cancelled" &&
+                now != null &&
+                now >= Date.parse(s.startAt) - 15 * 60000 &&
+                now <= Date.parse(s.endAt) + 30 * 60000 ? (
+                  <Link href={`/call/${s.id}`} className="btn-solid btn-solid-primary shrink-0">
+                    <Video className="h-4 w-4" /> {t.schedule.join}
+                  </Link>
+                ) : (
+                  <span
+                    className="btn-solid btn-solid-outline shrink-0 cursor-not-allowed opacity-60"
+                    title={t.schedule.videoSoon}
+                  >
+                    <Video className="h-4 w-4" /> {t.schedule.join}
+                  </span>
+                )}
                 <button type="button" onClick={() => cancel(s.id)} aria-label={t.schedule.cancelSession} className="btn-ghost h-11 w-11 p-0 text-error">
                   <Trash2 className="h-4 w-4" />
                 </button>

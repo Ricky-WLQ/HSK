@@ -14,6 +14,7 @@ export function useAudioPlayer() {
   const audioRef = useRef<HTMLAudioElement | null>(null);
   const urlRef = useRef<string | null>(null);
   const [loading, setLoading] = useState(false);
+  const [error, setError] = useState(false);
 
   const release = useCallback(() => {
     if (audioRef.current) {
@@ -40,11 +41,16 @@ export function useAudioPlayer() {
       const controller = new AbortController();
       controllerRef.current = controller;
       setLoading(true);
+      setError(false);
       try {
         const params = new URLSearchParams({ text });
         if (voice) params.set("voice", voice);
         const res = await fetch(`/api/tts?${params.toString()}`, { signal: controller.signal });
-        if (!res.ok || controller.signal.aborted) return;
+        if (controller.signal.aborted) return;
+        if (!res.ok) {
+          setError(true);
+          return;
+        }
         const blob = await res.blob();
         if (controller.signal.aborted) return;
         const url = URL.createObjectURL(blob);
@@ -61,6 +67,7 @@ export function useAudioPlayer() {
         audio.onerror = revoke;
         await audio.play();
       } catch {
+        if (!controller.signal.aborted) setError(true);
         release();
       } finally {
         if (controllerRef.current === controller) setLoading(false);
@@ -76,5 +83,5 @@ export function useAudioPlayer() {
     };
   }, [release]);
 
-  return { play, stop, loading };
+  return { play, stop, loading, error };
 }
