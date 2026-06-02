@@ -40,6 +40,14 @@ model User {
   hskAttempts   HskAttempt[]
   hskMistakes   HskMistake[]
 
+  // Phase 3 — teacher portal
+  teacherClasses        Class[]                @relation("TeacherClasses")
+  classMemberships      ClassMember[]          @relation("StudentMemberships")
+  authoredComments      ClassComment[]         @relation("AuthoredComments")
+  assignmentCompletions AssignmentCompletion[] @relation("StudentCompletions")
+  teacherLiveSessions   LiveSession[]          @relation("TeacherLiveSessions")
+  liveParticipations    LiveParticipant[]      @relation("StudentParticipations")
+
   @@map("user")
 }
 
@@ -157,4 +165,155 @@ model HskMistake {
 
   @@unique([userId, level, section, contentId, questionId])
   @@index([userId, level, section, status])
+}
+
+// ============================================================
+// Phase 3 — Teacher portal (classes, assignments, messaging, live-quiz).
+// Architecture mirrors the proven CET app: the DB is the source of truth;
+// the live-quiz pushes changes over SSE (verified to stream un-buffered on
+// Zeabur) instead of CET's Supabase Realtime.
+// ============================================================
+
+model Class {
+  id           String         @id @default(cuid())
+  name         String
+  description  String?
+  teacherId    String
+  teacher      User           @relation("TeacherClasses", fields: [teacherId], references: [id], onDelete: Cascade)
+  inviteCode   String         @unique // 8-char alphanumeric, regenerable
+  level        String? // optional default HSK focus: "1".."6","7-9" or null
+  isActive     Boolean        @default(true)
+  createdAt    DateTime       @default(now())
+  updatedAt    DateTime       @updatedAt
+  members      ClassMember[]
+  assignments  Assignment[]
+  comments     ClassComment[]
+  liveSessions LiveSession[]
+
+  @@index([teacherId])
+  @@index([inviteCode])
+}
+
+// Student ↔ class membership (enrollment).
+model ClassMember {
+  id        String   @id @default(cuid())
+  classId   String
+  class     Class    @relation(fields: [classId], references: [id], onDelete: Cascade)
+  studentId String
+  student   User     @relation("StudentMemberships", fields: [studentId], references: [id], onDelete: Cascade)
+  joinedAt  DateTime @default(now())
+
+  @@unique([classId, studentId])
+  @@index([classId])
+  @@index([studentId])
+}
+
+// Teacher↔student or class-wide message thread (studentId null = class-wide).
+model ClassComment {
+  id        String   @id @default(cuid())
+  classId   String
+  class     Class    @relation(fields: [classId], references: [id], onDelete: Cascade)
+  authorId  String
+  author    User     @relation("AuthoredComments", fields: [authorId], references: [id], onDelete: Cascade)
+  studentId String? // null = class-wide announcement; set = thread with this student
+  body      String
+  isRead    Boolean  @default(false)
+  createdAt DateTime @default(now())
+
+  @@index([classId, studentId, createdAt])
+  @@index([studentId, isRead])
+}
+
+// A teacher-assigned task targeting existing HSK content.
+model Assignment {
+  id          String                 @id @default(cuid())
+  classId     String
+  class       Class                  @relation(fields: [classId], references: [id], onDelete: Cascade)
+  teacherId   String
+  title       String
+  description String?
+  type        String // "practice" | "grammar" | "mock" | "diagnostic" | "vocab"
+  target      String                 @default("{}") // JSON: e.g. {"level":"3","section":"reading"} or {"setId":"..."}
+  dueDate     DateTime?
+  isActive    Boolean                @default(true)
+  createdAt   DateTime               @default(now())
+  updatedAt   DateTime               @updatedAt
+  completions AssignmentCompletion[]
+
+  @@index([classId, isActive])
+  @@index([classId, dueDate])
+  @@index([teacherId])
+}
+
+// Per-student completion of an assignment; links to the student's HskAttempt.
+model AssignmentCompletion {
+  id              String     @id @default(cuid())
+  assignmentId    String
+  assignment      Assignment @relation(fields: [assignmentId], references: [id], onDelete: Cascade)
+  studentId       String
+  student         User       @relation("StudentCompletions", fields: [studentId], references: [id], onDelete: Cascade)
+  status          String     @default("not_started") // "not_started" | "in_progress" | "completed"
+  attemptId       String? // HskAttempt.id
+  score           Float?
+  correctCount    Int?
+  totalQuestions  Int?
+  feedback        String? // optional teacher note
+  completedAt     DateTime?
+  markedByTeacher Boolean    @default(false)
+
+  @@unique([assignmentId, studentId])
+  @@index([studentId])
+  @@index([assignmentId, status])
+}
+
+// ── Live class quiz (Kahoot-style, synchronized by the teacher) ──
+
+model LiveSession {
+  id           String            @id @default(cuid())
+  classId      String
+  class        Class             @relation(fields: [classId], references: [id], onDelete: Cascade)
+  teacherId    String
+  teacher      User              @relation("TeacherLiveSessions", fields: [teacherId], references: [id], onDelete: Cascade)
+  joinCode     String            @unique // short code students enter to join
+  title        String?
+  questions    String            @default("[]") // JSON: [{ q, pinyin?, options:[...], correct }]
+  status       String            @default("waiting") // "waiting" | "running" | "ended"
+  currentQIdx  Int               @default(0) // teacher advances
+  revealed     Boolean           @default(false) // reveal answer for currentQIdx
+  startedAt    DateTime          @default(now())
+  endedAt      DateTime?
+  participants LiveParticipant[]
+  answers      LiveAnswer[]
+
+  @@index([classId])
+  @@index([joinCode])
+}
+
+model LiveParticipant {
+  id        String      @id @default(cuid())
+  sessionId String
+  session   LiveSession @relation(fields: [sessionId], references: [id], onDelete: Cascade)
+  studentId String
+  student   User        @relation("StudentParticipations", fields: [studentId], references: [id], onDelete: Cascade)
+  name      String // display name in the quiz
+  joinedAt  DateTime    @default(now())
+  joinQIdx  Int         @default(0) // late-join: earlier questions count blank
+
+  @@unique([sessionId, studentId])
+  @@index([sessionId])
+}
+
+// Per-question answer events — the source of truth for live aggregation.
+model LiveAnswer {
+  id          String      @id @default(cuid())
+  sessionId   String
+  session     LiveSession @relation(fields: [sessionId], references: [id], onDelete: Cascade)
+  studentId   String
+  questionIdx Int
+  answer      String
+  correct     Boolean?
+  submittedAt DateTime    @default(now())
+
+  @@unique([sessionId, studentId, questionIdx])
+  @@index([sessionId, questionIdx])
 }
