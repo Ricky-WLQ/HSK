@@ -1,7 +1,8 @@
 "use client";
 
 import { useMemo, useState } from "react";
-import { ClipboardList, Plus, Trash2 } from "lucide-react";
+import Link from "next/link";
+import { ClipboardList, Plus, Trash2, BarChart3 } from "lucide-react";
 import { CLASS_LEVELS, levelLabel } from "@/lib/levels";
 import { t } from "@/i18n";
 
@@ -190,6 +191,12 @@ export default function ClassAssignments({
               </div>
               <div className="flex items-center gap-3">
                 <span className="badge badge-primary">{a.completed}/{a.total} {t.assignments.completed}</span>
+                <Link
+                  href={`/teacher/classes/${classId}/assignments/${a.id}`}
+                  className="btn-ghost flex h-9 items-center gap-1.5 px-3 text-sm"
+                >
+                  <BarChart3 className="h-4 w-4" /> {t.assignments.details}
+                </Link>
                 <button
                   type="button"
                   onClick={() => handleDelete(a.id)}

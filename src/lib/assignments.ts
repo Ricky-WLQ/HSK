@@ -222,5 +222,59 @@ export async function getStudentAssignments(studentId: string) {
   return out;
 }
 
+/** Teacher monitoring: one assignment with each member's completion (ownership-scoped). */
+export async function getAssignmentDetail(assignmentId: string, teacherId: string) {
+  const a = await prisma.assignment.findFirst({
+    where: { id: assignmentId, class: { teacherId } },
+    include: {
+      class: {
+        select: {
+          id: true,
+          name: true,
+          members: {
+            orderBy: { joinedAt: "asc" },
+            select: {
+              studentId: true,
+              student: { select: { id: true, name: true, email: true } },
+            },
+          },
+        },
+      },
+    },
+  });
+  if (!a) return null;
+
+  const memberIds = a.class.members.map((m) => m.studentId);
+  const comps = await computeCompletions(a, memberIds);
+  const rows = a.class.members.map((m) => {
+    const c = comps.get(m.studentId)!;
+    return {
+      studentId: m.studentId,
+      name: m.student.name,
+      email: m.student.email,
+      status: c.status,
+      score: c.score,
+      correctCount: c.correctCount,
+      totalQuestions: c.totalQuestions,
+      completedAt: c.completedAt,
+    };
+  });
+  const completed = rows.filter((r) => r.status === "completed").length;
+
+  return {
+    id: a.id,
+    type: a.type as AssignmentType,
+    title: a.title,
+    description: a.description,
+    target: parseTarget(a.target),
+    dueDate: a.dueDate,
+    classId: a.class.id,
+    className: a.class.name,
+    rows,
+    completed,
+    total: rows.length,
+  };
+}
+
 export const ASSIGNMENT_TITLE_MAX = 80;
 export const ASSIGNMENT_DESC_MAX = 280;

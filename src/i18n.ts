@@ -356,6 +356,12 @@ export const messages = {
     noDue: "No due date",
     fromClass: "Class",
     score: "Score",
+    details: "Details",
+    student: "Student",
+    completedOn: "Completed",
+    dash: "—",
+    backToClass: "Back to class",
+    noOne: "No students in this class yet.",
     typeNames: {
       practice: "Practice",
       grammar: "Grammar",
