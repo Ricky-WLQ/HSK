@@ -31,7 +31,7 @@ export default async function BecomeTeacherPage() {
       </header>
 
       <main className="container-app max-w-xl py-12">
-        <Link href="/dashboard" className="btn-ghost mb-4 inline-flex px-3 py-2 text-sm">
+        <Link href="/dashboard" className="btn-ghost mb-4 inline-flex min-h-11 items-center px-3 py-2 text-sm">
           <ArrowLeft className="h-4 w-4" /> {t.nav.dashboard}
         </Link>
         <ClaimTeacherForm />

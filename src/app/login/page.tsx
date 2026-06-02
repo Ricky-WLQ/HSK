@@ -107,7 +107,7 @@ export default function LoginPage() {
           </div>
 
           {error && (
-            <p className="badge badge-error w-full justify-center py-2">{error}</p>
+            <p role="alert" className="badge badge-error w-full justify-center py-2">{error}</p>
           )}
 
           <button

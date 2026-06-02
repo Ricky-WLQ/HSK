@@ -880,7 +880,7 @@ body {
    ========================================== */
 
 :focus-visible {
-  outline: 3px solid var(--primary-light);
+  outline: 3px solid var(--primary);
   outline-offset: 2px;
   border-radius: var(--clay-radius);
 }
@@ -888,7 +888,7 @@ body {
 .btn-solid:focus-visible,
 .btn-ghost:focus-visible,
 .chip:focus-visible {
-  outline: 3px solid var(--primary-light);
+  outline: 3px solid var(--primary);
   outline-offset: 2px;
 }
 

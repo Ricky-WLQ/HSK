@@ -30,7 +30,7 @@ export default function InviteCodeBadge({ code }: { code: string }) {
         type="button"
         onClick={copy}
         aria-label={copied ? t.teacher.copied : t.teacher.copy}
-        className="btn-ghost flex h-10 items-center gap-1.5 px-3 text-sm"
+        className="btn-ghost flex h-11 items-center gap-1.5 px-3 text-sm"
       >
         {copied ? <Check className="h-4 w-4 text-success" /> : <Copy className="h-4 w-4" />}
         {copied ? t.teacher.copied : t.teacher.copy}

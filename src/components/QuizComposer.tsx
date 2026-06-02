@@ -118,14 +118,14 @@ export default function QuizComposer({ classId }: { classId: string }) {
                   maxLength={200}
                 />
                 {q.options.length > 2 && (
-                  <button type="button" onClick={() => removeOption(i, oi)} aria-label={t.live.removeQuestion} className="btn-ghost h-11 w-11 p-0 text-foreground/65">
+                  <button type="button" onClick={() => removeOption(i, oi)} aria-label={t.live.removeOption} className="btn-ghost h-11 w-11 p-0 text-foreground/65">
                     <Trash2 className="h-4 w-4" />
                   </button>
                 )}
               </div>
             ))}
             {q.options.length < 6 && (
-              <button type="button" onClick={() => addOption(i)} className="btn-ghost text-sm">
+              <button type="button" onClick={() => addOption(i)} className="btn-ghost min-h-11 text-sm">
                 <Plus className="h-4 w-4" /> {t.live.addOption}
               </button>
             )}

@@ -63,12 +63,14 @@ export default function VocabBrowser({ words }: { words: VocabWord[] }) {
           }}
         />
         <button
+          aria-pressed={showPinyin}
           className={`chip ${showPinyin ? "chip-active" : ""}`}
           onClick={() => setShowPinyin((v) => !v)}
         >
           {t.vocab.showPinyin}
         </button>
         <button
+          aria-pressed={showDef}
           className={`chip ${showDef ? "chip-active" : ""}`}
           onClick={() => setShowDef((v) => !v)}
         >

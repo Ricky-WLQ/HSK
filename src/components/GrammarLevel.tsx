@@ -184,7 +184,7 @@ export default function GrammarLevel({
                                     aria-checked={picked}
                                     disabled={isChecked}
                                     onClick={() => setAnswers((a) => ({ ...a, [key]: oi }))}
-                                    className={`rounded-xl border-2 p-2.5 text-left text-sm ${cls}`}
+                                    className={`flex min-h-11 items-center rounded-xl border-2 p-2.5 text-left text-sm ${cls}`}
                                   >
                                     {o}
                                   </button>

@@ -31,11 +31,10 @@ function AudioClip({ clipKey }: { clipKey: string }) {
     <audio
       controls
       preload="none"
-      className="mt-1 h-10 w-full"
+      aria-label={t.practice.listenAudio}
+      className="mt-1 h-12 w-full"
       src={`/api/listening-audio?key=${encodeURIComponent(clipKey)}`}
-    >
-      <track kind="captions" />
-    </audio>
+    />
   );
 }
 

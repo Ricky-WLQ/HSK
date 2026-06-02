@@ -31,6 +31,7 @@ export default function OnboardingTour() {
   const [cursor, setCursor] = useState<{ x: number; y: number } | null>(null);
   const [tap, setTap] = useState(false);
   const rafRef = useRef<number | null>(null);
+  const dialogRef = useRef<HTMLDivElement>(null);
 
   const locate = useCallback((i: number) => {
     const sel = TARGETS[i];
@@ -103,6 +104,17 @@ export default function OnboardingTour() {
     setActive(false);
   }
 
+  // Esc closes the spotlight (it's a modal dialog); also move focus into the card on open.
+  useEffect(() => {
+    if (!active) return;
+    const onKey = (e: KeyboardEvent) => {
+      if (e.key === "Escape") dismiss();
+    };
+    window.addEventListener("keydown", onKey);
+    dialogRef.current?.focus();
+    return () => window.removeEventListener("keydown", onKey);
+  }, [active]);
+
   const last = step === steps.length - 1;
   const cur = steps[step] ?? steps[0];
 
@@ -165,7 +177,11 @@ export default function OnboardingTour() {
                 : "fixed inset-0 z-[60] flex items-center justify-center p-4"
             }
           >
-            <div className="card-elevated animate-scale-in pointer-events-auto relative w-full max-w-sm p-6 text-center">
+            <div
+              ref={dialogRef}
+              tabIndex={-1}
+              className="card-elevated animate-scale-in pointer-events-auto relative w-full max-w-sm p-6 text-center outline-none"
+            >
               <button
                 onClick={dismiss}
                 aria-label={t.tour.skip}

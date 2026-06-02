@@ -62,7 +62,7 @@ export default function JoinLive() {
           {t.live.joinBtn}
         </button>
       </div>
-      {error && <p className="badge badge-error w-full justify-center py-2">{error}</p>}
+      {error && <p role="alert" className="badge badge-error w-full justify-center py-2">{error}</p>}
     </form>
   );
 }

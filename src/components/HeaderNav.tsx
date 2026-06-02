@@ -25,13 +25,13 @@ export default function HeaderNav({ signedIn }: { signedIn: boolean }) {
       {/* Desktop nav */}
       <nav className="hidden items-center gap-1.5 lg:flex" aria-label="Main navigation">
         {LINKS.map((l) => (
-          <Link key={l.href} href={l.href} className="btn-ghost px-3 py-2 text-sm">
+          <Link key={l.href} href={l.href} className="btn-ghost min-h-11 px-3 py-2 text-sm">
             {l.label}
           </Link>
         ))}
         <FontSizeControl />
         <ThemeToggle />
-        <Link href={dest} className="btn-solid btn-solid-primary px-4 py-2 text-sm">
+        <Link href={dest} className="btn-solid btn-solid-primary min-h-11 px-4 py-2 text-sm">
           {destLabel}
         </Link>
       </nav>

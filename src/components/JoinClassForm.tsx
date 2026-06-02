@@ -71,7 +71,7 @@ export default function JoinClassForm() {
           {joining ? t.teacher.joining : joined ? t.teacher.joinedClass : t.teacher.join}
         </button>
       </div>
-      {error && <p className="badge badge-error w-full justify-center py-2">{error}</p>}
+      {error && <p role="alert" className="badge badge-error w-full justify-center py-2">{error}</p>}
     </form>
   );
 }
