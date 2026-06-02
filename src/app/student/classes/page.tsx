@@ -1,15 +1,18 @@
 import Link from "next/link";
-import { ArrowLeft, Users, GraduationCap, ClipboardList, CheckCircle2, ArrowRight, MessagesSquare } from "lucide-react";
+import { ArrowLeft, Users, GraduationCap, ClipboardList, CheckCircle2, ArrowRight, MessagesSquare, CalendarClock } from "lucide-react";
 import { requireSession } from "@/lib/session";
 import { getStudentClasses } from "@/lib/classes";
 import { getStudentAssignments } from "@/lib/assignments";
 import { studentUnread } from "@/lib/messages";
+import { getStudentSessions } from "@/lib/scheduling";
 import { levelLabel } from "@/lib/levels";
 import SignOutButton from "@/components/SignOutButton";
 import ThemeToggle from "@/components/ThemeToggle";
 import FontSizeControl from "@/components/FontSizeControl";
 import JoinClassForm from "@/components/JoinClassForm";
 import JoinLive from "@/components/JoinLive";
+import BookButton from "@/components/BookButton";
+import LocalTime from "@/components/LocalTime";
 import { t } from "@/i18n";
 
 export const dynamic = "force-dynamic";
@@ -44,13 +47,15 @@ export default async function StudentClassesPage() {
   };
 
   const unreadByClass: Record<string, number> = {};
+  let liveSessions: Awaited<ReturnType<typeof getStudentSessions>> = [];
   try {
     const counts = await Promise.all(classes.map((c) => studentUnread(c.id, session.user.id)));
     classes.forEach((c, i) => {
       unreadByClass[c.id] = counts[i];
     });
+    liveSessions = await getStudentSessions(session.user.id);
   } catch {
-    // unread badges are best-effort
+    // unread badges + sessions are best-effort
   }
 
   return (
@@ -115,6 +120,32 @@ export default async function StudentClassesPage() {
                       </>
                     )}
                   </Link>
+                </li>
+              ))}
+            </ul>
+          </section>
+        )}
+
+        {liveSessions.length > 0 && (
+          <section className="mt-10">
+            <h2 className="font-heading flex items-center gap-2 text-lg font-bold text-foreground/70">
+              <CalendarClock className="h-5 w-5" /> {t.schedule.yourSessions}
+            </h2>
+            <ul className="mt-3 space-y-2">
+              {liveSessions.map((s) => (
+                <li key={s.id} className="card-flat flex flex-wrap items-center justify-between gap-3 px-5 py-3">
+                  <div className="min-w-0">
+                    <div className="flex items-center gap-2 font-semibold">
+                      <CalendarClock className="h-4 w-4 shrink-0 text-primary" />
+                      <LocalTime iso={s.startAt} />
+                    </div>
+                    <div className="text-sm text-foreground/50">
+                      {s.className}
+                      {s.title ? ` · ${s.title}` : ""} · {s.durationMin} {t.schedule.min}
+                      {s.maxParticipants > 1 ? ` · ${s.booked}/${s.maxParticipants} ${t.schedule.booked}` : " · 1:1"}
+                    </div>
+                  </div>
+                  <BookButton sessionId={s.id} mine={s.mine} full={!s.mine && s.booked >= s.maxParticipants} />
                 </li>
               ))}
             </ul>

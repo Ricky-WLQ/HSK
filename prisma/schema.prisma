@@ -48,6 +48,10 @@ model User {
   teacherLiveSessions   LiveSession[]          @relation("TeacherLiveSessions")
   liveParticipations    LiveParticipant[]      @relation("StudentParticipations")
 
+  // Phase 4 — scheduling / live video classes
+  teacherSessions ClassSession[]   @relation("TeacherSessions")
+  sessionBookings SessionBooking[] @relation("StudentBookings")
+
   @@map("user")
 }
 
@@ -189,6 +193,7 @@ model Class {
   assignments  Assignment[]
   comments     ClassComment[]
   liveSessions LiveSession[]
+  sessions     ClassSession[]
 
   @@index([teacherId])
   @@index([inviteCode])
@@ -316,4 +321,47 @@ model LiveAnswer {
 
   @@unique([sessionId, studentId, questionIdx])
   @@index([sessionId, questionIdx])
+}
+
+// ============================================================
+// Phase 4 — scheduling & live video classes (payments dropped per owner).
+// The teacher schedules a ClassSession (1:1 when maxParticipants=1, else group,
+// duration capped at 120 min); enrolled students book a seat (capacity-enforced).
+// `videoRoom` is populated later when a WebRTC provider is wired in.
+// ============================================================
+
+model ClassSession {
+  id                 String           @id @default(cuid())
+  classId            String
+  class              Class            @relation(fields: [classId], references: [id], onDelete: Cascade)
+  teacherId          String
+  teacher            User             @relation("TeacherSessions", fields: [teacherId], references: [id], onDelete: Cascade)
+  title              String?
+  startAt            DateTime         @db.Timestamptz(3)
+  durationMin        Int              @default(60) // enforced <= 120 in app
+  endAt              DateTime         @db.Timestamptz(3)
+  maxParticipants    Int              @default(1) // 1 = one-on-one; >1 = group
+  status             String           @default("scheduled") // scheduled | live | ended | canceled
+  videoRoom          String? // provider room name, set when video is enabled
+  recordingRequested Boolean          @default(false)
+  createdAt          DateTime         @default(now())
+  updatedAt          DateTime         @updatedAt
+  bookings           SessionBooking[]
+
+  @@index([classId, startAt])
+  @@index([teacherId, startAt])
+}
+
+model SessionBooking {
+  id        String       @id @default(cuid())
+  sessionId String
+  session   ClassSession @relation(fields: [sessionId], references: [id], onDelete: Cascade)
+  studentId String
+  student   User         @relation("StudentBookings", fields: [studentId], references: [id], onDelete: Cascade)
+  status    String       @default("booked") // booked | canceled
+  bookedAt  DateTime     @default(now())
+
+  @@unique([sessionId, studentId])
+  @@index([studentId])
+  @@index([sessionId, status])
 }

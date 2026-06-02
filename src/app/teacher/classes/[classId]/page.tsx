@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { ArrowLeft, Users, ClipboardList, MessagesSquare, Radio } from "lucide-react";
+import { ArrowLeft, Users, ClipboardList, MessagesSquare, Radio, CalendarClock } from "lucide-react";
 import { requireTeacher } from "@/lib/session";
 import { getClassWithRoster } from "@/lib/classes";
 import { getClassAssignmentsWithStats } from "@/lib/assignments";
@@ -89,6 +89,9 @@ export default async function ClassRosterPage({
             </Link>
             <Link href={`/teacher/classes/${classId}/live`} className="btn-solid btn-solid-outline">
               <Radio className="h-4 w-4" /> {t.live.open}
+            </Link>
+            <Link href={`/teacher/classes/${classId}/schedule`} className="btn-solid btn-solid-outline">
+              <CalendarClock className="h-4 w-4" /> {t.schedule.open}
             </Link>
           </div>
         </div>
