@@ -127,7 +127,7 @@ export default function LoginPage() {
           {mode === "signin" ? t.auth.newHere : t.auth.haveAccount}{" "}
           <button
             type="button"
-            className="font-semibold text-primary hover:underline"
+            className="inline-block py-1.5 font-semibold text-primary hover:underline"
             onClick={() => {
               setMode(mode === "signin" ? "signup" : "signin");
               setError(null);

@@ -22,7 +22,7 @@ export default async function ReadingSetList({
     <div className="min-h-screen">
       <SiteHeader />
       <main className="container-app py-10">
-        <Link href="/practice" className="text-sm text-foreground/75 hover:underline">
+        <Link href="/practice" className="-ml-2 inline-flex min-h-11 items-center gap-1 rounded-lg px-2 text-sm text-foreground/75 hover:bg-surface hover:underline">
           ← {t.practice.back}
         </Link>
         <h1 className="font-heading mt-1 text-3xl font-extrabold">

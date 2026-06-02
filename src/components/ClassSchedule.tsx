@@ -99,8 +99,8 @@ export default function ClassSchedule({ classId, initial }: { classId: string; i
             <input id="s-cap" type="number" min={1} max={100} className="input-clay" value={capacity} onChange={(e) => setCapacity(Number(e.target.value) || 1)} />
             <span className="mt-1 block text-xs text-foreground/70">{t.schedule.oneOnOne}</span>
           </div>
-          <label className="flex items-center gap-2 self-end text-sm font-semibold">
-            <input type="checkbox" className="h-5 w-5" checked={recording} onChange={(e) => setRecording(e.target.checked)} />
+          <label className="flex min-h-11 cursor-pointer items-center gap-2 self-end text-sm font-semibold">
+            <input type="checkbox" className="h-6 w-6" checked={recording} onChange={(e) => setRecording(e.target.checked)} />
             {t.schedule.recording}
           </label>
         </div>

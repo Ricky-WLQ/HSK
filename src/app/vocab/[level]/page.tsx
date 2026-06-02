@@ -24,7 +24,7 @@ export default async function VocabLevelPage({
       <main className="container-app py-10">
         <div className="mb-6 flex flex-wrap items-end justify-between gap-4">
           <div>
-            <Link href="/vocab" className="text-sm text-foreground/75 hover:underline">
+            <Link href="/vocab" className="-ml-2 inline-flex min-h-11 items-center gap-1 rounded-lg px-2 text-sm text-foreground/75 hover:bg-surface hover:underline">
               ← {t.vocab.back}
             </Link>
             <h1 className="font-heading text-3xl font-extrabold">
