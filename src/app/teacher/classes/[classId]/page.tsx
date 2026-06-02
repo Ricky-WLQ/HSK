@@ -1,9 +1,10 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { ArrowLeft, Users, ClipboardList } from "lucide-react";
+import { ArrowLeft, Users, ClipboardList, MessagesSquare } from "lucide-react";
 import { requireTeacher } from "@/lib/session";
 import { getClassWithRoster } from "@/lib/classes";
 import { getClassAssignmentsWithStats } from "@/lib/assignments";
+import { teacherUnread } from "@/lib/messages";
 import { getPracticeIndex } from "@/lib/exam";
 import { levelLabel } from "@/lib/levels";
 import SignOutButton from "@/components/SignOutButton";
@@ -26,9 +27,10 @@ export default async function ClassRosterPage({
   const cls = await getClassWithRoster(classId, session.user.id);
   if (!cls) notFound();
 
-  const [assignmentStats, practiceIndex] = await Promise.all([
+  const [assignmentStats, practiceIndex, msgUnread] = await Promise.all([
     getClassAssignmentsWithStats(classId, session.user.id),
     getPracticeIndex(),
+    teacherUnread(classId, session.user.id),
   ]);
   const assignmentRows: AssignmentRow[] = (assignmentStats ?? []).map((a) => ({
     id: a.id,
@@ -79,7 +81,13 @@ export default async function ClassRosterPage({
               </span>
             </div>
           </div>
-          {levelLabel(cls.level) && <span className="badge badge-primary">{levelLabel(cls.level)}</span>}
+          <div className="flex flex-col items-end gap-2">
+            {levelLabel(cls.level) && <span className="badge badge-primary">{levelLabel(cls.level)}</span>}
+            <Link href={`/teacher/classes/${classId}/messages`} className="btn-solid btn-solid-outline">
+              <MessagesSquare className="h-4 w-4" /> {t.messages.open}
+              {msgUnread > 0 && <span className="badge badge-error ml-1">{msgUnread}</span>}
+            </Link>
+          </div>
         </div>
 
         <div className="card-flat mt-6 p-5">

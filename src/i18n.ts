@@ -374,6 +374,21 @@ export const messages = {
       overdue: "Overdue",
     },
   },
+  messages: {
+    nav: "Messages",
+    title: "Messages",
+    announcements: "Announcements",
+    directMessages: "Direct messages",
+    teacherThread: "Messages with your teacher",
+    placeholder: "Write a message…",
+    send: "Send",
+    sending: "Sending…",
+    noMessages: "No messages yet — say hello!",
+    noAnnouncements: "No announcements yet.",
+    noStudents: "No students have joined yet. Share the invite code first.",
+    backToClass: "Back to class",
+    open: "Messages",
+  },
 } as const;
 
 export const t = messages;

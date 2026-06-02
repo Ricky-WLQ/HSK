@@ -1,8 +1,9 @@
 import Link from "next/link";
-import { ArrowLeft, Users, GraduationCap, ClipboardList, CheckCircle2, ArrowRight } from "lucide-react";
+import { ArrowLeft, Users, GraduationCap, ClipboardList, CheckCircle2, ArrowRight, MessagesSquare } from "lucide-react";
 import { requireSession } from "@/lib/session";
 import { getStudentClasses } from "@/lib/classes";
 import { getStudentAssignments } from "@/lib/assignments";
+import { studentUnread } from "@/lib/messages";
 import { levelLabel } from "@/lib/levels";
 import SignOutButton from "@/components/SignOutButton";
 import ThemeToggle from "@/components/ThemeToggle";
@@ -40,6 +41,16 @@ export default async function StudentClassesPage() {
     overdue: "badge-error",
     not_started: "badge-info",
   };
+
+  const unreadByClass: Record<string, number> = {};
+  try {
+    const counts = await Promise.all(classes.map((c) => studentUnread(c.id, session.user.id)));
+    classes.forEach((c, i) => {
+      unreadByClass[c.id] = counts[i];
+    });
+  } catch {
+    // unread badges are best-effort
+  }
 
   return (
     <div className="min-h-screen">
@@ -129,6 +140,13 @@ export default async function StudentClassesPage() {
                     <Users className="h-4 w-4" /> {c._count.members} {t.teacher.students}
                   </span>
                 </div>
+                <Link
+                  href={`/student/classes/${c.id}/messages`}
+                  className="btn-solid btn-solid-outline mt-1 self-start"
+                >
+                  <MessagesSquare className="h-4 w-4" /> {t.messages.open}
+                  {unreadByClass[c.id] > 0 && <span className="badge badge-error ml-1">{unreadByClass[c.id]}</span>}
+                </Link>
               </div>
             ))}
           </div>
