@@ -18,7 +18,9 @@ function isCorrect(q: HskQuestion, answer: string | undefined): boolean {
     const a = normalize(answer);
     if (!a) return false;
     const refs = [q.correctAnswer, ...(q.acceptableAnswers ?? [])].map(normalize);
-    return refs.some((r) => r.length > 0 && (a === r || a.includes(r)));
+    // Exact match after normalization (incl. acceptableAnswers). `includes` was
+    // too lenient — a superset/negated answer would wrongly pass.
+    return refs.some((r) => r.length > 0 && a === r);
   }
   return answer === q.correctAnswer; // option letter or 对/错
 }

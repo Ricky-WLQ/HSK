@@ -15,7 +15,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "A",
-     "explanation": "对话提到看书，图片A是一本书，因此选择图片A。",
+     "explanation": "对话中说“我在看书”，所以图片应展示一个人在看书的情景。",
      "audio": {
       "key": "listening/v1/dffaf0e07bbd6f2e8fbefd9ba6c9ebdd503bcfe963f7227ca0e7eddc711a0d35.mp3",
       "lines": [
@@ -39,7 +39,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "B",
-     "explanation": "对话提到茶，图片B是一杯茶，因此选择图片B。",
+     "explanation": "对话中男问'你想喝什么？'，女答'一杯茶。'，表明对方要喝茶，因此对应图片B中的一杯茶。",
      "audio": {
       "key": "listening/v1/c6c796cea027fb05669587a13562835ea504153cd2b22490c0c00eb2a255e945.mp3",
       "lines": [
@@ -63,7 +63,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "C",
-     "explanation": "对话问时间，图片C是时钟显示三点，因此选择图片C。",
+     "explanation": "对话中问到'现在几点了？'并回答'三点'，而图片C显示时钟指向3点，因此对应。",
      "audio": {
       "key": "listening/v1/7d2ed435bf4ebe0dd5b54ca201b931828d8352ebf3ef1ff5690dfd32783d7b08.mp3",
       "lines": [
@@ -87,7 +87,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "D",
-     "explanation": "对话提到骑自行车，图片D是自行车，因此选择图片D。",
+     "explanation": "对话中说“骑自行车”，因此对应图片D（自行车）。",
      "audio": {
       "key": "listening/v1/a1f07b0dd98d70e41ffb72a0ed76b6963711424ed78eb523443fce7e1a165a33.mp3",
       "lines": [
@@ -111,7 +111,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "E",
-     "explanation": "对话提到猫，图片E是猫，因此选择图片E。",
+     "explanation": "对话中提到'有一只猫'，所以对应猫的图片。",
      "audio": {
       "key": "listening/v1/b8d4b674d5cfd0fe339180c44c351acc4cf6c964ff6646f774b3d4211b51f74b.mp3",
       "lines": [
@@ -135,7 +135,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "A",
-     "explanation": "对话提到书，图片A是书，因此选择图片A。",
+     "explanation": "对话中问‘这本书是你的吗’，说明图片中有一本书，并且回答‘是我的’表明书属于说话者，因此图片应展示一本书。",
      "audio": {
       "key": "listening/v1/34c612759306644dcb110088ee4d97b3c6f1306fdbcc78177e165d4ae4cffb0c.mp3",
       "lines": [
@@ -159,7 +159,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "B",
-     "explanation": "对话提到茶，图片B是茶，因此选择图片B。",
+     "explanation": "对话中问“茶好了吗？”，回答“好了，喝吧”，表明茶已准备好并可以饮用，与正在倒茶或喝茶的图片B相符。",
      "audio": {
       "key": "listening/v1/d56735567f8b10de5f53054ecdfdbc43d658486cc2a051f8445f365101513155.mp3",
       "lines": [
@@ -183,7 +183,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "C",
-     "explanation": "对话提到闹钟，图片C是时钟，因此选择图片C。",
+     "explanation": "对话中提到“你的闹钟响了”和“我关掉了”，说明图片内容与闹钟相关。",
      "audio": {
       "key": "listening/v1/e1daad5b3e8f4fa69f884790b21d90e1c65438e6bcf174324f32459ed2f6a695.mp3",
       "lines": [
@@ -207,7 +207,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "D",
-     "explanation": "对话提到骑车、自行车，图片D是自行车，因此选择图片D。",
+     "explanation": "对话中一人说'我们骑车去公园吧'，另一人回应'好，我骑自行车'，表明两人计划骑自行车去公园，对应图片中有人骑自行车的场景。",
      "audio": {
       "key": "listening/v1/36dfa4213546ad5de839a0517398b4f0434a1920933d29a07dc66588dadb2b8b.mp3",
       "lines": [
@@ -231,7 +231,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "E",
-     "explanation": "对话提到猫，图片E是猫，因此选择图片E。",
+     "explanation": "对话说\"那只猫很可爱。 是我的。\"，表明有猫且属于说话者，图片E显示一只猫，因此对应。",
      "audio": {
       "key": "listening/v1/7bf4f5cdd0e9a7dd353c9f6961c63bfb679210ad4e949686b0238187c546fda2.mp3",
       "lines": [

@@ -34,7 +34,7 @@
      "id": "q2",
      "type": "listening-picture-true-false",
      "prompt": "",
-     "correctAnswer": "对",
+     "correctAnswer": "错",
      "explanation": "句子说她在喝茶，但图片中她喝的是咖啡，所以是错误的。",
      "audio": {
       "key": "listening/v1/fdc9c617de2e4d0108fc7db2e6f46687f6cdc0c0626993db0cf9556769ae2972.mp3",

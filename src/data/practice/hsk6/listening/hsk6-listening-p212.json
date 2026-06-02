@@ -63,7 +63,7 @@
     {
      "id": "q3",
      "type": "listening-mcq",
-     "prompt": "",
+     "prompt": "根据这段材料，下列说法正确的是？",
      "correctAnswer": "A",
      "explanation": "独白指出AI创作的本质是算法对海量数据的分析和模仿，绘画和诗歌都是如此。而选项B和C是部分缺点，但共同点是算法重组；A与原文相反。",
      "options": [
@@ -88,7 +88,7 @@
     {
      "id": "q4",
      "type": "listening-mcq",
-     "prompt": "",
+     "prompt": "一些学者指出，真正值得担忧的是什么？",
      "correctAnswer": "C",
      "explanation": "独白中明确说“真正值得担忧的不是AI本身，而是人类过度依赖技术，导致自身创造力的退化”，因此C正确。其他选项文中未提及或相反。",
      "options": [
@@ -113,7 +113,7 @@
     {
      "id": "q5",
      "type": "listening-mcq",
-     "prompt": "",
+     "prompt": "作者对人工智能在艺术创作中的应用持什么态度？",
      "correctAnswer": "D",
      "explanation": "独白结尾强调“应该将AI视为辅助工具，而非替代者”，并指出机器无法复制灵魂，体现了理性利用的态度。既不全盘否定，也不盲目乐观。",
      "options": [

@@ -14,7 +14,7 @@
      "id": "q1",
      "type": "listening-picture-true-false",
      "prompt": "",
-     "correctAnswer": "错",
+     "correctAnswer": "对",
      "explanation": "句子说的是'我今天吃苹果'，图片显示一个人在吃苹果，所以一致。",
      "audio": {
       "key": "listening/v1/b03bc78fc32cb42f78516f990adbf9892cdf837cd1b2d1d3da8680d49bf7baea.mp3",

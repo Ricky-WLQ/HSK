@@ -15,7 +15,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "A",
-     "explanation": "对话中提到‘苹果’，与图片中男孩吃苹果的场景一致。",
+     "explanation": "对话中“你手里拿的是什么？这是苹果，我正要吃”表明手里拿的是苹果，因此对应图片标签A（苹果）。",
      "audio": {
       "key": "listening/v1/d06216626636a1ee473b296f41c1006e25571838e43ecd839f5a23e869b9e2c7.mp3",
       "lines": [
@@ -39,7 +39,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "D",
-     "explanation": "对话中提到‘在睡觉’、‘在床上’，与图片中女孩睡觉的场景相符。",
+     "explanation": "对话中明确提到“女孩在床上睡觉”，因此图片应展示睡觉的场景。",
      "audio": {
       "key": "listening/v1/2b6378aea1f806d6a002be86247d61b63bbb0d95c19ed91ebb22fbfbf35dfa46.mp3",
       "lines": [
@@ -63,7 +63,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "E",
-     "explanation": "对话中提到‘椅子上有一只猫’、‘白色的猫’，与图片中白猫坐在椅子上的场景一致。",
+     "explanation": "对话中提到“椅子上有一只猫”是白色的猫，它一动不动”，与图片E中的白色猫坐在椅子上的画面相符。",
      "audio": {
       "key": "listening/v1/0857b93423b801935e24d7ee769f33cf7650d7a93eb2278a270c686498992403.mp3",
       "lines": [
@@ -87,7 +87,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "C",
-     "explanation": "对话中提到‘正在跑步’，与图片中男人跑步的场景一致。",
+     "explanation": "对话中问‘操场上那个男人在做什么？’回答‘他正在跑步，速度很快’，因此对应图片C中的跑步动作。",
      "audio": {
       "key": "listening/v1/be1c9c0c960df5e638716ce77b116c48b0eef2cb62d68b026cf18b6274d80c17.mp3",
       "lines": [
@@ -111,7 +111,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "B",
-     "explanation": "对话中提到‘报纸’，与图片中女人读报纸的场景一致。",
+     "explanation": "对话中提到“这不是书，是今天的报纸”，所以对应的是报纸图片。",
      "audio": {
       "key": "listening/v1/003eab47b0979c365322d3baba2702d2f73420c040705dab8e30e5e972415da0.mp3",
       "lines": [
@@ -135,7 +135,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "A",
-     "explanation": "对话中提到‘苹果’，与图片中男孩吃苹果的场景一致。",
+     "explanation": "对话中说‘我最喜欢吃苹果了’，所以对应图片A（苹果）。",
      "audio": {
       "key": "listening/v1/069e2e42db10f3261714d74ca8b7b471c572912dcb1da74e58c8b3f99756bf83.mp3",
       "lines": [
@@ -159,7 +159,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "D",
-     "explanation": "对话中提到‘在睡觉’，与图片中女孩睡觉的场景一致。",
+     "explanation": "对话中说“你妹妹在睡觉吗？对，她刚睡着，不要吵她”，表明妹妹正在睡觉且需要保持安静，这与图片中人物睡觉的场景一致。",
      "audio": {
       "key": "listening/v1/bb354a98a5c1b1fc0ce0e8c74a9fcc70e6aae5c7b5cc5af0471b6e1a8d17d564.mp3",
       "lines": [
@@ -183,7 +183,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "B",
-     "explanation": "对话中提到‘看报纸’，与图片中女人读报纸的场景一致。",
+     "explanation": "对话中问‘那位女生在看什么？’回答‘她在看报纸，是中文的’，所以图片应显示一份中文报纸，对应标签B。",
      "audio": {
       "key": "listening/v1/766e83ccf7423eeb3e04d8d66cf6c9efa80b56159208fd4b7b0db6e745fa2836.mp3",
       "lines": [
@@ -207,7 +207,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "C",
-     "explanation": "对话中提到‘跑步’，与图片中男人跑步的场景一致。",
+     "explanation": "对话中问‘公园里有人在跑步吗？’，答‘有，好几个人都在跑步’，所以对应图片C（显示多人跑步）。",
      "audio": {
       "key": "listening/v1/ec3427e32f679390a7a6070179406fbdaad8ecd915a2a4d493f9cecf2a1f5faf.mp3",
       "lines": [
@@ -231,7 +231,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "E",
-     "explanation": "对话中提到‘小猫坐在椅子上’，与图片中猫坐在椅子上的场景一致。",
+     "explanation": "对话中说道“它正坐在客厅的椅子上”，描述小猫在椅子上的情景，因此对应图片E。",
      "audio": {
       "key": "listening/v1/5111772e876f788415cafa6ca43d563ecd84d7bf15a38fa6a19a39faaed63512.mp3",
       "lines": [

@@ -15,7 +15,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "B",
-     "explanation": "对话中女方说每天跑步，所以对应的图片是跑步的图片。",
+     "explanation": "对话中说到'我每天跑步'，因此对应跑步的图片标签B。",
      "audio": {
       "key": "listening/v1/e01a96e58d228a38080ad3aa14f0166cb31d44bfa4c7a40092190dd4dad8d889.mp3",
       "lines": [
@@ -39,7 +39,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "A",
-     "explanation": "对话中女方说在看书，所以对应的图片是看书的图片。",
+     "explanation": "对话中问'你在房间做什么？'，答'我在看书。'，所以对应一个人在房间看书的图片。",
      "audio": {
       "key": "listening/v1/ae525e7891bdd000fc054831047bf056e32761c5f2504b7f7fecde9d29433659.mp3",
       "lines": [
@@ -63,7 +63,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "C",
-     "explanation": "对话中女方提议去吃饭，所以对应的图片是吃饭的图片。",
+     "explanation": "对话中建议“去餐厅吃饭”，所以图片C应展示餐厅场景。",
      "audio": {
       "key": "listening/v1/a789ef1c6791235db2c173bc8d16fdc0d032fa90733812a4ad580f94870c1688.mp3",
       "lines": [
@@ -87,7 +87,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "D",
-     "explanation": "对话中女方想喝水，所以对应的图片是喝水的图片。",
+     "explanation": "对话中'这里有一杯水'和'我正想喝水'表明图片应包含一杯水，与标签D相符。",
      "audio": {
       "key": "listening/v1/42532da0a7de776ebec4c4e362b6c0b06991d54ce92cdd0bec3240c39eb93e0b.mp3",
       "lines": [
@@ -111,7 +111,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "E",
-     "explanation": "对话中女方说孩子马上睡觉，所以对应的图片是睡觉的图片。",
+     "explanation": "对话中‘孩子怎么还不睡？’和‘他马上睡觉’表明孩子即将入睡，图片E描绘了与睡觉相关的场景，因此对应。",
      "audio": {
       "key": "listening/v1/dcef705fcb12530c31c874ecbf26a7773deb77115fb56de25d8a8255b72f5711.mp3",
       "lines": [
@@ -135,7 +135,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "B",
-     "explanation": "对话中女方想去跑步，所以对应的图片是跑步的图片。",
+     "explanation": "对话中‘周末我们去公园玩吧’和‘我想去跑步’表明人物计划在公园跑步，与图片B中显示的公园跑步场景一致。",
      "audio": {
       "key": "listening/v1/1d095615e8d8b4a14e452c70d4564532da76bafffb53a4c6087e5cd61e2828c7.mp3",
       "lines": [
@@ -159,7 +159,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "A",
-     "explanation": "对话中女方说在家看书，所以对应的图片是看书的图片。",
+     "explanation": "对话中一方问‘你晚上有时间吗？’，另一方回答‘有，我打算在家看书’，表明晚上在家看书，与图片A中一个人在家看书的场景相符。",
      "audio": {
       "key": "listening/v1/cc6c31d3d6a32da6123c2ccf10527ac8d46587c86e6d414c246cd04f760ccec5.mp3",
       "lines": [
@@ -183,7 +183,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "D",
-     "explanation": "对话中女方说每天喝很多水，所以对应的图片是喝水的图片。",
+     "explanation": "对话中说到'天气太热了，你要多喝水'，而正确图片标签D展示的正是与喝水相关的场景，因此匹配。",
      "audio": {
       "key": "listening/v1/2208b231d36617478f89de1ac9f28fed1e8e5ad230a3e759d1d4e5891643a4e1.mp3",
       "lines": [
@@ -207,7 +207,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "C",
-     "explanation": "对话中女方提议去吃饭，所以对应的图片是吃饭的图片。",
+     "explanation": "对话中‘饿了，我们去吃饭’表明要吃饭，图片C展示的是吃饭场景。",
      "audio": {
       "key": "listening/v1/61666fa99d69f4e9ebe31359c16cef10f08cf4c98f8770ecdeb9e46a047cb109.mp3",
       "lines": [
@@ -231,7 +231,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "E",
-     "explanation": "对话中女方说马上睡觉，所以对应的图片是睡觉的图片。",
+     "explanation": "对话中女声说“我马上就睡觉”，表明即将去睡觉，因此对应表示睡觉的图片。",
      "audio": {
       "key": "listening/v1/f988b67677d27478f4a0b3dbb61acf655ecc65d4f238a8840286ca69599fb981.mp3",
       "lines": [

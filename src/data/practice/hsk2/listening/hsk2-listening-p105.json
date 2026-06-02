@@ -34,7 +34,7 @@
      "id": "q2",
      "type": "listening-picture-true-false",
      "prompt": "",
-     "correctAnswer": "对",
+     "correctAnswer": "错",
      "explanation": "句子说猫在桌子上，但图片中猫在桌子下面，位置不同，所以错误。",
      "audio": {
       "key": "listening/v1/07a084230348fc3a4fa757443b2deb2f1cb25363d92a326091117d34d50eaa14.mp3",

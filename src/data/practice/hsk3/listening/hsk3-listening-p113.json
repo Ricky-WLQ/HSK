@@ -15,7 +15,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "A",
-     "explanation": "对话中提到了“打电话”，与图片A中的人物在打电话一致。",
+     "explanation": "对话中问“你在给谁打电话？”回答“我在给我妈妈打电话”，说明是在打电话，对应图片应该是打电话的场景。",
      "audio": {
       "key": "listening/v1/785d9e11e1e30047dcba57012ac3e726a0d13101c51e3a2bb0ceabd8d546c435.mp3",
       "lines": [
@@ -39,7 +39,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "B",
-     "explanation": "对话中提到了“苹果”和“吃”，与图片B中的人物吃苹果一致。",
+     "explanation": "对话中提到“这个苹果很好吃”和“我每天都吃一个”，所以对应的是苹果图片。",
      "audio": {
       "key": "listening/v1/5f5b3517351522c5cd846a96b79d34f791bf938472a1176aea0f1d8e0e8eb5a3.mp3",
       "lines": [
@@ -63,7 +63,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "C",
-     "explanation": "对话中提到了“骑自行车”，与图片C中的人物骑车一致。",
+     "explanation": "对话中两人讨论骑自行车上学，与图片C中显示的学生骑自行车上学的场景相符。",
      "audio": {
       "key": "listening/v1/d83cf7463532a4ae694194fca96daa516904fe3637eb56df0cd8c9a6dcd88f5c.mp3",
       "lines": [
@@ -87,7 +87,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "D",
-     "explanation": "对话中提到了“看电视”，与图片D中的人物看电视一致。",
+     "explanation": "对话中一人提议“晚上看电视”，另一人回应“想看新闻”，这表明他们在选择电视节目，与图片D表示的观看新闻节目相符。",
      "audio": {
       "key": "listening/v1/4010d99aacdbfe76cf89e7f1ef22df5f57046bfdcb606df89c1a0d3ea0462f1d.mp3",
       "lines": [
@@ -111,7 +111,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "E",
-     "explanation": "对话中提到了“写信”，与图片E中的人物写信一致。",
+     "explanation": "对话中“你在写信吗？ 对，我在给朋友写信”表明正在写信，因此对应与写信相关的图片E。",
      "audio": {
       "key": "listening/v1/76a39f79028167b850b9e640c2020a72e3178bcc467d8662399af796158f06fc.mp3",
       "lines": [
@@ -135,7 +135,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "A",
-     "explanation": "对话中提到了“打电话”，与图片A中的人物打电话一致。",
+     "explanation": "对话中明确说‘请给我打电话’并得到‘好，我马上打’的回应，表明这是一个打电话的场景，与图片A相符。",
      "audio": {
       "key": "listening/v1/c6c7af26bb4f5b24825887fcddaefd2435a01ddc39f01e30ed55c91f298c6a7a.mp3",
       "lines": [
@@ -159,7 +159,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "B",
-     "explanation": "对话中提到了“吃苹果”，与图片B中的人物吃苹果一致。",
+     "explanation": "对话中问“你吃苹果吗？”并回答“吃，我很喜欢苹果”，表明谈论的是苹果，因此对应苹果的图片B。",
      "audio": {
       "key": "listening/v1/5a326529741b3d8199498512f9b1efa52f45360be399a50a72d49b914b197cdc.mp3",
       "lines": [
@@ -183,7 +183,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "C",
-     "explanation": "对话中提到了“骑自行车”，与图片C中的人物骑车一致。",
+     "explanation": "对话中问“他怎么去学校？”回答“他骑自行车去”，所以对应图片C（骑自行车去学校）。",
      "audio": {
       "key": "listening/v1/64aa191b043c96a6d1989910a810864b974e730ae530f1b1ede2dc168d52cdd3.mp3",
       "lines": [
@@ -207,7 +207,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "D",
-     "explanation": "对话中提到了“看电视”，与图片D中的人物看电视一致。",
+     "explanation": "对话中回答‘看，我喜欢看电视剧’，说明人物在看电视，因此对应图片D（看电视的场景）。",
      "audio": {
       "key": "listening/v1/c9813afbd2d9e5682e0594d00852c48a8e7ee1d2222fe4d504c634e79918caec.mp3",
       "lines": [
@@ -231,7 +231,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "E",
-     "explanation": "对话中提到了“写信”，与图片E中的人物写信一致。",
+     "explanation": "对话中“我在给爸爸写信”表明写信动作，因此对应图片E（展示写信场景）。",
      "audio": {
       "key": "listening/v1/83db87b8b8d18a4bddaea016397ed83e2f428a782bbc2aeb443984c469318661.mp3",
       "lines": [

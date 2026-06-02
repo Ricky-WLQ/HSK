@@ -15,7 +15,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "A",
-     "explanation": "对话中提到'吃饭'，对应的图片是吃饭的场景。",
+     "explanation": "对话中‘我在吃饭’直接描述了吃饭行为，因此对应展示吃饭场景的图片A。",
      "audio": {
       "key": "listening/v1/b84f518ddcfde53c0af9b38d38ff0dae146a8704e8a276d7624b36df1f793a4a.mp3",
       "lines": [
@@ -39,7 +39,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "B",
-     "explanation": "对话中提到'喝水'，对应的图片是喝水的场景。",
+     "explanation": "对话中‘你渴吗？’和‘对，我在喝水’表明正在喝水，因此图片B显示喝水场景。",
      "audio": {
       "key": "listening/v1/74d7ddabf6fca46901bae91e717998409eb97ae881696fbebec1e14c4314efa2.mp3",
       "lines": [
@@ -63,7 +63,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "C",
-     "explanation": "对话中提到'睡觉'，对应的图片是睡觉的场景。",
+     "explanation": "对话中明确说'他在睡觉'，图片C展示了一个人在睡觉。",
      "audio": {
       "key": "listening/v1/1ddbfced387dae113ed00eb821c4b81cfb3394833b1bf96e513bc2a07ae3115e.mp3",
       "lines": [
@@ -87,7 +87,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "D",
-     "explanation": "对话中提到'看书'，对应的图片是看书的场景。",
+     "explanation": "对话中说到'我喜欢在晚上看书'，与图片D中展示的夜晚看书场景相符。",
      "audio": {
       "key": "listening/v1/251c31b2755447601efa0c8f561669d49ebb6170646fad17bba58ad55fd28961.mp3",
       "lines": [
@@ -111,7 +111,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "E",
-     "explanation": "对话中提到'踢足球'，对应的图片是踢足球的场景。",
+     "explanation": "对话中提到“明天我们去踢足球吧”，表明活动是踢足球，因此对应图片E。",
      "audio": {
       "key": "listening/v1/6a52e7d7c5ba8832515fce3447e49110ce92838895af5b79d6f1cfefeac6809c.mp3",
       "lines": [
@@ -135,7 +135,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "A",
-     "explanation": "对话中提到'吃了米饭'，对应的图片是吃饭的场景。",
+     "explanation": "对话中提到了‘米饭和鱼’，与图片A中的食物一致。",
      "audio": {
       "key": "listening/v1/3825d719128904d877ffe282b7d490282cb4ca9631dc43361a535a063db22867.mp3",
       "lines": [
@@ -159,7 +159,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "B",
-     "explanation": "对话中提到'喝水'，对应的图片是喝水的场景。",
+     "explanation": "对话中‘请给我一杯水’表明要水，‘好的，你喝水’表示递水，对应图片B中人物拿水杯的动作。",
      "audio": {
       "key": "listening/v1/8faae0bf7c69661149fd793bdf17bb0f63f16b3c2c88ef0dc2c64af17bed8a8f.mp3",
       "lines": [
@@ -183,7 +183,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "C",
-     "explanation": "对话中提到'睡觉'，对应的图片是睡觉的场景。",
+     "explanation": "对话中提到“这么早他就睡觉了”和“他很累”，对应图片中的人正在早睡的状态，与“C”标签（表示睡觉）一致。",
      "audio": {
       "key": "listening/v1/2a4ff33ef8ecd1ab1d56aaddae8f7e96f40cab4c78b8c736b532dc17acf8d85e.mp3",
       "lines": [
@@ -207,7 +207,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "D",
-     "explanation": "对话中提到'看'书，对应的图片是看书的场景。",
+     "explanation": "对话中提到了“这本书”和“我正在看”，说明图片应该展示一本书和一个人正在阅读的场景，与标签D对应。",
      "audio": {
       "key": "listening/v1/82f7a72468d48eb6124f933fff9809d92cfe0cf7e1d0f86f18283e6427fea4b2.mp3",
       "lines": [
@@ -231,7 +231,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "E",
-     "explanation": "对话中提到'踢足球'，对应的图片是踢足球的场景。",
+     "explanation": "对话中提到\"在操场上踢足球\"，与图片E中人物踢足球的场景一致。",
      "audio": {
       "key": "listening/v1/23ddbde7bf86eea6cdf3ce5c6babc0a11aee459ef670a1965b596db07d338690.mp3",
       "lines": [

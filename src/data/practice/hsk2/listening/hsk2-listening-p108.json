@@ -94,7 +94,7 @@
      "id": "q5",
      "type": "listening-picture-true-false",
      "prompt": "",
-     "correctAnswer": "错",
+     "correctAnswer": "对",
      "explanation": "图片中有一个苹果，与语句中提到的苹果一致。",
      "audio": {
       "key": "listening/v1/ed47589bcbc8f1a72562415e9dcc218def14d54e187c70f5848f9b32ac6bb01a.mp3",

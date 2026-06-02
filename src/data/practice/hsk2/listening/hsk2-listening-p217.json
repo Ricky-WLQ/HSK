@@ -15,7 +15,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "A",
-     "explanation": "对话中提到“看书”，对应图片A中的人在读书。",
+     "explanation": "对话中“你在看书吗？ 是的，这本书很有意思。”表明一人正在看书，与图片A中有人看书的场景相符。",
      "audio": {
       "key": "listening/v1/040814eaf7799b50b3d50d4c80a05cff288b36b97166bca228076041da457eda.mp3",
       "lines": [
@@ -39,7 +39,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "B",
-     "explanation": "对话中提到“一杯茶”，对应图片B中的茶杯。",
+     "explanation": "对话中明确说“我要一杯茶”，因此对应图片B（茶）。",
      "audio": {
       "key": "listening/v1/33f10b31441eefe732ca2808295d566c6cce36257be3a758c69b23f2e91a7d96.mp3",
       "lines": [
@@ -63,7 +63,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "C",
-     "explanation": "对话中提到“骑自行车”，对应图片C中的自行车。",
+     "explanation": "对话中“我骑自行车”表明说话者使用自行车作为交通工具，因此对应图片C（自行车的图片）。",
      "audio": {
       "key": "listening/v1/5bb4528fd16971545bfe8404fe9c61b2ee5dee97b7a43dd31ddb2295bb9c0654.mp3",
       "lines": [
@@ -87,7 +87,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "D",
-     "explanation": "对话中提到“手机”，对应图片D中的手机。",
+     "explanation": "对话中，甲问乙有没有手机，乙回答‘有，在这里’，表明乙有手机。因此，图片D应为手机相关图片。",
      "audio": {
       "key": "listening/v1/b21780221fea6b3cdd9af5a19fa94b911c06b7e1e7d81592691bba6e7d53547d.mp3",
       "lines": [
@@ -111,7 +111,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "E",
-     "explanation": "对话中提到“苹果”，对应图片E中的苹果。",
+     "explanation": "对话中的人说'给我一个苹果'，所以对应的图片应该是苹果。",
      "audio": {
       "key": "listening/v1/eb36f195ac5330ad1ae49ff7149c9bd2f3f94cc5287aa7603d38e3f2413db599.mp3",
       "lines": [
@@ -135,7 +135,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "A",
-     "explanation": "对话中提到“看书”，对应图片A中的人在读书。",
+     "explanation": "对话中‘我在看书’表明说话人正在进行阅读活动，因此对应的图片应该是一个人在看书的场景。",
      "audio": {
       "key": "listening/v1/dffaf0e07bbd6f2e8fbefd9ba6c9ebdd503bcfe963f7227ca0e7eddc711a0d35.mp3",
       "lines": [
@@ -159,7 +159,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "B",
-     "explanation": "对话中提到“喝茶”，对应图片B中的茶。",
+     "explanation": "对话中问“你喜欢喝茶吗？”，回答“很喜欢”，表明喜欢茶，因此对应图片B（茶的图片）。",
      "audio": {
       "key": "listening/v1/d6f3fa0a9dfa85b0de65e6f73adab6e5c4abaf0c36ab91da6e58b396694975aa.mp3",
       "lines": [
@@ -183,7 +183,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "C",
-     "explanation": "对话中提到“自行车”，对应图片C中的自行车。",
+     "explanation": "对话中询问自行车的颜色并回答是蓝色，图片C显示一辆蓝色自行车，因此匹配。",
      "audio": {
       "key": "listening/v1/2a670073bbf864283615c70182905e74f91d23f128ef83d14254f98358b29527.mp3",
       "lines": [
@@ -207,7 +207,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "D",
-     "explanation": "对话中提到“电话号码”，与图片D中的手机相关。",
+     "explanation": "对话中提到“你的电话号码是多少？138xxxxxxxx”，说明正在询问和提供电话号码，因此对应显示电话号码的标签D。",
      "audio": {
       "key": "listening/v1/e445fd62755890562d92a6a0cf8fdb2d827e7780209168b922daa33f94216799.mp3",
       "lines": [
@@ -231,7 +231,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "E",
-     "explanation": "对话中提到“苹果”，对应图片E中的苹果。",
+     "explanation": "对话中询问苹果价格并回答五块钱，所以图片中应该是苹果和五元的标识。",
      "audio": {
       "key": "listening/v1/30a57370f80a3f6506d75ce8a9841775cfb084a32c1a588ab77561df7938829d.mp3",
       "lines": [

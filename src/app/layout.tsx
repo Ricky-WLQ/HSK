@@ -47,6 +47,12 @@ export default function RootLayout({
             __html: `(function(){try{var t=localStorage.getItem('theme');if(t==='dark'||(t!=='light'&&matchMedia('(prefers-color-scheme:dark)').matches)){document.documentElement.classList.add('dark')}}catch(e){}})()`,
           }}
         />
+        {/* Apply the saved text size before paint (no flash / no layout shift) */}
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `(function(){try{var s=['100','115','130','150'];var i=parseInt(localStorage.getItem('hsk-fontscale')||'0',10);if(i>0&&i<s.length){document.documentElement.style.fontSize=s[i]+'%'}}catch(e){}})()`,
+          }}
+        />
       </head>
       <body
         className={`${nunito.variable} ${fredoka.variable} ${geistMono.variable} antialiased min-h-screen`}

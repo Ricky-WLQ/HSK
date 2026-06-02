@@ -15,7 +15,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "B",
-     "explanation": "对话中说'我在看电视'，图片B是一个女人在看电视，与对话内容相符。",
+     "explanation": "对话中“我在看电视”表明与看电视的场景对应，因此正确图片是B。",
      "audio": {
       "key": "listening/v1/47e92ecc15204c4536f98a26a84c2044a4ea3b4dd44969c84982f0c3eb3179a8.mp3",
       "lines": [
@@ -39,7 +39,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "A",
-     "explanation": "对话中谈到有人在喝水，图片A是一个男人在喝水，与对话内容相符。",
+     "explanation": "对话中问'他喝水吗？'并回答'是的，他在喝水。'，说明图片中人物正在喝水，因此对应标签A。",
      "audio": {
       "key": "listening/v1/40166d30c0fe54cb68519088bbf317ce8735251ab0844d748f413b0acf90adec.mp3",
       "lines": [
@@ -63,7 +63,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "C",
-     "explanation": "对话中孩子回答在写字，图片C是一个男孩在写字，与对话内容相符。",
+     "explanation": "对话中，小朋友说“我在写字”，说明他正在写字，因此正确图片标签C对应的应该是写字的情景。",
      "audio": {
       "key": "listening/v1/6135285340efe767d7d43dbf8c35b7dd85802ad4bab7b90f50cb09b03d06d194.mp3",
       "lines": [
@@ -87,7 +87,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "D",
-     "explanation": "对话中谈到有人在吃饭，图片D是一个女孩在吃饭，与对话内容相符。",
+     "explanation": "对话中问'她吃饭了吗？'，回答'她正在吃饭'，表明她正在进行吃饭的动作，与图片D中的人物正在吃饭的场景相符。",
      "audio": {
       "key": "listening/v1/ce1aa4235c9dc4903fb36a2fb71dff9dcad039f4aecc40d39ce05d1a651c0f2d.mp3",
       "lines": [
@@ -111,7 +111,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "E",
-     "explanation": "对话中谈到喜欢踢足球，图片E是一个男人在踢足球，与对话内容相符。",
+     "explanation": "对话中‘他喜欢踢足球’表明儿子喜欢踢足球，因此图片E（足球）符合描述。",
      "audio": {
       "key": "listening/v1/11424370dd906f99aeb10354f4f5f97fa1f0729ee1f958f08ccffeb26516cad4.mp3",
       "lines": [
@@ -135,7 +135,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "B",
-     "explanation": "对话中说'我看电视'，图片B是一个女人在看电视，与对话内容相符。",
+     "explanation": "对话中'我看电视'表明晚上活动是看电视，因此对应图片B。",
      "audio": {
       "key": "listening/v1/8bdae973a8a87683d6b42a14916b9a8259adf02b9baeb4dbc21035aea9f57305.mp3",
       "lines": [
@@ -159,7 +159,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "A",
-     "explanation": "对话中谈到有人要喝水，图片A是一个男人在喝水，与对话内容相符。",
+     "explanation": "对话中问‘她渴了吗？’并回答‘她要喝水’，因此图片应展示喝水场景。",
      "audio": {
       "key": "listening/v1/8f960189bd40f4047cb4187781ae8dea9682f397c49a02492c5b7b87dc5a8fa1.mp3",
       "lines": [
@@ -183,7 +183,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "C",
-     "explanation": "对话中谈到写字，图片C是一个男孩在写字，与对话内容相符。",
+     "explanation": "对话中问'你会写字吗？'回答'会，我天天写字'，说明与写字相关，因此对应图片C中写字的情景。",
      "audio": {
       "key": "listening/v1/936e7f86054dd35972cd9e1131249a2c4f5d813badf147f623bfea17069f9297.mp3",
       "lines": [
@@ -207,7 +207,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "D",
-     "explanation": "对话中谈到有人在吃饭，图片D是一个女孩在吃饭，与对话内容相符。",
+     "explanation": "对话中问“你妹妹在做什么？”，回答“她在吃饭”，表明妹妹正在吃饭，这与图片D中展示的人物吃饭场景相符。",
      "audio": {
       "key": "listening/v1/9784106135fe53ecbd34e42018ad0ce3d39cb5e9a2ec589af8781e2acf986e3c.mp3",
       "lines": [
@@ -231,7 +231,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "E",
-     "explanation": "对话中谈到有人在踢足球，图片E是一个男人在踢足球，与对话内容相符。",
+     "explanation": "对话中提到“他在踢足球”，所以图片中应有一个男人在踢足球，正确图片标签为E。",
      "audio": {
       "key": "listening/v1/551941b72a65cf5dbb76320cb52cfedb836216042224e98ac985525231d41111.mp3",
       "lines": [

@@ -94,7 +94,7 @@
      "id": "q5",
      "type": "listening-picture-true-false",
      "prompt": "",
-     "correctAnswer": "错",
+     "correctAnswer": "对",
      "explanation": "旁白说“我喜欢苹果”，图片中有苹果，所以一致。",
      "audio": {
       "key": "listening/v1/1d1ca9226dd6166c94ac64692c37d35cb5f47be3cb5cdcb7e71724bfb5caef5d.mp3",

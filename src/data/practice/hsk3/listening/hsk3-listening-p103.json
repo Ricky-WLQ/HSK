@@ -15,7 +15,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "A",
-     "explanation": "对话中提到了“跑步”，与图画中的人物跑步动作相符。",
+     "explanation": "对话中提到“那个人跑得真快”和“他每天都跑步锻炼身体”，因此对应图片A（跑步）。",
      "audio": {
       "key": "listening/v1/7e38f71941a51383b66d10bb2927c1bb533996755de8e1b99342dd6e368b0ad8.mp3",
       "lines": [
@@ -39,7 +39,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "B",
-     "explanation": "对话中提到了“一杯茶”，与图画中的茶一致。",
+     "explanation": "对话中要求'热的茶'，因此对应热茶的图片。",
      "audio": {
       "key": "listening/v1/df50e2e6ddb8fc4844908e47c66e04a580600b99426d78171b6f4acb21487839.mp3",
       "lines": [
@@ -63,7 +63,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "C",
-     "explanation": "对话中提到了“钟”，与图画中的钟表对应。",
+     "explanation": "对话中说话者说“你看看那个钟，已经十点了”，表明图片中显示的钟表指针指向十点，因此对应图片C。",
      "audio": {
       "key": "listening/v1/575eb424e76a574f719b54f4fd9443f610f6eb0c1e00aa1282f72bf69d1d0edc.mp3",
       "lines": [
@@ -87,7 +87,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "D",
-     "explanation": "对话中提到了“看书”，与图画中的书相符。",
+     "explanation": "对话中人物说'我在家看了一本很有意思的书'，表明ta在看书，图片D展示的就是一个人在家看书的场景，因此匹配。",
      "audio": {
       "key": "listening/v1/c3a9286406acd3a56fbe277027874fee8562e45fd3ac63a2b84d90e16cecc3b2.mp3",
       "lines": [
@@ -111,7 +111,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "E",
-     "explanation": "对话中提到了“狗”，与图画中的狗对应。",
+     "explanation": "对话中提到“那只狗真可爱”，说明图片中有狗，因此对应图片标签E。",
      "audio": {
       "key": "listening/v1/73d814504a62eb57e5f1e4e9a67b4bfbf3cb58cb87ce518b68f0d298440788b8.mp3",
       "lines": [
@@ -135,7 +135,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "A",
-     "explanation": "对话中提到了“跑步”，与图画中的人物跑步动作相符。",
+     "explanation": "对话中提到“去散步”和“去公园跑步”，表明他们计划进行户外运动，与图片A展示的运动场景相符。",
      "audio": {
       "key": "listening/v1/726731d78c92a70acdd5de54cf3f394339811a00c760fb1e3ea2ce4e9d5eb344.mp3",
       "lines": [
@@ -159,7 +159,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "B",
-     "explanation": "对话中提到了“茶”，与图画中的茶一致。",
+     "explanation": "对话中提到了'我给你倒杯茶'和'我正好想喝杯茶'，表明他们在准备喝茶，因此对应图片B（一杯茶）。",
      "audio": {
       "key": "listening/v1/0ab520d2758ea39806bf91d37f8ca615598c25c16a0d4bd8a220830bdecefc96.mp3",
       "lines": [
@@ -183,7 +183,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "C",
-     "explanation": "对话中提到了“钟”，与图画中的钟表对应。",
+     "explanation": "对话中提到“墙上的钟是准的”，因此对应图片中墙上的钟。",
      "audio": {
       "key": "listening/v1/b41d76928058a5a57874e07bc5c1ae87a7d0c76fa4043d7fb495c487a1cb8de9.mp3",
       "lines": [
@@ -207,7 +207,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "D",
-     "explanation": "对话中提到了“书”，与图画中的书相符。",
+     "explanation": "对话中提到‘你昨天去图书馆了吗？’和‘我借了三本书回来’，这对应了图书馆的场景，因此图片D（图书馆）是正确的。",
      "audio": {
       "key": "listening/v1/b05ceafc5c6be0e4f2a5e06fdc93484c0a5cd4c5eb40e32759c58d63a332ef2c.mp3",
       "lines": [
@@ -231,7 +231,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "E",
-     "explanation": "对话中提到了“狗”，与图画中的狗对应。",
+     "explanation": "对话中说‘有一只狗’，所以图片E是狗。",
      "audio": {
       "key": "listening/v1/bf7e188f82b19829d6928be97f4c401971b45ba70f0d7382d82d47e9919fdd69.mp3",
       "lines": [

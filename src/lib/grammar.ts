@@ -41,16 +41,25 @@ const _levels = new Map<string, GrammarPoint[]>();
 
 export async function getGrammarIndex(): Promise<GrammarIndex> {
   if (_index) return _index;
-  const raw = await fs.readFile(path.join(GRAMMAR_DIR, "index.json"), "utf-8");
-  _index = JSON.parse(raw) as GrammarIndex;
+  try {
+    const raw = await fs.readFile(path.join(GRAMMAR_DIR, "index.json"), "utf-8");
+    _index = JSON.parse(raw) as GrammarIndex;
+  } catch {
+    _index = { standard: "", source: "", levels: [] };
+  }
   return _index;
 }
 
 export async function getGrammarLevel(level: string): Promise<GrammarPoint[]> {
   const cached = _levels.get(level);
   if (cached) return cached;
-  const raw = await fs.readFile(path.join(GRAMMAR_DIR, `hsk${level}.json`), "utf-8");
-  const points = JSON.parse(raw) as GrammarPoint[];
+  let points: GrammarPoint[] = [];
+  try {
+    const raw = await fs.readFile(path.join(GRAMMAR_DIR, `hsk${level}.json`), "utf-8");
+    points = JSON.parse(raw) as GrammarPoint[];
+  } catch {
+    points = []; // missing/corrupt file → graceful empty, never a 500
+  }
   _levels.set(level, points);
   return points;
 }

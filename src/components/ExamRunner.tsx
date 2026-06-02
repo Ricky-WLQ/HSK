@@ -20,7 +20,9 @@ function autoCorrect(q: HskQuestion, ans: string | undefined): boolean {
     const a = normalize(ans);
     if (!a) return false;
     const refs = [q.correctAnswer, ...(q.acceptableAnswers ?? [])].map(normalize);
-    return refs.some((r) => r.length > 0 && (a === r || a.includes(r)));
+    // Exact match after normalization (incl. acceptableAnswers); `includes` was too
+    // lenient — a superset/negated answer would wrongly pass.
+    return refs.some((r) => r.length > 0 && a === r);
   }
   return ans === q.correctAnswer;
 }

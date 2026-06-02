@@ -54,7 +54,7 @@
      "id": "q3",
      "type": "listening-picture-true-false",
      "prompt": "",
-     "correctAnswer": "错",
+     "correctAnswer": "对",
      "explanation": "句子说猫在椅子下面，图片显示猫在椅子下面，内容一致。",
      "audio": {
       "key": "listening/v1/78a8f148fdd11110bb2359a59462ba2209583d649fa4acb25c3bef125910eeff.mp3",

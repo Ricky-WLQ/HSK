@@ -34,7 +34,7 @@
      "id": "q2",
      "type": "listening-picture-true-false",
      "prompt": "",
-     "correctAnswer": "对",
+     "correctAnswer": "错",
      "explanation": "陈述说猫在椅子上睡觉，但图片中猫在沙发上睡觉，所以图片与陈述不一致。",
      "audio": {
       "key": "listening/v1/56ae3d02d9e133d4251045d74809523e64a42fd936e24bbbc4704f101b771136.mp3",

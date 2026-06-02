@@ -15,7 +15,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "A",
-     "explanation": "对话中提到“喝水”和“一杯水”，所以与图片A（水）相关。",
+     "explanation": "对话中问：“你渴吗？想喝水吗？”回答：“请给我一杯水。”，因此对应的图片应该是一杯水。",
      "audio": {
       "key": "listening/v1/994647e6d30dbdce07538214b00bb98951cab250c96fcda1615bca4f8d39956e.mp3",
       "lines": [
@@ -39,7 +39,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "B",
-     "explanation": "对话中女的说“看书”，所以与图片B（书）相关。",
+     "explanation": "对话中“我在看书”表明说话者在阅读，因此对应看书场景的图片。",
      "audio": {
       "key": "listening/v1/dffaf0e07bbd6f2e8fbefd9ba6c9ebdd503bcfe963f7227ca0e7eddc711a0d35.mp3",
       "lines": [
@@ -63,7 +63,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "C",
-     "explanation": "对话中提到“猫”，所以与图片C（猫）相关。",
+     "explanation": "对话中说“我有一只猫”，所以对应猫的图片。",
      "audio": {
       "key": "listening/v1/e97a6c21a87016444ad9d375ff6c360a90864ddaaacad9c1be4ad5d38b2a511b.mp3",
       "lines": [
@@ -87,7 +87,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "D",
-     "explanation": "对话中提到“苹果”，所以与图片D（苹果）相关。",
+     "explanation": "对话中提及'我想吃苹果'，而图片D显示的是苹果，因此对应。",
      "audio": {
       "key": "listening/v1/2c5c7c38dabb14cef07521d7f8c3c06769bc6ae6447b491d0be04c7ca46a5250.mp3",
       "lines": [
@@ -111,7 +111,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "E",
-     "explanation": "对话中女的说“开车”，所以与图片E（车）相关。",
+     "explanation": "对话中问“你怎么去学校？”答“我开车去。”，所以对应开车上学的图片E。",
      "audio": {
       "key": "listening/v1/f8f95f9f57a7fd8b45ccf5eaaea747af397d735693633c99747bfda53c972909.mp3",
       "lines": [
@@ -135,7 +135,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "A",
-     "explanation": "对话中提到“喝水”，所以与图片A（水）相关。",
+     "explanation": "对话中提到‘天气很热，要不要喝点水’，并回应‘好的，谢谢’，表明有人要喝水，因此图片A中显示一杯水是正确的。",
      "audio": {
       "key": "listening/v1/cfadece2862987d9a203abe33865481445cb776de8f8c88cd6d078ca784c7cf8.mp3",
       "lines": [
@@ -159,7 +159,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "B",
-     "explanation": "对话中提到“书”和“看”，所以与图片B（书）相关。",
+     "explanation": "对话中‘那本书好看吗？’和‘很好看，我每天都在看’表明谈论的是书，图片B展示了一本书，符合对话主题。",
      "audio": {
       "key": "listening/v1/cf0d44bfa75a4802ab4fa36b54e57c5a3c2fecaa87200ad34b5bf7322f09f5f0.mp3",
       "lines": [
@@ -183,7 +183,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "C",
-     "explanation": "对话中提到“猫”，所以与图片C（猫）相关。",
+     "explanation": "对话中问‘猫喜欢吃什么？’，回答‘它喜欢吃鱼’，因此对应图片C（可能展示鱼或猫吃鱼的情景）。",
      "audio": {
       "key": "listening/v1/fc0beb2d36d0c67a24a2faa5bf09e1297e37ed44f1064fa998e192cbfef9bd80.mp3",
       "lines": [
@@ -207,7 +207,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "D",
-     "explanation": "对话中提到“苹果”，所以与图片D（苹果）相关。",
+     "explanation": "对话中询问苹果价格并得到'三块钱一斤'的回答，表明该场景与苹果售卖相关，因此正确图片标签D对应此内容。",
      "audio": {
       "key": "listening/v1/b29733322fa50bb754219fb495eefcc29025ffdd7bb3dcc5635744d6d58718d0.mp3",
       "lines": [
@@ -231,7 +231,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "E",
-     "explanation": "对话中提到“车”，所以与图片E（车）相关。",
+     "explanation": "对话中问‘你的车是什么颜色的？’，回答‘是红色的’，所以对应图片E，即红色汽车。",
      "audio": {
       "key": "listening/v1/13e43432314e1dc15e12fd3896728cb8add4a816c88a77bbef196f1116cccdb0.mp3",
       "lines": [

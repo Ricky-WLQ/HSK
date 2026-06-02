@@ -15,7 +15,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "A",
-     "explanation": "对话中女方说“看一本中文书”，对应图片A中的男人在看书。",
+     "explanation": "对话中提到“我在看一本中文书”，因此对应的图片应该是展示一本中文书的场景，即图片A。",
      "audio": {
       "key": "listening/v1/b98c1509d88318b364d3a453fbd7080c46e42c16cd7b8b2635e3dfe8beb0321f.mp3",
       "lines": [
@@ -39,7 +39,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "B",
-     "explanation": "对话提到“打电话”和“说话”，对应图片B中的女人在打电话。",
+     "explanation": "对话中问“妈妈在打电话吗？”回答“是的，她和朋友说话”，因此对应打电话聊天的图片B。",
      "audio": {
       "key": "listening/v1/d8965d3eb6442ea9efbd5ed2bedf3286d0252f1df6b28a288eaf91cb2fa20403.mp3",
       "lines": [
@@ -63,7 +63,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "C",
-     "explanation": "对话说猫在“睡觉”，对应图片C中的猫在睡觉。",
+     "explanation": "对话中说'它正在睡觉'，所以图片C应该是一只正在睡觉的猫。",
      "audio": {
       "key": "listening/v1/b3ce11fdb88e6009631d66860632269fec541d8d91dfa34cec7d336640577306.mp3",
       "lines": [
@@ -87,7 +87,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "D",
-     "explanation": "对话中提到“骑自行车”，对应图片D中的男孩在骑自行车。",
+     "explanation": "对话中问‘那个男孩在骑什么？’回答‘他骑的是新自行车’，说明男孩骑的是自行车，与图片D相符。",
      "audio": {
       "key": "listening/v1/1a11db044b89bda272539ddefcc599586695e4d703c0d133dd4fb752f63a5796.mp3",
       "lines": [
@@ -111,7 +111,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "E",
-     "explanation": "对话说“喝水”，对应图片E中的女孩在喝水。",
+     "explanation": "对话中提到“她渴了吗？”和“她一直在喝水”，说明她正在喝水，与图片E中的喝水场景相符。",
      "audio": {
       "key": "listening/v1/9a708f999dfa4daa2fef804bd3acc4295f1b74f7fd6bbe20f3eca1f8b28a31b5.mp3",
       "lines": [
@@ -135,7 +135,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "A",
-     "explanation": "对话提到“看书”“读书”，再次对应图片A中的男人在看书。",
+     "explanation": "对话中问“你每天都看书吗？”回答“是的，我喜欢读书”，表明说话人喜欢读书，因此对应图片A（某人读书的场景）。",
      "audio": {
       "key": "listening/v1/4bfefa86acd3e72cf75b37062e70e5056955eee386a654b0e307c71968d79e3c.mp3",
       "lines": [
@@ -159,7 +159,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "B",
-     "explanation": "对话提到“打电话”，对应图片B中的女人在打电话。",
+     "explanation": "对话中问答“谁在打电话？是姐姐”，说明打电话的人是姐姐，因此图片应显示姐姐在打电话。",
      "audio": {
       "key": "listening/v1/55e64298383f5ad047e06dac3ecd3af1f75c3cef1897683c31d4479ad819fc73.mp3",
       "lines": [
@@ -183,7 +183,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "C",
-     "explanation": "对话说猫在“睡觉”，对应图片C中的猫在睡觉。",
+     "explanation": "对话中提到“它在沙发上睡觉”，说明猫在沙发上，这与图片C中猫在沙发上睡觉的场景一致。",
      "audio": {
       "key": "listening/v1/7d0e2ccfae2639f046896e52855c896ab9cc21ac1d25041630483e9e19b6c994.mp3",
       "lines": [
@@ -207,7 +207,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "D",
-     "explanation": "对话提到“骑自行车”，对应图片D中的男孩在骑自行车。",
+     "explanation": "对话中问“你会骑自行车吗？”并回答“我每天都骑”，明确提到骑自行车，因此对应图片D（自行车）。",
      "audio": {
       "key": "listening/v1/d7447f414616ed43119b858940b8c362bd857c830f94589b2bd80be1494b0d00.mp3",
       "lines": [
@@ -231,7 +231,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "E",
-     "explanation": "对话说“喝水”，对应图片E中的女孩在喝水。",
+     "explanation": "对话中提问\"她喝的是水吗？\"并回答\"对，是水\"，确认了喝的是水，因此对应图片E（水的图片）。",
      "audio": {
       "key": "listening/v1/efee169a6fd74c07737d80f8de23243a53bbcd72f7941cc53c18ba48b02d8434.mp3",
       "lines": [

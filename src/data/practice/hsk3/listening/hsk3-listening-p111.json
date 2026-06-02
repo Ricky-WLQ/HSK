@@ -15,7 +15,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "A",
-     "explanation": "对话中提到'手机'，与图片A手机相符。",
+     "explanation": "对话中提到‘手机在桌子上’，因此对应图片A。",
      "audio": {
       "key": "listening/v1/21d8814ca64914dd5024d9e1c6e58dabb0f430706b02fae6074f92eba2edbbb4.mp3",
       "lines": [
@@ -39,7 +39,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "A",
-     "explanation": "对话中提到'打电话'，与图片A手机有关。",
+     "explanation": "对话中说“我打电话给妈妈”和“我先去洗澡”，图片A中的人物正在打电话，符合对话描述。",
      "audio": {
       "key": "listening/v1/ab321e64b6a2e6665e18bc8289f3cf2ea41d98adee9ca559bb876769fecafd66.mp3",
       "lines": [
@@ -63,7 +63,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "B",
-     "explanation": "对话中提到'骑自行车'，与图片B自行车相符。",
+     "explanation": "对话中提议‘我们骑自行车去公园吧’，并同意‘好主意，天气很好’，表明他们计划骑自行车去公园，因此图片应显示与骑自行车相关的场景，对应标签B。",
      "audio": {
       "key": "listening/v1/3a49dc34f0c5c2e65c437a146cfcba432dcb7ea93f99c8cabfd238fb555dc279.mp3",
       "lines": [
@@ -87,7 +87,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "B",
-     "explanation": "对话中提到'自行车'，与图片B自行车相符。",
+     "explanation": "对话中“你的自行车很新”和“我昨天买的”表明这是一辆新自行车，所以对应图片B。",
      "audio": {
       "key": "listening/v1/5ceb80ce8b234eaa97ad937266d1b107d2b17926ba5b25291e0464b16db0017a.mp3",
       "lines": [
@@ -111,7 +111,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "C",
-     "explanation": "对话中提到'苹果'，与图片C苹果相符。",
+     "explanation": "对话中提到了'吃一个苹果'，所以对应的图片应该是苹果。",
      "audio": {
       "key": "listening/v1/6a3b21021deff60e58e88db2888198014fb2a41d30aaff0c342060614ccbdc2c.mp3",
       "lines": [
@@ -135,7 +135,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "C",
-     "explanation": "对话中提到'苹果'，与图片C苹果相符。",
+     "explanation": "对话中提到“这个苹果很甜”，说明图片显示的是苹果，因此对应标签C。",
      "audio": {
       "key": "listening/v1/a710ca090a2c64d6805f20da0650432fa3d81b393b38a3e049b797097b29635a.mp3",
       "lines": [
@@ -159,7 +159,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "D",
-     "explanation": "对话中提到'书'，与图片D书本相符。",
+     "explanation": "对话中提到“这本书很好看”，表明对话与书籍相关，因此对应图片D。",
      "audio": {
       "key": "listening/v1/fed7d833534ffdb32cdc1142aa11a490fe76f0a73421e7951d609233b6faa681.mp3",
       "lines": [
@@ -183,7 +183,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "D",
-     "explanation": "对话中提到'看书'，与图片D书本相符。",
+     "explanation": "对话中‘我在看书，别打扰我’表明说话者正在看书，因此对应显示一个人正在看书的图片D。",
      "audio": {
       "key": "listening/v1/61f108501859cbfe633a87439deb372d96de716868e079a099bb1e6bf6bcd6f9.mp3",
       "lines": [
@@ -207,7 +207,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "E",
-     "explanation": "对话中提到'钟'和'八点'，与图片E时钟相符。",
+     "explanation": "对话中问到时间，并指出墙上的钟显示八点，因此对应显示八点钟的图片E。",
      "audio": {
       "key": "listening/v1/91022874a446126305d487caa6e922c626abdc40a8fc2a4423f36d63783acd06.mp3",
       "lines": [
@@ -231,7 +231,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "E",
-     "explanation": "对话中提到'钟'，与图片E时钟相符。",
+     "explanation": "对话中提到“这个钟坏了”和“买一个新的”，表明谈论的是钟，因此对应图片中的钟。",
      "audio": {
       "key": "listening/v1/a206360b95cb6933c0b6b1e8a9c81ddb50135d58094f7c56977f996110ac4f46.mp3",
       "lines": [

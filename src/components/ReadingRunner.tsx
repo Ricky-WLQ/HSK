@@ -18,10 +18,10 @@ function isCorrect(q: HskQuestion, answer: string | undefined): boolean {
     const a = normalize(answer);
     if (!a) return false;
     const refs = [q.correctAnswer, ...(q.acceptableAnswers ?? [])].map(normalize);
-    // Correct iff the user's answer equals or contains a reference (a longer valid
-    // paraphrase). NOT the reverse — a single char that merely appears in the
-    // reference must not count.
-    return refs.some((r) => r.length > 0 && (a === r || a.includes(r)));
+    // Exact match (after normalization) against the reference + accepted variants.
+    // `includes` was too lenient — a negated/superset answer like "不建议消炎药物"
+    // contains "消炎药物" and would wrongly pass. acceptableAnswers covers real variants.
+    return refs.some((r) => r.length > 0 && a === r);
   }
   return answer === q.correctAnswer;
 }

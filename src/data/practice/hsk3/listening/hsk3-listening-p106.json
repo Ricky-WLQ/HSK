@@ -15,7 +15,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "A",
-     "explanation": "对话提到骑自行车，所以图片A（一个人骑自行车）是正确的。",
+     "explanation": "对话中提到‘我骑自行车来的’，所以对应图片A（自行车）。",
      "audio": {
       "key": "listening/v1/d3575c49edd7b1e75b080c104a1d0b155d40d11a037fe7e25e5ac4eff29198d0.mp3",
       "lines": [
@@ -39,7 +39,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "B",
-     "explanation": "对话中提到吃苹果，所以图片B（一个人吃苹果）是正确的。",
+     "explanation": "对话中说到‘给我一个苹果吧’，所以图片应包含苹果，符合标签B。",
      "audio": {
       "key": "listening/v1/939deaea3dd05e8065c29ef688816e022fa39a679830c8e574bab6e88cdb9d76.mp3",
       "lines": [
@@ -63,7 +63,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "C",
-     "explanation": "对话中问时间，回答十二点，所以图片C（显示十二点的钟）是正确的。",
+     "explanation": "对话中问‘现在几点了？’，回答‘正好十二点’，表明当前时间是12点整。图片C显示的是时钟指向12点，因此匹配。",
      "audio": {
       "key": "listening/v1/92a8592facf0e4983242fcb634cb67d4c5976d67737f43a5e4eeb6e37610d5a1.mp3",
       "lines": [
@@ -87,7 +87,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "D",
-     "explanation": "对话中提到喝咖啡，所以图片D（一杯咖啡）是正确的。",
+     "explanation": "对话中明确提到“我要一杯咖啡”，与图片D中的咖啡直接对应。",
      "audio": {
       "key": "listening/v1/b5b8d7b8bc567ea50127c0d1d1eed8aa724392599de96129273d432bceac8a58.mp3",
       "lines": [
@@ -111,7 +111,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "E",
-     "explanation": "对话中提到狗在沙发上睡觉，所以图片E（沙发上睡觉的狗）是正确的。",
+     "explanation": "对话中说到'它在沙发上睡觉呢'，所以图片显示狗在沙发上睡觉。",
      "audio": {
       "key": "listening/v1/4e581ed29351be7477d03ce116332556a5becb48531b48bd3fd28bb2a9655d67.mp3",
       "lines": [
@@ -135,7 +135,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "A",
-     "explanation": "对话再次提到骑自行车，所以图片A（一个人骑自行车）是正确的。",
+     "explanation": "对话中问'你每天怎么去上班？'，回答'我骑自行车，既环保又健康'，与图片A中骑车上班的场景一致。",
      "audio": {
       "key": "listening/v1/c21ed3bedf0877501151860119cb7f2207fdab1bf4edbfd9c18c3d1c5de54945.mp3",
       "lines": [
@@ -159,7 +159,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "B",
-     "explanation": "对话中提到吃了一个苹果，所以图片B（一个人吃苹果）是正确的。",
+     "explanation": "对话中说“就吃了一个苹果”，说明午饭只吃了一个苹果，对应图片B中一个人只吃一个苹果的场景。",
      "audio": {
       "key": "listening/v1/8119b2323b146aebcd1ebf04a550f2b10185fae06617f8296518ca2a64f375b1.mp3",
       "lines": [
@@ -183,7 +183,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "C",
-     "explanation": "对话中提到十二点起床，所以图片C（显示十二点的钟）是正确的。",
+     "explanation": "对话中‘我每天十二点才起’表明此人起床时间为中午十二点，图片C显示时钟指向十二点或相关晚起场景，因此匹配。",
      "audio": {
       "key": "listening/v1/1b7ee7e62ebdceed0b5ad97ac756feed4fa6fbb934ea908602f336cdbd0bf457.mp3",
       "lines": [
@@ -207,7 +207,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "D",
-     "explanation": "对话中提到喝咖啡，所以图片D（一杯咖啡）是正确的。",
+     "explanation": "对话中‘我习惯喝一杯咖啡’表明说话者早上喝咖啡，因此对应图片D（咖啡）。",
      "audio": {
       "key": "listening/v1/32631b8e2f37cd631cf3ab617bb93d544a202622e68109746da3fed4ed03d83b.mp3",
       "lines": [
@@ -231,7 +231,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "E",
-     "explanation": "对话中提到狗在沙发上睡觉，所以图片E（沙发上睡觉的狗）是正确的。",
+     "explanation": "对话中说'有一只狗，它总在沙发上睡觉'，因此图片应显示狗在沙发上。",
      "audio": {
       "key": "listening/v1/00ec712fb69b358ac6f65511d363aaffe2bee177d7e4d1c440fcbefcee1d99f5.mp3",
       "lines": [

@@ -74,7 +74,7 @@
      "id": "q4",
      "type": "listening-picture-true-false",
      "prompt": "",
-     "correctAnswer": "对",
+     "correctAnswer": "错",
      "explanation": "句子说这是一本大书，但图片中的书很小，大小不符。",
      "audio": {
       "key": "listening/v1/8d3d1c227946d62fc57367a00ea5624f80124dc4b6f306913c256aa3004e01f1.mp3",

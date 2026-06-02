@@ -94,7 +94,7 @@
      "id": "q5",
      "type": "listening-picture-true-false",
      "prompt": "",
-     "correctAnswer": "错",
+     "correctAnswer": "对",
      "explanation": "句子说他喝咖啡，图片中的男子正在喝东西，且杯子里的液体颜色像咖啡，内容一致。",
      "audio": {
       "key": "listening/v1/40bcc53c9c297ebf8cf551783e26d806eebe66fd482ddf0ca8050c35bf140d0b.mp3",

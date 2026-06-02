@@ -15,7 +15,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "A",
-     "explanation": "对话提到打篮球，所以与图片A相符。",
+     "explanation": "对话中提到'我去打篮球了'，所以对应的图片应该是打篮球的场景。",
      "audio": {
       "key": "listening/v1/ad81ab43653bfbfae1f7550be048a1a67f0b2d720c0b73cf3eb8b9374069f679.mp3",
       "lines": [
@@ -39,7 +39,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "B",
-     "explanation": "对话中提到喝咖啡，所以与图片B相符。",
+     "explanation": "对话中‘给我一杯咖啡吧’表明要咖啡，所以对应图片B。",
      "audio": {
       "key": "listening/v1/ce3edfeecd37add9620eb512fea293ec13fb4f5b895eae3f7368d008c82006e7.mp3",
       "lines": [
@@ -63,7 +63,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "C",
-     "explanation": "对话中提到洗碗，所以与图片C相符。",
+     "explanation": "对话中一人说“我来洗碗吧”，另一人表示感谢，对应图片C中有人在洗碗的场景。",
      "audio": {
       "key": "listening/v1/70af87b0b7837ea8a291e11ca365ee34099ce5a98bbfd27d41132b899701c9c7.mp3",
       "lines": [
@@ -87,7 +87,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "D",
-     "explanation": "对话中提到骑自行车，所以与图片D相符。",
+     "explanation": "对话中问“你是骑自行车来的吗？”回答“对，骑车很方便”，明确提到了自行车，因此对应图片D（自行车）。",
      "audio": {
       "key": "listening/v1/febbf2ccf08e912c20816382f4d1ee4d919c04b5a4b6843bdc4fe383c1d577a9.mp3",
       "lines": [
@@ -111,7 +111,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "E",
-     "explanation": "对话中提到苹果，所以与图片E相符。",
+     "explanation": "对话中说'是一个苹果'，所以图片标签E（苹果）正确。",
      "audio": {
       "key": "listening/v1/29cec2131aebe55cfe4d14a7ba85795a42c7ef95144e2c997e001fae9b252093.mp3",
       "lines": [
@@ -135,7 +135,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "A",
-     "explanation": "对话中讨论打篮球，所以与图片A相符。",
+     "explanation": "对话中提到‘打篮球’，所以图片中应该是篮球或篮球场的场景，对应标签A。",
      "audio": {
       "key": "listening/v1/e945c8339ec47dde80d1219a38f70bba23058b67d522c280c3a1f66fb778bcc7.mp3",
       "lines": [
@@ -159,7 +159,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "B",
-     "explanation": "对话中提到咖啡，所以与图片B相符。",
+     "explanation": "对话中一人说'这咖啡真好喝，你也来一杯？'，另一人回答'不了，我晚上喝咖啡睡不着'，表明拒绝喝咖啡，因此对应图片B。",
      "audio": {
       "key": "listening/v1/b5d97891a79a928d9c87ee50bd1122adc3c68213bde7e9ac951263a157eccbc7.mp3",
       "lines": [
@@ -183,7 +183,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "C",
-     "explanation": "对话中提到洗碗，所以与图片C相符。",
+     "explanation": "对话中孩子说“我来帮你洗碗”，妈妈回答“你真懂事，谢谢”，表明孩子在洗碗，这与图片C中孩子洗碗的场景一致。",
      "audio": {
       "key": "listening/v1/5104c81de184d2653809d8089c048a6af785eb6ddd3378c950dc04e9abbf4094.mp3",
       "lines": [
@@ -207,7 +207,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "D",
-     "explanation": "对话中提到自行车，所以与图片D相符。",
+     "explanation": "对话中提到自行车，并说每天骑它上班，与图片D中的自行车相符。",
      "audio": {
       "key": "listening/v1/358e25a627eb366075672823d29c17831a8d3e58aedc5fd5b8cecc2305763189.mp3",
       "lines": [
@@ -231,7 +231,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "E",
-     "explanation": "对话中提到吃苹果，所以与图片E相符。",
+     "explanation": "对话中“你每天吃一个苹果吗？是的，对身体好”表明与苹果有关，因此对应图片标签E（苹果）。",
      "audio": {
       "key": "listening/v1/f8ca9575ae5ec7d40eb38d13f64d681996f39e1e2d47879598eadb77dbfaf765.mp3",
       "lines": [

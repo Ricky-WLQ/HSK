@@ -15,7 +15,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "A",
-     "explanation": "对话中提到了猫，所以对应有猫的图片。",
+     "explanation": "对话中提到“那只猫很可爱”和“它正在睡觉”，因此图片应为一只正在睡觉的猫，对应标签A。",
      "audio": {
       "key": "listening/v1/fc27ff27a7706f037b0e3c683cdea41e92ecc979089711f3fa276854d77bc79c.mp3",
       "lines": [
@@ -39,7 +39,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "B",
-     "explanation": "对话中提到了书，所以对应有书的图片。",
+     "explanation": "对话中“我在看一本中文书”表明人物正在阅读中文书籍，图片B展示的是一本中文书，因此匹配。",
      "audio": {
       "key": "listening/v1/2d6b86996b30968732c320d51db6bcf1d653a462a8066126a4d1049c8526988e.mp3",
       "lines": [
@@ -63,7 +63,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "C",
-     "explanation": "对话中提到了喝水，所以对应喝水的图片。",
+     "explanation": "对话中‘我渴了，想喝水’和‘那边有水，去喝吧’表明有人在找水喝，与图片C中显示的水杯或水壶相符。",
      "audio": {
       "key": "listening/v1/3bb5c645b139ab3ef8951f58b76aee0871f652970116710d9eb6fcabfd69f3a3.mp3",
       "lines": [
@@ -87,7 +87,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "D",
-     "explanation": "对话中提到了吃苹果，所以对应吃苹果的图片。",
+     "explanation": "对话中“你吃苹果吗？”和“吃，给我一个。”表明对方想要苹果，因此对应图片D（苹果）。",
      "audio": {
       "key": "listening/v1/f34d9628b8dfb28b20b1e39feb89088cfbe803d5cce586fa47961b75aec0a06c.mp3",
       "lines": [
@@ -111,7 +111,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "E",
-     "explanation": "对话中提到了看电视，所以对应看电视的图片。",
+     "explanation": "对话中说“我在家看电视”，所以对应的图片E展示的是在家看电视的场景。",
      "audio": {
       "key": "listening/v1/cc9bd07f854b24cf7cab1f85d545a5196491b438f7b82734a9958e50b9171a8b.mp3",
       "lines": [
@@ -135,7 +135,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "A",
-     "explanation": "对话中提到了猫，所以对应有猫的图片。",
+     "explanation": "对话中提到“猫很干净”，因此对应图片A，即猫的图片。",
      "audio": {
       "key": "listening/v1/3e4ada40c79d818334e21140fb47a135e362c9c825fb39e4e2794777a9cfdf38.mp3",
       "lines": [
@@ -159,7 +159,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "B",
-     "explanation": "对话中提到了书，所以对应有书的图片。",
+     "explanation": "对话中问'这本书是你的吗？'，回答'不是，是老师的'，表明这本书属于老师，因此图片B应展示老师或书与老师相关的场景。",
      "audio": {
       "key": "listening/v1/d9b7547eda26f01a96e1645669610d313effc8ae2bfe04c86d41280ac95ab20c.mp3",
       "lines": [
@@ -183,7 +183,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "C",
-     "explanation": "对话中提到了喝水，所以对应喝水的图片。",
+     "explanation": "对话中“一天喝八杯水”这一描述与图片C中展示的八杯水场景一致。",
      "audio": {
       "key": "listening/v1/4a6965950564c5f006b556939f00313c7335baeb47130601c02e6710272c7324.mp3",
       "lines": [
@@ -207,7 +207,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "D",
-     "explanation": "对话中提到了苹果和吃，所以对应吃苹果的图片。",
+     "explanation": "对话中说“这个苹果很甜，我吃一个”，表明图片中有一个苹果被吃或展示，对应图片D。",
      "audio": {
       "key": "listening/v1/1f3ead1d1bb794afc390d3eee232bd9f9d2a88449a8081b0ebc7c0218389e5fa.mp3",
       "lines": [
@@ -231,7 +231,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "E",
-     "explanation": "对话中提到了看电视，所以对应看电视的图片。",
+     "explanation": "对话中问'你妈妈在做什么？'，回答'她在看电视'，说明妈妈正在看电视，因此图片E应显示看电视的场景。",
      "audio": {
       "key": "listening/v1/db4ebb2c09361c4ff189284e4cdc0430a317f0eb22891a27d0e8c0dab98d99d3.mp3",
       "lines": [

@@ -15,7 +15,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "A",
-     "explanation": "对话中提到在家看书，与图片A（看书的人）相符。",
+     "explanation": "对话中说“我在家看了一本书”，所以图片应展示在家看书的场景。",
      "audio": {
       "key": "listening/v1/e92e7ff144d4d446bd91eb1b1297cc0ba1bed8afbf73ee2d5e53e30bc8e2de5e.mp3",
       "lines": [
@@ -39,7 +39,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "B",
-     "explanation": "对话提到狗在跑，与图片B（跑动的狗）相符。",
+     "explanation": "对话中提到“那只狗跑得真快！”，说明图片中有一只狗在跑，对应B图片。",
      "audio": {
       "key": "listening/v1/ed9e1d041d31225bfb304a4bc7462dd79aea88751272549741f889338902ab8e.mp3",
       "lines": [
@@ -63,7 +63,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "C",
-     "explanation": "对话提到要一杯茶，与图片C（一杯茶）相符。",
+     "explanation": "对话中男声问‘你想喝什么’，女声回答‘给我一杯茶吧’，因此对应茶的图片。",
      "audio": {
       "key": "listening/v1/6ddc6e42489a89740f14c8ad3be792b58c9f2e04d8dcd9615682e27be336be36.mp3",
       "lines": [
@@ -87,7 +87,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "D",
-     "explanation": "对话提到一家人吃饭，与图片D（家人吃饭）相符。",
+     "explanation": "对话中提到“昨天我们一家人一起吃饭了”，说明图片是一家人一起吃饭的场景。",
      "audio": {
       "key": "listening/v1/041d82be91a816267d8c0913e4c46b57334cfaee2f2b0e894ef7a100a9dc6738.mp3",
       "lines": [
@@ -111,7 +111,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "E",
-     "explanation": "对话提到老师在黑板上写字，与图片E（老师板书）相符。",
+     "explanation": "对话中问到'老师在黑板上写了什么？'并回答'她写了很多生词'，因此对应图片中黑板上写满生词的场景。",
      "audio": {
       "key": "listening/v1/5f702392f7921a637588fce2f60400b4a0981f5c2a3c73c7fae031ce3e2c564d.mp3",
       "lines": [
@@ -135,7 +135,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "A",
-     "explanation": "对话喜欢看书，每天看，与图片A（看书的人）相符。",
+     "explanation": "对话中“喜欢，我每天都会看书”直接表明说话者喜欢并每天阅读，与图片A中人物正在看书的场景匹配。",
      "audio": {
       "key": "listening/v1/364b8a662c5db4feb2f32fc298f04ad14e4aafe54423034ecd81bedf82b31a11.mp3",
       "lines": [
@@ -159,7 +159,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "B",
-     "explanation": "对话提到狗在跑，与图片B（跑动的狗）相符。",
+     "explanation": "对话中说“外面有一只狗，它在跑”，所以对应有一只狗在跑的图片B。",
      "audio": {
       "key": "listening/v1/31df6690bb1c8777ac200d31001c15b909a9927a6dacca081a2c408150ee6a28.mp3",
       "lines": [
@@ -183,7 +183,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "C",
-     "explanation": "对话要一杯热茶，与图片C（一杯茶）相符。",
+     "explanation": "对话中明确提到“茶，我要一杯热的”，因此对应热茶的图片C。",
      "audio": {
       "key": "listening/v1/14f76513bcdacc32dba7dfc6b6cba80a3997d2f3435f7b44f48466fc7208c050.mp3",
       "lines": [
@@ -207,7 +207,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "D",
-     "explanation": "对话提到和家人吃晚饭，与图片D（家人吃饭）相符。",
+     "explanation": "对话中“和家人一起吃饭”与“吃了晚饭”表明是家人共进晚餐的场景，因此匹配图片D。",
      "audio": {
       "key": "listening/v1/35cea8ed604021213b01f7eb5a2b874af61709b0e0caf37e2b4b6fec5e2c85ea.mp3",
       "lines": [
@@ -231,7 +231,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "E",
-     "explanation": "对话提到老师在黑板上写字，与图片E（老师板书）相符。",
+     "explanation": "对话中提到“她在黑板上写字”，因此对应图片E。",
      "audio": {
       "key": "listening/v1/2b7fa9a4bad27455d93b74fd11f264c41632eda820a0b9b2e4da17fdbd3457cb.mp3",
       "lines": [

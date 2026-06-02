@@ -15,7 +15,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "A",
-     "explanation": "对话中女的说自己在跑步，与跑步的人图片相符。",
+     "explanation": "对话中‘我在跑步’表明正在跑步，因此对应图片A。",
      "audio": {
       "key": "listening/v1/3be22f467a24933166339c96386793e7402bc8aa3c0a33360df04b9d7d0d57f3.mp3",
       "lines": [
@@ -39,7 +39,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "B",
-     "explanation": "对话中提到一杯水，与一杯水的图片相符。",
+     "explanation": "对话中说‘一杯水’，所以对应图片B中展示的是一杯水。",
      "audio": {
       "key": "listening/v1/6bc5aceee71403a301bffd20930d4771ce824218baeb5bb8e1ecd7be88beca02.mp3",
       "lines": [
@@ -63,7 +63,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "C",
-     "explanation": "对话中提到了书，与一本书的图片相符。",
+     "explanation": "对话中的人说“这是你的书吗？”和“我喜欢看书”，直接提到了书，因此对应图片C。",
      "audio": {
       "key": "listening/v1/a772d6fdcd01e8a6e088c3932de9c2b1ae61285a9c5aea90e724626a763a7930.mp3",
       "lines": [
@@ -87,7 +87,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "D",
-     "explanation": "对话中提到了苹果，与一个苹果的图片相符。",
+     "explanation": "对话中“你吃苹果吗？吃，给我一个苹果”请求一个苹果，因此图片D显示苹果。",
      "audio": {
       "key": "listening/v1/f3d5c3ba248f0b9e1f9d545c0a19d36704334421494dee722005358aa9713666.mp3",
       "lines": [
@@ -111,7 +111,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "E",
-     "explanation": "对话中提到了猫，与一只猫的图片相符。",
+     "explanation": "对话中问‘你家有猫吗？’，回答‘有，我有一只白猫’，所以对应有白猫的图片E。",
      "audio": {
       "key": "listening/v1/ec96b877b657448088bc0c75eedec2b008aeb7f22d235283a8e2910b52a7972b.mp3",
       "lines": [
@@ -135,7 +135,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "A",
-     "explanation": "对话中谈到跑步，与跑步的人图片相符。",
+     "explanation": "对话中问‘他每天跑步吗’，回答‘是的，他喜欢跑步’，说明此人与跑步相关，因此对应图片A。",
      "audio": {
       "key": "listening/v1/67a8c7645e07a2b2e41d100dee94230caa1f8da115755f2b3b46fb691316a3db.mp3",
       "lines": [
@@ -159,7 +159,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "B",
-     "explanation": "对话中要一杯水，与一杯水的图片相符。",
+     "explanation": "对话中请求“一杯水”，服务员回应“马上来”，图片B展示了一杯水，因此对应。",
      "audio": {
       "key": "listening/v1/5a98dfb703eb95e007e37d744805ff497e1c4ce6a8fca389b32d70a5313c1ac1.mp3",
       "lines": [
@@ -183,7 +183,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "C",
-     "explanation": "对话中提到看书，与一本书的图片相符。",
+     "explanation": "对话中“我在看一本书”表明人物在看书，因此对应图片C（人物看书）。",
      "audio": {
       "key": "listening/v1/0d62c69e91376351ee7debd1af27312500558f9c0098043e67996da547058dfd.mp3",
       "lines": [
@@ -207,7 +207,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "D",
-     "explanation": "对话中提到了苹果，与一个苹果的图片相符。",
+     "explanation": "对话中明确提到'我买了苹果'，因此对应的图片应显示苹果，即标签D。",
      "audio": {
       "key": "listening/v1/86019743856caad95b4e2c6c65052ef44b47c4a66193d62d09a046c47fb99300.mp3",
       "lines": [
@@ -231,7 +231,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "E",
-     "explanation": "对话中提到了猫，与一只猫的图片相符。",
+     "explanation": "对话中明确提到“那只猫很可爱”和“它是我朋友的猫”，表明话题中心是一只猫，因此图片E应展示一只猫。",
      "audio": {
       "key": "listening/v1/0e55c089d4a5764998c8e80eabf583318d137a6802880949af107e0763b84105.mp3",
       "lines": [

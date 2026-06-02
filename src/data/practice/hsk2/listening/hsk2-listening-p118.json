@@ -34,7 +34,7 @@
      "id": "q2",
      "type": "listening-picture-true-false",
      "prompt": "",
-     "correctAnswer": "对",
+     "correctAnswer": "错",
      "explanation": "句子说的是“桌子上有一杯咖啡”，但图片中桌子上是一杯茶，不是咖啡，所以不一致。",
      "audio": {
       "key": "listening/v1/26ddcf2808f89010eaacf2208f8ee7906f67549e940061496fd230ca76e46a1e.mp3",

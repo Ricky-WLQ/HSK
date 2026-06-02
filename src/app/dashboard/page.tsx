@@ -5,6 +5,7 @@ import { getSession } from "@/lib/session";
 import { prisma } from "@/lib/prisma";
 import SignOutButton from "@/components/SignOutButton";
 import ThemeToggle from "@/components/ThemeToggle";
+import FontSizeControl from "@/components/FontSizeControl";
 import OnboardingTour from "@/components/OnboardingTour";
 import { t } from "@/i18n";
 
@@ -36,7 +37,8 @@ export default async function DashboardPage() {
           <Link href="/" className="font-heading text-xl font-extrabold text-gradient-hero">
             {t.app.name}
           </Link>
-          <div className="flex items-center gap-3">
+          <div className="flex items-center gap-2">
+            <FontSizeControl />
             <ThemeToggle />
             <SignOutButton />
           </div>
@@ -65,7 +67,7 @@ export default async function DashboardPage() {
           {t.dashboard.continueLearning}
         </h2>
         <div className="mt-3 grid gap-4 sm:grid-cols-2">
-          <Link href="/vocab" className="card-interactive group flex items-start gap-4 p-6">
+          <Link href="/vocab" data-tour="vocab" className="card-interactive group flex items-start gap-4 p-6">
             <span className="icon-container h-11 w-11 shrink-0 text-primary">
               <BookOpen className="h-5 w-5" />
             </span>
@@ -78,7 +80,7 @@ export default async function DashboardPage() {
             </div>
           </Link>
 
-          <Link href="/grammar" className="card-interactive group flex items-start gap-4 p-6">
+          <Link href="/grammar" data-tour="grammar" className="card-interactive group flex items-start gap-4 p-6">
             <span className="icon-container h-11 w-11 shrink-0 text-primary">
               <Languages className="h-5 w-5" />
             </span>
@@ -91,7 +93,7 @@ export default async function DashboardPage() {
             </div>
           </Link>
 
-          <Link href="/practice" className="card-interactive group flex items-start gap-4 p-6">
+          <Link href="/practice" data-tour="practice" className="card-interactive group flex items-start gap-4 p-6">
             <span className="icon-container h-11 w-11 shrink-0 text-secondary">
               <FileText className="h-5 w-5" />
             </span>
@@ -104,7 +106,7 @@ export default async function DashboardPage() {
             </div>
           </Link>
 
-          <Link href="/exam" className="card-interactive group flex items-start gap-4 p-6">
+          <Link href="/exam" data-tour="exam" className="card-interactive group flex items-start gap-4 p-6">
             <span className="icon-container h-11 w-11 shrink-0 text-secondary">
               <ClipboardCheck className="h-5 w-5" />
             </span>
@@ -117,7 +119,7 @@ export default async function DashboardPage() {
             </div>
           </Link>
 
-          <Link href="/progress" className="card-interactive group flex items-start gap-4 p-6">
+          <Link href="/progress" data-tour="progress" className="card-interactive group flex items-start gap-4 p-6">
             <span className="icon-container h-11 w-11 shrink-0 text-primary">
               <TrendingUp className="h-5 w-5" />
             </span>

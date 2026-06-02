@@ -34,7 +34,7 @@
      "id": "q2",
      "type": "listening-picture-true-false",
      "prompt": "",
-     "correctAnswer": "对",
+     "correctAnswer": "错",
      "explanation": "图片中的杯子里没有水，与句子说的“有一杯水”不符。",
      "audio": {
       "key": "listening/v1/75de6a3c0ea7292645c440cdca208375323654c251a70adc9666ce7f41bcb36b.mp3",

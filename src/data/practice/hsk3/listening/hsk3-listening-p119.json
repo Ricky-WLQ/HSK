@@ -15,7 +15,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "A",
-     "explanation": "对话中提到‘看书’和‘图书馆’，所以图片A一个人在看书的场景正确。",
+     "explanation": "对话中提到“我在看书，图书馆里很安静”，因此对应图书馆看书的图片，即标签A。",
      "audio": {
       "key": "listening/v1/c63cf768e92602fe8212dc382cbb12c19fd6aae90d50a1cc50fd1f0ffbbc13c6.mp3",
       "lines": [
@@ -39,7 +39,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "B",
-     "explanation": "对话中提到‘做饭’，所以图片B一个人在厨房做饭的场景正确。",
+     "explanation": "对话中“我正在做饭呢”表明妈妈在准备晚饭，对应图片B中的人物正在做饭的场景。",
      "audio": {
       "key": "listening/v1/aeacbfe551c469bc8f82e47c7c6661739944ae351affe77e428429d8423210ab.mp3",
       "lines": [
@@ -63,7 +63,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "C",
-     "explanation": "对话中提到‘骑自行车’，所以图片C一个人在骑车的场景正确。",
+     "explanation": "对话中‘我们出去骑自行车吧’和‘我好久没骑车了’表明两人要去骑自行车，因此对应有自行车的图片C。",
      "audio": {
       "key": "listening/v1/2187857611c1b5a51aeb9015a16507090f08096eab7b243686dd6bd624258fc6.mp3",
       "lines": [
@@ -87,7 +87,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "D",
-     "explanation": "对话中提到‘看电视’，所以图片D一个人在沙发上看电视的场景正确。",
+     "explanation": "对话中问‘你在看电视吗？’回答‘是的，这个节目很有趣’，表明对方正在看电视节目，与图片D（显示看电视场景）一致。",
      "audio": {
       "key": "listening/v1/f7f87e8296f45479f6c526304498d71f32d9447b2d5842395371e25afc08ebcf.mp3",
       "lines": [
@@ -111,7 +111,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "E",
-     "explanation": "对话中提到‘写信’，所以图片E一个人在写信的场景正确。",
+     "explanation": "对话中问'你在写什么？'，回答'我在给朋友写信。'，说明正在写信，因此对应图片E。",
      "audio": {
       "key": "listening/v1/8d67b7040ecb2a928295dba3defe0f204c693862369e6072a4c15d28553d3f20.mp3",
       "lines": [
@@ -135,7 +135,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "A",
-     "explanation": "对话中提到‘图书馆看书’，所以图片A一个人看书的场景正确。",
+     "explanation": "对话中明确表示‘我想去图书馆看书’，因此对应图书馆场景的图片A。",
      "audio": {
       "key": "listening/v1/df0fe335e53d2389c0b0b601b85ad8d3101cb25ef0e2a544c7cee21793d51912.mp3",
       "lines": [
@@ -159,7 +159,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "B",
-     "explanation": "对话中提到‘炒菜’，所以图片B一个人在厨房做饭的场景正确。",
+     "explanation": "对话中“等我把菜炒好”说明正在炒菜，对应图片B中的厨房场景。",
      "audio": {
       "key": "listening/v1/6ff6e4e3e6dec6db1048fc16c67addb797b5732abffd2b7f039159d4ec1c979b.mp3",
       "lines": [
@@ -183,7 +183,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "C",
-     "explanation": "对话中提到‘骑自行车’，所以图片C一个人在骑车的场景正确。",
+     "explanation": "对话中提及“我骑自行车去，既环保又锻炼身体”，说明上班方式是骑自行车，因此对应图片C。",
      "audio": {
       "key": "listening/v1/9f90abef89a0e9ac7f2c57b1ba68bdf727fd6f39939847ef740ef2ce2be3ed67.mp3",
       "lines": [
@@ -207,7 +207,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "D",
-     "explanation": "对话中提到‘看电视’，所以图片D一个人在沙发上看电视的场景正确。",
+     "explanation": "对话中“我在家看电视，看到很晚”描述了在家看电视的场景，与图片D中显示的人物看电视内容一致。",
      "audio": {
       "key": "listening/v1/3d52f163f117058d6884a1d20cf5ebde21ae62c084e14c70b2f970e2a49985de.mp3",
       "lines": [
@@ -231,7 +231,7 @@
      "type": "listening-picture-match",
      "prompt": "",
      "correctAnswer": "E",
-     "explanation": "对话中提到‘写信’，所以图片E一个人在写信的场景正确。",
+     "explanation": "对话中'我在写信'说明说话人正在写信，因此对应图片E展示写信场景。",
      "audio": {
       "key": "listening/v1/28e15255372fbe86302322bf05b679b2e80c9016ad1cc6e17ca5ef062fc0ce5b.mp3",
       "lines": [

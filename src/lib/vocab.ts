@@ -40,16 +40,25 @@ const _levels = new Map<string, VocabWord[]>();
 
 export async function getVocabIndex(): Promise<VocabIndex> {
   if (_index) return _index;
-  const raw = await fs.readFile(path.join(VOCAB_DIR, "index.json"), "utf-8");
-  _index = JSON.parse(raw) as VocabIndex;
+  try {
+    const raw = await fs.readFile(path.join(VOCAB_DIR, "index.json"), "utf-8");
+    _index = JSON.parse(raw) as VocabIndex;
+  } catch {
+    _index = { standard: "", source: "", levels: [] };
+  }
   return _index;
 }
 
 export async function getVocabLevel(level: string): Promise<VocabWord[]> {
   const cached = _levels.get(level);
   if (cached) return cached;
-  const raw = await fs.readFile(path.join(VOCAB_DIR, `hsk${level}.json`), "utf-8");
-  const words = JSON.parse(raw) as VocabWord[];
+  let words: VocabWord[] = [];
+  try {
+    const raw = await fs.readFile(path.join(VOCAB_DIR, `hsk${level}.json`), "utf-8");
+    words = JSON.parse(raw) as VocabWord[];
+  } catch {
+    words = []; // missing/corrupt file → graceful empty, never a 500
+  }
   _levels.set(level, words);
   return words;
 }
