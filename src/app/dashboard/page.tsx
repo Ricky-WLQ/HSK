@@ -46,27 +46,27 @@ export default async function DashboardPage() {
       </header>
 
       <main className="container-app py-12">
-        <h1 className="font-heading text-3xl font-extrabold">
+        <h1 className="font-heading text-3xl font-extrabold sm:text-4xl">
           {t.dashboard.welcome}, {user.name || user.email} 👋
         </h1>
-        <p className="mt-1 text-foreground/75">{t.dashboard.subtitle}</p>
+        <p className="mt-2 text-lg text-foreground/75">{t.dashboard.subtitle}</p>
         <div className="mt-1"><OnboardingTour /></div>
 
-        <div className="mt-6 flex flex-wrap gap-3">
-          <div className="card-flat px-5 py-3">
-            <div className="text-2xl font-extrabold text-primary">{mastered.toLocaleString()}</div>
-            <div className="text-xs text-foreground/75">{t.dashboard.masteredWords}</div>
+        <div className="mt-6 grid max-w-md grid-cols-2 gap-3">
+          <div className="card-flat px-5 py-4">
+            <div className="text-3xl font-extrabold text-primary">{mastered.toLocaleString()}</div>
+            <div className="text-sm text-foreground/75">{t.dashboard.masteredWords}</div>
           </div>
-          <div className="card-flat px-5 py-3">
-            <div className="text-2xl font-extrabold text-secondary">{practiceDone.toLocaleString()}</div>
-            <div className="text-xs text-foreground/75">{t.dashboard.practiceDone}</div>
+          <div className="card-flat px-5 py-4">
+            <div className="text-3xl font-extrabold text-secondary">{practiceDone.toLocaleString()}</div>
+            <div className="text-sm text-foreground/75">{t.dashboard.practiceDone}</div>
           </div>
         </div>
 
         <h2 className="mt-10 font-heading text-lg font-bold text-foreground/70">
           {t.dashboard.continueLearning}
         </h2>
-        <div className="mt-3 grid gap-4 sm:grid-cols-2">
+        <div className="mt-3 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
           <Link href="/vocab" data-tour="vocab" className="card-interactive group flex items-start gap-4 p-6">
             <span className="icon-container h-11 w-11 shrink-0 text-primary">
               <BookOpen className="h-5 w-5" />
@@ -175,8 +175,8 @@ export default async function DashboardPage() {
         </div>
 
         <div className="mt-10 flex flex-wrap gap-2 text-sm">
-          <span className="badge badge-primary">
-            {t.dashboard.emailLabel}: {user.email}
+          <span className="badge badge-primary max-w-full">
+            <span className="truncate">{t.dashboard.emailLabel}: {user.email}</span>
           </span>
           <span className={`badge ${role === "teacher" ? "badge-secondary" : "badge-info"}`}>
             {t.dashboard.roleLabel}: {role}

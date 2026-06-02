@@ -23,6 +23,9 @@ export const messages = {
     getStarted: "Get started",
     goToDashboard: "Go to dashboard",
     exploreLevels: "Explore levels",
+    trust: "Official HSK 3.0 format · Pinyin + native audio · AI mock tests & feedback",
+    ctaTitle: "Ready to start learning?",
+    ctaBody: "Create a free account and pick up with vocabulary, practice, or a quick diagnostic.",
     features: {
       vocab: {
         title: "Vocabulary",

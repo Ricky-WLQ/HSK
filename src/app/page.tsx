@@ -42,6 +42,7 @@ export default async function Home() {
               {t.home.exploreLevels}
             </Link>
           </div>
+          <p className="mt-6 text-sm font-semibold text-foreground/65">{t.home.trust}</p>
         </div>
 
         <div className="mt-14 grid gap-4 sm:grid-cols-3">
@@ -57,6 +58,16 @@ export default async function Home() {
             <h3 className="font-heading mb-1 text-lg font-bold">{t.home.features.live.title}</h3>
             <p className="text-sm text-foreground/70">{t.home.features.live.body}</p>
           </div>
+        </div>
+
+        <div className="card-dark mt-14 flex flex-col items-center gap-4 p-8 text-center sm:flex-row sm:justify-between sm:text-left">
+          <div>
+            <h2 className="font-heading text-2xl font-extrabold">{t.home.ctaTitle}</h2>
+            <p className="mt-1 text-white/80">{t.home.ctaBody}</p>
+          </div>
+          <Link href={primaryHref} className="btn-solid btn-solid-primary shrink-0">
+            {signedIn ? t.home.goToDashboard : t.home.getStarted}
+          </Link>
         </div>
       </main>
     </div>
