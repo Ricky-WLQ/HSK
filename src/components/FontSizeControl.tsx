@@ -20,7 +20,7 @@ export default function FontSizeControl() {
   const last = FONT_SCALES.length - 1;
 
   const btn =
-    "flex h-9 min-w-9 items-center justify-center rounded-lg px-2 font-bold text-foreground transition hover:bg-primary-lighter disabled:opacity-30 disabled:hover:bg-transparent";
+    "flex h-11 min-w-11 items-center justify-center rounded-lg px-2 font-bold text-foreground transition hover:bg-primary-lighter disabled:opacity-30 disabled:hover:bg-transparent";
 
   return (
     <div
@@ -39,7 +39,7 @@ export default function FontSizeControl() {
         <span className="text-xs leading-none">A</span>
         <span className="leading-none">−</span>
       </button>
-      <span aria-hidden className="px-1 text-[10px] font-semibold text-foreground/65">
+      <span aria-hidden className="px-1 text-xs font-semibold text-foreground/65">
         {mounted ? `${FONT_SCALES[idx]}%` : "A"}
       </span>
       <button

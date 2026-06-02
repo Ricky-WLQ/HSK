@@ -297,7 +297,7 @@ export default function ExamRunner({ exam }: { exam: AssembledExam }) {
                 <div className="mb-5 rounded-xl bg-surface p-4 text-[15px] leading-relaxed">
                   {group.passage}
                   {showPinyin && group.passagePinyin && (
-                    <div className="mt-1 text-xs text-primary/80">{group.passagePinyin}</div>
+                    <div className="mt-1 text-xs text-primary">{group.passagePinyin}</div>
                   )}
                 </div>
               )}

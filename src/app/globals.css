@@ -22,7 +22,9 @@ body {
   /* ── Core Palette — Warm Educational ── */
   --background: #FFF8F0;
   --foreground: #1A1F36;
-  --primary: #059669;
+  /* primary is used as accent/TEXT color (buttons use --primary-hover for bg); emerald-700 so
+     text-primary / icons meet WCAG AA on the light background (emerald-600 was ~3.9:1) */
+  --primary: #047857;
   --primary-hover: #047857;
   --primary-shadow: #065F46;
   --primary-light: #34D399;
@@ -97,6 +99,8 @@ body {
 .dark {
   --background: #0F172A;
   --foreground: #F1F5F9;
+  /* lighter emerald for accent/TEXT on the dark background (buttons still use --primary-hover bg) */
+  --primary: #34D399;
   --card: #1E293B;
   --card-border: #334155;
   --surface: #1E293B;
@@ -795,9 +799,11 @@ body {
 .chip {
   display: inline-flex;
   align-items: center;
+  justify-content: center;
   gap: 0.375rem;
+  min-height: 2.75rem; /* 44px touch target */
   padding: 0.5rem 1rem;
-  font-size: 0.8125rem;
+  font-size: 0.875rem; /* 14px — readable for low-vision */
   font-weight: 600;
   border-radius: 9999px;
   border: 2px solid var(--card-border);

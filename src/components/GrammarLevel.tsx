@@ -138,7 +138,7 @@ export default function GrammarLevel({
                       <li key={i}>
                         <div className="text-[15px] leading-relaxed">{e.zh}</div>
                         {showPinyin && e.pinyin && (
-                          <div className="text-xs text-primary/80">{e.pinyin}</div>
+                          <div className="text-xs text-primary">{e.pinyin}</div>
                         )}
                         {showEn && e.en && (
                           <div className="text-xs text-foreground/70">{e.en}</div>

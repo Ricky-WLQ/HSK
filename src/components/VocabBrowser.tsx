@@ -169,7 +169,7 @@ function PlayButton({
       disabled={playing}
       aria-label={t.vocab.play}
       title={t.vocab.play}
-      className="icon-container h-9 w-9 shrink-0 text-primary disabled:opacity-50"
+      className="icon-container h-11 w-11 shrink-0 text-primary disabled:opacity-50"
     >
       <Volume2 className={`h-4 w-4 ${playing ? "animate-pulse" : ""}`} />
     </button>

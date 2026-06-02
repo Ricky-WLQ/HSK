@@ -143,7 +143,7 @@ export default function OnboardingTour() {
               }}
             >
               <MousePointer2
-                className={`h-8 w-8 -translate-x-1 -translate-y-1 text-navy drop-shadow-lg ${tap ? "animate-pop" : ""}`}
+                className={`h-11 w-11 -translate-x-1 -translate-y-1 text-navy drop-shadow-lg ${tap ? "animate-pop" : ""}`}
                 fill="white"
                 strokeWidth={1.5}
               />

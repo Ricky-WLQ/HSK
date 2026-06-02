@@ -164,7 +164,7 @@ export default function WritingRunner({ set }: { set: HskPracticeSet }) {
                     <span className="font-semibold text-foreground/70">{qi + 1}.</span>
                     <div className="flex-1">
                       {q.prompt && <div className="leading-relaxed">{q.prompt}</div>}
-                      {q.pinyin && <div className="text-xs text-primary/80">{q.pinyin}</div>}
+                      {q.pinyin && <div className="text-xs text-primary">{q.pinyin}</div>}
                       {q.givenWord && (
                         <div className="mt-1 text-sm">
                           {t.practice.givenWord}: <span className="font-bold text-primary">{q.givenWord}</span>

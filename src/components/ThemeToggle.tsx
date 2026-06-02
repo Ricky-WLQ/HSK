@@ -62,7 +62,7 @@ export default function ThemeToggle() {
   if (!mounted) {
     return (
       <button
-        className="w-9 h-9 flex items-center justify-center rounded-xl border-2 border-card-border border-b-[4px] bg-card shadow-sm"
+        className="w-11 h-11 flex items-center justify-center rounded-xl border-2 border-card-border border-b-[4px] bg-card shadow-sm"
         aria-label="Toggle theme"
       >
         <Monitor className="w-4 h-4 opacity-0" />
@@ -73,7 +73,7 @@ export default function ThemeToggle() {
   return (
     <button
       onClick={handleClick}
-      className={`group/theme w-9 h-9 flex items-center justify-center rounded-xl border-2 border-b-[4px] bg-card shadow-sm active:border-b-2 active:translate-y-0.5 transition-all duration-200 cursor-pointer ${bgColors[theme]}`}
+      className={`group/theme w-11 h-11 flex items-center justify-center rounded-xl border-2 border-b-[4px] bg-card shadow-sm active:border-b-2 active:translate-y-0.5 transition-all duration-200 cursor-pointer ${bgColors[theme]}`}
       aria-label={labels[theme]}
       title={labels[theme]}
     >

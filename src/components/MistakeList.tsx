@@ -106,7 +106,7 @@ export default function MistakeList({ mistakes }: { mistakes: MistakeItem[] }) {
                   {m.analysis.summary && <div className="font-semibold">{m.analysis.summary}</div>}
                   {m.analysis.analysis && <div className="mt-1 text-foreground/70">{m.analysis.analysis}</div>}
                   {(m.analysis.relatedVocab?.length ?? 0) > 0 && (
-                    <div className="mt-1 text-xs text-primary/70">
+                    <div className="mt-1 text-xs text-primary">
                       {t.mistakes.relatedVocab}: {m.analysis.relatedVocab.join("、")}
                     </div>
                   )}

@@ -89,7 +89,7 @@ export default function QuizComposer({ classId }: { classId: string }) {
               {t.live.question} {i + 1}
             </h3>
             {qs.length > 1 && (
-              <button type="button" onClick={() => removeQuestion(i)} aria-label={t.live.removeQuestion} className="btn-ghost h-8 w-8 p-0 text-error">
+              <button type="button" onClick={() => removeQuestion(i)} aria-label={t.live.removeQuestion} className="btn-ghost h-11 w-11 p-0 text-error">
                 <Trash2 className="h-4 w-4" />
               </button>
             )}
@@ -104,7 +104,7 @@ export default function QuizComposer({ classId }: { classId: string }) {
                   onClick={() => update(i, { correct: oi })}
                   aria-label={t.live.correctAnswer}
                   aria-pressed={q.correct === oi}
-                  className={`flex h-9 w-9 shrink-0 items-center justify-center rounded-full border-2 ${
+                  className={`flex h-11 w-11 shrink-0 items-center justify-center rounded-full border-2 ${
                     q.correct === oi ? "border-success bg-success text-white" : "border-card-border"
                   }`}
                 >
@@ -118,7 +118,7 @@ export default function QuizComposer({ classId }: { classId: string }) {
                   maxLength={200}
                 />
                 {q.options.length > 2 && (
-                  <button type="button" onClick={() => removeOption(i, oi)} aria-label={t.live.removeQuestion} className="btn-ghost h-9 w-9 p-0 text-foreground/65">
+                  <button type="button" onClick={() => removeOption(i, oi)} aria-label={t.live.removeQuestion} className="btn-ghost h-11 w-11 p-0 text-foreground/65">
                     <Trash2 className="h-4 w-4" />
                   </button>
                 )}

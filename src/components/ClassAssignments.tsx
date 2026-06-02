@@ -201,7 +201,7 @@ export default function ClassAssignments({
                   type="button"
                   onClick={() => handleDelete(a.id)}
                   aria-label={t.assignments.delete}
-                  className="btn-ghost flex h-9 w-9 items-center justify-center p-0 text-error"
+                  className="btn-ghost flex h-11 w-11 items-center justify-center p-0 text-error"
                 >
                   <Trash2 className="h-4 w-4" />
                 </button>

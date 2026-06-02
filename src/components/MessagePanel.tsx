@@ -86,7 +86,7 @@ export default function MessagePanel({
               >
                 {!m.mine && <div className="text-xs font-semibold opacity-70">{m.authorName}</div>}
                 <div className="whitespace-pre-wrap break-words text-sm">{m.body}</div>
-                <div className={`mt-0.5 text-[10px] ${m.mine ? "text-white/70" : "text-foreground/65"}`}>
+                <div className={`mt-0.5 text-xs ${m.mine ? "text-white/70" : "text-foreground/65"}`}>
                   {new Date(m.createdAt).toISOString().slice(0, 16).replace("T", " ")}
                 </div>
               </div>

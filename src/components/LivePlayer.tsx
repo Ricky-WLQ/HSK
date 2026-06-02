@@ -45,7 +45,7 @@ export default function LivePlayer({ sessionId }: { sessionId: string }) {
 
       {state.status === "waiting" && (
         <div className="card-elevated p-10 text-center">
-          <Hourglass className="mx-auto h-8 w-8 text-primary" />
+          <Hourglass className="mx-auto h-11 w-11 text-primary" />
           <p className="mt-3 text-lg font-semibold">{t.live.waitingTeacher}</p>
         </div>
       )}
