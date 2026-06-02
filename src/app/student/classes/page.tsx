@@ -145,7 +145,7 @@ export default async function StudentClassesPage() {
                       {s.maxParticipants > 1 ? ` · ${s.booked}/${s.maxParticipants} ${t.schedule.booked}` : " · 1:1"}
                     </div>
                   </div>
-                  <div className="flex shrink-0 items-center gap-2">
+                  <div className="flex flex-wrap items-center gap-2">
                     {s.mine && (
                       <Link href={`/call/${s.id}`} className="btn-solid btn-solid-primary">
                         <Video className="h-4 w-4" /> {t.schedule.join}

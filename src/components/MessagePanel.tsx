@@ -22,6 +22,7 @@ export default function MessagePanel({
   const [loading, setLoading] = useState(true);
   const [text, setText] = useState("");
   const [sending, setSending] = useState(false);
+  const [error, setError] = useState<string | null>(null);
   const endRef = useRef<HTMLDivElement>(null);
 
   const url = studentId
@@ -54,6 +55,7 @@ export default function MessagePanel({
     const body = text.trim();
     if (!body || sending) return;
     setSending(true);
+    setError(null);
     try {
       const res = await fetch(`/api/classes/${classId}/messages`, {
         method: "POST",
@@ -63,7 +65,11 @@ export default function MessagePanel({
       if (res.ok) {
         setText("");
         await load();
+      } else {
+        setError(t.auth.genericError);
       }
+    } catch {
+      setError(t.auth.genericError);
     } finally {
       setSending(false);
     }
@@ -96,7 +102,8 @@ export default function MessagePanel({
         <div ref={endRef} />
       </div>
       {canPost && (
-        <form onSubmit={send} className="flex items-end gap-2 border-t border-card-border p-3">
+        <div className="border-t border-card-border">
+        <form onSubmit={send} className="flex items-end gap-2 p-3">
           <label htmlFor={`msg-${studentId ?? "ann"}`} className="sr-only">
             {t.messages.placeholder}
           </label>
@@ -113,6 +120,12 @@ export default function MessagePanel({
             <Send className="h-4 w-4" /> {sending ? t.messages.sending : t.messages.send}
           </button>
         </form>
+        {error && (
+          <p role="alert" className="px-3 pb-3 text-sm font-semibold text-error">
+            {error}
+          </p>
+        )}
+        </div>
       )}
     </div>
   );
