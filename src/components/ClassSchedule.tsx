@@ -1,7 +1,8 @@
 "use client";
 
 import { useState } from "react";
-import { CalendarClock, Plus, Users, Trash2 } from "lucide-react";
+import Link from "next/link";
+import { CalendarClock, Plus, Users, Trash2, Video } from "lucide-react";
 import LocalTime from "@/components/LocalTime";
 import { t } from "@/i18n";
 
@@ -129,6 +130,9 @@ export default function ClassSchedule({ classId, initial }: { classId: string; i
                 <span className="badge badge-primary flex items-center gap-1">
                   <Users className="h-3.5 w-3.5" /> {s.booked}/{s.maxParticipants}
                 </span>
+                <Link href={`/call/${s.id}`} className="btn-solid btn-solid-primary shrink-0">
+                  <Video className="h-4 w-4" /> {t.schedule.join}
+                </Link>
                 <button type="button" onClick={() => cancel(s.id)} aria-label={t.schedule.cancelSession} className="btn-ghost h-9 w-9 p-0 text-error">
                   <Trash2 className="h-4 w-4" />
                 </button>

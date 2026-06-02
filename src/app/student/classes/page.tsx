@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { ArrowLeft, Users, GraduationCap, ClipboardList, CheckCircle2, ArrowRight, MessagesSquare, CalendarClock } from "lucide-react";
+import { ArrowLeft, Users, GraduationCap, ClipboardList, CheckCircle2, ArrowRight, MessagesSquare, CalendarClock, Video } from "lucide-react";
 import { requireSession } from "@/lib/session";
 import { getStudentClasses } from "@/lib/classes";
 import { getStudentAssignments } from "@/lib/assignments";
@@ -145,7 +145,14 @@ export default async function StudentClassesPage() {
                       {s.maxParticipants > 1 ? ` · ${s.booked}/${s.maxParticipants} ${t.schedule.booked}` : " · 1:1"}
                     </div>
                   </div>
-                  <BookButton sessionId={s.id} mine={s.mine} full={!s.mine && s.booked >= s.maxParticipants} />
+                  <div className="flex shrink-0 items-center gap-2">
+                    {s.mine && (
+                      <Link href={`/call/${s.id}`} className="btn-solid btn-solid-primary">
+                        <Video className="h-4 w-4" /> {t.schedule.join}
+                      </Link>
+                    )}
+                    <BookButton sessionId={s.id} mine={s.mine} full={!s.mine && s.booked >= s.maxParticipants} />
+                  </div>
                 </li>
               ))}
             </ul>

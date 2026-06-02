@@ -458,7 +458,15 @@ export const messages = {
     confirmCancel: "Cancel this session? Students will lose their booking.",
     min: "min",
     yourSessions: "Upcoming live classes",
-    videoSoon: "Video room opens at class time (coming soon).",
+    videoSoon: "Join the video room from the session when it's class time.",
+    join: "Join call",
+  },
+  call: {
+    title: "Live class",
+    connecting: "Connecting to the class…",
+    failed: "Couldn't connect. Please refresh and try again.",
+    forbidden: "This class isn't available to you — you need to be the teacher or have a booked seat.",
+    back: "Back",
   },
 } as const;
 

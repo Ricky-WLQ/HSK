@@ -9,7 +9,7 @@ const nextConfig: NextConfig = {
   // better-auth is server-only and pulls in optional DB adapters (kysely, etc.)
   // that ship as CommonJS — bundling them trips webpack's strict ESM analysis,
   // so we require them at runtime instead.
-  serverExternalPackages: ["@prisma/client", "prisma", "better-auth", "edge-tts-universal"],
+  serverExternalPackages: ["@prisma/client", "prisma", "better-auth", "edge-tts-universal", "livekit-server-sdk"],
   experimental: {
     // Build-node memory guard. Next derives its build worker count from
     // `os.cpus().length - 1` (config-shared.js), which on Zeabur's Lightsail node
