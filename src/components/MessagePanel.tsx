@@ -3,6 +3,7 @@
 import { useCallback, useEffect, useRef, useState } from "react";
 import { Send, Loader2 } from "lucide-react";
 import { t } from "@/i18n";
+import LocalTime from "@/components/LocalTime";
 
 type Msg = { id: string; body: string; authorId: string; authorName: string; mine: boolean; createdAt: string };
 
@@ -98,7 +99,7 @@ export default function MessagePanel({
                 {!m.mine && <div className="text-sm font-semibold opacity-80">{m.authorName}</div>}
                 <div className="whitespace-pre-wrap break-words text-sm">{m.body}</div>
                 <div className={`mt-0.5 text-xs ${m.mine ? "text-white/80" : "text-foreground/65"}`}>
-                  {new Date(m.createdAt).toISOString().slice(0, 16).replace("T", " ")}
+                  <LocalTime iso={m.createdAt} />
                 </div>
               </div>
             </div>

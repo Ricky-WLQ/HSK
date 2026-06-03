@@ -7,6 +7,7 @@ import { levelLabel } from "@/lib/levels";
 import SignOutButton from "@/components/SignOutButton";
 import ThemeToggle from "@/components/ThemeToggle";
 import FontSizeControl from "@/components/FontSizeControl";
+import LocalTime from "@/components/LocalTime";
 import { t } from "@/i18n";
 
 export const dynamic = "force-dynamic";
@@ -58,7 +59,7 @@ export default async function AssignmentDetailPage({
               {a.target && <span className="badge badge-primary">{levelLabel(a.target.level)}</span>}
               {a.dueDate && (
                 <span className="badge">
-                  {t.assignments.dueLabel}: {new Date(a.dueDate).toISOString().slice(0, 16).replace("T", " ")}
+                  {t.assignments.dueLabel}: <LocalTime iso={a.dueDate} />
                 </span>
               )}
             </div>
@@ -94,7 +95,7 @@ export default async function AssignmentDetailPage({
                   )}
                   {r.completedAt && (
                     <span className="text-foreground/70">
-                      {t.assignments.completedOn} {new Date(r.completedAt).toISOString().slice(0, 10)}
+                      {t.assignments.completedOn} <LocalTime iso={r.completedAt} dateOnly />
                     </span>
                   )}
                   <span className={`badge ${STATUS_BADGE[r.status]} inline-flex items-center gap-1`}>

@@ -103,7 +103,7 @@ export default async function StudentClassesPage() {
                     </div>
                     <div className="mt-0.5 flex flex-wrap gap-x-4 text-sm text-foreground/70">
                       <span>{t.assignments.fromClass}: {a.className}</span>
-                      <span>{t.assignments.dueLabel}: {a.dueDate ? new Date(a.dueDate).toISOString().slice(0, 10) : t.assignments.noDue}</span>
+                      <span>{t.assignments.dueLabel}: {a.dueDate ? <LocalTime iso={a.dueDate} dateOnly /> : t.assignments.noDue}</span>
                       {a.status === "completed" && a.score != null && (
                         <span className="font-semibold text-success">{t.assignments.score}: {a.score}%</span>
                       )}

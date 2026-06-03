@@ -5,6 +5,7 @@ import Link from "next/link";
 import { ClipboardList, Plus, Trash2, BarChart3 } from "lucide-react";
 import { CLASS_LEVELS, levelLabel } from "@/lib/levels";
 import { t } from "@/i18n";
+import LocalTime from "@/components/LocalTime";
 
 type AssignmentType = "practice" | "grammar" | "mock" | "diagnostic";
 const TYPES: AssignmentType[] = ["practice", "grammar", "mock", "diagnostic"];
@@ -185,7 +186,7 @@ export default function ClassAssignments({
                 </div>
                 {a.dueDate && (
                   <div className="text-sm text-foreground/70">
-                    {t.assignments.dueLabel}: {new Date(a.dueDate).toISOString().slice(0, 16).replace("T", " ")}
+                    {t.assignments.dueLabel}: <LocalTime iso={a.dueDate} />
                   </div>
                 )}
               </div>

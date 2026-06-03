@@ -10,6 +10,7 @@ import { levelLabel } from "@/lib/levels";
 import SignOutButton from "@/components/SignOutButton";
 import ThemeToggle from "@/components/ThemeToggle";
 import FontSizeControl from "@/components/FontSizeControl";
+import LocalTime from "@/components/LocalTime";
 import InviteCodeBadge from "@/components/InviteCodeBadge";
 import ClassAssignments, { type AssignmentRow, type SetMeta } from "@/components/ClassAssignments";
 import { t } from "@/i18n";
@@ -112,7 +113,7 @@ export default async function ClassRosterPage({
                   <div className="truncate text-sm text-foreground/70">{m.student.email}</div>
                 </div>
                 <span className="text-sm text-foreground/70">
-                  {t.teacher.joined} {new Date(m.joinedAt).toISOString().slice(0, 10)}
+                  {t.teacher.joined} <LocalTime iso={m.joinedAt} dateOnly />
                 </span>
               </li>
             ))}
