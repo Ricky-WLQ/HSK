@@ -36,7 +36,9 @@ export default function VideoCall({ sessionId }: { sessionId: string }) {
   return (
     <div
       data-lk-theme="default"
-      style={{ height: "76vh" }}
+      // dvh tracks the real visible viewport (mobile browser chrome); cap + floor keep
+      // the stage usable on very short and very tall screens.
+      style={{ height: "min(80dvh, 820px)", minHeight: "360px" }}
       className="overflow-hidden rounded-2xl border-2 border-card-border"
     >
       <LiveKitRoom token={conn.token} serverUrl={conn.url} connect audio video style={{ height: "100%" }}>

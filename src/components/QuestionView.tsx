@@ -71,7 +71,7 @@ export default function QuestionView({
         <div className="my-2 grid grid-cols-2 gap-2 sm:grid-cols-4">
           {q.images.map((src, i) => (
             // eslint-disable-next-line @next/next/no-img-element
-            <img key={i} src={src} alt={`${t.practice.picture} ${i + 1}`} className="rounded-lg border border-card-border object-cover" />
+            <img key={i} src={src} alt={`${t.practice.picture} ${i + 1}`} className="aspect-square w-full rounded-lg border border-card-border object-cover" />
           ))}
         </div>
       )}

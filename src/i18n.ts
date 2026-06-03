@@ -403,6 +403,7 @@ export const messages = {
     sendError: "Couldn't send — please try again.",
     noMessages: "No messages yet — say hello!",
     noAnnouncements: "No announcements yet.",
+    unread: "unread messages",
     noStudents: "No students have joined yet. Share the invite code first.",
     backToClass: "Back to class",
     open: "Messages",

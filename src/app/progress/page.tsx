@@ -96,12 +96,12 @@ export default async function ProgressPage() {
                 <h2 className="mb-4 font-heading text-lg font-bold">{t.progress.byLevel}</h2>
                 <div className="space-y-3">
                   {s.byLevel.map((lv) => (
-                    <div key={lv.level} className="flex items-center justify-between">
-                      <div>
+                    <div key={lv.level} className="flex items-center justify-between gap-2">
+                      <div className="flex min-w-0 flex-wrap items-center gap-x-2">
                         <span className="font-semibold">HSK {lv.level}</span>
-                        <span className="ml-2 badge badge-info">{levelBand(lv.level)}</span>
+                        <span className="badge badge-info">{levelBand(lv.level)}</span>
                       </div>
-                      <span className="text-sm text-foreground/75">
+                      <span className="shrink-0 whitespace-nowrap text-sm text-foreground/75">
                         {lv.attempts} {t.progress.attempts} · {pct(lv.accuracy)}%
                       </span>
                     </div>

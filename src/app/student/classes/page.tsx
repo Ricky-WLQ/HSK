@@ -185,7 +185,11 @@ export default async function StudentClassesPage() {
                   className="btn-solid btn-solid-outline mt-1 self-start"
                 >
                   <MessagesSquare className="h-4 w-4" /> {t.messages.open}
-                  {unreadByClass[c.id] > 0 && <span className="badge badge-error ml-1">{unreadByClass[c.id]}</span>}
+                  {unreadByClass[c.id] > 0 && (
+                    <span className="badge badge-error ml-1" aria-label={`${unreadByClass[c.id]} ${t.messages.unread}`}>
+                      {unreadByClass[c.id]}
+                    </span>
+                  )}
                 </Link>
               </div>
             ))}
