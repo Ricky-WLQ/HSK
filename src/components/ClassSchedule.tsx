@@ -146,12 +146,15 @@ export default function ClassSchedule({ classId, initial }: { classId: string; i
                     <Video className="h-4 w-4" /> {t.schedule.join}
                   </Link>
                 ) : (
-                  <span
-                    className="btn-solid btn-solid-outline shrink-0 cursor-not-allowed opacity-60"
+                  <button
+                    type="button"
+                    disabled
+                    className="btn-solid btn-solid-outline shrink-0"
                     title={t.schedule.videoSoon}
+                    aria-label={`${t.schedule.join} — ${t.schedule.videoSoon}`}
                   >
                     <Video className="h-4 w-4" /> {t.schedule.join}
-                  </span>
+                  </button>
                 )}
                 <button type="button" onClick={() => cancel(s.id)} aria-label={t.schedule.cancelSession} className="btn-ghost h-11 w-11 p-0 text-error">
                   <Trash2 className="h-4 w-4" />
