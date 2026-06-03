@@ -134,7 +134,7 @@ export default function ClassSchedule({ classId, initial }: { classId: string; i
                   {s.durationMin} {t.schedule.min} · {s.maxParticipants === 1 ? "1:1" : `${t.schedule.capacity} ${s.maxParticipants}`}
                 </div>
               </div>
-              <div className="flex items-center gap-2">
+              <div className="flex flex-wrap items-center justify-end gap-2">
                 <span className="badge badge-primary flex items-center gap-1">
                   <Users className="h-3.5 w-3.5" /> {s.booked}/{s.maxParticipants}
                 </span>

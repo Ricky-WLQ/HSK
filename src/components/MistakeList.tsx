@@ -154,7 +154,7 @@ export default function MistakeList({ mistakes }: { mistakes: MistakeItem[] }) {
                 )}
                 <Link
                   href={`/practice/${m.level}/${m.section}/${m.contentId}`}
-                  className="btn-ghost flex items-center gap-1 text-sm"
+                  className="btn-ghost ml-auto flex items-center gap-1 text-sm"
                 >
                   <RotateCcw className="h-3.5 w-3.5" /> {t.mistakes.retry}
                 </Link>

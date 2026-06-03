@@ -53,7 +53,7 @@ export default function VocabBrowser({ words }: { words: VocabWord[] }) {
       <div className="mb-5 flex flex-wrap items-center gap-3">
         <input
           type="search"
-          className="input-clay max-w-sm flex-1"
+          className="input-clay min-w-[12rem] max-w-sm flex-1"
           placeholder={t.vocab.search}
           aria-label={t.vocab.search}
           value={q}
